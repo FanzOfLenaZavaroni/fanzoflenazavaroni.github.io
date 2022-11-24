@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  {%- include google-analytics.html -%}
+
+<body>
+
+<article>
+
+  <header class="post-header">
+    <h1 id="showMe" class="center-text"><a href="/onthisday/11/11-04+comments">Link to the standard "On This Day" page for the 4 November</a></h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
+  </body>
+</html>
+
+<style>
+.center-text {text-align: center;}
+
+#showMe {
+  animation: cssAnimation 0s 8s forwards;
+  visibility: hidden;
+}
+
+@keyframes cssAnimation {
+  to   { visibility: visible; }
+}
+</style>
+
