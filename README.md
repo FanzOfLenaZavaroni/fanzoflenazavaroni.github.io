@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Delete build-deploy.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4969675bbf888ffacecd1e8152bcfdf719228046)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fc040e48460f765b78e7f3cd8f87618a900aefc3)
-- [Update build-deploy.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3d85bee6189fb63295b2dc2864be362c18a1340e)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6043b7820a8f1154add60c4d35d0981614eb6259)
-- [Update 1996-12-15-kids-glorious-kids.md, 1999-10-05-more-media-news-o…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c3c3048665d906b332fb98cb8e7800c682a86c8c)
+- [Update announcements.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/208017342a0e377a2c2b3c4d2ab21d2d11bbbce0)
+- [Update .gitignore, bootstrap, and 3 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c5212654fc31235fa443f2e0a54be71edc50fe9a)
+- [Update 1974-alle-13-goed-deel-7.md, 1974-lena-zavaroni-star-for-milli…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b57c6881b6cdd55b9578a907cdccd0011304a3d6)
+- [Update style.scss, 140903318X-2014.jpg, and 890 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/339c2f11bfa5a96379d4589d09432800a5fa5dab)
+- [Update 01-01.md, 01-02.md, and 366 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/728633bc24f2e8a2875b182855c1476688897f20)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
