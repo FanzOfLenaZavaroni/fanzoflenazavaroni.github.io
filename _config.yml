@@ -1,0 +1,119 @@
+title: Fanz of Lena Zavaroni
+author:
+  name: Fanz of Lena Zavaroni by Robcamstone
+description: >- # this means to ignore newlines until "baseurl:"
+  This is a fan made website and is not endorse by Lena Zavaroni's family or friends.
+
+show_excerpts: true # set to true to show excerpts on the homepage or to false to hide excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%-d %B %Y"
+  skin: classic
+
+# generate social links in footer
+  social_links:
+    # twitter: N/A
+    github:  FanzOfLenaZavaroni
+    rss: rss
+    # dribbble: N/A
+    # facebook: N/A
+    # flickr:   N/A
+    # instagram: N/A
+    # linkedin: N/A
+    # pinterest: N/A
+    # youtube: FanzOfLenaZavaroni
+    youtube_channel: UCTcpqllbI3ir8AlUT3RnO_g
+    youtube_channel_name: Fanz of Lena Zavaroni
+    # telegram: N/A
+    # microdotblog: N/A
+
+    # Mastodon instances
+    # mastodon:
+    # - username: N/A
+    #   instance: example.com
+    # - username: N/A
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+   - posts.md
+   - biographies.md
+   - discography.md
+   - onthisday.md
+   - more.md
+
+collections_dir: my-collections
+collections:
+   discography:
+    output: true
+    permalink: /discography/:name
+   studio-albums:
+      output: true
+      permalink: /discography/studio-albums/:name
+   compilation-albums:
+      output: true
+      permalink: /discography/compilation-albums/:name
+   publicity:
+      output: true
+      permalink: /publicity/:name
+   singles:
+      output: true
+      permalink: /discography/singles/:name
+   spoken-words:
+      output: true
+      permalink: /discography/spoken-words/:name
+   sheet-music:
+         output: true
+         permalink: /discography/sheet-music/:name
+   tribute-songs:
+      output: true
+      permalink: /discography/tribute-songs/:name
+   karaoke:
+      output: true
+      permalink: /discography/karaoke/:name
+   podcasts:
+      output: true
+      permalink: /discography/podcasts/:name
+   miscellaneous:
+      output: true
+      permalink: /more/:name
+
+# Front Matter Defaults
+defaults:
+  -
+    values:
+      post_description: "Clicking on the above link will take you to the full article as normal."
+
+# Feed Settings: excerpt_only: true or false
+feed:
+  posts_limit: 10
+  excerpt_only: true
+
+# Build settings
+timezone: Europe/London
+markdown: kramdown
+theme: minima
+permalink: /:year-:month-:day-:title/
+future: true
+
+# Plugins
+plugins:
+ - jemoji
+ - jekyll-feed
+ - jekyll-sitemap
+ - jekyll-seo-tag
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
