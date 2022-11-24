@@ -1,0 +1,1 @@
+If you discover a security issue in this repository, please submit it via the [Issues Security Report](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/issues/new?assignees=&labels=security&template=security_report.md&title=)
