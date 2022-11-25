@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Delete codeql-analysis.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fea8458cd28f8f5f1257f81e9605dea51b26af3f)
+- [Create codeql.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7299817160621378a83ac26c5d15d0b921e8f981)
+- [Update discography.html, page.html, and 3 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ae608455a064a5c0a71708dccdd9ac6420acdb38)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/89fea7e14fbb258471cffc8bc4f5791c266ccf41)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6b3e53f1b3c47c782bf952589e0b9ce484ae7f4e)
-- [Update announcements.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/208017342a0e377a2c2b3c4d2ab21d2d11bbbce0)
-- [Update .gitignore, bootstrap, and 3 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c5212654fc31235fa443f2e0a54be71edc50fe9a)
-- [Update 1974-alle-13-goed-deel-7.md, 1974-lena-zavaroni-star-for-milli…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b57c6881b6cdd55b9578a907cdccd0011304a3d6)
-- [Update style.scss, 140903318X-2014.jpg, and 890 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/339c2f11bfa5a96379d4589d09432800a5fa5dab)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
