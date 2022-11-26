@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4384751d628b07446d0a5ba6034fdc57624477f8)
 - [Delete codeql-analysis.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fea8458cd28f8f5f1257f81e9605dea51b26af3f)
 - [Create codeql.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7299817160621378a83ac26c5d15d0b921e8f981)
 - [Update discography.html, page.html, and 3 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ae608455a064a5c0a71708dccdd9ac6420acdb38)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/89fea7e14fbb258471cffc8bc4f5791c266ccf41)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6b3e53f1b3c47c782bf952589e0b9ce484ae7f4e)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
