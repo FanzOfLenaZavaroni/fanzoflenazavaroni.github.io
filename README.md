@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1999-10-01-orphaned-comments.md, 1999-10-03-orphaned-comments.…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/eaa131105132ab63da979f95b0da9f59e65e4968)
+- [Update 1999-10-01-orphaned-comments.md, 1999-10-03-orphaned-comments.…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/83a96422f7995bb0feb9e055a9bae4a44c60f49e)
+- [Update 10-01.md and 10-03.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f00cf0c9859073cf8e627e53afb53280d5744cd0)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9c88c0cdfc25e35242bdebc2858bfc1969ebb082)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7a2cf13af2129d68fe56d1cac05a108a7d37533a)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4384751d628b07446d0a5ba6034fdc57624477f8)
-- [Delete codeql-analysis.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fea8458cd28f8f5f1257f81e9605dea51b26af3f)
-- [Create codeql.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7299817160621378a83ac26c5d15d0b921e8f981)
-- [Update discography.html, page.html, and 3 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ae608455a064a5c0a71708dccdd9ac6420acdb38)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
