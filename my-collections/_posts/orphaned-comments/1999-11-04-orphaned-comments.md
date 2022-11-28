@@ -22,6 +22,7 @@ categories: [Orphaned Comments, OnThisDay4November]
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/56027699" class="shape"/>From <a class="link" href="https://github.com/Cjones85">Cjones85</a> - Date 4 November 2019 at 13:31:21 GMT</p>
 <p>Subject: <a class="link" href="/onthisday/11/11-04+comments">Re: [FanzOfLenaZavaroni/fanzoflenazavaroni.github.io] onthisday/11/11-04 (#22)</a></p>
+<p>Comment:</p>
 <p>Happy Birthday Lena. It sucks that you left us so early. Who knows what you could have added to music if you were still here. Im going to be 35 in a few months. Same age you were when you died. 35 is way to young. You never got a chance to live. My dearl lena, today is a day not to mourn your loss but to celebrate your life and the gift you brought to the world. Its just so hard to celebrate your life when we know you didnt really get to live one and you made the ultimate sacrifice to bring to the world your gift. From a fan and a friend to you Lena, you reminded me that I can feel. That im not dead inside. Your music has touched my life in so many positive ways. I wouldnt know where to even begin. Thank you Lena. God speed. Rest in peace Angel. 💙</p>
 </div>
 

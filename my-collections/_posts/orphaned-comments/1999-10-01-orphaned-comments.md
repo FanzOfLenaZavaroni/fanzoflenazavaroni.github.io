@@ -22,6 +22,7 @@ categories: [Orphaned Comments, OnThisDay1October]
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/56027699" class="shape"/>From <a class="link" href="https://github.com/Cjones85">Cjones85</a> - Date 1 October 2019 at 12:44:24 BST</p>
 <p>Subject: <a class="link" href="/onthisday/10/10-01/">Re: [FanzOfLenaZavaroni/fanzoflenazavaroni.github.io] onthisday/10/10-01 (#13)</a></p>
+<p>Comment:</p>
 <p>Lena, you had a hard life. A brief life. You brought happiness to alot of people but struggeled to find your own. You suffered miserably up until the end. 20 years ago today you passed. Today as sad as it is you have been largely forgotten by the world. The people that own your career refuse to release anything to the public. All you wanted to do was sing.</p>
 <p>You still have a loyal group of fans out there that want to hear you sing. They myself included celebrate your life and career every day. We miss you. We love you dear Lena. Rest in peace lovely lena.</p>
 </div>
