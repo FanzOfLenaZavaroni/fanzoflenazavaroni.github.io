@@ -8,7 +8,7 @@ description: Lena appears in a comedy sketch with Des, and performs Some Of Thes
 media: London Weekend Television
 post_description: Lena appears in a comedy sketch with Des, and performs Some Of These Days.
 image: /assets/images/ATV/1976-06-04-OnThizDay.jpg
-categories: [London Weekend Television, OnThisDay4June]
+categories: [London Weekend Television, OnThisDay4June, OnThisDay3September]
 --
 <figure class="fig3">
 Lena appears in a comedy sketch with Des, and performs Some Of These Days.

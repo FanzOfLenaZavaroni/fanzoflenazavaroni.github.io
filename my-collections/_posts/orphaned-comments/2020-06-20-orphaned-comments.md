@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Orphaned Comments &#124; 3 October 1999
+title: Orphaned Comments &#124; 20 June 2020
 maintitle: Orphaned Comments
-subtitle: OnThisDay 3 October
-description: 3 October 1999
-post_description: 3 October 1999
-categories: [Orphaned Comments, OnThisDay3October]
+subtitle: OnThisDay 4 June
+description: 20 June 2020
+post_description: 20 June 2020
+categories: [Orphaned Comments, OnThisDay20June]
 ---
 
 <div class="discussions">
@@ -20,10 +20,11 @@ categories: [Orphaned Comments, OnThisDay3October]
 <h3 id="orphaned"><a href="#orphaned">Orphaned Comment(s)</a></h3>
 
 <div class="discussions">
-<p><img src="https://avatars.githubusercontent.com/u/56027699" class="shape"/>From <a class="link" href="https://github.com/Cjones85">Cjones85</a> - Date 4 October 2019 at 00:25:53 BST</p>
-<p>Subject: <a class="link" href="/onthisday/10/10-03/">Re: [FanzOfLenaZavaroni/fanzoflenazavaroni.github.io] onthisday/10/10-03 (#15)</a></p>
+<p><img src="https://avatars.githubusercontent.com/u/54290841" class="shape"/>From <a class="link" href="https://github.com/StephenMolloy1">Stephen Molloy</a> - Date 20 June 2020 at 17:45:07 BST</p>
+<p>Subject: <a class="link" href="/1982-09-11-the-lena-zavaroni-show/">Re: [FanzOfLenaZavaroni/fanzoflenazavaroni.github.io] 1982-09-11-the-lena-zavaroni-show (#44)</a></p>
 <p>Comment:</p>
-<p>No. What killed Lena was apathy and greed. Her manager was apathetic to the little girl and saw Lena as only a paycheque. She put Lena on diets and stuffed her into clothes made for girls half her age only to make Lena look younger than she was so she will get more work. Clearly this led to body image issues. Instead of getting Lena help she just kept working Lena until she was too sick to work. Dorothy was a greedy witch as well. She worked Lena as much as possible and stole the money Lena worked for. I place blame squarely on tge shoulders of Dorothy and Victor, Lenas dad. Greed and apathy killed Lena.</p>
+<p>Found on a local facebook page. She did indeed cancel due to ill health, and The Bachelors stood in for her.</p>
+<p><a href="https://www.facebook.com/photo.php?fbid=4751383516114&set=p.4751383516114&type=1&theater">https://www.facebook.com/photo.php?fbid=4751383516114&set=p.4751383516114&type=1&theater</a></p>
 </div>
 
 <style>
@@ -42,3 +43,4 @@ categories: [Orphaned Comments, OnThisDay3October]
     margin: 0px 8px 0px 0px;
 }
 </style>
+
