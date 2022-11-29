@@ -12,9 +12,6 @@ categories: [Theatre, Alexandra Theatre, Birmingham, OnThisDay23December]
 
 <figure class="fig1">
 <img src="/assets/images/theatres/1981-babes-in-the-wood-pantomime-flyer.jpg" class="full-width">
-<figcaption>
-  <p>Please read the <a href="#comments">Comments</a> below concerning the closing night.</p>
-</figcaption>
 </figure>
 
 <figure class="fig2">
@@ -31,7 +28,6 @@ categories: [Theatre, Alexandra Theatre, Birmingham, OnThisDay23December]
 <tr><th>Director</th><td>Roger Redfarn</td></tr>
 <tr><th>production company</th><td>Triumph Productions</td></tr>
 <tr><th>Article</th><td><a href="https://www.jeffreyholland.co.uk/babes-in-the-woods-1981">jeffreyholland.co.uk</a></td></tr>
-<tr><td colspan="2">Updated URL for Jeffrey Holland Website. Since the website has been updated it no longer shows the dates for the shows opening and closing nights and it is currently showing the wrong flyer.</td></tr>
 </table>
 </figcaption>
 </figure>
