@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1999-10-01-orphaned-comments.md and 1980-11-13-diamond-cabaret…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0638ab5d21e09428395c618eacb15b47d1c5b2e3)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c04a83d2266b868c8504d7c7b4bccecb116192ab)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f2c975f93e2683da6c9747744a377661bee6e9c8)
 - [Update 1999-10-01-orphaned-comments.md, 1999-10-03-orphaned-comments.…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fa2764dca88df286920f2e4d2020bf588f569d05)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8b75dbc380ab718b56f1674589e41c1df2861e74)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/35131083f1ae54eb6e503d2cb751836e222abde6)
-- [Update 1999-10-01-orphaned-comments.md, 1999-10-03-orphaned-comments.…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/eaa131105132ab63da979f95b0da9f59e65e4968)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
