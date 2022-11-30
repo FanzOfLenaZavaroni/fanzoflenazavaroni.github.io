@@ -31,7 +31,8 @@ categories: [Orphaned Comments, OnThisDay1October]
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/56027699" class="shape"/>From <a class="link" href="https://github.com/Cjones85">Cjones85</a> - Date 1 October 2019 at 23:43:18 BST</p>
 <p>Subject: <a class="link" href="/onthisday/10/10-01/">Re: [FanzOfLenaZavaroni/fanzoflenazavaroni.github.io] onthisday/10/10-01 (#13)</a></p>
-<p>It is a sad day indeed. I've felt a sadness all day. It seems to me that all she needed even as a kid was someone to give her a hug. To tell her shes beautiful just the way she is. To tell her she was an amazing singer. Mostly though, she just needed someone to love her. Someone to feel some compassion for her. From everything I know about her life, that was the one thing she didnt have and the one thing that would have saved her from herself. Without a doubt my dear Lena, you were loved and are still loved by so many fans out there. I hope you atleast found some peace and happiness in death. Rest well little Lena.</p>
+<p>Comments</p>
+<p>It is a sad day indeed. I've felt a sadness all day. It seems to me that all she needed even as a kid was someone to give her a hug. To tell her shes beautiful just the way she is. To tell her she was an amazing singer. Mostly though, she just needed someone to love her. Someone to feel some compassion for her. From everything I know about her life, that was the one thing she didnt have and the one thing that would have saved her from herself. Without a doubt my dear Lena, you were loved and are still loved by so many fans out there. I hope you atleast found some peace and happiness in death. Rest well little Lena. 💙</p>
 </div>
 
 <br />
@@ -39,7 +40,18 @@ categories: [Orphaned Comments, OnThisDay1October]
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/56027699" class="shape"/>From <a class="link" href="https://github.com/Cjones85">Cjones85</a> - Date 1 October 2019 at 23:48:33 BST</p>
 <p>Subject: <a class="link" href="/onthisday/10/10-01/">Re: [FanzOfLenaZavaroni/fanzoflenazavaroni.github.io] onthisday/10/10-01 (#13)</a></p>
+<p>Comments</p>
 <p>One more thing, Im not sure where to put this but I miss your "On this day" daily briefings of what happened in Lenas life that ypu posted on facebook. I looked forward to them. Also on a side note, it looks like the BBC and the BFI didnt listen to my requests. Still, there is nothing of Lenas career released. Such a damned shame.</p>
+</div>
+
+<br />
+
+<div class="discussions">
+<p><img src="https://avatars.githubusercontent.com/u/54239649" class="shape"/>Robcamstone (<a class="link" href="https://github.com/FanzOfLenaZavaroni">Fanz Of Lena Zavaroni</a>)</p>
+<p>My original comments would have included my feelings on the abuse that Lena went though, why the BBC and BFI did not reply and a link to Loving Lena Zavaroni's <a class="external-link" href="https://loving-lena-zavaroni.tumblr.com">Tumblr</a> page and how good it was that Chris had talked directly to Lena.</p>
+<p>The Tumblr link meant that Chris and others that may have read the comments had somewhere to go for their daily dose of On This Day's related to Lena as at the time I did not have an "On This Day section" on this website at that time</p>
+<p> I had a Facebook Page where I posted the On This Day's, which became redundant becuase Facebook is involed in the Cancel culture and does not believe in Justice.</p>
+<p><a class="external-link" href="https://robcamstone.github.io/2019-08-15-Broken-Justice-Robcamstone/">Broken Justice - Robert Campbell Stonebanks</a></p>
 </div>
 
 <br />
@@ -47,6 +59,7 @@ categories: [Orphaned Comments, OnThisDay1October]
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/56027699" class="shape"/>From <a class="link" href="https://github.com/Cjones85">Cjones85</a> - Date 2 October 2019 at 01:44:07 BST</p>
 <p>Subject: <a class="link" href="/onthisday/10/10-01/">Re: [FanzOfLenaZavaroni/fanzoflenazavaroni.github.io] onthisday/10/10-01 (#13)</a></p>
+<p>Comments</p>
 <p>Thats what I always liked about you and your facebook page. You arent afraid to be real and talk about the dark side of Lenas life. You didnt try to shut me up when I originally came to you to ask about Lena. I tried to ask questions at another fan page and was quickly hushed up and told they dont allow discussions of such topics. A true fan takes the bad with the good. Lena had a hard life. We shouldnt shy away from talking about it especially if by us talking about it we could save other children trying to make it big in the industry.</p>
 <p>I felt I needed to adress Lena directly. I want to show her the respect she was never shown in her life. She deserves atleast that.</p>
 <p>I lit a candle for Lena aswell. The second one I have lit im her memory on that page.</p>
