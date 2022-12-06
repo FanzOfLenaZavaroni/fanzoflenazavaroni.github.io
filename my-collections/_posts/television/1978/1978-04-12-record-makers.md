@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Record Makers &#124; 12 April 1978
+more: Repeated on 6 December 1978
 maintitle: Record Makers
 subtitle: Scottish Television
 description: Note - Lena Zavaroni never had an Album called Air Love.
