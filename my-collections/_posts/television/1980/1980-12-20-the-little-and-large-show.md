@@ -4,6 +4,7 @@ title: The Little And Large Show &#124; 20 December 1980
 maintitle: The Little And Large Show
 subtitle: Christmas edition
 description: Special Guest Stars Lena Zavaroni and Sheena Easton.
+post_description: Special Guest Stars Lena Zavaroni and Sheena Easton.
 image: /assets/images/BBC/1980-12-20-little-and-large-show-LZ-EL-SL.png
 categories: [BBC One, OnThisDay20December]
 ---
