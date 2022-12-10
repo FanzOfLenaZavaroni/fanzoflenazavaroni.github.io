@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 0FFO-1976-DEC10-029.jpeg, research.md, and 1976-06-04-des-ocon…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b48ad0e5438c4b5a0cf3a22a2fe3f96c010d759c)
+- [Update 12-11.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c4e5de2beced0d134fef4ff2223bffa722401f75)
+- [Update 1976-06-04-des-oconnor-entertains.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/06409341a298a45314e52451edbc13eb1bc435c7)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/633ddae09a3b475c0b2bccce1f6e25a6a2a375d2)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c9ba6008f5c581655a94e8fe12310e79444f9f68)
-- [Update 1999-10-05-more-media-news-on-lenas-death.md and 1999-12-09-mo…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/82c0317ee6e7babfe8507b3c3e1e4624826fe132)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/585da50d6065b23f196b5a0b4f5ecb7263060455)
-- [Update the-guardian-Frankie-Thompson.jpg and 2022-11-14-Newsbank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/815bb65bdee06137a00477061681e6eac27fae42)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0442c57758c242afb9c472ec435b7d5ada2daebc)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
