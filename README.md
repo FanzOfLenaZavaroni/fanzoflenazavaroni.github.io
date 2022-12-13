@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update index.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/778388ca41089ead7eed727682a3359feac55c71)
+- [Update 1969c-the-3-arts-theatre.jpg and 1975-05-05-lena-zavaroni-at-t…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/60a3053c5b6721134cb7dbd9c2ad5c276d3755d6)
+- [Update 1975-05-05-lena-zavaroni-at-the-3-arts-theatre.html.md and 197…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f634f089c5ec76dce013d6d67f7711576f1d0ec6)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fa3e23b1bede01e3a95a54ea88ec4e34cb47b816)
 - [Update 1989-12-19-hilda-zavaroni-death-certificate.md and 1961-12-14-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a3cd7e47d2ae16b90d5e212a2f3c11a689e90304)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/685a0efef6b2b8b72f391c394068d2b359d0a2f4)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b473ea3b447bb77b2af2698e5cc6dd801505dee3)
-- [Update 0FFO-1976-DEC10-029.jpeg, research.md, and 1976-06-04-des-ocon…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b48ad0e5438c4b5a0cf3a22a2fe3f96c010d759c)
-- [Update 12-11.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c4e5de2beced0d134fef4ff2223bffa722401f75)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
