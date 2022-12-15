@@ -6,7 +6,7 @@ subtitle: Public Record
 description: Under UK law, death certificates are known as Public Records which means that any person can apply for a copy of any certificate, providing that they know the details of the death that is required.
 media: Public Record
 post_description: Copy of the death certificate of Lena Zavaroni.
-categories: [Public Records, OnThisDay15December]
+categories: [Public Records, Death Certificate, OnThisDay15December]
 ---
 
 <figure class="fig1">

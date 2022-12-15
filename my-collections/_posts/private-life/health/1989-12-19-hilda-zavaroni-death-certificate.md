@@ -6,7 +6,7 @@ subtitle:
 description: 
 media: Details
 post_description: 
-categories: [Death Certificate, OnThisDay19December]
+categories: [Public Records, Death Certificate, OnThisDay19December]
 ---
 
 <figure class="fig3">
