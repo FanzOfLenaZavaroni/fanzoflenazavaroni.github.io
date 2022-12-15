@@ -3,14 +3,8 @@ layout: post
 title: The Death Certificate of Lena Hilda Zavaroni was issued &#124; 15 December 1999
 maintitle: The Death Certificate of Lena Hilda Zavaroni was issued
 subtitle: Public Record
-<<<<<<< Updated upstream
-description: Under UK law, death certificates are known as Public Records which means that any person can apply for a copy of any certificate, providing that they know the details of the death that is required.
-media: Public Record
-post_description: Copy of the death certificate of Lena Zavaroni.
-=======
 description: Follow link to view a copy.
 post_description: Follow link to view a copy.
->>>>>>> Stashed changes
 categories: [Public Records, Death Certificate, OnThisDay15December]
 ---
 
