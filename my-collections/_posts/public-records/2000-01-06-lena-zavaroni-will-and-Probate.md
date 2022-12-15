@@ -3,14 +3,8 @@ layout: post
 title: Will And Probate
 maintitle: Will And Probate
 subtitle: Public Record
-<<<<<<< Updated upstream
-description: Under UK law, Wills are known as Public Records which means that any person can apply for a copy of any certificate, providing that they know the details of the indviual who's Will they are intrested in.
-media: Public Record
-post_description: Under UK law, Wills are known as Public Records which means that any person can apply for a copy of any certificate, providing that they know the details of the indviual who's Will they are intrested in.
-=======
 description: Follow link to view a copy.
 post_description: Follow link to view a copy.
->>>>>>> Stashed changes
 categories: [Public Records, Will And Probate]
 ---
 
