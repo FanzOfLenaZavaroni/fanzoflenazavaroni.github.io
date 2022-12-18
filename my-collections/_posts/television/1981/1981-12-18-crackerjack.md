@@ -4,6 +4,7 @@ title: Crackerjack &#124; 18 December 1981
 maintitle: Crackerjack
 subtitle: Christmas Edition
 description: In this Christmas edition of the children's show, Lena helps a young contestant win a prize, and throws some custard pies around in the process.
+post_description: In this Christmas edition of the children's show, Lena helps a young contestant win a prize, and throws some custard pies around in the process.
 categories: [BBC One, OnThisDay18December]
 ---
 
@@ -28,7 +29,6 @@ In this Christmas edition of the children's show, Lena helps a young contestant 
 * **Executive Producer:** Michael Hurll
 
 **Related Website:**
-<span class="post-categories">[BBC Genome](https://genome.ch.bbc.co.uk/a702f25c88844261a2920fead9d4338c)&nbsp;
-[BFI](https://www.bfi.org.uk/films-tv-people/4ce2b84b15eed)
+<span class="post-categories">[BBC Genome](https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1981-12-18#at-16.50) &nbsp; [BFI](https://www.bfi.org.uk/films-tv-people/4ce2b84b15eed)
 </span>
 
