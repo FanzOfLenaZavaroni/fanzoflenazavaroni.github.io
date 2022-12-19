@@ -4,6 +4,7 @@ title: Pebble Mill at One &#124; 23 December 1981
 maintitle: Pebble Mill at One
 subtitle: Christmas Edition
 description: Lena joins a wide line up of celebrities to chat about their plans for Christmas and the following year. Lena talks about her part in the Babes In The Wood pantomime.
+post_description: Lena joins a wide line up of celebrities to chat about their plans for Christmas and the following year. Lena talks about her part in the Babes In The Wood pantomime.
 image: /assets/images/BBC/
 categories: [BBC One, OnThisDay23December]
 ---
