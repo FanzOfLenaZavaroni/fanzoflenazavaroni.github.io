@@ -45,13 +45,3 @@ Lena performs If My Friends Could See Me Now, then at the end of the show, she r
 
 <br />{: .clear}
 
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-}
-</style>
-
