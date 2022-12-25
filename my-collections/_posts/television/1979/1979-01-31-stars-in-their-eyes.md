@@ -12,25 +12,33 @@ categories: [Tyne Tees Television, OnThisDay31January]
 
 Documentary which follows the lives of various members of the Italia Conti stage school, including Lena Zavaroni and Bonnie Langford.
 
-<figure class="fig1" id="Screenshot">
-<figcaption><h3>Screenshot</h3></figcaption>
+<figure class="fig1">
+<h3 id="screenshot"><a href="#screenshot">Screenshot</a></h3>
 <img src="/assets/images/ITV/Stars-In-Their-Eyes.jpg" class="full-width"/>
 </figure>
 
-<figure class="fig2" id="cast">
-<figcaption><h3>Cast</h3></figcaption>
+<figure class="fig2">
+<h3 id="synopsis"><a href="#synopsis">Synopsis</a></h3>
 <table>
-<tr><th style="width:50%;">Cast Member</th><td style="width:50%;">Lena Zavaroni</td></tr>
+<tr><td colspan="2">Documentary film about the Italia Conti Stage School.</td></tr>
+<tr><th style="width:50%;">BFI</th><td style="width:50%;"><a class="external-link" href="http://www.bfi.org.uk/films-tv-people/4ce2b771f367a">Stars In Their Eyes</a></td></tr>
+</table>
+</figure>
+
+{: .clear}
+
+<figure class="fig1">
+<h3 id="cast"><a href="#cast">Cast</a></h3>
+<table>
+<tr style="outline: 4px dashed darkorange;" id="lz"><th style="width:50%;">Cast Member</th><td style="width:50%;">Lena Zavaroni</td></tr>
 <tr><th>Cast Member</th><td>Bonnie Langford</td></tr>
 <tr><th>Cast Member</th><td>Ruth Davies</td></tr>
 <tr><th>Cast Member</th><td>Royston Gregory</td></tr>
 </table>
 </figure>
 
-{: .clear}
-
-<figure class="fig1" id="crew">
-<figcaption><h3>Crew</h3></figcaption>
+<figure class="fig2">
+<h3 id="crew"><a href="#crew">Crew</a></h3>
 <table>
 <tr><th style="width:50%;">Research</th><td style="width:50%;">Barbara Sinclair</td></tr>
 <tr><th>Film editor</th><td>Barrie Crosser</td></tr>
@@ -40,26 +48,5 @@ Documentary which follows the lives of various members of the Italia Conti stage
 </table>
 </figure>
 
-<figure class="fig2" id="external-website">
-<figcaption><h3>External Website</h3></figcaption>
-<table>
-<tr><th style="width:50%;">BFI</th><td style="width:50%;"><a href="http://www.bfi.org.uk/films-tv-people/4ce2b771f367a">Stars In Their Eyes</a></td></tr>
-</table>
-</figure>
-
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1 {float:left; width:100%;}
-.fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 

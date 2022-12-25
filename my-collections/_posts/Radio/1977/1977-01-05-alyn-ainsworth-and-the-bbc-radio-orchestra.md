@@ -14,7 +14,7 @@ categories: [BBC Radio 2, OnThisDay5January]
 <tr><th>Presenter</th><td>Tom Edwards</td></tr>
 <tr><th>Music</th><td>Alyn Ainsworth and the BBC Radio Orchestra</td></tr>
 <tr><th>Leader</th><td>Michael Tomalin</td></tr>
-<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
+<tr style="outline: 4px dashed darkorange;" id="lz"><th>Singer</th><td>Lena Zavaroni</td></tr>
 <tr><th>Singers</th><td>The Mike Sammes Singers</td></tr>
 <tr><th>Comedian</th><td>Allan Stewart</td></tr>
 <tr><th>Producer</th><td>Beverley Phillips</td></tr>

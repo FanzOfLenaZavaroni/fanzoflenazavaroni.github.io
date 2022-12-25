@@ -27,7 +27,7 @@ Final broadcast of the much love show that was the starting block for so many st
 <tr><th>Comedian</th><td>Les Dawson</td></tr>
 <tr><th>Singers</th><td>Peters and Lee</td></tr>
 <tr><th>Comedian</th><td>Tom O'connor</td></tr>
-<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
+<tr style="outline: 4px dashed darkorange;" id="lz"><th>Singer</th><td>Lena Zavaroni</td></tr>
 <tr><th>Comedian</th><td>Frank Carson</td></tr>
 <tr><th>Comedy Double Act</th><td>Little and Large (comprising straight man Syd Little and comic Eddie Large)</td></tr>
 <tr><th>Folk Singer</th><td>Mary Hopkin</td></tr>

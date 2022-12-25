@@ -43,7 +43,7 @@ Backstage, after the end of the concert, she shakes hands with Queen Elizabeth I
 <tr><td>Brian Rogers Dancers</td></tr>
 <tr><td>Five Star</td></tr>
 <tr><td>Jimmy Tarbuck</td></tr>
-<tr><td>Lena Zavaroni</td></tr>
+<tr style="outline: 4px dashed darkorange;" id="lz"><td>Lena Zavaroni</td></tr>
 <tr><td>Voice of John Dunn</td></tr>
 <tr><td>A-ha</td></tr>
 </table>

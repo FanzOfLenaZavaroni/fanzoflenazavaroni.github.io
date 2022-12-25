@@ -18,10 +18,10 @@ Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, A
 
 <cite>If you decide to watch this show on New Years Eve then start the video at 13 minutes to midnight for the Bells of the Elizabeth tower to ring at midnight</cite>
 
-<figure class="fig1" id="cast">
+<figure class="fig3">
+<h3 id="cast"><a href="#cast">Cast</a></h3>
 <table>
-<tr><th colspan="2" class="h3">Cast</th></tr>
-<tr><th>Host</th><td>Jack McLaughlin- dubbed “The Laird o’ Coocaddens”</td></tr>
+<tr><th style="width:50%;">Host</th><td style="width:50%;">Jack McLaughlin- dubbed “The Laird o’ Coocaddens”</td></tr>
 <tr><th>On screen participant</th><td>Russ Abbott</td></tr>
 <tr><th>On screen participant</th><td>Andy Cameron</td></tr>
 <tr><th>On screen participant</th><td>Allan Stewart</td></tr>
@@ -30,15 +30,14 @@ Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, A
 <tr><th>On screen participant</th><td>Peter Morrison</td></tr>
 <tr><th>On screen participant</th><td>The John Carmichael Band</td></tr>
 <tr><th>On screen participant</th><td>The New Year Dancers</td></tr>
-<tr><th>On screen participant - Pre-recorded sequence</th><td>Lena Zavaroni performed &quot;Auld Lang Syne&quot;</td></tr>
+<tr style="outline: 4px dashed darkorange;" id="lz"><th><a href="#prerecorded">Pre-recorded Sequence</a></th><td>Lena Zavaroni performed &quot;Auld Lang Syne&quot;</td></tr>
 </table>
 </figure>
 
-<figure class="fig2" id="crew">
-<figcaption>
+<figure class="fig3">
+<h3 id="crew"><a href="#crew">Crew</a></h3>
 <table>
-<tr><th colspan="2" class="h3">Crew</th></tr>
-<tr><th>Choreography</th><td>Pat Armet</td></tr>
+<tr><th style="width:50%;">Choreography</th><td style="width:50%;">Pat Armet</td></tr>
 <tr><th>Musical director</th><td>David Pringle</td></tr>
 <tr><th>Sound supervisor</th><td>Garth Mason</td></tr>
 <tr><th>Lighting director</th><td>Ron Higgs</td></tr>
@@ -49,7 +48,10 @@ Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, A
 <tr><th>Director</th><td>Anne Mason</td></tr>
 <tr><th>Production Company</th><td>Scottish Television (STV)</td></tr>
 </table>
-</figcaption>
+</figure>
+
+<figure class="fig3">
+<h3 id="prerecorded"><a href="#prerecorded">Pre-recorded Sequence</a></h3>
 <img src="/assets/images/STV/Auld.jpg" class="full-width"/>
 <figcaption>
 <cite>Lena discusses her performance on the New Year Show with the studio crew during the pre-recorded sequence filmed on the 21 November 1985</cite>
@@ -57,14 +59,4 @@ Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, A
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-}
-</style>
 
