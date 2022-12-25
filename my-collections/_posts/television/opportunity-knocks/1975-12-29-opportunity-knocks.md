@@ -15,11 +15,11 @@ Lena appears as last year's winner, to present the award to the 1975 recipient, 
 
 <br />
 
-<figure class="fig1" id="cast">
+<figure class="fig3">
+<h3 id="cast"><a href="#cast">Cast</a></h3>
 <table>
-<tr><th colspan="2" class="h3">Cast</th></tr>
-<tr><th>Presenter</th><td>Hughie Green</td></tr>
-<tr><th>On screen participant</th><td>Lena Zavaroni</td></tr>
+<tr><th style="width:50%;">Presenter</th><td style="width:50%;">Hughie Green</td></tr>
+<tr style="outline: 4px dashed darkorange;" id="lz"><th>On screen participant</th><td>Lena Zavaroni</td></tr>
 <tr><th>On screen participant</th><td>Champagne</td></tr>
 <tr><th>On screen participant</th><td>Wayne King</td></tr>
 <tr><th>On screen participant</th><td>Tammy Jones</td></tr>
@@ -31,10 +31,10 @@ Lena appears as last year's winner, to present the award to the 1975 recipient, 
 </table>
 </figure>
 
-<figure class="fig2" id="crew">
+<figure class="fig3">
+<h3 id="crew"><a href="#crew">Crew</a></h3>
 <table>
-<tr><th colspan="2" class="h3">Crew</th></tr>
-<tr><th>Programme associate</th><td>Doris Barry</td></tr>
+<tr><th style="width:50%;">Programme associate</th><td style="width:50%;">Doris Barry</td></tr>
 <tr><th>Programme associate</th><td>Len Marten</td></tr>
 <tr><th>Executive producer</th><td>Jack Andrews</td></tr>
 <tr><th>Designer</th><td>Bill Laslett</td></tr>
@@ -45,14 +45,4 @@ Lena appears as last year's winner, to present the award to the 1975 recipient, 
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-}
-</style>
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: TV-AM &#124; 25 December 1984 &#124; Lena appears on the sofa to talk about her plans for Christmas.
-maintitle: TV-AM
-subtitle: ITV
+title: Good Morning Britain &#124; 25 December 1984 &#124; Lena appears on the sofa to talk about her plans for Christmas.
+maintitle: Good Morning Britain
+subtitle: "ITV: TV-AM's Main Breakfast Television Show"
 description: Lena appears on the sofa to talk about her plans for Christmas.
 post_description: Lena appears on the sofa to talk about her plans for Christmas.
 image: /assets/images/ITV/TV-AM.png
@@ -36,7 +36,7 @@ Later, Gyles Brandreth recites a love poem to her, and kisses her under the mist
 <figcaption>
 <table style="width:100%;">
 <tr><th style="text-align:center;" class="h3">Guests</th></tr>
-<tr><td>Lena Zavaroni</td></tr>
+<tr style="outline: 4px dashed darkorange;" id="lz"><td>Lena Zavaroni</td></tr>
 <tr><td>Gyles Brandreth</td></tr>
 <tr><td>Lennie Bennett</td></tr>
 <tr><td>Eve Pollard</td></tr>

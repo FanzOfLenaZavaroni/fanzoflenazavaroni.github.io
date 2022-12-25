@@ -10,14 +10,12 @@ image: /assets/images/ITV/1877-12-27-maxs-holiday-hour.jpg
 categories: [Thames Television, OnThisDay27December]
 ---
 
-### Details
-> Lena recites a naughty limerick in a short sketch with Max.
->
-> They later perform a duet on a specially written song &quot;Things will turn out fine&quot;.
->
-> Lena then pops out from inside a giant snowman, and performs a song and dance version of &quot;Baby It's Cold Outside&quot;.
-
-<cite>Robcamstone</cite>
+<figure class="fig3">
+<h3 id="details"><a href="#details">Details</a></h3>
+<p>Lena recites a naughty limerick in a short sketch with Max.</p>
+<p>They later perform a duet on a specially written song &quot;Things will turn out fine&quot;.</p>
+<p>Lena then pops out from inside a giant snowman, and performs a song and dance version of &quot;Baby It's Cold Outside&quot;.</p>
+</figure>
 
 <figure class="fig1">
 <img src="/assets/images/ITV/1877-12-27-maxs-holiday-hour.jpg" class="full-width" />
@@ -30,10 +28,10 @@ categories: [Thames Television, OnThisDay27December]
 {: .clear}
 
 <figure class="fig1">
+<h3 id="cast"><a href="#cast">Cast</a></h3>
 <table>
-<tr><th colspan="2" class="h3">Cast</th></tr>
 <tr><th>Host</th><td>Max Bygraves</td></tr>
-<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
+<tr style="outline: 4px dashed darkorange;" id="lz"><th>Singer</th><td>Lena Zavaroni</td></tr>
 <tr><th>Clown</th><td>Charlie Cairoli</td></tr>
 <tr><th>Actress</th><td>Sandra Dickinson</td></tr>
 <tr><th>Comedian</th><td>Jim Davidson</td></tr>
@@ -42,8 +40,8 @@ categories: [Thames Television, OnThisDay27December]
 </figure>
 
 <figure class="fig2">
+<h3 id="crew"><a href="#crew">Crew</a></h3>
 <table>
-<tr><th colspan="2" class="h3">Crew</th></tr>
 <tr><th>Screenplay</th><td>Eric Davidson</td></tr>
 <tr><th>Designer</th><td>Rod Stratfold</td></tr>
 <tr><th>Choreography</th><td>Nigel Lythgoe</td></tr>
@@ -61,14 +59,4 @@ categories: [Thames Television, OnThisDay27December]
 <span class="post-categories">
 [British Film Institute (BFI)](http://www.bfi.org.uk/films-tv-people/4ce2b826478d5)
 </span>
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-}
-</style>
 

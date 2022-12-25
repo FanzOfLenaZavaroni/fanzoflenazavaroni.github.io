@@ -12,11 +12,11 @@ categories: [Thames Television, Opportunity Knocks, OnThisDay30December]
 
 Lena performs If My Friends Could See Me Now, then at the end of the show, she receives the Variety Club Award for 1974, and then joins the rest of the cast in a rendition of Land Of Hope And Glory.
 
-<figure class="fig1" id="cast">
+<figure class="fig3">
+<h3 id="cast"><a href="#cast">Cast</a></h3>
 <table>
-<tr><th colspan="2" class="h3">Cast</th></tr>
-<tr><th>Presenter</th><td>Hughie Green</td></tr>
-<tr><th>On screen participant</th><td>Lena Zavaroni</td></tr>
+<tr><th style="width:50%;">Presenter</th><td style="width:50%;">Hughie Green</td></tr>
+<tr style="outline: 4px dashed darkorange;" id="lz"><th>On screen participant</th><td>Lena Zavaroni</td></tr>
 <tr><th>On screen participant</th><td>Airborne</td></tr>
 <tr><th>On screen participant</th><td>Adam And Eve</td></tr>
 <tr><th>On screen participant</th><td>Grahame MacLean</td></tr>
@@ -31,10 +31,10 @@ Lena performs If My Friends Could See Me Now, then at the end of the show, she r
 </table>
 </figure>
 
-<figure class="fig2" id="crew">
+<figure class="fig3">
+<h3 id="crew"><a href="#crew">Crew</a></h3>
 <table>
-<tr><th colspan="2" class="h3">Crew</th></tr>
-<tr><th>Programme associate</th><td>Len Marten</td></tr>
+<tr><th style="width:50%;">Programme associate</th><td style="width:50%;">Len Marten</td></tr>
 <tr><th>Programme associate</th><td>Doris Barry</td></tr>
 <tr><th>Executive producer</th><td>Jack Andrews</td></tr>
 <tr><th>Designer</th><td>Rod Stratfold</td></tr>

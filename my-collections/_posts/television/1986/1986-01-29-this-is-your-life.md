@@ -32,7 +32,7 @@ categories: [Granada Television, OnThisDay29January]
 <table>
 <tr><th style="width:50%;">Host</th><td style="width:50%;">Eamonn Andrews</td></tr>
 <tr><th>Guest of Honour</th><td>Bonnie Langford</td></tr>
-<tr><th>Guest</th><td>Lena Zavaroni</td></tr>
+<tr style="outline: 4px dashed darkorange;" id="lz"><th>Guest</th><td>Lena Zavaroni</td></tr>
 <tr><th>Guest</th><td>Joss Ackland</td></tr>
 <tr><th>Guest</th><td>Michael Praid</td></tr>
 <tr><th>Guest</th><td>Christopher Biggins</td></tr>

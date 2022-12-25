@@ -1,12 +1,12 @@
 ---
 layout: post
-author: Repeated on 26 December 1981
+more: Repeated on 26 December 1981
 title: Saturday Night is Gala Night &#124; 17 October 1981
 maintitle: Saturday Night is Gala Night
 subtitle: A Century of Song 1881-1981
 description: A concert of British music from the Royal Albert Hall, London in association with the Music Publishers Association of Great Britain to celebrate their centenary.
 media: BBC Radio 2
-post_description: A concert of British music from the Royal Albert Hall, London in association with the Music Publishers Association of Great Britain to celebrate their centenary.
+post_description: A concert of British music from the Royal Albert Hall, London in association with the Music Publishers Association of Great Britain to celebrate their centenary. Repeated on 26 December 1981
 image: /assets/images/radio/the-times-london-england-saturday-oct-17-1981-pg-27-issue.jpg
 categories: [BBC Radio 2, OnThisDay17October, OnThisDay26December]
 ---
@@ -25,7 +25,7 @@ A concert of British music from the Royal Albert Hall, London in association wit
 <tr><th>Singer</th><td>Frankie Vaughan</td></tr>
 <tr><th>Vocalist</th><td>Anne Shelton</td></tr>
 <tr><th colspan="2" class="h3">INTERVAL</th></tr>
-<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
+<tr style="outline: 4px dashed darkorange;" id="lz"><th>Singer</th><td>Lena Zavaroni</td></tr>
 <tr><th>Function within this show unknown</th><td><a class="external-link" href="https://en.wikipedia.org/wiki/Hubert_Gregg">Hubert Gregg</a></td></tr>
 <tr><th>Singers</th><td>Mike Sammes Singers</td></tr>
 <tr><th>Pianist</th><td>Semprini</td></tr>

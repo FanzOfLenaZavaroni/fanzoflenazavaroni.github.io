@@ -57,7 +57,7 @@ categories: [ITV, OnThisDay28January]
 <tr><td>Louis Walsh</td></tr>
 <tr><td>Pete Waterman</td></tr>
 <tr><td>Victoria Wood - Narrator (voice)</td></tr>
-<tr><td>Lena Zavaroni (archive footage)</td></tr>
+<tr style="outline: 4px dashed darkorange;" id="lz"><td>Lena Zavaroni (archive footage)</td></tr>
 <tr><td>Victor Zavaroni (Father of Lena)</td></tr>
 </table>
 </figure>
