@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update _base.scss](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7f1ee9e71856d76d4b0ff0f951c75cd12d87cd8c)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/52ad58c49080dafcaa5f2a9da763b5f8d14bffe7)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/dc067076b46c2e506a932c87f5b8db1c412e488f)
 - [Update _base.scss and custom-styles.scss](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ba669e145f2013519c561a9c7fca9c5ce48910b7)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b1399b11fe1c72140c671959b5c374dc33326a35)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/204029d5c6aed3b7b74da26ae051ddccafecf534)
-- [Update 1984-12-31-a-century-of-stars.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5f4b0b96dc437eedf4a46915818518a6571ad231)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
