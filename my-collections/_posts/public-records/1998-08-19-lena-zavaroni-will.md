@@ -16,7 +16,7 @@ categories: [Public Records, Will And Probate, OnThisDay19August]
 <figcaption>
 <p>England and Wales share the same probate rules.</p>
 <p>There are different probate rules in Scotland and probate rules in Northern Ireland.</p>
-<p>In general, a will is a private document unless and until <a href="/2000-01-06-lena-zavaroni-Probate/">A Grant Of Probate</a> is issued. Once a grant of probate has been issued, a will becomes a public document and anyone can apply to have a copy.</p>
+<p>In general, a Will is a private document until a <a href="/2000-01-06-lena-zavaroni-Probate/">A Grant Of Probate</a> is issued. Once a grant of probate has been issued, a will becomes a public document and anyone can apply to have a copy.</p>
 </figcaption>
 </figure>
 
