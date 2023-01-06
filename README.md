@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1998-08-19-lena-zavaroni-will.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/72ffa70439f824ab67cf87256f8469cf55de15d3)
+- [Update 1998-08-19-lena-zavaroni-will.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6fdd5505e98f9ce3713c7247bdc8dec8d1256295)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4919649c90648811f103313e257dec304f129c64)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6e5ea3785c620ba9a75bc1aa102ce756064bb81a)
 - [Update _base.scss](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7f1ee9e71856d76d4b0ff0f951c75cd12d87cd8c)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/52ad58c49080dafcaa5f2a9da763b5f8d14bffe7)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/dc067076b46c2e506a932c87f5b8db1c412e488f)
-- [Update _base.scss and custom-styles.scss](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ba669e145f2013519c561a9c7fca9c5ce48910b7)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
