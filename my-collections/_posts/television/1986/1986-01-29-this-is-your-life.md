@@ -20,7 +20,7 @@ categories: [Granada Television, OnThisDay29January]
 <figcaption>
 <h3>Details</h3>
 <p>Lena appears on the show to pay tribute to Bonnie, and they reminisce about working together.</p>
-<p>A short clip of their TV show <a href="/london%20weekend%20television/1978/03/26/lena-and-bonnie.html">Lena and Bonnie</a> is shown.</p>
+<p>A short clip of their TV show <a href="/1978-03-26-lena-and-bonnie">Lena and Bonnie</a> is shown.</p>
 </figcaption>
 </figure>
 
