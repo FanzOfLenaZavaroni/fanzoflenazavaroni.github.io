@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Lena and Bonnie
+title: Lena and Bonnie &#124; 26 January 1978
 maintitle: Lena and Bonnie
 subtitle: One Off Special
-description: On Sunday 26 March 1978 LWT broadcast Lena and Bonnie. It was a one-off special starring Lena Zavaroni and Bonnie Langford.
-media: London Weekend Television
-post_description: Broadcast Lena and Bonnie. It was a one-off special starring Lena Zavaroni and Bonnie Langford.
+description: Lena and Bonnie was recorded on the 17 & 18 January 1978 at the Kent House Studios and was broadcast by London Weekend Television (LWT) on the 26 of March 1978.
+post_description: Lena and Bonnie was recorded on the 17 & 18 January 1978 at the Kent House Studios and was broadcast by London Weekend Television (LWT) on the 26 of March 1978.
 image: /assets/images/lena-and-bonnie/LZ-BL-small.jpg
-categories: [London Weekend Television]
+categories: [London Weekend Television, OnThisDay17January, OnThisDay18January, OnThisDay26January]
 ---
 
 <table>
