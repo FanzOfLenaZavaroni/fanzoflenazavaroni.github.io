@@ -12,8 +12,10 @@
 }
 
 .site-title {
-  @include relative-font-size(1.625);
-  font-weight: 300;
+  /*  @include relative-font-size(1.625); */
+  @include relative-font-size(1.525);
+  /*   font-weight: 300; */
+  font-weight: bold;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
@@ -31,7 +33,7 @@
 .site-nav {
   position: absolute;
   top: 9px;
-  right: $spacing-unit * .5;
+  right: $spacing-unit * 0.5;
   background-color: $background-color;
   border: 1px solid $border-color-01;
   border-radius: 5px;
@@ -128,7 +130,7 @@
 
 .footer-heading {
   @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit * .5;
+  margin-bottom: $spacing-unit * 0.5;
 }
 
 .feed-subscribe .svg-icon {
@@ -148,7 +150,7 @@
 }
 
 .footer-col {
-  margin-bottom: $spacing-unit * .5;
+  margin-bottom: $spacing-unit * 0.5;
 }
 
 .footer-col-1,
@@ -181,16 +183,16 @@
 
   .footer-col {
     width: calc(100% - (#{$spacing-unit} / 2));
-    padding: 0 ($spacing-unit * .5);
+    padding: 0 ($spacing-unit * 0.5);
 
     &:first-child {
-      padding-right: $spacing-unit * .5;
+      padding-right: $spacing-unit * 0.5;
       padding-left: 0;
     }
 
     &:last-child {
       padding-right: 0;
-      padding-left: $spacing-unit * .5;
+      padding-left: $spacing-unit * 0.5;
     }
   }
 }
@@ -295,7 +297,7 @@
     &:last-of-type { margin-right: 0 }
     a {
       display: block;
-      padding: 10px 12px;
+      padding: $spacing-unit * 0.25;
       border: 1px solid $border-color-01;
       &:hover { border-color: $border-color-02 }
     }
@@ -318,7 +320,7 @@
     }
     div {
       display: block;
-      padding: $spacing-unit * .25;
+      padding: $spacing-unit * 0.25;
       border: 1px solid transparent;
 
       &.pager-edge {
