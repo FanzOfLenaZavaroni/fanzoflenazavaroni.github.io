@@ -6,7 +6,7 @@ maintitle: Bimm There, Done That
 subtitle:  15 December 2020
 description: 15 December 2020
 image: /assets/images/podcasts/
-categories: [Podcasts, Bimm There, Done That]
+categories: [Podcasts, Bimm There Done That, OnThisDay15December]
 ---
 
 <figure class="fig3">

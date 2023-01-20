@@ -6,7 +6,7 @@ maintitle: Two Hundred Percent
 subtitle:  "Podcast 293: This is our Everest, Part Thirty-Nine – Seaside Special, 1975"
 description: On this week’s This Is Our Everest, your intrepid heroes are at the beach for the BBC’s Seaside Special from August 1975. It affords them ample opportunity to explore their relationship with light entertainment.
 image: /assets/images/podcasts/this-is-our-everest.jpg
-categories: [Podcasts, Two Hundred Percent/The New Year Show]
+categories: [Podcasts, Two Hundred Percent, OnThisDay29April]
 ---
 
 <figure class="fig3">

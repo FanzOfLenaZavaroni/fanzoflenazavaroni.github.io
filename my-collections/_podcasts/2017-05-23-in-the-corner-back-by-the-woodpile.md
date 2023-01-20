@@ -6,7 +6,7 @@ maintitle: In the Corner Back by the Woodpile
 subtitle: 23 May 2017 - Episode 104 - Fluorescent Decade on a Hill X
 description: Episode 357
 image: /assets/images/podcasts/
-categories: [Podcasts, Popcasting]
+categories: [Podcasts, Popcasting, OnThisDay23May]
 ---
 
 <figure class="fig3">

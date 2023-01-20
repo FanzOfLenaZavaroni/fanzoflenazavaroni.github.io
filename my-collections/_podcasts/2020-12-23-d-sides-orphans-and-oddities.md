@@ -6,7 +6,7 @@ maintitle: D-Sides, Orphans, and Oddities
 subtitle:  23 December 2020
 description: 23 December 2020
 image: /assets/images/podcasts/
-categories: [Podcasts, D-Sides Orphans and Oddities]
+categories: [Podcasts, D-Sides Orphans and Oddities, OnThisDay23December]
 ---
 
 <figure class="fig3">
