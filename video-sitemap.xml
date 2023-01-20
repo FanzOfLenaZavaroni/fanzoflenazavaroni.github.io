@@ -162,4 +162,13 @@
     <video:content_loc>https://www.youtube.com/watch?v=CUPiw7fBoE4</video:content_loc>
   </video:video>
 </url>
+
+<url>
+  <loc>https://fanzoflenazavaroni.github.io/discography/singles/1975-turninoff-a-memory</loc>
+  <video:video>
+    <video:thumbnail_loc>https://img.youtube.com/vi/R8sewohu2qI/hqdefault.jpg?r=pad</video:thumbnail_loc>
+    <video:title>Lena Zavaroni sings Going Nowhere</video:title>
+    <video:content_loc>https://www.youtube.com/watch?v=R8sewohu2qI</video:content_loc>
+  </video:video>
+</url>
 </urlset>
