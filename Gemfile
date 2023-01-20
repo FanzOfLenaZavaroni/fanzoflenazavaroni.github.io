@@ -21,7 +21,6 @@ gem "minima"
 group :jekyll_plugins do
   gem 'jemoji'
   gem "jekyll-sitemap"
-  gem "jekyll-last-modified-at"
   gem "jekyll-feed"
   gem "jekyll-seo-tag"
   gem "webrick"
