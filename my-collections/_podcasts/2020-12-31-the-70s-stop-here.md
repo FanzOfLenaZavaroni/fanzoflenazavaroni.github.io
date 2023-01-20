@@ -6,7 +6,7 @@ maintitle: The 70s Stop Here - The New Year Show
 subtitle:  31 December 2020
 description: 31 December 2020
 image: /assets/images/podcasts/
-categories: [Podcasts, The 70s Stop Here, OnThisDay 31December]
+categories: [Podcasts, The 70s Stop Here, The New Year Show, OnThisDay 31December]
 ---
 
 <figure class="fig1">
