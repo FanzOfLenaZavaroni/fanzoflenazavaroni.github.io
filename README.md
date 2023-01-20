@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update Gemfile, _base.scss, and _layout.scss](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0130bdcfbddc478d2fa745b0fb846b44a4f24b17)
-- [Update _layout.scss](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6917c11d24e958b63f8e40dd22c9e8918d4a8d36)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3dbe773ef7fdd8b91e80a15695603f4fff0747ca)
-- [Update _base.scss and _layout.scss](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9621d8b3e1704587d8b676aed63ca238f0059d43)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0a3accc66ec04fe4739a7b1cc9435265b7cb79a0)
+- [Update Gemfile and _config.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/06b2d970deb79f9f88313e1ba43cd2c1f08ab6cc)
+- [Update Gemfile, _config.yml, and 2020-12-15-bimm-there-done-that.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5e40ae827fb4b30706c5df28b9836557aaec13d8)
+- [Update 2020-12-15-bimm-there-done-that.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/368daa5f1c9fe81cb26235dbb9c16432bfde1eb3)
+- [Update 2020-12-31-the-70s-stop-here.md and 2022-05-17-bizarre-albums.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7884e104fd036c69479e0f3a9fdfbc31cc88454d)
+- [Update 2017-05-23-in-the-corner-back-by-the-woodpile.md, 2018-02-01-p…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/de624a947a4917fdba071daface5ac6242160746)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
