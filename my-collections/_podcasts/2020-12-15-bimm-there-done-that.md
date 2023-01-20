@@ -7,7 +7,6 @@ subtitle:  15 December 2020
 description: 15 December 2020
 image: /assets/images/podcasts/
 categories: [Podcasts, Bimm There Done That, OnThisDay15December]
-sitemap: false
 ---
 
 <figure class="fig3">
