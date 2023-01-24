@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Repeated on 25 October 1976
+more: Repeated on 25 October 1976
 title: The Morecambe And Wise Show &#124; 11 February 1976
 maintitle: The Morecambe And Wise Show
 subtitle: Episode 9.3
@@ -8,7 +8,7 @@ description: Lena appears in a comedy sketch with Eric and Ernie. She then perfo
 media: Details
 post_description: Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of These Days, before performing a song and dance version of Something Bout You Baby I Like with the duo.
 image: /assets/images/BBC-PIDs\p0417db6 - 768x432.jpg
-categories: [BBC One, BBC Two, OnThisDay, OnThisDay11February, OnThisDay25October]
+categories: [BBC One, BBC Two, OnThisDay, OnThisDay11February, Repeat25October]
 ---
 
 <figure class="fig1">
@@ -17,7 +17,7 @@ categories: [BBC One, BBC Two, OnThisDay, OnThisDay11February, OnThisDay25Octobe
 <figcaption>
 <strong>Publicity Photo of Ernie Wise and Eric Morecambe</strong>
 <p>The Connoisseurs return to discuss the wonders of the British sausage, The Spinners guest star, and Lena Zavaroni performs Something 'Bout Ya Baby I Like.</p>
-<p><a href="https://www.bbc.co.uk/programmes/p03rdsqt">BBC PID: p03rdsqt</a></p>
+<p><a class="external-link" href="https://www.bbc.co.uk/programmes/p03rdsqt">BBC PID: p03rdsqt</a></p>
 </figcaption>
 
 <img src="/assets/images/BBC/1976-10-25-lena-zavaroni-on-the-morecambe-and-wise-show.jpg" class="full-width">
@@ -31,8 +31,8 @@ categories: [BBC One, BBC Two, OnThisDay, OnThisDay11February, OnThisDay25Octobe
 <p><strong>Note:</strong> In the end credits photos of the Guests when young were used.</p>
 <strong>BBC Genome:</strong>
 <ul>
-<li><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1976-02-11#at-20.15">11 February 1976 BBC One</a></li>
-<li><a href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1976-10-25#at-20.10">Repeat 25 October 1976 on BBC Two</a></li>
+<li><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1976-02-11#at-20.15">11 February 1976 BBC One</a></li>
+<li><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1976-10-25#at-20.10">Repeat 25 October 1976 on BBC Two</a></li>
 </ul>
 </figcaption>
 </figure>
