@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1976-02-11-the-morecambe-and-wise-show.md, 1979-01-24-morecamb…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3783becd04bae669c5812825730e40dc579d31a2)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ef923ab960af360e00936e8fd936659f2c025091)
-- [Update 2000-02-23-the-real-lena-zavaroni.md and 01-23.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8593c9480409f8a849a3c24cd6106f30ffcc0db1)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0596686826578fc958fb32b3f5459cca6c6edf5e)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/99f9af9d58afc83cf62ff61bb218b5f50a44570b)
+- [Update 1978-03-26-lena-and-bonnie.md, 01-25.md, and 03-26.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c989599c5c40e9144a903f1275554ba3c81409e7)
+- [Update 01-25.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bf5027cf7c0de15325adc24f252e65f597590325)
+- [Update 01-25.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e2bbcdde81018f7e9095900d7dd1babacadfb589)
+- [Update 01-25.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/acf29d29fbe17f218755ff54d7ba8d0a5143de43)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0880ecddf5ef4156ba647725af83428492e1e8e2)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
