@@ -3,7 +3,8 @@ layout: post
 title: Radio Clyde &#124; 1 February 1981
 maintitle: Radio Clyde
 subtitle: The Civic Hall, Falkirk
-description: Lena appeared on Radio Clyde as the professional artiste as part of the final of their cabaret act talent contest called Starshot?  Possibly held at Falkirk Civic Hall.
+description: Starshot a talent contest to discover new cabaret acts was broadcast possibly from Falkirk Civic Hall. Lena Zavaroni performed as the professional artiste for part of the programmme.
+post_description: Starshot a talent contest to discover new cabaret acts was broadcast possibly from Falkirk Civic Hall. Lena Zavaroni performed as the professional artiste for part of the programmme.
 image: /assets/images/radio/radio Clyde.png
 categories: [Radio Clyde, OnThisDay1February]
 ---
@@ -13,7 +14,7 @@ categories: [Radio Clyde, OnThisDay1February]
 </figure>
 
 <figure class="fig2">
-<p><strong>Starshot</strong> a talent contest to discover new cabaret acts was broadcast on Radio Clyde from Falkirk's Civic Hall. Lena Zavaroni performed as the professional artiste for part of the programmme.</p>
+<p><strong>Starshot</strong> a talent contest to discover new cabaret acts was broadcast on Radio Clyde possibly from Falkirk Civic Hall. Lena Zavaroni performed as the professional artiste for part of the programmme.</p>
 <p><strong>Note:</strong> The details above are currently unconfirmed so don't take them as facts, the information is subject to change if and when details become more readily available.</p>
 </figure>
 
