@@ -7,7 +7,7 @@ description: Guests Lena Zavaroni, Dorothy Solomon, Gerry Cottle, Betty Cottle a
 media: BBC One
 post_description: Guests Lena Zavaroni, Dorothy Solomon, Gerry Cottle, Betty Cottle and Captain Universe.
 image: /assets/images/BBC/Pebble-Mill-at-One-ID.jpg
-categories: [BBC One]
+categories: [BBC One, OnThisDay11March]
 ---
 
 <figure class="fig1">
@@ -23,7 +23,7 @@ categories: [BBC One]
 <p>Lena performs a live version of "Pinch Me Am I Dreaming".</p>
 <p>Later on she is interviewed alongside her manager Dorothy Solomon, by Donny MacLeod, and then she finishes the show with a live rendition of "Rock-A-Bye Your Baby With A Dixie Melody".</p>
 <h3 id="external-websites">External Websites</h3>
-<p><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1977-03-11#at-13.00">BBC Genome</a></p>
+<p><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1977-03-11#at-13.00">BBC Genome</a></p>
 </figcaption>
 </figure>
 
