@@ -34,7 +34,7 @@ Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni. It w
 <tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
 <tr><th>Country:</th><td>Belgium</td></tr>
 <tr><th>Released:</th><td>25 January 1974</td></tr>
-<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006367">6006367</a></td></tr>
+<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006367">UK: 6006367</a></td></tr>
 </table>
 </figcaption>
 </figure>
@@ -58,7 +58,7 @@ Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni. It w
 <tr class="split"><th>Label:</th><td>Philips - 6006 367</td></tr>
 <tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
 <tr><th>Country:</th><td>Argentina</td></tr>
-<tr><th>Released:</th><td>11 Mar 1974</td></tr>
+<tr><th>Released:</th><td>11 March 1974</td></tr>
 <tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006367ar">6006367ar</a></td></tr>
 </table>
 </figcaption>
@@ -68,9 +68,34 @@ Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni. It w
 
 <figure class="fig1">
 <figcaption>
+<h3 id="australia"><a href="#australia">Australia</a></h3>
+</figcaption>
+<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-australia.jpg" class="full-width" alt="Australia A-Side Label for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" />
+<figcaption>
+<table>
+<tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
+<tr class="split"><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
+<tr><th>Composer:</th><td>C. Conrad, S. Clare</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+<tr class="split"><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
+<tr><th>Composer:</th><td>Sam. M. Lewis, J. Young, J. Schwartz</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+<tr class="split"><th>Label:</th><td>Philips - 6006 367</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Country:</th><td>Australia</td></tr>
+<tr><th>Released:</th><td>1974</td></tr>
+<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006367au">6006367au</a></td></tr>
+</table>
+</figcaption>
+</figure>
+
+<figure class="fig2">
+<figcaption>
 <h3 id="belgium"><a href="#belgium">Belgium</a></h3>
 </figcaption>
-<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium.jpg" class="full-width" alt="Belgium Front of sleeve for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" />
+<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium.jpg" class="full-width" alt="Belgium front of sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" />
 <figcaption>
 <table>
 <tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
@@ -91,11 +116,38 @@ Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni. It w
 </figcaption>
 </figure>
 
+{: .clear}
+
+<figure class="fig1">
+<figcaption>
+<h3 id="france"><a href="#france">France</a></h3>
+</figcaption>
+<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france.jpg" class="full-width" alt="France A-Side Label for the Single Ma! (He's Making Eyes At Me) Gérard Tournier - GT 46501" />
+<figcaption>
+<table>
+<tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
+<tr class="split"><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
+<tr><th>Composer:</th><td>C. Conrad, S. Clare</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+<tr class="split"><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
+<tr><th>Composer:</th><td>Sam. M. Lewis, J. Young, J. Schwartz</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+<tr class="split"><th>Label:</th><td>Gérard Tournier - GT 46501</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Country:</th><td>France</td></tr>
+<tr><th>Released:</th><td>1974</td></tr>
+<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/gt46501">GT 46501</a></td></tr>
+</table>
+</figcaption>
+</figure>
+
 <figure class="fig2">
 <figcaption>
 <h3 id="germany"><a href="#germany">Germany</a></h3>
 </figcaption>
-<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-germany.jpg" class="full-width" alt="Germany Front of sleeve for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" />
+<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-germany.jpg" class="full-width" alt="Germany front of sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" />
 <figcaption>
 <table>
 <tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
@@ -120,9 +172,58 @@ Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni. It w
 
 <figure class="fig1">
 <figcaption>
+<h3 id="ireland"><a href="#ireland">Ireland</a></h3>
+</figcaption>
+<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-ireland.gif" class="full-width" alt="Ireland A-Side Label for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" />
+<figcaption>
+<table>
+<tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
+<tr class="split"><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
+<tr><th>Composer:</th><td>C. Conrad, S. Clare</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+<tr class="split"><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
+<tr><th>Composer:</th><td>Sam. M. Lewis, J. Young, J. Schwartz</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+<tr class="split"><th>Label:</th><td>Philips - 6006 367</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Country:</th><td>Ireland</td></tr>
+<tr><th>Released:</th><td>March Mar 1974</td></tr>
+<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006367ie">6006367ie</a></td></tr>
+</table>
+</figcaption>
+</figure>
+
+<figure class="fig2">
+<figcaption>
+<h3 id="japan"><a href="#japan">Japan</a></h3>
+</figcaption>
+<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-japan.jpg" class="full-width" alt="Japan front of sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" />
+<figcaption>
+<table>
+<tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
+<tr class="split"><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr class="split"><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr class="split"><th>Label:</th><td>Philips - SFL-1850</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Country:</th><td>Japan</td></tr>
+<tr><th>Released:</th><td>1974</td></tr>
+<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/sfl1850">sfl1850</a></td></tr>
+<tr class="split"><th style="vertical-align:top;">Note:</th><td>This is the english version of the single released in Japan it would be later in the year while visiting Japan that Lena would record a version of Ma! (He's Making Eyes At Me) in Japanese at this time I don't know what if any was on the B-side.</td></tr>
+</table>
+</figcaption>
+</figure>
+
+{: .clear}
+
+<figure class="fig1">
+<figcaption>
 <h3 id="netherlands"><a href="#netherlands">Netherlands</a></h3>
 </figcaption>
-<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-netherlands.jpg" class="full-width" alt="Netherlands Front of sleeve for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" />
+<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-netherlands.jpg" class="full-width" alt="Netherlands front of sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" />
 <figcaption>
 <table>
 <tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
@@ -145,9 +246,9 @@ Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni. It w
 
 <figure class="fig2">
 <figcaption>
-<h3 id="japan"><a href="#japan">Japan</a></h3>
+<h3 id="japan"><a href="#japan">New Zealand</a></h3>
 </figcaption>
-<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-japan.jpg" class="full-width" alt="Japan Front of sleeve for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" />
+<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-new-zealand.jpg" class="full-width" alt="New Zealand front of sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" />
 <figcaption>
 <table>
 <tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
@@ -155,12 +256,115 @@ Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni. It w
 <tr><th>Producer:</th><td>Tommy Scott</td></tr>
 <tr class="split"><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
 <tr><th>Producer:</th><td>Tommy Scott</td></tr>
-<tr class="split"><th>Label:</th><td>Philips - SFL-1850</td></tr>
+<tr class="split"><th>Label:</th><td>Philips - 6006 367</td></tr>
 <tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
-<tr><th>Country:</th><td>Japan</td></tr>
+<tr><th>Country:</th><td>New Zealand</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
-<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/sfl1850">sfl1850</a></td></tr>
-<tr class="split"><th style="vertical-align:top;">Note:</th><td>This is the english version of the single released in Japan it would be later in the year while visiting Japan that Lena would record a version of Ma! (He's Making Eyes At Me) in Japanese at this time I don't know what if any was on the B-side.</td></tr>
+<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006367nz">6006367nz</a></td></tr>
+</table>
+</figcaption>
+</figure>
+
+{: .clear}
+
+<figure class="fig1">
+<figcaption>
+<h3 id="norway"><a href="#norway">Norway</a></h3>
+</figcaption>
+<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-norway.jpg" class="full-width" alt="Norway front of sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" />
+<figcaption>
+<table>
+<tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
+<tr class="split"><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
+<tr><th>Composer:</th><td>C. Conrad, S. Clare</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+<tr class="split"><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
+<tr><th>Composer:</th><td>Sam. M. Lewis, J. Young, J. Schwartz</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+<tr class="split"><th>Label:</th><td>Philips - 6006 367</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Country:</th><td>Norway</td></tr>
+<tr><th>Released:</th><td>1974</td></tr>
+<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006367no">6006367no</a></td></tr>
+</table>
+</figcaption>
+</figure>
+
+<figure class="fig2">
+<figcaption>
+<h3 id="south-africa"><a href="#south-africa">South Africa</a></h3>
+</figcaption>
+<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-south-africa.jpg" class="full-width" alt="South Africa A-Side Label for the Single Ma! (He's Making Eyes At Me) R&T [Record And Tape] - RTS.43" />
+<figcaption>
+<table>
+<tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
+<tr class="split"><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
+<tr><th>Composer:</th><td>C. Conrad, S. Clare</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+<tr class="split"><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
+<tr><th>Composer:</th><td>Sam. M. Lewis, J. Young, J. Schwartz</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+<tr class="split"><th>Label:</th><td>R&T [Record And Tape] - RTS.43</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Country:</th><td>South Africa</td></tr>
+<tr><th>Released:</th><td>1974</td></tr>
+<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/rts43">RTS.43</a></td></tr>
+</table>
+</figcaption>
+</figure>
+
+{: .clear}
+
+<figure class="fig1">
+<figcaption>
+<h3 id="usa"><a href="#usa">USA</a></h3>
+</figcaption>
+<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-usa.jpg" class="full-width" alt="USA A-Side Label for the Single Ma! (He's Making Eyes At Me) Philips - STA-0206" />
+<figcaption>
+<table>
+<tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
+<tr class="split"><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
+<tr><th>Composer:</th><td>C. Conrad, S. Clare</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+<tr class="split"><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
+<tr><th>Composer:</th><td>Sam. M. Lewis, J. Young, J. Schwartz</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+<tr class="split"><th>Label:</th><td>Stax - STA-0206</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Country:</th><td>USA</td></tr>
+<tr><th>Released:</th><td>March Mar 1974</td></tr>
+<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/sta0206">STA-0206</a></td></tr>
+</table>
+</figcaption>
+</figure>
+
+<figure class="fig2">
+<figcaption>
+<h3 id="yugoslavia"><a href="#yugoslavia">Yugoslavia</a></h3>
+</figcaption>
+<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-yugoslavia.jpg" class="full-width" alt="Yugoslavia front of sleeve for the single Ma! (He's Making Eyes At Me) Radio-Televizija Beograd / Philips - S 53753" />
+<figcaption>
+<table>
+<tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
+<tr class="split"><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
+<tr><th>Composer:</th><td>C. Conrad, S. Clare</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+<tr class="split"><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
+<tr><th>Composer:</th><td>Sam. M. Lewis, J. Young, J. Schwartz</td></tr>
+<tr><th>Producer:</th><td>Tommy Scott</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+<tr class="split"><th>Label:</th><td>Radio-Televizija Beograd / Philips - S 53753</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Country:</th><td>Yugoslavia</td></tr>
+<tr><th>Released:</th><td>1974</td></tr>
+<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/s53753">S 53753</a></td></tr>
 </table>
 </figcaption>
 </figure>
