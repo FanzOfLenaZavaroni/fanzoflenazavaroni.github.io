@@ -3,8 +3,8 @@ layout: discography
 year: 23 December 2020
 title: D-Sides, Orphans, and Oddities &#124; 23 December 2020
 maintitle: D-Sides, Orphans, and Oddities
-subtitle:  23 December 2020
-description: 23 December 2020
+subtitle:  Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself
+description: Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself.
 image: /assets/images/podcasts/
 categories: [Podcasts, D-Sides Orphans and Oddities, OnThisDay23December]
 ---
@@ -18,3 +18,4 @@ Source: <a class="external-links" href="https://dsides.podbean.com/e/who-was-vau
 </figure>
 
 <br />{: .clear}
+
