@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update discography.html, 2017-05-23-in-the-corner-back-by-the-woodpil…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/103a88d888c8fe42276189fb079778fc37a598ee)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/896cdb5a2b5dd9aeaad326aa580862322267c74c)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7861a56f85302bbf085df09a53db2188c491f55c)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bb3af0c72320bb2f81229dd18f8956cb01357cb9)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/62179d4e866f147c9aafce94ca772036f3c383e8)
-- [Update ma-hes-making-eyes-at-me-australia.jpg, ma-hes-making-eyes-at-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/67e7152f6ee5577876b6e430419de383c855882a)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7e6d5e70d08405aed3a17be97707b5d75d2a5a87)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
