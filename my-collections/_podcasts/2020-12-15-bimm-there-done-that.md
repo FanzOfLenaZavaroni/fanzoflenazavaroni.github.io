@@ -3,8 +3,8 @@ layout: discography
 year: 15 December 2020
 title: Bimm There, Done That &#124; 15 December 2020
 maintitle: Bimm There, Done That
-subtitle:  15 December 2020
-description: 15 December 2020
+subtitle:  Ep 2 Kojo Osei And Sue Quin
+description: Ep 2 Kojo Osei And Sue Quin
 image: /assets/images/podcasts/
 categories: [Podcasts, Bimm There Done That, OnThisDay15December]
 ---

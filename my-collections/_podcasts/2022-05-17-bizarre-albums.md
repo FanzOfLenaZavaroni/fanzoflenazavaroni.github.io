@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: discography
 year: 29 April 2021
 title: Bizarre Albums &#124; 17 May 2022
 maintitle: Bizarre Albums
