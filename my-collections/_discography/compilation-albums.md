@@ -15,6 +15,8 @@ categories: [Discography]
 
 <a href="/discography/compilation-albums/1974-opportunity-knocks-winners">1974 &#8212; Opportunity Knocks Winners</a>
 
+<a href="/discography/compilation-albums/1974-ruidos-vol6">1974 &#8212; RUIDOS VOL. 6</a>
+
 <a href="/discography/compilation-albums/1976-20-golden-stars-and-hits">1976 &#8212; 20 Golden Stars & Hits</a>
 
 <a href="/discography/compilation-albums/1977-hits-of-bbc-and-alaska-rec-1">1977 &#8212; HITS OF BBC AND ALASKA REC 1</a>
