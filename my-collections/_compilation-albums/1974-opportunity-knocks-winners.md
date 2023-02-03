@@ -30,7 +30,7 @@ image: /assets/images/albums/various-opportunity-knocks-winners-vinyl-record.jpe
 <table>
 <tr><th style="width:50%">Artist:</th><td>Various</td></tr>
 <tr><th>Label:</th><td>Philips: 6308 220</td></tr>
-<tr><th>Formats:</th><td>12" Vinyl LP</td></tr>
+<tr><th>Formats:</th><td>12" Vinyl 33⅓ Album</td></tr>
 <tr><th>Country:</th><td>UK</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
 <tr><th>Lena Zavaroni</th><td><a href="#lena1">A-Side - Track 10</a></td></tr>

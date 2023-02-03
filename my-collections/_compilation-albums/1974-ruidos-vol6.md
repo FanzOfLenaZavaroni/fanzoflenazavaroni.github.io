@@ -22,7 +22,7 @@ image: /assets/images/albums/ruidos-vol6-fc.jpg
 <table>
 <tr><th>Artist:</th><td>Various</td></tr>
 <tr><th>Label:</th><td>Polydor: 2480214</td></tr>
-<tr><th>Formats:</th><td>12" Vinyl LP</td></tr>
+<tr><th>Formats:</th><td>12" Vinyl 33⅓ Album</td></tr>
 <tr><th>Country:</th><td>Argentina</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
 <tr class="split"><th>BlogSpot:</th><td><a class="external-link" href="http://discosdemiguel.blogspot.com/2016/04/0216-ruidos-vol-6-lp-1974-va.html">Los discos de Miguel</a></td></tr>

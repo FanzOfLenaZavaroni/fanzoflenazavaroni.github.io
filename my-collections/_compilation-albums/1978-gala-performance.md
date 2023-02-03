@@ -31,7 +31,7 @@ image: /assets/images/albums/1978-various-artists-gala-performance-ab-fc.jpg
 <table>
 <tr><th style="width:50%">Artist:</th><td>Various</td></tr>
 <tr><th>Label:</th><td>Pickwick Records: PLE 7005</td></tr>
-<tr><th>Formats:</th><td>12" Vinyl LP</td></tr>
+<tr><th>Formats:</th><td>12" Vinyl 33⅓ Album</td></tr>
 <tr><th>Country:</th><td>UK</td></tr>
 <tr><th>Released:</th><td>1978</td></tr>
 <tr><th>Limited Edition:</th><td>This album had a pressing limit of 250,000</td></tr>

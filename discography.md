@@ -15,11 +15,7 @@ maintitle: Discography+
 </div>
 
 <div>
-<img src="/assets/images/Sheetmusic/lena-zavaroni---sheet-music---ma-hes-making-eyes-at-me-01-sq.png" class="full-width" />
-</div>
-
-<div>
-<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-germany.jpg" class="full-width" /> 
+<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-germany.jpg" class="full-width" />
 </div>
 
 <div>
@@ -27,11 +23,15 @@ maintitle: Discography+
 </div>
 
 <div>
-<img src="/assets/images/albums/1987-05-11-pulp-freaks-01.jpg" class="full-width" /> 
+<img src="/assets/images/albums/1987-05-11-pulp-freaks-01.jpg" class="full-width" />
 </div>
 
 <div>
 <img src="/assets/images/karaoke/pioneer-laserkaraoke-vol-302.jpg" class="full-width" /> 
+</div>
+
+<div>
+<img src="/assets/images/Sheetmusic/lena-zavaroni---sheet-music---ma-hes-making-eyes-at-me-01-sq.png" class="full-width" /> 
 </div>
 </div>
 </figure>
