@@ -40,7 +40,7 @@ image: /assets/images/albums/1977-hits-of-bbc-and-alaska--rec-1-fc.jpg
 <table>
 <tr><th style="width:50%">Artist:</th><td>Various</td></tr>
 <tr><th>Label:</th><td>Polskie Nagrania Muza: SX 1485</td></tr>
-<tr><th>Formats:</th><td>12" Vinyl LP</td></tr>
+<tr><th>Formats:</th><td>12" Vinyl 33⅓ Album</td></tr>
 <tr><th>Country:</th><td>Poland</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
 </table>

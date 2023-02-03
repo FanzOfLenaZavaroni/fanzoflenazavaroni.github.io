@@ -45,7 +45,7 @@ image: /assets/images/albums/1974-various-artists-alle-13-goed-deel-7-de-hits-va
 <table>
 <tr><th style="width:50%">Artist(s):</th><td>Various</td></tr>
 <tr><th>Label:</th><td>Philips: 9299 007</td></tr>
-<tr><th>Formats:</th><td>12" Vinyl Album</td></tr>
+<tr><th>Formats:</th><td>12" Vinyl 33⅓ Album</td></tr>
 <tr><th>Country:</th><td>Netherlands</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
 <tr class="split"><th>45worlds:</th><td><a class="external-link" href="https://www.45worlds.com/vinyl/album/9299007">9299007</a></td></tr>

@@ -39,7 +39,7 @@ image: /assets/images/albums/LZ-Star-For-Millions-Front.jpg
 <table>
 <tr><th style="width:50%">Artist:</th><td>Lena Zavaroni</td></tr>
 <tr><th>Label:</th><td>Philips: 6308 243</td></tr>
-<tr><th>Formats:</th><td>12" Vinyl LP</td></tr>
+<tr><th>Formats:</th><td>12" Vinyl 33⅓ Album</td></tr>
 <tr><th>Country:</th><td>UK</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
 </table>

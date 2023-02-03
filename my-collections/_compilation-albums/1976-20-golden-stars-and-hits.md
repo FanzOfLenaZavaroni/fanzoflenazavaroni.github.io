@@ -22,7 +22,7 @@ image: /assets/images/albums/1976-various-artists-20-golden-stars-hits-ab-fc.jpg
 <table>
 <tr><th style="width:50%">Artist:</th><td>Various</td></tr>
 <tr><th>Label:</th><td>Philips: 63 989</td></tr>
-<tr><th>Formats:</th><td>12" Vinyl LP</td></tr>
+<tr><th>Formats:</th><td>12" Vinyl 33⅓ Album</td></tr>
 <tr><th>Country:</th><td>Germany</td></tr>
 <tr><th>Released:</th><td>1976</td></tr>
 <tr class="split"><th>45worlds:</th><td><a class="external-link" href="https://www.45worlds.com/vinyl/album/63989">63989</a></td></tr>
