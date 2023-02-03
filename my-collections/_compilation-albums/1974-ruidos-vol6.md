@@ -1,8 +1,8 @@
 ---
 layout: discography
 year: 1974
-title: RUIDOS vol. 6
-maintitle: RUIDOS vol. 6
+title: RUIDOS vol 6
+maintitle: RUIDOS vol 6
 subtitle: Compilation Album
 description: Compilation Album
 image: /assets/images/albums/ruidos-vol6-fc.jpg
@@ -12,7 +12,7 @@ image: /assets/images/albums/ruidos-vol6-fc.jpg
 <figcaption>
 <h3 id="front"><a href="#front">Front Cover</a></h3>
 </figcaption>
-<a href="/assets/images/albums/ruidos-vol6-fc.jpg"><img src="/assets/images/albums/ruidos-vol6-fc.jpg" class="full-width zoom-in" alt="Front Cover for the album RUIDOS vol. 6 (1974)" /></a>
+<a href="/assets/images/albums/ruidos-vol6-fc.jpg"><img src="/assets/images/albums/ruidos-vol6-fc.jpg" class="full-width zoom-in" alt="Front Cover for the album RUIDOS vol 6 (1974)" /></a>
 </figure>
 
 <figure class="fig2">
