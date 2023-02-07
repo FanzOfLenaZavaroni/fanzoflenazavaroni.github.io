@@ -14,7 +14,53 @@ categories: [Podcasts, Popcasting, OnThisDay23May]
 </figure>
 
 <figure class="fig3">
-Source: <a class="external-links" href="https://dsides.podbean.com/e/who-was-vaughn-meader">podbean</a>
+<h3 id="tracks"><a href="#tracks">Tracks</a></h3>
+<table>
+<tr><th style="width:10%; text-align:center;">Track</th><th>Artist</th><th>Title</th></tr>
+<tr><th style="width:10%; text-align:center;">1</th><td>REO Speedwagon</td><td>Ridin' The Storm Out (studio version)</td></tr>
+<tr><th style="width:10%; text-align:center;">2</th><td>Rufus</td><td>Read All About</td></tr>
+<tr><th style="width:10%; text-align:center;">3</th><td>Bay City Rollers</td><td>Jenny</td></tr>
+<tr><th style="width:10%; text-align:center;">4</th><td>Bay City Rollers</td><td>Hey C.B.</td></tr>
+<tr><th style="width:10%; text-align:center;">5</th><td>Wings</td><td>Beware My Love (demo)</td></tr>
+<tr><th style="width:10%; text-align:center;">6</th><td>The Crucibles</td><td>Beware Of Low-Flying Birds</td></tr>
+<tr><th style="width:10%; text-align:center;">7</th><td>Paul McCartney</td><td>Dress Me Up As a Robber (demo sections)</td></tr>
+<tr><th style="width:10%; text-align:center;">8</th><td>Wings</td><td>Going To New Orleans (My Carnival) (demo)</td></tr>
+<tr><th style="width:10%; text-align:center;">9</th><td>Bay City Rollers</td><td>Saturday Night (original version)</td></tr>
+<tr><th style="width:10%; text-align:center;">10</th><td>Paul McCartney</td><td>Stop, You Don’t Know Where She Came From (demo)</td></tr>
+<tr><th style="width:10%; text-align:center;">11</th><td>Bay City Rollers</td><td>Manana</td></tr>
+<tr><th style="width:10%; text-align:center;">12</th><td>The American Breed</td><td>When I’m With You</td></tr>
+<tr><th style="width:10%; text-align:center;">13</th><td>Paul McCartney</td><td>It's Not On (Pipes of Peace Bonus Track)</td></tr>
+<tr><th style="width:10%; text-align:center;">14</th><td>Paul McCartney</td><td>Mr. H Atom/You Know I'll Get You Baby (McCartney II Bonus Track)</td></tr>
+<tr><th style="width:10%; text-align:center;">15</th><td>Bay City Rollers</td><td>We Can Make Music</td></tr>
+<tr><th style="width:10%; text-align:center;">16</th><td>Rufus</td><td>Fire One Fire Two Fire Three</td></tr>
+<tr><th style="width:10%; text-align:center;">17</th><td>Rufus</td><td>Follow The Lamb</td></tr>
+<tr><th style="width:10%; text-align:center;">18</th><td>Rufus</td><td>Brand New Day</td></tr>
+<tr><th style="width:10%; text-align:center;">19</th><td>Rufus</td><td>Maybe Your Baby</td></tr>
+<tr><th style="width:10%; text-align:center;">20</th><td>Paul McCartney</td><td>Soily</td></tr>
+<tr><th style="width:10%; text-align:center;">21</th><td>Wings</td><td>Silly Love Songs (demo)</td></tr>
+<tr><th style="width:10%; text-align:center;">22</th><td>Suburban 9 to 5</td><td>Captain Kangaroo</td></tr>
+<tr><th style="width:10%; text-align:center;">23</th><td>Suburban 9 to 5</td><td>Sunshine Becomes You</td></tr>
+<tr><th style="width:10%; text-align:center;">24</th><td>The American Breed</td><td>Powder</td></tr>
+<tr><th style="width:10%; text-align:center;">25</th><td>The American Breed</td><td>Pumpkin</td></tr>
+<tr><th style="width:10%; text-align:center;">26</th><td>The American Breed</td><td>Scarlet</td></tr>
+<tr><th style="width:10%; text-align:center;">27</th><td>The American Breed</td><td>Green</td></tr>
+<tr><th style="width:10%; text-align:center;">28</th><td>The Good, The Bad, and The Ugly</td><td>Gypsy Lover</td></tr>
+<tr><th style="width:10%; text-align:center;">29</th><td>Vaughn Meader</td><td>The Second Coming (Part 1)</td></tr>
+<tr><th style="width:10%; text-align:center;">30</th><td>Vaughn Meader</td><td>The Second Coming (Part 2)</td></tr>
+<tr><th style="width:10%; text-align:center;">31</th><td>Barry McGuire</td><td>Secret Saucer Man</td></tr>
+<tr><th style="width:10%; text-align:center;">32</th><td>Bay City Rollers</td><td>Alright</td></tr>
+<tr><th style="width:10%; text-align:center;">33</th><td>Clarence Carter</td><td>Light My Fire</td></tr>
+<tr><th style="width:10%; text-align:center;">34</th><td>Frank Zappa</td><td>Public Service Announcement</td></tr>
+<tr style="outline: 4px dashed darkorange;"><th style="width:10%; text-align:center;">35</th><td>Lena Zavaroni</td><td>Jump Down Jimmy</td></tr>
+<tr><th style="width:10%; text-align:center;">36</th><td>Suburban 9 to 5</td><td>Walk Away</td></tr>
+<tr><th style="width:10%; text-align:center;">37</th><td>Martin & Finley</td><td>Long Life And Success To The Farmer</td></tr>
+<tr><th style="width:10%; text-align:center;">38</th><td>Milkwood</td><td>Makeshift Pawn</td></tr>
+<tr><th style="width:10%; text-align:center;">39</th><td>Nazz</td><td>Wonder Who's Loving Her Now</td></tr>
+<tr><th style="width:10%; text-align:center;">40</th><td>The Vapors</td><td>Prisoners</td></tr>
+<tr><th style="width:10%; text-align:center;">41</th><td>The Quick</td><td>Ain't Nothin' Gonna Stop Me</td></tr>
+<tr class="split"><th style="width:10%; text-align:center;">Source</th><td colspan="2"><a class="external-links" href="https://dsides.podbean.com/e/who-was-vaughn-meader">podbean</a></td></tr>
+</table>
 </figure>
 
 <br />{: .clear}
+
