@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The Stage and Television Today
+title: The Stage and Television Today &#124; 8 February 1979
 maintitle: The Stage and Television Today
 subtitle: Light Entertainment News In Brief - Variety Show To Support Year Of Child
 description: Several Artists, including David Jacobs, Paul Daniels, Lena Zavaroni, The Bachelors and many more are all performing for free.
 media: Light Entertainment News In Brief - Variety Show To Support Year Of Child
 post_description: Several Artists, including David Jacobs, Paul Daniels, Lena Zavaroni, The Bachelors and many more are all performing for free.
 image: /assets/images/the-stage-and-television-today/1979-02-08-the-stage-and-television-today-front-cover.jpg
-categories: [The Stage and Television Today]
+categories: [The Stage and Television Today, OnThisDay8February]
 ---
 
 <figure class="fig1">
