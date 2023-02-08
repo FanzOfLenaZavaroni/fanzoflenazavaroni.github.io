@@ -31,6 +31,10 @@ maintitle: Discography+
 </div>
 
 <div>
+<img src="/assets/images/podcasts/d-sides-orphans-and-oddities.jpg" class="full-width" /> 
+</div>
+
+<div>
 <img src="/assets/images/Sheetmusic/lena-zavaroni---sheet-music---ma-hes-making-eyes-at-me-01-sq.png" class="full-width" /> 
 </div>
 </div>
