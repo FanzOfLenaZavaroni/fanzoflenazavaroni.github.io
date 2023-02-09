@@ -18,7 +18,7 @@ categories: [Podcasts, Podcast From America, OnThisDay28December]
 
 <audio id="player" src="/assets/media/podcast_from-America-episode_6-bonnie_langford.mp3" type="audio/mpeg"><p>Your browser doesn't support HTML5 audio. Here is a <a href="/assets/media/podcast_from-America-episode_6-bonnie_langford.mp3">link to the audio</a> instead.</p></audio>
   <div>
-<button onclick="document.getElementById('player').play()">Play</button><button onclick="document.getElementById('player').play(); document.getElementById('player').currentTime = 1955;">Jump To The Part About Lena Zavaroni</button><button onclick="document.getElementById('player').pause()">Pause</button><button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button><button onclick="document.getElementById('player').volume += 0.1">Vol +</button><button onclick="document.getElementById('player').volume -= 0.1">Vol -</button></div>
+<button onclick="document.getElementById('player').play()">Play</button><button onclick="document.getElementById('player').play(); document.getElementById('player').currentTime = 1954;">Jump To The Part About Lena Zavaroni</button><button onclick="document.getElementById('player').pause()">Pause</button><button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button><button onclick="document.getElementById('player').volume += 0.1">Vol +</button><button onclick="document.getElementById('player').volume -= 0.1">Vol -</button></div>
 </figure>
 
 {: .clear}
