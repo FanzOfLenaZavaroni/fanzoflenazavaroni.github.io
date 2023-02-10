@@ -14,7 +14,7 @@ categories: [Podcasts, Podcast From America, OnThisDay28December]
 </figure>
 
 <figure class="fig2">
-<strong>Source:</strong> <a href="https://web.archive.org/web/20110718074356/http://lisamarksmedia.com/?m=201012">Lisa Marks Media via The Wayback Machine as the podcast is no longer available.</a>
+<p><strong>Source:</strong> <a href="https://web.archive.org/web/20110718074356/http://lisamarksmedia.com/?m=201012">Lisa Marks Media via The Wayback Machine as the podcast is no longer available.</a></p>
 
 <audio id="player" src="/assets/media/podcast_from-America-episode_6-bonnie_langford.mp3" type="audio/mpeg"><p>Your browser doesn't support HTML5 audio. Here is a <a href="/assets/media/podcast_from-America-episode_6-bonnie_langford.mp3">link to the audio</a> instead.</p></audio>
   <div>
