@@ -37,3 +37,7 @@ categories: [Podcasts, Podcast From America, OnThisDay28December]
 
 <br />{: .clear}
 
+<style>
+.fig1 {width:30%;}
+.fig2 {width:68%;}
+</style>
