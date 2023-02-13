@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The Les Dawson Show
+title: The Les Dawson Show &#124; 13 February 1982
 maintitle: The Les Dawson Show
 subtitle: Episode 2.3
 description: Lena sings Come Rain Or Come Shine, then appears in a comedy exchange with Les. She finishes off the show with a performance of Some Of These Days with Kids International on backing vocals, and Les on the piano.
 image: /assets/images/ITV/gettyimages-544761065-612x612.jpg
-categories: [BBC Television]
+categories: [BBC Television, OnThisDay13February]
 ---
 
 Lena sings Come Rain Or Come Shine, then appears in a comedy exchange with Les.
@@ -30,4 +30,5 @@ Crew
 * **Production company:** BBC Television
 
 **Related Websites:**
-* [BBC Genome](https://genome.ch.bbc.co.uk/9a8efadaea1c42a1810cd13871815b3d)
+* [BBC Genome](https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1982-02-13#at-20.15)
+
