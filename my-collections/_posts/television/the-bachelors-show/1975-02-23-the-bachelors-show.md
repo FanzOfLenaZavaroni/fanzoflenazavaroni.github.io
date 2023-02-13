@@ -7,7 +7,7 @@ description:  23 February 1975 - with The Bachelors, The Vernons and Lena Zavaro
 media: Epiosde 2
 post_description: with The Bachelors, The Vernons and Lena Zavaroni.
 image: /assets/images/BBC/The-Bachelors-Show-02.jpg
-categories: [BBC Two]
+categories: [BBC Two, OnThisDay23February]
 ---
 
 <figure class="fig1">
