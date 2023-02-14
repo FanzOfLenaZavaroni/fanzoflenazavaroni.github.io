@@ -17,11 +17,11 @@ categories: [Discography]
 
 <a href="/discography/podcasts/2020-05-01-popcasting357">2020-05-01 - Popcasting - Episode 357 (Spanish)</a>
 
-<a href="/discography/podcasts/2020-12-15-bimm-there-done-that">2020-12-15 - Bimm There, Done That (English)</a>
+<!-- <a href="/discography/podcasts/2020-12-15-bimm-there-done-that">2020-12-15 - Bimm There, Done That (English)</a> -->
 
 <a href="/discography/podcasts/2020-05-23-d-sides-orphans-and-oddities">2020-05-23 - D-Sides, Orphans, and Oddities - The Les Humphries Singers Tribute!!! (English)</a>
 
-<a href="/discography/podcasts/2020-12-23-d-sides-orphans-and-oddities">2020-12-23 - D-Sides, Orphans, and Oddities - Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself (English)</a>
+<a href="/discography/podcasts/2020-12-24-d-sides-orphans-and-oddities">2020-12-24 - D-Sides, Orphans, and Oddities - Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself (English)</a>
 
 <a href="/discography/podcasts/2020-12-31-the-70s-stop-here">2020-12-31 - The Peggy Mount Calamity Hour - The 70s Stop Here - The New Year Show (English)</a>
 
