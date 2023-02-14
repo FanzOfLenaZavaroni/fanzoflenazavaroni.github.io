@@ -292,15 +292,4 @@ image: /assets/images/newspapers/2008-01-13-the-observer-elizabeth-day.png
 
 <style>
 .dt-published {display: none;}
-
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
 </style>
