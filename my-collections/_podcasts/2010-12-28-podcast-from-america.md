@@ -32,7 +32,7 @@ categories: [Podcasts, Podcast From America, OnThisDay28December]
 <p>But along with Lena, she was the original talent show prodigy, and so we talked about the pressures on young performers (and that includes her niece Summer Strallen, who last year took to the stage as Maria in The Sound of Music, in the West End), reality shows, and what it takes to sustain a career.</p>
 <p>A younger audience came to love her after she took part in ITV1′s Dancing on Ice, in 2006, and afterwards, she returned to Broadway to play Roxie Hart in Chicago, and has also appeared in Cats, Sweet Charity and The Pirates of Penzance. Just before Christmas, she performed her one-woman off-Broadway show, at the Cabaret in the Cafe, 59E59 Theaters, to amazing reviews.</p>
 <p>We met at the London Hotel in Manhattan in September, where I was staying courtesy of Fox. They had flown me to New York to interview Josh Brolin, for Wall Street 2, and coincidentally, Bonnie’s husband, Paul Grunert, has a small cameo in the film. (Unfortunately, his big scene with Michael Douglas and Donald Trump didn’t make the final cut.) Bonnie’s happily married – a rarity in showbiz – and the mother of a ten-year-old daughter. She radiants good energy and it’s not hard to see why this talented performer, who first appeared on Broadway in 1974 in Gypsy, alongside Angela Lansbury, is still in demand.</p>
-<p>The music in the show is from Bonnie’s album, Jazz At The Theatre.</p>
+<p>The music in the show is from Bonnie’s album, <a class="external-link" href="https://www.youtube.com/watch?v=PvR5yMJ72tI">Jazz At The Theatre</a>.</p>
 </figure>
 
 <br />{: .clear}
