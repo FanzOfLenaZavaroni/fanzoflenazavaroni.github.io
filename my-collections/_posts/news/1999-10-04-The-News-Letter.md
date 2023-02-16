@@ -6,7 +6,7 @@ subtitle: Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return
 description: Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return.
 media: Newspaper
 post_description: Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return.
-categories: [Newspaper, The News Letter, OnThisDay4October]
+categories: [Newspapers, The News Letter, OnThisDay4October]
 ---
 
 ### Article excerpt

@@ -6,7 +6,7 @@ subtitle:  I HAVEN’T EATEN FOR 6 YEARS BUT LENA WANTED ME TO STAY ALIVE AND HE
 description: The Mirror Website published an interview by Ellie Dalziel
 Media: The Mirror Website published an interview by Ellie Dalziel
 post_description: I HAVEN’T EATEN FOR 6 YEARS BUT LENA WANTED ME TO STAY ALIVE AND HELP OTHER VICTIMS.
-categories: [Newspaper, Mirror, OnThisDay3October]
+categories: [Newspapers, Mirror, OnThisDay3October]
 ---
 
 SEVEN years ago this week, former child star Lena Zavaroni lost her tragic fight with anorexia.

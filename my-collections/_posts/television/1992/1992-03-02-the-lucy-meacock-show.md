@@ -7,7 +7,7 @@ description: Lena appears as a guest.
 media: Afternoon chat show.
 post_description: Lena appears as a guest.
 image: 
-categories: [Granada Television]
+categories: [Granada Television, OnThisDay2March]
 ---
 
 <table>

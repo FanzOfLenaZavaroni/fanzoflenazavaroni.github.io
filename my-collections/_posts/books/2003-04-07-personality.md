@@ -18,9 +18,9 @@ categories: [Books, OnThisDay7April]
 <tr align="center">
 <td><a href="#summary">Summary</a></td>
 <td><a href="#quotes">Quotes</a></td>
-<td><a href="#the-guardian-the-observer-review---23-march-2003">The Guardian</a></td>
-<td><a href="#the-mirror-22-april-2003">The Mirror</a></td>
-<td><a href="#logical-outcome-of-the-mirrors-comparison">Logical Outcome</a></td>
+<td><a href="#guardian">The Guardian</a></td>
+<td><a href="#mirror">The Mirror</a></td>
+<td><a href="#logical">Logical Outcome</a></td>
 </tr>
 <tr>
 <td><img src="/assets/images/BBC-PIDs/96x96/p08cjfzc.jpg" /></td>
@@ -88,15 +88,14 @@ categories: [Books, OnThisDay7April]
 </tr>
 </table>
 
-
-### Summary
+<h3 id="summary"> <a href="#summary">Summary</a></h3>
 > Maria Tambini is a thirteen-year-old girl with a great singing voice. Growing up on a small Scottish island, she is ready for the big time and keen to escape her ordinary life.
 >
 > When she wins a national TV talent show, she becomes an instant star, yet all the time 'the girl with the giant voice' is losing herself in fame and in a private battle with her own body.
 >
 > Can Maria be saved by love or is she destined to be consumed by celebrity, by family secrets, and by her number one fan?
 
-### Quotes
+<h3 id="quotes"> <a href="#quotes">Quotes</a></h3>
 
 > An enormously impressive, frequently curious and consistently ambitious novel.
 
@@ -112,12 +111,7 @@ What he manages brilliantly is allowing us only restricted access to Maria's min
 
 <cite>New York Review of Books</cite>
 
-### The Guardian: The Observer Review - 23 March 2003
-> Andrew O'Hagan follows the rise and fall of a 70s celebrity in his rags-to-riches tale, Personality.
-
-<cite>[The Guardian, 23 March 2003](https://www.theguardian.com/books/2003/mar/23/fiction.features4) &#8592; follow the link to read the article</cite>
-
-### The Mirror: 22 April 2003
+<h3 id="mirror"> <a href="#mirror">The Mirror: 22 April 2003</a></h3>
 > THE family of Lena Zavaroni have accused an author of cashing in on the late singer's memory, I learn.
 >
 > Andrew O'Hagan, deemed in the literary world to be a bright young thing, is publishing his novel, Personality, this week.
@@ -130,7 +124,12 @@ What he manages brilliantly is allowing us only restricted access to Maria's min
 
 <cite>[The Mirror, 22 April 2003 via The Free Library](https://www.thefreelibrary.com/The+Scurra.-a0100434743)&#8592; follow the link to read the full article</cite>
 
-### Logical Outcome of The Mirror's comparison
+<h3 id="guardian"> <a href="#guardian">The Guardian: The Observer Review - 23 March 2003</a></h3>
+> Andrew O'Hagan follows the rise and fall of a 70s celebrity in his rags-to-riches tale, Personality.
+
+<cite>[The Guardian, 23 March 2003](https://www.theguardian.com/books/2003/mar/23/fiction.features4) &#8592; follow the link to read the article</cite>
+
+<h3 id="logical"> <a href="#logical">Logical Outcome of The Mirror's comparison</a></h3>
 > So as we can see from the comparison between Maria Tambini and Lena Zavaroni's life stories is the fact that the only fictional element of this work is the claim that it's not about Lena Zavaroni.
 
 <cite>Robcamstone</cite>

@@ -6,7 +6,7 @@ subtitle: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the 
 description: Lena Zavaroni moved up the charts from number 13 to number 10.
 media: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the top 20)
 post_description: Lena Zavaroni moved up the charts from number 13 to number 10.
-categories: [BBC Radio 1, BBC Radio 2, Tom Browne, OnThisDay3 March]
+categories: [BBC Radio 1, BBC Radio 2, Tom Browne, OnThisDay3March]
 ---
 
 <figure class="fig1">

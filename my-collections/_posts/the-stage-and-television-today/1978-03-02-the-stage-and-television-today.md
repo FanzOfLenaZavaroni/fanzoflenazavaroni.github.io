@@ -7,7 +7,7 @@ description: Featured an article on the final Opportunity Knocks for Thames Tele
 media: Big bill, longer show for last OK
 post_description: Featured an article on the final Opportunity Knocks for Thames Television.
 image: /assets/images/the-stage-and-television-today/1978-03-02-the-stage-and-television-today-front-cover.jpg
-categories: [The Stage and Television Today]
+categories: [The Stage and Television Today, OnThisDay2March]
 ---
 
 <figure class="fig1">
