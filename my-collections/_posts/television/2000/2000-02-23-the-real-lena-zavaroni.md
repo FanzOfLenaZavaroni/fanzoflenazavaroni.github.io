@@ -8,12 +8,12 @@ description: Channel 4 documentary charting Lena Zavaroni's career and subsequen
 media: Lena Zavaroni
 post_description: Documentary charting Lena Zavaroni's career and subsequent illness.
 image: /assets/images/channel4/2000-02-23-the-real-lena-zavaroni.jpg
-categories: [Channel 4, OnThisDay23February, Repeat23January]
+categories: [Channel 4, The Real..., OnThisDay23February, Repeat23January]
 ---
 
 <figure class="fig1">
 <figcaption>
-<h3 id="publicity-photo">Publicity Photo</h3>
+<h3 id="publicity"><a href="#publicity">Publicity Photo</a></h3>
 </figcaption>
 <a href="/assets/images/channel4/2000-02-23-the-real-lena-zavaroni.jpg"><img src="/assets/images/channel4/2000-02-23-the-real-lena-zavaroni.jpg" class="full-width zoom-in"/></a>
 <figcaption>
@@ -23,7 +23,7 @@ categories: [Channel 4, OnThisDay23February, Repeat23January]
 
 <figure class="fig2">
 <figcaption>
-<h3 id="preview">Preview</h3>
+<h3 id="preview"><a href="#preview">Preview</a></h3>
 <blockquote>
 <p>On 6 January 1974, Hughie Green introduced a ten-year-old redhead from the Isle of Bute to the Opportunity Knocks audience. Overnight, Lena Zavaroni went from Winning the local talent contest to household name Under the guardianship of her agent, the little girl With the big voice left her island home and within a few short months had toured Japan and the US, sang to President Ford, met Frank Sinatra and taken residence on London's swanky Park Lane.</p>
 <p>Separated from her parents at an early age, torn by the pressures of fame - the path to anorexia clearly marked, leading the singer from the height of fame to drawing the dole and her eventual death last year An intimate account of a tragic life comprising interviews with friends and family, peppered With clips of that amazing voice in action, The Real LenaZavaroni is a fascinating insight, and deeply sad.</p>
@@ -36,7 +36,7 @@ categories: [Channel 4, OnThisDay23February, Repeat23January]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="cast">Cast</h3>
+<h3 id="cast"><a href="#cast">Cast</a></h3>
 <table>
 <tr><th>Narrator</th><td>Jenny Agutter</td></tr>
 <tr><th>On screen participant</th><td>Victor Zavaroni</td></tr>
@@ -52,7 +52,7 @@ categories: [Channel 4, OnThisDay23February, Repeat23January]
 
 <figure class="fig2">
 <figcaption>
-<h3 id="crew">Crew</h3>
+<h3 id="crew"><a href="#crew">Crew</a></h3>
 <table>
 <tr><th>Production executive</th><td>Christine Mathisen</td></tr>
 <tr><th>Production secretary</th><td>Kate Finn</td></tr>
@@ -68,17 +68,4 @@ categories: [Channel 4, OnThisDay23February, Repeat23January]
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
