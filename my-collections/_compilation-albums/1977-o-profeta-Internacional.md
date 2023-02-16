@@ -47,6 +47,11 @@ image: /assets/images/albums/o-profeta-internacional-1977.jpg
 <li>Foreigner – Feels Like The First Time</li>
 <li>Kramer (tema de Sônia) – I'm Just A Man</li>
 </ol>
+
+<div data-video="k1VrrJ-rVoo" data-autoplay="0" data-loop="1" id="youtube-audio"></div>Listen to sampler
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="/assets/js/yt.js"></script>
 </figure>
 
 <br />{: .clear}
+
