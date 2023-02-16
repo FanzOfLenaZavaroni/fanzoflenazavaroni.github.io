@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The Sunday Mail &#124; 20 Febuary 2000
+title: The Sunday Mail &#124; 20 February 2000
 maintitle: The Sunday Mail
 subtitle: Preview of The Real Lena Zavaroni
 description: 20 February 2000 - The Sunday Mail (Glasgow, Scotland) Preview of The Real Lena Zavaroni.
 media: Newspaper
 post_description: The Sunday Mail (Glasgow, Scotland) Preview of The Real Lena Zavaroni.
 image: /assets/images/BBC/
-categories: [Newspaper, Sunday Mail, OnThisDay20Febuary]
+categories: [Newspapers, Sunday Mail, OnThisDay20February]
 ---
 
 ### Real tragedy behind the little girl with the big voice; tvpreview.
@@ -59,5 +59,7 @@ categories: [Newspaper, Sunday Mail, OnThisDay20Febuary]
 >
 > Strange as it seems, The Real Lena Zavaroni could have some educational value. If just one troubled teenage girl, who suffers from anorexia nervosa, watches this documentary and decides to sort out her life - then Lena Zavaroni's legacy will be much more than an amazing voice.
 -->
-<cite>[COPYRIGHT 2000 The Sunday Mail (Glasgow, Scotland)](http://bit.ly/SundayMail-LZ-2000-02-20) &#8592; Follow the link for full artilce</cite>
+<cite>COPYRIGHT 2000 The Sunday Mail (Glasgow, Scotland) Follow the link to <a class="external-link" href="https://www.thefreelibrary.com/Real+tragedy+behind+the+little+girl+with+the+big+voice%3b+tvpreview.-a060595026">The Free Library</a> or to <a class="external-link" href="https://www.evernote.com/shard/s225/sh/c38ca6f7-2536-4e41-9a9e-82acda1ff36c/3zNjW7vgeKUSiB2_TL2o0-VwerF4s_KhJIQXye_6hDWi-kQPFLkOcjdK9w">Evernote</a> for full artilce.</cite>
+
+<br />{: .clear}
 

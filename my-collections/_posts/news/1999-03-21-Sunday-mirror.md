@@ -3,9 +3,9 @@ layout: post
 title: The Sunday Mirror &#124; 21 March 1999
 maintitle: The Sunday Mirror
 subtitle: SECRET RAPE NIGHTMARE OF SINGER LENA'S MOTHER
-description: Sunday Mirror - 21 March 1999 - SECRET RAPE NIGHTMARE OF SINGER LENA'S MOTHER.
+description: THE mother of Seventies singing sensation Lena Zavaroni was the victim of a brutal rape, the Sunday Mirror can reveal.
 media: Newspaper
-post_description: Sunday Mirror - 21 March 1999 - SECRET RAPE NIGHTMARE OF SINGER LENA'S MOTHER.
+post_description: THE mother of Seventies singing sensation Lena Zavaroni was the victim of a brutal rape, the Sunday Mirror can reveal.
 categories: [Newspapers, OnThisDay21March]
 ---
 

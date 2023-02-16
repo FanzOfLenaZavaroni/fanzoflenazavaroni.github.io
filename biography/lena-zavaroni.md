@@ -261,7 +261,7 @@ The famous British child star had been struggling with anorexia for 22 years. In
 &#8220;We are one of the UK&#8217;s premier teaching hospitals and at the leading edge of research and medical technology. Miss Zavaroni came to Cardiff because we are one of the few centres in the world that carry out this operation.&#8221;
 Lena died of a chest infection two weeks after the operation. She weighed just 49 lbs.
 </blockquote>
-<cite>Extract from Phillip Day's, Campaign For Truth, 24 March 2011</cite>
+<cite>Extract from Phillip Day's, Campaign For Truth, 24 March 2011 - View the full article via <a class="external-link" href="https://web.archive.org/web/20101213153200/http://campaignfortruth.com/Eclub/180208/CTM-deathinawhitecoat.htm">The Wayback Machine.</a></cite>
 </figure>
 
 <figure class="fig3">

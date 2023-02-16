@@ -5,7 +5,7 @@ maintitle: The York Press
 description: Yes that is Lena Zavaroni, the teenage popstar made famous overnight on TV talent show Opportunity Knocks back in 1974.
 post_description: Yes that is Lena Zavaroni, the teenage popstar made famous overnight on TV talent show Opportunity Knocks back in 1974.
 image: /assets/images/newspapers/2021-12-15-the-york-press-terry-Lena.png
-categories: [Newspaper, York Press, OnThisDay15December]
+categories: [Newspapers, York Press, OnThisDay15December]
 ---
 
 <a href="/assets/images/newspapers/2021-12-15-the-york-press-terry-Lena.png"><img src="/assets/images/newspapers/2021-12-15-the-york-press-terry-Lena.png" class="full-width zoom-in" /></a>
