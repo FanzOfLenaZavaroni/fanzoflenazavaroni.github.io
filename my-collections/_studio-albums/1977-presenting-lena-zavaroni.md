@@ -46,7 +46,7 @@ categories: [Studio Albums]
 <li>Pinch Me Am I Dreaming</li>
 </ol>
 
-<div data-video="A3t7-62XEaE" data-autoplay="0" data-loop="1" id="youtube-audio"></div>Play Album
+<div data-video="A3t7-62XEaE" data-autoplay="0" data-loop="1" id="youtube-audio"></div>Listen to sampler
 <script src="https://www.youtube.com/iframe_api"></script>
 <script src="/assets/js/yt.js"></script>
 </figure>
