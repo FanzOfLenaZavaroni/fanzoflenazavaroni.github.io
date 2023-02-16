@@ -7,7 +7,7 @@ description: PDF of the programme for Lena Zavaroni at the London Palladium.
 media: PDF
 post_description: A programme for Lena Zavaroni at the London Palladium.
 image: /assets/images/theatres/lena-zavaroni-at-the-london-palladium-01.jpg
-categories: [Theatre]
+categories: [Theatre, London Palladium, OnThisDay16March]
 ---
 
 <iframe src="/assets/pdf/1975-03-16 - Lena Zavaroni at the London Palladium.pdf" width="100%" height="605px">This browser does not support PDFs.</iframe>
