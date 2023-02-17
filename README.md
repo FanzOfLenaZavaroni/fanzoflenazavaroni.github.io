@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a932c789fdd2f2a7b28c646bc9376d8a59cdf62f)
 - [Update 2000-02-23-the-real-lena-zavaroni.md, 2001-08-07-the-real-hugh…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b99921575b6029ec4828414640599c17f0d85deb)
 - [Update lena-zavaroni.md, 2021-03-08-Newsbank.md, and 76 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f3b904b5c7f2cf9acca07110e856ebd4f527d648)
 - [Update 1977-o-profeta-Internacional.md and 1977-presenting-lena-zavar…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4d21ed076192b8cf540258c39e37e60dcde86a46)
 - [Update lena-zavaroni-air-love-mono-version-ashtree-records-holdings.j…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/057ea9eb86dbd18e7af6b0167cabf9a9b73057d8)
-- [Update 1975-03-16-lena-zavaroni-at-the-london-palladium.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/538c7558d248f41e2bbca5c42c36a757716f5d92)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
