@@ -17,6 +17,8 @@ categories: [Discography]
 
 <a href="/discography/podcasts/2020-05-01-popcasting357">2020-05-01 - Popcasting - Episode 357 (Spanish)</a>
 
+<a href="/discography/podcasts/2020-05-10-private-passions">2020-05-10 - Private Passions - Andrew O'Hagan (English)</a>
+
 <!-- <a href="/discography/podcasts/2020-12-15-bimm-there-done-that">2020-12-15 - Bimm There, Done That (English)</a> -->
 
 <a href="/discography/podcasts/2020-05-23-d-sides-orphans-and-oddities">2020-05-23 - D-Sides, Orphans, and Oddities - The Les Humphries Singers Tribute!!! (English)</a>
