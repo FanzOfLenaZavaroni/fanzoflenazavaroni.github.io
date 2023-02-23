@@ -4,6 +4,7 @@ title: Record and Radio Mirror &#124; 2 March 1976
 maintitle: Record and Radio Mirror
 subtitle: Magazine
 description: "Page 2: Lena's current single moves up the charts from number 13 to number 10, Page 16: Meet Lena The Human Dynamo."
+post_description: "Page 2: Lena's current single moves up the charts from number 13 to number 10, Page 16: Meet Lena The Human Dynamo."
 categories: [Magazines, OnThisDay2March]
 ---
 
