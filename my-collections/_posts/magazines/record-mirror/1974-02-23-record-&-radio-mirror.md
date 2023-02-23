@@ -3,7 +3,7 @@ layout: post
 title: Record and Radio Mirror &#124; 23 February 1976
 maintitle: Record and Radio Mirror
 subtitle: Magazine
-description: "Page 2:Lena's current single moves up the charts from number 16 to number 13, Page 3: Chart Parade Compiled By Tony Jasper, Page 22: Next week in Record & Radio o Mirror."
+description: "Page 2: Lena's current single moves up the charts from number 16 to number 13, Page 3: Chart Parade Compiled By Tony Jasper, Page 22: Next week in Record & Radio o Mirror."
 post_description: "Page 2:Lena's current single moves up the charts from number 16 to number 13, Page 3: Chart Parade Compiled By Tony Jasper, Page 22: Next week in Record & Radio o Mirror."
 categories: [Magazines, OnThisDay23February]
 ---
