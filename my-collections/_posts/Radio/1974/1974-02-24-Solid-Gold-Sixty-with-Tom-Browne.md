@@ -25,19 +25,8 @@ categories: [BBC Radio 1, BBC Radio 2, Tom Browne, OnThisDay24February]
 
 <figure class="fig3">
 <h3 id="recording"><a href="#recording">Recording of the Top 20 section of the broadcast</a></h3>
-<strong>I embedded both recordings of the same broadcast so that if one should go offline hopefully the other will still be available.</strong>
-</figure>
-
-<figure class="fig1">
-<img src="https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/0/2/9/7/9017-1b2e-4d59-87f0-5ed4efba32f7" class="full-width" />
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fandyboyd%2Ftom-browne-uk-top-20-24-2-1974%2F" frameborder="0" ></iframe>
 <cite><a href="https://www.mixcloud.com/andyboyd">andyboyd</a></cite>
-</figure>
-
-<figure class="fig2">
-<img src="https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/9/b/b/2/8d0b-4c93-46c4-a8a1-cfd43a0c5138" class="full-width" />
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fphil-caldwell%2Ftom-browne-uk-top-20-24-03-1974%2F" frameborder="0" ></iframe>
-<cite><a href="https://www.mixcloud.com/phil-caldwell">Phil Caldwell</a></cite>
 </figure>
 
 {: .clear}
