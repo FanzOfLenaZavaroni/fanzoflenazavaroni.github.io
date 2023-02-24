@@ -4,6 +4,7 @@ title: Charity All Star Variety Show &#124; 25 February 1979
 maintitle: Charity All Star Variety Show
 subtitle: Theatre Royal, Drury Lane, London
 description: Theatre Royal, Drury Lane, London. Starring Lena Zavaroni
+post_description: Show held to mark "International Year of the Child", and to raise money for several charities.
 categories: [Theatre, Theatre Royal, Drury Lane, OnThisDay25February]
 ---
 
