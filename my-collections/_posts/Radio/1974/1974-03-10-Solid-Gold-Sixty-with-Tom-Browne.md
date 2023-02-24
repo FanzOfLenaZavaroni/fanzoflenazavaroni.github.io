@@ -28,7 +28,7 @@ categories: [BBC Radio 1, BBC Radio 2, Tom Browne, OnThisDay10March]
 <figure class="fig3">
 <h3 id="recording"><a href="#recording">Recording of the Top 20 section of the broadcast</a></h3>
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=" frameborder="0" ></iframe>
-<cite>Place hold for if episode becomes available</cite>
+<cite>Place hold for if episode becomes available, <a href="https://www.mixcloud.com/discover/tom-browne/">M-x Cloud Tagged tom-browne</a></cite>
 </figure>
 
 {: .clear}
