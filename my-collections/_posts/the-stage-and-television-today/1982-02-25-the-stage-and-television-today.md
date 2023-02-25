@@ -6,45 +6,33 @@ subtitle:
 description: Advertisement - OFFICIAL LENA ZAVARONI APPRECIATION SOCIETY S.A.E. for details 75 Highfield Rd. Blackpool. Lanes. CATHOLIC STAGE GUILD Membership details contact
 media: Advertisement
 post_description: OFFICIAL LENA ZAVARONI APPRECIATION SOCIETY S.A.E. for details 75 Highfield Rd. Blackpool. Lanes. CATHOLIC STAGE GUILD.
-image: /assets/images/the-stage-and-television-today/1982-02-18-the-stage-and-television-today-front-cover.jpg
+image: /assets/images/the-stage-and-television-today/1982-02-25-the-stage-and-television-today-front-cover.png
 categories: [The Stage and Television Today, OnThisDay25February]
-published: false
 ---
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover">Front Cover</h3>
+<h3 id="front"><a href="#front">Front Cover</a></h3>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1982-02-18-the-stage-and-television-today-front-cover.jpg"><img src="/assets/images/the-stage-and-television-today/1982-02-18-the-stage-and-television-today-front-cover.jpg" class="full-width zoom-in"></a>
+<a href="/assets/images/the-stage-and-television-today/1982-02-25-the-stage-and-television-today-front-cover.png"><img src="/assets/images/the-stage-and-television-today/1982-02-25-the-stage-and-television-today-front-cover.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-10">page 10</h3>
+<h3 id="cropped"><a href="#cropped">page 33 cropped</a></h3>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1982-02-18-the-stage-and-television-today-page-10.jpg"><img src="/assets/images/the-stage-and-television-today/1982-02-18-the-stage-and-television-today-page-10.jpg" class="full-width zoom-in"></a>
-</figure>
-
-{: .clear}
-
-<figure class="fig1">
-<figcaption>
-<h3 id="page-10-cropped">page 10 cropped</h3>
-</figcaption>
-<a href="/assets/images/the-stage-and-television-today/1982-02-18-the-stage-and-television-today-page-10-cropped.jpg"><img src="/assets/images/the-stage-and-television-today/1982-02-18-the-stage-and-television-today-page-10-cropped.jpg" class="full-width zoom-in"></a>
+<a href="/assets/images/the-stage-and-television-today/1982-02-25-the-stage-and-television-today-page-33.png"><img src="/assets/images/the-stage-and-television-today/1982-02-25-the-stage-and-television-today-page-33.png" class="full-width zoom-in"></a>
 </figure>
 
 <br />{: .clear}
 
 <style>
-.fig1 {float:left; width:49%;}
+.fig1 {float:left; width:61%;}
 
-.fig2 {float:right; width:49%;}
-
-figcaption {float:left; width:100%;}
+.fig2 {float:right; width:37%;}
 
 @media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
+.fig1, .fig2 {float:left; width:100%; margin-bottom:30px;}
 figcaption {float:left; width:100%; margin-bottom: 10px;}
 }
 </style>
