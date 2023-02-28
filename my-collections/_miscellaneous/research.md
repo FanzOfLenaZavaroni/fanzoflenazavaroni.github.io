@@ -20,7 +20,7 @@ The following is a list of websites and tips that may help you with your own res
 <tr><td><a href="#numbers" title="Jump To">#</a></td><td><a href="#a" title="Jump To">A</a></td><td><a href="#b" title="Jump To">B</a></td><td>C</td><td><a href="#d" title="Jump To">D</a></td><td>E</td><td><a href="#f" title="Jump To">F</a></td><td><a href="#g" title="Jump To">G</a></td><td>H</td><td><a href="#i" title="Jump To">I</a></td><td>J</td><td>K</td><td>L</td><td><a href="#m" title="Jump To">M</a></td><td><a href="#n" title="Jump To">N</a></td><td>O</td><td>P</td></tr>
 
 
-<tr><td>Q</td><td>R</td><td><a href="#s" title="Jump To">S</a></td><td><a href="#t" title="Jump To">T</a></td><td>U</td><td>V</td><td><a href="#w" title="Jump To">W</a></td><td>X</td><td>Y</td><td>Z</td><td colspan="7"><a href="#failure">Visitors Tips</a></td></tr>
+<tr><td>Q</td><td>R</td><td><a href="#s" title="Jump To">S</a></td><td><a href="#t" title="Jump To">T</a></td><td>U</td><td>V</td><td><a href="#w" title="Jump To">W</a></td><td>X</td><td>Y</td><td>Z</td><td colspan="7"><a href="#orphaned">Visitors Tips</a></td></tr>
 </table>
 
 <h3 id="numbers">#</h3>
@@ -124,14 +124,14 @@ The following is a list of websites and tips that may help you with your own res
 <p>That is why I have defined them as Orphaned Comments.</p>
 </div>
 
-<h3 id="orphaned"><a href="#failure">Orphaned Comment(s)</a></h3>
+<h3 id="orphaned"><a href="#orphaned">Orphaned Comment(s)</a></h3>
 
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/54290841" class="shape"/>From <a class="link" href="https://github.com/StephenMolloy1">Stephen Molloy</a> - Date 14 November 2020 at 12:07:17 GMT</p>
 <p>Subject: <a class="link" href="/research">Re: [FanzOfLenaZavaroni/fanzoflenazavaroni.github.io] research (#61)</a></p>
 <p>Comment:</p>
 <p>Putting all available sources for research on a single page is a good idea. The British Newspaper Archive is a good source. It has an "on this day" feature which shows the paper from todays date. By refreshing the page you can access different years.</p>
-<p>I have added the link to The Stage as an example, but if you replace 'the-stage' with another newspapers name, keeping it in lower case and using a hyphen in the case of a two word name, then lots of papers can be accessed. somewhere on the site is a list of papers that they have archived.</p>
+<p>I have added the link to <a class="external-link" href="https://www.britishnewspaperarchive.co.uk/titles/the-stage">The Stage</a> as an example, but if you replace 'the-stage' with another newspapers name, keeping it in lower case and using a hyphen in the case of a two word name, then lots of papers can be accessed. somewhere on the site is a list of papers that they have archived.</p>
 </div>
 
 <style>
