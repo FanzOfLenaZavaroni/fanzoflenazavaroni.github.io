@@ -4,7 +4,7 @@ title: They Work For You &#124; 28 February 2023
 maintitle: They Work For You
 subtitle: Eating Disorders Awareness Week — [Carolyn Harris in the Chair] – in Westminster Hall
 description: Makes reference to Lena Zavaroni.
-post_description: Makes reference to Lena Zavaroni.
+post_description: Eating Disorders Awareness Week — [Carolyn Harris in the Chair] – in Westminster Hall – Makes reference to Lena Zavaroni.
 categories: [They Work For You, OnThisDay28February]
 ---
 
@@ -16,3 +16,4 @@ categories: [They Work For You, OnThisDay28February]
 <cite><a class="external-link" href="https://www.theyworkforyou.com/whall/?id=2023-02-28a.217.0&fbclid=IwAR32VrX9PBxNgB-_0h6M5P8xXg4FaJLz7SE6BWXrZXX8g8OVZyD2PDBSm8I#g224.0:~:text=My%20hon.%20Friend%20Patricia,is%20affected%20by%20them.">Second Reference</a>
 
 <br />{: .clear}
+
