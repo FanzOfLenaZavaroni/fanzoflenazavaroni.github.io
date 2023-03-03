@@ -28,7 +28,7 @@ categories: [BBC Radio 1, BBC Radio 2, Tom Browne, OnThisDay3March]
 <figure class="fig3">
 <h3 id="recording"><a href="#recording">Recording of the Top 20 section of the broadcast</a></h3>
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fpeteseaton%2Fsolid-gold-sixty-with-tom-browne-030374%2F" frameborder="0" ></iframe>
-<cite><a href="https://www.mixcloud.com/peteseaton">Poptastic UK</a></cite>
+<cite>Place hold for if episode becomes available again as recording was available at one time, <a href="https://www.mixcloud.com/discover/tom-browne/">M-x Cloud Tagged tom-browne</a></cite>
 </figure>
 
 {: .clear}
