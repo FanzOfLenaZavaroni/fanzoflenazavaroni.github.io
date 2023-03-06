@@ -18,6 +18,8 @@ categories: [Magazines, OnThisDay2February]
 <cite>Record and Radio Mirror - 2 February 1976<br /><a class="external-link" href="https://www.americanradiohistory.com/UK/Record-Mirror/70s/74/Record-Mirror-1974-02-02.pdf#page=15">Page 15 of PDF</a></cite>
 </figure>
 
+{: .clear}
+
 <figure class="fig3">
 <strong>Quote:</strong> {{ page.description }}
 </figure>
