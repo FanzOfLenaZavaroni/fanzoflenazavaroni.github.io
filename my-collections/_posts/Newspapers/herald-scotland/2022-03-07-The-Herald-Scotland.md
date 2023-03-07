@@ -15,7 +15,7 @@ categories: [Newspapers, Herald, Scotland, OnThisDay7March]
 </figure>
 
 <figure class="fig3">
-<h3 id="tagline"><a href="#tagline">The Glasgow Herald published an article with the tag line "Who killed Zena Zavaroni? The life and tragic early death of a child star".</a></h3>
+<h3 id="tagline"><a href="#tagline">The Glasgow Herald published an article with the tag line "Who killed <s>Z</s>Lena Zavaroni? The life and tragic early death of a child star".</a></h3>
 <blockquote>
 <p>Zavaroni, who grew up in Rothesay, became the youngest person in musical history to have an album in the Top 10. She appeared on US television with Frank Sinatra and Lucille Ball. The young Scot went on to perform at the White House for President Gerald Ford.</p>
 <p>But the story didn’t run to a happy ending. Zavaroni, who sang music hall hits such Ma, He’s Making Eyes at Me and Personality struggled to develop from precocious little girl to teenager. The singer’s stock in trade was the offering up of vaudevillian, deep-throated gutsy adult vocals, while appearing in children’s frilly blouses and long white socks.</p>
