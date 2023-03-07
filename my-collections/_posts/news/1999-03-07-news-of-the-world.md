@@ -9,7 +9,7 @@ post_description: Article One - Lena's shoplift agony over 50p jelly packet - Ex
 categories: [Newspapers, News of the World, London, OnThisDay7March]
 ---
 
-### Article One
+<h3 id="one"><a href="#one">Article One</a></h3>
 
 **Lena's shoplift agony over 50p jelly packet - Exclusive**
 
@@ -43,7 +43,7 @@ categories: [Newspapers, News of the World, London, OnThisDay7March]
 
 <cite>Copyright News Group Newspapers Limited 1999, 2003.</cite>
 
-### Article Two
+<h3 id="two"><a href="#two">Article Two</a></h3>
 
 **Sad Lena in shoplift agony over pack of jelly worth 50p - Exclusive**
 
