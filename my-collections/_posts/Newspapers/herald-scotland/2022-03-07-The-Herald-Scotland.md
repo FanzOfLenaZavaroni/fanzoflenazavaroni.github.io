@@ -2,9 +2,9 @@
 layout: post
 title: The Herald Scotland &#124; News Section &#124; 7 March 2022
 maintitle: The Herald Scotland
-subtitle: Published an article with the tag line "Who killed Zena Zavaroni? The life and tragic early death of a child star".
-description: Published an article with the tag line "Who killed Zena Zavaroni? The life and tragic early death of a child star".
-post_description: Published an article with the tag line "Who killed Zena Zavaroni? The life and tragic early death of a child star".
+subtitle: Published an article with the tag line "Who killed <s>Z</s>Lena Zavaroni? The life and tragic early death of a child star".
+description: Published an article with the tag line "Who killed <s>Z</s>Lena Zavaroni? The life and tragic early death of a child star".
+post_description: Published an article with the tag line "Who killed <s>Z</s>Lena Zavaroni? The life and tragic early death of a child star".
 image: /assets/images/newspapers/2022-03-07-herald.jpg
 categories: [Newspapers, Herald, Scotland, OnThisDay7March]
 ---
