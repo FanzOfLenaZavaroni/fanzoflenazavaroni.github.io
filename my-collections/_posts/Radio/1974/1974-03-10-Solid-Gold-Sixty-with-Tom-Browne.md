@@ -12,23 +12,29 @@ categories: [BBC Radio 1, BBC Radio 2, Tom Browne, OnThisDay10March]
 
 <figure class="fig1">
 <h3 id="radio-1"><a href="#radio-1">BBC Radio 1</a></h3>
-<p><a href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1974-03-03#at-16.00">The 60 top records of today starts at 16:00hrs.</a></p>
+<p><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1974-03-03#at-16.00">The 60 top records of today starts at 16:00hrs</a></p>
 </figure>
 
 <figure class="fig2">
 <figcaption>
 <h3 id="radio-2"><a href="#radio-2">BBC Radio 2</a></h3>
-<p><a href="https://genome.ch.bbc.co.uk/schedules/radio2/1974-03-03#at-18.00">The 20 top records of today starts at 18:00hrs.</a></p>
+<p><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio2/1974-03-03#at-18.00">The 20 top records of today starts at 18:00hrs</a></p>
 
 </figcaption>
 </figure>
 
 {: .clear}
 
-<figure class="fig3">
-<h3 id="recording"><a href="#recording">Recording of the Top 20 section of the broadcast</a></h3>
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=" frameborder="0" ></iframe>
-<cite>Place hold for if episode becomes available, <a href="https://www.mixcloud.com/discover/tom-browne/">M-x Cloud Tagged tom-browne</a></cite>
+<figure class="fig1">
+<h3 id="charts"><a href="#charts">UK Official Singles Chart</a></h3>
+<p><strong>Top 50:</strong> &nbsp; <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740303/7501">3 March 1974 - 9 March 1974</a></p>
+</figure>
+
+<figure class="fig1">
+<h3 id="dates"><a href="#dates">Differences In Dates</a></h3>
+<p>As can be seen the BBC seems to broadcast a week behind the dates given by the UK Official Singles Charts.</p>
+<p>I imagine that is because the programme is broadcast on a Sunday and they would not receive the data for the charts until sometime during the week.</p>
+<cite>Robcamstone</cite>
 </figure>
 
 {: .clear}
