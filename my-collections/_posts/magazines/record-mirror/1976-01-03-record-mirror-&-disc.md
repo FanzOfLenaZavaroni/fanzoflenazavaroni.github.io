@@ -6,7 +6,7 @@ subtitle: Magazine
 description: Under the WITS' END section Lena Zavaroni is described as the most anger - provoking singer.
 media: Details
 post_description: Under the WITS' END section Lena Zavaroni is described as the most anger - provoking singer.
-categories: [Magazines, OnThisDay3January]
+categories: [Magazines, Record Mirror & Disc, OnThisDay3January]
 ---
 
 <figure class="fig1">

@@ -5,7 +5,7 @@ maintitle: Record and Radio Mirror
 subtitle: "Lena's single Ma! (He's Making Eyes At Me) moves down the charts from number 17 to number 26"
 description: "Lena's single Ma! (He's Making Eyes At Me) moves down the charts from number 17 to number 26"
 post_description: "Lena's single Ma! (He's Making Eyes At Me) moves down the charts from number 17 to number 26"
-categories: [Magazines, OnThisDay30March]
+categories: [Magazines, Record and Radio Mirror, OnThisDay30March]
 ---
 
 <figure class="fig1">

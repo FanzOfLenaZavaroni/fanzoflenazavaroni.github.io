@@ -5,7 +5,7 @@ maintitle: Record Mirror
 subtitle: Magazine
 description: "LENA ZAVARONI 'Air lave' (Galaxy GY114)"
 post_description: "LENA ZAVARONI 'Air lave' (Galaxy GY114)"
-categories: [Magazines, OnThisDay5March]
+categories: [Magazines, Record Mirror, OnThisDay5March]
 ---
 
 <figure class="fig1">
