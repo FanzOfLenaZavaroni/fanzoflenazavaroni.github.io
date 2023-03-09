@@ -14,6 +14,111 @@ categories: [Discography, Singles]
 
 Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni. It was released shortly after her third appearance on Opportunity Knocks.
 
+<figure class="fig3">
+<h3 id="chart"><a href="#chart">UK Official Singles Chart Top 40 Positions For The Single</a></h3>
+<table>
+<tr>
+<th style="width:40%;">Start of the week (Sunday)</th>
+<th style="width:40%;">End of the week (Saturday)</th>
+<th style="text-align:center;">Pos</th>
+<th style="text-align:center;">LW</th>
+<th style="text-align:center;">WoC</th>
+</tr>
+
+<tr>
+<td>3 February 1974</td>
+<td>9 February 1974</td>
+<td style="text-align:center;">30</td>
+<td style="text-align:center;">New</td>
+<td style="text-align:center;">1</td>
+</tr>
+
+<tr>
+<td>10 February 1974</td>
+<td>16 February 1974</td>
+<td style="text-align:center;">16</td>
+<td style="text-align:center;">30</td>
+<td style="text-align:center;">2</td>
+</tr>
+
+<tr>
+<td>17 February 1974</td>
+<td>23 February 1974</td>
+<td style="text-align:center;">13</td>
+<td style="text-align:center;">16</td>
+<td style="text-align:center;">3</td>
+</tr>
+
+<tr>
+<td>24 February 1974</td>
+<td>2 March 1974</td>
+<td style="text-align:center;">10</td>
+<td style="text-align:center;">13</td>
+<td style="text-align:center;">4</td>
+</tr>
+
+<tr>
+<td>3 March 1974</td>
+<td>9 March 1974</td>
+<td style="text-align:center;">13</td>
+<td style="text-align:center;">10</td>
+<td style="text-align:center;">5</td>
+</tr>
+
+<tr>
+<td>10 March 1974</td>
+<td>16 March 1974</td>
+<td style="text-align:center;">14</td>
+<td style="text-align:center;">13</td>
+<td style="text-align:center;">6</td>
+</tr>
+
+<tr>
+<td>17 March 1974</td>
+<td>23 March 1974</td>
+<td style="text-align:center;">17</td>
+<td style="text-align:center;">14</td>
+<td style="text-align:center;">7</td>
+</tr>
+
+<tr>
+<td>24 March 1974</td>
+<td>30 March 1974</td>
+<td style="text-align:center;">26</td>
+<td style="text-align:center;">17</td>
+<td style="text-align:center;">8</td>
+</tr>
+
+<tr>
+<td>31 March 1974</td>
+<td>6 April 1974</td>
+<td style="text-align:center;">32</td>
+<td style="text-align:center;">26</td>
+<td style="text-align:center;">9</td>
+</tr>
+
+<tr>
+<td>7 April 1974</td>
+<td>13 April 1974</td>
+<td style="text-align:center;">38</td>
+<td style="text-align:center;">32</td>
+<td style="text-align:center;">10</td>
+</tr>
+
+<tr>
+<td colspan="5"><strong>Key:</strong> &nbsp; Pos=Chart Position &nbsp; LW=Last Week &nbsp; WoC=Weeks On Charts</td>
+</tr>
+
+<tr>
+<td colspan="5"><strong>Note:</strong> &nbsp; After the 13 April 1974 the single was no longer listed within the Top 40</td>
+</tr>
+
+<tr>
+<td colspan="5"><strong>All The 10s:</strong> &nbsp; Lena was aged 10, The single was in the charts for 10 weeks & it peak at number 10</td>
+</tr>
+</table>
+</figure>
+
 <figure class="fig1">
 <figcaption>
 <h3 id="uk"><a href="#uk">UK</a></h3>
