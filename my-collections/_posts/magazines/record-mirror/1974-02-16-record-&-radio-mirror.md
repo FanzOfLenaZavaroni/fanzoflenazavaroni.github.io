@@ -21,7 +21,7 @@ categories: [Magazines, OnThisDay16February]
 {: .clear}
 
 <figure class="fig3">
-<strong>Database of the chart positions as published in the Record & Radio Mirror:</strong> <a href="/assets/data/Data from the Record & Radio Mirror Publication Related To Lena Zavaroni's single Ma! (He's Making Eyes At Me) And Its Position In The Top 50 - Sheet1.csv">csv</a> &nbsp; <a href="/assets/data/Data from the Record & Radio Mirror Publication Related To Lena Zavaroni's single Ma! (He's Making Eyes At Me) And Its Position In The Top 50.ods">ods</a>
+<strong>Database of the chart positions as published by the UK Official Singles Charts:</strong> &nbsp; <a href="/assets/data/Official Singles Chart Top 40 Related To Lena Zavaroni's single Ma! (He's Making Eyes At Me) - Sheet1.csv">csv</a> &nbsp; <a href="/assets/data/Official Singles Chart Top 40 Related To Lena Zavaroni's single Ma! (He's Making Eyes At Me).ods">ods</a>
 </figure>
 
 <br />{: .clear}
