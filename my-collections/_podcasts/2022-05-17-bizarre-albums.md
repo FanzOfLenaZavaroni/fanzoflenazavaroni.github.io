@@ -10,7 +10,8 @@ categories: [Podcasts, Bizarre Albums, OnThisDay17May]
 ---
 
 <figure class="fig3">
-<iframe src="https://anchor.fm/bizarrealbums/embed/episodes/Lena-Zavaroni---Ma--Hes-Making-Eyes-At-Me-e1ikehp/a-a7uj617" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<p>Spoken Language: English</p>
+<iframe src="https://www.listennotes.com/podcasts/bizarre-albums/lena-zavaroni-ma-hes-making-6j0HJMFRQkO/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 </figure>
 
 {: .clear}

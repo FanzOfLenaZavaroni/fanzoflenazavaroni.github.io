@@ -10,6 +10,7 @@ categories: [BBC Radio 3, Podcasts, Private Passions, OnThisDay10May]
 ---
 
 <figure class="fig3">
+<p>Spoken Language: English</p>
 <a href="/assets/images/BBC-PIDs/1920xn/p08cjfzc.jpg"><img src="/assets/images/BBC-PIDs/1920xn/p08cjfzc.jpg" class="full-width zoom-in" /></a>
 Originally broadcast on <a class="external-link" href="https://www.bbc.co.uk/programmes/m000j2bd">BBC Radio 3</a> and then added as a podcast on the radio version of BBC iPlayer which has now been rebranded as <a class="external-link" href="https://www.bbc.co.uk/sounds/play/m000j2bd">BBC Sounds</a>.
 </figure>

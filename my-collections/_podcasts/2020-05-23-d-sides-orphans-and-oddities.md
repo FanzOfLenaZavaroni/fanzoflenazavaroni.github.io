@@ -9,6 +9,7 @@ categories: [Podcasts, D-Sides Orphans and Oddities, OnThisDay23May]
 ---
 
 <figure class="fig3">
+<p>Spoken Language: English</p>
 <iframe src="https://www.listennotes.com/podcasts/d-sides-orphans/the-les-humphries-singers-w4Qe9_qXjy2/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 </figure>
 
