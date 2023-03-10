@@ -10,6 +10,7 @@ categories: [Podcasts, Popcasting, OnThisDay23May]
 ---
 
 <figure class="fig3">
+<p>Spoken Language: English</p>
 <iframe title="In the Corner Back by the Woodpile #104: Fluorescent Decade on a Hill X" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=hvtwa-6b21ab-pb&share=1&download=1&fonts=Arial&skin=1&font-color=&rtl=0&logo_link=&btn-skin=7&size=150"></iframe>
 </figure>
 

@@ -10,6 +10,7 @@ categories: [Podcasts, D-Sides Orphans and Oddities, OnThisDay24December]
 ---
 
 <figure class="fig3">
+<p>Spoken Language: English</p>
 <iframe title="Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself." allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=se68m-f5c680-pb&share=1&download=1&fonts=Arial&skin=1&font-color=&rtl=0&logo_link=&btn-skin=7&size=150"></iframe>
 </figure>
 
