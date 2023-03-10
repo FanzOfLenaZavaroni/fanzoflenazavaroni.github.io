@@ -9,13 +9,14 @@ image: /assets/images/podcasts/
 categories: [Podcasts, The 70s Stop Here, The New Year Show, OnThisDay 31December]
 ---
 
-<figure class="fig1">
 <p>Spoken Language: English</p>
+
+<figure class="fig1">
 <iframe title="The 70s Stop Here/The New Year Show" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=ybsd8-f63e1e-pb&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=&rtl=0&logo_link=&btn-skin=12&size=150"></iframe>
 </figure>
 
 <figure class="fig2">
-<img class="full-width" src="/assets/images/Parental_Advisory_Strong_Spoken Language_2002.png" />
+<img class="full-width" src="/assets/images/Parental_Advisory_Strong_Language_2002.png" />
 </figure>
 
 {: .clear}
