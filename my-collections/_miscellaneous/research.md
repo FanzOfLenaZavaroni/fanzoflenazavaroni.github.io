@@ -17,8 +17,7 @@ The following is a list of websites and tips that may help you with your own res
 * ——: Any links that have "<span class="up">&#8592;</span> <span class="red">newly added</span>" at the end simply means that is a new link added to this page and doesn't reflect the age of the linked website.
 
 <table style="width:100%;text-align:center;color:#d3d3d3;">
-<tr><td><a href="#numbers" title="Jump To">#</a></td><td><a href="#a" title="Jump To">A</a></td><td><a href="#b" title="Jump To">B</a></td><td>C</td><td><a href="#d" title="Jump To">D</a></td><td>E</td><td><a href="#f" title="Jump To">F</a></td><td><a href="#g" title="Jump To">G</a></td><td>H</td><td><a href="#i" title="Jump To">I</a></td><td>J</td><td>K</td><td>L</td><td><a href="#m" title="Jump To">M</a></td><td><a href="#n" title="Jump To">N</a></td><td>O</td><td>P</td></tr>
-
+<tr><td><a href="#numbers" title="Jump To">#</a></td><td><a href="#a" title="Jump To">A</a></td><td><a href="#b" title="Jump To">B</a></td><td>C</td><td><a href="#d" title="Jump To">D</a></td><td>E</td><td><a href="#f" title="Jump To">F</a></td><td><a href="#g" title="Jump To">G</a></td><td>H</td><td><a href="#i" title="Jump To">I</a></td><td>J</td><td>K</td><td><a href="#l" title="Jump To">L</a></td><td><a href="#m" title="Jump To">M</a></td><td><a href="#n" title="Jump To">N</a></td><td>O</td><td>P</td></tr>
 
 <tr><td>Q</td><td>R</td><td><a href="#s" title="Jump To">S</a></td><td><a href="#t" title="Jump To">T</a></td><td>U</td><td>V</td><td><a href="#w" title="Jump To">W</a></td><td>X</td><td>Y</td><td>Z</td><td colspan="7"><a href="#orphaned">Visitors Tips</a></td></tr>
 </table>
@@ -74,6 +73,7 @@ The following is a list of websites and tips that may help you with your own res
 ### k
 
 ### L
+* ——: <strong>Loving Lena Zavaroni</strong> on [Blogger/blogspot](https://4thnov1963.blogspot.com/) or on [Tumblr](https://loving-lena-zavaroni.tumblr.com) <span class="up">&#8592;</span> <span class="red">newly added</span>
 
 ### M
 * ——: [<strong>mediastorehouse.com</strong>](https://www.mediastorehouse.com/dmcs-search.html?find=Lena+Zavaroni) - Stockphotos from the Mirror newspaper also see mirrorpix.com below.
