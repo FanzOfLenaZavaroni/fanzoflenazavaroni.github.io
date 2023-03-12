@@ -73,7 +73,7 @@ The following is a list of websites and tips that may help you with your own res
 ### k
 
 ### L
-* ——: <strong>Loving Lena Zavaroni</strong> on [Blogger/blogspot](https://4thnov1963.blogspot.com/) or on [Tumblr](https://loving-lena-zavaroni.tumblr.com) <span class="up">&#8592;</span> <span class="red">newly added</span>
+* ——: <strong>Loving Lena Zavaroni</strong> on [Blogger/blogspot](https://4thnov1963.blogspot.com/) <span class="up">&#8592;</span> <span class="red">newly added</span> or on [Tumblr](https://loving-lena-zavaroni.tumblr.com)
 
 ### M
 * ——: [<strong>mediastorehouse.com</strong>](https://www.mediastorehouse.com/dmcs-search.html?find=Lena+Zavaroni) - Stockphotos from the Mirror newspaper also see mirrorpix.com below.
@@ -94,7 +94,7 @@ The following is a list of websites and tips that may help you with your own res
 
 ### S
 * ——: **site search** to search a specific website for specific keywords you can type site:URL keywords **An example:** [<strong>site:bfi.org.uk Lena Zavaroni</strong>](https://www.google.com/search?q=site%3Abfi.org.uk+Lena+Zavaroni&newwindow=1&ei=yC4GY4Vfn5KFsg_9xJyIDQ&ved=0ahUKEwiF48260d_5AhUfSUEAHX0iB9EQ4dUDCA4&uact=5&oq=site%3Abfi.org.uk+Lena+Zavaroni&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGAFKBAhGGABQkUFYkUFg5UZoAXAAeACAAVaIAVaSAQExmAEAoAEBwAEB&sclient=gws-wiz) Site search is usefull where a website does not have it's own search option or has a search that is ineffective.
-* ——:  [<strong>Shop Memory Lane</strong>](https://shop.memorylane.co.uk/dmcs-search.html?search=lena+zavaroni) <span class="up">&#8592;</span> <span class="red">newly added</span> provides photos from mirrorpix.com for individuals to buy for personal use.
+* ——:  [<strong>Shop Memory Lane</strong>](https://shop.memorylane.co.uk/dmcs-search.html?search=lena+zavaroni) provides photos from mirrorpix.com for individuals to buy for personal use.
 
 ### T
 * ——: [<strong>THE TIMES DIGITAL ARCHIVE</strong>](https://galeapps.gale.com/apps/auth?userGroupName=bro_ttda&sid=galepages&origURL=https%3A%2F%2Fgo.gale.com%2Fps%2Fstart.do%3Fp%3DTTDA%26u%3Dbro_ttda%26sid%3Dgalepages&prodId=TTDA) - UK visitors can log in with their Library Card ID Number.
