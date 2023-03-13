@@ -53,7 +53,7 @@ categories: [Thames Television, OnThisDay14October, OnThisDay11March]
 <h3 id="ignored"><a href="#ignored">Completely Ignored</a></h3>
 <table>
 <tr><td>Lena Zavaroni</td></tr>
-<tr><td>No really! The story of Hughie Green yet you completely skip over the existence of Lena Zavaroni.</td></tr>
+<tr><td>No really! The story of Hughie Green yet you completely skip over the existence of Lena Zavaroni. Shameful!<cite>Fanz Of Lena Zavaroni (Robcamstone)</cite></td></tr>
 </table>
 </figure>
 
