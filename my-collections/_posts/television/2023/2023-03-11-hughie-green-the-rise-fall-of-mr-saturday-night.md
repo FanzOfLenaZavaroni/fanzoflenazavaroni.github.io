@@ -2,10 +2,10 @@
 layout: post
 title: "Hughie Green: The Rise & Fall of Mr Saturday Night &#124; 11 March 2023"
 maintitle: "Hughie Green: The Rise & Fall of Mr Saturday Night"
-subtitle: Channel 5
+subtitle: The story of one of the most successful and ruthless personalities in the history of British TV. From the creation of the modern talent show to the revelation he fathered Paula Yates, a look at the life and career of Hughie Green.
 description: The story of one of the most successful and ruthless personalities in the history of British TV. From the creation of the modern talent show to the revelation he fathered Paula Yates, a look at the life and career of Hughie Green.
 post_description: The story of one of the most successful and ruthless personalities in the history of British TV. From the creation of the modern talent show to the revelation he fathered Paula Yates, a look at the life and career of Hughie Green.
-categories: [Thames Television, OnThisDay14October, OnThisDay11March]
+categories: [Channel 5, OnThisDay11March]
 ---
 
 <figure class="fig1">
@@ -16,6 +16,12 @@ categories: [Thames Television, OnThisDay14October, OnThisDay11March]
 <figure class="fig2">
 <a href="/assets/images/channel5/closing-screenshot-from-2023-03-11-hughie-green-the-rise-fall-of-mr-saturday-night.png"><img src="/assets/images/channel5/closing-screenshot-from-2023-03-11-hughie-green-the-rise-fall-of-mr-saturday-night.png" class="full-width zoom-in"></a>
 <cite>Image beleived to be &copy; Channel 5, 2023</cite>
+</figure>
+
+{: .clear}
+
+<figure class="fig3">
+The programme is available on My5 until 31 December 2027 - <a class="external-link" href="https://www.channel5.com/show/hughie-green-the-rise-fall-of-mr-saturday-night">Hughie Green: The Rise & Fall of Mr Saturday Night</a>
 </figure>
 
 {: .clear}
