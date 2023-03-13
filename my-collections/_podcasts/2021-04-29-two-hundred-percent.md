@@ -9,9 +9,14 @@ image: /assets/images/podcasts/this-is-our-everest.jpg
 categories: [Podcasts, Two Hundred Percent, OnThisDay29April]
 ---
 
-<figure class="fig3">
 <p>Spoken Language: English</p>
+
+<figure class="fig1">
 <iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/5e6e25fd4e83901b2aa768d1/608a5c38c64da6791b76062c" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
+</figure>
+
+<figure class="fig2">
+<img class="full-width" src="/assets/images/Parental_Advisory_Strong_Language_2002.png" />
 </figure>
 
 {: .clear}
@@ -23,3 +28,7 @@ categories: [Podcasts, Two Hundred Percent, OnThisDay29April]
 
 <br />{: .clear}
 
+<style>
+.fig1 {width:68%;}
+.fig2 {width:30%;}
+</style>
