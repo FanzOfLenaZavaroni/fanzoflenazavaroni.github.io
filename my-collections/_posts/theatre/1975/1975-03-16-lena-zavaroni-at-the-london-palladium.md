@@ -10,10 +10,14 @@ image: /assets/images/theatres/lena-zavaroni-at-the-london-palladium-01.jpg
 categories: [Theatre, London Palladium, OnThisDay16March]
 ---
 
-<iframe src="/assets/pdf/1975-03-16 - Lena Zavaroni at the London Palladium.pdf" width="100%" height="605px">This browser does not support PDFs.</iframe>
+<figure class="fig1">
+<a href="/assets/images/theatres/lena-zavaroni-at-the-london-palladium-01.jpg"><img src="/assets/images/theatres/lena-zavaroni-at-the-london-palladium-01.jpg" class="full-width zoom-in" /></a>
+<cite><a href="/assets/pdf/1975-03-16 - Lena Zavaroni at the London Palladium.pdf">Programme For The Show (PDF)</a></cite>
+</figure>
 
-<div style="text-align:center;"><form action="/assets/pdf/1975-03-16 - Lena Zavaroni at the London Palladium.pdf" target="_blank"><input type="submit" value="Open PDF in new tab" /></form></div>
+<figure class="fig2">
+<a href="/assets/images/theatres/lena-zavaroni-at-the-london-palladium-03.jpg"><img src="/assets/images/theatres/lena-zavaroni-at-the-london-palladium-03.jpg" class="full-width zoom-in" /></a>
+</figure>
 
-**Note**
-* "Open PDF in new tab" is dependent on your own browser settings so may offer to download the PDF instead of opening it or may open it in a new window.
+<br />{: .clear}
 
