@@ -22,7 +22,7 @@ categories: [BBC Two, OnThisDay2March]
 <h3 id="summary">Summary</h3>
 <p>Lena performs "Rock And Roll Waltz" wearing a Bugs Bunny t-shirt with her name on it, and the slogan Remember The 50s. She then accompanies the Bachelors on the piano, as they sing "Sweet Gypsy Rose".</p>
 <p>Then she performs "Baby Face" as they play their instruments. Finally she sings a comedy version of "Ma! He's Making Eyes At Me" to a terrified looking boy.</p>
-<p><strong>External Website:</strong> <a href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1975-03-02#at-20.15">BBC Genome</a></p>
+<p><strong>External Website:</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1975-03-02#at-20.15">BBC Genome</a></p>
 </figcaption>
 </figure>
 

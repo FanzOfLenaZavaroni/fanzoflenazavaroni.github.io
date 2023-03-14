@@ -23,7 +23,7 @@ categories: [BBC Two, OnThisDay16February]
 <p>Lena begins the show in a specially written song and dance routine, with the Bachelors and the Vernons, performing the song &#34;A Lot Of Singing To Do&#34;.</p>
 <p>Next she sings a short part of the Irving Berlin song &#34;It's A Lovely day&#34; Then she performs a song and dance version of &#34;If My Friends Could See Me Now&#34; accompanied by some mannequins.</p>
 <p>Finally she joins the Bachelors for a short chat, before they perform &#34;You Must Have Been a Beautiful Baby&#34; together. Special guest star: John Conteh.</p>
-<p><strong>External Website:</strong> <a href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1975-02-16#at-20.15">BBC Genome</a></p>
+<p><strong>External Website:</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1975-02-16#at-20.15">BBC Genome</a></p>
 </figcaption>
 </figure>
 
