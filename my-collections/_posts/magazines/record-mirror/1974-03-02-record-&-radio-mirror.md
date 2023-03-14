@@ -25,11 +25,5 @@ categories: [Magazines, Record and Radio Mirror, OnThisDay2March]
 <cite>Meet Lena The Human Dynamo, <a class="external-link" href="https://www.americanradiohistory.com/UK/Record-Mirror/70s/74/Record-Mirror-1974-03-02.pdf#page=16">Page 16 of PDF</a></cite>
 </figure>
 
-{: .clear}
-
-<figure class="fig3">
-<strong>Database of the chart positions as published by the UK Official Singles Charts:</strong> &nbsp; <a href="/assets/data/Official Singles Chart Top 40 Related To Lena Zavaroni's single Ma! (He's Making Eyes At Me) - Sheet1.csv">csv</a> &nbsp; <a href="/assets/data/Official Singles Chart Top 40 Related To Lena Zavaroni's single Ma! (He's Making Eyes At Me).ods">ods</a>
-</figure>
-
 <br />{: .clear}
 

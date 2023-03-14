@@ -18,11 +18,5 @@ categories: [Magazines, Record and Radio Mirror, OnThisDay6April]
 <cite>Lena's single moves down the charts from number 26 to number 32, <a class="external-link" href="https://www.americanradiohistory.com/UK/Record-Mirror/70s/74/Record-Mirror-1974-04-06.pdf#page=02">Page 2 of PDF</a></cite>
 </figure>
 
-{: .clear}
-
-<figure class="fig3">
-<strong>Database of the chart positions as published by the UK Official Singles Charts:</strong> &nbsp; <a href="/assets/data/Official Singles Chart Top 40 Related To Lena Zavaroni's single Ma! (He's Making Eyes At Me) - Sheet1.csv">csv</a> &nbsp; <a href="/assets/data/Official Singles Chart Top 40 Related To Lena Zavaroni's single Ma! (He's Making Eyes At Me).ods">ods</a>
-</figure>
-
 <br />{: .clear}
 

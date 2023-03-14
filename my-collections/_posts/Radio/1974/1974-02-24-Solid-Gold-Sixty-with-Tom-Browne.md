@@ -26,6 +26,7 @@ categories: [BBC Radio 1, BBC Radio 2, Tom Browne, OnThisDay24February]
 
 <figure class="fig1">
 <h3 id="charts"><a href="#charts">UK Official Singles Chart</a></h3>
+<p><strong>Top 40:</strong> &nbsp; <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740217/750140">17 February 1974 - 23 February 1974</a></p>
 <p><strong>Top 50:</strong> &nbsp; <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740217/7501">17 February 1974 - 23 February 1974</a></p>
 </figure>
 

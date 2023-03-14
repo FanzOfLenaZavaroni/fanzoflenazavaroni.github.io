@@ -15,7 +15,7 @@ categories: [Discography, Singles]
 Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni. It was released shortly after her third appearance on Opportunity Knocks.
 
 <figure class="fig3">
-<h3 id="chart"><a href="#chart">UK Official Singles Chart Top 40 Positions For The Single</a></h3>
+<h3 id="chart"><a href="#chart">UK Official Singles Chart Top 50 Positions For The Single</a></h3>
 <table>
 <tr>
 <th style="width:40%;">Start of the week (Sunday)</th>
@@ -106,18 +106,28 @@ Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni. It w
 </tr>
 
 <tr>
+<td>14 April 1974</td>
+<td>20 April 1974</td>
+<td style="text-align:center;">44</td>
+<td style="text-align:center;">38</td>
+<td style="text-align:center;">11</td>
+</tr>
+
+<tr>
 <td colspan="5"><strong>Key:</strong> &nbsp; Pos=Chart Position &nbsp; LW=Last Week &nbsp; WoC=Weeks On Charts</td>
 </tr>
 
 <tr>
-<td colspan="5"><strong>Note:</strong> &nbsp; After the 13 April 1974 the single was no longer listed within the Top 40</td>
+<td colspan="5"><strong>Note:</strong> &nbsp; After the 20 April 1974 the single was no longer listed within the Top 50</td>
 </tr>
 
 <tr>
-<td colspan="5"><strong>All The 10s:</strong> &nbsp; Lena was aged 10, The single was in the charts for 10 weeks & it peak at number 10</td>
+<td colspan="5"><strong>PDF:</strong> &nbsp; <a href="/assets/data/Official Singles Chart Top 50 Positions For Lena Zavaroni's single Ma! (He's Making Eyes At Me).pdf">Official Singles Chart Top 50 Positions For Lena Zavaroni's single Ma! (He's Making Eyes At Me).pdf</a></td>
 </tr>
 </table>
 </figure>
+
+{: .clear}
 
 <figure class="fig1">
 <figcaption>
