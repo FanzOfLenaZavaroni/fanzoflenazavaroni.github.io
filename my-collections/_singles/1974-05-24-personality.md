@@ -9,8 +9,61 @@ description: This is the 2nd single by Lena Zavaroni.
 categories: [Discography, Singles]
 ---
 
+(You've Got) Personality is the second single released by Lena Zavaroni.
+
 <figure class="fig3">
-<h3>UK</h3>
+<h3 id="chart"><a href="#chart">UK Official Singles Chart Top 50 Positions For The Single</a></h3>
+<table>
+<tr>
+<th style="width:40%;">Start of the week (Sunday)</th>
+<th style="width:40%;">End of the week (Saturday)</th>
+<th style="text-align:center;">Pos</th>
+<th style="text-align:center;">LW</th>
+<th style="text-align:center;">WoC</th>
+</tr>
+
+<tr>
+<td>26 May 1974</td>
+<td>1 June 1974</td>
+<td style="text-align:center;">50</td>
+<td style="text-align:center;">New</td>
+<td style="text-align:center;">1</td>
+</tr>
+
+<tr>
+<td>2 June 1974</td>
+<td>8 June 1974</td>
+<td style="text-align:center;">33</td>
+<td style="text-align:center;">50</td>
+<td style="text-align:center;">2</td>
+</tr>
+
+<tr>
+<td>9 June 1974</td>
+<td>15 June 1974</td>
+<td style="text-align:center;">40</td>
+<td style="text-align:center;">33</td>
+<td style="text-align:center;">3</td>
+</tr>
+
+<tr>
+<td colspan="5"><strong>Key:</strong> &nbsp; Pos=Chart Position &nbsp; LW=Last Week &nbsp; WoC=Weeks On Charts</td>
+</tr>
+
+<tr>
+<td colspan="5"><strong>Note:</strong> &nbsp; After the 15 June 1974 the single was no longer listed within the Top 50</td>
+</tr>
+
+<tr>
+<td colspan="5"><strong>PDF:</strong> &nbsp; <a href="/assets/data/Official Singles Chart Top 50 Positions For Lena Zavaroni's single (You've Got) Personality.pdf">Official Singles Chart Top 50 Positions For Lena Zavaroni's single (You've Got) Personality.pdf</a></td>
+</tr>
+</table>
+</figure>
+
+{: .clear}
+
+<figure class="fig3">
+<h3 id="uk"><a href="#uk">UK</a></h3>
 <p><div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=h4agufuuabE,7iOTN0L3EjE&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div></p>
 <figcaption>
 <table>

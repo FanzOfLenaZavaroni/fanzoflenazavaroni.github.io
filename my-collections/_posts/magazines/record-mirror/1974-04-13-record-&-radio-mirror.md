@@ -25,11 +25,5 @@ categories: [Magazines, Record and Radio Mirror, OnThisDay13April]
 <p><strong>Update:</strong> Based on details from <a class="external-link" href="https://www.officialcharts.com/charts/uk-top-40-singles-chart/19740407/750140">The Official Charts website</a> the Record and Radio Mirror dated 13 April 1974 should be the last chart listing for Lena's single so I will not be doing a separate page for the 20 April 1974.</p>
 </figure>
 
-{: .clear}
-
-<figure class="fig3">
-<strong>Database of the chart positions as published by the UK Official Singles Charts:</strong> &nbsp; <a href="/assets/data/Official Singles Chart Top 40 Related To Lena Zavaroni's single Ma! (He's Making Eyes At Me) - Sheet1.csv">csv</a> &nbsp; <a href="/assets/data/Official Singles Chart Top 40 Related To Lena Zavaroni's single Ma! (He's Making Eyes At Me).ods">ods</a>
-</figure>
-
 <br />{: .clear}
 
