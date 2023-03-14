@@ -22,7 +22,7 @@ categories: [BBC Two, OnThisDay23February]
 <h3 id="summary">Summary</h3>
 <p>Lena performs the song &#34;Music, Music, Music&#34; standing at an old jukebox. She then joins the Bachelors to sing the Irving Berlin composition &#34;I Love A Piano&#34; while sitting on top of theirs.</p>
 <p>While she still sits on their piano, they then teach her about musical scales in a short musical comedy routine.</p>
-<p><strong>External Website:</strong> <a href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1975-02-23#at-20.20">BBC Genome</a></p>
+<p><strong>External Website:</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1975-02-23#at-20.20">BBC Genome</a></p>
 </figcaption>
 </figure>
 

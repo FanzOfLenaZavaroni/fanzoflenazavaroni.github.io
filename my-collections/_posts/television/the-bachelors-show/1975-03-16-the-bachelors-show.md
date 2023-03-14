@@ -20,7 +20,7 @@ categories: [BBC Two, OnThisDay16March]
 <figcaption>
 <h3 id="summary">Summary</h3>
 <p>Lena sings "What A Wonderful World" as she wanders around in a make believe garden. She then performs a lively song and dance version of "The Spaniard That Blighted My Life". Finally she joins the Bachelors and the Vernons for a version of "Viva Espana".</p>
-<p><strong>External Website:</strong> <a href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1975-03-16#at-20.15">BBC Genome</a></p>
+<p><strong>External Website:</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1975-03-16#at-20.15">BBC Genome</a></p>
 </figcaption>
 </figure>
 

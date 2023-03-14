@@ -23,7 +23,7 @@ categories: [BBC Two, OnThisDay23March]
 <p>Lena performs the Tennesse Wig Walk as the rest of the cast look on.</p>
 <p>Lena, the Bachelors and the Vernons then perform a song and dance version of Skip To My Lou together.</p>
 <p>Finally Lena joins the Bachelors and the Vernons at the end of the show to say goodbye, it being the end of the series.</p>
-<p><strong>External Website:</strong> <a href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1975-03-23#at-20.15">BBC Genome</a></p>
+<p><strong>External Website:</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1975-03-23#at-20.15">BBC Genome</a></p>
 </figcaption>
 </figure>
 

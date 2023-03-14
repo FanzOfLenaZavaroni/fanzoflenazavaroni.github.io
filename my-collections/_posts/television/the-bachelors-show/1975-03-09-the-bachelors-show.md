@@ -22,7 +22,7 @@ categories: [BBC Two, OnThisDay9March]
 <p>Lena performs "My Funny Valentine", sitting on a huge pink rug with a dog called Champers.</p>
 <p>She then sings "Stage Struck".</p>
 <p>Next she duets with one of the Bachelors (John Stokes) on a version of "Something's Got To Give".</p>
-<p><strong>External Website:</strong> <a href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1975-03-09#at-20.15">BBC Genome</a></p>
+<p><strong>External Website:</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1975-03-09#at-20.15">BBC Genome</a></p>
 </figcaption>
 </figure>
 
