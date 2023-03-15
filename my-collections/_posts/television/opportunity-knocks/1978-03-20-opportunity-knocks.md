@@ -7,7 +7,7 @@ description: Final broadcast of the much love show that was the starting block f
 media: Thames Television
 post_description: Final broadcast of the much love show that was the starting block for so many stars.
 image: /assets/images/ITV/gettyimages-544761065-612x612.jpg
-categories: [Thames Television, Opportunity Knocks, OnThisDay20March]
+categories: [Thames Television, Opportunity Knocks, Hughie Green, OnThisDay20March]
 ---
 
 Final broadcast of the much love show that was the starting block for so many stars.

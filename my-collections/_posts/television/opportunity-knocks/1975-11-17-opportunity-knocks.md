@@ -6,7 +6,7 @@ subtitle: Episode 16.8
 description: Lena sponsored her parents Victor and Hilda on the show under the name The Zavaronis.
 media: Thames Television
 post_description: Lena sponsored her parents Victor and Hilda on the show under the name The Zavaronis.
-categories: [Thames Television, Opportunity Knocks, OnThisDay17November]
+categories: [Thames Television, Opportunity Knocks, Hughie Green, OnThisDay17November]
 ---
 
 Lena sponsored her parents Victor and Hilda on the show under the name The Zavaronis.

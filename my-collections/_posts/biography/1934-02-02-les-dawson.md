@@ -1,12 +1,13 @@
 ---
-layout: page
+layout: post
 title: Biography &#124; Les Dawson
 maintitle: Les Dawson
 position: Comedian, Actor, Writer, and Presenter
 description: Les Dawson was an English comedian, actor, writer, and presenter, who is best remembered for his deadpan style.
+post_description: 2 February 1934 - 10 June 1993
 image: /assets/images/on-this-day/les-dawson.webp
 image-caption: Les Dawson
-categories: [Biography]
+categories: [Biography, Les Dawson, OnThisDay2February, OnThisDay10June]
 author: Robcamstone
 ---
 
@@ -29,7 +30,7 @@ author: Robcamstone
 
 <br />{: .clear}
 
-> {{ page.description }}
+> {{ post.description }}
 
 <cite><a class="external-link" href="https://en.wikipedia.org/wiki/Les_Dawson">Wikipedia</a></cite>
 

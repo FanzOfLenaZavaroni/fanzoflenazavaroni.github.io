@@ -6,7 +6,7 @@ subtitle: Episode 14.23
 description: Lena makes her first appearance. She sings Ma! (He's Making Eyes At Me).
 media: Thames Television
 post_description: Lena makes her first appearance. She sings Ma! (He's Making Eyes At Me).
-categories: [Thames Television, Opportunity Knocks, OnThisDay7January]
+categories: [Thames Television, Opportunity Knocks, Hughie Green, OnThisDay7January]
 ---
 
 Lena makes her first appearance. She sings "Ma! (He's Making Eyes At Me)".

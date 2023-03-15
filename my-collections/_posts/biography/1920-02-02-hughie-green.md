@@ -1,17 +1,17 @@
 ---
-layout: page
+layout: post
 title: Biography &#124; Hughie Green
 maintitle: Hughie Green
 position: Actor and Producer
 description: Hughie Green was an actor and producer, known for Double Your Money (1955–1968) and Opportunity Knocks (1956-1978).
+post_description: 2 February 1920 - 3 May 1997
 image: /assets/images/on-this-day/opportunity-knocks.jpg
 image-caption: Hughie Green
-categories: [Biography]
-author: Robcamstone
+categories: [Biography, Hughie Green, OnThisDay2February, OnThisDay3May]
 ---
 
 <table>
-<tr><th>Born</th><td>Hugh Hughes Green - 2 February 1920- Marylebone, London, England</td></tr>
+<tr><th>Born</th><td>Hugh Hughes Green - 2 February 1920 - Marylebone, London, England</td></tr>
 <tr><th>Died</th><td>3 May 1997 (aged 77) Chelsea, London, England</td></tr>
 <tr><th>Resting place</th><td>Golders Green Crematorium, London</td></tr>
 <tr><th>Nationality</th><td>British</td></tr>
@@ -35,3 +35,4 @@ Hughie Green was know as the "Master of Opportunities" at that time.
 <cite>Presenter of Opportunity Knocks: Hughie Green</cite>
 
 <br />{: .clear}
+

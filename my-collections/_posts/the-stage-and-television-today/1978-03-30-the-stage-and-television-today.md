@@ -7,7 +7,7 @@ description: Review of Lena and Bonnie.
 media: Show got by on sheer gusto
 post_description: Review of Lena and Bonnie.
 image: /assets/images/the-stage-and-television-today/1978-03-30-the-stage-and-television-today-front-cover.png
-categories: [The Stage and Television Today, OnThisDay30March]
+categories: [The Stage and Television Today, Lena Zavaroni, Bonnie Langford, OnThisDay30March]
 ---
 
 <figure class="fig1">
