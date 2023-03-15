@@ -40,8 +40,8 @@ categories: [Orphaned Comments, OnThisDay16December]
 <p><img src="https://avatars.githubusercontent.com/u/54239649" class="shape"/>Robcamstone (<a class="link" href="https://github.com/FanzOfLenaZavaroni">Fanz Of Lena Zavaroni</a>) - Unknow Date and Time</p>
 <p>Subject: <a class="link" href="/onthisday/12/12-16">Re: [FanzOfLenaZavaroni/fanzoflenazavaroni.github.io] onthisday/12/12-16 (#33)</a></p>
 <p>Comment:</p>
-<p>A few weeks would have gone by while I waited for a copy of the death certificate which would have then added as a image in a comment.</p>
-<a href="/assets/images/public-records/1989-12-15-hilda-zavaroni-death-certificate.jpg"><img src="/assets/images/public-records/1989-12-15-hilda-zavaroni-death-certificate.jpg" class="full-width zoom-in" /></a>
+<p>A few weeks would have gone by while I waited for a copy of the death certificate which I would have then added as a image in a comment.</p>
+<a href="/assets/images/public-records/1989-12-19-hilda-zavaroni-death-certificate.jpg"><img src="/assets/images/public-records/1989-12-19-hilda-zavaroni-death-certificate.jpg" class="full-width zoom-in" /></a>
 </div>
 
 <style>

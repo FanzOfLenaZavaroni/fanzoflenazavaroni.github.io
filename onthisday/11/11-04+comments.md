@@ -9,8 +9,6 @@ categories: [On This Day]
 
 ### 4 November
 
-* ——: [1963 - Lena Hilda Zavaroni was born in Rankin Memorial Hospital, Greenock, Inverclyde, Scotland, United Kingdom.](/biography/lena-zavaroni)
-
 {% if site.categories.OnThisDay4November == null %}
 {% else %}
 {% for post in site.categories.OnThisDay4November reversed %}

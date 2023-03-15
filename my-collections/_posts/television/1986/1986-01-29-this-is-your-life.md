@@ -6,7 +6,7 @@ subtitle: Bonnie Langford
 description: Lena Zavaroni appears on the show to pay tribute to Bonnie Langford, and they reminisce about working together. A short clip of their TV show &quot;Lena and Bonnie&quot; is shown.
 media: Granada Television
 post_description: Lena Zavaroni appears on the show to pay tribute to Bonnie Langford, and they reminisce about working together. A short clip of their TV show &quot;Lena and Bonnie&quot; is shown.
-categories: [Granada Television, OnThisDay29January]
+categories: [Granada Television, Lena Zavaroni, Bonnie Langford, OnThisDay29January]
 ---
 
 <figure class="fig1" id="screenshot">
