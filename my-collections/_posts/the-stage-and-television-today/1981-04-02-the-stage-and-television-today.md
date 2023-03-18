@@ -7,7 +7,7 @@ description: Page 7 has a quarter page advert for Dorothy Solomon Associated Art
 media: Advert and short article
 post_description: Page 7 has a quarter page advert for Dorothy Solomon Associated Artists Limited and page 17 has a photo of Lena Zavaroni and a short article on her TV series Lena.
 image: /assets/images/the-stage-and-television-today/1981-04-02-the-stage-front-cover.png
-categories: [The Stage and Television Today]
+categories: [The Stage and Television Today, OnThisDay2April]
 ---
 
 <figure class="fig1">
