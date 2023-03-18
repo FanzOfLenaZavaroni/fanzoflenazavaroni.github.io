@@ -8,7 +8,7 @@ description: Channel 4 documentary charting Lena Zavaroni's career and subsequen
 media: Lena Zavaroni
 post_description: Documentary charting Lena Zavaroni's career and subsequent illness.
 image: /assets/images/channel4/2000-02-23-the-real-lena-zavaroni.jpg
-categories: [Channel 4, The Real..., OnThisDay23February, Repeat23January]
+categories: [Channel 4, The Real..., Lena Zavaroni, OnThisDay23February, Repeat23January]
 ---
 
 <figure class="fig1">
