@@ -1,16 +1,14 @@
 ---
 layout: post
 title: Opportunity Knocks &#124; 20 March 1978 &#124; Final broadcast of the much love show
-maintitle: Opportunity Knocks
-subtitle: Final Show
+maintitle: Opportunity Knocks - Final Show
+subtitle: Final broadcast of the much love show that was the starting block for so many stars
 description: Final broadcast of the much love show that was the starting block for so many stars.
 media: Thames Television
 post_description: Final broadcast of the much love show that was the starting block for so many stars.
 image: /assets/images/ITV/gettyimages-544761065-612x612.jpg
 categories: [Thames Television, Opportunity Knocks, Hughie Green, OnThisDay20March]
 ---
-
-Final broadcast of the much love show that was the starting block for so many stars.
 
 <figure class="fig3">
 <div class="responsive-video">
