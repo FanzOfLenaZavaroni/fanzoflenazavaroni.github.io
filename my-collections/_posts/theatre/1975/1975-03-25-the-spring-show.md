@@ -15,12 +15,3 @@ categories: [Theatre, Pavilion Theatre, Bournemouth, OnThisDay25March]
 
 <cite>**License:** [cc-by-sa/2.0](http://creativecommons.org/licenses/by-sa/2.0) **Copyright:** [&copy; Barry Shimmon](https://www.geograph.org.uk/profile/20970) **Photo URL:** [geograph.org.uk/photo/5270508](https://www.geograph.org.uk/photo/5270508)</cite>
 
-### Research is on going and hopefully I will be able to add more details
-> If anybody has information on this performance please add or let me know and I will add it for you or if you were lucky enough to be there then please consider sharing your Fan Stories/Memories with us.
->
-> All information is of value and helps to keep the memories we have of Lena Zavaroni alive.
->
-> You can add content [here](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io) or comment below.
-
-<cite>Robcamstone</cite>
-

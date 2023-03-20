@@ -1,13 +1,13 @@
 ---
 layout: publicity-photos
-title: Publicity &#124; Photos &#124; 1978  &#124; Chris Moorhouse / LWT &#124; Lena and Bonnie
-maintitle: Publicity
+title: Publicity For Lena and Bonnie &#124; Photos &#124; 1978  &#124; Chris Moorhouse / LWT &#124; Lena and Bonnie
+maintitle: Publicity For Lena and Bonnie
 subtitle: Photos for Lena and Bonnie
 description: Publicity for Lena and Bonnie.
 media: Photos
 post_description: Lena and Bonnie.
 image: /assets/images/lena-and-bonnie/LZ-BL-01.jpg
-categories: [Publicity, Lena Zavaroni, Bonnie Langford, Lena and Bonnie]
+categories: [Publicity, Lena and Bonnie, Lena Zavaroni, Bonnie Langford]
 ---
 
 <figure class="fig1">
