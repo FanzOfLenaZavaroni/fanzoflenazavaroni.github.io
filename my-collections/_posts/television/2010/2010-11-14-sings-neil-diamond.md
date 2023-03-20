@@ -1,14 +1,13 @@
 ---
 layout: post
 title: ...Sings Neil Diamond &#124; 14 November 2010
-more: Last Repeat 1 April 2022
+more: Last Repeated On 1 April 2022
 maintitle: ...Sings Neil Diamond
-subtitle: BBC Two
-description: Part of BBC Two's 'tribute night' for Neil Diamond, the programmed featured archive clips of famous artists performing his songs.  Lena's performance of Forever In Blue Jeans, from her 1979 series Lena Zavaroni and Music - Episode 6, was included.
-media: BBC Two And Regular Repeats On BBC Four and BBC iPlayer
-post_description: Part of BBC Two's 'tribute night' for Neil Diamond, the programmed featured archive clips of famous artists performing his songs.  Lena's performance of Forever In Blue Jeans, from her 1979 series Lena Zavaroni and Music - Episode 6, was included.
+subtitle: BBC Two with Regular Repeats On BBC Four and BBC iPlayer
+description: Part of BBC Two's 'tribute night' for Neil Diamond, the programmed featured archive clips of famous artists performing his songs.
+post_description: Part of BBC Two's 'tribute night' for Neil Diamond, the programmed featured archive clips of famous artists performing his songs.
 image: /assets/images/BBC-PIDs/1920xn/p01h23pf.jpg
-categories: [BBC Two, OnThisDay14November, Repeat1April]
+categories: [BBC Two, BBC Four, OnThisDay14November, Repeat1April2022]
 ---
 
 Part of BBC Two's 'tribute night' for Neil Diamond, the programmed featured archive clips of famous artists performing his songs.
