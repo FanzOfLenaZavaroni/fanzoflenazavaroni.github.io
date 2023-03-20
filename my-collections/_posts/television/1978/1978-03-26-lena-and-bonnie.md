@@ -16,15 +16,16 @@ categories: [London Weekend Television, Lena Zavaroni, Bonnie Langford, OnThisDa
 
 <tr align="center">
 <td><a href="#the-complete-show">The Complete Show</a></td>
-<td colspan="2"><a href="#details">Details</a></td>
-<td><a href="#interview-with-bonnie-langford">Interview With Bonnie Langford</a></td>
+<td><a href="#details">Details</a></td>
+<td><a href="#credits">Credits</a></td>
+<td><a href="#interview">Interview With Bonnie Langford</a></td>
 </tr>
 
 <tr align="center">
 <td><a href="#part-1">Part 1</a></td>
 <td><a href="#part-2">Part 2</a></td>
 <td><a href="#part-3">Part 3</a></td>
-<td><a href="/publicity/1978/03/26/publicity-for-lena-and-bonnie.html">Publicity Photos</a></td>
+<td><a href="/1978-03-26-publicity-for-lena-and-bonnie">Publicity Photos</a></td>
 </tr>
 
 <tr align="center">
@@ -32,24 +33,25 @@ categories: [London Weekend Television, Lena Zavaroni, Bonnie Langford, OnThisDa
 </tr>
 
 <tr align="center">
-<td colspan="2"><a href="https://www2.bfi.org.uk/films-tv-people/4ce2b6a09b8de">BFI</a></td>
-<td colspan="2"><a href="https://stevefullerphoto.com/article/farewell-london-studios">Farewell London Studio</a></td>
+<td colspan="2"><a class="external-link" href="https://www2.bfi.org.uk/films-tv-people/4ce2b6a09b8de">BFI</a></td>
+<td colspan="2"><a class="external-link" href="https://stevefullerphoto.com/article/farewell-london-studios">Farewell London Studio</a></td>
 </tr>
 </table>
 
 <figure class="fig1">
-<figcaption id="the-complete-show">
-<h3>The Complete show</h3>
+<figcaption>
+<h3 id="the-complete-show"><a href="#the-complete-show">The Complete show</a></h3>
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/Xb_1Gj5cV8c?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 </figcaption>
 
-<figcaption id="details">
-<h3>Details</h3>
+<figcaption>
+<h3 id="details"><a href="#details">Details</a></h3>
 <p>Lena and Bonnie was recorded on the 17 & 18 January 1978 at the Kent House Studios and was broadcast by London Weekend Television (LWT) on the 26 of March 1978.</p>
 <p>It was a one-off special starring Lena Zavaroni and Bonnie Langford.</p>
 </figcaption>
 
 <figcaption>
+<h3 id="credits"><a href="#credits">Credits</a></h3>
 <table>
 <tr><th>Genre</th><td>Musical</td></tr>
 <tr><th>Written by</th><td>Ken Hoare</td></tr>
@@ -69,33 +71,33 @@ categories: [London Weekend Television, Lena Zavaroni, Bonnie Langford, OnThisDa
 </table>
 </figcaption>
 
-<figcaption id="interview-with-bonnie-langford">
-<h3>Interview With Bonnie Langford</h3>
+<figcaption>
+<h3 id="interview"><a href="#interview">Interview With Bonnie Langford</a></h3>
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/q5Dw571MQxg?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 <p>Wombling Free - Archive Interview: During the interview Bonnie also talks about Lena and Bonnie.</p>
 </figcaption>
 </figure>
 
 <figure class="fig2">
-<figcaption  id="part-1">
-<h3>Part 1</h3>
+<figcaption>
+<h3 id="part-1"><a href="#part-1">Part 1</a></h3>
 </figcaption>
 <img src="/assets/images/lena-and-bonnie/clapperboard-01.png" class="full-width">
 <figcaption>
-<p>Part 1 of the show opens with Lena & Bonnie performing the song Compatibility. Lena then perform a song and dance medley of disco music. Bonnie then performs a medley of show tunes, Lena and Bonnie then reprise the song Compatibility and it then goes to an advert break.</p>
 <p><strong>Note:</strong> When part 1 of the show was recorded the clapperboard information display the year 1977, When it was in fact 1978 on the studio recording of the show you can hear someone off screen confirm the year as 1978.</p>
+<p>Part 1 of the show opens with Lena & Bonnie performing the song Compatibility. Lena then perform a song and dance medley of disco music. Bonnie then performs a medley of show tunes, Lena and Bonnie then reprise the song Compatibility and it then goes to an advert break.</p>
 </figcaption>
 
-<figcaption  id="part-2">
-<h3>Part 2</h3>
+<figcaption>
+<h3 id="part-2"><a href="#part-2">Part 2</a></h3>
 </figcaption>
 <img src="/assets/images/lena-and-bonnie/clapperboard-02.png" class="full-width">
 <figcaption>
 <p>Part 2 of the show opens with Lena & Bonnie performing a reprise of the song Compatibility. Lena & Bonnie then perform a medley of Shirley Temple and Judy Garland Songs and Shout by Lulu. Lena then performs Speedy Gonzales, after which Bonnie performs the song I Can Do That. The song Boogie Woogie Bugle Boy is then performed by Lena & Bonnie as the Compatibility Sisters. It then goes to another advert break.</p>
 </figcaption>
 
-<figcaption id="part-3">
-<h3>Part 3</h3>
+<figcaption>
+<h3 id="part-3"><a href="#part-3">Part 3</a></h3>
 </figcaption>
 <img src="/assets/images/lena-and-bonnie/clapperboard-03.png" class="full-width">
 <figcaption>
@@ -104,19 +106,4 @@ categories: [London Weekend Television, Lena Zavaroni, Bonnie Langford, OnThisDa
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
