@@ -73,7 +73,7 @@ The following is a list of websites and tips that may help you with your own res
 ### k
 
 ### L
-* ——: <strong>Loving Lena Zavaroni</strong> on [Blogger/blogspot](https://4thnov1963.blogspot.com/) <span class="up">&#8592;</span> <span class="red">newly added</span> or on [Tumblr](https://loving-lena-zavaroni.tumblr.com)
+* ——: <strong>Loving Lena Zavaroni</strong> on [Blogger/blogspot](https://4thnov1963.blogspot.com/) <span class="up">&#8592;</span> <span class="red">newly added</span>, [Facebook](acebook.com/Loving-Lena-Zavaroni-102713158005653/) or on [Tumblr](https://loving-lena-zavaroni.tumblr.com)
 
 ### M
 * ——: [<strong>mediastorehouse.com</strong>](https://www.mediastorehouse.com/dmcs-search.html?find=Lena+Zavaroni) - Stockphotos from the Mirror newspaper also see mirrorpix.com below.
