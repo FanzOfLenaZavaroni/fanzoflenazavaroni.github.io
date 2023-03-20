@@ -50,7 +50,7 @@ categories: [Orphaned Comments, OnThisDay1October]
 <p><img src="https://avatars.githubusercontent.com/u/54239649" class="shape"/>Robcamstone (<a class="link" href="https://github.com/FanzOfLenaZavaroni">Fanz Of Lena Zavaroni</a>)</p>
 <p>My original comments would have included my feelings on the abuse that Lena went though, why the BBC and BFI did not reply and a link to Loving Lena Zavaroni's <a class="external-link" href="https://loving-lena-zavaroni.tumblr.com">Tumblr</a> page and how good it was that Chris had talked directly to Lena.</p>
 <p>The Tumblr link meant that Chris and others that may have read the comments had somewhere to go for their daily dose of On This Day's related to Lena as at the time I did not have an "On This Day section" on this website at that time</p>
-<p> I had a Facebook Page where I posted the On This Day's, which became redundant becuase Facebook is involed in the Cancel culture and does not believe in Justice.</p>
+<p> I had a Facebook Page where I posted the On This Day's, which became redundant because Facebook is involed in the Cancel culture and does not believe in Justice.</p>
 <p><a class="external-link" href="https://robcamstone.github.io/2019-08-15-Broken-Justice-Robcamstone/">Broken Justice - Robert Campbell Stonebanks</a></p>
 </div>
 
