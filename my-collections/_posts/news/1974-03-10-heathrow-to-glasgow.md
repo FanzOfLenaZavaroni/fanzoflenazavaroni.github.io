@@ -6,7 +6,7 @@ subtitle: Lena flew from Heathrow to Glasgow to see her family for the first tim
 description: Lena flew from Heathrow to Glasgow to see her family for the first time in five weeks.
 media: Private Life
 post_description: Lena flew from Heathrow to Glasgow to see her family for the first time in five weeks.
-categories: [Private Life, Heathrow, Glasgow, OnThisDay10March]
+categories: [Private-Life, Heathrow, Glasgow, OnThisDay10March]
 ---
 
 ![](/assets/images/newspapers/Lena Zavaroni aged 10 pictured at London Heathrow Airport to catch flight to Glasgow March 1974.jpg){: .full-width}

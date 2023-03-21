@@ -7,7 +7,7 @@ description: Advertisement - OFFICIAL LENA ZAVARONI APPRECIATION SOCIETY S.A.E. 
 media: Advertisement
 post_description: OFFICIAL LENA ZAVARONI APPRECIATION SOCIETY S.A.E. for details 75 Highfield Rd. Blackpool. Lanes. CATHOLIC STAGE GUILD.
 image: /assets/images/the-stage-and-television-today/1982-02-25-the-stage-and-television-today-front-cover.png
-categories: [The Stage and Television Today, OnThisDay25February]
+categories: [The-Stage-and-Television-Today, OnThisDay25February]
 ---
 
 <figure class="fig1">

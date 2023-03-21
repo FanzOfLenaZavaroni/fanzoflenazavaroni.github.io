@@ -5,7 +5,7 @@ maintitle: Orphaned Comments
 subtitle: OnThisDay 4 November
 description: 4 November 1999
 post_description: 4 November 1999
-categories: [Orphaned Comments, OnThisDay4November]
+categories: [Orphaned-Comments, OnThisDay4November]
 ---
 
 <div class="discussions">

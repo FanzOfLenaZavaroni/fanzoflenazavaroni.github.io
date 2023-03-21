@@ -6,7 +6,7 @@ subtitle: CHRISMAS SHOWS
 description: Contained a 16 page review of all the pantomimes and seasonal productions around the country.
 post_description: 16 page review of all the pantomimes and seasonal productions around the country.
 image: /assets/images/the-stage-and-television-today/1986-01-16-the-stage-and-television-today-front-cover.jpg
-categories: [The Stage and Television Today, OnThisDay16January]
+categories: [The-Stage-and-Television-Today, OnThisDay16January]
 ---
 
 <figure class="fig1">

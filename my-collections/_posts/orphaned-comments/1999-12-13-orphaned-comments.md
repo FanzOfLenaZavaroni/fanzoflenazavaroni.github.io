@@ -5,7 +5,7 @@ maintitle: Orphaned Comments
 subtitle: OnThisDay 13 December
 description: 13 December 1999
 post_description: 13 December 1999
-categories: [Orphaned Comments, OnThisDay13December]
+categories: [Orphaned-Comments, OnThisDay13December]
 ---
 
 <div class="discussions">

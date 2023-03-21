@@ -7,7 +7,7 @@ description: reported on the Water Rats Gale Charity Night.
 media: Light Entertainment News
 post_description: reported on the Water Rats Gale Charity Night.
 image: /assets/images/the-stage-and-television-today/1979-02-22-the-stage-and-television-today-front-cover.jpg
-categories: [The Stage and Television Today, OnThisDay22February]
+categories: [The-Stage-and-Television-Today, OnThisDay22February]
 ---
 
 <figure class="fig1">

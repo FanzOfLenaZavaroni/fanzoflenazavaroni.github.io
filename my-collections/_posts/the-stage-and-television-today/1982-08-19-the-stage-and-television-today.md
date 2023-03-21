@@ -6,6 +6,6 @@ subtitle: Featured an advertisement from Lena thanking the local Council, the ma
 description: Featured an advertisement from Lena thanking the local Council, the management of the White Rock Pavilion, and her agent Dorothy Solomon, for their help in the staging of her show that summer.
 media: Details
 post_description: Featured an advertisement from Lena thanking the local Council, the management of the White Rock Pavilion, and her agent Dorothy Solomon, for their help in the staging of her show that summer.
-categories: [The Stage and Television Today, OnThisDay19August]
+categories: [The-Stage-and-Television-Today, OnThisDay19August]
 ---
 

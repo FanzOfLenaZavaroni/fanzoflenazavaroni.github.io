@@ -7,7 +7,7 @@ description: Lena was mentioned several times in the newspaper,
 media: Newspaper
 post_description: Lena was mentioned several times in the newspaper.
 image: /assets/images/the-stage-and-television-today/1978-09-28-the-stage-and-television-today-fc.png
-categories: [The Stage and Television Today, OnThisDay28September]
+categories: [The-Stage-and-Television-Today, OnThisDay28September]
 ---
 
 <figure class="fig1">

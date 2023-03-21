@@ -6,7 +6,7 @@ subtitle: List of just some of the articles published on this day
 description: 22 years ago the Papers reported on the final day of the inquest into the death of Lena Zavaroni.
 media: Various Media Articles
 post_description: A list of just some of the articles published on this day.
-categories: [BBC News Wales, Guardian, OnThisDay9December]
+categories: [BBC-News-Wales, Guardian, OnThisDay9December]
 ---
 
 * —— (Guardian): <a class="external-link" href="https://www.theguardian.com/uk/1999/dec/09/geoffreygibbs">Zavaroni was desperate for brain op, inquest told</a>
