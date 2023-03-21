@@ -1,5 +1,5 @@
 ---
-layout: post-no-comments
+layout: post-no-title-link
 title: "Category: Hughie Green"
 maintitle: "Category: Hughie Green"
 ---
@@ -7,7 +7,7 @@ maintitle: "Category: Hughie Green"
 <ul>
   {% for post in site.categories.Hughie-Green %}
     {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
