@@ -7,7 +7,7 @@ description: Bonita Melody Lysette Langford (born 22 July 1964) is an English ac
 post_description: 22 July 1964 - Present
 image: /assets/images/bonnie/BL-01.png
 image-caption: Bonnie Langford
-categories: [Biography, Bonnie Langford, OnThisDay22July]
+categories: [Biography, Bonnie-Langford, OnThisDay22July]
 author: Robcamstone
 ---
 

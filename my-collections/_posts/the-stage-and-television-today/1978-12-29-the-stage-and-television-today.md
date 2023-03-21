@@ -6,7 +6,7 @@ subtitle: Star billing for Lena at Spa summer show.
 description: Star billing for Lena at Spa summer show.
 post_description: Star billing for Lena at Spa summer show.
 image: /assets/images/the-stage-and-television-today/1978-12-29-the-stage-and-television-today-front-Cover.jpg
-categories: [The Stage and Television Today, OnThisDay29December]
+categories: [The-Stage-and-Television-Today, OnThisDay29December]
 ---
 
 <figure class="fig1">

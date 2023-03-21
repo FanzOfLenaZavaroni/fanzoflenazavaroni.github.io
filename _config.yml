@@ -47,6 +47,9 @@ header_pages:
 
 collections_dir: my-collections
 collections:
+   category:
+    output: true
+    permalink: /category/:name
    discography:
     output: true
     permalink: /discography/:name

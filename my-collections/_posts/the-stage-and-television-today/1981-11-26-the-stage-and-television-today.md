@@ -7,7 +7,7 @@ description: Article on the first annual luncheon of the Lena Zavaroni Appreciat
 media: Details
 post_description: Article on the first annual luncheon of the Lena Zavaroni Appreciation Society at The Imperial Hotel, Blackpool.
 image: /assets/images/the-stage-and-television-today/1976-11-26-the-stage-and-television-today-01.jpg
-categories: [The Stage and Television Today, OnThisDay26November]
+categories: [The-Stage-and-Television-Today, OnThisDay26November]
 ---
 
 <figure class="fig1">

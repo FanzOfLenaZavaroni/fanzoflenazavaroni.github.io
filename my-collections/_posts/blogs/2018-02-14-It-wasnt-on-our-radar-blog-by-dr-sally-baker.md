@@ -5,7 +5,7 @@ maintitle: It Wasn’t On Our Radar
 subtitle: Blog by Dr Sally Baker
 description: who had also managed to kill Lena Zavaroni after performing a lobotomy on her – there wasn’t an admission that they had given her a lobotomy, but look up the details, it was pretty much a lobotomy
 post_description: Blog by Dr Sally Baker.
-categories: [Deleted Online Articles, OnThisDay14February]
+categories: [Deleted-Online-Articles, OnThisDay14February]
 ---
 
 <p><strong>NOTE:</strong> The Article is no longer available on drsallybaker.com, which is why I have published the section related to Lena below and provied links to the wayback machine and evernote copies of the full blog.</p>

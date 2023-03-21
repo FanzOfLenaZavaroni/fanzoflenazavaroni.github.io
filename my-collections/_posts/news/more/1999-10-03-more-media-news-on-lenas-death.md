@@ -6,7 +6,7 @@ subtitle: Rest In Peace
 description: More media reactions related to the death of Lena Zavaroni
 media: Various Media Articles
 post_description: A list of just some of the articles published on this day.
-categories: [BBC News UK, BBC News Entertainment, OnThisDay3October]
+categories: [BBC-News-UK, BBC-News-Entertainment, OnThisDay3October]
 ---
 
    * ——: [Broke, on the dole, borrowed shoes...tragic life of Lena; HER TALENT TOOK HER TO THE TOP, BUT FOR 22 YEARS SHE WAS TORMENTED BY ANOREXIA ...FINALLY IT CLAIMED HER LIFE.](https://www.thefreelibrary.com/Broke%2c+on+the+dole%2c+borrowed+shoes...tragic+life+of+Lena%3b+HER+TALENT...-a060151957)

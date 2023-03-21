@@ -7,7 +7,7 @@ description: Published an artilce on Lena Zavaroni's return to the Rothesay Pavi
 media: Newspaper
 post_description: Published an artilce on Lena Zavaroni's return to the Rothesay Pavilion along with a photo of Lena and her South Africa friend Susie Heckler.
 image: /assets/images/newspapers/1975-07-06-the-sunday-mirror.jpeg
-categories: [Newspapers, Sunday Mirror, OnThisDay6July]
+categories: [Newspapers, Sunday-Mirror, OnThisDay6July]
 ---
 
 > [![](/assets/images/newspapers/1975-07-06-the-sunday-mirror.jpeg){: .full-width}{: .zoom-in}](/assets/images/newspapers/1975-07-06-the-sunday-mirror.jpeg)

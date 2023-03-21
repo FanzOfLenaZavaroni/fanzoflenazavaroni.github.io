@@ -6,7 +6,7 @@ subtitle: Rest In Peace
 description: The media reports on the death of Lena Zavaroni start.
 media: Rest In Peace
 post_description: The media reports on the death of Lena Zavaroni start.
-categories: [BBC News UK, BBC News Entertainment, OnThisDay2October]
+categories: [BBC-News-UK, BBC-News-Entertainment, OnThisDay2October]
 ---
 
 ### 2 October 1999

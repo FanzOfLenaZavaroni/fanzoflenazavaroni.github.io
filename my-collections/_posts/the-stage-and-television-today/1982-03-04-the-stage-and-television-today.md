@@ -6,7 +6,7 @@ subtitle: End of the run reception
 description: Featured an article reporting on a civil reception held in Birmingham to mark the end of the run of the Babes in the Wood pantomime at the city’s Alexandra Theater.
 media: End Of The Run Reception
 post_description: Featured an article reporting on a civil reception held in Birmingham to mark the end of the run of the Babes in the Wood pantomime at the city’s Alexandra Theater.
-categories: [The Stage and Television Today]
+categories: [The-Stage-and-Television-Today]
 published: false
 ---
 

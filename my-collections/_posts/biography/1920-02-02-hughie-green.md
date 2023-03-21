@@ -7,7 +7,7 @@ description: Hughie Green was an actor and producer, known for Double Your Money
 post_description: 2 February 1920 - 3 May 1997
 image: /assets/images/on-this-day/opportunity-knocks.jpg
 image-caption: Hughie Green
-categories: [Biography, Hughie Green, OnThisDay2February, OnThisDay3May]
+categories: [Biography, Hughie-Green, OnThisDay2February, OnThisDay3May]
 ---
 
 <table>

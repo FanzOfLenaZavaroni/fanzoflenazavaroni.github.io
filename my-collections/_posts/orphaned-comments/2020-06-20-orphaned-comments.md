@@ -5,7 +5,7 @@ maintitle: Orphaned Comments
 subtitle: OnThisDay 4 June
 description: 20 June 2020
 post_description: 20 June 2020
-categories: [Orphaned Comments, OnThisDay20June]
+categories: [Orphaned-Comments, OnThisDay20June]
 ---
 
 <div class="discussions">

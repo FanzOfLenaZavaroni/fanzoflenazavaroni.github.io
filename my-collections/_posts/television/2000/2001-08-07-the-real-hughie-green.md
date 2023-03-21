@@ -6,7 +6,7 @@ subtitle: Channel 4
 description: Channel 4 documentary charting Hughie Green's amazing double life.
 media: Hughie Green
 post_description: Documentary charting Hughie Green's amazing double life.
-categories: [Channel 4, The Real..., Hughie Green, OnThisDay7August]
+categories: [Channel-4, The-Real..., Hughie-Green, OnThisDay7August]
 ---
 
 <h3 id="youtube"><a href="#youtube">YouTube Clip</a></h3>

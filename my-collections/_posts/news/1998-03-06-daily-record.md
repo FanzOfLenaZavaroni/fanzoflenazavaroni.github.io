@@ -5,7 +5,7 @@ maintitle: Daily Record (Glasgow, Scotland)
 description: Former Scots child star Lena Zavaroni was forced to flee a blaze which destroyed her home.
 media: Newspaper
 post_description: Former Scots child star Lena Zavaroni was forced to flee a blaze which destroyed her home.
-categories: [Daily Record, OnThisDay6March]
+categories: [Daily-Record, OnThisDay6March]
 ---
 
 > Former Scots child star Lena Zavaroni was forced to flee a blaze which destroyed her home. Lena, 34, told yesterday how she escaped from the flat in Hoddesdon, Hertfordshire, after her duvet was accidentally set alight by a candle.

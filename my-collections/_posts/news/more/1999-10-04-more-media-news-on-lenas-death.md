@@ -6,7 +6,7 @@ subtitle:
 description: The media blitz on the death of Lena Zavaroni continues
 media: Various Media Articles
 post_description: A list of just some of the articles published on this day.
-categories: [BBC News Wales, Daily Mail, Mirror, News Letter - Belfast, London, Northern Ireland, OnThisDay4October]
+categories: [BBC-News-Wales, Daily-Mail, Mirror, News-Letter - Belfast, London, Northern-Ireland, OnThisDay4October]
 ---
 
 **The media blitz on the death of Lena Zavaroni continues:**

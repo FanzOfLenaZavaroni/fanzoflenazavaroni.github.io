@@ -7,7 +7,7 @@ description: Mentioned Lena Zavaroni’s Album. Ma! (He’s Making Eyes At Me).
 media: Newspaper
 post_description: Mentioned Lena Zavaroni’s Album. Ma! (He’s Making Eyes At Me).
 image: /assets/images/newspapers/Bullet-Fredericksburg_VA_vol-71_1998-04-23_0001.jpg
-categories: [Newspapers, Mary Washington, The Bullet, OnThisDay23April]
+categories: [Newspapers, Mary-Washington, The-Bullet, OnThisDay23April]
 ---
 
 <figure class="fig3">

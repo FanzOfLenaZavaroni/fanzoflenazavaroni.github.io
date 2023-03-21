@@ -7,7 +7,7 @@ subtitle: The 3 Arts Theatre, 260 Main Road, Plumstead, 7800 Cape Town, South Af
 description: 3 Arts Theatre, 260 Main Road, Plumstead, 7800 Cape Town, South Africa.
 post_description: 260 Main Road, Plumstead, 7800 Cape Town, South Africa.
 image: /assets/images/theatres/1969c-the-3-arts-theatre.jpg
-categories: [Theatre, 3 Arts Theatre]
+categories: [Theatre, 3-Arts-Theatre]
 ---
 
 <a href="/assets/images/theatres/1969c-the-3-arts-theatre.jpg"><img src="/assets/images/theatres/1969c-the-3-arts-theatre.jpg" class="full-width zoom-in" /></a>

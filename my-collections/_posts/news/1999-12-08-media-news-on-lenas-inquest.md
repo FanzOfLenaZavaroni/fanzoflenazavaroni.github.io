@@ -6,7 +6,7 @@ subtitle:
 description: Currently an article from the BBC is all that's here, I will be adding more over time.
 media: Details
 post_description: Currently an article from the BBC is all that's here, I will be adding more over time..
-categories: [BBC News UK, BBC News Entertainment, OnThisDay8December]
+categories: [BBC-News-UK, BBC-News-Entertainment, OnThisDay8December]
 ---
 
 * ——: [BBC News &#124; WALES &#124; Inquest told of star's suicide threat](http://news.bbc.co.uk/1/hi/wales/554625.stm){: .external-link}

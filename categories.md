@@ -16,7 +16,7 @@ maintitle: Categories
 {% assign sorted_cats = site.categories | sort %}
 {% for category in sorted_cats %}
 {% assign sorted_posts = category[1] | reversed %}
-<h3 id="{{category[0] | uri_escape}}">{{category[0]}}</h3>
+<h3 id="{{category[0] | uri_escape}}">{{category[0]  | replace: "-", " "}}</h3>
 <ul>
 {% for post in sorted_posts %}
 <li><a href="{{ site.url }}{{ site.baseurl }}{{  post.url }}">{{post.date | date: "%Y-%m-%d "}} - {{post.maintitle}}</a></li>
