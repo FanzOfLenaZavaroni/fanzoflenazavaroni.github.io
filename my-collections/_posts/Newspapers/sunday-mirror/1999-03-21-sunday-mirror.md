@@ -6,7 +6,7 @@ subtitle: SECRET RAPE NIGHTMARE OF SINGER LENA'S MOTHER
 description: THE mother of Seventies singing sensation Lena Zavaroni was the victim of a brutal rape, the Sunday Mirror can reveal.
 media: Newspaper
 post_description: THE mother of Seventies singing sensation Lena Zavaroni was the victim of a brutal rape, the Sunday Mirror can reveal.
-categories: [Newspapers, OnThisDay21March]
+categories: [Newspapers, Sunday-Mirror, OnThisDay21March]
 ---
 
 <span class="red">Article Warning:</span> Description may be upsetting to some fans.
