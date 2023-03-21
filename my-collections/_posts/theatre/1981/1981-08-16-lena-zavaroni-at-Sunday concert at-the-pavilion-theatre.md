@@ -7,7 +7,7 @@ description: Lena Zavaroni stars in her own show at The Pavilion, Bournemouth.
 media: The Sunday Concert
 post_description: Starring Lena Zavaroni
 image: /assets/images/locations/5484043_1ebb0d9a-200x200.png
-categories: [Theatre, The Lena Zavaroni Show, OnThisDay16August]
+categories: [Theatre, The-Lena-Zavaroni-Show, OnThisDay16August]
 ---
 
 [![](/assets/images/locations/geograph-5270508-by-barry-shimmon.jpg){: .full-width}](https://www.geograph.org.uk/photo/5270508)

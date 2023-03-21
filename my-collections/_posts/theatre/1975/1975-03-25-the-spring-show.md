@@ -8,7 +8,7 @@ description: Lena Zavaroni - The Pavilion Theatre, Bournemouth (25-29 March 1975
 media: The Pavilion Theatre, Bournemouth
 post_description: Staring Lena Zavaroni (25 - 29 March 1975)
 image: /assets/images/locations/geograph-5270508-by-barry-shimmon.jpg
-categories: [Theatre, Pavilion Theatre, Bournemouth, OnThisDay25March]
+categories: [Theatre, Pavilion-Theatre, Bournemouth, OnThisDay25March]
 ---
 
 ![](/assets/images/locations/geograph-5270508-by-barry-shimmon.jpg){: .full-width}

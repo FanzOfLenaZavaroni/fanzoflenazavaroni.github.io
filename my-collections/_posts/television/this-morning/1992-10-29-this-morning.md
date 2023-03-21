@@ -7,7 +7,7 @@ description: Lena talked about her previous anorexia and her clinical depression
 media: Granada Television
 post_description: Lena talked about her previous anorexia and her clinical depression.
 image: /assets/images/ITV/1992-10-29-this-morning .png
-categories: [Granada Television, OnThisDay29October]
+categories: [Granada-Television, OnThisDay29October]
 ---
 
 ![](/assets/images/ITV/1992-10-29-this-morning .png)

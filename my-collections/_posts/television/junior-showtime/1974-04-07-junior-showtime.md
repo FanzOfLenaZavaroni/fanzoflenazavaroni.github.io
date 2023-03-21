@@ -7,7 +7,7 @@ description: Mark Curry, Glyn Poole and Lena Zavaroni.
 media: Yorkshire Television
 post_description: Mark Curry, Glyn Poole and Lena Zavaroni.
 image: /assets/images/YTV/1974-06-16-junior-showtime.jpg
-categories: [Yorkshire Television]
+categories: [Yorkshire-Television]
 ---
 
 <table>

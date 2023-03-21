@@ -6,7 +6,7 @@ subtitle: Pick of the day
 description: A Royal Night of One Hundred Stars
 media: Pick of the day
 post_description: A Royal Night of One Hundred Stars
-categories: [Newspapers, Sunday Mirror, OnThisDay31March]
+categories: [Newspapers, Sunday-Mirror, OnThisDay31March]
 ---
 
 <figure class="fig1">

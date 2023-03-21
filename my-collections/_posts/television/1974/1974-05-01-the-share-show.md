@@ -8,7 +8,7 @@ media: US Television - Date of broadcast is unknown
 post_description: Annual children's charity benefit show in the US, held circa Hollywood during May 1974.
 image: /assets/images/US-TV/Frank-Sinatra-and-Lena-Zavaroni.jpg
 date: May 1974
-categories: [US Television]
+categories: [US-Television]
 ---
 
 <h1 id="share-show"><a href="#share-show">The SHARE Show</a></h1>

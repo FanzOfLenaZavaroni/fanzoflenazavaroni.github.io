@@ -7,7 +7,7 @@ description: Starring Lena Zavaroni.
 media: Details
 post_description: One of the support acts burnt his arm during his act and Lena stayed with him until an ambulance came.
 image: /assets/images/locations/1582145_07685d76.jpg
-categories: [Theatre, The Pier Theatre, OnThisDay1August]
+categories: [Theatre, The-Pier-Theatre, OnThisDay1August]
 ---
 
 One of the support acts burnt his arm during his act and Lena stayed with him until an ambulance came.

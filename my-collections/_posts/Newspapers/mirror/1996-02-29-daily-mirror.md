@@ -5,7 +5,7 @@ maintitle: Daily Mirror
 subtitle: Will add details once the on this day kicks in on the related British Newspaper Archive page. Note this will not be until 2024 which is the next leep year.
 description: Will add details once the on this day kicks in on the related British Newspaper Archive page. Note this will not be until 2024 which is the next leep year.
 post_description: Will add details once the on this day kicks in on the related British Newspaper Archive page. Note this will not be until 2024 which is the next leep year.
-categories: [Newspapers, Daily Mirror, OnThisDay29February]
+categories: [Newspapers, Daily-Mirror, OnThisDay29February]
 ---
 
 <figure class="fig1">

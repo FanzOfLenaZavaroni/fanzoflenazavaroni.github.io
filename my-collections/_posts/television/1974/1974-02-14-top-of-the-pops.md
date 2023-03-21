@@ -7,7 +7,7 @@ description: Lena Zavaroni gets to preform on Top of the Pops for the first time
 media: BBC One
 post_description: Lena Zavaroni gets to preform on Top of the Pops for the first time.
 image: http://img.youtube.com/vi/IHWfmYHK324/hqdefault.jpg
-categories: [BBC One, TOTP, OnThisDay14February]
+categories: [BBC-One, TOTP, OnThisDay14February]
 ---
 
 <figure class="fig3">

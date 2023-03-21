@@ -6,7 +6,7 @@ subtitle: The Imperial Hotel, Blackpool
 description: Lena attended the first LZAS annual luncheon, attended by over 60 fans and held to celebrate her 18th birthday, where she met members of the society and presented them with signed photos.
 media: Details
 post_description: Annual luncheon, attended by over 60 fans and held to celebrate her 18th birthday, where she met members of the society and presented them with signed photos.
-categories: [Personal Appearances, OnThisDay8November]
+categories: [Personal-Appearances, OnThisDay8November]
 ---
 
 <figure class="fig1">

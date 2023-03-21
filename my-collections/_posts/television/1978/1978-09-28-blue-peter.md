@@ -7,7 +7,7 @@ description: Lena performed Speedy Gonzales live in the studio, and was then int
 media: BBC One
 post_description: Lena performed Speedy Gonzales live in the studio, and was then interviewed by the three presenters.
 image: /assets/images/BBC/1978-09-28-blue-peter.jpg
-categories: [BBC One, OnThisDay28September]
+categories: [BBC-One, OnThisDay28September]
 ---
 
 <figure class="fig1">

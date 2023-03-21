@@ -7,7 +7,7 @@ description: 50 minute documentary looking at the lives of various child stars t
 media: Television
 post_description: 50 minute documentary looking at the lives of various child stars through the years. Features an 8 minute segment about Lena's career and illness.
 image: /assets/images/BBC/
-categories: [BBC One, OnThisDay29August]
+categories: [BBC-One, OnThisDay29August]
 ---
 
 ### Synopsis

@@ -8,7 +8,7 @@ description: Starring Lena Zavaroni with Norman Collier, Dawson Chance and the B
 media: Details
 post_description: Lena Zavaroni stars in her own show at the New Vic Theatre, Belfast.
 image: /assets/images/newspapers/1980-10-22-the-belfast-telegraph.png
-categories: [Theatre, The New Vic Theatre, Belfast, OnThisDay22October]
+categories: [Theatre, The-New-Vic-Theatre, Belfast, OnThisDay22October]
 ---
 
 <figure class="fig1">

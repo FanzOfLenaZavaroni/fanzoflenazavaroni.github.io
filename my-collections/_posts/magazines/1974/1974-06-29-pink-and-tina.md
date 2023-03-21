@@ -7,7 +7,7 @@ description: There was a short article about Lena  Zavaroni in the magazine.
 media: The Magazine
 post_description: carried a short article about Lena Zavaroni.
 image: /assets/images/magazines/1974-06-29-pink-and-tina-01.jpg
-categories: [Magazines, pink & tina, OnThisday29June]
+categories: [Magazines, pink-&-tina, OnThisday29June]
 ---
 
 <figure class="fig1">

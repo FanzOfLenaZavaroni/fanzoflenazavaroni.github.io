@@ -7,7 +7,7 @@ description: 6 July to 8 September 1979.
 image: /assets/images/theatres/Bridlington-01.jpg
 media: Spa Theatre, Bridlington
 post_description: With Cannon and Ball, Bernard Flint, ETC.
-categories: [Theatre, The Lena Zavaroni Show]
+categories: [Theatre, Spa-Theatre, Bridlington, The-Lena-Zavaroni-Show]
 ---
 
 ### Programme

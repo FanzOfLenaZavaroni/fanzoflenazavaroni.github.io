@@ -5,7 +5,7 @@ maintitle: The Death Certificate of Hilda Catherine (Jordan) Zavaroni was issued
 subtitle: Public Record
 description: Follow link to view a copy.
 post_description: Follow link to view a copy.
-categories: [Public Records, Death Certificate, OnThisDay19December]
+categories: [Public-Records, Death-Certificate, OnThisDay19December]
 ---
 
 <figure class="fig3">

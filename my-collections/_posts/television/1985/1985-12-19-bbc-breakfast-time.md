@@ -7,7 +7,7 @@ description: Lena appears on the sofa to chat to Frank Bough and Debbie Greenwoo
 media: BBC One
 post_description: Lena appears on the sofa to chat to Frank Bough and Debbie Greenwood about her plans for the future.
 image: /assets/images/BBC/Breakfast Time.jpg
-categories: [BBC One, OnThisDay19December]
+categories: [BBC-One, OnThisDay19December]
 ---
 
 <figure class="fig1">

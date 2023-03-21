@@ -7,7 +7,7 @@ description:  16 February 1975 - with The Bachelors, The Vernons and Lena Zavaro
 media: Epiosde 1
 post_description: with The Bachelors, The Vernons and Lena Zavaroni.
 image: /assets/images/BBC/The-Bachelors-Show-01.jpg
-categories: [BBC Two, OnThisDay16February]
+categories: [BBC-Two, OnThisDay16February]
 ---
 
 <figure class="fig1">

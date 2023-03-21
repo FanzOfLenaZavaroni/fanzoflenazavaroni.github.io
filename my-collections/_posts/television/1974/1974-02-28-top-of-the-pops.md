@@ -6,7 +6,7 @@ subtitle: Music Chart Television Programme
 description: Lena Zavaroni gets to preform on Top of the Pops for the second time.
 media: BBC One
 post_description: Lena Zavaroni gets to preform on Top of the Pops for the second time.
-categories: [BBC One, TOTP, OnThisDay28February]
+categories: [BBC-One, TOTP, OnThisDay28February]
 ---
 
 <figure class="fig3">

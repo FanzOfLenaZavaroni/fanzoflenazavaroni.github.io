@@ -6,7 +6,7 @@ subtitle: Torquay
 description: Lena Zavaroni joins members of her fan club at a hotel in Torquay.
 media: Details
 post_description: Lena Zavaroni joins members of her fan club at a hotel in Torquay.
-categories: [Fan Club, Torquay ,OnThisDay23August]
+categories: [Fan-Club, Torquay ,OnThisDay23August]
 ---
 
 <figure class="fig1">

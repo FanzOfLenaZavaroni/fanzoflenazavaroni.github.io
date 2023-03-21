@@ -6,7 +6,7 @@ subtitle: Magazine
 description: "Under the Fan Clubs section: LENA ZAVARONI Fan Club. - S.A.E.: 20 Silfield Road, Wymondh."
 media: Details
 post_description: "Under the Fan Clubs section: LENA ZAVARONI Fan Club. - S.A.E.: 20 Silfield Road, Wymondh."
-categories: [Magazines, Record Mirror & Disc, OnThisDay11November]
+categories: [Magazines, Record-Mirror-&-Disc, OnThisDay11November]
 ---
 
 <figure class="fig1">

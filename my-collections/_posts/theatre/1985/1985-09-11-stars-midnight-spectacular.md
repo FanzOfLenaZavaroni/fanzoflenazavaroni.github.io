@@ -7,7 +7,7 @@ description: Charity variety show to raise funds for the Entertainment Artists B
 media: Details
 post_description: Charity variety show to raise funds for the Entertainment Artists Benevolent Fund and Blackpool Service Clubs Association.
 image: /assets/images/theatres/1985-09-11-stars-midnight-spectacular-lz-200x200.png
-categories: [Theatre, Blackpool Opera House, OnThisDay11September]
+categories: [Theatre, Blackpool-Opera-House, OnThisDay11September]
 ---
 
 ### Details

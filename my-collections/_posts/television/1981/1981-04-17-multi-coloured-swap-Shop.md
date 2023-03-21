@@ -7,7 +7,7 @@ description: Noel Edmonds hosts a star-studded show together with John Craven, K
 media: BBC One
 post_description: Noel Edmonds hosts a star-studded show together with John Craven, Keith Chegwin and Maggie Philbm. Find out who's won the Eric awards for the favourite man and favourite lady on TV.
 image: http://img.youtube.com/vi/4eHuH65qEX4/hqdefault.jpg
-categories: [BBC One]
+categories: [BBC-One]
 ---
 
 <table>

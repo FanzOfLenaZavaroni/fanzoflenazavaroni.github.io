@@ -6,7 +6,7 @@ subtitle: Including after 11.00 the Five Live Report Mind Games - Scientology ve
 description: This morning the Five Live Report goes undercover to investigate how, from the London bombings to Ground Zero, Volunteer Ministers from Scientology travel the world providing what they claim is effective help in times of peril. a reference is made to lobotomy performed on Lena Zavaroni.
 media: BBC Radio 5
 post_description: This morning the Five Live Report goes undercover to investigate how, from the London bombings to Ground Zero, Volunteer Ministers from Scientology travel the world providing what they claim is effective help in times of peril. a reference is made to lobotomy performed on Lena Zavaroni.
-categories: [BBC Radio 5, Transcripts, Deleted Online Articles]
+categories: [BBC-Radio-5, Transcripts, Deleted-Online-Articles]
 ---
 
 <span style="color:#ff0000; font-weight:bold;font-size:26px;">Article Warning:</span> <span style="font-size:26px;">Transcript may be upsetting to some.</span>

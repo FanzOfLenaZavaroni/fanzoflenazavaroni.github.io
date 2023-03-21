@@ -7,7 +7,7 @@ description: In this episode of the programme Jimmy Logan introduces his special
 media: BBC One
 post_description: In this episode of the programme Jimmy Logan introduces his special guest Lena Zavaronl also featuring The New Seekers, Danny Street, Andy Cameron and Alex Welsh and His Band.
 image: /assets/images/BBC/1978-06-13-cabaret-showtime.jpg
-categories: [BBC One]
+categories: [BBC-One]
 ---
 
 <table>

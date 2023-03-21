@@ -8,7 +8,7 @@ description: Starring Lena Zavaroni from November 13 - 15, 1980
 media: Details
 post_description: Starring Lena Zavaroni from November 13 - 15.
 image: /assets/images/newspapers/1980-11-06-neath-guardian-page-4.png
-categories: [Theatre, Diamond Cabaret Club, OnThisDay13November]
+categories: [Theatre, Diamond-Cabaret-Club, OnThisDay13November]
 ---
 
 Based on the advert in the Pontypridd Observer it seems that the original plan was for Lena to perform at the club from the 10th to the 15th of November 1980 but for a reason currently unestablished her appearances were reduce by two days based on the later advert in the Neath Guardian.

@@ -7,7 +7,7 @@ description: Lena took part in a discussion on the price of fame.
 media: Television
 post_description: Lena took part in a discussion on the price of fame.
 image: /assets/images/Media-Logos/bfi_logo_transp.png
-categories: [Scottish Television (STV), OnThisDay31May]
+categories: [Scottish-Television-(STV), OnThisDay31May]
 ---
 
 Lena took part in a discussion on the price of fame.

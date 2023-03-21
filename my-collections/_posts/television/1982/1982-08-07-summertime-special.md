@@ -7,7 +7,7 @@ description: Lena Zavaroni is the presenter for the show as well as preforming i
 media: BBC One
 post_description: Lena Zavaroni is the presenter for the show as well as preforming in the show.
 image: /assets/images/BBC/1981-07-25-summertime-special.jpg
-categories: [BBC One, OnThisDay7August]
+categories: [BBC-One, OnThisDay7August]
 ---
 
 <table style="text-align: center;">

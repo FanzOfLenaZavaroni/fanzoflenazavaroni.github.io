@@ -7,7 +7,7 @@ description: Lena Zavaroni was one of the guest on the show.
 media: US Television
 post_description: Lena Zavaroni was one of the guest on the show.
 image: /assets/images/US-TV/1974-11-02-the-carol-burnett-show.jpg
-categories: [US Television, OnThisDay2November]
+categories: [US-Television, OnThisDay2November]
 ---
 
 <figure class="fig1">

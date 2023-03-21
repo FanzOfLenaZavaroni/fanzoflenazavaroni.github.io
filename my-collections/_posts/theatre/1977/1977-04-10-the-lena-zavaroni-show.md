@@ -7,7 +7,7 @@ description: Songs included Say, Has Anybody Seen My Sweet Gypsy Rose and Pinch 
 media: Southport
 post_description: Songs included Say, Has Anybody Seen My Sweet Gypsy Rose and Pinch Me Am I Dreaming.
 image: /assets/images/locations/South-Port.jpg
-categories: [Theatre, The New Theatre, Southport, OnThisDay10April]
+categories: [Theatre, The-New-Theatre, Southport, OnThisDay10April]
 ---
 
 ### Summary

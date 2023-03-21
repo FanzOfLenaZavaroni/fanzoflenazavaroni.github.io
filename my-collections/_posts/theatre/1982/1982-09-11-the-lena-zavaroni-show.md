@@ -7,7 +7,7 @@ description: The Bachelors stood in for Lena Zavaroni as she was too ill to perf
 media: Details
 post_description: The Bachelors stood in for Lena Zavaroni as she was too ill to perform.
 image: /assets/images/locations/
-categories: [Theatre, Grand Theatre Leeds, OnThisDay11September]
+categories: [Theatre, Grand-Theatre-Leeds, OnThisDay11September]
 ---
 
 Lena Zavaroni was taken ill and so the Bachelors stood in for her.

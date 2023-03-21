@@ -7,7 +7,7 @@ description: Broadcast in United States on Channel 11 at 8am Lena Zavaroni made 
 media: US Television
 post_description: Broadcast in United States on Channel 11 at 8am Lena Zavaroni made a guest appearance on this episode singing Music, Music, Music.
 image: https://img.youtube.com/vi/akMucPDNjos/sddefault.jpg
-categories: [US Television]
+categories: [US-Television]
 ---
 
 Lena Zavaroni made a guest appearance on this episode singing Music, Music, Music.

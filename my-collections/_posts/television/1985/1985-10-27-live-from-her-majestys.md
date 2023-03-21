@@ -6,7 +6,7 @@ subtitle: Lena Zavaroni makes a guest appearance on the variety show.
 description: Lena Zavaroni makes a guest appearance on the variety show.
 post_description: Lena Zavaroni makes a guest appearance on the variety show.
 image: /assets/images/newspapers/1985-10-26-evening-times-page-15.png
-categories: [Scottish Television (STV), OnThisDay27October]
+categories: [Scottish-Television-(STV), OnThisDay27October]
 ---
 
 <figure class="fig1">

@@ -5,7 +5,7 @@ maintitle: Last Will And Testament
 subtitle: Of Lena Zavaroni
 description: Lena Zavaroni
 post_description: Lena Zavaroni
-categories: [Public Records, Will And Probate, OnThisDay19August]
+categories: [Public-Records, Will-And-Probate, OnThisDay19August]
 ---
 
 <figure class="fig1">

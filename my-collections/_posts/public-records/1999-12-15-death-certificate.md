@@ -5,7 +5,7 @@ maintitle: The Death Certificate of Lena Hilda Zavaroni was issued
 subtitle: Public Record
 description: Follow link to view a copy.
 post_description: Follow link to view a copy.
-categories: [Public Records, Death Certificate, OnThisDay15December]
+categories: [Public-Records, Death-Certificate, OnThisDay15December]
 ---
 
 <figure class="fig3">

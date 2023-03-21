@@ -7,7 +7,7 @@ description: Lena takes part in a game of charades, and mimes the film &quot;A B
 media: Television
 post_description: Lena takes part in a game of charades, and mimes the film &quot;A Big Hand For The Little Lady&quot;.
 image: /assets/images/ITV/1985-12-05-give-us-a-clue.jpg
-categories: [Thames Television, OnThisDay5December]
+categories: [Thames-Television, OnThisDay5December]
 ---
 
 <figure class="fig1">

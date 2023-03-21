@@ -7,7 +7,7 @@ description: Two shows at 6.10pm and 8.20pm plus a rehearsal at 2.30pm The Contr
 media: Show Times
 post_description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 image: /assets/images/theatres/1980-07-20-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.jpg
-categories: [Theatre, Harold Fielding, Blackpool Opera House, OnThisDay9August]
+categories: [Theatre, Blackpool-Opera-House, Harold-Fielding, OnThisDay9August]
 ---
 
 <figure class="fig3">

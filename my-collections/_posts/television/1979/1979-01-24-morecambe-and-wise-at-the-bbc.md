@@ -6,7 +6,7 @@ subtitle: Clips Show made up of various performers that had appared on The Morec
 description: A season of shows celebrating Eric and Ernie's successful years with the BBC. Written by EDDIE BRABEN with Lena Zavaroni , Ann Hamilton.
 post_description: A season of shows celebrating Eric and Ernie's successful years with the BBC. Written by EDDIE BRABEN with Lena Zavaroni , Ann Hamilton.
 image: /assets/images/BBC-PIDs\p0417db6 - 768x432.jpg
-categories: [BBC Two, OnThisDay24January]
+categories: [BBC-Two, OnThisDay24January]
 ---
 
 <figure class="fig3">

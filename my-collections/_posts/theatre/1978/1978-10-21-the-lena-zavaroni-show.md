@@ -6,6 +6,6 @@ subtitle: The Opera House, Blackpool
 description: Lena Zavaroni stars in her own show at The Opera House, Blackpool.
 media: Details
 post_description: Lena Zavaroni stars in her own show at The Opera House, Blackpool.
-categories: [Theatre, Blackpool Opera House, OnThisDay21October]
+categories: [Theatre, Blackpool-Opera-House, OnThisDay21October]
 ---
 
