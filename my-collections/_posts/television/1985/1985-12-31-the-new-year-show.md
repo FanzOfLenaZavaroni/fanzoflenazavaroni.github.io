@@ -7,7 +7,7 @@ description: Laird O' Cowcaddens jack McLaughlin hosts STV's classic New Year ba
 media: Details
 post_description: Lena Zavaroni pre-recorded a New Year sequence which included her singing Auld Lang Syne for use by Scottish television (STV) on The New Year Show (1985).
 image: https://img.youtube.com/vi/iOWvho3ZSKw/sddefault.jpg
-categories: [Scottish Television (STV), OnThisDay21November, OnThisDay31December]
+categories: [Scottish-Television-(STV), OnThisDay21November, OnThisDay31December]
 ---
 
 Laird O' Cowcaddens jack McLaughlin hosts STV's classic New Year bash from 1985.

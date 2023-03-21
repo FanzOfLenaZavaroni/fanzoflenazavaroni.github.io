@@ -7,7 +7,7 @@ description: Lena chats on the BBC Radio show presented by Ed Stewart.
 media: BBC Radio 1 & BBC Radio 2
 post_description: Lena chats on the BBC Radio show presented by Ed Stewart.
 image: /assets/images/radio/radio-tower-200x200.png
-categories: [BBC Radio 1, BBC Radio 2]
+categories: [BBC-Radio-1, BBC-Radio-2]
 ---
 
 <table style="margin-bottom: 0;">

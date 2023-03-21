@@ -6,7 +6,7 @@ subtitle: "BBC Radio 2: Martin Dale invites you to Join the audience at the BBC 
 description: Martin Dale invites you to Join the audience at the BBC Variety Club in Manchester for an hour's cabaret.
 media: BBC Radio 2
 post_description: Martin Dale invites you to Join the audience at the BBC Variety Club in Manchester for an hour's cabaret.
-categories: [BBC Radio 2, OnThisDay17October]
+categories: [BBC-Radio-2, OnThisDay17October]
 ---
 
 <h3 id="contributors"><a href="#contributors">Contributors</a></h3>

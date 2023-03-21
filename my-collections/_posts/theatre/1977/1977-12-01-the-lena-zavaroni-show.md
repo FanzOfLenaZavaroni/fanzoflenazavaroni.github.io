@@ -7,7 +7,7 @@ description: Starring Lena Zavaroni
 media: Details
 post_description: Starring Lena Zavaroni
 image: /assets/images/theatres/The-Roxy-Theatre-Harlesden.jpg
-categories: [Theatre, Roxy Theatre, Harlesden, OnThisDay1December]
+categories: [Theatre, Roxy-Theatre, Harlesden, OnThisDay1December]
 ---
 
 ![](/assets/images/theatres/The-Roxy-Theatre-Harlesden.jpg){: .full-width}

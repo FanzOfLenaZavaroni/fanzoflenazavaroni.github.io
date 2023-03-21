@@ -6,7 +6,7 @@ subtitle: Ma .. those movie men are making eyes at me
 description: Heading for the big time in Hollywood . . . ten-year-old Lena Zavaroni.
 media: Ma .. those movie men are making eyes at me
 post_description: Heading for the big time in Hollywood . . . ten-year-old Lena Zavaroni.
-categories: [Newspapers, Daily Mirror, OnThisDay11March]
+categories: [Newspapers, Daily-Mirror, OnThisDay11March]
 ---
 
 <figure class="fig1">

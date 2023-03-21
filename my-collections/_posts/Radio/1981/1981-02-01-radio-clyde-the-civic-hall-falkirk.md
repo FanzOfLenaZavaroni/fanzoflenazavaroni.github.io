@@ -6,7 +6,7 @@ subtitle: The Civic Hall, Falkirk
 description: Starshot a talent contest to discover new cabaret acts was broadcast possibly from Falkirk Civic Hall. Lena Zavaroni performed as the professional artiste for part of the programmme.
 post_description: Starshot a talent contest to discover new cabaret acts was broadcast possibly from Falkirk Civic Hall. Lena Zavaroni performed as the professional artiste for part of the programmme.
 image: /assets/images/radio/radio Clyde.png
-categories: [Radio Clyde, OnThisDay1February]
+categories: [Radio-Clyde, OnThisDay1February]
 ---
 
 <figure class="fig1">

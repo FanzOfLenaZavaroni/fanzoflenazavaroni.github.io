@@ -7,7 +7,7 @@ description: Lena Zavaroni stars in her own show at the Wellington Pier, Great Y
 media: Theatre
 post_description: Lena Zavaroni stars in her own show at the Wellington Pier, Great Yarmouth.
 image: /assets/images/theatres/1978-08-13-presenting-lena-zavaroni.jpg
-categories: [Theatre, Great Yarmouth, OnThisDay13August]
+categories: [Theatre, Great-Yarmouth, OnThisDay13August]
 ---
 
 <figure class="fig1">

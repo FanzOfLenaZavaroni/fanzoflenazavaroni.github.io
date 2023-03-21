@@ -7,7 +7,7 @@ description: Lena performs I Am What I Am on the comedy show, hosted by the come
 media: Central Television
 post_description: Lena performs I Am What I Am on the comedy show, hosted by the comedian Jimmy Cricket.
 image: /assets/images/ITV/1985-08-02-and-theres-more.jpg
-categories: [Central Television, OnThisDay2August]
+categories: [Central-Television, OnThisDay2August]
 ---
 
 <table style="text-align:center;">

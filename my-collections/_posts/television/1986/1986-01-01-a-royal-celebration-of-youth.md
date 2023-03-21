@@ -7,7 +7,7 @@ description: Recorded on 8 December 1985 at the Conference Centre, Harrogate and
 media: Yorkshire Television & Thames Television
 post_description: Recorded on 8 December 1985 at the Conference Centre, Harrogate and broadcast on 1 January 1986.
 image: /assets/images/newspapers/the-times-london-england-monday-dec-09-1985-pg-18-issue-62316.jpg
-categories: [Yorkshire Television, Thames Television, OnThisDay8December, OnThisDay1January]
+categories: [Yorkshire-Television, Thames-Television, OnThisDay8December, OnThisDay1January]
 ---
 
 In this all star spectacular concert to mark the end of International Year Of Youth, Lena performs Barry Manilow's "All The Time", followed by a cover of the Donna Summer hit "She Works Hard For The Money".

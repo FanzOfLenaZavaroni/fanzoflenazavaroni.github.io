@@ -5,7 +5,7 @@ maintitle: Record and Radio Mirror
 subtitle: Lena Zavaroni's single Ma! (He's Making Eyes At Me) Enters The Top 50 Charts At Number 30.
 description: Lena Zavaroni's single Ma! (He's Making Eyes At Me) Enters The Top 50 Charts At Number 30.
 post_description: Lena Zavaroni's single Ma! (He's Making Eyes At Me) Enters The Top 50 Charts At Number 30.
-categories: [Magazines, Record and Radio Mirror, OnThisDay9February]
+categories: [Magazines, Record-and-Radio-Mirror, OnThisDay9February]
 ---
 
 <figure class="fig1">

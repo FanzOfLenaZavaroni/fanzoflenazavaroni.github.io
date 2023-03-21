@@ -7,7 +7,7 @@ description: Recorded on 1 October 1976 for broadcast on BBC Radio 2 on the 2 Oc
 media : BBC Radio 2
 post_description: Recorded on 1 October 1976 for broadcast on BBC Radio 2 on the 2 October 1976.
 image: /assets/images/Senderfreiesberlin-logo.svg
-categories: [BBC Radio 2, OnThisDay2October]
+categories: [BBC-Radio-2, OnThisDay2October]
 ---
 
 [![](/assets/images/Senderfreiesberlin-logo.svg){: .width-100}{: .left}{: .zoom-in}](/assets/images/Senderfreiesberlin-logo.svg)

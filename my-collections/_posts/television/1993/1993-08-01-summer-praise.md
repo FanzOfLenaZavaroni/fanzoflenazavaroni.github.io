@@ -7,7 +7,7 @@ description: The Sunday evening religious show features the Firth Of Clyde, and 
 media: BBC One
 post_description: The Sunday evening religious show features the Firth Of Clyde, and visits Lena's home town of Rothesay. Pam Rhodes chats to Lena about her life and career.
 image: https://img.youtube.com/vi/DOu5ktVUEoI/hqdefault.jpg
-categories: [BBC One, OnThisDay1August]
+categories: [BBC-One, OnThisDay1August]
 ---
 
 <table style="text-align:center;">

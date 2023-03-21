@@ -7,7 +7,7 @@ description: Lena Zavaroni returns from a two year break to perform a live versi
 media: Thames Television
 post_description: Filmed at Thames Television Studios in London, England on 14 October 1984 for broadcast on 16 October 1984.
 image: /assets/images/newspapers/0FFO-1984-OCT16-035.png
-categories: [Thames Television, OnThisDay14October, OnThisDay16October]
+categories: [Thames-Television, OnThisDay14October, OnThisDay16October]
 ---
 
 Filmed at Thames Television Studios in London, England on 14 October 1984 for broadcast on 16 October 1984.

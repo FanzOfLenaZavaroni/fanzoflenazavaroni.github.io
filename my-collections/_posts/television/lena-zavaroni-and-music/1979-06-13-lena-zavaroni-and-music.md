@@ -6,7 +6,7 @@ subtitle: This week's guests are Helen Gelzer, Adrian Hedley and Johnny Hutch an
 description: This week's guests are Helen Gelzer, Adrian Hedley and Johnny Hutch and The Herculeans.
 post_description: This week's guests are Helen Gelzer, Adrian Hedley and Johnny Hutch and The Herculeans.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
-categories: [BBC One, Lena Zavaroni and Music]
+categories: [BBC-One, Lena-Zavaroni-and-Music]
 ---
 
 <table>

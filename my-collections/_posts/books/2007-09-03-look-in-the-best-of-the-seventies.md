@@ -7,7 +7,7 @@ description: Contained the one-page article about Lena Zavaroni that was first p
 media: Book
 post_description: Contained the one-page article about Lena Zavaroni that was first published in Look-In Week Ending 30 July 1977.
 image: /assets/images/books/2007-09-03-look-in-the-best-of-the-seventies.jpg
-categories: [Books, Look-In, OnThisDay3September]
+categories: [Books, Look&#45;In, OnThisDay3September]
 ---
 
 <figure class="fig1">

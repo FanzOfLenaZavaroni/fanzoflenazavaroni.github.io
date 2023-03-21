@@ -7,7 +7,7 @@ description: With Guest Lena Zavaroni
 media: BBC Radio 2
 post_description: With Guest Lena Zavaroni
 image: https://img.youtube.com/vi/28yqkgRt9uM/hqdefault.jpg
-categories: [BBC Radio 2]
+categories: [BBC-Radio-2]
 ---
 
 ### BBC Genome

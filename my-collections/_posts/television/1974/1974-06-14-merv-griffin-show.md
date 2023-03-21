@@ -7,7 +7,7 @@ description: Merv's guests are actors Fernando Lamas and James Brolin, child sin
 media: US Television
 post_description: Merv's guests are actors Fernando Lamas and James Brolin, child singer Lena Zavaroni and Apollo 15 astronaut Col. James B. Irwin.
 image: /assets/images/US-TV/merv-griffin-show-1a.jpg
-categories: [US Television]
+categories: [US-Television]
 ---
 
 <table>

@@ -7,7 +7,7 @@ description: Lena has 'divi' for Vernons
 media: Newspaper
 post_description: Lena has 'divi' for Vernons
 image: /assets/images/newspapers/1974-03-16-sunday-people-front-page-20.png
-categories: [Newspapers, Sunday People, OnThisDay16March]
+categories: [Newspapers, Sunday-People, OnThisDay16March]
 ---
 
 <figure class="fig1">

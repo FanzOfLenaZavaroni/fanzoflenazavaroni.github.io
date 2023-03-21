@@ -8,7 +8,7 @@ description: Starring Lena Zavaroni
 media: Details
 post_description: Summer Bank Holiday In Scotland.
 image: /assets/images/locations/5484043_1ebb0d9a.jpg
-categories: [Theatre, The King’s Theatre, OnThisDay1August]
+categories: [Theatre, The-King’s-Theatre, OnThisDay1August]
 ---
 
 [![](/assets/images/locations/5484043_1ebb0d9a.jpg){: .full-width}](https://www.geograph.org.uk/photo/5484043)

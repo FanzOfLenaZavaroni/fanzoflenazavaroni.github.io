@@ -8,7 +8,7 @@ description: Lena Zavaroni stars in her own show at the White Rock Pavilion, Has
 media: Theatre
 post_description: The White Rock Pavilion, Hastings.
 image: /assets/images/theatres/1981-08-03-the-white-rock-pavilion-01.jpg
-categories: [Theatre, White Rock Pavilion, Hastings, OnThisDay3August]
+categories: [Theatre, White-Rock-Pavilion, Hastings, OnThisDay3August]
 ---
 
 <figure class="fig1">

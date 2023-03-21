@@ -6,7 +6,7 @@ subtitle: BBC Two
 description: Starring Des O'Connor who plays host to some of the finest entertainment talent from Britain and America. Des sings, jokes and talks in the company of his guests from both sides of the Atlantic. Tonight's special guests are from Britain Jim Davidson, Lena Zavaroni and from America Garry Shandling.
 media: Info
 post_description: Repeated on 5 August 1982. Starring Des O'Connor who plays host to some of the finest entertainment talent from Britain and America. Des sings, jokes and talks in the company of his guests from both sides of the Atlantic. Tonight's special guests are from Britain Jim Davidson, Lena Zavaroni and from America Garry Shandling.
-categories: [BBC Two, Des O'Connor, OnThisDay28September, OnThisDay5August]
+categories: [BBC-Two, Des-O'Connor, OnThisDay28September, OnThisDay5August]
 ---
 
 ### Synopsis

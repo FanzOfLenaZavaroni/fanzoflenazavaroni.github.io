@@ -6,7 +6,7 @@ subtitle: "ITV: TV-AM's Main Breakfast Television Show"
 description: Lena appears on the sofa to talk about her plans for Christmas.
 post_description: Lena appears on the sofa to talk about her plans for Christmas.
 image: /assets/images/ITV/TV-AM.png
-categories: [ITV, TV-AM, OnThisDay25December]
+categories: [ITV, TV&#45;AM, OnThisDay25December]
 ---
 
 Lena appears on the sofa to talk about her plans for Christmas. She opens a gift from the presenters, of champagne bubble bath, and jokes that she'll get drunk in the bath.

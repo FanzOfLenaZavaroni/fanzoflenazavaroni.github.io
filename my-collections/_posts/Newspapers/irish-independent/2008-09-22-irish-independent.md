@@ -9,7 +9,7 @@ post_description: "Article on Fujiya And Miyagi  makes reference to their song K
 image: /assets/images/newspapers/2008-09-22-irish-independent-fc.png
 page_18: /assets/images/newspapers/2008-09-22-irish-independent-page-18.png
 page_18_clipping: /assets/images/newspapers/2008-09-22-irish-independent-page-18-clipping.png
-categories: [Newspapers, Irish Independent, OnThisDay22September]
+categories: [Newspapers, Irish-Independent, OnThisDay22September]
 ---
 
 <figure class="fig1">

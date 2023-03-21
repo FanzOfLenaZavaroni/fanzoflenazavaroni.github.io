@@ -7,7 +7,7 @@ description: The section of the book about London Weekend Television's show "Len
 media: Book
 post_description: The section of the book about London Weekend Television's show "Lena and Bonnie" shows how little the Solomons cared about the personal relationships of Lena Zavaroni by arranging for her friend Bonnie Langford to be given a savage review, while Lena got a glowing review.
 image: /assets/images/books/ISBN-1843543818-cover.jpg
-categories: [Books, Lena Zavaroni, Bonnie Langford, OnThisDay1November]
+categories: [Books, Lena-Zavaroni, Bonnie-Langford, OnThisDay1November]
 ---
 
 <figure class="fig1">

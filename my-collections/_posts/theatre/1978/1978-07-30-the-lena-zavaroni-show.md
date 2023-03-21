@@ -7,7 +7,7 @@ description: Starring Lena Zavaroni with The Maurice Merry Orchestra, Tony Evans
 media: The Floral Hall Theatre, Scarborough
 post_description: Starring Lena Zavaroni with The Maurice Merry Orchestra, Tony Evans, Terry Denton and Turnstyle (From The Marti Caine Show).
 image: /assets/images/theatres/1978-07-30-the-lena-zavaroni-show-front-of-programme.jpg
-categories: [Theatre, The Lena Zavaroni Show]
+categories: [Theatre, The-Lena-Zavaroni-Show]
 ---
 
 <figure class="fig1">

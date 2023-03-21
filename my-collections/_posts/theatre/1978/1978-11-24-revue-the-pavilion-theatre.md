@@ -7,7 +7,7 @@ subtitle: The Pavilion Theatre, Glasgow
 description: Lena Zavaroni stars in a revue at The Pavilion Theatre, Glasgow.
 media: Details
 post_description: Lena Zavaroni stars in a revue at The Pavilion Theatre, Glasgow.
-categories: [Theatre, Pavilion Theatre, Glasgow, OnThisDay24November]
+categories: [Theatre, Pavilion-Theatre, Glasgow, OnThisDay24November]
 ---
 
 **Names associated with this Event:**

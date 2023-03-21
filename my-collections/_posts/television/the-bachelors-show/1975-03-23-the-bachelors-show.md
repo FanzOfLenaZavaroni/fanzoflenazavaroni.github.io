@@ -6,7 +6,7 @@ subtitle: Epiosde 6
 description:  16 March 1975 - with The Bachelors, The Vernons and Lena Zavaroni.
 media: Epiosde 6
 post_description: with The Bachelors, The Vernons and Lena Zavaroni.
-categories: [BBC Two, OnThisDay23March]
+categories: [BBC-Two, OnThisDay23March]
 ---
 
 <figure class="fig1">

@@ -7,7 +7,7 @@ description: Lena chats to Derek Batey about her life so far, and performs impro
 media: ITV
 post_description: Lena chats to Derek Batey about her life so far, and performs impromptu versions of Ma! He's Making Eyes At Me in Japanese and German.
 image: /assets/images/ITV/border-television-station-ident.jpg
-categories: [Border Television, ITV, OnThisDay14November]
+categories: [Border-Television, ITV, OnThisDay14November]
 ---
 
 <figure class="fig1">

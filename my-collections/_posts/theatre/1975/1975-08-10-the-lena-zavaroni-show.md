@@ -7,7 +7,7 @@ description: Lena Zavaroni at The Festival Theatre, Paignton.
 media: Info
 post_description: Details Unknown.
 image: /assets/images/locations/1975-08-10-the-lena-zavaroni-show.jpg
-categories: [Theatre, Festival Theatre, Paignton, OnThisDay10August]
+categories: [Theatre, Festival-Theatre, Paignton, OnThisDay10August]
 ---
 
 [![The Festival Theatre, Paignton](/assets/images/locations/1975-08-10-the-lena-zavaroni-show.jpg)](http://cinematreasures.org/theaters/25234/photos/54169)

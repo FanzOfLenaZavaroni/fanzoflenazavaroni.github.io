@@ -9,7 +9,7 @@ media: US Television
 post_description: Charity fundraising Telethon for the Muscular Dystrophy Association.
 image: /assets/images/US-TV/1974-08-31-jerry-lewis-mda-labor-day-telethon.jpg
 youtube-id: /9iLaE-c77M0
-categories: [US Television, OnThisDay31August, OnThisDay1September]
+categories: [US-Television, OnThisDay31August, OnThisDay1September]
 ---
 
 <figure class="fig1">

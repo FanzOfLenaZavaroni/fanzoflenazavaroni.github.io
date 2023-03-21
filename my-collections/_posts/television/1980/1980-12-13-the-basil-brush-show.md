@@ -6,7 +6,7 @@ subtitle: Introduced by Billy Boyle
 description: Lena appears in a short musical comedy sketch with Basil and Billy Boyle, before performing Will He Kiss Me Tonight.
 post_description: Lena appears in a short musical comedy sketch with Basil and Billy Boyle, before performing Will He Kiss Me Tonight.
 image: https://img.youtube.com/vi/CUPiw7fBoE4/sddefault.jpg
-categories: [BBC One, OnThisDay13December]
+categories: [BBC-One, OnThisDay13December]
 ---
 
 <figure class="fig3">

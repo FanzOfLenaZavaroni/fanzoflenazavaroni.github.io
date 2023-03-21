@@ -6,7 +6,7 @@ subtitle: Unknown London Hotel
 description: Members of the Lena Zavaroni Club have an afternoon 'get together', where Lena is the guest of honour. She chats to fans and signs autographs.
 media: Details
 post_description: Members of the Lena Zavaroni Club have an afternoon 'get together', where Lena is the guest of honour. She chats to fans and signs autographs.
-categories: [Personal Appearances, OnThisDay23September]
+categories: [Personal-Appearances, OnThisDay23September]
 ---
 
 Members of the Lena Zavaroni Club have an afternoon 'get together', where Lena is the guest of honour.

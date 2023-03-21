@@ -6,7 +6,7 @@ subtitle: Double Diamond Cabaret Club
 description: The Double Diamond Cabaret Club Caerphilly venture was the second of its kind to be organised by the I ions
 post_description: The Double Diamond Cabaret Club Caerphilly venture was the second of its kind to be organised by the I ions
 image: /assets/images/newspapers/1980-10-24-the-pontypridd-observer-page-10.png
-categories: [Newspapers, Pontypridd Observer, OnThisDay24October]
+categories: [Newspapers, Pontypridd-Observer, OnThisDay24October]
 published: false
 ---
 

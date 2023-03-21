@@ -7,7 +7,7 @@ description: Women's Own featured an article in which Lena was asked about her f
 media: Magazine
 post_description: Featured an article in which Lena was asked about her favourite perfume.
 image: /assets/images/magazines/1979-08-25-womens-own-01.jpg
-categories: [Magazines, Women's Own, OnThisDay25August]
+categories: [Magazines, Women's-Own, OnThisDay25August]
 ---
 
 <figure class="fig1">

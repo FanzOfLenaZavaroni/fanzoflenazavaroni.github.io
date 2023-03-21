@@ -7,7 +7,7 @@ description: Edinburgh Playhouse, Edinburgh (15 December 1980 for three weeks).
 media: Details
 post_description: Edinburgh Playhouse, Edinburgh (15 December 1980 for three weeks).
 image: 
-categories: [Theatre, Edinburgh Playhouse, Edinburgh, OnThisDay15December]
+categories: [Theatre, Edinburgh-Playhouse, Edinburgh, OnThisDay15December]
 ---
 
 <figure class="fig1">

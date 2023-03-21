@@ -7,7 +7,7 @@ description: Starring Lena Zavaroni
 media: Details
 post_description: Starring Lena Zavaroni
 image: /assets/images/theatres/
-categories: [Theatre, Winter Gardens Bournemouth, OnThisDay17September]
+categories: [Theatre, Winter-Gardens-Bournemouth, OnThisDay17September]
 ---
 
 ### Performers

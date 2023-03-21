@@ -7,7 +7,7 @@ description: Lena Zavaroni stars in the show.
 media: Details
 post_description: Lena Zavaroni stars in the show.
 image: /assets/images/theatres/1975-08-17-The Sunday Celebrity Show.jpg
-categories: [Theatre, The Winter Gardens, Margate, OnThisDay17August]
+categories: [Theatre, The-Winter-Gardens, Margate, OnThisDay17August]
 ---
 
 Lena Zavaroni stars in the show at The Winter Gardens, Margate.

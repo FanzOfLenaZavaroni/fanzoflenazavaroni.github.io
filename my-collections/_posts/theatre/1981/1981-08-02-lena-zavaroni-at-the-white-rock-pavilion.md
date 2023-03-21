@@ -7,7 +7,7 @@ description: Lena Zavaroni at the White Rock Pavilion, Hastings.
 media: Info
 post_description: Details currently unknown.
 image: /assets/images/locations/2222751_f901cdd4.jpg
-categories: [Theatre, White Rock Pavilion, Hastings, OnThisDay2August]
+categories: [Theatre, White-Rock-Pavilion, Hastings, OnThisDay2August]
 ---
 
 <figure class="fig3">

@@ -8,7 +8,7 @@ description: Lena Zavaroni at the BBC Manchester Variety Club for BBC Radio 2.
 media: Details
 post_description: Broadcast on BBC Radio 2 with a repeated on 11 May 1982.
 image: /assets/images/
-categories: [BBC Radio 2, OnThisDay6October, OnThisDay11May]
+categories: [BBC-Radio-2, OnThisDay6October, OnThisDay11May]
 ---
 
 ### Contributors
