@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1999-09-07-lena-zavaroni-underwent-neurosurgery-for-mental-dis…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/893abc4dd8354349580a2c55e0989e647e1f4cbc)
+- [Update post-no-title-link.html, catorgory-bonnie-langford.md, and 14 …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/257fe8882f4f12a35ed64f07a4e37232c6574d66)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/539ee82136306adba1dfd20844062b502f317a1e)
 - [Update 1975-07-06-the-sunday-mirror.md, 1999-03-21-sunday-mirror.md, …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7c78c6b1ee943fa5d96b061580dd015eae9e9c18)
 - [Update 2020-10-30-Newsbank.md, 2020-11-01-Newsbank.md, and 280 more f…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/11ff1ad1c7682d3d73f9fbdc99fdfb09d734fd61)
-- [Update _config.yml, post.html, and 124 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4dc30d3f11ffd3b1d250166f71bbd32b09f10e37)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f9f6f6835dfeb6e4941b15dfc666a881543fbdf1)
-- [Update research.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4944e31a79700f408ee50cec28e3a6529fd3c29c)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
