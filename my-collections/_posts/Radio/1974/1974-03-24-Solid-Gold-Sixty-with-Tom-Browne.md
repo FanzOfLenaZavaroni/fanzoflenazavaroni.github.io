@@ -44,7 +44,7 @@ categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay24March]
 <h3 id="recording"><a href="#recording">Recording of the Top 20 section of the broadcast</a></h3>
 <audio id="player" src="/assets/media/tom-browne/1974-03-24-Solid Gold Sixty with Tom Browne-last-hour.m4a" type="audio/x-m4a"><p>Your browser doesn't support HTML5 audio. Here is a <a href="/assets/media/tom-browne/1974-03-24-Solid Gold Sixty with Tom Browne-last-hour.m4a">link to the audio</a> instead.</p></audio>
   <div>
-<button onclick="document.getElementById('player').play()">Play</button><button onclick="document.getElementById('player').play(); document.getElementById('player').currentTime = 584;">Jump to Ma! (He’s Making Eyes At Me)</button><button onclick="document.getElementById('player').pause()">Pause</button><button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button><button onclick="document.getElementById('player').volume += 0.1">Vol +</button><button onclick="document.getElementById('player').volume -= 0.1">Vol -</button></div>
+<button onclick="document.getElementById('player').play()">Play</button><button onclick="document.getElementById('player').play(); document.getElementById('player').currentTime = 585;">Jump to Ma! (He’s Making Eyes At Me)</button><button onclick="document.getElementById('player').pause()">Pause</button><button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button><button onclick="document.getElementById('player').volume += 0.1">Vol +</button><button onclick="document.getElementById('player').volume -= 0.1">Vol -</button></div>
 </figcaption>
 </figure>
 
