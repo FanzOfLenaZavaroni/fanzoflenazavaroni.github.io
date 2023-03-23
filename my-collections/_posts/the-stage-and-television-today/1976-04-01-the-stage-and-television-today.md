@@ -35,7 +35,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay1April]
 
 <figure class="fig2">
 <h3 id="single"><a href="#single">Some Of These Days</a></h3>
-Details of Lena Zavaroni's single listed in this addtion of The Stage and Television can be find <a href="/discography/singles/1976-03-26-some-of-these-days">here</a>.'
+Details of Lena Zavaroni's single listed in this edition of The Stage and Television can be find <a href="/discography/singles/1976-03-26-some-of-these-days">here</a>.'
 </figure>
 
 <br />{: .clear}
