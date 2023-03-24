@@ -2,19 +2,18 @@
 layout: post
 title: Top 20 with Tom Browne &#124; 24 March 1974
 maintitle: Top 20 with Tom Browne
-subtitle: BBC Radio 1 Medium Wave & BBC Radio 2 VHF
+subtitle: From today the Solid-Gold-Sixty AKA the Top 60 was dropped and only the Top 20 was broadcast by the BBC on Radio 1 Medium Wave & Radio 2 VHF
 description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved down the charts from number 14 to number 17.
 post_description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved down the charts from number 14 to number 17.
 categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay24March]
 ---
 
-<strong>From today the Solid-Gold-Sixty AKA Tthe Top 60 was dropped and only the top 20 was broadcast by the BBC on Radio 1 & Raido 2.</strong>
-
-<strong>{{ page.description }}</strong>
+<p>As the BBC dropped the Top 60 it meant this was the last time we would hear Lena's single in their Sunday Charts show as while she would remain in the Top 60 for another 4 weeks her position in the charts would be outside of the Top 20.</p>
+<p><strong>{{ page.description }}</strong></p>
 
 <figure class="fig1">
 <h3 id="radio-1"><a href="#radio-1">BBC Radio 1</a></h3>
-<p><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1974-03-24#at-18.00">The 60 top records of today starts at 18:00hrs</a></p>
+<p><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1974-03-24#at-18.00">The 20 top records of today starts at 18:00hrs</a></p>
 </figure>
 
 <figure class="fig2">
@@ -31,6 +30,11 @@ categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay24March]
 <p><strong>Top 20:</strong> &nbsp; <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740317/7501/20">17 March 1974 - 23 March 1974</a></p>
 <p><strong>Top 40:</strong> &nbsp; <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740317/7501/40">17 March 1974 - 23 March 1974</a></p>
 <p><strong>Top 50:</strong> &nbsp; <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740317/7501/">17 March 1974 - 23 March 1974</a></p>
+<h3 id="positions"><a href="#positions">All the chart positions</a></h3>
+<p><strong>Via the discography section for the single:</strong></p>
+<ul>
+<li><a href="/discography/singles/1974-01-25-ma-hes-making-eyes-at-me#chart">Ma! (He’s Making Eyes At Me)</a></li>
+</ul>
 </figure>
 
 <figure class="fig1">
