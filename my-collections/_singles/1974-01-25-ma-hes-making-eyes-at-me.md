@@ -3,7 +3,7 @@ layout: discography
 year: 25 January 1974
 title: Ma! (He's Making Eyes At Me)
 maintitle: Ma! (He's Making Eyes At Me)
-subtitle: Single
+subtitle: Lena Zavaroni's First Single. It was released shortly after her third appearance on Opportunity Knocks.
 b-side: Rock-A-Bye Your Baby With A Dixie Melody
 description: Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni and it was released shortly after her third appearance on Opportunity Knocks.
 media: 7" Vinyl, 45 Single
@@ -11,8 +11,6 @@ post_description: Ma! (He's Making Eyes At Me) is the first single released by L
 image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk.jpg
 categories: [Discography, Singles]
 ---
-
-Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni. It was released shortly after her third appearance on Opportunity Knocks.
 
 <figure class="fig3">
 <h3 id="chart"><a href="#chart">UK Official Singles Chart Top 50 Positions For The Single</a></h3>

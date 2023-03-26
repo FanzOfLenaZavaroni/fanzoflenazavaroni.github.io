@@ -3,15 +3,13 @@ layout: discography
 year: 16 May 1980
 title: Jump Down Jimmy
 maintitle: Jump Down Jimmy
-subtitle: Single
-description: This is the 10th single by Lena Zavaroni.
+subtitle: Lena Zavaroni's Nineth Single
+description: This is the Nineth single by Lena Zavaroni.
 media: 7" Vinyl, 45 Single
-post_description: This is the 10th single by Lena Zavaroni.
+post_description: This is the Nineth single by Lena Zavaroni.
 image: /assets/images/singles/lena-zavaroni-jump-down-jimmy-galaxy.jpg
 categories: [Discography, Singles]
 ---
-
-This is the 10th single by Lena Zavaroni
 
 <figure class="fig3">
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=xnGEimp1QUs,459Qyf12r20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

@@ -3,8 +3,8 @@ layout: discography
 year: 11 June 1982
 title: Hold Tight (Want Some Sea Food, Mama)
 maintitle: Hold Tight (Want Some Sea Food, Mama)
-subtitle: Single
-description: This is the 13th single by Lena Zavaroni
+subtitle: Lena Zavaroni's Thirteenth Single
+description: This is the thirteenth single by Lena Zavaroni
 media: 7" Vinyl, 45 Single
 post_description: 
 image: /assets/images/singles/

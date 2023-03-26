@@ -3,13 +3,11 @@ layout: discography
 year: 24 May 1974
 title: (You've Got) Personality
 maintitle: (You've Got) Personality
-subtitle: Single
+subtitle: Lena Zavaroni's Second Single
 b-side: Schools Out
-description: This is the 2nd single by Lena Zavaroni.
+description: This is the Second single by Lena Zavaroni.
 categories: [Discography, Singles]
 ---
-
-(You've Got) Personality is the second single released by Lena Zavaroni.
 
 <figure class="fig3">
 <h3 id="chart"><a href="#chart">UK Official Singles Chart Top 50 Positions For The Single</a></h3>
