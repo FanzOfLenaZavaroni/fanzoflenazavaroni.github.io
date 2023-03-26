@@ -47,25 +47,13 @@ categories: [Studio Albums]
 <li>A Certain Smile</li>
 <li>Bridge Over Troubled Water</li>
 </ol>
+</figure>
 
+{: .clear}
+
+<figure class="fig3" id="YouTube">
 <div class="responsive-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/o8t2q3o6q60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </figure>
 
 <br />{: .clear}
 
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.padding {margin-bottom:0;}
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
- 

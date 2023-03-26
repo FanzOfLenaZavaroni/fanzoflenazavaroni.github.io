@@ -3,9 +3,9 @@ layout: discography
 year: 28 February 1975
 title: You're Breaking My Heart
 maintitle: You're Breaking My Heart
-subtitle: Single
+subtitle: Lena Zavaroni's Fouth Single
 b-side: You're Never Too Old
-description: This is the 3rd single by Lena Zavaroni.
+description: This is the Fouth single by Lena Zavaroni.
 categories: [Discography, Singles]
 ---
 

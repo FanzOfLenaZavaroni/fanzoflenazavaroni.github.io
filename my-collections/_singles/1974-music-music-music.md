@@ -3,10 +3,10 @@ layout: discography
 year: 1974
 title: Music Music Music
 maintitle: Music Music Music
-subtitle: Single
-description: This is the 4th single by Lena Zavaroni
+subtitle: Lena Zavaroni's Third Single
+description: This is the Third single by Lena Zavaroni
 media: 7" Vinyl, 45 Single
-post_description: 
+post_description: This is the Third single by Lena Zavaroni
 image: /assets/images/singles/
 categories: [Discography, Singles]
 ---
