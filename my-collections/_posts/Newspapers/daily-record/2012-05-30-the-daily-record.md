@@ -22,7 +22,7 @@ categories: [Newspapers, Daily Record, Typo, OnThisDay30May]
 <p>They as you can see have not fixed the error and in their reply to me they pointed out that all details are provided by the individuals/companies they are representing and can't change the details unless the individuals/companies ask them to. They did say they would pass on my comment to the related party. I have no way of knowing if they did but the error in the date is still there.</p>
 <p>This is a simple error that could and should have been fixed, a simple error that has been echoed by in this case <a class="external-link" href="https://www.dailyrecord.co.uk/news/scottish-news/gallery-scots-were-just-as-keen-878545#:~:text=The%20Queen%20in%201973%20meeting%20stars%20Sydney%20Devine%2C%20Lena%20Zavaroni%2C%20Allan%20Stewart%2C%20Frankie%20Howerd%20(at%20back)%2C%20David%20Soul%20and%20Dolly%20Parton">The Daily Record</a> I've no doubt because some one just copied and pasted the details to get the names of the stars and then edited it a bit but not doing a proper check of the information they were using and so did not fix the date.</P>
 <p>This is why I have to spend so much time fact checking because nothing can be taken at face value.</p>
-<p>I created this post as an out come of checking dates for when <a href="/1974-03-30-madurodam-miniature-city">Lena visited Madurodam Miniature City</a>.</p>
+<p>I created this post as an out come of checking dates for when <a href="/1974-03-30-madurodam-miniature-city/#dates">Lena visited Madurodam Miniature City</a>.</p>
 </figure>
 
 {: .clear}
