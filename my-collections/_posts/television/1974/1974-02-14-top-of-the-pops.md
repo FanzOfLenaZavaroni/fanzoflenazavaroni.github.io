@@ -64,8 +64,8 @@ categories: [BBC-One, TOTP, OnThisDay14February]
 <figcaption>
 <h3 id="note"><a href="#note">Note</a></h3>
 </figcaption>
-<p>There is some debate over if this is the recording of Lena Zavaroni as broadcast or if it is a camera rehearsal recording made prior to the live broadcast until the BBC use the footage in a Top Of The Pops retrospective and confirm one way or the other we will each have to decided for ourselves what we are seeing in the clip.</p>
-<p>Either way this is believed to be the earliest surviving clip of Lena performing (for a broadcaster).</p>
+<p>I had questioned if the YouTube clip is the version recorded for broadcast or if it is a camera rehearsal recording made prior to the broadcast. Thanks to the research done by <a href="/research#l">Loving Lena Zavaroni</a> and his comments <a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/discussions/15#discussioncomment-5496938">here</a> I now think it is save to say it is the version as broadcast.</p>
+<p>This is believed to be the earliest surviving clip of Lena performing (for a broadcaster).</p>
 <p><strong>Note:</strong> I added "for a broadcaster" because we don't know if her family have any super 8 film recordings of Lena Zavaroni prior to Opportunity Knocks.</p>
 <cite>Robcamstone</cite>
 </figure>
