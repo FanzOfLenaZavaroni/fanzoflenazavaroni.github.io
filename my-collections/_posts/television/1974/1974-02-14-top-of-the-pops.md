@@ -4,7 +4,6 @@ title: Top of the Pops &#124; 14 February 1974
 maintitle: Top of the Pops
 subtitle: Music Chart Television Programme
 description: Lena Zavaroni gets to preform on Top of the Pops for the first time.
-media: BBC One
 post_description: Lena Zavaroni gets to preform on Top of the Pops for the first time.
 image: http://img.youtube.com/vi/IHWfmYHK324/hqdefault.jpg
 categories: [BBC-One, TOTP, OnThisDay14February]
