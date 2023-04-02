@@ -15,7 +15,7 @@ categories: [Magazines, Record-and-Radio-Mirror, OnThisDay6April]
 
 <figure class="fig2">
 <a href="/assets/images/magazines/1974-04-06-02-record-&-radio-mirror.png"><img src="/assets/images/magazines/1974-04-06-02-record-&-radio-mirror.png" class="full-width zoom-in" /></a>
-<cite>Lena's single moves down the charts from number 26 to number 32, <a class="external-link" href="https://www.americanradiohistory.com/UK/Record-Mirror/70s/74/Record-Mirror-1974-04-06.pdf#page=02">Page 2 of PDF</a></cite>
+<cite>Lena's single moves down the charts from 26 to 32, while her album moved down from 8 to 20. <a class="external-link" href="https://www.americanradiohistory.com/UK/Record-Mirror/70s/74/Record-Mirror-1974-04-06.pdf#page=02">Page 2 of PDF</a></cite>
 </figure>
 
 <br />{: .clear}
