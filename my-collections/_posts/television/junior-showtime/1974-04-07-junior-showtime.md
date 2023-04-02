@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Junior Showtime &#124; 14 April 1974
+title: Junior Showtime &#124; 7 April 1974
 maintitle: Junior Showtime
 subtitle: Lena Zavaroni's second appearance
 description: Mark Curry, Glyn Poole and Lena Zavaroni.
 media: Yorkshire Television
 post_description: Mark Curry, Glyn Poole and Lena Zavaroni.
 image: /assets/images/YTV/1974-06-16-junior-showtime.jpg
-categories: [Yorkshire-Television]
+categories: [Yorkshire-Television, Junior-Showtime, OnThisDay7April]
 ---
 
 <table>

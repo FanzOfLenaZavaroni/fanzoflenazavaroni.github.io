@@ -5,7 +5,7 @@ maintitle: Larry Grayson's Generation Game
 subtitle: Special Easter edition of the show
 description: 
 image: /assets/images/BBC/larry-graysons-generation-game.jpg
-categories: [BBC-One]
+categories: [BBC-One, Larry-Grayson, OnThisDay7April]
 ---
 
 <table>
