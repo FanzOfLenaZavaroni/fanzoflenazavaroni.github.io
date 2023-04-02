@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Multi Coloured Swap Shop
+title: Multi Coloured Swap Shop &#124; 17 April 1981
 maintitle: Multi Coloured Swap Shop
 subtitle: Star Awards 1981
 description: Noel Edmonds hosts a star-studded show together with John Craven, Keith Chegwin and Maggie Philbm. Find out who's won the Eric awards for the favourite man and favourite lady on TV.
 media: BBC One
 post_description: Noel Edmonds hosts a star-studded show together with John Craven, Keith Chegwin and Maggie Philbm. Find out who's won the Eric awards for the favourite man and favourite lady on TV.
 image: http://img.youtube.com/vi/4eHuH65qEX4/hqdefault.jpg
-categories: [BBC-One]
+categories: [BBC-One, Multi-Coloured-Swap-Shop, OnThisDay17April]
 ---
 
 <table>

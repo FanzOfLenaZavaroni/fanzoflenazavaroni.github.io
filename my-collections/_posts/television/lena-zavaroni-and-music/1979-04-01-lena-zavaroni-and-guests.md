@@ -6,7 +6,7 @@ subtitle: BBC Television Centre
 description: Believed to be a recording for an episode of Lena Zavaroni and Music.
 post_description: BBC Light Entertainment Presents Lena Zavaroni.
 image: /assets/images/BBC/ticket-1979-04-01.jpg
-categories: [Lena-Zavaroni-and-Music]
+categories: [BBC-Television-Centre, Lena-Zavaroni-and-Music, OnThisDay1April]
 ---
 
 <figure class="fig1">
@@ -23,9 +23,9 @@ categories: [Lena-Zavaroni-and-Music]
 </figcaption>
 </figure>
 
-<br />{: .clear}
+{: .clear}
 
-> Believed to be a recording for an episode of Lena Zavaroni and Music.
+> Believed to be a recording for an episode of [Lena Zavaroni and Music](/category/lena-zavaroni-and-music).
 >
 > Lena Zavaroni and Music was a music, comedy and variety programme featuring Lena Zavaroni and her guests. Six episodes were aired by the BBC in the spring of 1979.
 >
@@ -33,16 +33,5 @@ categories: [Lena-Zavaroni-and-Music]
 
 <cite>Robcamstone</cite>
 
-<style>
-.fig1 {float:left; width:49%;}
-figcaption {float:left; width:100%;}
-
-.fig2 {float:right; width:49%;}
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
+<br />{: .clear}
 

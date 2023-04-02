@@ -6,7 +6,7 @@ subtitle: BBC Television Centre
 description: Believed to be a recording for an episode of Lena Zavaroni and Music.
 post_description: Lena Zavaroni and Guests
 image: /assets/images/BBC/ticket-1979-04-08.jpg
-categories: [Lena-Zavaroni-and-Music]
+categories: [BBC-Television-Centre, Lena-Zavaroni-and-Music, OnThisDay8April]
 ---
 
 <figure class="fig1">
@@ -22,7 +22,7 @@ categories: [Lena-Zavaroni-and-Music]
 <cite>Back Of A Ticket</cite>
 <h3 id="details">Details</h3>
 <blockquote>
-<p>Believed to be a recording for an episode of Lena Zavaroni and Music.</p>
+<p>Believed to be a recording for an episode of <a href="/category/lena-zavaroni-and-music">Lena Zavaroni and Music</a>.</p>
 <p>Lena Zavaroni and Music was a music, comedy and variety programme featuring Lena Zavaroni and her guests. Six episodes were aired by the BBC in the spring of 1979.</p>
 <p>The BBC also released an LP called Lena Zavaroni And Her Music, manufactured and distributed by CBS Records and copyrighted by Galaxy Records.</p>
 </blockquote>
@@ -32,17 +32,4 @@ categories: [Lena-Zavaroni-and-Music]
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-figcaption {float:left; width:100%;}
-
-.fig2 {float:right; width:49%;}
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
