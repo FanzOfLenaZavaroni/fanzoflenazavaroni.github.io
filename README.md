@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0e01a449c26d79673c4c72c1944c7b23f5603309)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/31c17c8edf49d44e7891d27fa547f20848a11da2)
 - [Update publicity-photos.html, publicity.html, and 1978-04-12-record-m…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/37cf8cbc3f82df832127ef8a2a84b8f65ee9dc62)
 - [Update 04-03.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3cc382c7c772274b6adf98f91a2114e8b621a85a)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c480c3a16d0b5633d687778a90da5cc834f2225c)
-- [Update 1974-02-24-Solid-Gold-Sixty-with-Tom-Browne.md, 1974-03-03-Sol…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b2c4ec9b7942b701cc49180316bf2031aa7a7c6a)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
