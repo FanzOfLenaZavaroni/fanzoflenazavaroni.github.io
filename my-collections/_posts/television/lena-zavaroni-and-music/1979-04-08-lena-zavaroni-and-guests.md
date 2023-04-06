@@ -24,7 +24,7 @@ categories: [BBC-Television-Centre, Lena-Zavaroni-and-Music, OnThisDay8April]
 <blockquote>
 <p>Believed to be a recording for an episode of <a href="/category/lena-zavaroni-and-music">Lena Zavaroni and Music</a>.</p>
 <p>Lena Zavaroni and Music was a music, comedy and variety programme featuring Lena Zavaroni and her guests. Six episodes were aired by the BBC in the spring of 1979.</p>
-<p>The BBC also released an LP called Lena Zavaroni And Her Music, manufactured and distributed by CBS Records and copyrighted by Galaxy Records.</p>
+<p>The BBC also released an LP called <a href="/discography/studio-albums/1979-lena-zavaroni-and-her-music">Lena Zavaroni And Her Music</a>, manufactured and distributed by CBS Records and copyrighted by Galaxy Records.</p>
 </blockquote>
 
 <cite>Robcamstone</cite>

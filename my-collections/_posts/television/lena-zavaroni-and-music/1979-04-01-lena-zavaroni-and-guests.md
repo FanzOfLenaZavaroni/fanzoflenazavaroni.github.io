@@ -29,7 +29,7 @@ categories: [BBC-Television-Centre, Lena-Zavaroni-and-Music, OnThisDay1April]
 >
 > Lena Zavaroni and Music was a music, comedy and variety programme featuring Lena Zavaroni and her guests. Six episodes were aired by the BBC in the spring of 1979.
 >
-> The BBC also released an LP called Lena Zavaroni And Her Music, manufactured and distributed by CBS Records and copyrighted by Galaxy Records.
+> The BBC also released an LP called [Lena Zavaroni And Her Music](/discography/studio-albums/1979-lena-zavaroni-and-her-music), manufactured and distributed by CBS Records and copyrighted by Galaxy Records.
 
 <cite>Robcamstone</cite>
 
