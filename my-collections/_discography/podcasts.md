@@ -34,4 +34,6 @@ categories: [Discography]
 <li> ——: <a href="/discography/podcasts/2021-04-29-two-hundred-percent">2021-04-29 - Two Hundred Percent - Podcast 293: This is our Everest, Part Thirty-Nine – Seaside Special, 1975 (English)</a></li>
 
 <li> ——: <a href="/discography/podcasts/2022-05-17-bizarre-albums">2022-05-17 - Bizarre Albums - Lena Zavaroni - Ma! He's Making Eyes At Me (English)</a></li>
+
+<li> ——: <a href="/discography/podcasts/2023-04-21-white-wine-question-time">2023-04-21 - WHITE WINE QUESTION TIME - Bonnie Langford on her illustrious career, learning from failure, and standing up for yourself (English)</a></li>
 </ul>
