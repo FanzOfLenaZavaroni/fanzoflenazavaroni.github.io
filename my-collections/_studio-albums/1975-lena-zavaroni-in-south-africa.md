@@ -25,25 +25,28 @@ categories: [Studio Albums]
 </tr>
 </table>
 
-
-<figure class="fig1" id="details">
-<h3>Details</h3>
-<p>While in South Africa Lena Zavaroni recorded the album.</p>
-<p>It was released in South Africa by the Record and Tape Company in 1975 to coincided with her trip to South Africa.</p>
-<hr>
-<p></p>
-<p>I had asked if anyone could confirm if this was a studio album or a complation of tracks from her first two albums as you can see from some of the <a href="#comments">Comments</a> below I have decided that the album is must likely a studio album and so I have edited this page to refect that point of view.</p>
-<cite>Robcamstone</cite>
+<figure class="fig1">
+<h3 id="details"><a href="#details">Details</a></h3>
+<figcaption>
+<table>
+<tr><th>Artist</th><td>Lena Zavaroni</td></tr>
+<tr><th>Title</th><td>Lena Zavaroni In South Africa</td></tr>
+<tr><th>Label:</th><td>Record and Tape Company – RTL 4074</td></tr>
+<tr><th>Format:</th><td>12" Vinyl, 33⅓ Album</td></tr>
+<tr><th>Country:</th><td>South-Africa</td></tr>
+<tr><th>Released:</th><td>1975</td></tr>
+</table>
+</figcaption>
 </figure>
 
-<figure class="fig2" id="listen-via-youtube">
-<h3>Listen via YouTube</h3>
+<figure class="fig2">
+<h3  id="listen-via-youtube"><a href="#listen-via-youtube">Listen via YouTube</a></h3>
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/FqnZEbFiMos?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 </figure>
 
 {: .clear}
 
-<h3 id="tracks">Tracks</h3>
+<h3 id="tracks"><a href="#tracks">Tracks</a></h3>
 <figure class="fig1">
 <strong>A-Side</strong>
 <ol>
@@ -69,7 +72,7 @@ categories: [Studio Albums]
 
 {: .clear}
 
-<h3 id="personal-appearances">Personal Appearances</h3>
+<h3 id="personal-appearances"><a href="#personal-appearances">Personal Appearances</a></h3>
 <h3 style="background-color:#a44268; color:#ffffff; padding-left:5px;">Game</h3>
 
 <figure class="fig1">
