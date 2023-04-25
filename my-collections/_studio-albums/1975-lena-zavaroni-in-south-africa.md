@@ -33,7 +33,7 @@ categories: [Studio Albums]
 <tr><th>Title</th><td>Lena Zavaroni In South Africa</td></tr>
 <tr><th>Label:</th><td>Record and Tape Company – RTL 4074</td></tr>
 <tr><th>Format:</th><td>12" Vinyl, 33⅓ Album</td></tr>
-<tr><th>Country:</th><td>South-Africa</td></tr>
+<tr><th>Country:</th><td>South Africa</td></tr>
 <tr><th>Released:</th><td>1975</td></tr>
 </table>
 </figcaption>
