@@ -5,7 +5,7 @@ maintitle: "Category: Alexandra Theatre"
 ---
 
 <ul>
-  {% for post in site.categories.Alexandra-Theatre %}
+  {% for post in site.categories.Alexandra-Theatre reversed %}
     {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></li>
     {% endif %}

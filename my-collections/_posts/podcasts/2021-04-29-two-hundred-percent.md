@@ -1,12 +1,14 @@
 ---
-layout: discography
+layout: post
 year: 29 April 2021
 title: Two Hundred Percent &#124; This is our Everest &#124; 29 April 2021
 maintitle: Two Hundred Percent
-subtitle:  "29 April 2021 - Podcast 293: This is our Everest, Part Thirty-Nine – Seaside Special, 1975"
+subtitle:  "Podcast 293: This is our Everest, Part Thirty-Nine – Seaside Special, 1975"
 description: On this week’s This Is Our Everest, your intrepid heroes are at the beach for the BBC’s Seaside Special from August 1975. It affords them ample opportunity to explore their relationship with light entertainment.
+post_description: On this week’s This Is Our Everest, your intrepid heroes are at the beach for the BBC’s Seaside Special from August 1975. It affords them ample opportunity to explore their relationship with light entertainment.
 image: /assets/images/podcasts/this-is-our-everest.jpg
 categories: [Podcasts, Two Hundred Percent, OnThisDay29April]
+permalink: /discography/podcasts/:name
 ---
 
 <p>Spoken Language: English</p>

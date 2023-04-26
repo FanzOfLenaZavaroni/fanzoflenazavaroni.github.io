@@ -77,9 +77,6 @@ collections:
    karaoke:
       output: true
       permalink: /discography/karaoke/:name
-   podcasts:
-      output: true
-      permalink: /discography/podcasts/:name
    miscellaneous:
       output: true
       permalink: /more/:name

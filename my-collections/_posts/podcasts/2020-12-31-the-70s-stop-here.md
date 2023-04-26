@@ -1,12 +1,13 @@
 ---
-layout: discography
+layout: post
 year: 31 December 2020
 title: The Peggy Mount Calamity Hour &#124; 31 December 2020
 maintitle: The Peggy Mount Calamity Hour
-subtitle:  31 December 2020 - The 70s Stop Here/The New Year Show
+subtitle: The 70s Stop Here/The New Year Show
 description: The 70s Stop Here/The New Year Show
 image: /assets/images/podcasts/
 categories: [Podcasts, The 70s Stop Here, The New Year Show, OnThisDay 31December]
+permalink: /discography/podcasts/:name
 ---
 
 <p>Spoken Language: English</p>

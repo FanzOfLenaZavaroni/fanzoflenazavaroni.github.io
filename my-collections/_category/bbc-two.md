@@ -5,7 +5,7 @@ maintitle: "Category: BBC Two"
 ---
 
 <ul>
-  {% for post in site.categories.BBC-Two %}
+  {% for post in site.categories.BBC-Two reversed %}
     {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></li>
     {% endif %}

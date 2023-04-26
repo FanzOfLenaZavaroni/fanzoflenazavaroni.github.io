@@ -1,12 +1,13 @@
 ---
-layout: discography
+layout: post
 year: 17 May 2022
 title: Private Passions &#124; 10 May 2020
 maintitle: Private Passions
-subtitle: 10 May 2020 - Andrew O'Hagan
+subtitle: Andrew O'Hagan
 description: Novelist and journalist Andrew O’Hagan talks to Michael Berkeley about the music that inspires his writing and his family life.
 post_description: Novelist and journalist Andrew O’Hagan talks to Michael Berkeley about the music that inspires his writing and his family life.
 categories: [BBC Radio 3, Podcasts, Private Passions, OnThisDay10May]
+permalink: /discography/podcasts/:name
 ---
 
 <figure class="fig3">
