@@ -1,12 +1,12 @@
 ---
-layout: discography
+layout: post
 year: 23 May 2017
 title: In the Corner Back by the Woodpile &#124; Episode 104 &#124; 23 May 2017
 maintitle: In the Corner Back by the Woodpile
-subtitle: 23 May 2017 - Episode 104 - Fluorescent Decade on a Hill X
+subtitle: Episode 104 - Fluorescent Decade on a Hill X
 description: Episode 104 - Fluorescent Decade on a Hill X
-image: /assets/images/podcasts/
 categories: [Podcasts, Popcasting, OnThisDay23May]
+permalink: /discography/podcasts/:name
 ---
 
 <figure class="fig3">

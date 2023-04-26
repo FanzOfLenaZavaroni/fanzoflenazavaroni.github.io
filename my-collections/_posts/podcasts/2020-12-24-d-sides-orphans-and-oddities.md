@@ -1,12 +1,13 @@
 ---
-layout: discography
+layout: post
 year: 24 December 2020
 title: D-Sides, Orphans, and Oddities &#124; 24 December 2020
 maintitle: D-Sides, Orphans, and Oddities
-subtitle:  24 December 2020 - Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself
+subtitle:  Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself
 description: Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself.
 image: /assets/images/podcasts/
 categories: [Podcasts, D-Sides Orphans and Oddities, OnThisDay24December]
+permalink: /discography/podcasts/:name
 ---
 
 <figure class="fig3">

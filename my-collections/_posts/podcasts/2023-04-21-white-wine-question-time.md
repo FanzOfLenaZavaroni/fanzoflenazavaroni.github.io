@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: 29 April 2021
 title: WHITE WINE QUESTION TIME &#124; 21 April 2023
 maintitle: WHITE WINE QUESTION TIME
@@ -7,6 +7,7 @@ subtitle:  Bonnie Langford on her illustrious career, learning from failure, and
 description: Bonnie Langford on her illustrious career, learning from failure, and standing up for yourself.
 post_description: Bonnie Langford on her illustrious career, learning from failure, and standing up for yourself.
 categories: [Podcasts, WHITE-WINE-QUESTION-TIME, OnThisDay21April]
+permalink: /discography/podcasts/:name
 ---
 
 <p>Spoken Language: English</p>

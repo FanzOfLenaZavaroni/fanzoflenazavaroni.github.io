@@ -1,11 +1,12 @@
 ---
-layout: discography
+layout: post
 year: 23 May 2020
 title: D-Sides, Orphans, and Oddities &#124; 23 May 2020
 maintitle: D-Sides, Orphans, and Oddities
-subtitle:  23 May 2020 - The Les Humphries Singers Tribute!!!
+subtitle:  The Les Humphries Singers Tribute!!!
 description: The Les Humphries Singers Tribute!!!
 categories: [Podcasts, D-Sides Orphans and Oddities, OnThisDay23May]
+permalink: /discography/podcasts/:name
 ---
 
 <figure class="fig3">

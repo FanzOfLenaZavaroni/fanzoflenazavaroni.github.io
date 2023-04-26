@@ -1,11 +1,11 @@
 ---
-layout: discography
+layout: post
 year: 13 March 2017
 title: EPICURE HS-04 Chauve-Souris Amélie-Fontaine &#124; 13 March 2017
 maintitle: EPICURE HS-04 Chauve-Souris Amélie-Fontaine
-subtitle: 13 March 2017
 description: Podcast Spoken Language is French
 categories: [Podcasts, Popcasting, OnThisDay13March]
+permalink: /discography/podcasts/:name
 ---
 
 <figure class="fig3">
