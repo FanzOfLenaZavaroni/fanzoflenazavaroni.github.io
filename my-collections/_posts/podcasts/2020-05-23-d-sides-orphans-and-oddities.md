@@ -12,6 +12,7 @@ permalink: /discography/podcasts/:name
 <figure class="fig3">
 <p>Spoken Language: English</p>
 <iframe src="https://www.listennotes.com/podcasts/d-sides-orphans/the-les-humphries-singers-w4Qe9_qXjy2/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
+<p><strong>Source:</strong> Podbean - Link is broken which is why I had to embed via Listen Notes</p>
 </figure>
 
 {: .clear}
@@ -54,7 +55,6 @@ permalink: /discography/podcasts/:name
 <p>Lawrence Welk and His Orchestra - The “In” Crowd (1965)</p>
 <p>Pat Boone - U.F.O. (1975)</p>
 <p>Scott Walker - Joanna (1970)</p>
-<p><strong>Source:</strong> Podbean - Link is broken which is why I had to embed via Listen Notes</p>
 </figure>
 
 <br />{: .clear}
