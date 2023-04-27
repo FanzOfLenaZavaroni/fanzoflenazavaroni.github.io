@@ -6,7 +6,7 @@ subtitle: This week's guests are Elaine Stritch, Wayne Sleep and George Chisholm
 description: This week's guests are Elaine Stritch, Wayne Sleep and George Chisholm.
 post_description: This week's guests are Elaine Stritch, Wayne Sleep and George Chisholm.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
-categories: [BBC-One, Lena-Zavaroni-and-Music]
+categories: [BBC-One, Lena-Zavaroni-and-Music, OnThisDay23May]
 ---
 
 <table>

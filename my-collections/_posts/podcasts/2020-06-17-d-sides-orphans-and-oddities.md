@@ -5,6 +5,7 @@ title: D-Sides, Orphans, and Oddities &#124; 17 June 2020
 maintitle: D-Sides, Orphans, and Oddities
 subtitle:  Steely Dan outtakes are better than your favorite band's greatest hits. Fight me
 description: Steely Dan outtakes are better than your favorite band's greatest hits. Fight me.
+post_description: Steely Dan outtakes are better than your favorite band's greatest hits. Fight me.
 categories: [Podcasts, D-Sides Orphans and Oddities, OnThisDay17June]
 permalink: /discography/podcasts/:name
 ---

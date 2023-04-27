@@ -6,7 +6,9 @@ maintitle: (You've Got) Personality
 subtitle: Lena Zavaroni's Second Single
 b-side: Schools Out
 description: This is the Second single by Lena Zavaroni.
-categories: [Discography, Singles]
+post_description: This is the Second single by Lena Zavaroni.
+categories: [Discography, Singles, OnThisDay24May]
+permalink: /discography/singles/:name
 ---
 
 <figure class="fig3">

@@ -5,6 +5,7 @@ title: Podcast From America &#124; Episode 6 &#124;28 December 2010
 maintitle: Podcast From America
 subtitle: Episode 6 - Bonnie Langford
 description: Episode 6 - Bonnie Langford
+post_description: Episode 6 - Bonnie Langford
 image: /assets/images/podcasts/PFA.jpg
 categories: [Podcasts, Podcast From America, OnThisDay28December]
 permalink: /discography/podcasts/:name

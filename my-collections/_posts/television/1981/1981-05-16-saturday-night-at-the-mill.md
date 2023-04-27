@@ -7,7 +7,7 @@ description: 16 May 1981 - Lena Zavaroni performed and was interviewed on the pr
 media: BBC One at 23:25
 post_description: Lena Zavaroni performed and was interviewed on the programme.
 image: /assets/images/BBC/
-categories: [BBC-One]
+categories: [BBC-One, OnThisDay16May]
 ---
 
 <table>
