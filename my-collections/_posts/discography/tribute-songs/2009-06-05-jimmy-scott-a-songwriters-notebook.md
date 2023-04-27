@@ -5,6 +5,8 @@ title: Jimmy Scott A Songwriter's Notebook
 maintitle: Jimmy Scott A Songwriter's Notebook
 subtitle: 5 June 2009
 description: Lena is the song that is a wonderful Tribute to Lena Zavaroni.
+categories: [Tribute-Songs, OnThisDay5June]
+permalink: /discography/tribute-songs/:name
 ---
 
 Track 9 - Lena is the song that is a wonderful Tribute to Lena Zavaroni.

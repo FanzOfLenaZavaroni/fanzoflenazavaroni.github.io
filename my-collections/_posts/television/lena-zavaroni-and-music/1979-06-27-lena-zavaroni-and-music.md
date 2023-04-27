@@ -6,7 +6,7 @@ subtitle: This week's guests are Wayne Sleep, Peter Skellern, Adrian Hedley and 
 description: This week's guests are Wayne Sleep, Peter Skellern, Adrian Hedley and Johnny Hutch & the Half-Wits.
 post_description: This week's guests are Wayne Sleep, Peter Skellern, Adrian Hedley and Johnny Hutch & the Half-Wits.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
-categories: [BBC-One, Lena-Zavaroni-and-Music]
+categories: [BBC-One, Lena-Zavaroni-and-Music, OnThisDay27June]
 ---
 
 <table>

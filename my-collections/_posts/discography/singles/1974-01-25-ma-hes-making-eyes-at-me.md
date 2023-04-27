@@ -9,7 +9,8 @@ description: Ma! (He's Making Eyes At Me) is the first single released by Lena Z
 media: 7" Vinyl, 45 Single
 post_description: Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni and it was released shortly after her third appearance on Opportunity Knocks.
 image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk.jpg
-categories: [Discography, Singles]
+categories: [Discography, Singles, OnThisday25January]
+permalink: /discography/singles/:name
 ---
 
 <figure class="fig3">

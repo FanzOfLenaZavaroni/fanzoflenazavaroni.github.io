@@ -5,10 +5,10 @@ title: Somewhere South Of Macon
 maintitle: Somewhere South Of Macon
 subtitle: Lena Zavaroni's Twelveth Single
 description: This is the twelveth single by Lena Zavaroni
-media: 7" Vinyl, 45 Single
 post_description: This is the twelveth single by Lena Zavaroni
 image: /assets/images/singles/lena-zavaroni-somewhere-south-of-macon-president.jpg
 categories: [Discography, Singles, OnThisDay9November, OnThisDay25September]
+permalink: /discography/singles/:name
 ---
 
 <figure class="fig3">

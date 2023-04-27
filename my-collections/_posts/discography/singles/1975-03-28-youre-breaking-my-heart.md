@@ -6,7 +6,9 @@ maintitle: You're Breaking My Heart
 subtitle: Lena Zavaroni's Fouth Single
 b-side: You're Never Too Old
 description: This is the Fouth single by Lena Zavaroni.
-categories: [Discography, Singles]
+post_description: This is the Fouth single by Lena Zavaroni.
+categories: [Discography, Singles, OnThisday28February]
+permalink: /discography/singles/:name
 ---
 
 <figure class="fig3">

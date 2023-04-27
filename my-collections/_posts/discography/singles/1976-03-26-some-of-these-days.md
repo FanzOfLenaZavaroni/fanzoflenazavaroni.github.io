@@ -7,7 +7,8 @@ subtitle: Lena Zavaroni's Sixth Single
 description: Some Of These Days is the sixth single released by Lena Zavaroni.
 post_description: Some Of These Days is the sixth single released by Lena Zavaroni.
 image: /assets/images/singles/lena-zavaroni-some-of-these-days-side-a.jpg
-categories: [Discography, Singles]
+categories: [Discography, Singles, OnThisday26March]
+permalink: /discography/singles/:name
 ---
 
 <figure class="fig1">
