@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1974-05-04-01-record-&amp;-radio-mirror.png, 1974-05-04-05-record-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f12f8334d398ec372b94082c850e7e26653a3c97)
+- [Update 1974-04-27-01-record-&amp;-radio-mirror.png, 1974-04-27-02-record-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/562cc24a880e0681844f3f1bfbc1ebd72c329935)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c545d917806f68815213f82b8c394f5d471b0576)
 - [Update 2020-05-23-d-sides-orphans-and-oddities.md and 2020-06-17-d-si…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b796949d767cf934b972177bc96ea90da8f45a2a)
 - [Update _config.yml, 3-arts-theatre.md, and 41 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4390fbab12e9f5648aa8e358632dc5ef1a4960c0)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/01e83c6e46cf324e76385a37bc8748fe73a72b19)
-- [Update 1975-lena-zavaroni-in-south-africa.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/77bc2be074cf5a50cc35a512ed0d913949874b06)
-- [Update 1975-lena-zavaroni-in-south-africa.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/83740f6a46d650cd3d61a66304bd6f4927727d7f)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
