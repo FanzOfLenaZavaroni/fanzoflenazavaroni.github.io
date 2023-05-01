@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1974-05-01-the-share-show.md, 1974-08-31-jerry-lewis-mda-labor…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d297642b810cf6c90f9b069a26597a085e0f77d2)
+- [Update 1974-05-01-the-share-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0084bc0ba6f934d9611fd6fca0d7233e983653d8)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4655b508b967298baf1aab0d5da3ac3064ce3925)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4c46e040a23aa99e1586e2b681ab16840418e776)
 - [Update 1977-05-04-Open House.md and 1974-04-29-opportunity-knocks.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7850bc38bf97bfbe0625f80ae67d1e84172ed326)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4865d3925202327725a11e81bdb8e9bb0068dedc)
-- [Update 2021-04-29-two-hundred-percent.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/548c686c297ec83b4c4e68368defd2f4d911bb7a)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cc90f38b560654c656a0cf18c5d9a7edf87ead00)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
