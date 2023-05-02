@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1974-05-01-the-share-show.md, 1974-08-31-jerry-lewis-mda-labor…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d297642b810cf6c90f9b069a26597a085e0f77d2)
-- [Update 1974-05-01-the-share-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0084bc0ba6f934d9611fd6fca0d7233e983653d8)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4655b508b967298baf1aab0d5da3ac3064ce3925)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4c46e040a23aa99e1586e2b681ab16840418e776)
-- [Update 1977-05-04-Open House.md and 1974-04-29-opportunity-knocks.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7850bc38bf97bfbe0625f80ae67d1e84172ed326)
+- [Update 2021-10-15-mike-hurst-in-my-time-4cd-box-set.md and 2021-10-15…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/56158c9e2d752a78db6f38acba5d8716ce53d47c)
+- [Update 2020-05-08-back-stage-at-the-playhouse-and-kings-theatres-1950…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ae624e1300317644b6e505166447986558207c0a)
+- [Update 2020-05-08-back-stage-at-the-playhouse-and-kings-theatres-1950…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2f2b7e13a32f07dd2bf8cf809eb4668e07f62f28)
+- [Update opportunity-knocks.md, 1920-02-02-hughie-green.md, and 4 more …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/de57c65bffc7d1dab5913a5b5b10e2fe702dcb31)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/822bdcaa8ac346a3c51497f33c4e3f1c4fc49def)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
