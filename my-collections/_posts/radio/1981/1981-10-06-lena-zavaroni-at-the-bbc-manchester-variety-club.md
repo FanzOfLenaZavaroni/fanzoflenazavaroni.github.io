@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Repeated on 11 May 1982
+more: Repeated on 11 May 1982
 title: Lena Zavaroni At The BBC Manchester Variety Club &#124; 6 October 1981 &#124; Repeated on 11 May 1982
 maintitle: Lena Zavaroni At The BBC Manchester Variety Club
 subtitle: Broadcast On BBC Radio 2

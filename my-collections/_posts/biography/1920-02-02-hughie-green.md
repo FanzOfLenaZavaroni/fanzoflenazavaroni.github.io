@@ -22,7 +22,7 @@ categories: [Biography, Hughie-Green, OnThisDay2February, OnThisDay3May]
 
 **Hughie Green** was an actor and producer, known for Double Your Money (1955–1968) and Opportunity Knocks (1956-1978).
 
-**Note:** Opportunity Knocks started out as a [Radio Programme](http://genome.ch.bbc.co.uk/search/0/20?q=Opportunity+Knocks&svc=9371580#search){: .external-link} on the BBC's "Light Programme" in 1949.
+**Note:** [Opportunity Knocks](/category/opportunity-knocks) started out as a [Radio Programme](http://genome.ch.bbc.co.uk/search/0/20?q=Opportunity+Knocks&svc=9371580#search){: .external-link} on the BBC's "Light Programme" in 1949.
 
 Hughie Green was know as the "Master of Opportunities" at that time.
 
