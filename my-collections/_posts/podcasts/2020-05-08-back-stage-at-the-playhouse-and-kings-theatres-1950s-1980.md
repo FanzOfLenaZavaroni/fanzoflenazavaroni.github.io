@@ -17,8 +17,3 @@ permalink: /discography/podcasts/:name
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/14335601/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-### Hercules the Bear
-> Hercules the Bear was exploited in [Lena Zavaroni's Christmas Party](/1980-12-15-lena-zavaronis-christmas-party) at the Edinburgh Playhouse, Edinburgh on 15 December 1980.
-
-<cite>Robcamstone</cite>
-
