@@ -7,7 +7,7 @@ description: Jean Bell was interviewed in 2011 about some of her experiences of 
 media: Podcasts
 post_description: Jean Bell was interviewed in 2011 about some of her experiences of being a dresser and 'call boy' in the Kings and Playhouse Theatres in Edinburgh in the 1950s and 1980s.
 image:
-categories: [Podcasts, Lifestory-Podcast]
+categories: [Podcasts, Lifestory-Podcast, OnThisDay8May]
 permalink: /discography/podcasts/:name
 ---
 
