@@ -25,7 +25,7 @@ categories: [BBC-Radio-2, OnThisDay4May, OnThisDay13May]
 </tr>
 <tr align="center">
 <td colspan="2" style="width:50%;"><a href="https://genome.ch.bbc.co.uk/search/0/20?adv=0&q=Pete+Murray%27s+Open+House+Glasgow&media=all&yf=1923&yt=2009&mf=1&mt=12&tf=00%3A00&tt=00%3A00#search">List of Broadcasts from Glasgow</a></td>
-<td colspan="2" style="width:50%;"><a href="https://genome.ch.bbc.co.uk/13d48fe2da014be98a9f53c533e40a1d">Episode dated 13 May 1977</a></td>
+<td colspan="2" style="width:50%;"><a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_radio_two/1977-05-13#at-9.02">Episode dated 13 May 1977</a></td>
 </tr>
 </table>
 
@@ -46,7 +46,7 @@ categories: [BBC-Radio-2, OnThisDay4May, OnThisDay13May]
 
 <style>
 .dt-published {display: none;}
-.post-meta:after {content: "Recorded on 4 May 1977 and broadcast on BBC Radio 2 on 13 May 1977 at 9.02PM";}
+.post-meta:after {content: "Recorded on 4 May 1977 and broadcast on BBC Radio 2 on 13 May 1977 at 09.02";}
 .height-adjust1 {width:auto; height:350px;}
 .height-adjust2 {width:auto; height:307px;}
 </style>
