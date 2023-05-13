@@ -6,7 +6,7 @@ subtitle: BBC Radio 2
 description: The recording and broadcast dates are unconfirmed, but with what little information is show on BBC Genome I beleave the broadcast date is the 13 May as it's the only episode listed as being from Glasgow that would fit in with having Lena Zavaroni on the show the only other broadcast from the same location pre-dates Lena as it was broadcast on the 8 December 1972.
 media: BBC Radio 2
 post_description: The recording and broadcast dates are unconfirmed, but with what little information is show on BBC Genome I beleave the broadcast date is the 13 May as it's the only episode listed as being from Glasgow that would fit in with having Lena Zavaroni on the show the only other broadcast from the same location pre-dates Lena as it was broadcast on the 8 December 1972.
-categories: [BBC-Radio-2, OnThisDay4May, OnThisDay13 May]
+categories: [BBC-Radio-2, OnThisDay4May, OnThisDay13May]
 ---
 
 <table>
@@ -46,7 +46,7 @@ categories: [BBC-Radio-2, OnThisDay4May, OnThisDay13 May]
 
 <style>
 .dt-published {display: none;}
-.post-meta:after {content: "Recorded on 4 May 1977 and broadcast on BBC Radio 2 on 13 May 1997 at 9.02PM";}
+.post-meta:after {content: "Recorded on 4 May 1977 and broadcast on BBC Radio 2 on 13 May 1977 at 9.02PM";}
 .height-adjust1 {width:auto; height:350px;}
 .height-adjust2 {width:auto; height:307px;}
 </style>
