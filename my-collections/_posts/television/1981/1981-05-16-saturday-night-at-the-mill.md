@@ -13,6 +13,7 @@ categories: [BBC-One, OnThisDay16May]
 <table>
 <tr align="center">
 <th colspan="4">Jump To:</th>
+<th>External Links</th>
 </tr>
 
 <tr align="center">
@@ -20,31 +21,22 @@ categories: [BBC-One, OnThisDay16May]
 <td><a href="#summary">Summary</a></td>
 <td><a href="#cast">Cast</a></td>
 <td><a href="#crew">Crew</a></td>
-</tr>
-
-<tr align="center">
-<th colspan="2" style="width:50%;">Go To</th>
-<th colspan="2" style="width:50%;">External Links</th>
-</tr>
-
-<tr align="center">
-<td colspan="2" style="width:50%;"><a href="/thames%20television/1976/07/28/bring-on-the-girls.html#saturday-night-at-the-mill---16th-may-1981">Bring on the Girls</a></td>
-<td colspan="2" style="width:50%;"><a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1981-05-16#at-23.25">BBC Genome</a></td>
+<td><a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1981-05-16#at-23.25">BBC Genome</a></td>
 </tr>
 </table>
 
-<figure class="fig1">
-<h3 id="clip">Lena's Section Of The Show</h3>
+<figure class="fig3">
+<h3 id="clip"><a href="#clip">Lena's Section Of The Show</a></h3>
 <div class="responsive-video"><iframe width="640" height="480" src="https://www.youtube.com/embed/keBH5mAO_Sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <a href="https://youtu.be/keBH5mAO_Sc?t=812">Jump to Necklace Break</a>
 </figure>
 
-<figure class="fig2">
+<figure class="fig3">
 <figcaption>
-<h3 id="summary">Summary</h3>
+<h3 id="summary"><a href="#summary">Summary</a></h3>
 </figcaption>
 <p>Lena sings a live version of Going Nowhere, before chatting to Bob Langley about her life, career and health.</p>
-<p>She describes how the recording of "Be A Clown" for the television show "Bring on the Girls" was faulty and the van taking the seals home had to be found and turned back so that it could be re-recorded.</p>
+<p>She describes how the recording of "Be A Clown" for the television show <a href="/1976-07-28-bring-on-the-girls">Bring on the Girls</a> was faulty and the van taking the seals home had to be found and turned back so that it could be re-recorded.</p>
 <p>She then performs a live version of Roses And Rainbows. During her performace her necklace breaks, but Lena carries on as if nothing had happened.</p>
 <p>At the end of the show she plays tambourine with Kenny Ball's Jazzmen, in a short Jazz number as the credits roll.</p>
 </figure>
@@ -53,7 +45,7 @@ categories: [BBC-One, OnThisDay16May]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="cast">Cast</h3>
+<h3 id="cast"><a href="#cast">Cast</a></h3>
 </figcaption>
 <table>
 <tr><th>Presenter:</th><td>Bob Langley</td></tr>
@@ -67,7 +59,7 @@ categories: [BBC-One, OnThisDay16May]
 
 <figure class="fig2">
 <figcaption>
-<h3 id="crew">Crew</h3>
+<h3 id="crew"><a href="#crew">Crew</a></h3>
 </figcaption>
 <table>
 <tr><th>Musical director:</th><td>Arthur Greenslade</td></tr>
@@ -82,19 +74,4 @@ categories: [BBC-One, OnThisDay16May]
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 

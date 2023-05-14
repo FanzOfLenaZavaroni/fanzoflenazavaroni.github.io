@@ -1,36 +1,35 @@
 ---
 layout: post
 title: Bring on the Girls &#124; 28 July 1976
+more: Repeated on 22 June 1977
 maintitle: Bring on the Girls
 subtitle: Bruce Forsyth
 description: Lena takes part in a short comedy sketch with Brucie, and they then perform Be A Clown together.
 media: Thames Television
-post_description: Lena takes part in a short comedy sketch with Brucie, and they then perform Be A Clown together.
+post_description: Lena takes part in a short comedy sketch with Brucie, and they then perform Be A Clown together (broadcast on 28 July 1976 repeated on 22 June 1977).
 image: /assets/images/ITV/1976-07-28-bring-on-the-girls.jpg
-categories: [Thames-Television]
+categories: [Thames-Television, OnThisDay28July, OnThisDay22June]
 ---
 
 <table style="text-align:center;">
 <tr>
 <th colspan="4">Jump To</th>
-<th>Go To</th>
 </tr>
 
 <tr>
-<td><a href="#collage-of-screenshots">Screenshots</a></td>
-<td><a href="#cast">Cast</a></td>
-<td><a href="#crew">Crew</a></td>
-<td><a href="#facebook-comment-from-28-july-2018">Facebook Comment</a></td>
-<td><a href="/bbc%20one/1981/05/16/saturday-night-at-the-mill.html">Saturday Night At The Mill</a></td>
+<td style="width:25%;"><a href="#screenshots">Screenshots</a></td>
+<td style="width:25%;"><a href="#cast">Cast</a></td>
+<td style="width:25%;"><a href="#crew">Crew</a></td>
+<td style="width:25%;"><a href="#facebook">Facebook Comment</a></td>
 </tr>
 </table>
 
-### Collage Of Screenshots
+<h3 id="screenshots"><a href="#screenshots">Collage Of Screenshots</a></h3>
 ![](/assets/images/ITV/1976-07-28-bring-on-the-girls.jpg){: .full-width}
 
-### Cast
+<h3 id="cast"><a href="#cast">Cast</a></h3>
 <table>
-<tr><th>Host:</th><td>Bruce Forsyth</td></tr>
+<tr><th style="width:25%;">Host:</th><td style="width:25%;">Bruce Forsyth</td></tr>
 <tr><th>English actress:</th><td>Honor Blackman</td></tr>
 <tr><th>Singer:</th><td>Lena Zavaroni</td></tr>
 <tr><th>English actress, singer and dancer:</th><td>Denise Brownlow</td></tr>
@@ -40,9 +39,9 @@ categories: [Thames-Television]
 <tr><th>American Female Vocal Group:</th><td>The Three Degrees</td></tr>
 </table>
 
-### Crew
+<h3 id="crew"><a href="#crew">Crew</a></h3>
 <table>
-<tr><th>Script:</th><td>Dick Hills</td></tr>
+<tr><th style="width:25%;">Script:</th><td style="width:25%;">Dick Hills</td></tr>
 <tr><th>Script:</th><td>Barry Cryer</td></tr>
 <tr><th>Designer:</th><td>Alex Clarke</td></tr>
 <tr><th>Music Associate:</th><td>Don Hunt</td></tr>
@@ -53,16 +52,11 @@ categories: [Thames-Television]
 <tr><th>Production Company:</th><td>Thames Television</td></tr>
 </table>
 
-### Facebook Comment From 28 July 2018
+<h3 id="facebook"><a href="#facebook">Facebook Comment From 28 July 2018</a></h3>
 * Reconstructed from the archive of Fanz of Lena Zavaroni's canceled Facebook page.
-<span class="fb">**Stephen Molloy** In a 1981 interview on Saturday Night At The Mill, Lena describes how the recording of Be A Clown was faulty and the van taking the seals home had to be found and turned back so that it could be re-recorded.<br /><br />Lena mentions that they had already worked all day, so at twelve years old I imagine that hurried negotiations between lawyers, management and the local council would have had to take place to allow her to carry on working.<br /><br />On this 1981 edition of Pebble Mill, Lena sang Roses And Rainbows. If you look at her neck at around one minute and twenty seconds you will see her necklace break, but Lena carries on as if nothing had happened.</span>
+<span class="fb"><strong>Stephen Molloy</strong> In a 1981 interview on <a href="/1981-05-16-saturday-night-at-the-mill">Saturday Night At The Mill</a>, Lena describes how the recording of Be A Clown was faulty and the van taking the seals home had to be found and turned back so that it could be re-recorded.<br /><br />Lena mentions that they had already worked all day, so at twelve years old I imagine that hurried negotiations between lawyers, management and the local council would have had to take place to allow her to carry on working.<br /><br />On this 1981 edition of Pebble Mill, Lena sang Roses And Rainbows. If you look at her neck at around one minute and twenty seconds you will see her necklace break, but Lena carries on as if nothing had happened.</span>
 
 <style>
-.dt-published {display: none;}
-.post-meta:after {content: "Wednesday 28 July 1976 @ 8.00pm, repeated on Wednesday 22 June 1977 @ 7.30pm";}
-.height-adjust1 {width:auto; height:350px;}
-.height-adjust2 {width:auto; height:307px;}
-
 .fb {
     background-color: #f2f3f5;
     box-sizing: border-box;
