@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1978-05-14-charity-performance.md, 1978-05-14-sos-charity-vari…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/87b57b02383ad2d6197f2be13dee8bdb61deff37)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4185148264490674cb20141bdd54874038ccfb47)
 - [Update 1977-05-04-Open House.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/64bcc0fd7ca2cfd5e8373317ab76f7ca77aa4731)
 - [Update 1977-05-04-Open House.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7c30fe19ec86dbe96231aac16fe2adaaa7b880ee)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ac836b898c4526712ae4300bca9a6f36af686cfd)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b70e395468172c8936a9f0ca554a4b3da45e66b7)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/343697243cb618cbe9bfc3f731c36d363d101090)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
