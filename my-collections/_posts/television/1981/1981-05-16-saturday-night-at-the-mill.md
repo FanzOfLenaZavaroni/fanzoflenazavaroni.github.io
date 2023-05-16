@@ -27,8 +27,14 @@ categories: [BBC-One, OnThisDay16May]
 
 <figure class="fig3">
 <h3 id="clip"><a href="#clip">Lena's Section Of The Show</a></h3>
-<div class="responsive-video"><iframe width="640" height="480" src="https://www.youtube.com/embed/keBH5mAO_Sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<a href="https://youtu.be/keBH5mAO_Sc?t=812">Jump to Necklace Break</a>
+<div class="responsive-video"><div id="player"></div></div>
+<strong>Timestamps:</strong>
+<ul>
+<li><a href="javascript:void(0);" onclick="setCurrentTime(0)">00:00 - Intro: Lena performs "Going Nowhere"</a></li>
+<li><a href="javascript:void(0);" onclick="setCurrentTime(1)">03:55 - Start of Interview</a></li>
+<li><a href="javascript:void(0);" onclick="setCurrentTime(2)">12:24 - Roses And Rainbows</a></li>
+<li><a href="javascript:void(0);" onclick="setCurrentTime(3)">13:53 - Necklace Break</a></li>
+</ul>
 </figure>
 
 <figure class="fig3">
@@ -75,3 +81,19 @@ categories: [BBC-One, OnThisDay16May]
 
 <br />{: .clear}
 
+<script>
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/iframe_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player', {
+      videoId: 'keBH5mAO_Sc',
+    });
+  }
+  function setCurrentTime(slideNum) {
+    var object = [ 0, 235, 744, 813 ];
+    player.seekTo(object[slideNum]);
+  }
+</script>
