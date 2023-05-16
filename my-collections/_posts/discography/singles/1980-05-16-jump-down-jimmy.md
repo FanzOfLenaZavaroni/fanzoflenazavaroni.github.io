@@ -24,7 +24,7 @@ permalink: /discography/singles/:name
 <tr class="split"><th>A side:</th><td>Jump Down Jimmy</td></tr>
 <tr><th>Composer:</th><td>Shelley, Horton, Meyers, Lindberg</td></tr>
 <tr><th>Producer:</th><td>Peter Shelley</td></tr>
-<tr class="split"><th>B side:</th><td>Ready For Lov</td></tr>
+<tr class="split"><th>B side:</th><td>Ready For Love</td></tr>
 <tr><th>Composer:</th><td>Shelley, Sham, Meyers</td></tr>
 <tr><th>Producer:</th><td>Peter Shelley</td></tr>
 <tr class="split"><th>Label:</th><td>Galaxy – GY 163</td></tr>
