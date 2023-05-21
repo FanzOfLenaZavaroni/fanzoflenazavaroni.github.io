@@ -85,7 +85,7 @@ collections:
 defaults:
   -
     values:
-      post_description: "Clicking on the above link will take you to the full article as normal."
+      post_description: "Details unavailable at this time."
 
 # Feed Settings: excerpt_only: true or false
 feed:
