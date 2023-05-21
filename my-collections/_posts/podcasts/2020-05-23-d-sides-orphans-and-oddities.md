@@ -52,7 +52,7 @@ permalink: /discography/podcasts/:name
 <p>Norman Luboff Singers - I’m Ready (1965)</p>
 <p>The Archies - Betty (1969)</p>
 <p>Chuck Berry - Havana Moon (1979 Version)</p>
-<p style="outline: 4px dashed darkorange;width: max-content;padding: 0 5px;">Lena Zavaroni - Help Me Make It Through The Night (1974)</p>
+<p style="outline: 4px dashed darkorange;width: max-content;padding: 0 5px;">Lena Zavaroni - Help Me Make It Through The Night (1974) at approximately 1:47:04 into the podcast</p>
 <p>Lawrence Welk and His Orchestra - The “In” Crowd (1965)</p>
 <p>Pat Boone - U.F.O. (1975)</p>
 <p>Scott Walker - Joanna (1970)</p>
