@@ -23,16 +23,16 @@ categories: [BBC-One, Lena-Zavaroni-and-Music, OnThisDay23May]
 </tr>
 </table>
 
-<figure class="fig1" id="bbc-publicity-photo">
+<figure class="fig1">
 <figcaption>
-<h3>BBC Publicity Photo</h3>
+<h3 id="bbc-publicity-photo"><a href="#bbc-publicity-photo">BBC Publicity Photo</a></h3>
 </figcaption>
 <a href="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg"><img src="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg" class="full-width zoom-in"></a>
 </figure>
 
-<figure class="fig2" id="set-list">
+<figure class="fig2">
 <figcaption>
-<h3>Set List</h3>
+<h3 id="set-list"><a href="#set-list">Set List</a></h3>
 <ul>
 <li>Music Was My First Love (Lena)</li>
 <li>A clog dance to the music of Violinski (Wayne Sleep)</li>
@@ -47,7 +47,7 @@ categories: [BBC-One, Lena-Zavaroni-and-Music, OnThisDay23May]
 
 <br />{: .clear}
 
-### Cast
+### [Cast](#cast)
 <table>
 <tr><th style="width:50%;">Hostess and Signer:</th><td style="width:50%;">Lena Zavaroni</td></tr>
 <tr><th>Special guest:</th><td>Elaine Stritch</td></tr>
@@ -55,5 +55,18 @@ categories: [BBC-One, Lena-Zavaroni-and-Music, OnThisDay23May]
 <tr><th>Special guest:</th><td>George Chisholm</td></tr>
 <tr><th>Musicians:</th><td>Violinski</td></tr>
 <tr><th>Dancers:</th><td>The Ace Eight</td></tr>
+</table>
+
+### [Crew](#crew)
+<table>
+<tr><th style="width:50%;">Orchestra:</th><td style="width:50%;">Alyn Ainsworth and his Orchestra</td></tr>
+<tr><th>Musical Director:</th><td>Alyn Ainsworth</td></tr>
+<tr><th>Vocal Backings:</th><td>The Third Kind</td></tr>
+<tr><th>Choreography:</th><td><a href="/year/1932-dougie-squires">Dougie Squires</a></td></tr>
+<tr><th>Sound:</th><td>Len Shorey</td></tr>
+<tr><th>Lighting:</th><td>Eric Wallis</td></tr>
+<tr><th>Designer:</th><td>John O'Hara</td></tr>
+<tr><th>Designer:</th><td>Nigel Curzon</td></tr>
+<tr><th>Production:</th><td>David G. Hillier</td></tr>
 </table>
 
