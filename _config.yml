@@ -47,6 +47,9 @@ header_pages:
 
 collections_dir: my-collections
 collections:
+   year:
+    output: true
+    permalink: /year/:name
    category:
     output: true
     permalink: /category/:name
