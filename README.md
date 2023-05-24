@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1982-05-25-lena.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9e751374311d78bc14bc4b740df827d262cac667)
+- [Update 1982-06-01-lena.md and 1982-06-08-lena.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/51a4f976973fd377e01eebbb80b6322170aecfa8)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d07fd5acffb66ee237e1790a735b01efe6558a39)
 - [Update 1982-05-25-lena.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2434720c3e0e55c5dfc158f4527bf11af1cc956f)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/438f5e6f3bd43eb41dbacadff303db40d2ee092b)
-- [Update _config.yml, dougie-squires.jpg, and 5 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2d9e42d214a8f079e3061de3ffcb913de0596222)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4b3094deee8232a305ab08f9e65abd28e7d50bbb)
-- [Update 2020-10-30-Newsbank.md, 2020-11-01-Newsbank.md, and 11 more fi…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/77d646e856f2f151e9f142864b6d3a327c5674b6)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
