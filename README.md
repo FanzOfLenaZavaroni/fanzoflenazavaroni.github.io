@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/296e692f3cdb3bc6a0221ff50a9eb93bdac6a079)
 - [Update 1982-05-25-lena.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9e751374311d78bc14bc4b740df827d262cac667)
 - [Update 1982-06-01-lena.md and 1982-06-08-lena.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/51a4f976973fd377e01eebbb80b6322170aecfa8)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d07fd5acffb66ee237e1790a735b01efe6558a39)
 - [Update 1982-05-25-lena.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2434720c3e0e55c5dfc158f4527bf11af1cc956f)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/438f5e6f3bd43eb41dbacadff303db40d2ee092b)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
