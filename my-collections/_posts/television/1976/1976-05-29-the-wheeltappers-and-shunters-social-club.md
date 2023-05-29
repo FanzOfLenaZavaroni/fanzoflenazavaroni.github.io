@@ -26,13 +26,13 @@ categories: [London-Weekend-Television, OnThisDay29May]
 
 ### Cast
 <table>
-<tr><th>Compere:</th><td>Bernard Manning</td></tr>
+<tr><th style="width:50%;">Compere:</th><td style="width:50%;">Bernard Manning</td></tr>
 <tr><th>Concert Chairman:</th><td>Colin Cromption</td></tr>
 </table>
 
 ### Turns
 <table>
-<tr><th>Radio Presenter:</th><td>Pete Price</td></tr>
+<tr><th style="width:50%;">Radio Presenter:</th><td style="width:50%;">Pete Price</td></tr>
 <tr><th>Family Pop Group:</th><td>The Dooley Family</td></tr>
 <tr><th>Actress:</th><td>Pat Mills</td></tr>
 <tr><th>Actor:</th><td>Tony Monoply</td></tr>
