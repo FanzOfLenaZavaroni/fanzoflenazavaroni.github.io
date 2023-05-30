@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1977-06-01-youre-never-too-old.md and 1980-06-04-lena.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/17d2a8d524c531c70bf2eb0eec6e9ca0e48b1959)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/992c8d30814f4ffd780cefd7116b9dccd1607a3c)
 - [Update 1976-05-29-the-wheeltappers-and-shunters-social-club.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fdd260edea0d6e859a6c1dd704cdfd5a5d83133f)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b66941b03ee813dde0019285414e078b1a7aede6)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f4f9e4cec66ac4e55590fd3dd3ba01e86c636d98)
-- [Update 1979-05-27-harold-fieldings-sunday-night-at-the-blackpool-oper…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4242d999c33eb90a6979a024ee09682806620ad6)
-- [Update 1979-05-27-harold-fieldings-sunday-night-at-the-blackpool-oper…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3b7871e170f0d990892337773c79c74ba06ceb0f)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
