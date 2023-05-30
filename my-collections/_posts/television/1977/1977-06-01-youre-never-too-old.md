@@ -7,26 +7,32 @@ description: Lena celebrates her birthday as a pensioner in a comedy sketch.
 media: ATV
 post_description: Lena celebrates her birthday as a pensioner in a comedy sketch.
 image: /assets/images/ITV/youre-never-too-old.jpg
-categories: [Associated-Television-(ATV)]
+categories: [Associated-Television-(ATV), OnThisDay1June]
 ---
 
-[![TVTimes](/assets/images/ITV/youre-never-too-old.jpg){: .full-width}{: .link}](/tv%20guides/1977/05/28/TVTimes.html)
+[![TVTimes](/assets/images/ITV/youre-never-too-old.jpg){: .full-width}{: .link}](/1977-05-28-TVTimes)
 
-Lena celebrates her birthday as a pensioner in a comedy sketch.
+<cite>Lena celebrates her birthday as a pensioner in a comedy sketch.</cite>
 
-**Cast**
-* Lena Zavaroni
-* The Bachelors
-* Frank Carson
-* Hope And Keen
-* The Norman Maen Dancers
+### [Cast](#cast)
 
-**Credits**
-* Orchestral backing: Jack Parnell And His Orchestra
-* scriptwriter: Bryan Blackburn
-* Musical associate: Derek Scott
-* Choreographer: Norman Maen
-* Designer: Paul Dean
-* Director/Producer: Colin Clews
-* Production company: Associated Television (ATV)
+<table>
+<tr><td>Lena Zavaroni</td></tr>
+<tr><td>The Bachelors</td></tr>
+<tr><td>Frank Carson</td></tr>
+<tr><td>Hope And Keen</td></tr>
+<tr><td>The Norman Maen Dancers</td></tr>
+</table>
+
+### [Crew](#crew)
+
+<table>
+<tr><th>Orchestral backing:</th><td>Jack Parnell And His Orchestra</td></tr>
+<tr><th>scriptwriter:</th><td>Bryan Blackburn</td></tr>
+<tr><th>Musical associate:</th><td>Derek Scott</td></tr>
+<tr><th>Choreographer:</th><td>Norman Maen</td></tr>
+<tr><th>Designer:</th><td>Paul Dean</td></tr>
+<tr><th>Director/Producer:</th><td>Colin Clews</td></tr>
+<tr><th>Production company:</th><td>Associated Television (ATV)</td></tr>
+</table>
 
