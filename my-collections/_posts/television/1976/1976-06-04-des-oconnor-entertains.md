@@ -5,7 +5,7 @@ title: Des O'Connor Entertains &#124; 4 June 1976
 maintitle: Des O'Connor Entertains
 subtitle: Series 1
 description: Lena appears in a comedy sketch with Des, and performs Some Of These Days.
-post_description: Lena appears in a comedy sketch with Des, and performs Some Of These Days.
+post_description: Lena appears in a comedy sketch with Des, and performs Some Of These Days (4 June 1976 and Repeated 10 December 1976 &#8212; Repeated 3 September 1977).
 image: /assets/images/ATV/1976-06-04-OnThizDay.jpg
 categories: [London-Weekend-Television, OnThisDay4June, OnThisDay10December, OnThisDay3September]
 ---
