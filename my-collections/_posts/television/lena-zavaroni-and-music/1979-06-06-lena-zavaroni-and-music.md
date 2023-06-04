@@ -23,16 +23,16 @@ categories: [BBC-One, Lena-Zavaroni-and-Music, OnThisDay6June]
 </tr>
 </table>
 
-<figure class="fig1" id="bbc-publicity-photo">
+<figure class="fig1">
 <figcaption>
-<h3>BBC Publicity Photo</h3>
+<h3 id="bbc-publicity-photo"><a href="#bbc-publicity-photo">BBC Publicity Photo</a></h3>
 </figcaption>
 <a href="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg"><img src="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg" class="full-width zoom-in"></a>
 </figure>
 
-<figure class="fig2" id="set-list">
+<figure class="fig2">
 <figcaption>
-<h3>Set List</h3>
+<h3 id="set-list"><a href="#set-list">Set List</a></h3>
 <ul>
 <li>Music Was My First Love (Lena, shorter version)</li>
 <li>Can You Feel A Brand New Day/Just The Way You Are (Lena)</li>
@@ -47,8 +47,8 @@ categories: [BBC-One, Lena-Zavaroni-and-Music, OnThisDay6June]
 
 {: .clear}
 
-<figure class="fig3" id="cast">
-<h3>Cast</h3>
+<figure class="fig3">
+<h3 id="cast"><a href="#cast">Cast</a></h3>
 <table>
 <tr><th style="width:50%;">Hostess and Signer:</th><td style="width:50%;">Lena Zavaroni</td></tr>
 <tr><th>Special Guest:</th><td>Edward Woodward</td></tr>
