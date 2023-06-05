@@ -3,8 +3,8 @@ layout: post
 title: Orphaned Comments &#124; 20 June 2020
 maintitle: Orphaned Comments
 subtitle: OnThisDay 4 June
-description: 20 June 2020
-post_description: 20 June 2020
+description: I have started to recreate the comments as best I can from the email versions of the comments I have.
+post_description: I have started to recreate the comments as best I can from the email versions of the comments I have.
 categories: [Orphaned-Comments, OnThisDay20June]
 ---
 
