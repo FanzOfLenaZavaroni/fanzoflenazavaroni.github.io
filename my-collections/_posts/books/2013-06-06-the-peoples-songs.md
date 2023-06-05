@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The People’s Songs &#124; 6 June 2013
-more: Hardback and Kindle Edition, 27 March 2014 Paperback
+more: Hardback and Kindle Edition - 27 March 2014 Paperback
 maintitle: The People’s Songs
 subtitle: The Story of Modern Britain in 50 Records by Stuart Maconie
 date: 6 June 2013
