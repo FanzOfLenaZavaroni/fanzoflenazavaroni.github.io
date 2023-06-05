@@ -1,12 +1,12 @@
 ---
 layout: discography
-year: 5 June 2009
+more: or 5 June 2009 or 31 December 2008
 title: Jimmy Scott A Songwriter's Notebook
 maintitle: Jimmy Scott A Songwriter's Notebook
-subtitle: 5 June 2009
+subtitle: Date unconfirmed as various websites have various dates.
 description: Track 9 - Lena is the song that is a wonderful Tribute to Lena Zavaroni.
-post_description: Track 9 - Lena is the song that is a wonderful Tribute to Lena Zavaroni.
-categories: [Tribute-Songs, OnThisDay5June]
+post_description: Date unconfirmed as various websites have various dates.
+categories: [Tribute-Songs, OnThisDay31December, OnThisDay1June, OnThisDay5June]
 permalink: /discography/tribute-songs/:name
 ---
 
@@ -33,6 +33,13 @@ Track 9 - Lena is the song that is a wonderful Tribute to Lena Zavaroni.
 <li>Shangri-la Is Here</li>
 </ol>
 </figure>
+
+{: .clear}
+
+* 31 December 2008 - [last.fm](https://www.last.fm/music/Jimmy+Scott/A+Songwriter%27s+Notebook)
+* 1 June 2009 - [amazon](https://www.amazon.co.uk/Songwriters-Notebook-Jimmy-Scott/dp/B002F17FNC)
+* 5 June 2009 - [allmusic](https://www.allmusic.com/album/release/a-songwriters-notebook-mr0002292754)
+
 
 <br />{: .clear}
 
