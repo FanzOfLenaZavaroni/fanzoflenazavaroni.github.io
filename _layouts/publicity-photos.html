@@ -12,7 +12,7 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {%- if page.more -%}
-        &#8212; <span itemprop="more" itemscope itemtype="http://schema.org/Person"><span class="p-more h-card" itemprop="name">{{ page.more | escape }}</span></span>
+       <span itemprop="more" itemscope itemtype="http://schema.org/Person"><span class="p-more h-card" itemprop="name">{{ page.more }}</span></span>
       {%- endif -%}</p>
   </header>
 
