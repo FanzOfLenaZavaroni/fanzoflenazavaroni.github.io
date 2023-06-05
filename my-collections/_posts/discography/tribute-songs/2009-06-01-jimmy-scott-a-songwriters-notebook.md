@@ -10,7 +10,7 @@ categories: [Tribute-Songs, OnThisDay31December, OnThisDay1June, OnThisDay5June]
 permalink: /discography/tribute-songs/:name
 ---
 
-Track 9 - Lena is the song that is a wonderful Tribute to Lena Zavaroni.
+Track 9 is obviously the tribute to Lena Zavaroni.
 
 <figure class="fig1">
 <h3 id="youtube"><a href="#youtube">YouTube</a></h3>
