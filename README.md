@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 2013-06-06-the-peoples-songs.md, 2009-06-05-jimmy-scott-a-song…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b43d02d91316a9fa895e7137a3cb30ea732efc19)
-- [Update 1976-06-04-des-oconnor-entertains.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/73bd343ead55dfbd308c058fa88fe56314bd8af0)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5e276c6e6557a76992bcf0afb07a7f55469df848)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7a7c7c28634c8d0bd628bee1c23e506b6b4a8e83)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d54953b112a63775530d20f8302bf3637131b130)
+- [Update 2009-06-01-jimmy-scott-a-songwriters-notebook.md and 1987-06-0…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4351883e2b1815fcb0b6a495baf24df93f82733c)
+- [Update 2009-06-01-jimmy-scott-a-songwriters-notebook.md, 2009-06-05-j…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/81d45003db8aa59016b18bbcaf33cd34f2864cbd)
+- [Update 1979-04-08-lena-zavaroni-and-guests.md and 1979-06-06-lena-zav…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/07ce1d41da27ccbe0761c7d89ff7a8c5b37c8761)
+- [Update 2013-06-06-the-peoples-songs.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cf137535e4142f81f4d00cd035358820b30b8c69)
+- [Update post.html, publicity-photos.html, and 38 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b7eeef7f50fde1995b476ff839b08a1b099b8e6b)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
