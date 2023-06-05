@@ -4,7 +4,7 @@ title: Lena Zavaroni and Music &#124; Episode 3
 maintitle: Lena Zavaroni and Music - Episode 3
 subtitle: This week's guests are Edward Woodward and Gerard Kenny
 description: This week's guests are Edward Woodward and Gerard Kenny.
-post_description: This week's guests are Edward Woodward and Gerard Kenny
+post_description: This week's guests are Edward Woodward and Gerard Kenny.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
 categories: [BBC-One, Lena-Zavaroni-and-Music, OnThisDay6June]
 ---
