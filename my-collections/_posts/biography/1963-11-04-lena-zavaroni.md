@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Biography &#124; Lena Zavaroni
-maintitle: Lena Zavaroni
+maintitle: Lena Zavaroni (aged 35)
+more: Born - 1 October 1999 Died
 position: Singer and Television Show Host
 description: Lena Zavaroni was born on 4 November 1963 in Rankin Memorial Hospital, Greenock, Inverclyde, Scotland, United Kingdom to Victor Zavaroni (1939) and Hilda Catherine (Jordan) Zavaroni (c1940-1989).
 post_description: 4 November 1963 - 1 October 1999
