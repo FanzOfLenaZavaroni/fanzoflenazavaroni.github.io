@@ -18,7 +18,7 @@ layout: post-no-comments
 
 <p>It is presented as a series of short notes and comments along with links to related media, blogs, etc. I hope fans will find it of interest and that it helps them on their own discovery of Lena Zavaroni. It's a hard but sometimes happy but also very sad journey into the world of Lena Zavaroni. If you want the fantasy Lena that some fans seem to, then you should end your journey here.</p>
 
-<a href="/biography/lena-zavaroni/"><strong>Media Based Biography of Lena Zavaroni</strong></a>
+<a href="/1963-11-04-lena-zavaroni"><strong>Media Based Biography of Lena Zavaroni</strong></a>
 
 <strong>Google Earth: <a class="external-links" href="https://earth.google.com/earth/d/1aPUrdPvdWzzY9P8_ZEbHlEHSzgUug-Dy?usp=sharing">Where on earth has Lena been</a><strong>
 
