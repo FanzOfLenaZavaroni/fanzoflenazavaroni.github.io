@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update index.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/75fcc6dfa7fe7f0f797bec1add15ad7dfe259396)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3645ccc70c8e691ff2241c4a44a99910619c60cd)
 - [Update 1978-03-26-lena-and-bonnie.md, 2000-02-23-the-real-lena-zavaro…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/24ddbefef6c1b64d170564b15b23fd26ba2e1569)
 - [Update 1963-11-04-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5556c484e4c25a5fbb266ffd198231cd0d485589)
 - [Update 1964-07-22-bonnie-langford.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9e8044625fe5e86e1ace90d8d048774a45cf6445)
-- [Update 1963-11-04-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6aaa687d30c38a4cd685d30fa0343ac5b05479bf)
-- [Update 1934-02-02-les-dawson.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5913e402c3f58f8faa114bcbdec64077968f3544)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
