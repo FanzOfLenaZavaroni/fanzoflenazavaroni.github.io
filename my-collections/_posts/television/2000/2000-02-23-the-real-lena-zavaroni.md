@@ -1,11 +1,10 @@
 ---
 layout: post
 title: The Real... &#124; Lena Zavaroni &#124; 23 February 2000
-more: Repeat 23 January 2002
+more: "- Repeat 23 January 2002"
 maintitle: The Real... Lena Zavaroni
 subtitle: Channel 4
 description: Channel 4 documentary charting Lena Zavaroni's career and subsequent illness.
-media: Lena Zavaroni
 post_description: Documentary charting Lena Zavaroni's career and subsequent illness.
 image: /assets/images/channel4/2000-02-23-the-real-lena-zavaroni.jpg
 categories: [Channel-4, The-Real..., Lena-Zavaroni, OnThisDay23February, Repeat23January]
