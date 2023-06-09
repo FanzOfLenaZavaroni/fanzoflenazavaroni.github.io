@@ -6,7 +6,7 @@ maintitle: The Scottish Sun
 subtitle: KISS OFF Red Dwarf’s Danny John-Jules reveals Lena Zavaroni kiss rocketed him to stardom as he stars in Glasgow’s Da Vinci code
 description: KISS OFF Red Dwarf’s Danny John-Jules reveals Lena Zavaroni kiss rocketed him to stardom as he stars in Glasgow’s Da Vinci code.
 post_description: KISS OFF Red Dwarf’s Danny John-Jules reveals Lena Zavaroni kiss rocketed him to stardom as he stars in Glasgow’s Da Vinci code.
-categories: [Newspaper, The-Scottish-Sun, OnThisDay12March, OnThisDay14March]
+categories: [Newspapers, The-Scottish-Sun, OnThisDay12March, OnThisDay14March]
 ---
 
 <figure class="fig3">
