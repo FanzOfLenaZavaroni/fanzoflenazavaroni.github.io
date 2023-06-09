@@ -10,7 +10,7 @@ categories: [Newspaper, The-Scottish-Sun, OnThisDay12March, OnThisDay14March]
 ---
 
 <figure class="fig3">
-<div class="responsive-video"><video width="100%" poster="/assets/media/lena-zavaroni-the-danny-john-jules-kiss.png" controls><source src="video.mp4" type="/assets/media/lena-zavaroni-the-danny-john-jules-kiss.mp4"></video></div>
+<div class="responsive-video"><video width="100%" poster="/assets/media/lena-zavaroni-the-danny-john-jules-kiss.png" controls loop><source src="/assets/media/lena-zavaroni-the-danny-john-jules-kiss.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
 </figure>
 
 {: .clear}
@@ -24,6 +24,10 @@ categories: [Newspaper, The-Scottish-Sun, OnThisDay12March, OnThisDay14March]
 <p>“But the producer Stewart Morris said, ‘When you drop her down, I want you two to give her a kiss on the cheek.’</p>
 <p>“Now this was the 70s with the British National Front out on the streets and he wanted a black guy to give little Lena Zavaroni a kiss?</p>
 <p>“The other dancer bottled it, but I gave her a kiss on the cheek. It was like a revelation.</p>
+<blockquote>
+<p>If you watch the clip above you will see that in fact the other dancer was prevented from kissing Lena's other cheek by the movement of her right arm.</p>
+</blockquote>
+<cite>Robcamstone</cite>
 <p>“The next day I was walking down the street and my mates are coming up going ‘Dan - you kissed Lena Zavaroni on telly, what the hell man.’’</p>
 <p>“It was the biggest moment to happen in my career at that point. Because things like that didn’t happen on TV in those days.”</p>
 </blockquote>
