@@ -13,7 +13,7 @@ permalink: /discography/singles/:name
 
 <figure class="fig3">
 <figcaption>
-<p>All the tracks on this single and the related <a href="/discography/studio-albums/1982-hold-tight-its-lena">album</a> were preformed by Lena on series 3 of her TV Show "<a href="/categories/#Lena%20-%20Series%203">Lena</a>".</p>
+<p>All the tracks on this single and the related <a href="/discography/studio-albums/1982-hold-tight-its-lena">album</a> were preformed by Lena on series 3 of her TV Show "<a href="/categories/#Lena-(TV-Show)">Lena</a>".</p>
 </figcaption>
 </figure>
 
