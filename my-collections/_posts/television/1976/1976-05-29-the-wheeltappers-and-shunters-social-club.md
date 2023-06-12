@@ -3,12 +3,12 @@ layout: post
 title: The Wheeltappers and Shunters Social Club
 maintitle: The Wheeltappers and Shunters Social Club
 subtitle: Episode 5.3
-more: Original Broadcast - 12 June 1976 Shown on Scottish TV (STV) it's unclear if this was a Repeat broadcast or if it had a different broadcast date in Scotland to other parts of the UK
+more: Shown on London Weekend Television (LWT) as well as other UK broadcasters - 12 June 1976 Shown on Scottish TV (STV) it was a Granada Television Production
 description: Turns - Pete Price, The Dooley Family, Pat Mills, Tony Monoply, Rob Murray and Lena Zavaroni
 media: London Weekend Television
 post_description: Turns - Pete Price, The Dooley Family, Pat Mills, Tony Monoply, Rob Murray and Lena Zavaroni
 image: /assets/images/ITV/26705332579.jpg
-categories: [London-Weekend-Television, OnThisDay29May, OnThisDay12June]
+categories: [Granada-Television, London-Weekend-Television, OnThisDay29May, OnThisDay12June]
 ---
 
 <table>
