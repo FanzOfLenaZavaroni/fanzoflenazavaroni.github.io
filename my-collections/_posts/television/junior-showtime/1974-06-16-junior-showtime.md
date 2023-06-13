@@ -40,7 +40,7 @@ categories: [Yorkshire-Television, Junior-Showtime, OnThisDay16June]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="cast">Cast</h3>
+<h3 id="cast"><a href="#cast">Cast</a></h3>
 </figcaption>
 <table>
 <tr><th>Presenter</th><td> Mark Curry</td></tr>
@@ -51,19 +51,4 @@ categories: [Yorkshire-Television, Junior-Showtime, OnThisDay16June]
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
