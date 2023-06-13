@@ -18,7 +18,7 @@ categories: [BBC-Radio-1, BBC-Radio-2, Junior-Choice, OnThisDay14June]
 <tr align="center">
 <td style="width:25%;"><a href="#summary">Summary</a></td>
 <td style="width:50%;"><a href="#lena-zavaronis-section-of-the-broadcast">Lena Zavaroni's Section Of The Broadcast</a></td>
-<td style="width:25%;"><a href="#am---fm">Am - FM</a></td>
+<td style="width:25%;"><a href="#am---fm">AM - FM</a></td>
 </tr>
 </table>
 
@@ -49,10 +49,10 @@ categories: [BBC-Radio-1, BBC-Radio-2, Junior-Choice, OnThisDay14June]
   <div><button onclick="document.getElementById('player').play()">Play</button><button onclick="document.getElementById('player').pause()">Pause</button><button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button><button onclick="document.getElementById('player').volume += 0.1">Vol +</button><button onclick="document.getElementById('player').volume -= 0.1">Vol -</button></div>
 </blockquote>
 
-### Am - FM
+### AM - FM
 > At the time of broadcast Radio 1 was only available on Medium Wave so when the BBC broadcasted some of its music programmes it also broadcasted them on Radio 2 VHF so that listeners with a VHF Radio could enjoy a higher quality of sound than was available on Medium Wave.
 >
-> Medium Wave makes use of amplitude modulation where as VHF makes use of frequency modulation.
+> Medium Wave makes use of Amplitude Modulation (AM) where as VHF makes use of Frequency Modulation (FM).
 
 <cite>Robcamstone</cite>
 
