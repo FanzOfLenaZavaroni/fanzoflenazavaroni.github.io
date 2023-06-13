@@ -11,7 +11,7 @@ categories: [Discography]
 
 <a href="/discography/tribute-songs/2008-09-01-fujiyaand-miyagi-knickerbocker">2008 &#8212; Fujiya & Miyagi - Knickerbocker</a>
 
-<a href="/discography/tribute-songs/2009-06-05-jimmy-scott-a-songwriters-notebook">2009 &#8212; Jimmy Scott A Songwriter's Notebook</a>
+<a href="/discography/tribute-songs/2009-06-01-jimmy-scott-a-songwriters-notebook">2009 &#8212; Jimmy Scott A Songwriter's Notebook</a>
 
 <a href="/discography/tribute-songs/2011-06-27-thelancashire-hotpots-achtung-gravy">2011 &#8212; The Lancashire Hotpots - Achtung Gravy</a>
 

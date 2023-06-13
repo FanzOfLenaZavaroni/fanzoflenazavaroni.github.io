@@ -7,7 +7,7 @@ description: Lena chats on the BBC Radio show presented by Ed Stewart.
 media: BBC Radio 1 & BBC Radio 2
 post_description: Lena chats on the BBC Radio show presented by Ed Stewart.
 image: /assets/images/radio/radio-tower-200x200.png
-categories: [BBC-Radio-1, BBC-Radio-2]
+categories: [BBC-Radio-1, BBC-Radio-2, Junior-Choice, OnThisDay14June]
 ---
 
 <table style="margin-bottom: 0;">
@@ -28,8 +28,8 @@ categories: [BBC-Radio-1, BBC-Radio-2]
 </tr>
 
 <tr align="center">
-<td colspan="2" style="width:50%;"><a href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1975-06-14#at-8.06">BBC Radio 1</a></td>
-<td style="width:50%;"><a href="https://genome.ch.bbc.co.uk/schedules/radio2/england/1975-06-14#at-8.06">BBC Radio 2</a></td>
+<td colspan="2" style="width:50%;"><a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_radio_one/1975-06-14#at-8.06">BBC Radio 1</a></td>
+<td style="width:50%;"><a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_radio_two/1975-06-14#at-8.06">BBC Radio 2</a></td>
 </tr>
 </table>
 
