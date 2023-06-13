@@ -8,7 +8,7 @@ description: This is the eleventh single by Lena Zavaroni.
 media: 7" Vinyl, 45 Single
 post_description: This is the eleventh single by Lena Zavaroni.
 image: /assets/images/singles/lena-zavaroni-roses-and-rainbows-president.jpg
-categories: [Discography, Singles, OnThisday3April]
+categories: [Discography, Singles, OnThisDay3April]
 permalink: /discography/singles/:name
 ---
 

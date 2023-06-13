@@ -7,7 +7,7 @@ subtitle: Lena Zavaroni's Fouth Single
 b-side: You're Never Too Old
 description: This is the Fouth single by Lena Zavaroni.
 post_description: This is the Fouth single by Lena Zavaroni.
-categories: [Discography, Singles, OnThisday28February]
+categories: [Discography, Singles, OnThisDay28February]
 permalink: /discography/singles/:name
 ---
 
