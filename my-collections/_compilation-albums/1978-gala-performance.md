@@ -6,6 +6,7 @@ maintitle: Gala Performance
 subtitle: Compilation Album
 description: This album had a pressing limit of 250,000
 image: /assets/images/albums/1978-various-artists-gala-performance-ab-fc.jpg
+last_modified_at: 15 June 2023
 ---
 
 <figure class="fig1">

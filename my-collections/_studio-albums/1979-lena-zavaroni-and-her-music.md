@@ -1,6 +1,7 @@
 ---
 layout: discography
 year: July 1979
+last_modified_at: 15 June 2023
 title: Lena Zavaroni And Her Music
 maintitle: Lena Zavaroni And Her Music
 subtitle: Studio Album

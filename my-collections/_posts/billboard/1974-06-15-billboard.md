@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Billboard &#124; 15 June 1974
 maintitle: Billboard
 subtitle: Newspaper

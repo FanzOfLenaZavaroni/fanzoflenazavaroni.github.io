@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Music Week &#124; 26 January 1974
 maintitle: Music Week
 subtitle: Magazine

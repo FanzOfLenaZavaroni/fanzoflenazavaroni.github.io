@@ -6,6 +6,7 @@ maintitle: The Lena Zavaroni Collection
 subtitle: Compilation Album
 description: Pickwick released a two record set. made up of Lena's first two albums
 image: /assets/images/albums/The-Lena-Zavaroni-Collection.jpeg
+last_modified_at: 15 June 2023
 ---
 
 In 1974 Pickwick released a two record set made up of Lena's first two albums.

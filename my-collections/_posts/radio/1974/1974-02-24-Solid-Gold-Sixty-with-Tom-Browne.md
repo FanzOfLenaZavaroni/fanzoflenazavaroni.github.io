@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Solid Gold Sixty with Tom Browne &#124; 24 February 1974
 maintitle: Solid Gold Sixty with Tom Browne
 subtitle: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the top 20)

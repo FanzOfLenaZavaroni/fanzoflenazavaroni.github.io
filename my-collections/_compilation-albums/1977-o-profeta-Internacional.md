@@ -6,6 +6,7 @@ maintitle: O Profeta - Internacional
 subtitle: Compilation Album
 description: Original International Soundtrack from O profeta (Tupi TV, 1977/1978).
 image: /assets/images/albums/o-profeta-internacional-1977.jpg
+last_modified_at: 15 June 2023
 ---
 
 <figure class="fig1" id="BBC">

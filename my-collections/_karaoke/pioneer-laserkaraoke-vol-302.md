@@ -6,6 +6,7 @@ maintitle: "LaserKaraoke: Vol.302 [WKL-302]"
 subtitle:  Video Sing Along
 description: Video Sing Along
 image: /assets/images/karaoke/pioneer-laserkaraoke-vol-302.jpg
+last_modified_at: 15 June 2023
 ---
 
 <figure class="fig1">

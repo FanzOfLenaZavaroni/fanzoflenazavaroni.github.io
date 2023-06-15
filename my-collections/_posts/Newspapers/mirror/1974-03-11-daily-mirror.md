@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Daily Mirror &#124; 11 March 1974
 maintitle: Daily Mirror
 subtitle: Ma .. those movie men are making eyes at me

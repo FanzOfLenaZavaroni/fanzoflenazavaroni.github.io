@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Merv Griffin Show &#124; 14 June 1974
 maintitle: Merv Griffin Show
 subtitle: Season 11

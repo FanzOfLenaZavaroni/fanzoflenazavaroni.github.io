@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Golden Shot &#124; 31 March 1974
 maintitle: Golden Shot 
 subtitle: Associated Television (ATV)

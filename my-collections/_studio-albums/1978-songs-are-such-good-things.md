@@ -1,6 +1,7 @@
 ---
 layout: discography
 year: April 1978
+last_modified_at: 15 June 2023
 title: Songs Are Such Good Things
 maintitle: Songs Are Such Good Things
 subtitle: Studio Album

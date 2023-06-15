@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Top 20 with Tom Browne &#124; 24 March 1974
 maintitle: Top 20 with Tom Browne
 subtitle: From today the Solid-Gold-Sixty AKA the Top 60 was dropped and only the Top 20 was broadcast by the BBC on Radio 1 Medium Wave & Radio 2 VHF
