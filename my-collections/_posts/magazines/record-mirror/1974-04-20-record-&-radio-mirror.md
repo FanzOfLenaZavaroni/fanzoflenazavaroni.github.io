@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Record and Radio Mirror &#124; 20 April 1974
 maintitle: Record and Radio Mirror
 subtitle: "Lena's single Ma! (He's Making Eyes At Me) moves down the charts from number 38 to number 44 but this addition of the magazine has an error in it, in that it published the chart listing for the 13 April 1974 instead of the listing for the 20 April 1974"

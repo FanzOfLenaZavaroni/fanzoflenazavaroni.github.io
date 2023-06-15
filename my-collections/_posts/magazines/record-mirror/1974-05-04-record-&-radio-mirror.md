@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Record and Radio Mirror &#124; 4 May 1974
 maintitle: Record and Radio Mirror
 subtitle: Lena's Trip - Lena Zavaroni, the 10-year-old Opportunity Knocks discovery and hit recorder of Ma! (He's Making Eyes At Me), leaves for America this week for a promotional visit including appearcences on the Johnny Carson and Johnny DouglasTV Shows.

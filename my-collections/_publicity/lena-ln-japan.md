@@ -7,6 +7,7 @@ description: Lena's Visit To Japan in 1974
 media: Photos
 post_description: Lena's Visit To Japan in 1974
 categories: [Publicity, Japan]
+last_modified_at: 15 June 2023
 ---
 
 [![](/assets/images/publicity/lena-ln-japan/273634_orig.jpg){: .sq}{: .left-np}{: .margin-right}{: .margin-bottom}{: .zoom-in}](/assets/images/publicity/lena-ln-japan/273634_orig.jpg)

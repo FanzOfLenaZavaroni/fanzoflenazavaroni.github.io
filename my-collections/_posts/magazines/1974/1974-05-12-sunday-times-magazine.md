@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: The Sunday Times Magazine &#124; 12 May 1974
 maintitle: The Sunday Times Magazine
 subtitle: Supplement

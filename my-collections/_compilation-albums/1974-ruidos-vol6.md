@@ -6,6 +6,7 @@ maintitle: RUIDOS vol 6
 subtitle: Compilation Album
 description: Compilation Album
 image: /assets/images/albums/ruidos-vol6-fc.jpg
+last_modified_at: 15 June 2023
 ---
 
 <figure class="fig1">

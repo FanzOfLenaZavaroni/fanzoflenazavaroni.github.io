@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Variety &#124; 24 May 1974
 maintitle: Variety
 subtitle: Magazine

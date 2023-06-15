@@ -1,6 +1,7 @@
 ---
 layout: discography
 year: 1974
+last_modified_at: 15 June 2023
 title: If My Friends Could See Me Now
 maintitle: If My Friends Could See Me Now
 subtitle: Studio Album

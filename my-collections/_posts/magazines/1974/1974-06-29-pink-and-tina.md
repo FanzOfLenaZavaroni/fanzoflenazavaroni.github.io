@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: pink & tina &#124; 29 June 1974
 maintitle: pink & tina
 subtitle: The Magazine carried a short article about Lena Zavaroni.

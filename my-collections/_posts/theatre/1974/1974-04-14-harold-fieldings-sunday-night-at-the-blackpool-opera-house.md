@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Harold Fielding's Sunday Night at the Blackpool Opera House &#124; 14 April 1974
 maintitle: Harold Fielding's Sunday Night at the Blackpool Opera House
 subtitle: Starring Lena Zavaroni

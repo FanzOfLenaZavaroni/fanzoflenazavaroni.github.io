@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Biography &#124; Hughie Green
 maintitle: Hughie Green
 more: Born - 3 May 1997 Died (aged 77)

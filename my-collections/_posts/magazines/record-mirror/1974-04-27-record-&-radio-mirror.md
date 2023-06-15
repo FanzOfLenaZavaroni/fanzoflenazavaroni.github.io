@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Record and Radio Mirror &#124; 27 April 1974
 maintitle: Record and Radio Mirror
 subtitle: "After the error in last week addition of the magazine it published the following: LAST WEEK: Chart compilers, facts from last week. Artists dropping out from last week: Lena Zavaroni, 44: Doobie Bros 40: Suzi Quatro 49: Ann Peebies"

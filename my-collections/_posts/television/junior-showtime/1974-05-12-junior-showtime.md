@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Junior Showtime &#124; 12 May 1974
 maintitle: Junior Showtime
 subtitle: Lena Zavaroni makes an appearance on the show.

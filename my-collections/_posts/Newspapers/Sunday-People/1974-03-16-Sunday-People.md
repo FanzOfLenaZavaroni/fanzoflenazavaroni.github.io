@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Sunday People &#124; 16 March 1975
 maintitle: Sunday People
 subtitle: Pick of the Day

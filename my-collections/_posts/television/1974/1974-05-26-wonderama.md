@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: 15 June 2023
 title: Wonderama &#124; 26 May 1974
 maintitle: Wonderama
 subtitle: The Bob McAllister Years

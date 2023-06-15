@@ -1,5 +1,6 @@
 ---
 layout: page
+last_modified_at: 15 June 2023
 title: Biography &#124; Dougie Squires
 maintitle: Dougie Squires
 position: Choreographer
