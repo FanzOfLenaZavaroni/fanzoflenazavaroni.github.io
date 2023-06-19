@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Orphaned Comments &#124; 20 June 2022
-maintitle: Orphaned Comments
+title: Orphaned Comment &#124; 20 June 2022
+maintitle: Orphaned Comment
 subtitle: 
-more: Recreation of comment left on the 20 June 2020 related to The Lena Zavaroni Show dated 11 September 1982
-description: I have started to recreate the comments as best I can from the email versions of the comments I have.
-post_description: I have started to recreate the comments as best I can from the email versions of the comments I have.
+more: Recreation of comment left on the 20 June 2020
+description: This comment relates to The Lena Zavaroni Show dated 11 September 1982
+post_description: This comment relates to The Lena Zavaroni Show dated 11 September 1982
 categories: [Orphaned-Comments, OnThisDay20June]
 last_modified_at: 19 June 2023
 ---
@@ -18,7 +18,7 @@ last_modified_at: 19 June 2023
 <p>That is why I have defined them as Orphaned Comments.</p>
 </div>
 
-<h3 id="orphaned"><a href="#orphaned">Orphaned Comment(s)</a></h3>
+<h3 id="orphaned"><a href="#orphaned">Orphaned Comment</a></h3>
 
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/54290841" class="shape"/>From <a class="link" href="https://github.com/StephenMolloy1">Stephen Molloy</a> - Date 20 June 2020 at 17:45:07 BST</p>
