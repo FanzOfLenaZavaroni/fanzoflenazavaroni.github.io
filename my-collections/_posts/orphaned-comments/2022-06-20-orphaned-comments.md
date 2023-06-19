@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Orphaned Comments &#124; 20 June 2020
+title: Orphaned Comments &#124; 20 June 2022
 maintitle: Orphaned Comments
-subtitle: OnThisDay 4 June
+subtitle: 
+more: Recreation of comment left on the 20 June 2020 related to The Lena Zavaroni Show - 11 September 1982
 description: I have started to recreate the comments as best I can from the email versions of the comments I have.
 post_description: I have started to recreate the comments as best I can from the email versions of the comments I have.
 categories: [Orphaned-Comments, OnThisDay20June]
+last_modified_at: 19 June 2023
 ---
 
 <div class="discussions">
