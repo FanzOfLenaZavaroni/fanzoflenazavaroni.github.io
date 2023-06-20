@@ -15,7 +15,7 @@ Lena Zavaroni was taken ill and so the Bachelors stood in for her.
 
 **Note:** Like Lena Zavaroni The Bachelors were managed by the Solomon's.
 
-Also See [Orphaned Comment(s)](/2022-06-20-orphaned-comments) orignally posted on 20 June 2020 recreated on the 20 June 2022.
+Also See [Orphaned Comment](/2022-06-20-orphaned-comments) orignally posted on 20 June 2020 recreated on the 20 June 2022.
 
 ### Facebook Post
 <div id="fb-root"></div>
