@@ -7,7 +7,7 @@ description: Lennie Bennett and Jerry Stevens with guests Lena Zavaroni, Fredian
 media: BBC One
 post_description: Lennie Bennett and Jerry Stevens with guests Lena Zavaroni, Frediani (the world's fastest juggler) and (the Boogie-Woogie duo) Che and Ray.
 image: /assets/images/BBC/1978-06-24-lennie-and-jerry-01.jpg
-categories: [BBC-One]
+categories: [BBC-One, Lennie-And-Jerry, OnThisDay24June]
 ---
 
 <table>
