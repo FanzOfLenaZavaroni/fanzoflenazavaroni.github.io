@@ -3,11 +3,11 @@ layout: post
 title: The Lena Zavaroni Show &#124; 24 June 1978
 maintitle: The Lena Zavaroni Show
 subtitle: The Odeon Theatre, Woolwich, London
-description: The title "The Lena Zavaroni Show" is a generic name this website uses for shows Starring Lena Zavaroni that had no known show title for the theatre at which Lena was appearing.
-media: The Odeon Theatre, Woolwich, London
+description: 
 post_description: The title "The Lena Zavaroni Show" is a generic name this website uses for shows Starring Lena Zavaroni that had no known show title for the theatre at which Lena was appearing.
 image: https://live.staticflickr.com/2294/1730226155_cfc3a96710_n_d.jpg
 categories: [Theatre, The-Lena-Zavaroni-Show, OnThisDay24June]
+last_modified_at: 24 June 2023
 ---
 
 <figure class="fig3">
