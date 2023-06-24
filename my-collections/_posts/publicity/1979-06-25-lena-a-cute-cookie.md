@@ -1,13 +1,13 @@
 ---
 layout: publicity-photos
-title: Publicity &#124; Photo &#124; 25 June 1979  &#124; Lena Zavaroni and Music - Episode 6 and The Lena Zavaroni Show - Spa Theatre, Bridlington
-maintitle: Publicity
-subtitle: Photo
-description: Publicity Lena Zavaroni and Music - Episode 6 and The Lena Zavaroni Show - Spa Theatre, Bridlington.
-media: Publicity Photo
+title: Universal Pictorial Press Publicity Photo &#124; 25 June 1979  &#124; Lena Zavaroni and Music - Episode 6 and The Lena Zavaroni Show - Spa Theatre, Bridlington
+maintitle: Universal Pictorial Press Publicity Photo
+subtitle: Lena Zavaroni and Music - Episode 6 and The Lena Zavaroni Show - Spa Theatre, Bridlington
+description: Lena Zavaroni and Music - Episode 6 and The Lena Zavaroni Show - Spa Theatre, Bridlington.
 post_description: Lena Zavaroni and Music - Episode 6 and The Lena Zavaroni Show - Spa Theatre, Bridlington.
 image: /assets/images/publicity/1979-06-25-lena-zavaroni-front.jpg
 categories: [Publicity, Spa-Theatre, Bridlington, Lena-Zavaroni-and-Music, OnThisDay25June]
+last_modified_at: 24 June 2023
 ---
 
 <figure class="fig1">
