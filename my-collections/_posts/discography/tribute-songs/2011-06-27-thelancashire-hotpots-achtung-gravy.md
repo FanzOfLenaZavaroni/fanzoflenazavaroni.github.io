@@ -21,6 +21,18 @@ last_modified_at: 25 June 2023
 </div>
 <cite>Track 12 - Lucy Meacock makes a reference to Lena Zavaroni's interview on [The Lucy Meacock Show](/1992-03-02-the-lucy-meacock-show).</cite>
 
+
+<h2 id="details"><a href="#details">Details</a></h2>
+<table>
+<tr><th style="width:50%">Artist:</th><td>The Lancashire Hotpots</td></tr>
+<tr><th>Album:</th><td>Achtung Gravy</td></tr>
+<tr><th>Label:</th><td>Fuss Records: 	TOWN50</td></tr>
+<tr><th>Formats:</th><td>Audio CD</td></tr>
+<tr><th>Country:</th><td>UK</td></tr>
+<tr><th>Released:</th><td>27 June 2011</td></tr>
+<tr><th>45worlds CD Albums</th><td><a href="https://www.45worlds.com/cdalbum/cd/town50">TOWN50</a></td></tr>
+</table>
+
 <h2 id="tracks"><a href="#tracks">Tracks</a></h2>
 <table>
 <tr><th>01</th><td>Mek Us a Brew</td></tr>
