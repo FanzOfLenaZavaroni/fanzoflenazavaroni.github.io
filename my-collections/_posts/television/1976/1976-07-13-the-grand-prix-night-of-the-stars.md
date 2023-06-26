@@ -3,11 +3,12 @@ layout: post
 title: The Grand Prix Night of the Stars &#124; 15 July 1976
 maintitle: The Grand Prix Night of the Stars
 subtitle: The Royal Albert Hall, London
+more: Recorded for broadcast on BBC One at 20:00Hrs 0n 15 July 1976
 description: In the week of Britain's round of the World Motor Racing Championship - The British Grand Prix stars from the world of entertainment and the world's top Grand Prix drivers share the stage at the Royal Albert Hall. Lena performs a live version of This Is My Song, and is then serenaded by Henry Cooper and Barrie Gill, with their version of Lena, My Little Honey Lena.
-media: BBC One
-post_description: In the week of Britain's round of the World Motor Racing Championship - The British Grand Prix stars from the world of entertainment and the world's top Grand Prix drivers share the stage at the Royal Albert Hall. Lena performs a live version of This Is My Song, and is then serenaded by Henry Cooper and Barrie Gill, with their version of Lena, My Little Honey Lena.
+post_description: Lena Zavaroni was one of many stars to perform.
 image: /assets/images/BBC/1976-07-15-the-grand-prix-night-of-the-stars.jpg
-categories: [BBC-One]
+categories: [BBC-One, Royal-Albert-Hall, London, OnThisDay13July, OnThisDay15July]
+last_modified_at: 26 June 2023
 ---
 
 <table style="text-align:center;">
@@ -69,12 +70,4 @@ categories: [BBC-One]
 <tr><th>Sound</th><td>Chris Holcombe</td></tr>
 <tr><th>Production Company</th><td>BBC</td></tr>
 </table>
-
-<style>
-.dt-published {display: none;}
-.post-meta:after {content: "Recorded on 13 July 1976 for broadcast on BBC One at 20:00Hrs 0n 15 July 1976";}
-.height-adjust1 {width:auto; height:350px;}
-.height-adjust2 {width:auto; height:307px;}
-.adjust {margin-left:340px;}
-</style>
 
