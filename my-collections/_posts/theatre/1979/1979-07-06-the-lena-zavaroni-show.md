@@ -3,11 +3,13 @@ layout: post
 title: The Lena Zavaroni Show &#124; 6 July to 8 September 1979
 maintitle: The Lena Zavaroni Show
 subtitle: Spa Theatre, Bridlington
+more: "to 8 September 1979"
 description: 6 July to 8 September 1979.
 image: /assets/images/theatres/Bridlington-01.jpg
 media: Spa Theatre, Bridlington
 post_description: With Cannon and Ball, Bernard Flint, ETC.
-categories: [Theatre, Spa-Theatre, Bridlington, The-Lena-Zavaroni-Show]
+categories: [Theatre, Spa-Theatre, Bridlington, The-Lena-Zavaroni-Show, OnThisDay6July, OnThisDay8September]
+last_modified_at: 26 June 2023
 ---
 
 ### Programme
@@ -51,11 +53,4 @@ categories: [Theatre, Spa-Theatre, Bridlington, The-Lena-Zavaroni-Show]
 
 ### Related Publicity Photo
 <span class="post-categories">[25 June 1979](/1979-06-25-lena-a-cute-cookie)</span>
-
-<style>
-.dt-published {display: none;}
-.post-meta:after {content: "6 July to 8 September 1979";}
-.height-adjust1 {width:auto; height:350px;}
-.height-adjust2 {width:auto; height:307px;}
-</style>
 

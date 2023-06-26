@@ -3,14 +3,16 @@ layout: post
 title: Summer With The Stars &#124; 15, 16 & 17 July 1982
 maintitle: Summer With The Stars
 subtitle: Cliffs Pavilion, Southend
+more: to 17 July 1982
 description: Starring Lena Zavaroni for three nights 15, 16 & 17 July 1982 at 6.15pm and 8.45pm
 media: Cliffs Pavilion, Southend
-post_description: Starring Lena Zavaroni for three nights 15, 16 & 17 July 1982 at 6.15pm and 8.45pm.
+post_description: Starring Lena Zavaroni for three nights.
 image: /assets/images/locations/geograph-734107-by-John-Allan.jpg
-categories: [Theatre, Southend]
+categories: [Theatre, Cliffs Pavilion, Southend, OnThisDay15July, OnThisDay17July]
+last_modified_at: 26 June 2023
 ---
 
-### Starring Lena Zavaroni for three nights 15, 16 & 17 July 1982 at 6.15pm and 8.45pm
+### Starring Lena Zavaroni for three nights
 
 <figure class="fig3">
 <img src="/assets/images/locations/geograph-734107-by-John-Allan.jpg" class="full-width"/>
@@ -20,24 +22,4 @@ categories: [Theatre, Southend]
 </figure>
 
 <br />{: .clear}
-
-<style>
-.dt-published {display: none;}
-
-.post-meta:after {content: "15, 16 & 17 July 1982";}
-
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1 {float:left; width:100%;}
-.fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
