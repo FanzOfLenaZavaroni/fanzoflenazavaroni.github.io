@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1978-07-08-emma.md, 1978-07-15-emma.md, and 46 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/332a5f8ae852af9372c8ae0d3d65f36897061852)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d47a7908ab76d2e55adbbb9105713773630f3574)
 - [Update 2011-06-27-thelancashire-hotpots-achtung-gravy.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/af8b995f1960e9dc2f2313457e292d3575dbcad6)
 - [Update 2011-06-27-thelancashire-hotpots-achtung-gravy.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8cce69b159882371ac50642610889c8e6aefd58d)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bb94c60a0c7690b65229a28cc87fa44c8e4dcb2e)
-- [Update 2011-06-27-thelancashire-hotpots-achtung-gravy.md, 1979-06-25-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e1123fb4c7bdd4cd3a493812272c793ade438a32)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ecc3f1aeafd3b351e295276aa79e3ce497da9451)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
