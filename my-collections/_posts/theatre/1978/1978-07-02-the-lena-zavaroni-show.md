@@ -13,11 +13,12 @@ last_modified_at: 2 July 2023
 ---
 
 <figure class="fig1">
+<h3 id="programme"><a href="#programme">PROGRAMME COVER</a></h3>
 <img src="/assets/images/theatres/1978-07-02-the-lena-zavaroni-show-01.jpg" class="full-width" />
 </figure>
 
 <figure class="fig2">
-<h3 id="programme"><a href="programme">PROGRAMME</a></h3>
+<h3 id="details"><a href="#details">PROGRAMME DETAILS</a></h3>
 <ul>  
 <li>David Harrison and his music</li>
 <li>Bobby Bragg - your host and compère</li>
@@ -25,14 +26,14 @@ last_modified_at: 2 July 2023
 <li>Brian Miller & Audrey - the international magical entertainers</li>
 <li>Gordon Turner - the West End cabaret enterainer</li>
 </ul>
-<h3 id="intermission"><a href="intermission">INTERMISSION</a></h3>
+<h3 id="intermission"><a href="#intermission">INTERMISSION</a></h3>
 <ul>
 <li>David Harrison and his music</li>
 <li>Bobby Bragg - laughter is the name of the game</li>
 <li>LENA ZAVARONI - the young dynamic singing star</li>
 <li>The National Anthem</li>
 </ul>
-<h3 id="council"><a href="council">Hastings Borough Council</a></h3>
+<h3 id="council"><a href="#council">Hastings Borough Council</a></h3>
 <ul>
 <li>Phil Cronk - Stage Manager</li>
 </ul>
