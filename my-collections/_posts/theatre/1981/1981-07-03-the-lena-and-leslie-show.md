@@ -3,23 +3,24 @@ layout: post
 title: The Lena and Leslie Show &#124; 3 July 1981
 maintitle: The Lena and Leslie Show
 subtitle: Gloucester Hall, Fort Regent, St Helier, Jersey
+more: one show at 20:30 and on the 4 July two shows at 19:00 and 21:30
 description: Two nights of entertainment at Gloucester Hall in Fort Regent featuring the Lena and Leslie Show, with performances by Lena Zavaroni, Leslie Crowther and the Gary Lloyd Orchestra.
 media: Gloucester Hall, Fort Regent, St Helier, Jersey
 post_description: featuring Lena Zavaroni, Leslie Crowther and the Gary Lloyd Orchestra.
-image: /assets/images/theatres/Gloucester_Hall_plaque_Fort_Regent_Jersey.jpg
-categories: [Theatre, The-Lena-and-Leslie-Show, OnThisDay3July]
+image: /assets/images/theatres/1981-07-03-the-lena-and-leslie-show.jpg
+categories: [Theatre, The-Lena-and-Leslie-Show, OnThisDay3July, OnThisDay4July]
 ---
 
-<figure class="fig3" id="plaque">
+<figure class="fig1">
 <figcaption>
-<h3>Plaque</h3>
+<h3 id="flyer"><a href="flyer">Flyer</a></h3>
 </figcaption>
-<a href="/assets/images/theatres/Gloucester_Hall_plaque_Fort_Regent_Jersey.jpg"><img src="/assets/images/theatres/Gloucester_Hall_plaque_Fort_Regent_Jersey.jpg" class="full-width zoom-in"></a>
+<a href="/assets/images/theatres/1981-07-03-the-lena-and-leslie-show.jpg"><img src="/assets/images/theatres/1981-07-03-the-lena-and-leslie-show.jpg" class="full-width zoom-in"></a>
 </figure>
 
-<figure class="fig3" id="details">
+<figure class="fig2">
 <figcaption>
-<h3>Details</h3>
+<h3 id="details"><a href="details">Details</a></h3>
 </figcaption>
 <table>
 <tr><th>Starring</th><td>Lena Zavaroni</td></tr>
@@ -32,21 +33,3 @@ categories: [Theatre, The-Lena-and-Leslie-Show, OnThisDay3July]
 
 <br />{: .clear}
 
-<style>
-.dt-published {display: none;}
-.post-meta:after {content: "3 & 4 July 1981";}
-.height-adjust1 {width:auto; height:350px;}
-.height-adjust2 {width:auto; height:307px;}
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
