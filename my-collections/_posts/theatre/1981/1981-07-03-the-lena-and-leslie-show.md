@@ -13,14 +13,14 @@ categories: [Theatre, The-Lena-and-Leslie-Show, OnThisDay3July, OnThisDay4July]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="flyer"><a href="flyer">Flyer</a></h3>
+<h3 id="flyer"><a href="#flyer">Flyer</a></h3>
 </figcaption>
 <a href="/assets/images/theatres/1981-07-03-the-lena-and-leslie-show.jpg"><img src="/assets/images/theatres/1981-07-03-the-lena-and-leslie-show.jpg" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="details"><a href="details">Details</a></h3>
+<h3 id="details"><a href="#details">Details</a></h3>
 </figcaption>
 <table>
 <tr><th>Starring</th><td>Lena Zavaroni</td></tr>
