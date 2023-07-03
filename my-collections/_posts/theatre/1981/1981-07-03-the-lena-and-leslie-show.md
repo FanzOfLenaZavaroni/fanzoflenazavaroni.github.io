@@ -9,6 +9,7 @@ media: Gloucester Hall, Fort Regent, St Helier, Jersey
 post_description: featuring Lena Zavaroni, Leslie Crowther and the Gary Lloyd Orchestra.
 image: /assets/images/theatres/1981-07-03-the-lena-and-leslie-show.jpg
 categories: [Theatre, The-Lena-and-Leslie-Show, OnThisDay3July, OnThisDay4July]
+last_modified_at: 3 July 2023
 ---
 
 <figure class="fig1">
