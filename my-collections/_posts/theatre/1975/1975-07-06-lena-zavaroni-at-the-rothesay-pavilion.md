@@ -8,10 +8,11 @@ media: Note
 post_description: The Pavilion was the location Lena Zavaroni first performed to Phil Solomon in 1973.
 image: /assets/images/theatres/1975-07-06-rothesay-pavilion-ticket.jpg
 categories: [Theatre, Rothesay-Pavilion, The-Lena-Zavaroni-Show, OnThisDay6July]
+last_modified_at: 4 July 2023
 ---
 
 <figure class="fig3">
-<strong>Note:</strong> The Rothesay Pavilion was the location Lena Zavaroni first performed to <a href="/biography/lena-zavaroni#tommy-scott">Phil Solomon</a> in 1973.
+<strong>Note:</strong> The Rothesay Pavilion was the location Lena Zavaroni first performed to <a href="/1963-11-04-lena-zavaroni/#tommy-scott">Phil Solomon</a> in 1973.
 </figure>
 
 <figure class="fig1">
@@ -24,11 +25,3 @@ categories: [Theatre, Rothesay-Pavilion, The-Lena-Zavaroni-Show, OnThisDay6July]
 
 <br />{: .clear}
 
-<style>
-.fig1 {width:44.6%;}
-.fig2 {width:53.4%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%; margin-bottom:30px;}
-}
-</style>
