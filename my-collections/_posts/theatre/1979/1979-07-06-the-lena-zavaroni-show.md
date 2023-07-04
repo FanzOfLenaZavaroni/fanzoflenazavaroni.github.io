@@ -9,48 +9,97 @@ image: /assets/images/theatres/Bridlington-01.jpg
 media: Spa Theatre, Bridlington
 post_description: With Cannon and Ball, Bernard Flint, ETC.
 categories: [Theatre, Spa-Theatre, Bridlington, The-Lena-Zavaroni-Show, OnThisDay6July, OnThisDay8September]
-last_modified_at: 26 June 2023
+last_modified_at: 4 July 2023
 ---
 
-### Programme
+<figure class="fig1">
+<h3 id="flyer"><a href="#flyer">Flyer</a></h3>
+<img src="/assets/images/theatres/Bridlington-03.jpg" class="full-width" />
+</figure>
 
-![Programme Cover](/assets/images/theatres/Bridlington-01.jpg "Programme Cover"){: .height-adjust1}
-![Programme Details](/assets/images/theatres/Bridlington-02.jpg "Programme Details"){: .height-adjust1}
+<figure class="fig2">
+<h3 id="cover"><a href="#cover">Programme Cover</a></h3>
+<img src="/assets/images/theatres/Bridlington-01.jpg" class="full-width" />
+</figure>
 
-<table style="table-layout:fixed;">
-<tr><th>PROGRAMME A</th><th>PROGRAMME B</th></tr>
-<tr><td>Mondays, Tuesdays, Wednesdays, Fridays</td><td>Thursdays and Saturdays</td></tr>
-<tr><td>OVERTURE</td><td>OVERTURE</td></tr>
-<tr><td>DOUGIE SQUIRES' SECOND GENERATION</td><td>DOUGIE SQUIRES' SECOND GENERATION</td></tr>
-<tr><td>STU FRANCIS</td><td>STU FRANCIS</td></tr>
-<tr><td>JOHN CHISOLM presents Roger Stevenson's Puppets</td><td>JOHN CHISOLM presents Roger Stevenson's Puppets</td></tr>
-<tr><td>DOUGIE SQUIRES' SECOND GENERATION</td><td>DOUGIE SQUIRES' SECOND GENERATION</td></tr>
-<tr><td>BERNI FLINT</td><td>STU FRANCIS</td></tr>
-<tr><td>CANNON And BALL</td><td>LENA ZAVARONI</td></tr>
-<tr><td>INTERVAL</td><td>INTERVAL</td></tr>
-<tr><td>DOUGIE SQUIRES' SECOND GENERATION</td><td>DOUGIE SQUIRES' SECOND GENERATION</td></tr>
-<tr><td>STU FRANCIS</td><td>STU FRANCIS</td></tr>
-<tr><td>LENA ZAVARONI</td><td>BERNI FLINT</td></tr>
-<tr><td>FINALE</td><td>CANNON And BALL</td></tr>
-<tr><td></td><td>FINALE</td></tr>
+{: .clear}
+
+<figure class="fig3">
+<h3 id="details"><a href="#details">Programme Details</a></h3>
+<img src="/assets/images/theatres/Bridlington-02.jpg" class="full-width" />
+</figure>
+
+{: .clear}
+
+<figure class="fig1">
+<table>
+<tr><th id="a"><a href="#a">PROGRAMME A</a></th></tr>
+<tr><td>Mondays, Tuesdays, Wednesdays, Fridays</td></tr>
+<tr><td>OVERTURE</td></tr>
+<tr><td>DOUGIE SQUIRES' SECOND GENERATION</td></tr>
+<tr><td>STU FRANCIS</td></tr>
+<tr><td>JOHN CHISOLM presents Roger Stevenson's Puppets</td></tr>
+<tr><td>DOUGIE SQUIRES' SECOND GENERATION</td></tr>
+<tr><td>BERNI FLINT</td></tr>
+<tr><td>CANNON And BALL</td></tr>
+<tr><td>INTERVAL</td></tr>
+<tr><td>DOUGIE SQUIRES' SECOND GENERATION</td></tr>
+<tr><td>STU FRANCIS</td></tr>
+<tr><td>LENA ZAVARONI</td></tr>
+<tr><td>FINALE</td></tr>
 </table>
+</figure>
 
-### Performances by Lena Zavaroni include
-* A Tribute To The Young Talent Of Yesteryear
-* I Dance All Night
-* I Can't Stop Dancing
-* I've Got The Music In Me
-* Ma! He's Making Eyes At Me
-* Bright Eyes
-* Alexanders Ragtime Band
+<figure class="fig2">
+<table>
+<tr><th id="b"><a href="#b">PROGRAMME B</a></th></tr>
+<tr><td>Thursdays and Saturdays</td></tr>
+<tr><td>OVERTURE</td></tr>
+<tr><td>DOUGIE SQUIRES' SECOND GENERATION</td></tr>
+<tr><td>STU FRANCIS</td></tr>
+<tr><td>JOHN CHISOLM presents Roger Stevenson's Puppets</td></tr>
+<tr><td>DOUGIE SQUIRES' SECOND GENERATION</td></tr>
+<tr><td>STU FRANCIS</td></tr>
+<tr><td>LENA ZAVARONI</td></tr>
+<tr><td>INTERVAL</td></tr>
+<tr><td>DOUGIE SQUIRES' SECOND GENERATION</td></tr>
+<tr><td>STU FRANCIS</td></tr>
+<tr><td>BERNI FLINT</td></tr>
+<tr><td>CANNON And BALL</td></tr>
+<tr><td>FINALE</td></tr>
+</table>
+</figure>
+
+{: .clear}
+
+<figure class="fig3">
+<h3 id="included"><a href="#included">Performances by Lena Zavaroni included</a></h3>
+<ul>
+<li>A Tribute To The Young Talent Of Yesteryear</li>
+<li>I Dance All Night</li>
+<li>I Can't Stop Dancing</li>
+<li>I've Got The Music In Me</li>
+<li>Ma! He's Making Eyes At Me</li>
+<li>Bright Eyes</li>
+<li>Alexanders Ragtime Band</li>
+</ul>
+</figure>
+
+{: .clear}
 
 <!-- ![Lena Outside The Spa Theatre, Bridlington](/assets/images/theatres/Lena Outside The Spa Theatre.jpg) -->
 
-### Flyer and Example Of The Postmark Used To Promote The Show
+<figure class="fig3">
+<h3 id="postmark"><a href="#postmark">An Example Of The Postmark Used To Promote The Show</a></h3>
+<a href="/assets/images/theatres/Bridlington-04.jpg"><img src="/assets/images/theatres/Bridlington-04.jpg" class="full-width zoom-in" /></a>
+</figure>
 
-![Flyer](/assets/images/theatres/Bridlington-03.jpg "Flyer"){: .height-adjust2}
-[![Postmarked Envelope Promoting The Show](/assets/images/theatres/Bridlington-04.jpg "Postmarked Envelope Promoting The Show"){: .height-adjust2}{: .zoom-in}](/assets/images/theatres/Bridlington-04.jpg)
+{: .clear}
 
-### Related Publicity Photo
-<span class="post-categories">[25 June 1979](/1979-06-25-lena-a-cute-cookie)</span>
+<figure class="fig3">
+<h3 id="publicity"><a href="#publicity">Also See The Related Publicity Photo</a></h3>
+<a href="/1979-06-25-lena-a-cute-cookie"> 25 June 1979 - LENA... A CUTE COOKIE</a>
+</figure>
+
+<br />{: .clear}
 
