@@ -4,10 +4,9 @@ title: Lena Zavaroni At The Futurist Theatre, Scarborough &#124; 18 July 1976
 maintitle: The Futurist Theatre, Scarborough
 subtitle: Starring Lena Zavaroni
 description: Lena Zavaroni At The Futurist Theatre, Scarborough
-media: Yorkshire
 post_description: Starring Lena Zavaroni.
 image: /assets/images/locations/the-futurist-theatre.jpg
-categories: [Theatre, Futurist-Theatre]
+categories: [Theatre, Futurist-Theatre, OnThisDay18July]
 ---
 
 <figure class="fig3">
@@ -36,20 +35,4 @@ categories: [Theatre, Futurist-Theatre]
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1 {float:left; width:100%;}
-.fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
