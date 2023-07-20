@@ -16,7 +16,7 @@ Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 </figure>
 
 * —— **Guest Star:** Lena Zavaroni.
-* —— **Theatre Producer:** [Harold Fielding](/biography/harold-fielding).
+* —— **Theatre Producer:** [Harold Fielding](/1916-12-04-harold-fielding).
 * —— **Contract Signatory:** Victor Zavaroni director of Lena Zavaroni Public Limited Company (PLC).
      * —— It is interesting to note Victor Zavaroni signed contracts for Lena and not Dorothy and/or Phil Solomon who where meant to be her managerment team and shows that Victor was more involved in Lena's career than we may think.
 
@@ -44,19 +44,4 @@ Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
