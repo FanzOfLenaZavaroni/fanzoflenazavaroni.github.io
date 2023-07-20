@@ -7,7 +7,8 @@ description: Two shows at 6.10pm and 8.20pm plus a rehearsal at 2.30pm The Contr
 media: Show Times
 post_description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 image: /assets/images/theatres/1978-07-23-programme-cover.jpg
-categories: [Theatre, Blackpool-Opera-House, Harold-Fielding]
+categories: [Theatre, Blackpool-Opera-House, Harold-Fielding, OnThisDay23July]
+last_modified_at: 20 July 2023
 ---
 
 <figure class="fig3">
