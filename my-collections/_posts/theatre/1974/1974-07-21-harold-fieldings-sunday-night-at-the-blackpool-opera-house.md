@@ -7,7 +7,7 @@ description: Two shows at 6.10pm and 8.20pm
 media: Show Times
 post_description: Two shows at 6.10pm and 8.20pm
 image: /assets/images/theatres/1974-07-21-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.png
-categories: [Theatre, Blackpool-Opera-House, Harold-Fielding]
+categories: [Theatre, Blackpool-Opera-House, Harold-Fielding, OnThisDay21July]
 ---
 
 <figure class="fig3">
@@ -42,18 +42,3 @@ Two shows at 6.10pm and 8.20pm
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
