@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1978-07-23-harold-fieldings-sunday-night-at-the-blackpool-oper…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1eaf6a9587a37edb9a1540d22340049816369a6a)
-- [Update 1982-07-24-tv-tops.md, 1976-07-25-lena-zavaroni-at-the-princes…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/648372b97de4a42d02f6b28282423d527039f63c)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/69a7884c051d12a57e1e72be06614a835e746e6a)
-- [Update 1978-07-22-emma.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b285f818804cacbbd934b09af1d580e73678cf7a)
-- [Update 1975-07-19-music-week.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/eddef6e20d008c2a8d20acd2d2554b1557ad3b4f)
+- [Update 1977-07-31-hi-summer.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/72baf4f8c19cbb54ae48ebd12c0f3011d094d6ae)
+- [Update 1978-08-05-emma.md, 1978-07-26-tesco-extra.md, and 44 more fil…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c44b070493f299eec69016e85ec0b9a74ece63ba)
+- [Update 1974-07-21-harold-fieldings-sunday-night-at-the-blackpool-oper…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/95649a7ef5580a2117af93dfadd38f9ce2198a33)
+- [Update 1978-07-27-lena-zavaroni-at-the-villa-marina.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cf2a55972781b282ece2faef2d41d6c36c991136)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c37acd045e47c21239e1fe83f71782c0cdc6163d)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
