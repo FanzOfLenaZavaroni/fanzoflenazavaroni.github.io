@@ -7,7 +7,7 @@ description: Edward Woodward looks back at 21 years of Thames Television through
 media: Thames Television
 post_description: Edward Woodward looks back at 21 years of Thames Television through a montage of old clips. An excerpt of Lena singing I Should Have Listened To Mama from the final episode of Opportunity Knocks is shown.
 image: /assets/images/ITV/1989-07-27-the-times-london-england-thursday-page-23-200x200.png
-categories: [Thames-Television]
+categories: [Thames-Television, OnThisDay27July]
 ---
 
 <table style="text-align:center;">
@@ -22,17 +22,17 @@ categories: [Thames-Television]
 </tr>
 </table>
 
-### The Times
+### [The Times](#times)
 ![](/assets/images/ITV/1989-07-27-the-times-london-england-thursday-page-23.jpg)
 
 <cite>The Times (London, England), Thursday, 27 July 1989; pg. 23; Issue 63457</cite>
 
-### Details
+### [Details](details)
 Edward Woodward looks back at 21 years of Thames Television through a montage of old clips.
 
-An excerpt of Lena singing I Should Have Listened To Mama from the final episode of [Opportunity Knocks](/thames%20television/opportunity%20knocks/1978/03/20/opportunity-knocks.html)
+An excerpt of Lena singing I Should Have Listened To Mama from the final episode of [Opportunity Knocks](/1978-03-20-opportunity-knocks)
 
-### Cast
+### [Cast](cast)
 <table>
 <tr><th>Presenter:</th><td>Edward Woodward</td></tr>
 <tr><th>On-Screen Participant:</th><td>Eamonn Andrews</td></tr>
@@ -93,10 +93,10 @@ An excerpt of Lena singing I Should Have Listened To Mama from the final episode
 <tr><th>On-Screen Participant:</th><td>Terry Wogan</td></tr>
 <tr><th>On-Screen Participant:</th><td>Jackie Wright</td></tr>
 <tr><th>On-Screen Participant:</th><td>Mike Yarwood</td></tr>
-<tr><th>On-Screen Participant:</th><td>Lena Zavaroni</td></tr>
+<tr style="outline: 4px dashed darkorange;"><th>On-Screen Participant:</th><td>Lena Zavaroni</td></tr>
 </table>
 
-### Crew
+### [Crew](crew)
 <table>
 <tr><th>Designer:</th><td>Stuart McCarthy</td></tr>
 <tr><th>Videotape Editor:</th><td>Roger Holmes</td></tr>

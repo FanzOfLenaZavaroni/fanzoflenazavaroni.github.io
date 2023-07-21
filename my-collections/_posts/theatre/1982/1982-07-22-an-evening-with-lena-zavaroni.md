@@ -1,11 +1,14 @@
 ---
 layout: post
-title: An Evening With Lena Zavaroni and Friends
-maintitle: An Evening With Lena Zavaroni and Friends
+title: An Evening With Lena Zavaroni &#124; 22 July 1982
+maintitle: An Evening With Lena Zavaroni
 subtitle: The Winter Gardens, Margate
-description:
+more: "- 24 July 1982 at 8pm"
+description: Special Guests Duggie Brown & Wout Steenhuis
+post_description: Special Guests Duggie Brown & Wout Steenhuis
 image: /assets/images/theatres/1982-07-22-an-evening-with-lena-zavaroni-200x200.png
-categories: [Theatre, Margate]
+categories: [Theatre, Margate, OnThisDay22July]
+last_modified_at: 22 July 2023
 ---
 
 <figure class="fig1">
@@ -21,24 +24,4 @@ categories: [Theatre, Margate]
 </figure>
 
 <br />{: .clear}
-
-<style>
-.dt-published {display: none;}
-
-.post-meta:after {content: "22, 23 & 24 July 1982 at 8pm";}
-
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1 {float:left; width:100%;}
-.fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 

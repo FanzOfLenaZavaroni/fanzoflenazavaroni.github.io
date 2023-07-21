@@ -9,15 +9,17 @@ media: Theatre
 post_description: The White Rock Pavilion, Hastings.
 image: /assets/images/theatres/1981-08-03-the-white-rock-pavilion-01.jpg
 categories: [Theatre, White-Rock-Pavilion, Hastings, OnThisDay3August]
+last_modified_at: 22 July 2023
 ---
 
 <figure class="fig1">
+<h3 id="flyer"><a href="#flyer">Flyer</a></h3>
 <a href="/assets/images/theatres/1981-08-03-the-white-rock-pavilion-01.jpg"><img src="/assets/images/theatres/1981-08-03-the-white-rock-pavilion-01.jpg" class="full-width" /></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="performers">Performers</h3>
+<h3 id="performers"><a href="#performers">Performers</a></h3>
 </figcaption>
 <table>
 <tr><th style="width:50%;">Singer:</th><td style="width:50%;">Lena Zavaroni</td></tr>
@@ -29,19 +31,4 @@ categories: [Theatre, White-Rock-Pavilion, Hastings, OnThisDay3August]
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 

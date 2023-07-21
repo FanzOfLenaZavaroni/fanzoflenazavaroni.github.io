@@ -8,11 +8,11 @@ media: Central Television
 post_description: Lena performs I Am What I Am on the comedy show, hosted by the comedian Jimmy Cricket.
 image: /assets/images/ITV/1985-08-02-and-theres-more.jpg
 categories: [Central-Television, OnThisDay2August]
+last_modified_at: 22 July 2023
 ---
 
 <table style="text-align:center;">
 <tr><th colspan="3">Jump To</th></tr>
-
 <tr>
 <td style="width:50%;"><a href="#screenshot">Screenshot</a></td>
 <td><a href="#cast">Cast</a></td>
@@ -20,9 +20,9 @@ categories: [Central-Television, OnThisDay2August]
 </tr>
 </table>
 
-<figure class="fig3">
+<figure class="fig1">
 <figcaption>
-<h3 id="screenshot">Screenshot</h3>
+<h3 id="screenshot"><a href="#screenshot">Screenshot</a></h3>
 </figcaption>
 <img src="/assets/images/ITV/1985-08-02-and-theres-more.jpg" class="full-width" />
 <figcaption>
@@ -30,11 +30,9 @@ categories: [Central-Television, OnThisDay2August]
 </figcaption>
 </figure>
 
-{: .clear}
-
-<figure class="fig1">
+<figure class="fig2">
 <figcaption>
-<h3 id="cast">Cast</h3>
+<h3 id="cast"><a href="#cast">Cast</a></h3>
 </figcaption>
 <table>
 <tr><th style="width:50%;">Presenter/Host</th><td style="width:50%;">Jimmy Cricket</td></tr>
@@ -48,9 +46,11 @@ categories: [Central-Television, OnThisDay2August]
 </table>
 </figure>
 
-<figure class="fig2">
+{: .clear}
+
+<figure class="fig3">
 <figcaption>
-<h3 id="crew">Crew</h3>
+<h3 id="crew"><a href="#crew">Crew</a></h3>
 </figcaption>
 <table>
 <tr><th style="width:50%;">Musical Director</th><td style="width:50%;">Mike Alexander</td></tr>
@@ -67,19 +67,4 @@ categories: [Central-Television, OnThisDay2August]
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
