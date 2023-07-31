@@ -27,7 +27,7 @@ last_modified_at: 22 July 2023
 <p>First of six programmes from outdoor locations: Doon the Watter.</p>
 <p>Rothesay born Lena Zavaroni sings on television for the first time in six years as she journeys home to join Pam Rhodes who is sailing around the Clyde Coast Islands in the company of the Scottish Festival Singers. Local choirs from Arran, Bute and Dunoon join in.</p>
 </blockquote>
-<cite>[BBC Genome](https://genome.ch.bbc.co.uk/schedules/bbcone/london/1993-08-01#at-18.25)</cite>
+<cite><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1993-08-01#at-18.25">BBC Genome</a></cite>
 </figure>
 
 {: .clear}
