@@ -14,7 +14,7 @@ last_modified_at: 22 July 2023
 
 <figure class="fig1">
 <h3 id="flyer"><a href="#flyer">Flyer</a></h3>
-<a href="/assets/images/theatres/1981-08-03-the-white-rock-pavilion-01.jpg"><img src="/assets/images/theatres/1981-08-03-the-white-rock-pavilion-01.jpg" class="full-width" /></a>
+<a href="/assets/images/theatres/1981-08-03-the-white-rock-pavilion-01.jpg"><img src="/assets/images/theatres/1981-08-03-the-white-rock-pavilion-01.jpg" class="full-width zoom-in" /></a>
 </figure>
 
 <figure class="fig2">
