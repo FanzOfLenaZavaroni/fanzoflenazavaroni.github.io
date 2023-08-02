@@ -6,7 +6,7 @@ subtitle: BBC Television Centre
 description: Believed to be a recording for an episode of Lena Zavaroni and Music.
 post_description: Lena Zavaroni and Guests.
 image: /assets/images/BBC/ticket-1979-04-08.jpg
-categories: [BBC-Television-Centre, Lena-Zavaroni-and-Music, OnThisDay8April]
+categories: [BBC-Television-Centre, Lena-Zavaroni-and-Music, Dougie-Squires, OnThisDay8April]
 ---
 
 <figure class="fig1">
