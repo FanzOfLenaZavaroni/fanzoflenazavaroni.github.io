@@ -3,12 +3,12 @@ layout: post
 title: Summer Praise &#124; 1 August 1993
 maintitle: Summer Praise
 subtitle: Doon The Watter
+more: Original Broadcast On BBC One - 2 August 1993 Repeat Broadcast On BBC Two
 description: The Sunday evening religious show features the Firth Of Clyde, and visits Lena's home town of Rothesay. Pam Rhodes chats to Lena about her life and career.
-media: BBC One
 post_description: The Sunday evening religious show features the Firth Of Clyde, and visits Lena's home town of Rothesay. Pam Rhodes chats to Lena about her life and career.
 image: https://img.youtube.com/vi/DOu5ktVUEoI/hqdefault.jpg
-categories: [BBC-One, OnThisDay1August]
-last_modified_at: 22 July 2023
+categories: [BBC-One, OnThisDay1August, OnThisDay2August]
+last_modified_at: 2 August 2023
 ---
 
 <table style="text-align:center;">
@@ -27,7 +27,7 @@ last_modified_at: 22 July 2023
 <p>First of six programmes from outdoor locations: Doon the Watter.</p>
 <p>Rothesay born Lena Zavaroni sings on television for the first time in six years as she journeys home to join Pam Rhodes who is sailing around the Clyde Coast Islands in the company of the Scottish Festival Singers. Local choirs from Arran, Bute and Dunoon join in.</p>
 </blockquote>
-<cite><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1993-08-01#at-18.25">BBC Genome</a></cite>
+<cite>BBC Genome: <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1993-08-01#at-18.25">BBC One</a> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_two_england/1993-08-02#at-15.00">BBC Two</a></cite>
 </figure>
 
 {: .clear}
