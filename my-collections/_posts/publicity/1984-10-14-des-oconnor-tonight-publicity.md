@@ -7,6 +7,7 @@ description: Publicity Photos of Des O'Connor and Lena Zavaroni.
 post_description: Publicity Photos of Des O'Connor and Lena Zavaroni.
 image: /assets/images/ITV/1984-10-14-des-oconnor-tonight-01.jpg
 categories: [Publicity, Des-O'Connor, OnThisDay14October]
+last_modified_at: 4 August 2023
 ---
 
 <figure class="fig3">
