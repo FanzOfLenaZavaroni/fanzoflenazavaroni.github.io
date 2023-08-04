@@ -1,13 +1,12 @@
 ---
 layout: publicity
-title: Des O'Connor Tonight &#124; 14 October 1984
-maintitle: Des O'Connor Tonight
-subtitle: Publicity Photos
+title: Des O'Connor Tonight Publicity Photos &#124; 14 October 1984
+maintitle: Des O'Connor Tonight Publicity Photos
+subtitle: All Photos © Keith Butler of The Express (1984)
 description: Publicity Photos of Des O'Connor and Lena Zavaroni.
-media: Publicity
-post_description: Photos of Des O'Connor and Lena Zavaroni.
+post_description: Publicity Photos of Des O'Connor and Lena Zavaroni.
 image: /assets/images/ITV/1984-10-14-des-oconnor-tonight-01.jpg
-categories: [Publicity, Des-O'Connor-Tonight, OnThisDay14October]
+categories: [Publicity, Des-O'Connor, OnThisDay14October]
 ---
 
 <figure class="fig3">
