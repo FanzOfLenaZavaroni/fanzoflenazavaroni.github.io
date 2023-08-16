@@ -1,6 +1,5 @@
 ---
 layout: post
-last_modified_at: 15 June 2023
 title: Biography &#124; Lena Zavaroni
 maintitle: Lena Zavaroni
 more: Born - 1 October 1999 Died (aged 35)
@@ -11,6 +10,7 @@ image: /assets/images/lena/LZ-01.jpg
 image-caption: Lena Zavaroni as a toddler
 categories: [Biography, Lena-Zavaroni, OnThisDay4November, OnThisDay1Octorber]
 author: Robcamstone
+last_modified_at: 16 August 2023
 ---
 
 <strong>The following Biography is based On the media coverage and the public comments made by Lena Zavaroni, her family and friends</strong>
@@ -70,6 +70,9 @@ Her parents owned a fish and chip shop called Zavaroni's.
 <p>From this moment, under the management of Dorothy Solomon, Phil Solomon's partner, Lena enjoyed outstanding success.</p>
 </blockquote>
 <cite>Phil Solomon</cite>
+
+<h3 id="note"><a href="#note">Note</a></h3>
+The above is just one of many versions of how Lena Zavaroni was first discovered in an article by Richard Barber for the <a class="external-link" href="https://www.express.co.uk/entertainment/theatre/1780852/Lena-Zavaroni-opportunity-knock-hughie-green#:~:text=Lena%20was%20discovered%20by%20record%20producer%20Tommy%20Scott.%20While%20on%20holiday%20in%20Bute%2C%20he%20walked%20past%20the%20chippie%20one%20day%20and%20heard%20her%20%C2%ADsinging.%20He%20had%20produced%20records%20by%20Van%20Morrison%2C%20the%20Bachelors%2C%20%C2%AD%20the%20Dubliners.%20So%2C%20he%20walked%20in%20%E2%80%93%20and%20the%20%C2%AD%C2%ADrest%20is%20history.">express</a> it is stated that Tommy Scott was walking past the chippie when he heard Lena singing. Also read the <a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/discussions/19#discussioncomment-6240699">comment section</a> for the Dutch magazine "Story" dated 21 June 1974.
 </figure>
 
 
@@ -401,3 +404,4 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 </figure>
 
 <br />{: .clear}
+
