@@ -1,26 +1,24 @@
 ---
 layout: post
 author: 4 September 1982
-title: The Lena Zavaroni Show &#124; 3 August 1981
+title: The Lena Zavaroni Show &#124; 3 August 1982
 maintitle: The Lena Zavaroni Show
 subtitle: at the White Rock Pavilion, Hastings
+more: Opening Night - 4 September 1982 Closing Night
 description: Lena Zavaroni stars in her own show at the White Rock Pavilion, Hastings.
-media: Theatre
 post_description: The White Rock Pavilion, Hastings.
-image: /assets/images/theatres/1981-08-03-the-white-rock-pavilion-01.jpg
+image: /assets/images/theatres/1982-08-03-the-white-rock-pavilion-01.jpg
 categories: [Theatre, White-Rock-Pavilion, Hastings, Dougie-Squires, OnThisDay3August]
-last_modified_at: 22 July 2023
+last_modified_at: 18 August 2023
 ---
 
 <figure class="fig1">
 <h3 id="flyer"><a href="#flyer">Flyer</a></h3>
-<a href="/assets/images/theatres/1981-08-03-the-white-rock-pavilion-01.jpg"><img src="/assets/images/theatres/1981-08-03-the-white-rock-pavilion-01.jpg" class="full-width zoom-in" /></a>
+<a href="/assets/images/theatres/1982-08-03-the-white-rock-pavilion-01.jpg"><img src="/assets/images/theatres/1982-08-03-the-white-rock-pavilion-01.jpg" class="full-width zoom-in" /></a>
 </figure>
 
 <figure class="fig2">
-<figcaption>
 <h3 id="performers"><a href="#performers">Performers</a></h3>
-</figcaption>
 <table>
 <tr><th style="width:50%;">Singer:</th><td style="width:50%;">Lena Zavaroni</td></tr>
 <tr><th>Comedian:</th><td>Freddie Davies</td></tr>
@@ -28,6 +26,8 @@ last_modified_at: 22 July 2023
 <tr><th>Comedy Magic:</th><td><a href="#clip">Sonny Hayes & Co</a></td></tr>
 <tr><th>Concept Troupe:</th><td>Dougie Squires' Second Generation</td></tr>
 </table>
+<h3 id="dates"><a href="#dates">Question Of Dates</a></h3>
+See <a href="#comments">comment</a> below and it's link that brings into question if the planed opening night was the 2nd and for some unknown reason charged to the 3rd.
 </figure>
 
 {: .clear}
