@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/51f1804ffcc7f7c574c7e581862837d99f7f0809)
 - [Update 1981-08-03-the-white-rock-pavilion-01.jpg, 1982-08-03-the-whit…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e20bb0c05475c7b1d700628c2058bcbcc3934c39)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7cf8a332c25d301e1e67a66e45aff000dd0fea49)
 - [Update 1979-08-17-buckinghamshire-examiner-cropped.png, 1979-08-17-bu…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d6d9d877b7b90363341901a177f44f7e3ae411e8)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c603d3fa6a9bcdffe4248531846c05d15ee5b830)
-- [Update 1963-11-04-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6160370d560881d889929b1a2ac925f448992212)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
