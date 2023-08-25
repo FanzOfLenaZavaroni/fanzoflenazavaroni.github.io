@@ -1,13 +1,15 @@
 ---
 layout: discography
-year: 2 September 2008
-title: Fujiya & Miyagi - Knickerbocker
-maintitle: Fujiya & Miyagi - Knickerbocker
-subtitle: 1 September 2008
-description: Track 1 - Knickerbocker (The song makes a number of references to the life of Lena Zavaroni and the references are correct).
+title: Fujiya & Miyagi &#124; 25 August2008 &#124; 1 September 2008
+maintitle: Fujiya & Miyagi
+subtitle: Knickerbocker
+more: Single - 1 September 2008 Album
+description: Knickerbocker (The song makes a number of references to the life of Lena Zavaroni and the references are correct).
+post_description: Knickerbocker (The song makes a number of references to the life of Lena Zavaroni and the references are correct).
 image: /assets/images/albums/2008-09-01-fujiya-and-miyagi-knickerbocker-album-cover.jpg
-categories: [Tribute-Songs, OnThisday1September]
+categories: [Tribute-Songs, OnThisDay25August, OnThisDay1September]
 permalink: /discography/tribute-songs/:name
+last_modified_at: 25 August 2023
 ---
 
 The track "Knickerbocker" makes a number of references to the life of Lena Zavaroni and the references are correct.
