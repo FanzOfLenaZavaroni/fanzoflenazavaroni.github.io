@@ -20,7 +20,14 @@ categories: [BBC-One, Torbay, OnThisDay30August]
 <h2 id="summary"><a href="#summary">Summary</a></h2>
 <p>Starring Roy Hudd, Keith Harris, Tessie O'Shea, Lena Zavaroni, Derek Dene, Jon Britain, Tony Blackburn and featuring NEW EDITION.</p>
 <p>Lena performs a short version of Teddy Bear and then she sings Smile.</p>
-<cite><a href="http://genome.ch.bbc.co.uk/f2e2d340741e44f69725c6ecee4c7bf7">BBC Genome</a></cite>
+<cite><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1975-08-30#at-18.10">BBC Genome</a></cite>
+</figure>
+
+{: .clear}
+
+<figure class="fig3">
+<h2 id="podcast"><a href="#podcast">Two Hundred Percent</a></h2>
+<a href="/discography/podcasts/2021-04-29-two-hundred-percent">Podcast 293: This is our Everest, Part Thirty-Nine – Seaside Special, 1975</a>
 </figure>
 
 {: .clear}
