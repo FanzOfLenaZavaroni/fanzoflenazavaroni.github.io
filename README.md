@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1974-09-01-jerry-lewis-mda-labor-day-telethon.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/98956060848fbcd7edb495821d1047186d01d2b5)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/55c4f41e8c2a965d1236ec83931c4e2458774911)
 - [Update 1980-08-31-the-lena-zavaroni-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8b39a461018bf4f1c3f5d7192ae92268067cedae)
 - [Update 1974-08-31-jerry-lewis-mda-labor-day-telethon.md, 1974-09-01-j…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/46a120c8d0bedfb35c584e5015785cad68ae812f)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a15e5fb1d6cf4c3f34c096c4bba94c2f1cbaa1d9)
-- [Update 1975-08-30-seaside-special.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0c0e52456a895317171fe14ce77f9063b28e4e80)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5dcd2c3cba3ec7abd2cdf22db9cd988d569718b0)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
