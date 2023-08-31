@@ -43,7 +43,7 @@ categories: [US-Television, Fundraising, OnThisDay1September, OnThisDay2Septembe
 * Dave Brubeck
 * Julie Budd
 * Carol Burnett
-     * Lena Zavarobi would Later be a Guest on <a href="/1974-11-02-the-carol-burnett-show/">The Carol Burnett Show</a>
+     * Lena Zavaroni would Later be a Guest on <a href="/1974-11-02-the-carol-burnett-show/">The Carol Burnett Show</a>
 * Red Buttons
 * Ruth Buzzi
 * Virginia Capers
