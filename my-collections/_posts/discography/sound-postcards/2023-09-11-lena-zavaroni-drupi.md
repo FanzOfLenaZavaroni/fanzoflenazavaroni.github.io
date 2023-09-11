@@ -23,8 +23,9 @@ last_modified_at: 2023-09-11T14:28:00+01:00
 
 <figure class="fig3">
 <table>
-<tr><th>Singer - Song:</th><td>Drupi - Song currently unknown</td></tr>
+<tr><th style="width:50%">Pocztówka Dzwiekowa (Sound Postcard)</th><td style="width:50%"><a href="/discography/sound-postcards">What are they?</a></td></tr>
 <tr><th>Singer - Song:</th><td>Lena Zavaroni - Ma! (He's Making Eyes At Me)</td></tr>
+<tr class="split"><th>Singer - Song:</th><td>Drupi - Song currently unknown</td></tr>
 <tr><th>Label:</th><td>Tadeusz Steigert - Jedlicze (Unconfirmed)</td></tr>
 <tr><th>Format:</th><td>45RPM Mono Single Sided Sound Postcard</td></tr>
 <tr><th>Country:</th><td>Poland</td></tr>
