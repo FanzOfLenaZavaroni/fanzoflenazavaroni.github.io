@@ -37,6 +37,10 @@ maintitle: Discography+
 <div>
 <img src="/assets/images/Sheetmusic/lena-zavaroni---sheet-music---ma-hes-making-eyes-at-me-01-sq.png" class="full-width" /> 
 </div>
+
+<div>
+<img src="/assets/images/discography/lena-zavaroni-drupi-01.jpeg" class="full-width" /> 
+</div>
 </div>
 </figure>
 
@@ -54,6 +58,7 @@ maintitle: Discography+
 <ul>
 <li><a href="/discography/podcasts">Podcasts</a></li>
 <li><a href="/discography/sheet-music">Sheet Music</a></li>
+<li><a href="/discography/sound-postcards">sound Postcards</a></li>
 </ul>
 </figure>
 
