@@ -8,7 +8,7 @@ description: Lena Zavaroni & Drupi.
 post_description: Lena Zavaroni & Drupi.
 categories: [Pocztówka-Dzwiekowa, Sound-Postcard, OnThisDay11September]
 permalink: /discography/sound-postcards/:name
-last_modified_at: 2023-09-11T14:10:00+01:00
+last_modified_at: 2023-09-11T14:28:00+01:00
 ---
 
 <figure class="fig1">
@@ -25,7 +25,7 @@ last_modified_at: 2023-09-11T14:10:00+01:00
 <table>
 <tr><th>Singer - Song:</th><td>Drupi - Song currently unknown</td></tr>
 <tr><th>Singer - Song:</th><td>Lena Zavaroni - Ma! (He's Making Eyes At Me)</td></tr>
-<tr><th>Label:</th><td>Tadeusz Steigert - Jedlicze</td></tr>
+<tr><th>Label:</th><td>Tadeusz Steigert - Jedlicze (Unconfirmed)</td></tr>
 <tr><th>Format:</th><td>45RPM Mono Single Sided Sound Postcard</td></tr>
 <tr><th>Country:</th><td>Poland</td></tr>
 <tr><th>Released:</th><td>Unknown Date</td></tr>
