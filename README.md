@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/33368fa26f9490c64a2e74ba9c0650f3028a7b23)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/390f76cb59dd0e75476c88fdadd2635375eb630f)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/128116e501abe966e179d26f00c0fd28b416c9fb)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a923afba4a9017049e4a480a1760059decf5a956)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2e6cfea4d7d06f944881117d39624853f675159a)
+- [Update 2023-09-10-Newsbank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/12ecfb3be70aac6da26ddd6470d2b03dbecaff86)
+- [Update image-resizing.yml, 2023-09-11-demis-roussos-lena-zavaroni.md,…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ff3fe1793666b05c4ee5433e60ce36abf285ba25)
+- [Update image-resizing.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b8a389216ad582075f8336a21b3d19e912c23b6f)
+- [Update image-resizing.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d21ef4777b7ee6f7c965715f96b8d6ce8fd36d9e)
+- [Revert &quot;Update image-resizing.yml&quot;](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c910fc4b8d68d4eb406343adfb2f55fc2863c8f7)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
