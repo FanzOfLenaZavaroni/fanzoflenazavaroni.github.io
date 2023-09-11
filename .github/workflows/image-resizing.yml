@@ -18,7 +18,7 @@ jobs:
         with:
           IMAGES_MAX_WIDTH: "1500"
           IMAGES_QUALITY: "100"
-          IMAGES_FORMATS: "jpg, jpge, png" 
+          IMAGES_FORMATS: "jpg, jpge, png"
           IMAGES_DIRECTORIES: "public/assets/images"
 
       - name: Commit changes
