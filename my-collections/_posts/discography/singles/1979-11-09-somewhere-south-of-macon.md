@@ -3,6 +3,7 @@ layout: post
 title: Somewhere South Of Macon
 maintitle: Somewhere South Of Macon
 subtitle: Lena Zavaroni's Twelveth Single
+more: The Promo Single - 25 September 1981 The Official Release
 description: This is the twelveth single by Lena Zavaroni
 post_description: This is the twelveth single by Lena Zavaroni
 image: /assets/images/singles/lena-zavaroni-somewhere-south-of-macon-president.jpg
