@@ -8,17 +8,16 @@ media: Show Times
 post_description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 image: /assets/images/theatres/1980-07-20-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.jpg
 categories: [Theatre, Blackpool-Opera-House, Harold-Fielding, OnThisDay3October]
+last_modified_at: 27 September 2023
 ---
 
-### Unable to confirm if the show was canceled, it should have been if Lena followed the order to rest for 6 weeks.
-<p>See the <a href="#comments">Comments</a> below.</p>
-<p>It is also posible that the show went ahead with an alternative act replacing Lena in the starring role.</p>
-<hr>
-<br />
 Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 
 * —— **Guest Star:** Lena Zavaroni.
 * —— **Theatre Producer:** [Harold Fielding](/biography/harold-fielding).
 * —— **Contract Signatory:** Victor Zavaroni director of Lena Zavaroni Public Limited Company (PLC).
      * —— It is interesting to note Victor Zavaroni signed contracts for Lena and not Dorothy and/or Phil Solomon who where meant to be her managerment team and shows that Victor was more involved in Lena's career than we may think.
-     
+
+### Unable to confirm if the show was canceled, it should have been if Lena followed the order to rest for 6 weeks.
+<p>It is also posible that the show went ahead with an alternative act replacing Lena in the starring role.</p>
+
