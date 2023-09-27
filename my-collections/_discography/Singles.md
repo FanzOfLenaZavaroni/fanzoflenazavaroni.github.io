@@ -29,7 +29,7 @@ categories: [Discography]
 
 <a href="/discography/singles/1981-04-03-roses-and-rainbows">1981 &#8212; Roses And Rainbows</a>
 
-<a href="/discography/singles/1981-09-25-somewhere-south-of-macon">1981 &#8212; Somewhere South Of Macon</a>
+<a href="/discography/singles/1979-11-09-somewhere-south-of-macon">1981 &#8212; Somewhere South Of Macon</a>
 
 <a href="/discography/singles/1982-06-11-hold-tight">1982 &#8212; Hold Tight (Want Some Sea Food, Mama)</a>
 

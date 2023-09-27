@@ -7,20 +7,41 @@ more: Originally broadcast On BBC Two - 5 August 1982 Repeated On BBC One
 description: Starring Des O'Connor who plays host to some of the finest entertainment talent from Britain and America. Des sings, jokes and talks in the company of his guests from both sides of the Atlantic. Tonight's special guests are from Britain Jim Davidson, Lena Zavaroni and from America Garry Shandling.
 post_description: Starring Des O'Connor who plays host to some of the finest entertainment talent from Britain and America. Des sings, jokes and talks in the company of his guests from both sides of the Atlantic. Tonight's special guests are from Britain Jim Davidson, Lena Zavaroni and from America Garry Shandling.
 categories: [BBC-Two, Des-O'Connor, OnThisDay28September, OnThisDay5August]
+last_modified_at: 27 September 2023
 ---
 
-### [Synopsis](#synopsis)
-> Starring Des O'Connor who plays host to some of the finest entertainment talent from Britain and America. Des sings, jokes and talks in the company of his guests from both sides of the Atlantic. Tonight's special guests are: from Britain: Jim Davidson, Lena Zavaroni and from America Garry Shandling.
->
-> Lena performs her then new single [Somewhere South Of Macon](/discography/singles/1981-09-25-somewhere-south-of-macon), then she joins Des to duet on Nice and Easy and Love Will Keep Us Together.
+<figure class="fig1">
+<h3 id="screenshot1"><a href="#screenshot1">Screenshot 1</a></h3>
+<img class="full-width" src="/assets/images/television/1981-09-28-desoconnor-tonight-des-lena.jpg" />
+<cite>Des O'Connor and Lena Zavaroni</cite>
+</figure>
 
-<cite>BBC Genome: [28 September 1981](https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1981-09-28#at-20.10){: .external-link}, [5 August 1982](https://genome.ch.bbc.co.uk/schedules/bbcone/london/1982-08-05#at-21.55){: .external-link}</cite>
+<figure class="fig2">
+<h3 id="screenshot2"><a href="#screenshot2">Screenshot 2</a></h3>
+<img class="full-width" src="/assets/images/television/1981-09-28-desoconnor-tonight-lena.jpg" />
+<cite>Lena Zavaroni</cite>
+</figure>
 
-### [Cast](#cast)
+<figure class="fig3">
+<h3 id="synopsis"><a href="#synopsis">Synopsis</a></h3>
+<blockquote>
+<p>Starring Des O'Connor who plays host to some of the finest entertainment talent from Britain and America. Des sings, jokes and talks in the company of his guests from both sides of the Atlantic. Tonight's special guests are: from Britain: Jim Davidson, Lena Zavaroni and from America Garry Shandling.</p>
+<p>Lena performs her then new single <a href="/discography/singles/1979-11-09-somewhere-south-of-macon">Somewhere South Of Macon</a>, then she joins Des to duet on Nice and Easy and Love Will Keep Us Together.</p>
+</blockquote>
+<cite>BBC Genome: <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1981-09-28#at-20.10">28 September 1981</a>, <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1982-08-05#at-21.55">5 August 1982</a></cite>
+</figure>
+
+{: .clear}
+
+<figure class="fig3">
+<h3 id="cast"><a href="#cast">Cast</a></h3>
 <table>
 <tr><th>Host</th><td>Des O'Connor</td></tr>
 <tr><th>Comedian</th><td>Jim Davidson</td></tr>
 <tr><th>Singer</th><td>Lena Zavaroni</td></tr>
 <tr><th>Comedian</th><td>Garry Shandling</td></tr>
 </table>
+</figure>
+
+<br />{: .clear}
 
