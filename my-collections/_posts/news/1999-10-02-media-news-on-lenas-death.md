@@ -1,16 +1,15 @@
 ---
 layout: post
-title: The Media Reports On The Death Of Lena Zavaroni &#124; 2 October 1999
-maintitle: The Media Reports On The Death Of Lena Zavaroni
-subtitle: Rest In Peace
-description: The media reports on the death of Lena Zavaroni start.
-media: Rest In Peace
-post_description: The media reports on the death of Lena Zavaroni start.
+title: The Media Reports On The Death Of Lena Zavaroni Started &#124; 2 October 1999
+maintitle: The Media Reports On The Death Of Lena Zavaroni Started
+subtitle: It would be impossible to list every report made by the media so I have only added a few.
+description: It would be impossible to list every report made by the media so I have only added a few.
+post_description: It would be impossible to list every report made by the media so I have only added a few.
 categories: [BBC-News-UK, BBC-News-Entertainment, OnThisDay2October]
 ---
 
 ### 2 October 1999
-* —— (<span id="age3"></span> years ago). The media reports on the death of Lena Zavaroni start.
+* —— (<span id="age1"></span> years ago). The media reports on the death of Lena Zavaroni started.
    * ——: BBC News UK; [Child star Lena dies at 35](http://news.bbc.co.uk/1/hi/uk/463512.stm)
    * ——: BBC News Entertainment; [Tragic Zavaroni ruined by illness](http://news.bbc.co.uk/1/hi/entertainment/463549.stm)
 
@@ -29,3 +28,7 @@ categories: [BBC-News-UK, BBC-News-Entertainment, OnThisDay2October]
 </figure>
 
 <br />{: .clear}
+
+<script> var dob = '19991002'; var year = Number(dob.substr(0, 4)); var month = Number(dob.substr(4, 2)) - 1; var day = Number(dob.substr(6, 2)); var today = new Date(); var age1 = today.getFullYear() - year; if (today.getMonth() < month || (today.getMonth() == month && today.getDate() < day)) { age1--; } document.getElementById("age1").innerHTML=age1; </script>
+
+

@@ -17,7 +17,7 @@ categories: [BBC-News-UK, BBC-News-Entertainment, OnThisDay3October]
 >
 > The true of the death of Lena Zavaroni has been buried with great success by those involved with her medicinal treatment.
 >
-> The [death certificate](/1999-12-15-death-certificate/) simply states that Lena Zavaroni die of Bronhopneumonia and the verdict of the [inquest](/biography/lena-zavaroni#inquest) was Natural Causes.
+> The [death certificate](/1999-12-15-death-certificate/) simply states that Lena Zavaroni die of Bronhopneumonia and the verdict of the [inquest](/1963-11-04-lena-zavaroni#inquest) was Natural Causes.
 
 <cite>Robcamstone</cite>
 

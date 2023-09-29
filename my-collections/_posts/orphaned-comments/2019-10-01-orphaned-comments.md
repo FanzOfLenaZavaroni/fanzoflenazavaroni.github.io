@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Orphaned Comments &#124; 1 October 1999
+title: Orphaned Comments &#124; 1 October 2019
 maintitle: Orphaned Comments
-subtitle: OnThisDay 1 October
-description: 1 October 1999
-post_description: 1 October 1999
+subtitle: Cjones85
+description: Cjones85
+post_description: Cjones85
 categories: [Orphaned-Comments, OnThisDay1October]
 ---
 
