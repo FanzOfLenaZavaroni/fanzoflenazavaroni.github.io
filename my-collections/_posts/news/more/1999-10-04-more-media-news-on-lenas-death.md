@@ -11,10 +11,10 @@ categories: [BBC-News-Wales, Daily-Mail, Mirror, News-Letter - Belfast, London, 
 
 **The media blitz on the death of Lena Zavaroni continues:**
    * —— (BBC News Wales). [Star dies following brain surgery](http://news.bbc.co.uk/1/hi/wales/463655.stm)
-   * —— (The Daily Record) [Lena Was Going to Be a Bride Again](/1999-10-04-daily-record)
+   * —— (The Daily Record) [Lena Was Going to Be a Bride Again](/1999-10-04-the-daily-record)
    * —— (The Mirror - London, England). [THIS IS SO UNJUST; Lena’s Love Tells of Her Final Meal and How She Had Bravely Battled Wasting Disease](/1999-10-04-the-mirror)
    * —— (The News Letter - Belfast, Northern Ireland). [Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return](/1999-10-04-The-News-Letter)
-   * ——: The Scottish early evening news programme featured a report on the opening of [Lena's inquest](/biography/lena-zavaroni#inquest) at Cardiff Coroner's court.
+   * ——: The Scottish early evening news programme featured a report on the opening of [Lena's inquest](/1963-11-04-lena-zavaroni#inquest) at Cardiff Coroner's court.
 
 ### Note
 > The above list is just an example as there would have been many media reports about Lena Zavaroni following her recent death.
