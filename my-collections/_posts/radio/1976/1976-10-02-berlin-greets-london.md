@@ -4,10 +4,10 @@ title: Berlin Greets London &#124; 2 October 1976
 maintitle: Berlin Greets London
 subtitle: The Grosse Sendesaal, West Berlin
 description: Recorded on 1 October 1976 for broadcast on BBC Radio 2 on the 2 October 1976.
-media : BBC Radio 2
 post_description: Recorded on 1 October 1976 for broadcast on BBC Radio 2 on the 2 October 1976.
 image: /assets/images/Senderfreiesberlin-logo.svg
-categories: [BBC-Radio-2, OnThisDay2October]
+categories: [BBC-Radio-2, OnThisDay1October, OnThisDay2October]
+last_modified_at: 1 October 2023
 ---
 
 [![](/assets/images/Senderfreiesberlin-logo.svg){: .width-100}{: .left}{: .zoom-in}](/assets/images/Senderfreiesberlin-logo.svg)
