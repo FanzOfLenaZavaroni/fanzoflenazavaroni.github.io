@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 10-01.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/32655cd330cce3109302815e1c8cf3260823eee9)
+- [Update 1976-10-02-berlin-greets-london.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/14bac3523333b946f680d82b6758eb281ca46335)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c46f25e44e445a6cf4df04921d9f9beb705b9b08)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fec98937a8482f71fb4b646cf33da3d5b7595675)
 - [Update 1999-10-02-media-news-on-lenas-death.md, 1999-10-03-more-media…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ec0c06233743ed2b19f58af189afa3479d30868e)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d9c9db19657564838dd07939d70c4646a4ea0998)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bb31cec037d02858b045c0ed437b1642169fae78)
-- [Update 1982-10-03-harold-fieldings-sunday-night-at-the-blackpool-oper…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4d9bf730069ef789a6a98fe2156027d7c81cc071)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
