@@ -18,4 +18,5 @@ categories: [BBC-News-Wales, Daily-Mail, Mirror, News-Letter - Belfast, London, 
 
 ### Note
 > The above list is just an example as there would have been many media reports about Lena Zavaroni following her recent death.
+
 <cite>Robcamstone</cite>
