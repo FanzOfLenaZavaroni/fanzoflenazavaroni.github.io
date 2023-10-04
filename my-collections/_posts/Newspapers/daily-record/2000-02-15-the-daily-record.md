@@ -21,12 +21,12 @@ categories: [Newspapers, Daily-Record, Glasgow, Scotland, OnThisDay15February]
 <p>Martha said: "Lena said something to us about feeling a little bit overweight.</p>
 <p>"But she came from Rothesay, with fish and chips and cans of baked beans and spaghetti, so Dorothy put her on a sort of healthier diet."</p>
 </blockquote>
-<cite>Copies of the article in full here <a class="external-link" href="https://www.thefreelibrary.com/LENA+WAS+PUT+ON+DIET+AT+10%3b+Star%27s+long+battle+with+anorexia+began...-a060874902">The Free Library</a> and here <a class="external-link" href="https://www.evernote.com/shard/s225/sh/3bb4edee-18b5-485e-9214-d348b31c513b/oKWcdSuWNTvCLhDVYSnQZbNLlvA1H-erCu7O8_HxjsjKqhJWuUgBnsZU9Q">Evernote</a></cite>
+<cite>Copy of the article in full here <a class="external-link" href="https://www.thefreelibrary.com/LENA+WAS+PUT+ON+DIET+AT+10%3b+Star%27s+long+battle+with+anorexia+began...-a060874902">The Free Library</a></cite>
 </figure>
 
 <figure class="fig3">
 <p>View this article within the context of this website's biography page on Lena Zavaroni.</p>
-<a href="https://fanzoflenazavaroni.github.io/biography/lena-zavaroni/#one-life-two-paths">One Life Two Paths</a>
+<a href="https://fanzoflenazavaroni.github.io/1963-11-04-lena-zavaroni/#one-life-two-paths">One Life Two Paths</a>
 </figure>
 
 <br />{: .clear}
