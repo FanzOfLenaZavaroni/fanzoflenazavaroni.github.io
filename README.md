@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1963-11-04-lena-zavaroni.md and 1999-10-15-the-funeral-of-lena…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/83b0a7d34072c156a43e6767357c9ce8c3c9628e)
+- [Update 1980-10-06-an-evening-with-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1b584b02e0266525fefa88e02dd955b9ed09acc8)
+- [Update and rename 1980-10-06-the-lena-zavaroni-show.md to 1980-10-06-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4edd90cb8e4eab86e33aa5269a0b52a8437548f9)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/531512bef92a35ef431663e7158e8f6f4d4c7658)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bf24011a7c8156129de890db49ef2b764d9c062d)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/67137eb67241dc85e4a3f68e97270cb4d50d7014)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c052f40383d48700da444cb58d65132511142aef)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f6a7acba159ee7cbd8a98f0fd1adbe485d70fcb5)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e39497834f71ac8d5a221db4a774e5840749c170)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
