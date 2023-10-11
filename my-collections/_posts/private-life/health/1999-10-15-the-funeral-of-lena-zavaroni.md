@@ -11,8 +11,8 @@ categories: [Funeral, OnThisDay15October]
 
 <table>
 <tr><th>See the following sections of her Media Based Biography:</th></tr>
-<tr><td class="color1"><a href="/biography/lena-zavaroni/#funeral">Funeral</a></td></tr>
-<tr><td class="color2"><a href="/biography/lena-zavaroni/#rip">Rest in peace (RIP)</a></td></tr>
+<tr><td class="color1"><a href="/1963-11-04-lena-zavaroni/#funeral">Funeral</a></td></tr>
+<tr><td class="color2"><a href="/1963-11-04-lena-zavaroni/#rip">Rest in peace (RIP)</a></td></tr>
 <tr><th>External-link:</th></tr>
 <tr><td class="color1"><a class="external-link" href="http://news.bbc.co.uk/1/hi/wales/476065.stm">BBC News &#124; UK &#124; Wales &#124; Farewell to star Lena</a></td></tr>
 </table>
