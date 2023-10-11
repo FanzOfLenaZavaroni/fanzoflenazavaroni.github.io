@@ -13,7 +13,7 @@ categories: [Funeral, OnThisDay15October]
 <tr><th>See the following sections of her Media Based Biography:</th></tr>
 <tr><td class="color1"><a href="/1963-11-04-lena-zavaroni/#funeral">Funeral</a></td></tr>
 <tr><td class="color2"><a href="/1963-11-04-lena-zavaroni/#rip">Rest in peace (RIP)</a></td></tr>
-<tr><td class="color1"><a href="/discography/podcasts/2010-12-28-podcast-from-america">Podcast From America Episode 6 - Bonnie Langford talks about learning about Lena's death and about going to Lena funeral</a></td></tr>
+<tr><td class="color1"><a href="/discography/podcasts/2010-12-28-podcast-from-america">Podcast From America Episode 6 - Bonnie Langford talks about learning about Lena's death and about going to Lena's funeral</a></td></tr>
 <tr><th>External-link:</th></tr>
 <tr><td class="color1"><a class="external-link" href="http://news.bbc.co.uk/1/hi/wales/476065.stm">BBC News &#124; UK &#124; Wales &#124; Farewell to star Lena</a></td></tr>
 </table>
