@@ -322,17 +322,18 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 </figure>
 
 <figure class="fig3">
-<figcaption>
 <h3 id="rip"><a href="#rip">Rest in peace (RIP)</a></h3>
-</figcaption>
-<img src="/assets/images/locations/Lena_Zavaroni_grave_Hoddesdon.jpg" class="full-width">
+</figure>
+
+<figure class="fig1">
+<a href="/assets/images/locations/Lena_Zavaroni_grave_Hoddesdon.jpg"><img src="/assets/images/locations/Lena_Zavaroni_grave_Hoddesdon.jpg" class="full-width zoom-in"></a>
 <figcaption>
 <cite>Hoddesdon Cemetery, Lena Zavaroni's Grave</cite>
 </figcaption>
 </figure>
 
-<figure class="fig3">
-<img src="/assets/images/locations/8402392_1511825377.jpg" class="full-width">
+<figure class="fig2">
+<a href="/assets/images/locations/8402392_1511825377.jpg"><img src="/assets/images/locations/8402392_1511825377.jpg" class="full-width zoom-in"></a>
 <figcaption>
 <cite>Hoddesdon Cemetery, Lena Zavaroni's Grave</cite>
 </figcaption>
@@ -356,9 +357,9 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <li>Did the coroner ask way the surgical procedure Neurosurgery for Mental Disorder (NMD) was done considering the weight of Lena Zavaroni?</li>
 <li>Did the coroner ask if the hospital considered what if any were the dangers of post-operative infection and how they planed to deal with such an outcome?</li>
 <li>Did the coroner request an autopsy?</li>
-<li>Did the coroner look at her brain and see where the holes and cuts were made for the NMD or did the coroner just look into the effects of the Bronchopneumonia  on her lungs.</li>
+<li>Did the coroner look at her brain and see where the holes and cuts were made for the NMD or did the coroner just look into the effects of the Bronchopneumonia  on her lungs?</li>
 <li>How independent was the coroner from the staff at the hospital?</li>
-<li>How much focus was given to the long term mental health of Lena Zavaroni and the effects of the abuse she had received throughout her live.</li>
+<li>How much focus was given to the long term mental health of Lena Zavaroni and the effects of the abuse she had received throughout her live?</li>
 <li>Why has there never been a full investigation into the life and death of Lena Zavaroni?</li>
 </ul>
 </blockquote>
