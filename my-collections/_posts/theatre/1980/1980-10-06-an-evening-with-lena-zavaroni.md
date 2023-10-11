@@ -2,11 +2,11 @@
 layout: post
 title: An Evening With Lena Zavaroni &#124; 6 October 1980
 maintitle: An Evening With Lena Zavaroni
-subtitle: The Pavilion Theatre, Glasgow for one week
+subtitle: The Pavilion Theatre, Glasgow
 more: "- 11 October 1980"
-description: Lena Zavaroni stars in her own show at The Pavilion Theatre, Glasgow for one week.
+description: Lena Zavaroni stars in her own show at The Pavilion Theatre, Glasgow.
 media: Details
-post_description: Lena Zavaroni stars in her own show at The Pavilion Theatre, Glasgow for one week.
+post_description: Lena Zavaroni stars in her own show at The Pavilion Theatre, Glasgow.
 categories: [Theatre, Pavilion-Theatre, Glasgow, OnThisDay6October, OnThisDay11October]
 ---
 
