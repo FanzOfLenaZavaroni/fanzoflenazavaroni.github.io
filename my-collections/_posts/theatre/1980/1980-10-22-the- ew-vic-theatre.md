@@ -1,21 +1,16 @@
 ---
 layout: post
-author: 25 October 1980
 title: The New Vic Theatre, Belfast &#124; 22 October 1980
 maintitle: The New Vic Theatre, Belfast
 subtitle: Starring The Dynamic Lena Zavaroni
+more: "- 25 October 1980"
 description: Starring Lena Zavaroni with Norman Collier, Dawson Chance and the Barry Holan Orchestra.
-media: Details
 post_description: Lena Zavaroni stars in her own show at the New Vic Theatre, Belfast.
-image: /assets/images/newspapers/1980-10-22-the-belfast-telegraph.png
-categories: [Theatre, The-New-Vic-Theatre, Belfast, OnThisDay22October]
+categories: [Theatre, The-New-Vic-Theatre, Belfast, OnThisDay22October, OnThisDay25October]
+last_modified_at: 18 October 2023
 ---
 
-<figure class="fig1">
-<a href="/assets/images/newspapers/1980-10-22-the-belfast-telegraph.png"><img src="/assets/images/newspapers/1980-10-22-the-belfast-telegraph.png" class="full-width zoom-in" /></a>
-</figure>
-
-<figure class="fig2">
+<figure class="fig3">
 <table>
 <tr><th>Star / Singer</th><td>Lena Zavaroni</td></tr>
 <tr><th>Comedian</th><td>Norman Collier</td></tr>
