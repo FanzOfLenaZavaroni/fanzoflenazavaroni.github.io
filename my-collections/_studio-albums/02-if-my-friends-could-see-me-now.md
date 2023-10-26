@@ -1,12 +1,12 @@
 ---
 layout: discography
 year: 1974
-last_modified_at: 15 June 2023
 title: If My Friends Could See Me Now
 maintitle: If My Friends Could See Me Now
 subtitle: Studio Album
 description: 
 image: /assets/images/albums/2UKa.jpg
+last_modified_at: 25 October 2023
 ---
 
 <figure class="fig1" id="uk-germany-australia">
@@ -63,24 +63,14 @@ image: /assets/images/albums/2UKa.jpg
 <tr><th>Released:</th><td>1976</td></tr>
 </table>
 </figcaption>
+<div data-video="qE-eqqugY_o" data-autoplay="0" data-loop="1" id="youtube-audio"></div>Listen to sampler
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="/assets/js/yt.js"></script>
 </figure>
 
 {: .clear}
 
-<figure class="fig1" id="cd">
-<img src="/assets/images/albums/2UKd.jpg" class="full-width" alt="CD Cover for the album If My Friends Could See Me Now (2012)" />
-<figcaption>
-<table>
-<tr><th colspan="2">UK</th></tr>
-<tr><th>Label:</th><td>Pickwick Group Limited – 712412</td></tr>
-<tr><th>Format:</th><td>Audio CD</td></tr>
-<tr><th>Country:</th><td>UK</td></tr>
-<tr><th>Released:</th><td>19 November 2012</td></tr>
-</table>
-</figcaption>
-</figure>
-
-<figure class="fig2" id="tracks">
+<figure class="fig1" id="aside">
 <figcaption>
 <strong>A-Side</strong>
 </figcaption>
@@ -92,6 +82,9 @@ image: /assets/images/albums/2UKa.jpg
 <li>What a Wonderful World</li>
 <li>Hands Off</li>
 </ol>
+</figure>
+
+<figure class="fig2" id="bside">
 <figcaption>
 <strong>B-Side</strong>
 </figcaption>
@@ -103,26 +96,11 @@ image: /assets/images/albums/2UKa.jpg
 <li>You're Never to Old to Be Young</li>
 <li>Stage Struck</li>
 </ol>
-
-<div data-video="qE-eqqugY_o" data-autoplay="0" data-loop="1" id="youtube-audio"></div>Listen to sampler
-<script src="https://www.youtube.com/iframe_api"></script>
-<script src="/assets/js/yt.js"></script>
 </figure>
 
+{: .clear}
+
+<h3 style="text-align:center;">Also See The <a href="/discography/studio-albums/2012-11-19-if-my-friends-could-see-me-now">19 November 2012 CD Re-Release</a></h3>
+
 <br />{: .clear}
-
-<style>
-.padding {margin-bottom:140px;}
-.fig1 {float:left; width:49%;}
-figcaption {float:left; width:100%;}
-
-.fig2 {float:right; width:49%;}
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.padding {margin-bottom:0;}
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
