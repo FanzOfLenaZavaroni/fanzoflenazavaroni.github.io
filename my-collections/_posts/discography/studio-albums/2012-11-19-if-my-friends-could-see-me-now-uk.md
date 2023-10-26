@@ -8,25 +8,23 @@ post_description: CD Re-Release Of The Original Recording.
 image: /assets/images/albums/2UKa.jpg
 categories: [Studio-Albums, OnThisDay19November]
 permalink: /discography/studio-albums/:name
-last_modified_at: 25 October 2023
+last_modified_at: 26 October 2023
 
 ---
 
-<figure class="fig1" id="cd">
+<figure class="fig3" id="cd">
 <img src="/assets/images/albums/2UKd.jpg" class="full-width" alt="CD Cover for the album If My Friends Could See Me Now (2012)" />
 <figcaption>
 <table>
-<tr><th colspan="2">UK</th></tr>
 <tr><th>Label:</th><td>Pickwick Group Limited – 712412</td></tr>
 <tr><th>Format:</th><td>Audio CD</td></tr>
 <tr><th>Country:</th><td>UK</td></tr>
 <tr><th>Released:</th><td>19 November 2012</td></tr>
-<tr><th>Link To:</th><td><a href="/discography/studio-albums/02-if-my-friends-could-see-me-now">The Original Recording</a></td></tr>
 </table>
 </figcaption>
 </figure>
 
-<figure class="fig2" id="tracks">
+<figure class="fig1" id="tracks">
 <figcaption>
 <strong>Tracks</strong>
 </figcaption>
@@ -44,8 +42,13 @@ last_modified_at: 25 October 2023
 <li>You're Never to Old to Be Young</li>
 <li>Stage Struck</li>
 </ol>
+</figure>
 
-<div data-video="qE-eqqugY_o" data-autoplay="0" data-loop="1" id="youtube-audio"></div>Listen to sampler
+<figure class="fig1" id="play">
+<figcaption>
+<strong>Play Sample</strong>
+</figcaption>
+<div data-video="qE-eqqugY_o" data-autoplay="0" data-loop="1" id="youtube-audio"></div>
 <script src="https://www.youtube.com/iframe_api"></script>
 <script src="/assets/js/yt.js"></script>
 </figure>
