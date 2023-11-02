@@ -14,3 +14,4 @@
 * [Code used to generate the "On This Day" links](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/wiki/On-This-Day-Code)
 * [Code used to population an On This Day page](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/wiki/Code-used-to-population-an-On-This-Day-page)
 * [Code used to generate the number of years that have past](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/wiki/Number-of-years-gone-by-code)
+* [Stop Google Search Console Reporting Date Errors For Posts Without A Full Date](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/wiki/Stop-Google-Search-Console-Reporting-Date-Errors-For-Posts-Without-A-Full-Date)
