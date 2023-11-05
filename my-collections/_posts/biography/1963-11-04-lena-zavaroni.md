@@ -10,7 +10,7 @@ image: /assets/images/lena/LZ-01.jpg
 image-caption: Lena Zavaroni as a toddler
 categories: [Biography, Lena-Zavaroni, OnThisDay4November, OnThisDay1Octorber]
 author: Robcamstone
-last_modified_at: 16 August 2023
+last_modified_at: 5 November 2023
 ---
 
 <strong>The following Biography is based On the media coverage and the public comments made by Lena Zavaroni, her family and friends</strong>
@@ -286,16 +286,9 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <p>The service took place at The <a class="external-link" href="https://hertfordshirechurches.wordpress.com/2013/04/21/st-augustine-hoddesdon-roman-catholic">Roman Catholic Church of St Augustine</a>, Presbytery, High Street, Hoddesdon, Herts, EN11&nbsp;8DS on Friday, 15 October 1999.</p>
 </figcaption>
 <img src="/assets/images/locations/hoddesdon_st_augustine_rc200413_21.jpg" class="full-width">
-<figcaption>
 <cite>The Roman Catholic Church of St Augustine, Presbytery, High Street, Hoddesdon, Herts EN11 8DS</cite>
-</figcaption>
-</figure>
-
-<figure class="fig3 card">
 <img src="/assets/images/funeral/lena-zavaronis-funeral-03.jpg" class="full-width">
-<figcaption>
 <cite><a class="external-link" href="http://news.bbc.co.uk/1/hi/wales/476065.stm">BBC News | Wales | Farewell to star Lena</a></cite>
-</figcaption>
 </figure>
 
 <figure class="fig3 card">
