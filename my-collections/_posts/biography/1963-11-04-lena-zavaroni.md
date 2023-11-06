@@ -343,15 +343,13 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <video src="/assets/media/LENA-ZAVARONI-INQUEST-DUE-TO-END-Archive-Footage-ITN-Source-BSP081299009-0.mp4" width="100%"  poster="/assets/images/thumbnails/LENA-ZAVARONI-INQUEST-DUE-TO-END-Archive-Footage-ITN-Source-BSP081299009-0.png" controls="" controlsList="nodownload"></video>
 <figcaption>
 <cite>LENA ZAVARONI INQUEST DUE TO END  Archive Footage  ITN Source, 8 December 1999</cite>
-</figcaption>
-</figure>
-
-<figure class="fig3 card">
+<br />
 <blockquote class="split-gray">
 <p>An inquest into the death of former child sensation Lena Zavaroni was told about the final weeks of her life today.</p>
 <p>A surgeon who treated her told how she was planning a return to the stage after an operation to help her combat depression but she weighed only three and a half stone and succumbed to a chest infection soon afterwards.</p>
 </blockquote>
 <cite><a class="external-link" href="https://web.archive.org/web/20151105074146/http://www.itnsource.com/en/shotlist//ITN/1999/12/08/BSP081299009/?s=Lena">ITN Source via The Way-back Machine</a></cite>
+</figcaption>
 </figure>
 
 <figure class="fig3 card">
