@@ -75,10 +75,10 @@ Her parents owned a fish and chip shop called Zavaroni's.
 <h3 id="fantastic-talent"><a href="#fantastic-talent">I knew this was a fantastic talent</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <blockquote>
 <ul>
-<p>I hope <strong>This</strong> is a misquote.</p>
-<p><strong>This</strong> is not a nice thing to call a human being.</p>
-<p><strong>This</strong> could explain the lack of care show towards Lena Zavaroni by her management team.</p>
-<p><strong>This</strong> lack of care can't be justified by claiming I was only Lena Zavaroni's manager, not when you had a 10 year-old living in your home.</p>
+<li>I hope <strong>This</strong> is a misquote.</li>
+<li><strong>This</strong> is not a nice thing to call a human being.</li>
+<li><strong>This</strong> could explain the lack of care show towards Lena Zavaroni by her management team.</li>
+<li><strong>This</strong> lack of care can't be justified by claiming I was only Lena Zavaroni's manager, not when you had a 10 year-old living in your home.</li>
 </ul>
 </blockquote>
 <cite>Robcamstone</cite>
@@ -93,6 +93,11 @@ Her parents owned a fish and chip shop called Zavaroni's.
 <p>Lena moved to London to stay with her managers Dorothy and Phil Solomon.</p>
 <p>She had to adapt to a new way of life; such as discovering lifts, and traffic lights and learning about napkins for the first time.</p>
 <p>One of the first things Lena's agent did for Lena was to put her on a diet.</p>
+</figcaption>
+</figure>
+
+<figure class="fig3">
+<h3 id="library1"><a href="#library1">The Free Library</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <blockquote>
 <p>SHE set out on the path to fame as a healthy, happy 10-year-old with a voice to die for and everything to live for.</p>
 <p>But by the time the world had woken up to Scottish singer Lena Zavaroni's talent, her agent had put her on a diet.</p>
@@ -100,26 +105,35 @@ Her parents owned a fish and chip shop called Zavaroni's.
 <p>But it sowed the seeds in the mind of the young star and put her on a roller-coaster ride that would lead to her tragic death at the age of <s>36</s> 35.</p>
 </blockquote>
 <cite>The Free Library, <a class="external-link" href="http://www.thefreelibrary.com/LENA+WAS+PUT+ON+DIET+AT+10%3b+Star's+long+battle+with+anorexia+began...-a060874902">15 February 2000</a></cite>
-<br />
+</figure>
+
+<figure class="fig3">
+<h3 id="comment1"><a href="#comment1">Comment</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <blockquote>
-What is unclear about the situation with Lena living in London with her managers is who was taking parental responsibility.
-One would think it would still be her mother and father, but if that's the case did her managers ask for permission to put Lena on a diet?
+<p>What is unclear about the situation with Lena living in London with her managers is who was taking parental responsibility.</p>
+<p>One would think it would still be her mother and father, but if that's the case did her managers ask for permission to put Lena on a diet?</p>
 </blockquote>
 <cite>Robcamstone</cite>
-<br />
+</figure>
+
+<figure class="fig3">
+<h3 id="library2"><a href="#library2">The Free Library</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <p>The article from The Free Library goes on to say...</p>
 <blockquote>
 <p>She was on a crash course to self-destruction and she still wasn't even old enough to leave primary school. Now, for the first time since the anorexic star's death last October, her family have spoken about the agony of watching Bute-born Lena starve herself.</p>
 <p>They have recalled how the happy little 10-year-old singer was suddenly put on a diet after moving from her Rothesay home to stay with her London agent, Dorothy Solomon.</p>
 </blockquote>
 <cite>The Free Library, <a class="external-link" href="http://www.thefreelibrary.com/LENA+WAS+PUT+ON+DIET+AT+10%3b+Star's+long+battle+with+anorexia+began...-a060874902">15 February 2000</a></cite>
-<br />
+</figure>
+
+<figure class="fig3">
+<h3 id="comment2"><a href="#comment2">Comment</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <blockquote>
 <p>If the media is correct in their comments then they are implying that Lena Zavaroni's family are only showing retrospective concern, as back in 1974 they made the choice to let their daughter go and stay with her agent.</p>
 <p> Saying it's what Lena Zavaroni wanted is no justification for letting her go. Parental control is about saying no to some things after all Dorothy Solomon was a stranger to them all at that time.
 The media comments seem to implied they had given up their Parental responsibilities as they took no action to prevent Lena Zavaroni from being put on a diet in 1974 but in 2000 claim that they had not agree to the diet.</p>
 </blockquote>
-<cite>Robcamstone</cite></figcaption>
+<cite>Robcamstone</cite>
 </figure>
 
 <figure class="fig3">
@@ -134,26 +148,35 @@ Time goes by and Lena&#8217;s new record album is overdue for delivery and we ar
 <h3 id="acceptable"><a href="#acceptable">It Was Acceptable To Comment On A Minor's Weight And Size</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <blockquote><p>The comments did not just go on behind the scenes some interviewers also seemed to find it acceptable to question a minor about her weight and nobody seemed to be challenging the treatment of Lena behind the scenes.</p></blockquote>
 <cite>Robcamstone</cite>
-<br />
+</figure>
+
+<figure class="fig3">
+<h3 id="lena"><a href="#lena">Lena Zavaroni</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <blockquote>When they tried to fit me into those costumes, they would talk about my weight. I kept wondering how they expected me to fit into these dresses. I was a plump little girl and I was also developing into a woman. I wanted to be just right for them but I had to go to all these breakfasts, dinners and lunches.&#8221; She added: &#8220;I only became fanatical about not eating when the pressure became too much. I just wanted to have a nice shape.</blockquote>
 <cite>Lena Zavaroni via <a class="external-link" href="http://internetdebris.blogspot.co.uk/2011/06/of-sages-sweet-old-bats-and-lost-little.html#:~:text=Little%20Girl%20Lost%20–%20Lena%20Zavaroni">Internet Debris</a> - 27 June 2011</cite>
-<br />
+</figure>
+
+<figure class="fig3">
+<h3 id="zavaroni"><a href="#zavaroni">Lena Zavaroni</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <blockquote>
 I've got to wear all these silly costumes and try and get into them and be with it for the TV.
 </blockquote>
 <cite>Lena Zavaroni</cite>
-<br />
+</figure>
+
+<figure class="fig3">
+<h3 id="comment3"><a href="#comment3">Comment</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <blockquote>
 <p>The comments made by Lena Zavaroni and the continuing questioning of her weight in interviews created the myth that because of her size the TV Companies and/or her management team could not find cloths to fit her (the reality was more likely a way of saving money).</p>
 <p>Unlike any other star the young Lena Zavaroni was to be seen wearing the same cloths again and again and so unsurprisingly when we look back she had become anorexic, yet the person(s) responsible for her physical and emotional abuse have never been charged or investigated.</p>
 <p>As well as being anorexic Lena Zavaroni had to deal with depression that also lasted the rest of her life.</p>
-<p>She underwent a number of <a href="#treatments">treatments</a> non of which worked.</p>
+<p>She underwent a number of <a href="#ect">treatments</a> non of which worked.</p>
 </blockquote>
 <cite>Robcamstone</cite>
 </figure>
 
 <figure class="fig3">
-<h3 id="peter-wiltshire"><a href="#peter-wiltshire">30 September 1989</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
+<h3 id="19890939"><a href="#19890939">30 September 1989</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <a href="/assets/images/wedding/wedding.png"><img src="/assets/images/wedding/wedding.png" class="full-width zoom-in"></a>
 <cite>Filmstrip made up of screenshots from their Wedding Video</cite>
 <figcaption class="split">
@@ -163,7 +186,7 @@ I've got to wear all these silly costumes and try and get into them and be with 
 </figure>
 
 <figure class="fig3">
-<h3 id="1996"><a href="#1996">3 November 1996</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
+<h3 id="19961103"><a href="#19961103">3 November 1996</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <p>Lena take an overdose of anti-depressants which she had secretly been squirreling away at The Montreux clinic.</p>
 <p>She was found asleep the following afternoon by Gay Pankhurst, a care worker.</p>
 </figure>
@@ -195,10 +218,10 @@ In the first days after the operation she appeared to slowly recover and seemed 
 <h3 id="nsmd2"><a href="#nsmd2">Neurosurgery for Mental Disorder (Modern stereotactic psychosurgery)</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <p>Has four types of procedures:</p>
 <ul>
-<p>anterior cingulotomy</p>
-<p>subcaudate tractotomy</p>
-<p>limbic leucotomy (aka lobotomy)</p>
-<p>anterior capsulotomy</p>
+<li>anterior cingulotomy</li>
+<li>subcaudate tractotomy</li>
+<li>limbic leucotomy (aka lobotomy)</li>
+<li>anterior capsulotomy</li>
 </ul>
 </figure>
 
@@ -215,21 +238,20 @@ In the first days after the operation she appeared to slowly recover and seemed 
 <blockquote>
 <p>Neurosurgery for Mental Disorder is covered by section 57 of the Mental Health Act 1983, which covers all patients, whether voluntary or detained under another section of the Act (sectioned). Under section 57, neurosurgery can be given only if all three of the following requirements are met:</p>
 <ul>
-<p>You consent to the treatment.</p>
-<p>second opinion appointed doctor (SOAD) and two other people appointed by the Care Quality Commission in England or the Healthcare Inspectorate of Wales certify that you have the capacity to consent and have done so.</p>
-<p>The SOAD also certifies that it is appropriate for you to receive the treatment.</p>
-</ul>
-<p>Your consent must be given free from undue pressure and with sufficient knowledge of the purpose, likelihood of success, risks and alternatives of the treatment.</p>
-<p>Could it ever be performed without my consent?</p>
+<li>You consent to the treatment.</li>
+<li>second opinion appointed doctor (SOAD) and two other people appointed by the Care Quality Commission in England or the Healthcare Inspectorate of Wales certify that you have the capacity to consent and have done so.</li>
+<li>The SOAD also certifies that it is appropriate for you to receive the treatment.</li>
+<li>Your consent must be given free from undue pressure and with sufficient knowledge of the purpose, likelihood of success, risks and alternatives of the treatment.</li>
+<li>Could it ever be performed without my consent?</li>
 <ul>
-<p>No. In England and Wales, NMD cannot be performed without your consent, even if you lack the capacity to consent. The Mental Capacity Act may not be used to authorise a treatment which comes under section 57 of the Mental Health Act.</p>
-</ul>
+<li>No. In England and Wales, NMD cannot be performed without your consent, even if you lack the capacity to consent. The Mental Capacity Act may not be used to authorise a treatment which comes under section 57 of the Mental Health Act.</li>
+</ul></ul>
 </blockquote>
 <cite><a class="external-link" href="https://www.mind.org.uk/information-support/drugs-and-treatments/neurosurgery-for-mental-disorder-nmd/consent-to-nmd#TheLawInEnglandAndWales">Consent to NMD | Mind, the mental health charity</a></cite>
 </figure>
 
 <figure class="fig3">
-<h3 id="comment1"><a href="#comment1">Comment</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
+<h3 id="comment4"><a href="#comment4">Comment</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <blockquote>
 <p>This section of the Mental Health Act seems flawed How can an individual with severe mental heath problems make an informed chose if they are capable of making such a chose then I would argue that they don't need the surgical procedure.</p>
 <p>Lena informing those treating her that she would kill herself if she does not get the NMD is not consect but is as they believed her threat grounds for Lena being Sectioned.</p>
@@ -250,14 +272,14 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <figure class="fig3">
 <h3 id="bronchopneumonia"><a href="#bronchopneumonia">Bronchopneumonia</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <ul>
-<p>There are many different types of bacteria and viruses that can lead to Pneumonia.</p>
-<p>Good hygiene and a healthy lifestyle can help prevent Pneumonia.</p>
+<li>There are many different types of bacteria and viruses that can lead to Pneumonia.</li>
+<li>Good hygiene and a healthy lifestyle can help prevent Pneumonia.</li>
 </ul>
-<p>Pneumonia  can lead to complications, some of which can be fatal, depending on the health and age of the patient. These include:</p>
+<li>Pneumonia  can lead to complications, some of which can be fatal, depending on the health and age of the patient. These include:</li>
 <ul>
-<p>Respiratory failure (when the lungs cannot take in enough oxygen) due to the air sacs filling with fluid.</p>
-<p>lung abscesses.</p>
-<p>blood poisoning (septicaemia).</p>
+<li>Respiratory failure (when the lungs cannot take in enough oxygen) due to the air sacs filling with fluid.</li>
+<li>lung abscesses.</li>
+<li>blood poisoning (septicaemia).</li>
 </ul>
 <blockquote>
 <p>Sadly we know her lifestyle was less then healthy and people with anorexia nervosa are more likely to get Pneumonia , but Lena Zavaroni was in a hospital that should have had very good hygiene.</p>
@@ -321,15 +343,15 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <h3 id="unknowns"><a href="#unknowns">All we can say is there is a lot of unknowns:</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <blockquote>
 <ul>
-<p>How did Lena Zavaroni contract Bronchopneumonia  while in a hospital?</p>
-<p>How was the hospital treating the Bronchopneumonia.</p>
-<p>Did the coroner ask way the surgical procedure Neurosurgery for Mental Disorder (NMD) was done considering the weight of Lena Zavaroni?</p>
-<p>Did the coroner ask if the hospital considered what if any were the dangers of post-operative infection and how they planed to deal with such an outcome?</p>
-<p>Did the coroner request an autopsy?</p>
-<p>Did the coroner look at her brain and see where the holes and cuts were made for the NMD or did the coroner just look into the effects of the Bronchopneumonia  on her lungs?</p>
-<p>How independent was the coroner from the staff at the hospital?</p>
-<p>How much focus was given to the long term mental health of Lena Zavaroni and the effects of the abuse she had received throughout her live?</p>
-<p>Why has there never been a full investigation into the life and death of Lena Zavaroni?</p>
+<li>How did Lena Zavaroni contract Bronchopneumonia  while in a hospital?</li>
+<li>How was the hospital treating the Bronchopneumonia.</li>
+<li>Did the coroner ask way the surgical procedure Neurosurgery for Mental Disorder (NMD) was done considering the weight of Lena Zavaroni?</li>
+<li>Did the coroner ask if the hospital considered what if any were the dangers of post-operative infection and how they planed to deal with such an outcome?</li>
+<li>Did the coroner request an autopsy?</li>
+<li>Did the coroner look at her brain and see where the holes and cuts were made for the NMD or did the coroner just look into the effects of the Bronchopneumonia  on her lungs?</li>
+<li>How independent was the coroner from the staff at the hospital?</li>
+<li>How much focus was given to the long term mental health of Lena Zavaroni and the effects of the abuse she had received throughout her live?</li>
+<li>Why has there never been a full investigation into the life and death of Lena Zavaroni?</li>
 </ul>
 </blockquote>
 <cite>Robcamstone</cite>
@@ -356,13 +378,13 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <h3 id="natural-causes"><a href="#natural-causes">List Of The So Called Natural Causes</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <blockquote>
 <ul>
-<p>So It is perfectly natural to believe that a patient with severe depression can make an informed choice.</p>
-<p>So It is perfectly natural to be thin and extremely under weight.</p>
-<p>So It is perfectly natural to not find out the root cause of the depression and treat that, but instead just isolate parts of the brain.</p>
-<p>So It is perfectly natural to have sections of your brain isolated from each other that are normally connected together.</p>
-<p>So It is perfectly natural to contract Bronchopneumonia within the sterile environment of the hospital.</p>
-<p>So It is perfectly natural to blame your dead patient for the poor medical decisions you made as her medical practitioner.</p>
-<p>So It is perfectly natural to use an umbrella term (Neurosurgery for Mental Disorder) instead of naming the precise procedure carried out.</p>
+<li>So It is perfectly natural to believe that a patient with severe depression can make an informed choice.</li>
+<li>So It is perfectly natural to be thin and extremely under weight.</li>
+<li>So It is perfectly natural to not find out the root cause of the depression and treat that, but instead just isolate parts of the brain.</li>
+<li>So It is perfectly natural to have sections of your brain isolated from each other that are normally connected together.</li>
+<li>So It is perfectly natural to contract Bronchopneumonia within the sterile environment of the hospital.</li>
+<li>So It is perfectly natural to blame your dead patient for the poor medical decisions you made as her medical practitioner.</li>
+<li>So It is perfectly natural to use an umbrella term (Neurosurgery for Mental Disorder) instead of naming the precise procedure carried out.</li>
 </ul>
 <p>If as her doctor claimed she had made it clear that she would again try to take her life and he believed she would. Why was she not SECTIONED under the related part of the mental health act of 1983? and that also proves she was not in a state of mine to make an informed choice.</p>
 <p>It should be noted that the Neurosurgery for Mental Disorder she under went would not have been able to be carried out if Lena had been SECTIONED.</p>
