@@ -29,7 +29,12 @@ categories: [Discography]
 
 <a href="/discography/singles/1981-04-03-roses-and-rainbows">1981 &#8212; Roses And Rainbows</a>
 
-<a href="/discography/singles/1979-11-09-somewhere-south-of-macon">1981 &#8212; Somewhere South Of Macon</a>
+<strong>Somewhere South Of Macon</strong>
+<ul>
+<li><a href="/discography/singles/1979-11-09-somewhere-south-of-macon-promo">1979 &#8212; Somewhere South Of Macon - Promo</a></li>
+<li><a href="/discography/singles/1980-somewhere-south-of-macon-france">1980 &#8212; Somewhere South Of Macon - France</a></li>
+<li><a href="/discography/singles/1981-09-25-somewhere-south-of-macon-uk">1981 &#8212; Somewhere South Of Macon - UK</a></li>
+</ul>
 
 <a href="/discography/singles/1982-06-11-hold-tight">1982 &#8212; Hold Tight (Want Some Sea Food, Mama)</a>
 
