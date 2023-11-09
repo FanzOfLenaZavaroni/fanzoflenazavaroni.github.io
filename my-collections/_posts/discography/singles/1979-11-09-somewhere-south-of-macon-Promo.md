@@ -3,8 +3,8 @@ layout: post
 title: Somewhere South Of Macon
 maintitle: Somewhere South Of Macon
 more: Promo Single
-description: This promo single would go on to become the twelveth single released by Lena Zavaroni.
-post_description: This promo single would go on to become the twelveth single released by Lena Zavaroni.
+description: This promo single would go on to become the twelveth UK single released by Lena Zavaroni.
+post_description: This promo single would go on to become the twelveth UK single released by Lena Zavaroni.
 image: /assets/images/singles/lena-zavaroni-somewhere-south-of-macon-president.jpg
 categories: [Discography, Singles, OnThisDay9November]
 permalink: /discography/singles/:name
