@@ -178,6 +178,7 @@ I've got to wear all these silly costumes and try and get into them and be with 
 <figure class="fig3">
 <h3 id="19821108"><a href="#19821108">8 November 1982</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <p>A senior official at the London Psychiatric Clinic finally confirms for the first time that Lena had anorexia nervosa.</p>
+<blockquote>We now know she had been anorexic since she was 13 in 1982 she was 19 so it had only taken 6 years for the truth to come out. Confirming that the press had been right and that Lena's managers and parents had been the ones hiding the truth. If the reason for doing so had been because Lena has a right to a private life that would have been fair. Sadly it's more likely that as one of the main contributers to Lena becoming anorexia her managers would not want to truth to be know. The TV Interviewers that also put questions on her wight and size have to take some of the blame along with her parents who let such questioning of a child, their child to take place.</blockquote>
 </figure>
 
 <figure class="fig3">
