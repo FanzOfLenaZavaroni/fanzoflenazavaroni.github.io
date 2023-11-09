@@ -176,6 +176,11 @@ I've got to wear all these silly costumes and try and get into them and be with 
 </figure>
 
 <figure class="fig3">
+<h3 id="19821108"><a href="#19821108">8 November 1982</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
+<p>A senior official at the London Psychiatric Clinic finally confirms for the first time that Lena had anorexia nervosa.</p>
+</figure>
+
+<figure class="fig3">
 <h3 id="19890939"><a href="#19890939">30 September 1989</a><span style="float:right;"><a title="Return To Top Of The Page" href="#top">&#8613;</a></span></h3>
 <a href="/assets/images/wedding/wedding.png"><img src="/assets/images/wedding/wedding.png" class="full-width zoom-in"></a>
 <cite>Filmstrip made up of screenshots from their Wedding Video</cite>
