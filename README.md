@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1963-11-04-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6ae54863036796869e97f1c10ad416e2d3973d6b)
-- [Update 1963-11-04-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f39adb11881465e154ec8a8b527d81f35b2ec036)
-- [Update 1980-11-13-diamond-cabaret-club.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d156d370f56e8d1999ebc8213f75755970b151ad)
-- [Update readme-update-workflow.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/096148abbb296daf10d95ddfaccc11f3c72312e1)
-- [Update 1963-11-04-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4f814b7aad51930b600da046d2587e70990fa935)
+- [Update lena-zavaroni-ma-hes-making-eyes-at-me-1974-2-ca.jpg, lena-zav…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c95da21a7924ad3352c73b4347ebaa53eb5f6c05)
+- [Delete .github/workflows/generator-generic-ossf-slsa3-publish.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/911798aed21ebf2e3561f84afa23c715979130ac)
+- [Create generator-generic-ossf-slsa3-publish.yml](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c390e7adff48d7868f69fafd47b4929a257c88fb)
+- [Update 1976-if-my-friends-could-see-me-now-uk.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f25ea499602013440a4b54db5bf9a547d36a7abc)
+- [Update 1976-if-my-friends-could-see-me-now-finland.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0ce8d567eff18348fc9a7b0f1255dc56743b8f7c)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
