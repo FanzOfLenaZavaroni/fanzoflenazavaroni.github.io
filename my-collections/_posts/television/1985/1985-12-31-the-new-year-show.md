@@ -1,14 +1,22 @@
 ---
 layout: post
-title: The New Year Show &#124; 31 December 1985
-maintitle: The New Year Show (31 December 1985)
+title: The New Year Show
+maintitle: The New Year Show
 subtitle: Scottish Television
 description: Laird O' Cowcaddens jack McLaughlin hosts STV's classic New Year bash from 1985. Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, Andy Cameron, Russ Abbott, Sydney Devine, the Alexander Brothers and many more.
-media: Details
-post_description: Lena Zavaroni pre-recorded a New Year sequence which included her singing Auld Lang Syne for use by Scottish television (STV) on The New Year Show (1985).
+post_description: Laird O' Cowcaddens jack McLaughlin hosts STV's classic New Year bash from 1985. Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, Andy Cameron, Russ Abbott, Sydney Devine, the Alexander Brothers and many more.
 image: https://img.youtube.com/vi/iOWvho3ZSKw/sddefault.jpg
-categories: [Scottish-Television-(STV), OnThisDay21November, OnThisDay31December]
+categories: [Scottish-Television-(STV), OnThisDay31December]
 ---
+
+<figure class="fig3">
+<table>
+<tr style="text-align:center;"><th colspan="2">View Details</th></tr>
+<tr style="text-align:center;"><td><a href="/1985-11-21-Lenas-pre-recorded-sequence-for-the-new-year-show-is-recorded">Lena's Pre-recorded Sequence</a></td><td><a href="/1985-12-31-the-new-year-show">The New Year Show</a><span style="color:#2a7ae2;">&check;</span></td></tr>
+</table>
+</figure>
+
+{: .clear}
 
 Laird O' Cowcaddens jack McLaughlin hosts STV's classic New Year bash from 1985.
 
@@ -48,14 +56,6 @@ Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, A
 <tr><th>Director</th><td>Anne Mason</td></tr>
 <tr><th>Production Company</th><td>Scottish Television (STV)</td></tr>
 </table>
-</figure>
-
-<figure class="fig3">
-<h3 id="prerecorded"><a href="#prerecorded">Pre-recorded Sequence</a></h3>
-<img src="/assets/images/STV/Auld.jpg" class="full-width"/>
-<figcaption>
-<cite>Lena discusses her performance on the New Year Show with the studio crew during the pre-recorded sequence filmed on the 21 November 1985</cite>
-</figcaption>
 </figure>
 
 <br />{: .clear}
