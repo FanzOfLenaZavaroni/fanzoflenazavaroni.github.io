@@ -6,7 +6,7 @@ subtitle: Episode 7.5 - The Hero
 description: Mrs. Slocombe makes a comment about Lena Zavaroni.
 post_description: Episode 7.5 - The Hero - Mrs. Slocombe makes a comment about Lena Zavaroni.
 image: /assets/images/BBC-PIDs/1920xn/p01tlmqw.jpg
-categories: [BBC-One, "Are-You-Being-Served?", OnThisDay16November]
+categories: [BBC-One, "Are-You-Being-Served?", Popular-Culture, OnThisDay16November]
 last_modified_at: 15 November 2023
 ---
 
