@@ -22,7 +22,7 @@ last_modified_at: 26 October 2023
 <li><a href="/discography/studio-albums/1975-if-my-friends-could-see-me-now-australia">1975 &#8212; Released In Australia On 12" Vinyl, 33⅓ Album</a></li>
 <li><a href="/discography/studio-albums/1975-if-my-friends-could-see-me-now-uk">1975 &#8212; Released In The UK On Cassette Tape</a></li>
 <li><a href="/discography/studio-albums/1976-if-my-friends-could-see-me-now-finland">1976 &#8212; Released In Finland On Cassette Tape</a></li>
-<li><a href="/discography/studio-albums/1976-if-my-friends-could-see-me-now-uk">1976 &#8212; Re-Released In The UK On 12" Vinyl, 33⅓ Album</a></li>
+<li><a href="/discography/studio-albums/1976-11-if-my-friends-could-see-me-now-uk">1976 &#8212; Re-Released In The UK On 12" Vinyl, 33⅓ Album</a></li>
 <li><a href="/discography/studio-albums/2012-11-19-if-my-friends-could-see-me-now-uk">2012 &#8212; Re-Released In The UK On CD Album</a></li>
 </ul></li>
 <li><a href="/discography/studio-albums/1975-lena-zavaroni-in-south-africa">1975 &#8212; Lena Zavaroni in South Africa</a></li>
