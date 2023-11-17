@@ -6,14 +6,14 @@ maintitle: If My Friends Could See Me Now
 subtitle: Studio Album - Released In Finland On Cassette Tape
 description: 
 image: /assets/images/albums/2UKc.jpg
-last_modified_at: 16 November 2023
+last_modified_at: 17 November 2023
 ---
 
 <figure class="fig3">
 <table style="text-align:center;">
 <tr><th colspan="4">View Details For Know Releases</th></tr>
 <tr><td><a href="/discography/studio-albums/1974-if-my-friends-could-see-me-now-uk">1974 - UK Vinyl Album</a></td><td><a href="/discography/studio-albums/1974-if-my-friends-could-see-me-now-germany">1974 - German Vinyl Album</a></td><td><a href="/discography/studio-albums/1975-if-my-friends-could-see-me-now-australia">1975 - Australia Vinyl Album</a></td></tr>
-<tr><td><a href="/discography/studio-albums/1975-if-my-friends-could-see-me-now-uk">1975 - UK Cassette Tape</a></td><td><a href="/discography/studio-albums/1976-if-my-friends-could-see-me-now-finland">1976 - Finland Cassette Tape</a><span style="color:#2a7ae2;">&check;</span></td><td><a href="/discography/studio-albums/1976-11-if-my-friends-could-see-me-now-uk">1976 - UK Vinyl Re-Release</a></td></tr>
+<tr><td><a href="/discography/studio-albums/1975-if-my-friends-could-see-me-now-uk">1975 - UK Cassette Tape</a></td><td><a href="/discography/studio-albums/1976-if-my-friends-could-see-me-now-finland">1976 - Finland Cassette Tape &#x2714;</a></td><td><a href="/discography/studio-albums/1976-11-if-my-friends-could-see-me-now-uk">1976 - UK Vinyl Re-Release</a></td></tr>
 <tr><td colspan="3"><a href="/discography/studio-albums/2012-11-19-if-my-friends-could-see-me-now-uk">2012 - CD Re-Release Of The Original Recording</a></td></tr>
 </table>
 </figure>

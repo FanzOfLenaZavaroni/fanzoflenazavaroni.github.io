@@ -15,7 +15,7 @@ last_modified_at: 9 November 2023
 <figure class="fig3">
 <table style="text-align:center;">
 <tr><th colspan="3">View Details For Know Releases</th></tr>
-<tr><td style="width:33%;"><a href="/discography/singles/1979-11-09-somewhere-south-of-macon-promo">1979 - Promo Release</a></td><td style="width:33%;"><a href="/discography/singles/1980-somewhere-south-of-macon-france">1980 - France Release</a></td><td style="width:34%;"><a href="#uk">1981 - Official UK Release</a></td></tr>
+<tr><td style="width:33%;"><a href="/discography/singles/1979-11-09-somewhere-south-of-macon-promo">1979 - Promo Release</a></td><td style="width:33%;"><a href="/discography/singles/1980-somewhere-south-of-macon-france">1980 - France Release</a></td><td style="width:34%;"><a href="#uk">1981 - Official UK Release &#x2714;</a></td></tr>
 <tr><th colspan="3">Jump To</th></tr>
 <tr><td style="width:20%;"><a href="#front">Front Cover</a></td><td style="width:20%;"><a href="#back">Back Cover</a></td><td style="width:20%;"><a href="#youtube">YouTube</a></td></tr>
 </table>
