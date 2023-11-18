@@ -26,10 +26,14 @@ last_modified_at: 17 November 2023
 <img src="/assets/images/albums/2UKd.jpg" class="full-width" alt="CD Cover for the album If My Friends Could See Me Now (2012)" />
 <figcaption>
 <table>
-<tr><th>Label:</th><td>Pickwick Group Limited – 712412</td></tr>
+<tr><th>Label:</th><td>Pickwick Group Limited / Hallmark – PW 712412</td></tr>
+<tr><td colspan="2">Hallmark is a label owned by Pickwick.<br />The copyright in this recording is owned by Pickwick Group Ltd.</td></tr>
+<tr><th>ASIN:</th><td>B009VIDGZ</td></tr>
+<tr><th>Barcode:</th><td>5050457124120</td></tr>
 <tr><th>Format:</th><td>Audio CD</td></tr>
 <tr><th>Country:</th><td>UK</td></tr>
 <tr><th>Released:</th><td>19 November 2012</td></tr>
+<tr><th>MusicBrainz</th><td><a class="external-link" href="https://musicbrainz.org/release/48f40444-2823-4cb1-8b73-e3790b91b10d">If My Friends Could See Me Now CD</a></td></tr>
 </table>
 </figcaption>
 </figure>
