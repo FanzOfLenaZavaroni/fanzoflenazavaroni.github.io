@@ -12,7 +12,7 @@ categories: [Scottish-Television-(STV), OnThisDay21November]
 <figure class="fig3">
 <table>
 <tr style="text-align:center;"><th colspan="2">View Details</th></tr>
-<tr style="text-align:center;"><td><a href="/1985-11-21-Lenas-pre-recorded-sequence-for-the-new-year-show-is-recorded">Lena's Pre-recorded Sequence</a><span style="color:#2a7ae2;">&check;</span></td><td><a href="/1985-12-31-the-new-year-show">The New Year Show</a></td></tr>
+<tr style="text-align:center;"><td><a href="/1985-11-21-Lenas-pre-recorded-sequence-for-the-new-year-show-is-recorded">Lena's Pre-recorded Sequence &#x2714;</a></td><td><a href="/1985-12-31-the-new-year-show">The New Year Show</a></td></tr>
 </table>
 </figure>
 
