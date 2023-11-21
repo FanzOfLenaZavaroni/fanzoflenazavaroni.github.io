@@ -14,29 +14,32 @@ categories: [London-Weekend-Television, Lena-and-Bonnie, Lena-Zavaroni, Bonnie-L
 <tr align="center">
 <th colspan="4">Jump to:</th>
 </tr>
-
 <tr align="center">
 <td><a href="#the-complete-show">The Complete Show</a></td>
 <td><a href="#details">Details</a></td>
 <td><a href="#credits">Credits</a></td>
 <td><a href="#interview">Interview With Bonnie Langford</a></td>
 </tr>
-
 <tr align="center">
 <td><a href="#part-1">Part 1</a></td>
 <td><a href="#part-2">Part 2</a></td>
 <td><a href="#part-3">Part 3</a></td>
 <td><a href="/1978-03-26-publicity-for-lena-and-bonnie">Publicity Photos</a></td>
 </tr>
-
 <tr align="center">
 <th colspan="4">External Websites:</th>
 </tr>
-
 <tr align="center">
-<td colspan="2"><a class="external-link" href="https://www2.bfi.org.uk/films-tv-people/4ce2b6a09b8de">BFI</a></td>
-<td colspan="2"><a class="external-link" href="https://stevefullerphoto.com/article/farewell-london-studios">Farewell London Studio</a></td>
+<td colspan="4"><a class="external-link" href="https://stevefullerphoto.com/article/farewell-london-studios">Farewell London Studio</a></td>
 </tr>
+</table>
+
+<table>
+<tr><th colspan="5"><a class="external-link" href="https://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150018519">BFI: Collections Database</a></th></tr>
+<tr><th>Digital Archive</th><td colspan="5">AS-11 UK DPP SD - MXF OP1a - D10 - - N-625035 - Master</td></tr>
+<tr><th style="width:20%;">Digital Archive</th><td colspan="5">MOV - 00:51:06 minutes - V210 - - N-625036 - Master</td></tr>
+<tr><th>Video Archive</th><td colspan="5">Video - Video - - TX date: 1978-03-26 - C-90850 - Viewing - Videotape can be requested for access</td></tr>
+<tr><th>Video Archive</th><td colspan="5">2-inch Quadruplex - Video - - TX date: 1978-03-17 - C-90851 - Master - Restricted access to preserved videotape</td></tr>
 </table>
 
 <figure class="fig1">

@@ -8,25 +8,34 @@ media: BBC One
 post_description: Lena performs Jubilation T. Cornpone from the musical Lil Abner, and  her then new single Air Love.
 image: /assets/images/BBC/The-Musical-Time-Machine-01.jpg
 categories: [BBC-One, OnThisDay15February]
+last_modified_at: 21 November 2023
 ---
 
-<figure class="fig1">
+<table>
+<tr>
+<th colspan="5"><a class="external-link" href="https://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150582319">BFI: Collections Database</a></th>
+</tr>
+<tr>
+<th style="width:20%;">Video Archive</th>
+<td colspan="5">VHS cassette - Video - - TX date: 1977-02-15 - C-816749 - Status pending - Material requires inspection to determine preservation or access status</td>
+</tr>
+</table>
+
+{: .clear}
+
+
+<figure class="fig3">
 <figcaption>
 <h3 id="screenshot"><a href="#screenshot">Screenshot</a></h3>
-<img src="/assets/images/BBC/The-Musical-Time-Machine-01.jpg" class="full-widthh"/>
+<img src="/assets/images/BBC/The-Musical-Time-Machine-01.jpg" class="full-width"/>
 </figcaption>
 </figure>
 
-<figure class="fig2">
-<figcaption>
+{: .clear}
+
+<figure class="fig3">
 <h3 id="details"><a href="#details">Details</a></h3>
 <p>Lena performs Jubilation T. Cornpone from the musical Lil Abner, and  her then new single <a href="/discography/singles/1977-02-18-air-love">Air Love</a>.</p>
-<h3 id="external-website">External Website</h3>
-<table>
-<tr><th>BBC Genome</th><td><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1977-02-15#at-21.00">BBC Two England, 15 February 1977 &#124; 21.00</a></td></tr>
-<tr><th>BFI</th><td><a class="external-link" href="https://www2.bfi.org.uk/films-tv-people/4ce2b85146bf9">The Musical Time Machine[15/02/77] (1977)</a></td></tr>
-</table>
-</figcaption>
 </figure>
 
 {: .clear}

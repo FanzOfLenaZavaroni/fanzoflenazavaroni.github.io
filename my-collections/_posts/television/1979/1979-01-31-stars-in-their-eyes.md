@@ -10,6 +10,14 @@ image: /assets/images/ITV/Stars-In-Their-Eyes.jpg
 categories: [Tyne-Tees-Television, Lena-Zavaroni, Bonnie-Langford, OnThisDay31January]
 ---
 
+<table>
+<tr><th colspan="5"><a class="external-link" href="https://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150293864">BFI: Collections Database</a></th></tr>
+<tr><th>Digital Archive</th><td colspan="5">AS-11 UK DPP SD - MXF OP1a - D10 - - N-1431801 - Master</td></tr>
+<tr><th style="width:20%;">Digital Archive</th><td colspan="5">MOV - V210 - - N-1431802 - Master</td></tr>
+<tr><th>Video Archive</th><td colspan="5">2-inch Quadruplex - Video - 625 - PAL - - TX date: 1979-01-31 - C-684261 - Status pending - Material requires inspection to determine preservation or access status</td></tr>
+<tr><th>Video Archive</th><td colspan="5">Digital Betacam - Video - 38.38 minutes - 625 - PAL - - C-1117994 - Master - Restricted access to preserved videotape</td></tr>
+</table>
+
 Documentary which follows the lives of various members of the Italia Conti stage school, including Lena Zavaroni and Bonnie Langford.
 
 <figure class="fig1">
@@ -21,7 +29,6 @@ Documentary which follows the lives of various members of the Italia Conti stage
 <h3 id="synopsis"><a href="#synopsis">Synopsis</a></h3>
 <table>
 <tr><td colspan="2">Documentary film about the Italia Conti Stage School.</td></tr>
-<tr><th style="width:50%;">BFI</th><td style="width:50%;"><a class="external-link" href="http://www.bfi.org.uk/films-tv-people/4ce2b771f367a">Stars In Their Eyes</a></td></tr>
 </table>
 </figure>
 
