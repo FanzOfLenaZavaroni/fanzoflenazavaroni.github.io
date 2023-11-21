@@ -8,13 +8,13 @@ media: Details
 post_description: Lena performs You Keep Me Dancing, before being interviewed by Brucie. They then perform a duet on Something Extra to close the show.
 image: /assets/images/ITV/1978-11-25-bruce-forsyths-big-night.jpg
 categories: [London-Weekend-Television, OnThisDay25November]
+last_modified_at: 21 November 2023
 ---
 
 Lena performs You Keep Me Dancing, before being interviewed by Brucie.
 
 They then perform a duet of Something Extra to close the show.
 
-[BFI: Bruce Forsyth's Big Night[25/11/78] (1978)](https://www.bfi.org.uk/films-tv-people/4ce2b87a3d2f7)
 
 <figure class="fig1">
 <img src="/assets/images/ITV/1978-11-25-bruce-forsyths-big-night-01.jpg" class="full-width">
@@ -67,15 +67,3 @@ They then perform a duet of Something Extra to close the show.
 
 <br />{: .clear}
 
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
