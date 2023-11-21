@@ -10,6 +10,24 @@ image: /assets/images/ITV/1877-12-27-maxs-holiday-hour.jpg
 categories: [Thames-Television, OnThisDay27December]
 ---
 
+<table>
+<tr>
+<th colspan="5"><a class="external-link" href="https://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150517793">BFI: Collections Database</a></th>
+</tr>
+<tr>
+<th style="width:20%;">Digital Archive</th>
+<td colspan="5">MKV - 00:50:11 minutes - FFV1 v3 - - N-4364121 - Master - Restricted access to preserved digital file</td>
+</tr>
+<tr>
+<th>Video Archive</th>
+<td colspan="5">2-inch Quadruplex - Video - 625 - PAL - - TX date: 1977-12-27 - C-812632 - Status pending - Material requires inspection to determine preservation or access status</td>
+</tr>
+<tr>
+<th>Video Archive</th>
+<td colspan="5">Digital Betacam - Video - 50.11 minutes - 625 - PAL - - C-1084366 - Master - Restricted access to preserved videotape</td>
+</tr>
+</table>
+
 <figure class="fig3">
 <h3 id="details"><a href="#details">Details</a></h3>
 <p>Lena recites a naughty limerick in a short sketch with Max.</p>
@@ -54,9 +72,4 @@ categories: [Thames-Television, OnThisDay27December]
 </figure>
 
 <br />{: .clear}
-
-### Related Website
-<span class="post-categories">
-[British Film Institute (BFI)](http://www.bfi.org.uk/films-tv-people/4ce2b826478d5)
-</span>
 
