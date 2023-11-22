@@ -8,6 +8,7 @@ media: Television
 post_description: Lena took part in a discussion on the price of fame.
 image: /assets/images/Media-Logos/bfi_logo_transp.png
 categories: [Scottish-Television-(STV), OnThisDay31May]
+last_modified_at: 22 November 2023
 ---
 
 Lena took part in a discussion on the price of fame.
@@ -33,7 +34,6 @@ Lena took part in a discussion on the price of fame.
 <tr><th>Director:</th><td>Cliff Martin</td></tr>
 <tr><th>Producer:</th><td>Carol Haining</td></tr>
 <tr><th>Production company:</th><td>Scottish Television (STV)</td></tr>
-<tr><th>British Film Institute:</th><td><a href="https://www.bfi.org.uk/films-tv-people/4ce2b7cbd007b">Scottish Women [31/05/93] (1993)</a></td></tr>
 </table>
 </figure>
 

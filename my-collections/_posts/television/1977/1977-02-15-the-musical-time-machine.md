@@ -11,19 +11,6 @@ categories: [BBC-One, OnThisDay15February]
 last_modified_at: 21 November 2023
 ---
 
-<table>
-<tr>
-<th colspan="5"><a class="external-link" href="https://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150582319">BFI: Collections Database</a></th>
-</tr>
-<tr>
-<th style="width:20%;">Video Archive</th>
-<td colspan="5">VHS cassette - Video - - TX date: 1977-02-15 - C-816749 - Status pending - Material requires inspection to determine preservation or access status</td>
-</tr>
-</table>
-
-{: .clear}
-
-
 <figure class="fig3">
 <figcaption>
 <h3 id="screenshot"><a href="#screenshot">Screenshot</a></h3>

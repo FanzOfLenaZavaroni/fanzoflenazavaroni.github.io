@@ -8,7 +8,7 @@ description: Lena presents the show and performs Roses And Rainbows and covers B
 post_description: Lena presents the show and performs Roses And Rainbows and covers Bobby Darin’s Multiplication.
 image: /assets/images/BBC/1981-07-25-summertime-special.jpg
 categories: [BBC-One, Summertime-Special, Brighton, OnThisDay10July, OnThisDay25July]
-last_modified_at: 26 June 2023
+last_modified_at: 22 November 2023
 ---
 
 <table style="text-align:center;">
@@ -22,7 +22,6 @@ last_modified_at: 26 June 2023
 <td><a href="#cast">Cast</a></td>
 <td><a href="#crew">Crew</a></td>
 <td><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1981-07-25#at-20.20">BBC Genome</a></td>
-<td><a href="https://www.bfi.org.uk/films-tv-people/4ce2b7749e82e">BFI</a></td>
 </tr>
 </table>
 

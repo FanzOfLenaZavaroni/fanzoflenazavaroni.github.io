@@ -8,26 +8,18 @@ media: London Weekend Television (LWT)
 post_description: Recorded on 25 March 1976 and broadcast on 9 April 1976
 image: https://img.youtube.com/vi/DgDqWWRSVoo/hqdefault.jpg
 categories: [London-Weekend-Television, OnThisDay25March, OnThisDay9April]
-last_modified_at: 21 November 2023
+last_modified_at: 22 November 2023
 ---
 
 <table>
 <tr align="center">
 <th colspan="3">Jump To:</th>
 </tr>
-
 <tr align="center">
 <td style="33%"><a href="#summary">Summary</a></td>
 <td style="34%"><a href="#cast">Cast</a></td>
 <td style="33%"><a href="#crew">Crew</a></td>
 </tr>
-</table>
-
-<table>
-<tr><th colspan="5"><a class="external-link" href="https://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150547941">BFI: Collections Database</a></th></tr>
-<tr><th>Digital Archive</th><td colspan="5">AS-11 UK DPP SD - MXF OP1a - D10 - - N-612781 - Master</td></tr>
-<tr><th style="width:20%;">Digital Archive</th><td colspan="5">MOV - 00:42:10 minutes - V210 - - N-612782 - Master</td></tr>
-<tr><th>Video Archive</th><td colspan="5">2-inch Quadruplex - Video - - TX date: 1976-04-09 - C-995341 - Master - Restricted access to preserved videotape</td></tr>
 </table>
 
 ### Summary

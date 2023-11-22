@@ -21,32 +21,6 @@ last_modified_at: 22 November 2023
 </tr>
 </table>
 
-<table>
-<tr>
-<th colspan="2"><a class="external-link" href="https://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150248251">BFI: Collections Database</a></th>
-</tr>
-
-<tr>
-<th style="width:20%;">Digital Archive</th>
-<td style="width:80%;">MKV - 00:38:25 minutes - - N-7209692 - Master - Restricted access to preserved digital file</td>
-</tr>
-
-<tr>
-<th style="width:20%;">Video Archive</th>
-<td style="width:80%;">1-inch C-Format - Video - 38.31 minutes - 625 - PAL - - TX date: 1985-12-31 - C-117174 - Status pending - Material requires inspection to determine preservation or access status</td>
-</tr>
-
-<tr>
-<th style="width:20%;">Video Archive</th>
-<td style="width:80%;">Digital Betacam - Video - 38.25 minutes - 625 - PAL - - C-1429748 - Master - Restricted access to preserved videotape</td>
-</tr>
-
-<tr>
-<th style="width:20%;">Video Archive</th>
-<td style="width:80%;">DVD - Video - - TX date: 1985-12-31 - N-234878 - Viewing - Videotape can be requested for access</td>
-</tr>
-</table>
-
 Laird O' Cowcaddens jack McLaughlin hosts STV's classic New Year bash from 1985.
 
 Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, Andy Cameron, Russ Abbott, Sydney Devine, the Alexander Brothers and many more.

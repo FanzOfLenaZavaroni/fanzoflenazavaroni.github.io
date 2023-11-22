@@ -8,6 +8,7 @@ media: Granada Television
 post_description: A short clip of Lena singing &quot;Help Me Make It Through The Night&quot; live, is included in this 90 minute documentary about the Grand Order Of Water Rats.
 image: /assets/images/Channel4/Grand%20Order%20of%20Water%20Rats.png
 categories: [Granada-Television, OnThisDay31December]
+last_modified_at: 22 November 2023
 ---
 
 <figure class="fig3">
@@ -90,7 +91,6 @@ categories: [Granada-Television, OnThisDay31December]
 <tr><th>Producer</th><td>Harry King</td></tr>
 <tr><th>Executive producer</th><td>Derek Batey</td></tr>
 <tr><th>Production company</th><td>Border Television For Channel 4 Television</td></tr>
-<tr><th>Source</th><td><a href="https://www2.bfi.org.uk/films-tv-people/4ce2b6fe24c3b">British Film Institute (BFI)</a></td></tr>
 </table>
 </figure>
 

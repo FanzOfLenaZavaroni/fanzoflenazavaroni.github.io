@@ -11,27 +11,6 @@ categories: [London-Weekend-Television, OnThisDay25November]
 last_modified_at: 22 November 2023
 ---
 
-<table>
-<tr>
-<th colspan="4">BFI: Collections Database</th>
-</tr>
-<tr>
-<th style="width:20%;">Digital Archive<br />Video Archive</th>
-<td colspan="3" style="width:80%;">Status currently unknown as the programme was removed from the main BFI website but doesn't come up in a search on the BFI: Collections Database</td>
-</tr>
-<tr class="split">
-<th colspan="4">Page Deleted So Link Now Broken</th>
-</tr>
-<tr>
-<th colspan="2">The Broken Link For Reference</th>
-<td colspan="2"><a class="external-link" href="https://www.bfi.org.uk/films-tv-people/4ce2b87a3d2f7">BFI: Films TV People</a><br /><strong>Note:</strong> Not available via the WayBackMachine</td>
-</tr>
-<tr>
-<th colspan="2">Screenshot Of The Deleted Page</th>
-<td><a href="/assets/images/bfi/4ce2b87d23e11.png">BFI: Bruce Forsyth's Big Night</a></td>
-</tr>
-</table>
-
 Lena performs You Keep Me Dancing, before being interviewed by Brucie.
 
 They then perform a duet of Something Extra to close the show.

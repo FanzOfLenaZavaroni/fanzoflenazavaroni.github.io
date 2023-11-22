@@ -8,6 +8,7 @@ description: Documentary on the stage school where Lena Zavaroni and Bonnie Lang
 media: Tyne Tees Television
 post_description: Documentary on the stage school where Lena Zavaroni and Bonnie Langford Started.
 categories: [Tyne-Tees-Television, Lena-Zavaroni, Bonnie-Langford, OnThisDay19August, OnThisDay3March]
+last_modified_at: 22 November 2023
 ---
 
 <figure class="fig3">
@@ -27,7 +28,6 @@ categories: [Tyne-Tees-Television, Lena-Zavaroni, Bonnie-Langford, OnThisDay19Au
 <table style="width:100%;">
 <tr><th>Production Company</th><td>Tyne Tees Television</td></tr>
 <tr><th>Producer</th><td>Tony Kysh</td></tr>
-<tr><th>External Link</th><td><a href="https://www2.bfi.org.uk/films-tv-people/4ce2b72feb785">British Film Institute</a></td></tr>
 </table>
 </figure>
 

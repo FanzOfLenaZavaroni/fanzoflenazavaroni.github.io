@@ -34,14 +34,6 @@ categories: [London-Weekend-Television, Lena-and-Bonnie, Lena-Zavaroni, Bonnie-L
 </tr>
 </table>
 
-<table>
-<tr><th colspan="5"><a class="external-link" href="https://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150018519">BFI: Collections Database</a></th></tr>
-<tr><th>Digital Archive</th><td colspan="5">AS-11 UK DPP SD - MXF OP1a - D10 - - N-625035 - Master</td></tr>
-<tr><th style="width:20%;">Digital Archive</th><td colspan="5">MOV - 00:51:06 minutes - V210 - - N-625036 - Master</td></tr>
-<tr><th>Video Archive</th><td colspan="5">Video - Video - - TX date: 1978-03-26 - C-90850 - Viewing - Videotape can be requested for access</td></tr>
-<tr><th>Video Archive</th><td colspan="5">2-inch Quadruplex - Video - - TX date: 1978-03-17 - C-90851 - Master - Restricted access to preserved videotape</td></tr>
-</table>
-
 <figure class="fig1">
 <figcaption>
 <h3 id="the-complete-show"><a href="#the-complete-show">The Complete show</a></h3>

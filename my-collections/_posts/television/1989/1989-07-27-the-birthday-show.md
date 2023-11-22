@@ -8,6 +8,7 @@ media: Thames Television
 post_description: Edward Woodward looks back at 21 years of Thames Television through a montage of old clips. An excerpt of Lena singing I Should Have Listened To Mama from the final episode of Opportunity Knocks is shown.
 image: /assets/images/ITV/1989-07-27-the-times-london-england-thursday-page-23-200x200.png
 categories: [Thames-Television, OnThisDay27July]
+last_modified_at: 22 November 2023
 ---
 
 <table style="text-align:center;">
@@ -18,7 +19,6 @@ categories: [Thames-Television, OnThisDay27July]
 <td><a href="#details">Details</a></td>
 <td><a href="#cast">Cast</a></td>
 <td><a href="#crew">Crew</a></td>
-<td><a href="https://www.bfi.org.uk/films-tv-people/4ce2b79d412be">BFI</a></td>
 </tr>
 </table>
 

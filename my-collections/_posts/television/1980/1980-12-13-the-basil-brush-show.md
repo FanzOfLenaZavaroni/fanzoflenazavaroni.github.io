@@ -7,6 +7,7 @@ description: Lena appears in a short musical comedy sketch with Basil and Billy 
 post_description: Lena appears in a short musical comedy sketch with Basil and Billy Boyle, before performing Will He Kiss Me Tonight.
 image: https://img.youtube.com/vi/CUPiw7fBoE4/sddefault.jpg
 categories: [BBC-One, OnThisDay13December]
+last_modified_at: 22 November 2023
 ---
 
 <figure class="fig3">
@@ -74,7 +75,6 @@ Lena appears in a short musical comedy sketch with Basil and Mr. Billy, before p
 </figcaption>
 <table>
 <tr><th style="width:35%;">BBC Genome:</th><td style="width:65%;"><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1980-12-13#at-17.10">13 December 1980 - Schedule For BBC One London</a></td></tr>
-<tr><th>British Film Institute (BFI):</th><td><a href="http://www.bfi.org.uk/films-tv-people/4ce2b83ee584f">The Basil Brush Show[13/12/80] (1980)</a></td></tr>
 <tr><th>History of the BBC:</th><td><a href="https://www.bbc.co.uk/programmes/p01bc8tb">The Basil Brush Show</a></td></tr>
 </table>
 </figure>
