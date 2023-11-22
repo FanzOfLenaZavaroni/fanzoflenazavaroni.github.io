@@ -2,9 +2,9 @@
 layout: post
 title: The Evening Times &#124; 24 November 1978
 maintitle: The Evening Times
-subtitle: Oh Ma They're Making Eyes At Me!
-description: Oh Ma They're Making Eyes At Me!
-post_description: Oh Ma They're Making Eyes At Me!
+subtitle: Oh Ma, They're Making Eyes At Me!
+description: Oh Ma, They're Making Eyes At Me!
+post_description: Oh Ma, They're Making Eyes At Me!
 categories: [Newspapers, Evening-Times, OnThisDay24November]
 last_modified_at: 21 November 2023
 ---
