@@ -8,7 +8,7 @@ description: In the week of Britain's round of the World Motor Racing Championsh
 post_description: Lena Zavaroni was one of many stars to perform.
 image: /assets/images/BBC/1976-07-15-the-grand-prix-night-of-the-stars.jpg
 categories: [BBC-One, Royal-Albert-Hall, London, OnThisDay13July, OnThisDay15July]
-last_modified_at: 21 November 2023
+last_modified_at: 22 November 2023
 ---
 
 <table style="text-align:center;">
@@ -23,18 +23,6 @@ last_modified_at: 21 November 2023
 <td><a href="#cast">Cast</a></td>
 <td><a href="#crew">Crew</a></td>
 <td><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1976-07-15#at-20.00">BBC Genome</a></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th colspan="5"><a class="external-link"  href="https://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150604607">BFI: Collections Database</a></th>
-</tr>
-<tr>
-<td colspan="5">
-<p><strong>Archive Format Video:</strong> VHS cassette - Video - - TX date: 1976-07-15 - C-827542</p>
-<p><strong>Archive Status:</strong> Pending - Material requires inspection to determine preservation or access status</p>
-</td>
 </tr>
 </table>
 

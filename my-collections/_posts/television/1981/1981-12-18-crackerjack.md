@@ -6,6 +6,7 @@ subtitle: Christmas Edition
 description: In this Christmas edition of the children's show, Lena helps a young contestant win a prize, and throws some custard pies around in the process.
 post_description: In this Christmas edition of the children's show, Lena helps a young contestant win a prize, and throws some custard pies around in the process.
 categories: [BBC-One, OnThisDay18December]
+last_modified_at: 22 November 2023
 ---
 
 In this Christmas edition of the children's show, Lena helps a young contestant win a prize, and throws some custard pies around in the process.
@@ -29,6 +30,6 @@ In this Christmas edition of the children's show, Lena helps a young contestant 
 * **Executive Producer:** Michael Hurll
 
 **Related Website:**
-<span class="post-categories">[BBC Genome](https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1981-12-18#at-16.50) &nbsp; [BFI](https://www.bfi.org.uk/films-tv-people/4ce2b84b15eed)
+<span class="post-categories">[BBC Genome](https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1981-12-18#at-16.50)
 </span>
 
