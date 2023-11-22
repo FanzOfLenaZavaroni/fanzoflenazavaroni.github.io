@@ -4,9 +4,10 @@ title: Research &#124; Last Update 10 December 2022
 maintitle: Research
 description: Links and tips on how to do your own research.
 permalink: /:name
+last_modified_at: 22 November 2023
 ---
 
-This Page was created on 5 October 2020 and last updated on 10 December 2022. The update was to resort the Comment(s) now define as Orphaned Comments.
+This Page was created on 5 October 2020 and last updated on 22 November 2023. The update was to explain how to use [Site Search](#s).
 
 The following is a list of websites and tips that may help you with your own research due to my policy on watermarking and due to trolling some well known websites will not be on this list, but as the best research is done yourself this will not matter as this page is just to help push you in the right direction and is far from an exhaustive list.
 
@@ -93,7 +94,9 @@ The following is a list of websites and tips that may help you with your own res
 ### R
 
 ### S
-* ——: **site search** to search a specific website for specific keywords you can type site:URL keywords **An example:** [<strong>site:bfi.org.uk Lena Zavaroni</strong>](https://www.google.com/search?q=site%3Abfi.org.uk+Lena+Zavaroni&newwindow=1&ei=yC4GY4Vfn5KFsg_9xJyIDQ&ved=0ahUKEwiF48260d_5AhUfSUEAHX0iB9EQ4dUDCA4&uact=5&oq=site%3Abfi.org.uk+Lena+Zavaroni&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGAFKBAhGGABQkUFYkUFg5UZoAXAAeACAAVaIAVaSAQExmAEAoAEBwAEB&sclient=gws-wiz) Site search is usefull where a website does not have it's own search option or has a search that is ineffective.
+* ——: <strong>Site Search</strong> to search a specific website for specific keywords you can type:<br /> <code>site:URL Keyword(s)</code> into your browsers search bar.
+     * ——: <strong>An example:</strong> [<strong>site:https://collections-search.bfi.org.uk Lena Zavaroni</strong>](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fcollections-search.bfi.org.uk+Lena+Zavaroni&oq=site%3Ahttps%3A%2F%2Fcollections-search.bfi.org.uk+Lena+Zavaroni&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDrSAQgxNDU5ajBqOagCALACAA&sourceid=chrome&ie=UTF-8) Site search is usefull where a website does not have it's own search option or has a search that is ineffective.
+     * ——: <code>site:URL Keyword(s)</code> works with Google and Microsoft Bing, It may well work with other search engines but I am currently unable to confirm this.
 * ——:  [<strong>Shop Memory Lane</strong>](https://shop.memorylane.co.uk/dmcs-search.html?search=lena+zavaroni) provides photos from mirrorpix.com for individuals to buy for personal use.
 
 ### T
