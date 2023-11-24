@@ -15,7 +15,7 @@ last_modified_at: 23 November 2023
 
 <figure class="fig3">
 <table>
-<tr><th colspan="3" style="background-color:#b0c4de;">Harold Fielding</th></tr>
+<tr><th colspan="3">InfoBox: Harold Fielding</th></tr>
 <tr>
 <th rowspan="8" class="top"><img src="/assets/images/harold-fielding.jpg" class="full-width" /></th>
 </tr>

@@ -14,7 +14,7 @@ categories: [Biography, Les-Dawson, OnThisDay2February, OnThisDay10June]
 
 <figure class="fig3">
 <table>
-<tr><th colspan="3" style="background-color:#b0c4de;">Les Dawson</th></tr>
+<tr><th colspan="3">InfoBox: Les Dawson</th></tr>
 <tr>
 <th rowspan="7" class="top"><img src="/assets/images/on-this-day/les-dawson.webp" class="full-width" /></th>
 </tr>
