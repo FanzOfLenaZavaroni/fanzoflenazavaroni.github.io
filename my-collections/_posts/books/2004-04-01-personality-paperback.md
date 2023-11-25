@@ -37,7 +37,7 @@ categories: [Books, Andrew-O'Hagan, OnThisDay1April]
 </table>
 
 <table>
-<tr id="infobox"><th colspan="3">InfoBox:</th></tr>
+<tr id="infobox"><th colspan="3">InfoBox: Personality</th></tr>
 <td rowspan="5" style="text-align: center; width:150px;"><a href="/assets/images/books/2003-04-07-personality-paperback.jpg"><img src="/assets/images/books/2003-04-07-personality-paperback.jpg" width="150" class="zoom-in"></a></td>
 <tr>
 <th style="width:25%;">Author:</th>
