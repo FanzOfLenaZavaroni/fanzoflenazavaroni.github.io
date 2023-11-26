@@ -7,7 +7,17 @@ description: Believed to be a recording for an episode of Lena Zavaroni and Musi
 post_description: Lena Zavaroni and Guests.
 image: /assets/images/BBC/ticket-1979-04-08.jpg
 categories: [BBC-Television-Centre, Lena-Zavaroni-and-Music, Dougie-Squires, OnThisDay8April]
+last_modified_at: 26 November 2023
 ---
+
+<figure class="fig3">
+<table style="text-align:center;">
+<tr><th colspan="8">View Details For The Two Know Dates for Lena Zavaroni and Guests<br />and Each Episode Of Lena Zavaroni and Music</th></tr>
+<tr><td style="width:12.5%;"><a href="/1979-04-01-lena-zavaroni-and-guests">Guests 1</a></td><td style="width:12.5%;"><a href="/1979-04-08-lena-zavaroni-and-guests/">Guests 2 &#x2714;</a></td><td style="width:12.5%;"><a href="/1979-05-23-lena-zavaroni-and-music/">Episode 1</a></td><td style="width:12.5%;"><a href="/1979-05-30-lena-zavaroni-and-music/">Episode 2</a></td><td style="width:12.5%;"><a href="/1979-06-06-lena-zavaroni-and-music/">Episode 3</a></td><td style="width:12.5%;"><a href="/1979-06-13-lena-zavaroni-and-music/">Episode 4</a></td><td style="width:12.5%;"><a href="/1979-06-20-lena-zavaroni-and-music/">Episode 5</a></td><td style="width:12.5%;"><a href="/1979-06-27-lena-zavaroni-and-music/">Episode 6</a></td></tr>
+</table>
+</figure>
+
+{: .clear}
 
 <figure class="fig1">
 <a href="/assets/images/BBC/ticket-1979-04-08.jpg"><img src="/assets/images/BBC/ticket-1979-04-08.jpg" class="full-width zoom-in"></a>

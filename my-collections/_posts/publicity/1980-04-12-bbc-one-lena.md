@@ -6,7 +6,7 @@ subtitle:  Photo
 description: Lena - Episode 1.1
 media: Photo
 post_description: Lena - Episode 1.1
-categories: [Publicity, Lena-(TV-Show), OnThisDay12April]
+categories: [Publicity, Lena-Series-1, OnThisDay12April]
 ---
 
 <figure class="fig1">

@@ -7,7 +7,17 @@ description: This week's guests are Wayne Sleep, Peter Skellern, Adrian Hedley a
 post_description: This week's guests are Wayne Sleep, Peter Skellern, Adrian Hedley and Johnny Hutch & the Half-Wits.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
 categories: [BBC-One, Lena-Zavaroni-and-Music, Dougie-Squires, OnThisDay27June]
+last_modified_at: 26 November 2023
 ---
+
+<figure class="fig3">
+<table style="text-align:center;">
+<tr><th colspan="8">View Details For The Two Know Dates for Lena Zavaroni and Guests<br />and Each Episode Of Lena Zavaroni and Music</th></tr>
+<tr><td style="width:12.5%;"><a href="/1979-04-01-lena-zavaroni-and-guests">Guests 1</a></td><td style="width:12.5%;"><a href="/1979-04-08-lena-zavaroni-and-guests/">Guests 2</a></td><td style="width:12.5%;"><a href="/1979-05-23-lena-zavaroni-and-music/">Episode 1</a></td><td style="width:12.5%;"><a href="/1979-05-30-lena-zavaroni-and-music/">Episode 2</a></td><td style="width:12.5%;"><a href="/1979-06-06-lena-zavaroni-and-music/">Episode 3</a></td><td style="width:12.5%;"><a href="/1979-06-13-lena-zavaroni-and-music/">Episode 4</a></td><td style="width:12.5%;"><a href="/1979-06-20-lena-zavaroni-and-music/">Episode 5</a></td><td style="width:12.5%;"><a href="/1979-06-27-lena-zavaroni-and-music/">Episode 6 &#x2714;</a></td></tr>
+</table>
+</figure>
+
+{: .clear}
 
 <table>
 <tr align="center">
