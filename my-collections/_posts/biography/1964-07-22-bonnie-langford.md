@@ -1,6 +1,5 @@
 ---
 layout: post
-last_modified_at: 15 June 2023
 title: Biography &#124; Bonnie Langford
 maintitle: Bonnie Langford
 more: Born
@@ -10,6 +9,7 @@ post_description: 22 July 1964 - Present
 image: /assets/images/bonnie/BL-01.png
 image-caption: Bonnie Langford
 categories: [Biography, Bonnie-Langford, OnThisDay22July]
+last_modified_at: 26 November 2023
 ---
 
 <figure class="fig3">
@@ -20,8 +20,8 @@ categories: [Biography, Bonnie-Langford, OnThisDay22July]
 </tr>
 <tr><th style="width:20%;">Birth name</th><td>Bonita Melody Lysette Langford</td></tr>
 <tr><th>Born</th><td>22 July 1964 (age 59)</td></tr>
-<tr><th>Education</th><td>	Arts Educational Schools St. Catherine's School, Twickenham</td></tr>
-<tr><th>Alma mater</th><td>	Italia Conti Academy of Theatre Arts</td></tr>
+<tr><th>Education</th><td>Arts Educational Schools St. Catherine's School, Twickenham</td></tr>
+<tr><th>Alma mater</th><td>Italia Conti Academy of Theatre Arts</td></tr>
 <tr><th>Occupations</th><td>Actress, Dancer, Singer</td></tr>
 <tr class="split"><th rowspan="2"></th><th>Website</th><td><a class="external-link" href="https://www.bonnielangford.co.uk/">bonnielangford.co.uk</a></td></tr>
 <tr><th>Wikipedia</th><td><a class="external-link" href="https://en.wikipedia.org/wiki/Bonnie_Langford">Bonnie Langford</a></td></tr>
