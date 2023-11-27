@@ -19,7 +19,11 @@ categories: [Discography]
 
 <a href="/discography/singles/1976-03-26-some-of-these-days">1976 &#8212; Some Of These Days</a>
 
-<a href="/discography/singles/1977-02-18-air-love">1977 &#8212; Air Love</a>
+<strong>Air Love</strong>
+<ul>
+<li><a href="/discography/singles/1976-air-love-promo">1976 &#8212; Air Love - Promo</a></li>
+<li><a href="/discography/singles/1977-02-18-air-love">1977 &#8212; Air Love - Official Release</a></li>
+</ul>
 
 <a href="/discography/singles/1978-i-shouldve-listened-to-mama">1978 &#8212; I Should've Listened To Mama</a>
 
