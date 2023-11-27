@@ -1,6 +1,6 @@
 ---
 layout: discography
-year: November 1980
+more: November 1980
 title: Will He Kiss Me Tonight
 maintitle: Will He Kiss Me Tonight
 subtitle: Lena Zavaroni's Tenth Single

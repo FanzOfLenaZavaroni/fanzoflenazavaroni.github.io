@@ -3,6 +3,7 @@ layout: discography
 title: Air Love &#124; Promo Release
 maintitle: Air Love 
 subtitle: Promo Release
+more: 1976
 description: Promo release of what would become Lena Zavaroni's seventh single.
 post_description: Promo release of what would become Lena Zavaroni's seventh single.
 categories: [Discography, Singles, OnThisDay18February]

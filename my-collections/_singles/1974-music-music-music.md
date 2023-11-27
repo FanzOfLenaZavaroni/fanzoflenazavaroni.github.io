@@ -1,6 +1,6 @@
 ---
 layout: discography
-year: 1974
+more: 1974
 title: Music Music Music
 maintitle: Music Music Music
 subtitle: Lena Zavaroni's Third Single
