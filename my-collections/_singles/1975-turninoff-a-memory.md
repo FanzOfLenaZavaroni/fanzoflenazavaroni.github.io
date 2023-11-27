@@ -1,6 +1,6 @@
 ---
 layout: discography
-year: 1975
+more: 1975
 title: Turnin' Off A Memory
 maintitle: Turnin' Off A Memory
 subtitle: Single by The Zavaronis

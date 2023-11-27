@@ -1,6 +1,6 @@
 ---
 layout: discography
-year: 1978
+more: 1978
 title: I Should've Listened To Mama
 maintitle: I Should've Listened To Mama
 subtitle: Lena Zavaroni's Eighth Single
