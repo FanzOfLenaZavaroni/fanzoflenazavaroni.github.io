@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 22 years ago the Papers reported on the final day of the inquest into the death of Lena Zavaroni &#124; 9 December 1999
-maintitle: 22 years ago the Papers reported on the final day of the inquest into the death of Lena Zavaroni
+title: The Papers reported on the final day of the inquest into the death of Lena Zavaroni &#124; 9 December 1999
+maintitle: The Papers reported on the final day of the inquest into the death of Lena Zavaroni
 subtitle: List of just some of the articles published on this day
-description: 22 years ago the Papers reported on the final day of the inquest into the death of Lena Zavaroni.
-media: Various Media Articles
+description: The Papers reported on the final day of the inquest into the death of Lena Zavaroni.
 post_description: A list of just some of the articles published on this day.
 categories: [BBC-News-Wales, Guardian, OnThisDay9December]
+last_modified_at: 28 November 2023
 ---
 
 * —— (Guardian): <a class="external-link" href="https://www.theguardian.com/uk/1999/dec/09/geoffreygibbs">Zavaroni was desperate for brain op, inquest told</a>
