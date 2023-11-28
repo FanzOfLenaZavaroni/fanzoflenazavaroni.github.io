@@ -54,6 +54,6 @@ last_modified_at: 23 November 2023
 <br />{: .clear}
 
 <style>
-@media screen and (orientation:portrait) {.top {vertical-align:top;}}
+.top {vertical-align:top;}
 </style>
 
