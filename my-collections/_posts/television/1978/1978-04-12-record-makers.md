@@ -11,15 +11,12 @@ categories: [Scottish-Television-(STV), OnThisDay12April, OnThisDay6December]
 ---
 
 <figure class="fig3">
-<p>Today's guest Lena Zavaroni sings all the songs from her album <a href="/discography/studio-albums/1977-presenting-lena-zavaroni">Presenting Lena Zavaroni</a> including her single <a href="/discography/singles/1977-02-18-air-love">Air Love</a> which is also on the album.</p>
-</figure>
-
-<figure class="fig3">
 <table>
-<tr><th>Music Director</th><td>Alyn Ainsworth</td></tr>
-<tr><th>Designer</th><td>Geoff Nixon</td></tr>
-<tr><th>Director</th><td>Haldane Duncan</td></tr>
-<tr><th>Production Company</th><td>Scottish Television</td></tr>
+<tr><th style="width:50%;" colspan="2">Music Director</th><td style="width:50%;">Alyn Ainsworth</td></tr>
+<tr><th colspan="2">Designer</th><td>Geoff Nixon</td></tr>
+<tr><th colspan="2">Director</th><td>Haldane Duncan</td></tr>
+<tr><th colspan="2">Production Company</th><td>Scottish Television</td></tr>
+<tr class="split"><th style="width:20%;">Summary</th><td colspan="2" style="width:80%;">Today's guest Lena Zavaroni sings all the songs from her album <a href="/discography/studio-albums/1977-presenting-lena-zavaroni">Presenting Lena Zavaroni</a> including her single <a href="/discography/singles/1977-02-18-air-love">Air Love</a> which is also on the album.</td></tr>
 </table>
 </figure>
 
