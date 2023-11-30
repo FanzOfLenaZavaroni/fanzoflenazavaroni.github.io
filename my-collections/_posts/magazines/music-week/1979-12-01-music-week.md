@@ -20,7 +20,7 @@ categories: [Magazines, OnThisDay1December]
 </figure>
 
 <figure class="fig3">
-<strong>Note:</strong> Airplay Action listed the promo release of <a href="/discography/singles/1981-09-25-somewhere-south-of-macon#promo">Somewhere South Of Macon</a> by Lena Zavaroni at the bottom of page 22.
+<strong>Note:</strong> Airplay Action listed the promo release of <a href="/discography/singles/1976-air-love-promo">Somewhere South Of Macon</a> by Lena Zavaroni at the bottom of page 22.
 </figure>
 
 <br />{: .clear}
