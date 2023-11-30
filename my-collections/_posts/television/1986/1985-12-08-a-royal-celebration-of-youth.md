@@ -3,23 +3,37 @@ layout: post
 title: A Royal Celebration Of Youth
 maintitle: A Royal Celebration Of Youth
 subtitle: Conference Centre, Harrogate
-more: Recorded at the Conference Centre, Harrogate and broadcast on 1 January 1986
-description: Recorded on 8 December 1985 at the Conference Centre, Harrogate and broadcast on 1 January 1986. In this all star spectacular concert to mark the end of International Year Of Youth, Lena performs Barry Manilow's All The Time, followed by a cover of the Donna Summer hit She Works Hard For The Money. Backstage, after the end of the concert, she shakes hands with Queen Elizabeth II, who was in attendance.
-media: Yorkshire Television & Thames Television
-post_description: Recorded on 8 December 1985 at the Conference Centre, Harrogate and broadcast on 1 January 1986.
+more: Recorded at the Conference Centre, Harrogate by Yorkshire TV for broadcast on 1 January 1986
+description: Recorded at the Conference Centre, Harrogate by Yorkshire Television for broadcast on 1 January 1986. In this all star spectacular concert to mark the end of International Year Of Youth, Lena performs Barry Manilow's All The Time, followed by a cover of the Donna Summer hit She Works Hard For The Money. Backstage, after the end of the concert, she shakes hands with Queen Elizabeth II, who was in attendance.
+post_description: Recorded at the Conference Centre, Harrogate by Yorkshire Television for broadcast on 1 January 1986.
 image: /assets/images/newspapers/the-times-london-england-monday-dec-09-1985-pg-18-issue-62316.jpg
 categories: [Yorkshire-Television, Thames-Television, OnThisDay8December, OnThisDay8December, OnThisDay1January]
 last_modified_at: 22 November 2023
 ---
 
-In this all star spectacular concert to mark the end of International Year Of Youth, Lena performs Barry Manilow's "All The Time", followed by a cover of the Donna Summer hit "She Works Hard For The Money".
-
-Backstage, after the end of the concert, she shakes hands with Queen Elizabeth II, who was in attendance.
-
-<figure class="fig1" id="cast">
 <table>
-<tr><th colspan="2" class="h3">Cast</th></tr>
-<tr><td>Cilla Black</td></tr>
+<tr align="center">
+<th colspan="3">Jump To:</th>
+</tr>
+<tr align="center">
+<td style="width:33%;"><a href="#summary">Summary</a></td>
+<td style="width:34%;"><a href="#cast">Cast</a></td>
+<td style="width:33%;"><a href="#crew">Crew</a></td>
+</tr>
+</table>
+
+<figure class="fig3">
+<table>
+<tr id="summary"><th>InfoBox: Summary</th></tr>
+<tr><td><p>In this all star spectacular concert to mark the end of International Year Of Youth, Lena performs Barry Manilow's "All The Time", followed by a cover of the Donna Summer hit "She Works Hard For The Money".</p><p>Backstage, after the end of the concert, she shakes hands with Queen Elizabeth II, who was in attendance.</p></td></tr>
+</table>
+</figure>
+
+<figure class="fig3">
+<table>
+<tr id="cast"><th colspan="2">InfoBox: Cast</th></tr>
+<tr><th rowspan="30" class="top" style="width:50%;"><a href="/assets/images/newspapers/the-times-london-england-monday-dec-09-1985-pg-18-issue-62316.jpg"><img src="/assets/images/newspapers/the-times-london-england-monday-dec-09-1985-pg-18-issue-62316.jpg" class="full-width zoom-in" /></a><cite>The Times (London) Monday 9 December 1985 page 18</cite></th></tr>
+<tr><td style="width:25%;">Cilla Black</td></tr>
 <tr><td>Chris Bonington</td></tr>
 <tr><td>Rory Bremner</td></tr>
 <tr><td>Geoff Capes</td></tr>
@@ -45,17 +59,16 @@ Backstage, after the end of the concert, she shakes hands with Queen Elizabeth I
 <tr><td>Brian Rogers Dancers</td></tr>
 <tr><td>Five Star</td></tr>
 <tr><td>Jimmy Tarbuck</td></tr>
-<tr style="outline: 4px dashed darkorange;" id="lz"><td>Lena Zavaroni</td></tr>
+<tr id="lz"><td style="outline: 4px dashed darkorange;">Lena Zavaroni</td></tr>
 <tr><td>Voice of John Dunn</td></tr>
 <tr><td>A-ha</td></tr>
 </table>
 </figure>
 
-<figure class="fig2" id="crew">
-<figcaption>
+<figure class="fig3">
 <table>
-<tr><th colspan="2" class="h3">Crew</th></tr>
-<tr><th>Choreography</th><td>Brian Rogers</td></tr>
+<tr id="crew"><th colspan="2">InfoBox: Crew</th></tr>
+<tr><th style="width:50%;">Choreography</th><td style="width:50%;">Brian Rogers</td></tr>
 <tr><th>Music Director</th><td>Robert Hartley</td></tr>
 <tr><th>Director</th><td>Graham Wetherell</td></tr>
 <tr><th>Produce</th><td>Ian Bolt</td></tr>
@@ -63,12 +76,11 @@ Backstage, after the end of the concert, she shakes hands with Queen Elizabeth I
 <tr><th>Production Company</th><td>Yorkshire Television</td></tr>
 <tr><th>Transmission Company</th><td>Thames Television</td></tr>
 </table>
-</figcaption>
-<a href="/assets/images/newspapers/the-times-london-england-monday-dec-09-1985-pg-18-issue-62316.jpg"><img src="/assets/images/newspapers/the-times-london-england-monday-dec-09-1985-pg-18-issue-62316.jpg" class="full-width zoom-in" /></a>
-<figcaption>
-<cite>The Times (London) Monday 9 December 1985 page 18</cite>
-</figcaption>
 </figure>
 
 <br />{: .clear}
+
+<style>
+.top {vertical-align:top;}
+</style>
 
