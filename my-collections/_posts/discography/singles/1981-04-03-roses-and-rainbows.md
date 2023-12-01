@@ -51,20 +51,3 @@ permalink: /discography/singles/:name
 
 <br />{: .clear}
 
-<style>
-.split {border-top: solid 5px #4B90B1;}
-
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:left; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
-

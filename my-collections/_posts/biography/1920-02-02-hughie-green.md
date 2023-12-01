@@ -38,9 +38,3 @@ categories: [Biography, Hughie-Green, OnThisDay2February, OnThisDay3May]
 
 <br />{: .clear}
 
-<style>
-.top {vertical-align:top;}
-#photo1, #photo2 {white-space: pre;}
-@media screen and (orientation:portrait) {#photo1, #photo2 {white-space: unset}}
-</style>
-
