@@ -68,9 +68,3 @@ J. Friddy, Shifrin</td></tr>
 
 <br />{: .clear}
 
-<style>
-.top {vertical-align:top;}
-#white {white-space: pre;}
-@media screen and (orientation:portrait) {#white {white-space: unset}}
-</style>
-
