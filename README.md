@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update _base.scss](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/222f8c27118e9efd1782ba01d2d093ea72101a98)
-- [Update 1980-04-12-bbc-one-lena.md, 1979-04-01-lena-zavaroni-and-guest…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0fb701ace74187cff93d872fd2d06d2cedfaa8f8)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9c9878fa1f6f3ae5530bfd9d72b7032e9fea2e2d)
-- [Update _base.scss, 2003-04-22-the-mirror.md, and 3 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bd3e2d911873a9def00d80e1de0453d388c16936)
-- [Update 2003-04-07-personality-hardcover.md, 2004-04-01-personality-pa…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/03aefc2ace0ab4ebbb54bbda1f33abd7687cda81)
+- [Update 1978-04-12-record-makers.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5ecda26d2e2f10f1b05a4a1a52c0a36ba01a082c)
+- [Update custom-styles.scss, goodman.jpg, and 8 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d51896c510f5b1daf343cb6215a0f7e36f5a524b)
+- [Update 1978-04-12-record-makers.md, 1985-12-05-give-us-a-clue.md, and…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5a4107b16588a436fa039ca81dc01c67e2125f3d)
+- [Update 1999-12-09-the-times.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9eedf382d54b6e04b1dd3413df32d691d14324e3)
+- [Update 1979-12-01-music-week.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/13d0b3d1c272ecde78bcc8ef0a2bc3de969cd0c7)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
