@@ -12,15 +12,17 @@ permalink: /discography/podcasts/:name
 ---
 
 <figure class="fig3">
-<p>Spoken Language: English</p>
-<iframe title="Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself." allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=se68m-f5c680-pb&share=1&download=1&fonts=Arial&skin=1&font-color=&rtl=0&logo_link=&btn-skin=7&size=150"></iframe>
+<table style="text-align:center;">
+<tr><th colspan="3">Jump To</th><th>External Link</th></tr>
+<tr><td style="width:25%;"><a href="#infobox1">Podcast</a></td><td style="width:25%;"><a href="#infobox2">Tracks</a></td><td style="width:25%;"><a href="#lena">Lena Zavaroni</a></td><td style="width:25%;"><a class="external-link" href="https://dsides.podbean.com/e/who-was-vaughn-meader">Source: podbean</a></td></tr>
+</table>
 </figure>
 
-{: .clear}
-
 <figure class="fig3">
-<h3 id="tracks"><a href="#tracks">Tracks</a></h3>
 <table>
+<tr id="infobox1"><th colspan="3">InfoBox: Podcast Spoken In English</th></tr>
+<tr><td colspan="3"><iframe title="Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself." allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=se68m-f5c680-pb&share=1&download=1&fonts=Arial&skin=1&font-color=&rtl=0&logo_link=&btn-skin=7&size=150"></iframe></td></tr>
+<tr id="infobox2"><th colspan="3">InfoBox: Tracks</th></tr>
 <tr><th style="width:10%; text-align:center;">Track</th><th>Artist</th><th>Title</th></tr>
 <tr><th style="width:10%; text-align:center;">1</th><td>REO Speedwagon</td><td>Ridin' The Storm Out (studio version)</td></tr>
 <tr><th style="width:10%; text-align:center;">2</th><td>Rufus</td><td>Read All About</td></tr>
@@ -49,23 +51,26 @@ permalink: /discography/podcasts/:name
 <tr><th style="width:10%; text-align:center;">25</th><td>The American Breed</td><td>Pumpkin</td></tr>
 <tr><th style="width:10%; text-align:center;">26</th><td>The American Breed</td><td>Scarlet</td></tr>
 <tr><th style="width:10%; text-align:center;">27</th><td>The American Breed</td><td>Green</td></tr>
-<tr><th style="width:10%; text-align:center;">28</th><td>The Good, The Bad, and The Ugly</td><td>Gypsy Lover</td></tr>
+<tr class="whitespace"><th style="width:10%; text-align:center;">28</th><td>The Good, The Bad, and
+ The Ugly</td><td>Gypsy Lover</td></tr>
 <tr><th style="width:10%; text-align:center;">29</th><td>Vaughn Meader</td><td>The Second Coming (Part 1)</td></tr>
 <tr><th style="width:10%; text-align:center;">30</th><td>Vaughn Meader</td><td>The Second Coming (Part 2)</td></tr>
 <tr><th style="width:10%; text-align:center;">31</th><td>Barry McGuire</td><td>Secret Saucer Man</td></tr>
 <tr><th style="width:10%; text-align:center;">32</th><td>Bay City Rollers</td><td>Alright</td></tr>
 <tr><th style="width:10%; text-align:center;">33</th><td>Clarence Carter</td><td>Light My Fire</td></tr>
 <tr><th style="width:10%; text-align:center;">34</th><td>Frank Zappa</td><td>Public Service Announcement</td></tr>
-<tr style="outline: 4px dashed darkorange;"><th style="width:10%; text-align:center;">35</th><td>Lena Zavaroni</td><td>Jump Down Jimmy</td></tr>
+<tr id="lena" style="outline: 4px dashed darkorange;"><th style="width:10%; text-align:center;">35</th><td>Lena Zavaroni</td><td>Jump Down Jimmy - starts at 1:41:50 into the podcast</td></tr>
 <tr><th style="width:10%; text-align:center;">36</th><td>Suburban 9 to 5</td><td>Walk Away</td></tr>
 <tr><th style="width:10%; text-align:center;">37</th><td>Martin & Finley</td><td>Long Life And Success To The Farmer</td></tr>
 <tr><th style="width:10%; text-align:center;">38</th><td>Milkwood</td><td>Makeshift Pawn</td></tr>
 <tr><th style="width:10%; text-align:center;">39</th><td>Nazz</td><td>Wonder Who's Loving Her Now</td></tr>
 <tr><th style="width:10%; text-align:center;">40</th><td>The Vapors</td><td>Prisoners</td></tr>
 <tr><th style="width:10%; text-align:center;">41</th><td>The Quick</td><td>Ain't Nothin' Gonna Stop Me</td></tr>
-<tr class="split"><th style="width:10%; text-align:center;">Source</th><td colspan="2"><a class="external-link" href="https://dsides.podbean.com/e/who-was-vaughn-meader">podbean</a></td></tr>
 </table>
 </figure>
 
 <br />{: .clear}
 
+<style>
+#lena {scroll-margin-top: 10px;}
+</style>
