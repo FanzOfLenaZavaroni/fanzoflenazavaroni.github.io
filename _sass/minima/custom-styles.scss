@@ -138,7 +138,11 @@ height: 100%;
       margin-left: 20px;
     }}}
 
-.top {vertical-align:top;}
-
+/*  No newline when in portrait  */
 .whitespace {white-space: pre;}
 @media screen and (orientation:portrait) {.whitespace {white-space: unset}}
+
+/*  Adjust Table CSS based on orientation  */
+.top {vertical-align:top;}
+
+@media screen and (orientation:portrait) {table {display:inline-table;}}
