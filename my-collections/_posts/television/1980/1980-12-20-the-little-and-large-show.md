@@ -9,30 +9,37 @@ image: /assets/images/BBC/1980-12-20-little-and-large-show-LZ-EL-SL.png
 categories: [BBC-One, OnThisDay20December]
 ---
 
-<figure class="fig1">
-<img src="/assets/images/BBC/1980-12-20-little-and-large-show-LZ-LLS.png" class="full-width">
-<figcaption>
-<cite>Lena performs Even Now</cite>
-</figcaption>
-</figure>
-
-<figure class="fig2">
-<img src="/assets/images/BBC/1980-12-20-little-and-large-show-LZ-EL-SL.png" class="full-width">
-<figcaption>
-<cite>Lena appears in a comedy sketch with Syd and Eddie</cite>
-</figcaption>
-</figure>
-
-<br />{: .clear}
-
-### Contributors
 <table>
-<tr><th style="width:50%;">Comedian</th><td style="width:50%;">Syd Little</td></tr>
+<tr align="center">
+<th colspan="4">Jump To:</th>
+</tr>
+
+<tr align="center">
+<td style="33%"><a href="#infobox1">Cast</a></td>
+<td style="34%"><a href="#infobox2">Crew</a></td>
+<td style="33%"><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1980-12-20#at-19.40">BBC Genome</a></td>
+</tr>
+</table>
+
+<figure class="fig3">
+<table>
+<tr id="infobox1"><th>InfoBox: Screenshot</th><th colspan="2">Cast</th></tr>
+<tr><th rowspan="6" class="top" style="width:50%;"><img src="/assets/images/BBC/1980-12-20-little-and-large-show-LZ-LLS.png" class="full-width" /><br /><cite>Lena performs Even Now</cite></th></tr>
+<tr><th style="width:25%;">Comedian</th><td>Syd Little</td></tr>
 <tr><th>Comedian</th><td>Eddie Large</td></tr>
-<tr><th>Writer</th><td>Eric Davidson</td></tr>
 <tr><th>Singer</th><td>Lena Zavaroni</td></tr>
 <tr><th>Singer</th><td>Sheena Easton</td></tr>
 <tr><th>Dancers</th><td>Foxy Feeling</td></tr>
+</table>
+</figure>
+
+<figure class="fig3">
+<table>
+<tr id="infobox2"><th>InfoBox: Screenshot</th><th colspan="2">Crew</th></tr>
+<tr>
+<th rowspan="13" class="top" style="width:50%;"><img src="/assets/images/BBC/1980-12-20-little-and-large-show-LZ-EL-SL.png" class="full-width" /><br /><cite>Lena appears in a comedy sketch with Syd and Eddie</cite></th>
+</tr>
+<tr><th style="width:25%;">Writer</th><td>Eric Davidson</td></tr>
 <tr><th>Foxy Feeling staged by</th><td>Chris Power</td></tr>
 <tr><th>Musicians</th><td>Ronnie Hazlehurst and his Orchestra</td></tr>
 <tr><th>Vocal Direction</th><td>Maggie Stredder</td></tr>
@@ -45,20 +52,7 @@ categories: [BBC-One, OnThisDay20December]
 <tr><th>Designer</th><td>Martin Collins</td></tr>
 <tr><th>Producer</th><td>Michael Hurll</td></tr>
 </table>
+</figure>
 
-### Related Website
-<span class="post-categories">[BBC Genome](https://genome.ch.bbc.co.uk/schedules/bbcone/london/1980-12-20#at-19.40)</span>
-
-<style>
-.fig1 {float:left; width:49%;}
-figcaption {float:left; width:100%;}
-
-.fig2 {float:right; width:49%;}
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
+<br />{: .clear}
 
