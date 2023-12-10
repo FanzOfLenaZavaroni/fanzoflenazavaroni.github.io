@@ -23,5 +23,5 @@ categories: [Magazines, Record-Mirror-&-Disc, OnThisDay3January]
 <strong>Note:</strong> {{ page.description }}
 </figure>
 
-, {: .clear}
+<br />{: .clear}
 
