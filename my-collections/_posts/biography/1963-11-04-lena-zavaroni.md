@@ -10,7 +10,7 @@ image: /assets/images/lena/LZ-01.jpg
 image-caption: Lena Zavaroni as a toddler
 categories: [Biography, Lena-Zavaroni, OnThisDay4November, OnThisDay1Octorber]
 author: Robcamstone
-last_modified_at: 5 November 2023
+last_modified_at: 10 December 2023
 ---
 
 <strong>The following Biography is based On the media coverage and the public comments made by Lena Zavaroni, her family and friends</strong>
@@ -141,7 +141,7 @@ The media comments seem to implied they had given up their Parental responsibili
 <p>On Monday 7 January 1974 Lena would make her debut TV appearance on Opportunity Knocks.</p>
 <blockquote>Lena was currently our hottest act, having just completed a five-week run on the TV talent show OPPORTUNITY KNOCKS and now with the charting single and album, "Ma, He's Making Eyes at Me".
 Time goes by and Lena&#8217;s new record album is overdue for delivery and we are in danger of not having the income included in our quarterly sales. AJ and I discuss the situation and I am instructed to inform Phil that he is in breach of contract and that we will take the legal action to have delivery of the recording.</blockquote>
-<cite>John McCready - The Wrath Of Solomon - <a class="external-link" href="http://musicandmediastories.blogspot.co.uk/2009/12/wrath-of-solomon.html">11 December 2009</a></cite>
+<cite>John McCready - The Wrath Of Solomon - <a href="/2009-12-11-musicandmediastories">11 December 2009</a></cite>
 </figure>
 
 <figure class="fig3">
