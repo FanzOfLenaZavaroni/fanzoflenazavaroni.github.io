@@ -7,7 +7,7 @@ subtitle: Published an article with the tag line "Who killed Zena Zavaroni? The 
 description: Published an article with the tag line "Who killed Zena Zavaroni? The life and tragic early death of a child star".
 post_description: Published an article with the tag line "Who killed Zena Zavaroni? The life and tragic early death of a child star".
 image: /assets/images/newspapers/2022-03-07-herald.jpg
-categories: [Newspapers, Herald, Scotland, OnThisDay7March]
+categories: [Newspapers, Herald-Scotland, OnThisDay7March]
 ---
 
 <figure class="fig3">
