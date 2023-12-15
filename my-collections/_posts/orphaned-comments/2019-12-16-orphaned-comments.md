@@ -24,6 +24,7 @@ categories: [Orphaned-Comments, OnThisDay16December]
 <p>Comment:</p>
 <p>I can't find out when she actually died, only that she had last been seen alive three days ago.</p>
 </div>
+<cite>The above comment is related to the death of Hilda Catherine (Jordan) Zavaroni Lena, mother.</cite>
 
 <br />
 
