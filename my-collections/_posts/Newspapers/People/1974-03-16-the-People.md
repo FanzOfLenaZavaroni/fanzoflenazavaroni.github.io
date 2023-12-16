@@ -1,14 +1,14 @@
 ---
 layout: post
 last_modified_at: 15 June 2023
-title: Sunday People &#124; 16 March 1975
-maintitle: Sunday People
+title: The People &#124; 16 March 1975
+maintitle: The People
 subtitle: Pick of the Day
 description: Lena has 'divi' for Vernons
 media: Newspaper
 post_description: Lena has 'divi' for Vernons
 image: /assets/images/newspapers/1974-03-16-sunday-people-front-page-20.png
-categories: [Newspapers, Sunday-People, OnThisDay16March]
+categories: [Newspapers, The-People, OnThisDay16March]
 ---
 
 <figure class="fig1">
@@ -35,17 +35,4 @@ categories: [Newspapers, Sunday-People, OnThisDay16March]
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
