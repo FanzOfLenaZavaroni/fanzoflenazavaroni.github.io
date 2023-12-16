@@ -3,8 +3,8 @@ layout: post
 title: The Herald Scotland &#124; 16 December 1989
 maintitle: The Herald Scotland
 subtitle: Lena Zavaroni&apos;s mother found dead
-description: The Herald Scotland repoted that Lena Zavaroni's mother had been found dead the previous day.
-post_description: The Herald Scotland repoted that Lena Zavaroni's mother had been found dead the previous day.
+description: The Herald Scotland reported that Lena Zavaroni's mother had been found dead the previous day.
+post_description: The Herald Scotland reported that Lena Zavaroni's mother had been found dead the previous day.
 categories: [Newspapers, Herald-Scotland, OnThisDay16December]
 ---
 
