@@ -6,7 +6,7 @@ subtitle: Christmas Edition
 description: In this Christmas edition of the children's show, Lena helps a young contestant win a prize, and throws some custard pies around in the process.
 post_description: In this Christmas edition of the children's show, Lena helps a young contestant win a prize, and throws some custard pies around in the process.
 categories: [BBC-One, OnThisDay18December]
-last_modified_at: 22 November 2023
+last_modified_at: 18 December 2023
 ---
 
 In this Christmas edition of the children's show, Lena helps a young contestant win a prize, and throws some custard pies around in the process.
@@ -16,7 +16,11 @@ In this Christmas edition of the children's show, Lena helps a young contestant 
 * **Regular:** Leigh Miles
 * **Regular:** Sally Ann Triplett
 * **The Krankies:** Janette Tough and Ian Tough
-* **Special Surprise Guest** Lena Zavaroni
+* **Special Guests** Paul & Peta Page with The Hot Dogs
+* **Special Guest** Henry Cooper
+* **Special Guest** Garth Crooks
+* **Special Guest** Su Pollard
+* **Special Guest** Lena Zavaroni
 
 **Crew**
 * **script:** Colin Bostock-Smith
