@@ -12,8 +12,16 @@ last_modified_at: 10 November 2023
 <figure class="fig3">
 <table style="text-align:center;">
 <tr><th colspan="4">View Details For Know Releases</th></tr>
-<tr><td><a href="/discography/studio-albums/1974-04-ma-hes-making-eyes-at-me-uk">1974 - UK Vinyl Album &#x2714;</a></td><td><a href="/discography/studio-albums/1974-ma-hes-making-eyes-at-me-uk-8-track">1974 - UK 8-Track</a></td><td><a href="/discography/studio-albums/1974-06-ma-hes-making-eyes-at-me-usa">1974 - USA Vinyl Album</a></td></tr>
-<tr><td><a href="/discography/studio-albums/1976-ma-hes-making-eyes-at-me-uk">1976 - UK Vinyl Re-Release</a></td><td>Cassette Tape</td><td>CD Album</td></tr>
+<tr>
+<td><a href="/discography/studio-albums/1974-04-ma-hes-making-eyes-at-me-uk">1974 - UK Vinyl Album &#x2714;</a></td>
+<td><a href="http://127.0.0.1:4000/discography/studio-albums/1974-ma-hes-making-eyes-at-me-cassette-tape">1974 - UK Cassette Tape</a></td>
+<td><a href="/discography/studio-albums/1974-ma-hes-making-eyes-at-me-uk-8-track">1974 - UK 8-Track</a></td>
+</tr>
+<tr>
+<td><a href="/discography/studio-albums/1974-06-ma-hes-making-eyes-at-me-usa">1974 - USA Vinyl Album</a></td>
+<td><a href="/discography/studio-albums/1976-ma-hes-making-eyes-at-me-uk">1976 - UK Vinyl Re-Release</a></td>
+<td>CD Album</td>
+</tr>
 </table>
 </figure>
 
