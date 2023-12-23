@@ -1,6 +1,7 @@
 ---
 layout: post
-more: Repeated on 26 December 1981
+before: "First Broadcast On "
+after: " And Repeated on 26 December 1981"
 title: Saturday Night is Gala Night &#124; 17 October 1981
 maintitle: Saturday Night is Gala Night
 subtitle: A Century of Song 1881-1981
@@ -9,6 +10,7 @@ media: BBC Radio 2
 post_description: A concert of British music from the Royal Albert Hall, London in association with the Music Publishers Association of Great Britain to celebrate their centenary.
 image: /assets/images/radio/the-times-london-england-saturday-oct-17-1981-pg-27-issue.jpg
 categories: [BBC-Radio-2, OnThisDay17October, Repeat26December]
+last_modified_at: 23 December 2023
 ---
 
 A concert of British music from the Royal Albert Hall, London in association with the Music Publishers Association of Great Britain to celebrate their centenary.

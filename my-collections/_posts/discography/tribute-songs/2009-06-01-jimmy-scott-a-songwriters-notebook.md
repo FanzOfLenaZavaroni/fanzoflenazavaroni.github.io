@@ -1,6 +1,6 @@
 ---
-layout: discography
-more: or 5 June 2009 or 31 December 2008
+layout: post
+after: " or 5 June 2009 or 31 December 2008"
 title: Jimmy Scott A Songwriter's Notebook
 maintitle: Jimmy Scott A Songwriter's Notebook
 subtitle: Date unconfirmed as various websites have various dates.
@@ -8,6 +8,7 @@ description: Track 9 - Lena is the song that is a wonderful Tribute to Lena Zava
 post_description: Date unconfirmed as various websites have various dates.
 categories: [Tribute-Songs, OnThisday31December, OnThisday1June, OnThisday5June]
 permalink: /discography/tribute-songs/:name
+last_modified_at: 23 December 2023
 ---
 
 Track 9 is obviously the tribute to Lena Zavaroni.

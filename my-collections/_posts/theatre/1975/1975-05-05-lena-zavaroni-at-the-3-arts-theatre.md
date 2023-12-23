@@ -1,6 +1,6 @@
 ---
 layout: post
-more: 6 May 1975 & 12, May 1975
+after: ", 6 May 1975 & 12, May 1975"
 title: The 3 Arts Theatre Starring Lena Zavaroni &#124; 5, 6 & 12, May 1975
 maintitle: Lena Zavaroni
 subtitle: The 3 Arts Theatre, 260 Main Road, Plumstead, 7800 Cape Town, South Africa.
@@ -8,6 +8,7 @@ description: 3 Arts Theatre, 260 Main Road, Plumstead, 7800 Cape Town, South Afr
 post_description: 3 Arts Theatre, 260 Main Road, Plumstead, 7800 Cape Town, South Africa.
 image: /assets/images/theatres/1969c-the-3-arts-theatre.jpg
 categories: [Theatre, 3-Arts-Theatre, OnThisDay5May, OnThisDay6May, OnThisDay12May]
+last_modified_at: 23 December 2023
 ---
 
 <a href="/assets/images/theatres/1969c-the-3-arts-theatre.jpg"><img src="/assets/images/theatres/1969c-the-3-arts-theatre.jpg" class="full-width zoom-in" /></a>

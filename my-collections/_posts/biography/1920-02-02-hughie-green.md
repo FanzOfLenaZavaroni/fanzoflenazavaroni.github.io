@@ -3,7 +3,8 @@ layout: post
 last_modified_at: 15 June 2023
 title: Biography &#124; Hughie Green
 maintitle: Hughie Green
-more: Born - 3 May 1997 Died (aged 77)
+before: "Born On "
+after: " - Died On 3 May 1997 (aged 77)"
 position: Actor and Producer
 description: Hughie Green was an actor and producer, known for Double Your Money (1955–1968) and Opportunity Knocks (1956-1978).
 post_description: 2 February 1920 - 3 May 1997

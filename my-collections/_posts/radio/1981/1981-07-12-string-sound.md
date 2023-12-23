@@ -1,13 +1,13 @@
 ---
 layout: post
 title: String Sound &#124; 12 July 1981
-more: "at 16:30"
+after: " at 16:30"
 maintitle: String Sound
 subtitle: BBC Radio 2
 description: "The Radio Orchestra strings leader Michael Tomalin and his guests: The conductor Neil Richardson with songs performed by Lena Zavaroni."
 post_description: "BBC Radio 2 - The Radio Orchestra strings leader Michael Tomalin and his guests: The conductor Neil Richardson with songs performed by Lena Zavaroni."
 categories: [BBC-Radio-2, OnThisDay12July]
-last_modified_at: 12 July 2023
+last_modified_at: 23 December 2023
 ---
 
 {{ page.description }}

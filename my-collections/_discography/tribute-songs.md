@@ -9,7 +9,7 @@ categories: [Discography]
 
 <a href="/discography/tribute-songs/1987-05-11-pulp-freaks">1987 &#8212; Pulp - Freaks</a>
 
-<a href="/discography/tribute-songs/2008-09-01-fujiyaand-miyagi-knickerbocker">2008 &#8212; Fujiya & Miyagi - Knickerbocker</a>
+<a href="/discography/tribute-songs/2008-08-25-fujiyaand-miyagi-knickerbocker">2008 &#8212; Fujiya & Miyagi - Knickerbocker</a>
 
 <a href="/discography/tribute-songs/2009-06-01-jimmy-scott-a-songwriters-notebook">2009 &#8212; Jimmy Scott A Songwriter's Notebook</a>
 

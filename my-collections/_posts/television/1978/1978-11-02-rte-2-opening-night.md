@@ -1,13 +1,15 @@
 ---
 layout: post
 title: RTÉ 2 &#124; 2 November 1978
-more: Repeated on Ulster Television on 5 November 1978
+before: "First Broadcast On "
+after: " Repeated on Ulster Television on 5 November 1978"
 maintitle: RTÉ 2
 subtitle: First Night
 description: A gala RTÉ 2 opening Show, live from Cork Opera House, starring top international performers and personalties, many of whom will be making regular appearances on the new channel.
 post_description: A gala RTÉ 2 opening Show, live from Cork Opera House, starring top international performers and personalties, many of whom will be making regular appearances on the new channel.
 image: /assets/images/RTÉ/0010e0af-642-first-night.jpg
 categories: [RTÉ-2, OnThisDay2November, Repeat5November]
+last_modified_at: 23 December 2023
 ---
 
 <figure class="fig1">

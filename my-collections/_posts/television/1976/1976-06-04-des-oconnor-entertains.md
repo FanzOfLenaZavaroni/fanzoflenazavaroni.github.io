@@ -1,6 +1,7 @@
 ---
 layout: post
-more: with a repeat on 10 December 1976 and again on 3 September 1977
+before: "First Broadcast On "
+after: " with a repeat on 10 December 1976 and another repeat on 3 September 1977"
 title: Des O'Connor Entertains &#124; 4 June 1976
 maintitle: Des O'Connor Entertains
 subtitle: Series 1
@@ -8,7 +9,7 @@ description: Lena appears in a comedy sketch with Des, and performs Some Of Thes
 post_description: Lena appears in a comedy sketch with Des, and performs Some Of These Days.
 image: /assets/images/ATV/1976-06-04-OnThizDay.jpg
 categories: [London-Weekend-Television, Des-O'Connor, OnThisDay4June, Repeat10December, RepeatDay3September]
-last_modified_at: 9 December 2023
+last_modified_at: 23 December 2023
 ---
 
 <figure class="fig3">

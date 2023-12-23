@@ -3,13 +3,13 @@ layout: post
 title: The Lena and Leslie Show &#124; 3 July 1981
 maintitle: The Lena and Leslie Show
 subtitle: Gloucester Hall, Fort Regent, St Helier, Jersey
-more: one show at 20:30 and on the 4 July two shows at 19:00 and 21:30
+after: " one show at 20:30 and on the 4 July two shows at 19:00 and 21:30"
 description: Two nights of entertainment at Gloucester Hall in Fort Regent featuring the Lena and Leslie Show, with performances by Lena Zavaroni, Leslie Crowther and the Gary Lloyd Orchestra.
 media: Gloucester Hall, Fort Regent, St Helier, Jersey
 post_description: featuring Lena Zavaroni, Leslie Crowther and the Gary Lloyd Orchestra.
 image: /assets/images/theatres/1981-07-03-the-lena-and-leslie-show.jpg
 categories: [Theatre, The-Lena-and-Leslie-Show, OnThisDay3July, OnThisDay4July]
-last_modified_at: 3 July 2023
+last_modified_at: 23 December 2023
 ---
 
 <figure class="fig1">
