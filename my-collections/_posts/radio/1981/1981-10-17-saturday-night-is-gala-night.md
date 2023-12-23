@@ -6,7 +6,7 @@ maintitle: Saturday Night is Gala Night
 subtitle: A Century of Song 1881-1981
 description: A concert of British music from the Royal Albert Hall, London in association with the Music Publishers Association of Great Britain to celebrate their centenary.
 media: BBC Radio 2
-post_description: A concert of British music from the Royal Albert Hall, London in association with the Music Publishers Association of Great Britain to celebrate their centenary. Repeated on 26 December 1981
+post_description: A concert of British music from the Royal Albert Hall, London in association with the Music Publishers Association of Great Britain to celebrate their centenary.
 image: /assets/images/radio/the-times-london-england-saturday-oct-17-1981-pg-27-issue.jpg
 categories: [BBC-Radio-2, OnThisDay17October, OnThisDay26December]
 ---
