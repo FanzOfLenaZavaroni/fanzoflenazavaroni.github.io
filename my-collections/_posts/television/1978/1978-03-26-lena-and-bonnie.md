@@ -3,11 +3,12 @@ layout: post
 title: Lena and Bonnie &#124; 26 March 1978
 maintitle: Lena and Bonnie
 subtitle: One Off Special
-more: Broadcast - Recorded on the 17 & 18 January 1978
+before: "Recorded on the 17 & 18 January 1978 For Broadcast On "
 description: Staring Lena Zavaroni and Bonnie Langford
 post_description: Staring Lena Zavaroni and Bonnie Langford.
 image: /assets/images/lena-and-bonnie/LZ-BL-small.jpg
 categories: [London-Weekend-Television, Lena-and-Bonnie, Lena-Zavaroni, Bonnie-Langford, OnThisDay17January, OnThisDay18January, OnThisDay26March]
+last_modified_at: 23 December 2023
 ---
 
 <table>

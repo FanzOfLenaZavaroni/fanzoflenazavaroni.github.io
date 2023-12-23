@@ -2,7 +2,8 @@
 layout: post
 title: Biography &#124; Harold Fielding
 maintitle: Harold Fielding
-more: Born - 27 September 2003 Died (aged 86)
+before: "Born On "
+after: " - Died On 27 September 2003 (aged 86)"
 position: Theatre Producer
 description: Harold Fielding was one of Britain’s foremost theatrical producers
 post_description: 4 December 1916 - 27 September 2003
@@ -10,7 +11,7 @@ image: /assets/images/harold-fielding.jpg
 image-caption: Harold Fielding
 categories: [Biography, Harold-Fielding, OnThisDay4December, OnThisDay27September]
 author: Robcamstone
-last_modified_at: 3 December 2023
+last_modified_at: 23 December 2023
 ---
 
 <figure class="fig3">

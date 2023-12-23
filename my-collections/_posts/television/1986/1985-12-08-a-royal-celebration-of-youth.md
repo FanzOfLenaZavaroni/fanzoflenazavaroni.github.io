@@ -3,12 +3,13 @@ layout: post
 title: A Royal Celebration Of Youth
 maintitle: A Royal Celebration Of Youth
 subtitle: Conference Centre, Harrogate
-more: Recorded at the Conference Centre, Harrogate by Yorkshire TV for broadcast on 1 January 1986
+before: "Recorded by Yorkshire TV On "
+after: " for broadcast on 1 January 1986"
 description: Recorded at the Conference Centre, Harrogate by Yorkshire Television for broadcast on 1 January 1986. In this all star spectacular concert to mark the end of International Year Of Youth, Lena performs Barry Manilow's All The Time, followed by a cover of the Donna Summer hit She Works Hard For The Money. Backstage, after the end of the concert, she shakes hands with Queen Elizabeth II, who was in attendance.
 post_description: Recorded at the Conference Centre, Harrogate by Yorkshire Television for broadcast on 1 January 1986.
 image: /assets/images/newspapers/the-times-london-england-monday-dec-09-1985-pg-18-issue-62316.jpg
 categories: [Yorkshire-Television, Thames-Television, OnThisDay8December, OnThisDay8December, OnThisDay1January]
-last_modified_at: 22 November 2023
+last_modified_at: 23 December 2023
 ---
 
 <table>

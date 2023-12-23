@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Lakeside Cabaret Club &#124; 5 June 1987
-more: "- 6 June 1987"
+after: " - 6 June 1987"
 maintitle: Lakeside Cabaret Club
 subtitle: Lena Zavaroni Plus Full Supporting Programme
 description: Lena Zavaroni Plus Full Supporting Programme.
 post_description: Lena Zavaroni Plus Full Supporting Programme.
 image: /assets/images/Media-Logos/OnThizDay.jpg
 categories: [Theatre, The-Lena-Zavaroni-Show, OnThisDay5June, OnThisDay6June]
+last_modified_at: 23 December 2023
 ---
 
 <figure class="fig1">

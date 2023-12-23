@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Bring on the Girls &#124; 28 July 1976
-more: Repeated on 22 June 1977
+before: "First Broadcast On "
+after: " Repeated on 22 June 1977"
 maintitle: Bring on the Girls
 subtitle: Bruce Forsyth
 description: Lena takes part in a short comedy sketch with Brucie, and they then perform Be A Clown together.
 media: Thames Television
 post_description: Lena takes part in a short comedy sketch with Brucie, and they then perform Be A Clown together.
 image: /assets/images/ITV/1976-07-28-bring-on-the-girls.jpg
-categories: [Thames-Television, OnThisDay28July, OnThisDay22June]
+categories: [Thames-Television, OnThisDay28July, RepeatDay22June]
+last_modified_at: 23 December 2023
 ---
 
 <table style="text-align:center;">

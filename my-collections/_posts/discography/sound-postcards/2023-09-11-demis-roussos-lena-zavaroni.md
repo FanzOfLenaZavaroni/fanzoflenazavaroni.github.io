@@ -3,7 +3,7 @@ layout: post
 title: Pocztówka Dzwiekowa (Sound Postcard)
 maintitle: Pocztówka Dzwiekowa (Sound Postcard)
 subtitle: Demis Roussos & Lena Zavaroni
-more: "- Date of this post is used as release date unknown"
+before: "<strong>Note:</strong> Creation Date of this post is used as the release date unknown "
 description: Demis Roussos & Lena Zavaroni.
 post_description: Demis Roussos & Lena Zavaroni.
 categories: [Pocztówka-Dzwiekowa, Sound-Postcard, OnThisDay11September]

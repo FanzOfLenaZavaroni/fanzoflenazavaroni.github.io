@@ -3,13 +3,12 @@ layout: post
 title: Somewhere South Of Macon
 maintitle: Somewhere South Of Macon
 subtitle: Lena Zavaroni's Twelveth UK Single
-more: "- The Official UK Release"
 description: This is the twelveth single by Lena Zavaroni
 post_description: This is the twelveth single by Lena Zavaroni
 image: /assets/images/singles/lena-zavaroni-somewhere-south-of-macon-president.jpg
 categories: [Discography, Singles, OnThisDay25September]
 permalink: /discography/singles/:name
-last_modified_at: 9 November 2023
+last_modified_at: 23 December 2023
 ---
 
 <figure class="fig3">

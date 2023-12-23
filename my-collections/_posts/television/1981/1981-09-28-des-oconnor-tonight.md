@@ -3,11 +3,12 @@ layout: post
 title: Des O'Connor Tonight &#124; 28 September 1981
 maintitle: Des O'Connor Tonight
 subtitle: "Guests: Jim Davidson, Lena Zavaroni and Garry Shandling"
-more: Originally broadcast On BBC Two - 5 August 1982 Repeated On BBC One
+before: "Originally broadcast On BBC Two "
+after: " Repeat On BBC One On 5 August 1982"
 description: Starring Des O'Connor who plays host to some of the finest entertainment talent from Britain and America. Des sings, jokes and talks in the company of his guests from both sides of the Atlantic. Tonight's special guests are from Britain Jim Davidson, Lena Zavaroni and from America Garry Shandling.
 post_description: Starring Des O'Connor who plays host to some of the finest entertainment talent from Britain and America. Des sings, jokes and talks in the company of his guests from both sides of the Atlantic. Tonight's special guests are from Britain Jim Davidson, Lena Zavaroni and from America Garry Shandling.
-categories: [BBC-Two, Des-O'Connor, OnThisDay28September, OnThisDay5August]
-last_modified_at: 27 September 2023
+categories: [BBC-Two, BBC=One, Des-O'Connor, OnThisDay28September, Repeat5August]
+last_modified_at: 23 December 2023
 ---
 
 <figure class="fig1">

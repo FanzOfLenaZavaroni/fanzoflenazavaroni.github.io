@@ -3,12 +3,11 @@ layout: post
 title: The Lena Zavaroni Show &#124; 11 September 1982
 maintitle: The <s>Lena Zavaroni</s> Bachelors Show
 subtitle: The Grand Theatre, Leeds
-more: 
 description: The Bachelors stood in for Lena Zavaroni as she was too ill to perform.
 post_description: The Bachelors stood in for Lena Zavaroni as she was too ill to perform.
 image: /assets/images/locations/
 categories: [Theatre, Grand-Theatre-Leeds, OnThisDay11September]
-last_modified_at: 19 June 2023
+last_modified_at: 23 December 2023
 ---
 
 Lena Zavaroni was taken ill and so the Bachelors stood in for her.

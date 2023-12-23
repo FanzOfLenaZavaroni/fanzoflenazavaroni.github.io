@@ -1,7 +1,8 @@
 ---
 layout: post
 last_modified_at: 15 June 2023
-more: Date Unconfirmed.
+before: "Currently unable to confirm the date the "
+after: " is used so that the page gets added to the post section of this website."
 title: The SHARE Show &#124; circa May 1974
 maintitle: The SHARE Show
 subtitle: Annual children's charity benefit show held in Hollywood, USA circa May 1974
@@ -9,6 +10,7 @@ description: Annual children's charity benefit show held in Hollywood, USA circa
 post_description: "Date is unconfirmed just used the 1 May as it the only date we currently have: Annual children's charity benefit show held in Hollywood, USA circa May 1974."
 image: /assets/images/US-TV/Frank-Sinatra-and-Lena-Zavaroni.jpg
 categories: [US-Television, Fundraising, OnThisDay1May]
+last_modified_at: 23 December 2023
 ---
 
 <figure class="fig1">

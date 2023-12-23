@@ -1,15 +1,16 @@
 ---
-layout: discography
+layout: post
 title: Fujiya & Miyagi &#124; 25 August2008 &#124; 1 September 2008
 maintitle: Fujiya & Miyagi
 subtitle: Knickerbocker
-more: Single - 1 September 2008 Album
+before: "Single Released On "
+after: " The Album &quot;Lightbulbs&quot; Released On 1 September 2008"
 description: Knickerbocker (The song makes a number of references to the life of Lena Zavaroni and the references are correct).
 post_description: Knickerbocker (The song makes a number of references to the life of Lena Zavaroni and the references are correct).
 image: /assets/images/albums/2008-09-01-fujiya-and-miyagi-knickerbocker-album-cover.jpg
 categories: [Tribute-Songs, OnThisDay25August, OnThisDay1September]
 permalink: /discography/tribute-songs/:name
-last_modified_at: 25 August 2023
+last_modified_at: 23 December 2023
 ---
 
 The track "Knickerbocker" makes a number of references to the life of Lena Zavaroni and the references are correct.
@@ -136,3 +137,4 @@ The track "Knickerbocker" makes a number of references to the life of Lena Zavar
 <style>
 .height {height:94px;}
 </style>
+

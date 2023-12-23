@@ -1,6 +1,6 @@
 ---
 layout: post
-more: Repeated on 25 October 1976
+after: " On BBC One - Repeated 25 October 1976 On BBC Two"
 title: The Morecambe And Wise Show &#124; 11 February 1976
 maintitle: The Morecambe And Wise Show
 subtitle: Episode 9.3
@@ -9,6 +9,7 @@ media: Details
 post_description: Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of These Days, before performing a song and dance version of Something Bout You Baby I Like with the duo.
 image: /assets/images/BBC-PIDs\p0417db6 - 768x432.jpg
 categories: [BBC-One, BBC-Two, OnThisDay, OnThisDay11February, Repeat25October]
+last_modified_at: 23 December 2023
 ---
 
 <figure class="fig1">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Spring Show &#124; 25 March 1975
-more: 29 March 1975, at 6.15 and 8.40pm
+after: "- 29 March 1975, at 6.15 and 8.40pm"
 maintitle: The Spring Show
 subtitle: The Pavilion Theatre, Bournemouth
 description: Lena Zavaroni - The Pavilion Theatre, Bournemouth (25-29 March 1975)
@@ -9,6 +9,7 @@ media: The Pavilion Theatre, Bournemouth
 post_description: Staring Lena Zavaroni (25 - 29 March 1975)
 image: /assets/images/locations/geograph-5270508-by-barry-shimmon.jpg
 categories: [Theatre, Pavilion-Theatre, Bournemouth, OnThisDay25March]
+last_modified_at: 23 December 2023
 ---
 
 ![](/assets/images/locations/geograph-5270508-by-barry-shimmon.jpg){: .full-width}

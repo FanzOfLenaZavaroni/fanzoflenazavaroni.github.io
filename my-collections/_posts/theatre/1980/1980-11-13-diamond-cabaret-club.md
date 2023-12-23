@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Diamond Cabaret Club, Caerphilly &#124; 13 November 1980
-more: "- 15 November 1980"
+after: " - 15 November 1980"
 maintitle: Diamond Cabaret Club, Caerphilly
 subtitle: Starring Lena Zavaroni
 description: Starring Lena Zavaroni from 13 - 15 November 1980.
-media: Details
 post_description: Starring Lena Zavaroni from 13 - 15 November 1980.
 image: /assets/images/newspapers/1980-11-06-neath-guardian-page-4.png
 categories: [Theatre, Diamond-Cabaret-Club, OnThisDay13November, OnThisDay15November]
+last_modified_at: 23 December 2023
 ---
 
 Based on the advert in the Pontypridd Observer it seems that the original plan was for Lena to perform at the club from the 10th to the 15th of November 1980 but for a reason currently unestablished her appearances were reduce by two days based on the later advert in the Neath Guardian.

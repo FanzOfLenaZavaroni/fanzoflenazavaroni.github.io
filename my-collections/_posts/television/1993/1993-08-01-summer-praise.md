@@ -3,12 +3,13 @@ layout: post
 title: Summer Praise &#124; 1 August 1993
 maintitle: Summer Praise
 subtitle: Doon The Watter
-more: Original Broadcast On BBC One - 2 August 1993 Repeat Broadcast On BBC Two
+before: "Original Broadcast On BBC One "
+after: " And Repeated On BBC Two 2 August 1993"
 description: The Sunday evening religious show features the Firth Of Clyde, and visits Lena's home town of Rothesay. Pam Rhodes chats to Lena about her life and career.
 post_description: The Sunday evening religious show features the Firth Of Clyde, and visits Lena's home town of Rothesay. Pam Rhodes chats to Lena about her life and career.
 image: https://img.youtube.com/vi/DOu5ktVUEoI/hqdefault.jpg
-categories: [BBC-One, OnThisDay1August, OnThisDay2August]
-last_modified_at: 2 August 2023
+categories: [BBC-One, OnThisDay1August, Repeat2August]
+last_modified_at: 23 December 2023
 ---
 
 <table style="text-align:center;">

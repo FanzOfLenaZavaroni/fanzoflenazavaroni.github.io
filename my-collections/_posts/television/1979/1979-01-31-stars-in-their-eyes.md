@@ -3,13 +3,14 @@ layout: post
 title: Stars In Their Eyes &#124; 31 January 1979
 maintitle: Stars In Their Eyes
 subtitle: Tyne Tees Television
-more: Repeated on 26 December 1979
+before: "Broadcast On "
+after: " Repeated on 26 December 1979"
 description: Documentary which follows the lives of various members of the Italia Conti stage school, including Lena Zavaroni and Bonnie Langford.
 media: Tyne Tees Television
 post_description: Documentary which follows the lives of various members of the Italia Conti stage school, including Lena Zavaroni and Bonnie Langford.
 image: /assets/images/ITV/Stars-In-Their-Eyes.jpg
 categories: [Tyne-Tees-Television, Ruth-Davies, Lena-Zavaroni, Bonnie-Langford, OnThisDay31January, Repeat26December]
-last_modified_at: 23 November 2023
+last_modified_at: 23 December 2023
 ---
 
 <table>

@@ -1,15 +1,15 @@
 ---
 layout: post
-author: 4 September 1982
 title: The Lena Zavaroni Show &#124; 3 August 1982
 maintitle: The Lena Zavaroni Show
 subtitle: at the White Rock Pavilion, Hastings
-more: Opening Night - 4 September 1982 Closing Night
+before: "Opening Night "
+after: " - 4 September 1982 Closing Night"
 description: Lena Zavaroni stars in her own show at the White Rock Pavilion, Hastings.
 post_description: The White Rock Pavilion, Hastings.
 image: /assets/images/theatres/1982-08-03-the-white-rock-pavilion-01.jpg
 categories: [Theatre, White-Rock-Pavilion, Hastings, Dougie-Squires, OnThisDay3August]
-last_modified_at: 18 August 2023
+last_modified_at: 23 December 2023
 ---
 
 <figure class="fig1">

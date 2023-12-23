@@ -1,15 +1,16 @@
 ---
 layout: post
-last_modified_at: 15 June 2023
 title: Biography &#124; Les Dawson
 maintitle: Les Dawson
-more: Born - 10 June 1993 Died (aged 59)
+before: "Born On "
+after: " - Died On 10 June 1993 (aged 59)"
 position: Comedian, Actor, Writer, and Presenter
 description: Les Dawson was an English comedian, actor, writer, and presenter, who is best remembered for his deadpan style.
 post_description: He was an English comedian, actor, writer, and presenter, who is best remembered for his deadpan style.
 image: /assets/images/on-this-day/les-dawson.webp
 image-caption: Les Dawson
 categories: [Biography, Les-Dawson, OnThisDay2February, OnThisDay10June]
+last_modified_at: 23 December 2023
 ---
 
 <figure class="fig3">

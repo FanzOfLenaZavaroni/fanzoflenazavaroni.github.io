@@ -5,11 +5,10 @@ title: I Should've Listened To Mama
 maintitle: I Should've Listened To Mama
 subtitle: Lena Zavaroni's Eighth Single
 description: Eighth single by Lena Zavaroni
-media: 7" Vinyl, 45 Single
 post_description: 
 image: /assets/images/singles/
 categories: [Discography, Singles]
-last_modified_at: 15 June 2023
+last_modified_at: 23 December 2023
 ---
 
 <figure class="fig3">
