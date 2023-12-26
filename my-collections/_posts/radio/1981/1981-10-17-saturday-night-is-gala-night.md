@@ -22,8 +22,8 @@ last_modified_at: 26 December 2023
 </tr>
 <tr>
 <th colspan="3" style="width:20%;">YouTube</th>
-<td style="width:30%;"><a class="external-link" href="https://www.youtube.com/watch?v=9I_YxWWujl4?si">Part 1 of the Brodcast</a></td>
-<td style="width:50%;"><a class="external-link" href="https://www.youtube.com/watch?v=UblmGfMCl1o">Part 2 of the Brodcast</a></td>
+<td style="width:30%;"><a class="external-link" href="https://www.youtube.com/watch?v=9I_YxWWujl4?si">Part 1 of the Broadcast</a></td>
+<td style="width:50%;"><a class="external-link" href="https://www.youtube.com/watch?v=UblmGfMCl1o">Part 2 of the Broadcast</a></td>
 </tr>
 </table>
 </figure>
