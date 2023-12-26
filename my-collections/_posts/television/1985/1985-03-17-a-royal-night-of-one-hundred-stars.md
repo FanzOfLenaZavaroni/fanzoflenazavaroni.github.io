@@ -1,5 +1,7 @@
 ---
 layout: post
+before: "Recorded On "
+after: " For Broadcast By London Weekend Television On The 31 March 1985"
 title: A Royal Night of One Hundred Stars
 maintitle: A Royal Night of One Hundred Stars
 subtitle: National Theatre (Olivier Theatre), London
@@ -71,12 +73,4 @@ categories: [London-Weekend-Television, Theatre, OnThisDay17March, OnThisDay31Ma
 <td style="outline: 4px dashed darkorange;width: max-content;padding: 0 5px;">Lena Zavaroni</td>
 </tr>
 </table>
-
-<style>
-.dt-published {display: none;}
-.post-meta:after {content: "Recorded on 17 March 1985 for broadcast by London Weekend Television on the 31 March 1985";}
-.height-adjust1 {width:auto; height:350px;}
-.height-adjust2 {width:auto; height:307px;}
-.fit1 {width:367.7px; height:498px; object-fit: cover; margin-bottom:5px;}
-</style>
 

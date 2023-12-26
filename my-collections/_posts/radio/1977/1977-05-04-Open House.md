@@ -1,5 +1,7 @@
 ---
 layout: post
+before: "Recorded on "
+after: " And Broadcast On BBC Radio 2 On 13 May 1977 at 09.02"
 title: Pete Murray's Open House from Glasgow &#124; 13 May 1977
 maintitle: Pete Murray's Open House from Glasgow
 subtitle: BBC Radio 2
@@ -43,11 +45,4 @@ categories: [BBC-Radio-2, OnThisDay4May, OnThisDay13May]
 > <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/8cY19mlluSY?rel=0showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 
 <cite>[Loving Lena Zavaroni via YouTUbe](https://www.youtube.com/channel/UCzavGl0gV4T5qOH5yRW8ONQ)</cite>
-
-<style>
-.dt-published {display: none;}
-.post-meta:after {content: "Recorded on 4 May 1977 and broadcast on BBC Radio 2 on 13 May 1977 at 09.02";}
-.height-adjust1 {width:auto; height:350px;}
-.height-adjust2 {width:auto; height:307px;}
-</style>
 

@@ -1,5 +1,7 @@
 ---
 layout: post
+before: "The Show Took Place On "
+after: " And Recorded For Broadcast On The 22 May 1977"
 title: The Royal Show &#124; 22 May 1977
 maintitle: The Royal Show
 subtitle: The King's Theatre, Glasgow
@@ -56,9 +58,3 @@ Lena sings Whole World In His Hands, Pinch Me Am I Dreaming and Razzle Dazzle ac
 <tr><th>Production Company:</th><td>Scottish Television</td></tr>
 </table>
 
-<style>
-.dt-published {display: none;}
-.post-meta:after {content: "The Show Took Place On The 17 May 1977 And Recorded For Broadcast On The 22 May 1977";}
-.height-adjust1 {width:auto; height:350px;}
-.height-adjust2 {width:auto; height:307px;}
-</style>

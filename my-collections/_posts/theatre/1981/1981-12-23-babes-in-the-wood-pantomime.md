@@ -1,5 +1,6 @@
 ---
 layout: post
+before: "Commencing "
 title: Babes In The Wood Pantomime &#124; 23 December 1981
 maintitle: Babes In The Wood Pantomime
 subtitle: Alexandra Theatre, Birmingham
@@ -39,18 +40,3 @@ categories: [Theatre, Alexandra-Theatre, Birmingham, OnThisDay23December]
 
 <cite>Copyright believed to belong to [The Birmingham Mail](https://www.birminghammail.co.uk/news/nostalgia/gallery/christmas-pantomime-198136)</cite>
 
-<style>
-.dt-published {display: none;}
-.post-meta:after {content: "Commencing 23rd Dec 1981";}
-
-.fig1 {float:left; width:49%;}
-figcaption {float:left; width:100%;}
-
-.fig2 {float:right; width:49%;}
-figcaption {float:right; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
