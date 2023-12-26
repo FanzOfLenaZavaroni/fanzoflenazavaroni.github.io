@@ -1,5 +1,6 @@
 ---
 layout: post
+after: " - 25 February 1986"
 title: Aladdin Pantomime
 maintitle: Aladdin Pantomime
 subtitle: The Wimbledon Theatre, London
@@ -44,21 +45,4 @@ categories: [Theatre, Wimbledon-Theatre, OnThisDay20December]
 </figure>
 
 <br />{: .clear}
-
-<style>
-.dt-published {display: none;}
-
-.post-meta:after {content: "20 December 1985 - 25 February 1986";}
-
-.fig1 {float:left; width:49%;}
-figcaption {float:left; width:100%;}
-
-.fig2 {float:right; width:49%;}
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 

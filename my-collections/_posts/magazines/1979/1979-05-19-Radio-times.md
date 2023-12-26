@@ -1,5 +1,6 @@
 ---
 layout: post
+after: " - 25 May 1979 Published On The 17 May 1979"
 title: Radio Times &#124; 19 May
 maintitle: Radio Times
 subtitle: TV Guide
@@ -29,25 +30,3 @@ categories: [Radio-Times, OnThisDay19May]
 
 <br />{: .clear}
 
-<style>
-.dt-published {display: none;}
-
-.post-meta:after {content: "19 May 1979 to 25 May 1979 published on the 17 May 1979";}
-
-.height-adjust1 {width:auto; height:350px;}
-
-.height-adjust2 {width:auto; height:307px;}
-
-.width {width:309px; height:auto;}
-
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>

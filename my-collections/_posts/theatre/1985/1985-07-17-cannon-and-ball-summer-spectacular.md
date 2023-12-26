@@ -1,5 +1,6 @@
 ---
 layout: post
+after: " - 28 September 1985"
 title: Cannon & Ball Summer Spectacular Show
 maintitle: Cannon & Ball Summer Spectacular Show
 subtitle: The Blackpool Opera House
@@ -43,23 +44,4 @@ categories: [Theatre, Blackpool-Opera-House]
 </figure>
 
 <br />{: .clear}
-
-<style>
-.dt-published {display: none;}
-
-.post-meta:after {content: "17 - 28 September 1985";}
-
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
