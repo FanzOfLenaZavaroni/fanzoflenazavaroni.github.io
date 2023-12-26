@@ -7,7 +7,7 @@ subtitle: The 70s Stop Here/The New Year Show
 description: The 70s Stop Here/The New Year Show
 post_description: The 70s Stop Here/The New Year Show
 image: /assets/images/podcasts/
-categories: [Podcasts, The 70s Stop Here, The New Year Show, OnThisDay 31December]
+categories: [Podcasts, The-70s-Stop-Here, The-New-Year-Show, OnThisDay31December]
 permalink: /discography/podcasts/:name
 ---
 
