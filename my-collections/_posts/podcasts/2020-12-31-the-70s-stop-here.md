@@ -1,6 +1,5 @@
 ---
 layout: post
-year: 31 December 2020
 title: The Peggy Mount Calamity Hour &#124; 31 December 2020
 maintitle: The Peggy Mount Calamity Hour
 subtitle: The 70s Stop Here/The New Year Show

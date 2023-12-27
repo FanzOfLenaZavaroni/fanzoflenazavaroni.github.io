@@ -10,39 +10,35 @@ image: /assets/images/ITV/1877-12-27-maxs-holiday-hour.jpg
 categories: [Thames-Television, OnThisDay27December]
 ---
 
-<figure class="fig3">
-<h3 id="details"><a href="#details">Details</a></h3>
-<p>Lena recites a naughty limerick in a short sketch with Max.</p>
-<p>They later perform a duet on a specially written song &quot;Things will turn out fine&quot;.</p>
-<p>Lena then pops out from inside a giant snowman, and performs a song and dance version of &quot;Baby It's Cold Outside&quot;.</p>
-</figure>
-
-<figure class="fig1">
-<img src="/assets/images/ITV/1877-12-27-maxs-holiday-hour.jpg" class="full-width" />
-</figure>
-
-<figure class="fig2">
-<a href="/assets/images/ITV/1877-12-27-maxs-holiday-hour-listing-article.png"><img src="/assets/images/ITV/1877-12-27-maxs-holiday-hour-listing-article.png" class="full-width zoom-in" /></a>
-</figure>
-
-{: .clear}
-
-<figure class="fig1">
-<h3 id="cast"><a href="#cast">Cast</a></h3>
 <table>
-<tr><th>Host</th><td>Max Bygraves</td></tr>
-<tr style="outline: 4px dashed darkorange;" id="lz"><th>Singer</th><td>Lena Zavaroni</td></tr>
+<tr align="center">
+<th colspan="5">Jump To:</th>
+</tr>
+
+<tr align="center">
+<td style="width:33.33%;"><a href="#infobox1">Screenshot - Cast</a></td>
+<td style="width:33.34%;"><a href="#infobox2">Crew</a></td>
+<td style="width:33.33%;"><a href="#infobox3">Summary</a></td>
+</tr>
+</table>
+
+<figure class="fig3">
+<table>
+<tr id="infobox1"><th>Screenshot</th><th colspan="2">Cast</th></tr>
+<tr>
+<th rowspan="7" class="top" style="width:50%;"><img src="/assets/images/ITV/1877-12-27-maxs-holiday-hour.jpg" class="full-width" /><br /><cite>Max Bygraves & Lena Zavaroni</cite></th>
+</tr>
+<tr><th style="width:25%;">Host</th><td>Max Bygraves</td></tr>
+<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
 <tr><th>Clown</th><td>Charlie Cairoli</td></tr>
 <tr><th>Actress</th><td>Sandra Dickinson</td></tr>
 <tr><th>Comedian</th><td>Jim Davidson</td></tr>
 <tr><th>Writer</th><td>Margaret Powell</td></tr>
-</table>
-</figure>
-
-<figure class="fig2">
-<h3 id="crew"><a href="#crew">Crew</a></h3>
-<table>
-<tr><th>Screenplay</th><td>Eric Davidson</td></tr>
+<tr id="infobox2" class="split"><th></th><th colspan="2">Crew</th></tr>
+<tr>
+<th rowspan="9" class="top" style="width:50%;"><img src="/assets/images/ITV/1877-12-27-maxs-holiday-hour-listing-article.png" class="full-width" /></th>
+</tr>
+<tr><th style="width:25%;">Screenplay</th><td>Eric Davidson</td></tr>
 <tr><th>Designer</th><td>Rod Stratfold</td></tr>
 <tr><th>Choreography</th><td>Nigel Lythgoe</td></tr>
 <tr><th>Music Associate</th><td>Norman Stevens</td></tr>
@@ -50,8 +46,19 @@ categories: [Thames-Television, OnThisDay27December]
 <tr><th>Director</th><td>Mark Stuart</td></tr>
 <tr><th>Producer</th><td>Mark Stuart</td></tr>
 <tr><th>Production Company</th><td>Thames Television</td></tr>
+<tr id="infobox3" class="split"><th colspan="3">Summary</th></tr>
+<tr>
+<td colspan="3">
+<p>Lena recites a naughty limerick in a short sketch with Max.</p>
+<p>They later perform a duet on a specially written song &quot;Things will turn out fine&quot;.</p>
+<p>Lena then pops out from inside a giant snowman, and performs a song and dance version of &quot;Baby It's Cold Outside&quot;.</p>
+</td></tr>
 </table>
 </figure>
 
 <br />{: .clear}
+
+<style>
+#infobox2, #infobox3 {scroll-margin-top: -3px;}
+</style>
 
