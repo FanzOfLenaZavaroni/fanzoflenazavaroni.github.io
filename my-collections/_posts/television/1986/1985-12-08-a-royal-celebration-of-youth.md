@@ -25,14 +25,14 @@ last_modified_at: 23 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="summary"><th>InfoBox: Summary</th></tr>
+<tr id="summary"><th>Summary</th></tr>
 <tr><td><p>In this all star spectacular concert to mark the end of International Year Of Youth, Lena performs Barry Manilow's "All The Time", followed by a cover of the Donna Summer hit "She Works Hard For The Money".</p><p>Backstage, after the end of the concert, she shakes hands with Queen Elizabeth II, who was in attendance.</p></td></tr>
 </table>
 </figure>
 
 <figure class="fig3">
 <table>
-<tr id="cast"><th colspan="2">InfoBox: Cast</th></tr>
+<tr id="cast"><th></th><th>Cast</th></tr>
 <tr><th rowspan="30" class="top" style="width:50%;"><a href="/assets/images/newspapers/the-times-london-england-monday-dec-09-1985-pg-18-issue-62316.jpg"><img src="/assets/images/newspapers/the-times-london-england-monday-dec-09-1985-pg-18-issue-62316.jpg" class="full-width zoom-in" /></a><cite>The Times (London) Monday 9 December 1985 page 18</cite></th></tr>
 <tr><td style="width:25%;">Cilla Black</td></tr>
 <tr><td>Chris Bonington</td></tr>
@@ -68,7 +68,7 @@ last_modified_at: 23 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="crew"><th colspan="2">InfoBox: Crew</th></tr>
+<tr id="crew"><th colspan="2">Crew</th></tr>
 <tr><th style="width:50%;">Choreography</th><td style="width:50%;">Brian Rogers</td></tr>
 <tr><th>Music Director</th><td>Robert Hartley</td></tr>
 <tr><th>Director</th><td>Graham Wetherell</td></tr>
@@ -80,8 +80,4 @@ last_modified_at: 23 December 2023
 </figure>
 
 <br />{: .clear}
-
-<style>
-.top {vertical-align:top;}
-</style>
 
