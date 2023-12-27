@@ -26,7 +26,7 @@ categories: [Thames-Television, OnThisDay27December]
 <table>
 <tr id="infobox1"><th>Screenshot</th><th colspan="2">Cast</th></tr>
 <tr>
-<th rowspan="7" class="top" style="width:50%;"><img src="/assets/images/ITV/1877-12-27-maxs-holiday-hour.jpg" class="full-width" /><br /><cite>Max Bygraves & Lena Zavaroni</cite></th>
+<th rowspan="7" class="top" style="width:50%;"><img src="/assets/images/ITV/1877-12-27-maxs-holiday-hour.jpg" class="full-width" /><br /><cite>Max Bygraves as Buttons & Lena Zavaroni as Cinderella</cite></th>
 </tr>
 <tr><th style="width:25%;">Host</th><td>Max Bygraves</td></tr>
 <tr><th>Singer</th><td>Lena Zavaroni</td></tr>
@@ -36,7 +36,7 @@ categories: [Thames-Television, OnThisDay27December]
 <tr><th>Writer</th><td>Margaret Powell</td></tr>
 <tr id="infobox2" class="split"><th></th><th colspan="2">Crew</th></tr>
 <tr>
-<th rowspan="9" class="top" style="width:50%;"><img src="/assets/images/ITV/1877-12-27-maxs-holiday-hour-listing-article.png" class="full-width" /></th>
+<th rowspan="9" class="top" style="width:50%;"><a href="/assets/images/ITV/1877-12-27-maxs-holiday-hour-listing-article.png"><img src="/assets/images/ITV/1877-12-27-maxs-holiday-hour-listing-article.png" class="full-width zoom-in" /></a></th>
 </tr>
 <tr><th style="width:25%;">Screenplay</th><td>Eric Davidson</td></tr>
 <tr><th>Designer</th><td>Rod Stratfold</td></tr>
