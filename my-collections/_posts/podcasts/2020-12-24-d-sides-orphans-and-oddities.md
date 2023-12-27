@@ -13,8 +13,8 @@ permalink: /discography/podcasts/:name
 
 <figure class="fig3">
 <table style="text-align:center;">
-<tr><th colspan="3">Jump To</th><th>External Link</th></tr>
-<tr><td style="width:25%;"><a href="#infobox1">Podcast</a></td><td style="width:25%;"><a href="#infobox2">Tracks</a></td><td style="width:25%;"><a href="#lena">Lena Zavaroni</a></td><td style="width:25%;"><a class="external-link" href="https://dsides.podbean.com/e/who-was-vaughn-meader">Source: podbean</a></td></tr>
+<tr><th colspan="3">Jump To</th><th>Source</th></tr>
+<tr><td style="width:25%;"><a href="#infobox1">Podcast</a></td><td style="width:25%;"><a href="#infobox2">Tracks</a></td><td style="width:25%;"><a href="#lena">Lena Zavaroni</a></td><td style="width:25%;"><a class="external-link" href="https://dsides.podbean.com/e/who-was-vaughn-meader">podbean</a></td></tr>
 </table>
 </figure>
 
@@ -22,7 +22,7 @@ permalink: /discography/podcasts/:name
 <table>
 <tr id="infobox1"><th colspan="3">InfoBox: Podcast Spoken In English</th></tr>
 <tr><td colspan="3"><iframe title="Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself." allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=se68m-f5c680-pb&share=1&download=1&fonts=Arial&skin=1&font-color=&rtl=0&logo_link=&btn-skin=7&size=150"></iframe></td></tr>
-<tr id="infobox2"><th colspan="3">InfoBox: Tracks</th></tr>
+<tr id="infobox2" class="split"><th colspan="3">InfoBox: Tracks</th></tr>
 <tr><th style="width:10%; text-align:center;">Track</th><th>Artist</th><th>Title</th></tr>
 <tr><th style="width:10%; text-align:center;">1</th><td>REO Speedwagon</td><td>Ridin' The Storm Out (studio version)</td></tr>
 <tr><th style="width:10%; text-align:center;">2</th><td>Rufus</td><td>Read All About</td></tr>
@@ -72,6 +72,7 @@ permalink: /discography/podcasts/:name
 <br />{: .clear}
 
 <style>
+#infobox2 {scroll-margin-top: -3px;}
 #lena {scroll-margin-top: 10px;}
 </style>
 
