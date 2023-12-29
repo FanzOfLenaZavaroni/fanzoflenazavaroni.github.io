@@ -6,7 +6,7 @@ subtitle: Scottish Television
 description: Laird O' Cowcaddens jack McLaughlin hosts STV's classic New Year bash from 1985. Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, Andy Cameron, Russ Abbott, Sydney Devine, the Alexander Brothers and many more.
 post_description: Laird O' Cowcaddens jack McLaughlin hosts STV's classic New Year bash from 1985. Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, Andy Cameron, Russ Abbott, Sydney Devine, the Alexander Brothers and many more.
 image: https://img.youtube.com/vi/iOWvho3ZSKw/sddefault.jpg
-categories: [Scottish-Television-(STV), OnThisDay31December]
+categories: [Scottish-Television-(STV), The-New-Year-Show, OnThisDay31December]
 last_modified_at: 22 November 2023
 ---
 
