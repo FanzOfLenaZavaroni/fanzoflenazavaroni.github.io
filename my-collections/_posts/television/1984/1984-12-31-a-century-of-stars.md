@@ -8,12 +8,12 @@ media: Granada Television
 post_description: A short clip of Lena singing &quot;Help Me Make It Through The Night&quot; live, is included in this 90 minute documentary about the Grand Order Of Water Rats.
 image: /assets/images/Channel4/Grand%20Order%20of%20Water%20Rats.png
 categories: [Granada-Television, OnThisDay31December]
-last_modified_at: 22 November 2023
+last_modified_at: 29 December 2023
 ---
 
 <figure class="fig3">
 <p>A short clip of Lena singing &quot;Help Me Make It Through The Night&quot; live, is included in this 90 minute documentary about the Grand Order Of Water Rats.</p>
-<p>The clip was recorded at the Grand Order Of Water Rats Celebration Ball - Grosvenor Hotel, London (November 25, 1984).</p>
+<p>The clip of Lena was recorded at the Grand Order Of Water Rats Celebration Ball - Grosvenor Hotel, London (25 November 1984).</p>
 </figure>
 
 {: .clear}
