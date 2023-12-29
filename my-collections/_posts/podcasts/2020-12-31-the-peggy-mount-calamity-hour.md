@@ -5,9 +5,9 @@ maintitle: The Peggy Mount Calamity Hour
 subtitle: The 70s Stop Here/The New Year Show
 description: The 70s Stop Here/The New Year Show
 post_description: The 70s Stop Here/The New Year Show
-categories: [Podcasts, The-70s-Stop-Here, The-New-Year-Show, OnThisDay31December]
+categories: [Podcasts, The-Peggy-Mount-Calamity-Hour, The-70s-Stop-Here, The-New-Year-Show, OnThisDay31December]
 permalink: /discography/podcasts/:name
-last_modified_at: 27 December 2023
+last_modified_at: 29 December 2023
 ---
 
 <figure class="fig3">
@@ -32,6 +32,8 @@ last_modified_at: 27 December 2023
 <p>Messrs Velvet, Blackout and Bognops rouse from their festive sloth to see in the new year, or perhaps more pertinently see out the old.</p>
 <p>We drop in with Dame Penelope Keith assuring that us The 70s Stop Here!, an unequaled archival treat which values schedule-filling over entertainment value.</p>
 <p>But the razzamatazz is cranked back up as we jump forward six years, down two channels and up across the border for STV's The New Year Show, where a clinically-lit studio in Glasgow plays host to Dame Russ Abbot (yes, again), Dame <span style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni</span> (yes, again) and a swathe of 'well-worn' light entertainment stereotypes under the auspices of Dame Jack McLaughlin. It is indeed a time for looking forward, not back.</p>
+<p>Which of our heroes was dragged out and around the houses at midnight at the end of December as a six year old? Which of them finds himself trapped in a time-vortex as New Year's Eve replays its televisual self verbatim and the new year becomes the old year again? And who suffers an on-mic flashback to day zero of a pathological trifle aversion? Forget your old acquaintances, and find out...</p>
+<p>(NOTE: If you want to count down to midnight with us in the show, start the podcast at 23:12:10. That's twelve minutes and ten seconds past eleven o'clock at night. Lovely stuff.)</p>
 </blockquote>
 <cite><a class="external-links" href="https://iporlemedia.podbean.com/e/the-70s-stop-herethe-new-year-show">Podbean</a></cite>
 </td></tr>
