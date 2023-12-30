@@ -7,7 +7,7 @@ description: The 70s Stop Here/The New Year Show
 post_description: The 70s Stop Here/The New Year Show
 categories: [Podcasts, The-Peggy-Mount-Calamity-Hour, The-70s-Stop-Here, The-New-Year-Show, OnThisDay31December]
 permalink: /discography/podcasts/:name
-last_modified_at: 29 December 2023
+last_modified_at: 30 December 2023
 ---
 
 <figure class="fig3">
@@ -21,8 +21,10 @@ last_modified_at: 29 December 2023
 <table>
 <tr id="infobox1"><th colspan="2">InfoBox: Podcast Spoken Language: English</th></tr>
 <tr>
-<th style="width:20%;"><img src="/assets/images/Parental_Advisory_Strong_Language_2002.png" class="full-width" /></th>
-<td style="width:80%;"><iframe title="The 70s Stop Here/The New Year Show" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=ybsd8-f63e1e-pb&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=&rtl=0&logo_link=&btn-skin=12&size=150"></iframe></td>
+<th style="width:20%;" class="top"><img src="/assets/images/Parental_Advisory_Strong_Language_2002.png" class="full-width" /></th>
+<td style="width:80%;"><iframe title="The 70s Stop Here/The New Year Show" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=ybsd8-f63e1e-pb&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=&rtl=0&logo_link=&btn-skin=12&size=150"></iframe>
+<cite>The comments on Lena start at 00:32:14</cite>
+</td>
 </tr>
 <tr id="infobox2" class="split"><th colspan="2">Summary</th></tr>
 <tr>
