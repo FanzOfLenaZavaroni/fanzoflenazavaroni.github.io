@@ -29,7 +29,7 @@ image: /assets/images/spoken-words/John_hannam.jpg
 <tr><th>8</th><td>Hugh Lloyd</td></tr>
 <tr><th>9</th><td>Jack Warner</td></tr>
 <tr><th>10</th><td>Hylda Baker</td></tr>
-<tr style="outline: 4px dashed darkorange;"><th>11</th><td>Lena Zavaroni
+<tr style="outline: 4px dashed darkorange; outline-offset: -4px;"><th>11</th><td>Lena Zavaroni
 <audio id="player" src="/assets/media/spoken-words/2010 - John Hannam Archives/11 - John Hannam - Lena Zavaroni (1987).mp3">Your browser does not support the audio element.</audio>
 <div>
 <button onclick="document.getElementById('player').play()">Play</button>

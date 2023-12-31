@@ -144,7 +144,7 @@ permalink: /discography/compilation-albums/:name
 <tr><th>07</th><th>Sprinkler</th><td>Face to Face</td></tr>
 <tr><th>08</th><th>Four Tops</th><td>For Your Love</td></tr>
 <tr><th>09</th><th>Aliki & Earl</th><td>Do You Wanna Touch Me (Oh Yeah)</td></tr>
-<tr id="lena" style="outline: 4px dashed darkorange;"><th>10</th><th>Lena Zavaroni</th><td>Here You Come Again</td></tr>
+<tr id="lena" style="outline: 4px dashed darkorange; outline-offset: -4px;"><th>10</th><th>Lena Zavaroni</th><td>Here You Come Again</td></tr>
 <tr><th>11</th><th>Cilla Black</th><td>Heart Get Ready for Love</td></tr>
 <tr><th>12</th><th>Hit & Run</th><td>Wooly Bully</td></tr>
 <tr><th>13</th><th>The Nolans</th><td>Harry My Honolulu Lover</td></tr>

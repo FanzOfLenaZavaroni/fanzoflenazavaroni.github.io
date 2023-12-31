@@ -50,7 +50,7 @@ categories: [BBC-Four, Hughie-Green, OnThisDay2April]
 <tr><th>Ordinary Housewife</th><td>Vicky Ogden</td></tr>
 <tr><th>Male Contestant</th><td>George Potts</td></tr>
 <tr><th>TV Executive</th><td>Will Thorp</td></tr>
-<tr style="outline: 4px dashed darkorange;"><th>Lena Zavaroni</th><td>Taet Chesterton</td></tr>
+<tr style="outline: 4px dashed darkorange; outline-offset: -4px;"><th>Lena Zavaroni</th><td>Taet Chesterton</td></tr>
 <tr><th>Jeremy Isaacs</th><td>Jasper Jacob</td></tr>
 <tr><th>Receptionist</th><td>Olivia Darnley</td></tr>
 <tr><th>Mr Reed</th><td>Glynne Steele</td></tr>

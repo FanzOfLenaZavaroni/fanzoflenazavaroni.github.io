@@ -33,8 +33,8 @@ last_modified_at: 15 June 2023
 <li><b>Fumble:</b> Rock 'N' Roll School</li>
 <li><b>The Human Instinct:</b> Rennaissance Fair</li>
 <li><b>Mike Hurst:</b> Any Time That You Want Me</li>
-<li style="outline: 4px dashed darkorange;"><b>Lena Zavaroni:</b> Here You Come Again</li>
-<li style="outline: 4px dashed darkorange;"><b>Lena Zavaroni:</b> Songs</li>
+<li style="outline: 4px dashed darkorange; outline-offset: -4px;"><b>Lena Zavaroni:</b> Here You Come Again</li>
+<li style="outline: 4px dashed darkorange; outline-offset: -4px;"><b>Lena Zavaroni:</b> Songs</li>
 <li><b>Barry St John:</b> Come Away Melinda</li>
 <li><b>Shakin' Stevens:</b> Spooky</li>
 <li><b>The Gary Wilson Band:</b> Help Me Rhonda</li>

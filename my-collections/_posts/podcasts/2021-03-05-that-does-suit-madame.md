@@ -36,7 +36,7 @@ A space/time continuum paradox in AYBS?
 
 Was Tiddles’ age a secret clue to a parallel timeline conspiracy?
 
-<p style="outline: 4px dashed darkorange;width: max-content;padding: 0 5px;">Who was Lena Zavaroni and why did Tiddles not like her? - aproxamitly 13:38 into the podcast.</p>
+<p style="outline: 4px dashed darkorange; outline-offset: -4px;width: max-content;padding: 0 5px;">Who was Lena Zavaroni and why did Tiddles not like her? - aproxamitly 13:38 into the podcast.</p>
 
 Canadian fried chicken (And hockey jokes).
 

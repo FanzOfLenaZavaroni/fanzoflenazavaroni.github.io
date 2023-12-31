@@ -50,7 +50,7 @@ last_modified_at: 15 June 2023
 <li><b>Gene Pitney:</b> 24 Hours From Tulsa</li>
 <li><b>Dionne Warwick:</b> I Say A Little Prayer For You</li>
 <li><b>The Platters:</b> My Prayer</li>
-<li style="outline: 4px dashed darkorange;"><b>Lena Zavaroni:</b> Ma, (He's Making Eyes At Me)</li>
+<li style="outline: 4px dashed darkorange; outline-offset: -4px;"><b>Lena Zavaroni:</b> Ma, (He's Making Eyes At Me)</li>
 <li><b>The Bachelors:</b> Charmaine</li>
 <li><b>	Millican And Nesbit:</b> Vaya Con Dios</li>
 <li><b>Gene Pitney:</b> Something's Gotten Hold Of My Hear</li>

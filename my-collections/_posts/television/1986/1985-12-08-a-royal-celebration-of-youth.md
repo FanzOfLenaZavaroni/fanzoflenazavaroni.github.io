@@ -60,7 +60,7 @@ last_modified_at: 23 December 2023
 <tr><td>Brian Rogers Dancers</td></tr>
 <tr><td>Five Star</td></tr>
 <tr><td>Jimmy Tarbuck</td></tr>
-<tr id="lz"><td style="outline: 4px dashed darkorange;">Lena Zavaroni</td></tr>
+<tr id="lz"><td style="outline: 4px dashed darkorange; outline-offset: -4px;">Lena Zavaroni</td></tr>
 <tr><td>Voice of John Dunn</td></tr>
 <tr><td>A-ha</td></tr>
 </table>

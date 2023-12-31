@@ -38,7 +38,7 @@ categories: [ITV, TV&#45;AM, OnThisDay25December]
 <tr><th>Newscaster:</th><td>Gordon Honeycombe</td></tr>
 <tr><th>Weather Presenter:</th><td>Wincey Willis</td></tr>
 <tr id="infobox3" class="split"><th colspan="2">InfoBox: Guests</th></tr>
-<tr style="outline: 4px dashed darkorange;" id="lz"><th>Singer:</th><td>Lena Zavaroni</td></tr>
+<tr style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lz"><th>Singer:</th><td>Lena Zavaroni</td></tr>
 <tr><th>broadcaster, writer</th><td>Gyles Brandreth</td></tr>
 <tr><th>comedian</th><td>Lennie Bennett</td></tr>
 <tr><th>Author And Journalist</th><td>Eve Pollard</td></tr>

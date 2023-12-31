@@ -70,7 +70,7 @@ categories: [London-Weekend-Television, Theatre, OnThisDay17March, OnThisDay31Ma
 <td>Tim Flavin</td>
 <td>Matthew Kelly</td>
 <td>Su Pollard</td>
-<td style="outline: 4px dashed darkorange;width: max-content;padding: 0 5px;">Lena Zavaroni</td>
+<td style="outline: 4px dashed darkorange; outline-offset: -4px;width: max-content;padding: 0 5px;">Lena Zavaroni</td>
 </tr>
 </table>
 

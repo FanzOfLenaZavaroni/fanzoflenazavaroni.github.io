@@ -25,7 +25,7 @@ categories: [Thames-Television, Opportunity-Knocks, Hughie-Green, OnThisDay20Mar
 <tr><th>Comedian</th><td>Les Dawson</td></tr>
 <tr><th>Singers</th><td>Peters and Lee</td></tr>
 <tr><th>Comedian</th><td>Tom O'connor</td></tr>
-<tr style="outline: 4px dashed darkorange;" id="lz"><th>Singer</th><td>Lena Zavaroni</td></tr>
+<tr style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lz"><th>Singer</th><td>Lena Zavaroni</td></tr>
 <tr><th>Comedian</th><td>Frank Carson</td></tr>
 <tr><th>Comedy Double Act</th><td>Little and Large (comprising straight man Syd Little and comic Eddie Large)</td></tr>
 <tr><th>Folk Singer</th><td>Mary Hopkin</td></tr>
