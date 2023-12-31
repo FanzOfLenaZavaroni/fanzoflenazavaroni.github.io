@@ -55,7 +55,7 @@ last_modified_at: 15 June 2023
 <li><strong>Michael Ward</strong> Let There Be Peace On Earth</li>
 <li><strong>Candlewick Green</strong> Come With Me</li>
 <li><strong>Airborne</strong> Give It Up</li>
-<li style="outline: 4px dashed darkorange;" id="lena1"><strong>Lena Zavaroni:</strong> Ma! (He's Making Eyes At Me)</li>
+<li style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lena1"><strong>Lena Zavaroni:</strong> Ma! (He's Making Eyes At Me)</li>
 </ol>
 </figure>
 
@@ -70,7 +70,7 @@ last_modified_at: 15 June 2023
 <li><strong>Bobby Crush</strong> The Sting</li>
 <li><strong>Michael Ward</strong> Oh! For The Wings Of A Dove</li>
 <li><strong>Airborne</strong> Emily Jane</li>
-<li style="outline: 4px dashed darkorange;" id="lena2"><strong>Lena Zavaroni:</strong> (You've Got) Personality</li>
+<li style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lena2"><strong>Lena Zavaroni:</strong> (You've Got) Personality</li>
 <li><strong>Freddie Starr</strong> It's You</li>
 <li><strong>Rosemary Noble</strong> Love Story</li>
 <li><strong>The Anderson Sisters</strong> To Know Him To Love Him</li>

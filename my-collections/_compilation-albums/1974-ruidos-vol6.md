@@ -54,7 +54,7 @@ last_modified_at: 15 June 2023
 <li><strong>Demis Roussos:</strong> Algun Dia, Algun Lugar</li>
 <li><strong>Bay City Rollers:</strong> Recuerda</li>
 <li><strong>Danny Daniel:</strong> Por El Amor De Una Mujer</li>
-<li style="outline: 4px dashed darkorange;"><strong>Lena Zavaroni:</strong> Ma, (He's Making Eyes At Me)</li>
+<li style="outline: 4px dashed darkorange; outline-offset: -4px;"><strong>Lena Zavaroni:</strong> Ma, (He's Making Eyes At Me)</li>
 <li><strong>Jeffry:</strong> Necesito A MI Amor Esta Noche</li>
 <li><strong>Neely Reynolds:</strong> Pequeño Dulce Rockero</li>
 </ol>

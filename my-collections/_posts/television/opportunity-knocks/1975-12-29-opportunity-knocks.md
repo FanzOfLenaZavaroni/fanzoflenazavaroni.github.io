@@ -19,7 +19,7 @@ Lena appears as last year's winner, to present the award to the 1975 recipient, 
 <h3 id="cast"><a href="#cast">Cast</a></h3>
 <table>
 <tr><th style="width:50%;">Presenter</th><td style="width:50%;">Hughie Green</td></tr>
-<tr style="outline: 4px dashed darkorange;" id="lz"><th>On screen participant</th><td>Lena Zavaroni</td></tr>
+<tr style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lz"><th>On screen participant</th><td>Lena Zavaroni</td></tr>
 <tr><th>On screen participant</th><td>Champagne</td></tr>
 <tr><th>On screen participant</th><td>Wayne King</td></tr>
 <tr><th>On screen participant</th><td>Tammy Jones</td></tr>

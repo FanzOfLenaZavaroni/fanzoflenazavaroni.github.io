@@ -84,7 +84,7 @@ last_modified_at: 15 June 2023
 <tr><td>PI0302B-05</td><td>Kate Bush</td><td>Babooshka</td></tr>
 <tr><td>PI0302B-06</td><td>Leo Sayer</td><td>Raining In My Heart</td></tr>
 <tr><td>PI0302B-07</td><td>Patzy Cline & Jim Reeves</td><td>Have You Ever Been Lonely</td></tr>
-<tr style="outline: 4px dashed darkorange;" id="lz"><td>PI0302B-08</td><td>Lena Zavaroni</td><td>Ma! (He’s Making Eyes At Me)</td></tr>
+<tr style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lz"><td>PI0302B-08</td><td>Lena Zavaroni</td><td>Ma! (He’s Making Eyes At Me)</td></tr>
 <tr><td>PI0302B-09</td><td>Anne Murray</td><td>It's A Great Day For The Irish</td></tr>
 <tr><td>PI0302B-10</td><td>Anthony Newley</td><td>What Kind Of Fool Am I</td></tr>
 <tr><td>PI0302B-11</td><td>Johnnie Ray</td><td>Walkin' My Baby Back Home</td></tr>

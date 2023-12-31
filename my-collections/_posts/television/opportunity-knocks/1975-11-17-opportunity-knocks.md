@@ -20,7 +20,7 @@ They had previously applied in 1973 but did not make it passed the qualifying he
 <tr><th>On screen participant:</th><td>Mike Donohoe</td></tr>
 <tr><th>On screen participant:</th><td>Les Filles De Paris</td></tr>
 <tr><th>On screen participant:</th><td>Blue</td></tr>
-<tr style="outline: 4px dashed darkorange;" id="lz"><th>On screen participant:</th><td>The Zavaronis (Hilda and Victor Zavaroni)</td></tr>
+<tr style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lz"><th>On screen participant:</th><td>The Zavaronis (Hilda and Victor Zavaroni)</td></tr>
 </table>
 </figure>
 

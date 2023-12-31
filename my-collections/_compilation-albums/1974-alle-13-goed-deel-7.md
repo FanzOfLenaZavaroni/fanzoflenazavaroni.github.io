@@ -66,7 +66,7 @@ I hope to be able to find more details on the 8 Track Cartridge, I also beleave 
 <ol>
 <li><b>Demis Roussos:</b> My Only Fascination</li>
 <li><b>Liesbeth List:</b> Te Veel Te Vaak</li>
-<li style="outline: 4px dashed darkorange;"><b>Lena Zavaroni:</b> Ma! (He's Making Eyes At Me)</li>
+<li style="outline: 4px dashed darkorange; outline-offset: -4px; outline-offset: -4px;"><b>Lena Zavaroni:</b> Ma! (He's Making Eyes At Me)</li>
 <li><b>Love Unlimited Orchestra:</b> Love's Theme</li>
 <li><b>Bonnie St. Claire And Unit Gloria:</b> Voulez Vous</li>
 <li><b>Philip Goodhand-Tait:</b> Leon</li>

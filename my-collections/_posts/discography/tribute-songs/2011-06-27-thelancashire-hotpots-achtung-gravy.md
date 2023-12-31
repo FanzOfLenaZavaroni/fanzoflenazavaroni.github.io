@@ -46,7 +46,7 @@ last_modified_at: 25 June 2023
 <tr><th>09</th><td>Duvet Day</td></tr>
 <tr><th>10</th><td>Cash in Hand</td></tr>
 <tr><th>11</th><td>Face Like Thunder</td></tr>
-<tr><th>12</th><td style="outline: 4px dashed darkorange;">Lucy Meacock</td></tr>
+<tr><th>12</th><td style="outline: 4px dashed darkorange; outline-offset: -4px;">Lucy Meacock</td></tr>
 <tr><th>13</th><td>Three Rings</td></tr>
 </table>
 

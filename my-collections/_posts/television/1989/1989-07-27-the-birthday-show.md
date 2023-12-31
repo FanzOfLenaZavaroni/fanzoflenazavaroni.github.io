@@ -93,7 +93,7 @@ An excerpt of Lena singing I Should Have Listened To Mama from the final episode
 <tr><th>On-Screen Participant:</th><td>Terry Wogan</td></tr>
 <tr><th>On-Screen Participant:</th><td>Jackie Wright</td></tr>
 <tr><th>On-Screen Participant:</th><td>Mike Yarwood</td></tr>
-<tr style="outline: 4px dashed darkorange;"><th>On-Screen Participant:</th><td>Lena Zavaroni</td></tr>
+<tr style="outline: 4px dashed darkorange; outline-offset: -4px;"><th>On-Screen Participant:</th><td>Lena Zavaroni</td></tr>
 </table>
 
 ### [Crew](crew)

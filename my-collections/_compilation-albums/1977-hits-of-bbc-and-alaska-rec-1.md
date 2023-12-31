@@ -52,12 +52,12 @@ last_modified_at: 15 June 2023
 <figure class="fig1">
 <h3 id="a-side"><a href="#a-side">A Side</a></h3>
 <ol>
-<li style="outline: 4px dashed darkorange;"><b>Lena Zavaroni:</b> Some Of These Days</li>
+<li style="outline: 4px dashed darkorange; outline-offset: -4px;"><b>Lena Zavaroni:</b> Some Of These Days</li>
 <li><b>Graffiti:</b> Come Together</li>
 <li><b>Gulliver:</b> (If You Knew) The Way I Feel</li>
 <li><b>Bullet:</b> Push Just A Little Harder</li>
 <li><b>Graffiti:</b> Dear Prudence</li>
-<li style="outline: 4px dashed darkorange;"><b>Lena Zavaroni:</b> Somethin' 'Bout You Baby Like</li>
+<li style="outline: 4px dashed darkorange; outline-offset: -4px;"><b>Lena Zavaroni:</b> Somethin' 'Bout You Baby Like</li>
 </ol>
 </figure>
 

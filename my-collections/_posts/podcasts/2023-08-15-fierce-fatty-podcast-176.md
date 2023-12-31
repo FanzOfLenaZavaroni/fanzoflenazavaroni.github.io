@@ -34,7 +34,7 @@ permalink: /discography/podcasts/:name
 <tr><th>Eddie Muller:</th><td><a class="external-link" href="https://www.wikiwand.com/en/Eddie_Muller">Wikiwand</a></td></tr>
 <tr><th>John Candy:</th><td><a class="external-link" href="https://www.looper.com/981094/the-untold-truth-of-john-candy">Looper</a></td></tr>
 <tr><th>Aaron Carter:</th><td><a class="external-link" href="https://www.usatoday.com/story/life/people/2017/04/26/aaron-carter-basically-have-eating-disorder/100922174">USA Today</a></td></tr>
-<tr id="lena" style="outline: 4px dashed darkorange;"><th>Lena Zavaroni - Starts at 00:53:55</th><td><a class="external-link" href="https://www.theguardian.com/music/2022/feb/26/lena-zavaroni-fame-anorexia-and-the-tragedy-of-a-1970s-child-star">The Guardian</a></td></tr>
+<tr id="lena" style="outline: 4px dashed darkorange; outline-offset: -4px;"><th>Lena Zavaroni - Starts at 00:53:55</th><td><a class="external-link" href="https://www.theguardian.com/music/2022/feb/26/lena-zavaroni-fame-anorexia-and-the-tragedy-of-a-1970s-child-star">The Guardian</a></td></tr>
 </table>
 </blockquote></td></tr>
 </table>

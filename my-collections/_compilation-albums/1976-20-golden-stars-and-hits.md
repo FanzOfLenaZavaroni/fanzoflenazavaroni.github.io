@@ -63,7 +63,7 @@ last_modified_at: 15 June 2023
 <li><b>Lobo:</b> Me And You And A Dog Named Boo</li>
 <li><b>Hotlegs:</b> Neanderthal Man</li>
 <li><b>Searchers:</b> Hully Gully</li>
-<li style="outline: 4px dashed darkorange;"><b>Lena Zavaroni:</b> Ma! (He's Making Eyes At Me)</li>
+<li style="outline: 4px dashed darkorange; outline-offset: -4px;"><b>Lena Zavaroni:</b> Ma! (He's Making Eyes At Me)</li>
 <li><b>The Remo Four:</b> Peter Gunn</li>
 </ol>
 </figure>

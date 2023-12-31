@@ -36,7 +36,7 @@ categories: [ITV, TV&#45;AM, Good-Morning-Britain, OnThisDay17October]
 <figure class="fig3">
 <h3 id="guests"><a href="#guests">Guests</a></h3>
 <table>
-<tr style="outline: 4px dashed darkorange;" id="lz"><th style="width:50%;">Singer and Television Hostess:</th><td style="width:50%;">Lena Zavaroni</td></tr>
+<tr style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lz"><th style="width:50%;">Singer and Television Hostess:</th><td style="width:50%;">Lena Zavaroni</td></tr>
 <tr><th>Former Page 3 Model Turned Pop Singer:</th><td>Samantha Fox</td></tr>
 <tr><th>Television Presenter, Radio Presenter, Writer and Producer:</th><td>Jeremy Beadle</td></tr>
 <tr><th>Footballer:</th><td>Mick Channon</td></tr>

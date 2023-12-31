@@ -77,7 +77,7 @@ last_modified_at: 29 December 2023
 <tr><th>On-Screen Participant</th><td>Ben Warriss</td></tr>
 <tr><th>On-Screen Participant</th><td>Billy Whittaker</td></tr>
 <tr><th>Archive Footage</th><td>Robb Wilton</td></tr>
-<tr style="outline: 4px dashed darkorange;" id="lz"><th>Prerecorded Footage</th><td>Lena Zavaroni</td></tr>
+<tr style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lz"><th>Prerecorded Footage</th><td>Lena Zavaroni</td></tr>
 </table>
 </figure>
 

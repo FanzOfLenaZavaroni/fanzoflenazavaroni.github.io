@@ -1,6 +1,5 @@
 ---
 layout: post
-year: 24 December 2020
 title: D-Sides, Orphans, and Oddities &#124; 24 December 2020
 maintitle: D-Sides, Orphans, and Oddities
 subtitle:  Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself
@@ -9,6 +8,7 @@ post_description: Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rar
 image: /assets/images/podcasts/
 categories: [Podcasts, D-Sides Orphans and Oddities, OnThisDay24December]
 permalink: /discography/podcasts/:name
+last_modified_at: 31 December 2023
 ---
 
 <figure class="fig3">
@@ -59,7 +59,7 @@ permalink: /discography/podcasts/:name
 <tr><th style="width:10%; text-align:center;">32</th><td>Bay City Rollers</td><td>Alright</td></tr>
 <tr><th style="width:10%; text-align:center;">33</th><td>Clarence Carter</td><td>Light My Fire</td></tr>
 <tr><th style="width:10%; text-align:center;">34</th><td>Frank Zappa</td><td>Public Service Announcement</td></tr>
-<tr id="lena" style="outline: 4px dashed darkorange;"><th style="width:10%; text-align:center;">35</th><td>Lena Zavaroni</td><td>Jump Down Jimmy - starts at 1:41:50 into the podcast</td></tr>
+<tr id="lena" style="outline: 4px dashed darkorange; outline-offset: -4px;"><th style="width:10%; text-align:center;">35</th><td>Lena Zavaroni</td><td>Jump Down Jimmy - starts at 1:41:50 into the podcast</td></tr>
 <tr><th style="width:10%; text-align:center;">36</th><td>Suburban 9 to 5</td><td>Walk Away</td></tr>
 <tr><th style="width:10%; text-align:center;">37</th><td>Martin & Finley</td><td>Long Life And Success To The Farmer</td></tr>
 <tr><th style="width:10%; text-align:center;">38</th><td>Milkwood</td><td>Makeshift Pawn</td></tr>
@@ -73,6 +73,5 @@ permalink: /discography/podcasts/:name
 
 <style>
 #infobox2 {scroll-margin-top: -3px;}
-#lena {scroll-margin-top: 10px;}
 </style>
 

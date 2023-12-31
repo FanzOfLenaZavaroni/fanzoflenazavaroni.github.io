@@ -44,7 +44,7 @@ last_modified_at: 15 June 2023
 <li>Tony Pacino (tema de Toni) – Keep Moving Right On</li>
 <li>Maria Thereza – Trying</li>
 <li>Lucio Guccini (tema de Teresa) – Non Si Puo Morire Dentro</li>
-<li style="outline: 4px dashed darkorange;">Lena Zavaroni – Air Love</li>
+<li style="outline: 4px dashed darkorange; outline-offset: -4px;">Lena Zavaroni – Air Love</li>
 <li>Foreigner – Feels Like The First Time</li>
 <li>Kramer (tema de Sônia) – I'm Just A Man</li>
 </ol>

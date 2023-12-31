@@ -35,7 +35,7 @@ last_modified_at: 21 November 2023
 <tr><th>Dancing and Singing Group</th><td>Young Generation</td></tr>
 <tr><th>Singers</th><td>The Nolan Sisters</td></tr>
 <tr><th>singer</th><td>Paul Jones</td></tr>
-<tr style="outline: 4px dashed darkorange;"><th>Singer</th><td>Lena Zavaroni</td></tr>
+<tr style="outline: 4px dashed darkorange; outline-offset: -4px;"><th>Singer</th><td>Lena Zavaroni</td></tr>
 <tr><th colspan="2">Note</th></tr>
 <tr><td colspan="2"><strong>The Young Generation</strong> were a dancing and singing group created specifically for BBC television in the late 1960s and thus were the first act of their kind to regularly appear on British TV. The troupe were choreographed originally by Dougie Squires who chose the founding members of the troupe. The group were mainly dancers, but also sang songs either accompanying other singers or performing stand alone numbers.<br /><br /><strong>Wikipedia:</strong> <a class="external-link" href="https://en.wikipedia.org/wiki/Dougie_Squires#The_Young_Generation">The Young Generation</a></td></tr>
 </table>
