@@ -7,6 +7,7 @@ description: Youthful celebration - NIK KERSHAW, Five Star, the National Youth J
 media: The magazine
 post_description: Youthful celebration - NIK KERSHAW, Five Star, the National Youth Jazz Orchestra and Lena Zavaroni.
 categories: [Magazines, OnThisDay30November]
+last_modified_at: 1 January 2024
 ---
 
 <figure class="fig1">

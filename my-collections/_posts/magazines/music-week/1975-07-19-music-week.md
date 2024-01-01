@@ -7,6 +7,7 @@ description:
 media: The magazine
 post_description: Page 23 - Spotlight On Scotland, Page 26 - Can the Connolly phenomenon be repeated?
 categories: [Magazines, OnThisDay19July]
+last_modified_at: 1 January 2024
 ---
 
 <figure class="fig1">
