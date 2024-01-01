@@ -7,6 +7,7 @@ description: Lena Zavaroni. With the presence of a consecrated artist; she sang,
 media: Details
 post_description: Lena Zavaroni. With the presence of a consecrated artist; she sang, danced and conquered the public.
 categories: [Magazines, OnThisDay23November]
+last_modified_at: 1 January 2024
 ---
 
 <figure class="fig1">

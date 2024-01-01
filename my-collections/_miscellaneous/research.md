@@ -108,7 +108,9 @@ The following is a list of websites and tips that may help you with your own res
 
 ### W
 * ——: [<strong>Wikipedia</strong>](https://en.wikipedia.org/wiki/Lena_Zavaroni) a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
-
+* ——: [<strong>World Radio History</strong>](https://www.worldradiohistory.com) <span class="up">&#8592;</span> <span class="red">newly added</span> Large number of TV and Radio Magazines and Broadcaster's year books as PDFs.
+     * ——: This example link takes you to a list of [<strong>IBM Year books</strong>](https://www.worldradiohistory.com/Television-and-Radio-Independent-UK.htm)
+     * ——: This example link takes you to a pdf and jumps to a page releated to Lena Zavaroni [<strong>Record and Radio Mirror 2 February 1974</strong>](https://www.worldradiohistory.com/UK/Record-Mirror/70s/74/Record-Mirror-1974-02-02.pdf#page=15)
 ### X
 
 ### Y
