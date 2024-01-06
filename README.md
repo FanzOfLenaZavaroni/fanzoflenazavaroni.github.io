@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 2020-06-29-making-an-impression.md and 2020-12-31-the-peggy-mo…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b605606681946fd5557331ffd55dc12fce04055a)
-- [Update 2020-12-31-the-70s-stop-here.md, 2020-12-31-the-peggy-mount-ca…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/610158035eaaf3058ec31ac9e8131d4dc747e881)
-- [Update 1984-12-31-a-century-of-stars.md and 1974-12-30-opportunity-kn…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/57c5900a36427cda74a04a51acb2d732b509ee95)
-- [Update 2010-12-28-podcast-from-america.md and 2020-12-31-the-70s-stop…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/159101e0424cfae89b5b4ca7ec00e98a1c43f7e6)
-- [Update 2020-12-24-d-sides-orphans-and-oddities.md, 2020-12-31-the-70s…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e6485c7bd16db52207a02d2b9ca415cfbd79f918)
+- [Update 1992-01-05-new-straits-times.-page-9.png and 1992-01-05-new-st…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/22187bcd20216c13f0098bc547138107ab26fa98)
+- [Update research.md, 2020-06-29-making-an-impression.md, and 1987-06-0…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/96a0d02a00bbb1794d5908e560dcca96fdab638d)
+- [Update 1975-01-04-01-record-&amp;-radio-mirror.png, 1975-01-04-07-record-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/361132d6ac068875c8f8add82fc33038a23efe85)
+- [Update research.md, 1979-11-09-somewhere-south-of-macon-Promo.md, and…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5b0c8e837363e773f627259af18bff4d51a8d900)
+- [Update 2018-02-01-popcasting303.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3b67b334e57ee6bb0241efea348e0ea960ec724f)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
