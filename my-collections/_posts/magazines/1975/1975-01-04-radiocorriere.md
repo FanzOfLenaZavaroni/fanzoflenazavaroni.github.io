@@ -7,7 +7,7 @@ description: In its listings for Wednesday 8 January at 7pm is the programme &qu
 post_description: In its listings for Wednesday 8 January at 7pm is the programme &quot;AT SEVEN IN THE EVENING&quot; its film of the evening was about Lena Zavaroni.
 image: /assets/images/magazines/1975-01-04-radiocorriere-fc.png
 categories: [TV-&-Radio-Listings-Magazines, Radiocorriere, OnThisDay4January]
-last_modified_at: 8 January 2023
+last_modified_at: 8 January 2024
 ---
 
 <figure class="fig1">
@@ -38,9 +38,9 @@ last_modified_at: 8 January 2023
 <p><strong>Wednesday 8 January 1975</strong></p>
 <strong>AT SEVEN IN THE EVENING</strong>
 <strong>7pm <a class="external-link" href="https://en.wikipedia.org/wiki/Rai_2#:~:text=The%20channel%20was%20initially%20referred%20to%20as%20%22Secondo%20Programma%22.">second</a></strong>
-<p>A large group of singers constitutes the cast of the musical column At seven in the evening, hosted by Christian De Sica with Anna Maria Rizzoli and Ingrid Schoeller.</p>
-<p>The broadcast, which intends to be open to all types of music without excluding any genre and thus interest the public of all ages and tastes, faithful to this principle, it hosts very popular pop, folk and melodic-modern singers, or those linked to the very fashionable revival.</p>
-<p>This evening they participate in the Daniel Santacruz Ensemble show, or, one could say, the soundtrack of the summer of '74 with Soleado, Nicola di Bari, Franco Simone, the well-known former Gufi Svampa and Patruno and Ria De Simone.</p>
+<p>A large group of singers make up the cast of the musical programme At Seven In The Evening, hosted by Christian De Sica with Anna Maria Rizzoli and Ingrid Schoeller.</p>
+<p>The broadcast, which intends to be open to all types of music without excluding any genre and thus interest the public of all ages and tastes, faithful to this principle hosts very popular singers of both pop and folk and melodic-modern song, or linked to the revival that is so fashionable.</p>
+<p>This evening the Daniel Santacruz Ensemble will take part in the show, or, one might say, the soundtrack of the summer of '74 with Soleado, Nicola di Bari, Franco Simone, the well-known former Gufi Svampa and Patruno and Ria De Simone.</p>
 <p>The film of the evening is dedicated to the very young singer <span style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni</span>.</p>
 </figure>
 <br />{: .clear}
