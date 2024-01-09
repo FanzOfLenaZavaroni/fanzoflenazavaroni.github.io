@@ -4,10 +4,10 @@ title: Research &#124; Last Update 10 December 2022
 maintitle: Research
 description: Links and tips on how to do your own research.
 permalink: /:name
-last_modified_at: 22 November 2023
+last_modified_at: 9 January 2024
 ---
 
-This Page was created on 5 October 2020 and last updated on 22 November 2023. The update was to explain how to use [Site Search](#s).
+This Page was created on 5 October 2020 and last updated on 9 January 2024. The update was to fix the changes to the URLs starting with "americanradiohistory" to "worldradiohistory".
 
 The following is a list of websites and tips that may help you with your own research due to my policy on watermarking and due to trolling some well known websites will not be on this list, but as the best research is done yourself this will not matter as this page is just to help push you in the right direction and is far from an exhaustive list.
 

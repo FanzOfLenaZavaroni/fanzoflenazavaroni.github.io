@@ -7,17 +7,38 @@ description: List of Singles by to Lena Zavaroni.
 categories: [Discography]
 ---
 
-<a href="/discography/singles/1974-01-25-ma-hes-making-eyes-at-me">1974 &#8212; Ma! (He's Making Eyes At Me)</a>
+<strong>Ma! (He's Making Eyes At Me)</strong>
+<ul>
+<li><a href="/discography/singles/1974-01-25-ma-hes-making-eyes-at-me-uk">1974 &#8212; UK Release</a></li>
+<li><a href="/discography/singles/1974-03-22-ma-hes-making-eyes-at-me-argentina">1974 &#8212; Argentina Release</a></li>
+</ul>
 
-<a href="/discography/singles/1974-05-24-personality">1974 &#8212; (You've Got) Personality</a>
+<strong>(You've Got) Personality</strong>
+<ul>
+<li><a href="/discography/singles/1974-05-24-personality">1974 &#8212; UK Release</a></li>
+</ul>
 
-<a href="/discography/singles/1974-music-music-music">1974 &#8212; Music Music Music</a>
+<strong>Music Music Music</strong>
+<ul>
+<li>1974 &#8212; UK Release</li>
+<li><a href="/discography/singles/1974-music-music-music">1974 &#8212; German Release</a></li>
+</ul>
 
-<a href="/discography/singles/1975-03-28-youre-breaking-my-heart">1975 &#8212; You're Breaking My Heart</a>
 
-<a href="/discography/singles/1975-06-13-smile">1975 &#8212; Smile</a>
+<strong>You're Breaking My Heart</strong>
+<ul>
+<li><a href="/discography/singles/1975-03-28-youre-breaking-my-heart">1975 &#8212; UK Release</a></li>
+</ul>
 
-<a href="/discography/singles/1976-03-26-some-of-these-days">1976 &#8212; Some Of These Days</a>
+<strong>Smile</strong>
+<ul>
+<li><a href="/discography/singles/1975-06-13-smile">1975 &#8212; UK Release</a></li>
+</ul>
+
+<strong>Some Of These Days</strong>
+<ul>
+<li><a href="/discography/singles/1976-03-26-some-of-these-days">1976 &#8212; UK Release</a></li>
+</ul>
 
 <strong>Air Love</strong>
 <ul>
