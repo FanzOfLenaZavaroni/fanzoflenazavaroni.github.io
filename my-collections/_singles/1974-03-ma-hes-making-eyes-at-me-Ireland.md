@@ -1,7 +1,5 @@
 ---
 layout: discography
-year: 25 January 1974
-last_modified_at: 15 June 2023
 title: Ma! (He's Making Eyes At Me)
 maintitle: Ma! (He's Making Eyes At Me)
 subtitle: Lena Zavaroni's First Single. It was released shortly after her third appearance on Opportunity Knocks.
@@ -12,6 +10,7 @@ post_description: Ma! (He's Making Eyes At Me) is the first single released by L
 image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk.jpg
 categories: [Discography, Singles, OnThisDay25January]
 permalink: /discography/singles/:name
+last_modified_at: 9 January 2024
 ---
 
 <figure class="fig3">
