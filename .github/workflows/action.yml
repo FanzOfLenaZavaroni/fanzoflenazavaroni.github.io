@@ -1,0 +1,14 @@
+name: Cancel Prev Run Workflow
+
+on: [push, pull_request]
+  workflow_dispatch:
+  
+jobs:
+  cancel:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v2
+      - uses: optimaxdev/cancel-prev-run-workflow@main
+        with:
+          workflow_id: workflowOne.yml, workflowTwo.yml,
+          github-token: ${{ secrets.GH_TOKEN }}
