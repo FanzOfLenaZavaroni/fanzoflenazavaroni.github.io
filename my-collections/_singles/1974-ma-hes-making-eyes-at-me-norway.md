@@ -1,17 +1,25 @@
 ---
 layout: discography
-title: Ma! (He's Making Eyes At Me)
+title: Ma! (He's Making Eyes At Me) &#124; Norway Release
 maintitle: Ma! (He's Making Eyes At Me)
-subtitle: Lena Zavaroni's First Single. It was released shortly after her third appearance on Opportunity Knocks.
-b-side: Rock-A-Bye Your Baby With A Dixie Melody
-description: Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni and it was released shortly after her third appearance on Opportunity Knocks.
-media: 7" Vinyl, 45 Single
-post_description: Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni and it was released shortly after her third appearance on Opportunity Knocks.
-image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk.jpg
-categories: [Discography, Singles, OnThisDay25January]
+subtitle: Lena Zavaroni's First Single
+description: Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni.
+post_description: Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni.
+image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-norway.jpg
 permalink: /discography/singles/:name
-last_modified_at: 9 January 2024
+last_modified_at: 10 January 2024
 ---
+
+<figure class="fig3">
+<table style="text-align:center;">
+<tr><th colspan="5">View Details For Know Releases</th></tr>
+<tr><td><a href="/discography/singles/1974-01-25-ma-hes-making-eyes-at-me-uk">UK</a></td><td><a href="/discography/singles/1974-03-11-ma-hes-making-eyes-at-me-argentina">Argentina</a></td><td><a href="/discography/singles/1974-03-ma-hes-making-eyes-at-me-usa">USA</a></td><td><a href="/discography/singles/1974-03-ma-hes-making-eyes-at-me-yugoslavia">Yugoslavia</a><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-australia">Australia</a></td></td></tr>
+
+<tr><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-belgium">Belgium</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-france">France</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-germany">Germany</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-ireland">Ireland</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-japan">Japan</a></td></tr>
+
+<tr><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-netherlands">Netherlands</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-new-zealand">New Zealand</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-norway">Norway &#x2714;</a></td><td colspan="2"><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-south-africa">South Africa</a></td></tr>
+</table>
+</figure>
 
 Update to new layout coming soon!
 

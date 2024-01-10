@@ -1,22 +1,24 @@
 ---
 layout: post
-title: Ma! (El Me Esta Haciendo Ojitos)
+title: Ma! (El Me Esta Haciendo Ojitos) &#124; Argentina Release
 maintitle: Ma! (El Me Esta Haciendo Ojitos)
-subtitle: Lena Zavaroni's First Single.
-b-side: Arrulla Tu Nena Con Una Melodia De Dixie
+subtitle: Lena Zavaroni's First Single
 description: Ma! (El Me Esta Haciendo Ojitos) is the first single released by Lena Zavaroni.
 post_description: Ma! (El Me Esta Haciendo Ojitos) is the first single released by Lena Zavaroni.
 image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-argentina.jpg
-categories: [Discography, Singles, OnThisDay25January]
+categories: [Discography, Singles, OnThisDay11March]
 permalink: /discography/singles/:name
-last_modified_at: 9 January 2024
+last_modified_at: 10 January 2024
 ---
 
 <figure class="fig3">
 <table style="text-align:center;">
-<tr><th colspan="7">View Details For Know Releases</th></tr>
-<tr><td><a href="/discography/singles/1974-01-25-ma-hes-making-eyes-at-me-uk">UK</a></td><td><a href="1974-03-11-ma-hes-making-eyes-at-me-argentina">Argentina &#x2714;</a></td><td><a href="1974-03-ma-hes-making-eyes-at-me-usa">USA</a></td><td><a href="1974-03-ma-hes-making-eyes-at-me-yugoslavia">Yugoslavia</a></td><td>Australia</td><td>Belgium</td><td>France</td></tr>
-<tr><td>Germany</td><td><a href="1974-ma-hes-making-eyes-at-me-ireland">Ireland</a></td><td>Japan</td><td>Netherlands</td><td>New Zealand</td><td>Norway</td><td>South Africa</td></tr>
+<tr><th colspan="5">View Details For Know Releases</th></tr>
+<tr><td><a href="/discography/singles/1974-01-25-ma-hes-making-eyes-at-me-uk">UK</a></td><td><a href="/discography/singles/1974-03-11-ma-hes-making-eyes-at-me-argentina">Argentina &#x2714;</a></td><td><a href="/discography/singles/1974-03-ma-hes-making-eyes-at-me-usa">USA</a></td><td><a href="/discography/singles/1974-03-ma-hes-making-eyes-at-me-yugoslavia">Yugoslavia</a><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-australia">Australia</a></td></td></tr>
+
+<tr><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-belgium">Belgium</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-france">France</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-germany">Germany</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-ireland">Ireland</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-japan">Japan</a></td></tr>
+
+<tr><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-netherlands">Netherlands</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-new-zealand">New Zealand</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-norway">Norway</a></td><td colspan="2"><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-south-africa">South Africa</a></td></tr>
 </table>
 </figure>
 
