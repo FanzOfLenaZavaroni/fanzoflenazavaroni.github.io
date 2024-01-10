@@ -10,7 +10,19 @@ categories: [Discography]
 <strong>Ma! (He's Making Eyes At Me)</strong>
 <ul>
 <li><a href="/discography/singles/1974-01-25-ma-hes-making-eyes-at-me-uk">1974 &#8212; UK Release</a></li>
-<li><a href="/discography/singles/1974-03-22-ma-hes-making-eyes-at-me-argentina">1974 &#8212; Argentina Release</a></li>
+<li><a href="/discography/singles/1974-03-11-ma-hes-making-eyes-at-me-argentina">1974 &#8212; Argentina Release</a></li>
+<li><a href="/discography/singles/1974-03-ma-hes-making-eyes-at-me-usa">1974 &#8212; USA Release</a></li>
+<li><a href="/discography/singles/1974-03-ma-hes-making-eyes-at-me-yugoslavia">1974 &#8212; Yugoslavia Release</a></li>
+<li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-australia">1974 &#8212; Australia Release</a></li>
+<li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-belgium">1974 &#8212; Belgium Release</a></li>
+<li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-france">1974 &#8212; France Release</a></li>
+<li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-germany">1974 &#8212; Germany Release</a></li>
+<li><a href="/discography/singles/1974-03-ma-hes-making-eyes-at-me-ireland">1974 &#8212; Ireland Release</a></li>
+<li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-japan">1974 &#8212; Japan Release</a></li>
+<li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-netherlands">1974 &#8212; Netherlands Release</a></li>
+<li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-new-zealand">1974 &#8212; New Zealand Release</a></li>
+<li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-norway">1974 &#8212; Norway Release</a></li>
+<li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-south-africa">1974 &#8212; South Africa Release</a></li>
 </ul>
 
 <strong>(You've Got) Personality</strong>
