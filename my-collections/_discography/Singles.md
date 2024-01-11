@@ -17,7 +17,7 @@ categories: [Discography]
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-belgium">1974 &#8212; Belgium Release</a></li>
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-france">1974 &#8212; France Release</a></li>
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-germany">1974 &#8212; Germany Release</a></li>
-<li><a href="/discography/singles/1974-03-ma-hes-making-eyes-at-me-ireland">1974 &#8212; Ireland Release</a></li>
+<li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-ireland">1974 &#8212; Ireland Release</a></li>
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-japan">1974 &#8212; Japan Release</a></li>
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-netherlands">1974 &#8212; Netherlands Release</a></li>
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-new-zealand">1974 &#8212; New Zealand Release</a></li>
