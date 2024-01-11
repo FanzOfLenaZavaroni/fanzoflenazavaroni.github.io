@@ -1,6 +1,5 @@
 ---
 layout: post
-last_modified_at: 15 June 2023
 title: Top of the Pops &#124; 14 February 1974
 maintitle: Top of the Pops
 subtitle: Music Chart Television Programme
@@ -8,6 +7,7 @@ description: Lena Zavaroni gets to preform on Top of the Pops for the first time
 post_description: Lena Zavaroni gets to preform on Top of the Pops for the first time.
 image: http://img.youtube.com/vi/IHWfmYHK324/hqdefault.jpg
 categories: [BBC-One, TOTP, OnThisDay14February]
+last_modified_at: 11 January 2024
 ---
 
 <figure class="fig3">
@@ -64,23 +64,9 @@ categories: [BBC-One, TOTP, OnThisDay14February]
 <figcaption>
 <h3 id="note"><a href="#note">Note</a></h3>
 </figcaption>
-<p>I had questioned if the YouTube clip is the version recorded for broadcast or if it is a camera rehearsal recording made prior to the broadcast. Thanks to the research done by <a href="/research#l">Loving Lena Zavaroni</a> and his comments <a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/discussions/15#discussioncomment-5496938">here</a> I now think it is save to say it is the version as broadcast.</p>
+<p>I had questioned if the YouTube clip is the version recorded for broadcast or if it is a camera rehearsal recording made prior to the broadcast. Thanks to the research done by Loving Lena Zavaroni and his comments <a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/discussions/15#discussioncomment-5496938">here</a> I now think it is save to say it is the version as broadcast.</p>
 <cite>Robcamstone</cite>
 </figure>
 
 <br />{: .clear}
 
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>

@@ -61,12 +61,12 @@ last_modified_at: 10 January 2024
 
 <figure class="fig3">
 <table>
-<tr id="infobox3"><th colspan="2">Ma! (He's Making Eyes At Me) - Yugoslavia Release - Details</th></tr>
+<tr id="infobox3"><th colspan="3">Ma! (He's Making Eyes At Me) - Yugoslavia Release - Details</th></tr>
 <tr>
 <th style="width:45%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-yugoslavia-fc.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-yugoslavia-fc.jpg" class="full-width zoom-in" /></a></th>
 </tr>
-<tr><th>Label:</th><td>	Radio-Televizija Beograd / Philips - S 53753</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th style="width:15%;">Label:</th><td>	Radio-Televizija Beograd / Philips - S 53753</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 Stereo Single</td></tr>
 <tr><th>Country:</th><td>Yugoslavia</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
 <tr><th>45Cat:</th><td><a class="external-link" href="https://www.45cat.com/record/s53753">S 53753</a></td></tr>

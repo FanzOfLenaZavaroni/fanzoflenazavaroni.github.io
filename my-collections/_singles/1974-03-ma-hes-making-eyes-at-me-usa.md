@@ -32,7 +32,7 @@ last_modified_at: 10 January 2024
 <table>
 <tr id="infobox1"><th colspan="7">Ma! (He's Making Eyes At Me) - USA Release - Side A</th></tr>
 <tr>
-<th style="width:45%; vertical-align:top;" rowspan="7" class="top"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-usa.jpg" class="full-width" alt="USA A-Side Label for the Single Ma! (He's Making Eyes At Me) Philips - STA-0206" /></th>
+<th style="width:45%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-usa.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-usa.jpg" class="full-width zoom-in" alt="USA A-Side Label for the Single Ma! (He's Making Eyes At Me) Philips - STA-0206" /></a></th>
 </tr>
 <tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
 <tr><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
@@ -60,7 +60,7 @@ last_modified_at: 10 January 2024
 <table>
 <tr id="infobox3"><th colspan="2">Ma! (He's Making Eyes At Me) - USA Release - Details</th></tr>
 <tr><th>Label:</th><td>Stax - STA-0206</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 Stereo Single</td></tr>
 <tr><th>Country:</th><td>USA</td></tr>
 <tr><th>Released:</th><td>March 1974</td></tr>
 <tr><th>45Cat:</th><td><a class="external-link" href="https://www.45cat.com/record/sta0206">STA-0206</a></td></tr>
