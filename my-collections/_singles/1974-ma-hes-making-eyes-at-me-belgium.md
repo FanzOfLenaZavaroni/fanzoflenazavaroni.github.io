@@ -5,9 +5,9 @@ maintitle: Ma! (He's Making Eyes At Me)
 subtitle: Lena Zavaroni's First Single
 description: Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni.
 post_description: Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni.
-image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk.jpg
+image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-fc.jpg
 permalink: /discography/singles/:name
-last_modified_at: 9 January 2024
+last_modified_at: 11 January 2024
 ---
 
 <figure class="fig3">
@@ -21,31 +21,56 @@ last_modified_at: 9 January 2024
 </table>
 </figure>
 
-Update to new layout coming soon!
+<figure class="fig3">
+<table style="text-align:center;">
+<tr><th colspan="3">Jump To</th></tr>
+<tr><td style="width:20%;"><a href="#infobox1">Side 1W</a></td><td style="width:20%;"><a href="#infobox2">Side 2W</a></td><td style="width:20%;"><a href="#infobox3">Details</a></td></tr>
+</table>
+</figure>
 
-<figure class="fig1">
-<figcaption>
-<h3 id="belgium"><a href="#belgium">Belgium</a></h3>
-</figcaption>
-<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium.jpg" class="full-width" alt="Belgium front of sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" />
-<figcaption>
+<figure class="fig3">
 <table>
-<tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
-<tr class="split"><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
-<tr><th>Composer:</th><td>C. Conrad, S. Clare</td></tr>
+<tr id="infobox1"><th colspan="3">Ma! (He's Making Eyes At Me) - Australia Release - Side 1W</th></tr>
+<tr>
+<th style="width:45%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-side-1w.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-side-1w.jpg" class="full-width zoom-in" /></a></th>
+</tr>
+<tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
+<tr><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
+<tr><th>Composer:</th><td>Con Conrad</td></tr>
+<tr><th>Composer:</th><td>Sydney Clare</td></tr>
 <tr><th>Producer:</th><td>Tommy Scott</td></tr>
 <tr><th>Arranger:</th><td>Tom Parker</td></tr>
-<tr class="split"><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
-<tr><th>Composer:</th><td>Sam. M. Lewis, J. Young, J. Schwartz</td></tr>
+</table>
+</figure>
+
+<figure class="fig3">
+<table>
+<tr id="infobox2"><th colspan="3">Ma! (He's Making Eyes At Me) - Australia Release - Side 2W</th></tr>
+<tr>
+<th style="width:45%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-side-2w.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-side-2w.jpg" class="full-width zoom-in" /></a></th>
+</tr>
+<tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
+<tr><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
+<tr><th>Composer:</th><td>Sam. M. Lewis</td></tr>
+<tr><th>Composer:</th><td>Joe Young</td></tr>
+<tr><th>Composer:</th><td>Gene Schwartz</td></tr>
 <tr><th>Producer:</th><td>Tommy Scott</td></tr>
 <tr><th>Arranger:</th><td>Tom Parker</td></tr>
-<tr class="split"><th>Label:</th><td>Philips - 6006 367</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+</table>
+</figure>
+
+<figure class="fig3">
+<table>
+<tr id="infobox3"><th colspan="3">Ma! (He's Making Eyes At Me) - Australia Release - Details</th></tr>
+<tr>
+<th style="width:45%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-fc.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-fc.jpg" class="full-width" alt="Belgium front of sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a></th>
+</tr>
+<tr><th style="width:15%;">Label:</th><td>Philips - 6006 367</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 Stereo Single</td></tr>
 <tr><th>Country:</th><td>Belgium</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
-<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006367be">6006367be</a></td></tr>
+<tr><th>45Cat:</th><td><a class="external-link" href="https://www.45cat.com/record/6006367be">6006367be</a></td></tr>
 </table>
-</figcaption>
 </figure>
 
 <br />{: .clear}
