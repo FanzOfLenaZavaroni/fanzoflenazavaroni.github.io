@@ -32,7 +32,7 @@ last_modified_at: 11 January 2024
 <table>
 <tr id="infobox1"><th colspan="3">Ma! (He's Making Eyes At Me) - Australia Release - Side 1W</th></tr>
 <tr>
-<th style="width:45%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-side-1w.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-side-1w.jpg" class="full-width zoom-in" /></a></th>
+<th style="width:50%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-side-1w.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-side-1w.jpg" class="full-width zoom-in" /></a></th>
 </tr>
 <tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
 <tr><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
@@ -47,7 +47,7 @@ last_modified_at: 11 January 2024
 <table>
 <tr id="infobox2"><th colspan="3">Ma! (He's Making Eyes At Me) - Australia Release - Side 2W</th></tr>
 <tr>
-<th style="width:45%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-side-2w.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-side-2w.jpg" class="full-width zoom-in" /></a></th>
+<th style="width:50%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-side-2w.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-side-2w.jpg" class="full-width zoom-in" /></a></th>
 </tr>
 <tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
 <tr><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
@@ -63,7 +63,7 @@ last_modified_at: 11 January 2024
 <table>
 <tr id="infobox3"><th colspan="3">Ma! (He's Making Eyes At Me) - Australia Release - Details</th></tr>
 <tr>
-<th style="width:45%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-fc.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-fc.jpg" class="full-width" alt="Belgium front of sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a></th>
+<th style="width:50%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-fc.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-belgium-fc.jpg" class="full-width" alt="Belgium front of sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a></th>
 </tr>
 <tr><th style="width:15%;">Label:</th><td>Philips - 6006 367</td></tr>
 <tr><th>Format:</th><td>7" Vinyl, 45 Stereo Single</td></tr>

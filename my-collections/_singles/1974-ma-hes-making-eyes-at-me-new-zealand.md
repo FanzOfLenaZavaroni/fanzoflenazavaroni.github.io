@@ -5,9 +5,9 @@ maintitle: Ma! (He's Making Eyes At Me)
 subtitle: Lena Zavaroni's First Single
 description: Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni.
 post_description: Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni.
-image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-new-zealand.jpg
+image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-new-zealand-side-1.jpg
 permalink: /discography/singles/:name
-last_modified_at: 10 January 2024
+last_modified_at: 12 January 2024
 ---
 
 <figure class="fig3">
@@ -21,27 +21,53 @@ last_modified_at: 10 January 2024
 </table>
 </figure>
 
-Update to new layout coming soon!
+<figure class="fig3">
+<table style="text-align:center;">
+<tr><th colspan="4">Jump To</th></tr>
+<tr><td style="width:25%;"><a href="#infobox1">Side 1</a></td><td style="width:25%;"><a href="#infobox2">Side 2</a></td><td style="width:25%;"><a href="#infobox3">Details</a></td><td style="width:25%;"><a href="#infobox4">Note</a></td></tr>
+</table>
+</figure>
 
-<figure class="fig1">
-<figcaption>
-<h3 id="japan"><a href="#japan">New Zealand</a></h3>
-</figcaption>
-<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-new-zealand.jpg" class="full-width" alt="New Zealand front of sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" />
-<figcaption>
+<figure class="fig3">
 <table>
-<tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
-<tr class="split"><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
+<tr id="infobox1"><th colspan="3">Ma! (He's Making Eyes At Me) - New Zealand Release - Side 1</th></tr>
+<tr>
+<th style="width:50%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-new-zealand-side-1.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-new-zealand-side-1.jpg" class="full-width zoom-in" /></a></th>
+</tr>
+<tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
+<tr><th>A Face:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
+<tr><th>Composer:</th><td>Con Conrad</td></tr>
+<tr><th>Composer:</th><td>Sydney Clare</td></tr>
 <tr><th>Producer:</th><td>Tommy Scott</td></tr>
-<tr class="split"><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+</table>
+</figure>
+
+<figure class="fig3">
+<table>
+<tr id="infobox2"><th colspan="3">Ma! (He's Making Eyes At Me) - New Zealand Release - Side 2</th></tr>
+<tr>
+<th style="width:50%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-new-zealand-side-2.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-new-zealand-side-2.jpg" class="full-width zoom-in" /></a></th>
+</tr>
+<tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
+<tr><th>B Face:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
+<tr><th>Composer:</th><td>Sam. M. Lewis</td></tr>
+<tr><th>Composer:</th><td>Joe Young</td></tr>
+<tr><th>Composer:</th><td>Gene Schwartz</td></tr>
 <tr><th>Producer:</th><td>Tommy Scott</td></tr>
-<tr class="split"><th>Label:</th><td>Philips - 6006 367</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Arranger:</th><td>Tom Parker</td></tr>
+</table>
+</figure>
+
+<figure class="fig3">
+<table>
+<tr id="infobox3"><th colspan="2">Ma! (He's Making Eyes At Me) - New Zealand Release - Details</th></tr>
+<tr><th style="width:50%;">Label:</th><td>Philips - 6006 367</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 Stereo Single</td></tr>
 <tr><th>Country:</th><td>New Zealand</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
-<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006367nz">6006367nz</a></td></tr>
+<tr><th>45Cat:</th><td><a class="external-link" href="https://www.45cat.com/record/6006367nz">6006367nz</a></td></tr>
 </table>
-</figcaption>
 </figure>
 
 <br />{: .clear}

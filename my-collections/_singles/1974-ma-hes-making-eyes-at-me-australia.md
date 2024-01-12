@@ -32,7 +32,7 @@ last_modified_at: 10 January 2024
 <table>
 <tr id="infobox1"><th colspan="3">Ma! (He's Making Eyes At Me) - Australia Release - Side A</th></tr>
 <tr>
-<th style="width:45%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-australia-side-a.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-australia-side-a.jpg" class="full-width zoom-in" alt="Australia A-Side Label for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a></th>
+<th style="width:50%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-australia-side-a.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-australia-side-a.jpg" class="full-width zoom-in" alt="Australia A-Side Label for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a></th>
 </tr>
 <tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
 <tr><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
@@ -47,7 +47,7 @@ last_modified_at: 10 January 2024
 <table>
 <tr id="infobox2"><th colspan="3">Ma! (He's Making Eyes At Me) - Australia Release - Side B</th></tr>
 <tr>
-<th style="width:45%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-australia-side-b.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-australia-side-b.jpg" class="full-width zoom-in" alt="Australia A-Side Label for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a></th>
+<th style="width:50%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-australia-side-b.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-australia-side-b.jpg" class="full-width zoom-in" alt="Australia A-Side Label for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a></th>
 </tr>
 <tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
 <tr><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
@@ -62,7 +62,7 @@ last_modified_at: 10 January 2024
 <figure class="fig3">
 <table>
 <tr id="infobox3"><th colspan="2">Ma! (He's Making Eyes At Me) - Australia Release - Details</th></tr>
-<tr><th>Label:</th><td>Philips - 6006 367</td></tr>
+<tr><th style="width:50%;">Label:</th><td>Philips - 6006 367</td></tr>
 <tr><th>Format:</th><td>7" Vinyl, 45 Mono Single</td></tr>
 <tr><th>Country:</th><td>Australia</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>

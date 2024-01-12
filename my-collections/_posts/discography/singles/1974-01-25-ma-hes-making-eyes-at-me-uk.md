@@ -8,7 +8,7 @@ post_description: Ma! (He's Making Eyes At Me) is the first single released by L
 image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-a.jpg
 categories: [Discography, Singles, OnThisDay25January]
 permalink: /discography/singles/:name
-last_modified_at: 10 January 2024
+last_modified_at: 12 January 2024
 ---
 
 <figure class="fig3">
@@ -33,7 +33,7 @@ last_modified_at: 10 January 2024
 <table>
 <tr id="infobox1"><th colspan="7">Ma! (He's Making Eyes At Me) - UK Release - Side A</th></tr>
 <tr>
-<th style="width:45%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-a.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-a.jpg" class="full-width zoom-in" alt="UK A-Side Label for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a></th>
+<th style="width:50%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-a.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-a.jpg" class="full-width zoom-in" alt="UK A-Side Label for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a></th>
 </tr>
 <tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
 <tr><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
@@ -48,7 +48,7 @@ last_modified_at: 10 January 2024
 <table>
 <tr id="infobox2"><th colspan="4">Ma! (He's Making Eyes At Me) - UK Release - Side B</th></tr>
 <tr>
-<th style="width:45%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-b.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-b.jpg" class="full-width zoom-in" alt="UK A-Side Label for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a></th>
+<th style="width:50%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-b.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-b.jpg" class="full-width zoom-in" alt="UK A-Side Label for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a></th>
 </tr>
 <tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
 <tr><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
@@ -64,7 +64,7 @@ last_modified_at: 10 January 2024
 <table>
 <tr id="infobox3"><th colspan="4">Ma! (He's Making Eyes At Me) - UK Release - Details</th></tr>
 <tr>
-<th style="width:45%; vertical-align:top;" rowspan="6" class="top"><div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=DzqcGLl8rMg,Yc1h6cDkc8M,yI_nqPZNpAQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></th>
+<th style="width:50%; vertical-align:top;" rowspan="6" class="top"><div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=DzqcGLl8rMg,Yc1h6cDkc8M,yI_nqPZNpAQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></th>
 </tr>
 <tr><th>Label:</th><td>Philips - 6006 367</td></tr>
 <tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>

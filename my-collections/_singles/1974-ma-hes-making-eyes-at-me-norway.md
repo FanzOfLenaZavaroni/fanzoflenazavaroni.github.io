@@ -7,7 +7,7 @@ description: Ma! (He's Making Eyes At Me) is the first single released by Lena Z
 post_description: Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni.
 image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-norway.jpg
 permalink: /discography/singles/:name
-last_modified_at: 10 January 2024
+last_modified_at: 12 January 2024
 ---
 
 <figure class="fig3">
@@ -21,32 +21,99 @@ last_modified_at: 10 January 2024
 </table>
 </figure>
 
-Update to new layout coming soon!
+<figure class="fig3">
+<table style="text-align:center;">
+<tr><th colspan="4">Jump To</th></tr>
+<tr><td style="width:25%;"><a href="#infobox1">Side 1</a></td><td style="width:25%;"><a href="#infobox2">Side 2</a></td><td style="width:25%;"><a href="#infobox3">Details</a></td><td style="width:25%;"><a href="#infobox4">Note</a></td></tr>
+</table>
+</figure>
 
 <figure class="fig3">
-<figcaption>
-<h3 id="norway"><a href="#norway">Norway</a></h3>
-</figcaption>
-<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-norway.jpg" class="full-width" alt="Norway front of sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" />
-<figcaption>
 <table>
-<tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
-<tr class="split"><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
-<tr><th>Composer:</th><td>C. Conrad, S. Clare</td></tr>
+<tr id="infobox1"><th colspan="3">Ma! (He's Making Eyes At Me) - Norway Release - Side 1</th></tr>
+<tr>
+<th style="width:50%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-norway-side-1.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-norway-side-1.jpg" class="full-width zoom-in" /></a></th>
+</tr>
+<tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
+<tr><th>A Face:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
+<tr><th>Composer:</th><td>Con Conrad</td></tr>
+<tr><th>Composer:</th><td>Sydney Clare</td></tr>
 <tr><th>Producer:</th><td>Tommy Scott</td></tr>
 <tr><th>Arranger:</th><td>Tom Parker</td></tr>
-<tr class="split"><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
-<tr><th>Composer:</th><td>Sam. M. Lewis, J. Young, J. Schwartz</td></tr>
+</table>
+</figure>
+
+<figure class="fig3">
+<table>
+<tr id="infobox2"><th colspan="3">Ma! (He's Making Eyes At Me) - Norway Release - Side 2</th></tr>
+<tr>
+<th style="width:50%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-norway-side-2.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-norway-side-2.jpg" class="full-width zoom-in" /></a></th>
+</tr>
+<tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
+<tr><th>B Face:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
+<tr><th>Composer:</th><td>Sam. M. Lewis</td></tr>
+<tr><th>Composer:</th><td>Joe Young</td></tr>
+<tr><th>Composer:</th><td>Gene Schwartz</td></tr>
 <tr><th>Producer:</th><td>Tommy Scott</td></tr>
 <tr><th>Arranger:</th><td>Tom Parker</td></tr>
-<tr class="split"><th>Label:</th><td>Philips - 6006 367</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+</table>
+</figure>
+
+<figure class="fig3">
+<table>
+<tr id="infobox3"><th colspan="3">Ma! (He's Making Eyes At Me) - Norway Release - Details</th></tr>
+<tr><th style="width:50%; vertical-align:top;" rowspan="6" class="top">
+<div id="slideshow">
+<div>
+<a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-norway-fc.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-norway-fc.jpg" class="full-width" alt="Norway front of sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a>
+<cite>Front of the sleeve</cite>
+</div>
+<div>
+<a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-norway-bc.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-norway-bc.jpg" class="full-width" alt="Norway back of sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a>
+<cite>Back of the sleeve</cite>
+</div>
+</div>
+</th></tr>
+<tr><th style="width:15%;">Label:</th><td>Philips - 6006 367</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 Stereo Single</td></tr>
 <tr><th>Country:</th><td>Norway</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
-<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006367no">6006367no</a></td></tr>
+<tr><th>45Cat:</th><td><a class="external-link" href="https://www.45cat.com/record/6006367no">6006367no</a></td></tr>
 </table>
-</figcaption>
 </figure>
 
 <br />{: .clear}
+
+<style>
+#infobox4 {scroll-margin-top: -3px;}
+#slideshow {
+position: relative;
+aspect-ratio:1/1.1;
+}
+
+#slideshow > div {
+position: absolute;
+top: 10px;
+left: 10px;
+right: 10px;
+bottom: 10px;
+}
+
+@media screen and (orientation:portrait) {.fig2 {margin-top:-50px;} .adjust {margin-top:30px !important;}}
+</style>
+
+<script type="text/javascript" src="/assets/js/jquery-3.6.0.min.js"></script>
+
+<script>
+$("#slideshow > div:gt(0)").hide();
+
+setInterval(function() { 
+$('#slideshow > div:first')
+.fadeOut(1000)
+.next()
+.fadeIn(1000)
+.end()
+.appendTo('#slideshow');
+}, 4000);
+</script>
 
