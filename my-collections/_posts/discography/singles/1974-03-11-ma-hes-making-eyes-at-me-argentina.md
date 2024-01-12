@@ -25,7 +25,7 @@ last_modified_at: 12 January 2024
 <figure class="fig3">
 <table style="text-align:center;">
 <tr><th colspan="3">Jump To</th></tr>
-<tr><td style="width:20%;"><a href="#infobox1">Side A</a></td><td style="width:20%;"><a href="#infobox2">Side B</a></td><td style="width:20%;"><a href="#infobox3">Details</a></td></tr>
+<tr><td style="width:33.33%;"><a href="#infobox1">Side A</a></td><td style="width:33.34%;"><a href="#infobox2">Side B</a></td><td style="width:33.33%;"><a href="#infobox3">Details</a></td></tr>
 </table>
 </figure>
 
