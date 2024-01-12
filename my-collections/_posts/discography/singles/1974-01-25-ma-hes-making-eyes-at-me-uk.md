@@ -25,7 +25,7 @@ last_modified_at: 12 January 2024
 <figure class="fig3">
 <table style="text-align:center;">
 <tr><th colspan="4">Jump To</th></tr>
-<tr><td style="width:25%;"><a href="#infobox1">Side A</a></td><td style="width:25%;"><a href="#infobox2">Side B</a></td><td style="width:25%;"><a href="#infobox3">Details</a></td><td style="width:25%;"><a href="#infobox4">Chart</a></td></tr>
+<tr><td style="width:25%;"><a href="#infobox1">Side A</a></td><td style="width:25%;"><a href="#infobox2">Side B</a></td><td style="width:25%;"><a href="#infobox3">Details</a></td><td style="width:25%;"><a href="#infobox4">UK Charts</a></td></tr>
 </table>
 </figure>
 
