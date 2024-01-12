@@ -32,7 +32,7 @@ last_modified_at: 10 January 2024
 <table>
 <tr id="infobox1"><th colspan="3">Ma! (He's Making Eyes At Me) - France Release - Face A</th></tr>
 <tr>
-<th style="width:45%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-face-a.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-face-a.jpg" class="full-width zoom-in" /></a></th>
+<th style="width:50%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-face-a.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-face-a.jpg" class="full-width zoom-in" /></a></th>
 </tr>
 <tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
 <tr><th>A Face:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
@@ -47,7 +47,7 @@ last_modified_at: 10 January 2024
 <table>
 <tr id="infobox2"><th colspan="3">Ma! (He's Making Eyes At Me) - France Release - Face B</th></tr>
 <tr>
-<th style="width:45%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-face-b.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-face-b.jpg" class="full-width zoom-in" /></a></th>
+<th style="width:50%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-face-b.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-face-b.jpg" class="full-width zoom-in" /></a></th>
 </tr>
 <tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
 <tr><th>B Face:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
@@ -61,11 +61,19 @@ last_modified_at: 10 January 2024
 
 <figure class="fig3">
 <table>
-<tr id="infobox3"><th colspan="2">Ma! (He's Making Eyes At Me) - France Release - Details</th></tr>
-<tr>
-<th style="width:50%; vertical-align:top;" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-fc.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-fc.jpg" class="full-width zoom-in" /></a></th>
-<th style="width:50%; vertical-align:top;" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-bc.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-bc.jpg" class="full-width zoom-in" /></a></th>
-</tr>
+<tr id="infobox3"><th colspan="3">Ma! (He's Making Eyes At Me) - France Release - Details</th></tr>
+<tr><th style="width:50%; vertical-align:top;" rowspan="6" class="top">
+<div id="slideshow">
+<div>
+<a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-fc.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-fc.jpg" class="full-width zoom-in" /></a>
+<cite>Front of the sleeve</cite>
+</div>
+<div>
+<a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-bc.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-bc.jpg" class="full-width zoom-in" /></a>
+<cite>Back of the sleeve</cite>
+</div>
+</div>
+</th></tr>
 <tr><th style="width:15%;">Label:</th><td>Gérard Tournier - GT 46501</td></tr>
 <tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
 <tr><th>Country:</th><td>France</td></tr>
@@ -75,4 +83,37 @@ last_modified_at: 10 January 2024
 </figure>
 
 <br />{: .clear}
+
+<style>
+#infobox4 {scroll-margin-top: -3px;}
+#slideshow {
+position: relative;
+aspect-ratio:1/1.1;
+}
+
+#slideshow > div {
+position: absolute;
+top: 10px;
+left: 10px;
+right: 10px;
+bottom: 10px;
+}
+
+@media screen and (orientation:portrait) {.fig2 {margin-top:-50px;} .adjust {margin-top:30px !important;}}
+</style>
+
+<script type="text/javascript" src="/assets/js/jquery-3.6.0.min.js"></script>
+
+<script>
+$("#slideshow > div:gt(0)").hide();
+
+setInterval(function() { 
+$('#slideshow > div:first')
+.fadeOut(1000)
+.next()
+.fadeIn(1000)
+.end()
+.appendTo('#slideshow');
+}, 4000);
+</script>
 

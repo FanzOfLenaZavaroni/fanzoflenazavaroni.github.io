@@ -7,7 +7,7 @@ description: Ma! (He's Making Eyes At Me) is the first single released by Lena Z
 post_description: Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni.
 image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk.jpg
 permalink: /discography/singles/:name
-last_modified_at: 10 January 2024
+last_modified_at: 12 January 2024
 ---
 
 <figure class="fig3">
@@ -17,35 +17,57 @@ last_modified_at: 10 January 2024
 
 <tr><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-belgium">Belgium</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-france">France</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-germany">Germany</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-ireland">Ireland</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-japan">Japan</a></td></tr>
 
-<tr><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-netherlands">Netherlands</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-new-zealand">New Zealand</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-norway">Norway</a></td><td colspan="2"><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-south-africa">South Africa &#x2714;</a></td></tr>
+<tr><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-netherlands">Netherlands</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-new-zealand">New Zealand</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-south-africa">Norway</a></td><td colspan="2"><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-south-africa">South Africa &#x2714;</a></td></tr>
 </table>
 </figure>
 
-Update to new layout coming soon!
+<figure class="fig3">
+<table style="text-align:center;">
+<tr><th colspan="4">Jump To</th></tr>
+<tr><td style="width:25%;"><a href="#infobox1">Side A</a></td><td style="width:25%;"><a href="#infobox2">Side B</a></td><td style="width:25%;"><a href="#infobox3">Details</a></td><td style="width:25%;"><a href="#infobox4">Note</a></td></tr>
+</table>
+</figure>
 
-<figure class="fig1">
-<figcaption>
-<h3 id="south-africa"><a href="#south-africa">South Africa</a></h3>
-</figcaption>
-<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-south-africa.jpg" class="full-width" alt="South Africa A-Side Label for the Single Ma! (He's Making Eyes At Me) R&T [Record And Tape] - RTS.43" />
-<figcaption>
+<figure class="fig3">
 <table>
-<tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
-<tr class="split"><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
-<tr><th>Composer:</th><td>C. Conrad, S. Clare</td></tr>
+<tr id="infobox1"><th colspan="3">Ma! (He's Making Eyes At Me) - South Africa Release - Side A</th></tr>
+<tr>
+<th style="width:50%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-south-africa-side-a.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-south-africa-side-a.jpg" class="full-width zoom-in" /></a></th>
+</tr>
+<tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
+<tr><th>A Face:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
+<tr><th>Composer:</th><td>Con Conrad</td></tr>
+<tr><th>Composer:</th><td>Sydney Clare</td></tr>
 <tr><th>Producer:</th><td>Tommy Scott</td></tr>
 <tr><th>Arranger:</th><td>Tom Parker</td></tr>
-<tr class="split"><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
-<tr><th>Composer:</th><td>Sam. M. Lewis, J. Young, J. Schwartz</td></tr>
+</table>
+</figure>
+
+<figure class="fig3">
+<table>
+<tr id="infobox2"><th colspan="3">Ma! (He's Making Eyes At Me) - South Africa Release - Side B</th></tr>
+<tr>
+<th style="width:50%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-south-africa-side-b.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-south-africa-side-b.jpg" class="full-width zoom-in" /></a></th>
+</tr>
+<tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
+<tr><th>B Face:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
+<tr><th>Composer:</th><td>Sam. M. Lewis</td></tr>
+<tr><th>Composer:</th><td>Joe Young</td></tr>
+<tr><th>Composer:</th><td>Gene Schwartz</td></tr>
 <tr><th>Producer:</th><td>Tommy Scott</td></tr>
 <tr><th>Arranger:</th><td>Tom Parker</td></tr>
-<tr class="split"><th>Label:</th><td>R&T [Record And Tape] - RTS.43</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+</table>
+</figure>
+
+<figure class="fig3">
+<table>
+<tr id="infobox3"><th colspan="2">Ma! (He's Making Eyes At Me) - South Africa Release - Details</th></tr>
+<tr><th style="width:50%;">Label:</th><td>R&T [Record And Tape] - RTS.43</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 Stereo Single</td></tr>
 <tr><th>Country:</th><td>South Africa</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
-<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/rts43">RTS.43</a></td></tr>
+<tr><th>45Cat:</th><td><a class="external-link" href="https://www.45cat.com/record/rts43">RTS.43</a></td></tr>
 </table>
-</figcaption>
 </figure>
 
 <br />{: .clear}
