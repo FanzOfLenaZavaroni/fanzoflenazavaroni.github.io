@@ -23,8 +23,8 @@ last_modified_at: 12 January 2024
 
 <figure class="fig3">
 <table style="text-align:center;">
-<tr><th colspan="4">Jump To</th></tr>
-<tr><td style="width:25%;"><a href="#infobox1">Side 1</a></td><td style="width:25%;"><a href="#infobox2">Side 2</a></td><td style="width:25%;"><a href="#infobox3">Details</a></td><td style="width:25%;"><a href="#infobox4">Note</a></td></tr>
+<tr><th colspan="3">Jump To</th></tr>
+<tr><td style="width:20%;"><a href="#infobox1">Side A</a></td><td style="width:20%;"><a href="#infobox2">Side B</a></td><td style="width:20%;"><a href="#infobox3">Details</a></td></tr>
 </table>
 </figure>
 
