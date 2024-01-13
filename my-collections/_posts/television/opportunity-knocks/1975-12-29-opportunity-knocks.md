@@ -7,6 +7,7 @@ description: Lena appears as last year's winner, to present the award to the 197
 media: Thames Television
 post_description: Lena appears as last year's winner, to present the award to the 1975 recipient, The Frank Jennings Syndicate.
 categories: [Thames-Television, Opportunity-Knocks, Hughie-Green, OnThisDay29December]
+last_modified_at: 13 January 2024
 ---
 
 Lena appears as last year's winner, to present the award to the 1975 recipient, The Frank Jennings Syndicate.
