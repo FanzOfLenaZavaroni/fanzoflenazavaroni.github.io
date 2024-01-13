@@ -6,45 +6,13 @@ subtitle: Episode 16.8 - Lena Sponsored Her Parents Victor And Hilda
 description: Lena sponsored her parents Victor and Hilda on the show under the name The Zavaronis.
 post_description: Lena sponsored her parents Victor and Hilda on the show under the name The Zavaronis.
 categories: [Thames-Television, Opportunity-Knocks, Hughie-Green, OnThisDay17November]
+last_modified_at: 13 January 2024
 ---
+
+With Paul and Suzy Brown, Mike Donohoe, Les Filles De Paris, Blue, Hilda and Victor Zavaroni
+<cite><a href="https://www.tvbrain.info/tv-archive?showname=Opportunity+Knocks&type=lostshow#:~:text=With%20Paul%20and%20Suzy%20Brown%2C%20Mike%20Donohoe%2C%20Les%20Filles%20De%20Paris%2C%20Blue%2C%20Hilda%20and%20Victor%20Zavaroni">TV Brain</a></cite>
 
 Lena sponsored her parents Victor and Hilda on the show under the name The Zavaronis.
 
 They had previously applied in 1973 but did not make it passed the qualifying heats.
-
-<figure class="fig1">
-<table>
-<tr><th colspan="2" id="tables">Cast</th></tr>
-<tr><th>Presenter:</th><td>Hughie Green</td></tr>
-<tr><th>On screen participant:</th><td>Paul and Suzy Brown</td></tr>
-<tr><th>On screen participant:</th><td>Mike Donohoe</td></tr>
-<tr><th>On screen participant:</th><td>Les Filles De Paris</td></tr>
-<tr><th>On screen participant:</th><td>Blue</td></tr>
-<tr style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lz"><th>On screen participant:</th><td>The Zavaronis (Hilda and Victor Zavaroni)</td></tr>
-</table>
-</figure>
-
-<figure class="fig2">
-<table>
-<tr><th colspan="2">Crew</th></tr>
-<tr><th>Producer:</th><td>Keith Beckett</td></tr>
-<tr><th>Director:</th><td>Keith Beckett</td></tr>
-<tr><th>Musical Backing:</th><td>Bob Sharples and his orchestra</td></tr>
-</table>
-</figure>
-
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
