@@ -47,7 +47,7 @@ last_modified_at: 23 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox2"><th>Clapperboard</th><th>Part 1</th></tr>
+<tr id="infobox2"><th>Clapperboard</th><th>Part 1 - Recorded On 17 January 1978</th></tr>
 <tr>
 <th rowspan="3" class="top" style="width:50%;"><img src="/assets/images/lena-and-bonnie/clapperboard-01.png" class="full-width"></th>
 </tr>
@@ -58,7 +58,7 @@ last_modified_at: 23 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox3"><th>Clapperboard</th><th>Part 2</th></tr>
+<tr id="infobox3"><th>Clapperboard</th><th>Part 2 - Recorded On 17 January 1978</th></tr>
 <tr>
 <th rowspan="2" class="top" style="width:50%;"><img src="/assets/images/lena-and-bonnie/clapperboard-02.png" class="full-width"></th>
 </tr>
@@ -68,7 +68,7 @@ last_modified_at: 23 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox4"><th>Clapperboard</th><th>Part 3</th></tr>
+<tr id="infobox4"><th>Clapperboard</th><th>Part 3 - Recorded On 18 January 1978</th></tr>
 <tr>
 <th rowspan="2" class="top" style="width:50%;"><img src="/assets/images/lena-and-bonnie/clapperboard-03.png" class="full-width"></th>
 </tr>
