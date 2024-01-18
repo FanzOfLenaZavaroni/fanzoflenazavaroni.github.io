@@ -1,26 +1,25 @@
 ---
 layout: post
-title: Me And My Girl At Adelphi Theatre &#124; 1 April 1988
-maintitle: Me And My Girl At Adelphi Theatre
-subtitle: The Programme For The Show
+title: Theatre Programme For Me And My Girl &#124; 1 April 1988
+maintitle: Theatre Programme For Me And My Girl
+subtitle:  At The Adelphi Theatre
 after: " - 31 March 1989"
-description: 
-post_description: 
-image: /home/robcamstone/GitHub/fanzoflenazavaroni.github.io/assets/images/bonnie/bonnie-langford-david-schofield-girl-adelphi-21879104.jpg
-categories: [Theatre, Me-And-My-Girl, OnThisDay1April]
-last_modified_at: 16 January 2024
+description: Starting Bonnie Langford As Sally and David Schofield as Bill Snibson.
+post_description: Starting Bonnie Langford As Sally and David Schofield as Bill Snibson.
+image: /assets/images/theatres/1988-04-01-me-and-my-girl-programme-fc.jpg
+categories: [Theatre, Me-And-My-Girl, Bonnie-Langford, David-Schofield, OnThisDay1April]
+last_modified_at: 18 January 2024
 ---
 
 <p class="post-meta adjust">Above dates based on details from <a class="external-link" href="https://www.dresscircle.co.uk/shows/me-and-my-girl/adelphi-theatre-london#:~:text=Bonnie%20Langford,31/03/89">Dress Circle</a></p>
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th>Publicity Photo</th><th>Performer</th><th>Character</th></tr>
+<tr id="infobox1"><th>Programme Cover</th><th>Performer</th><th>Character</th></tr>
 <tr>
-<th rowspan="13" class="top" style="width:50%;"><img src="/assets/images/bonnie/bonnie-langford-david-schofield-girl-adelphi-21879104.jpg" class="full-width" /><br /><cite class="whitespace">Bonnie Langford and David Schofield,
-&copy; Believed To Belong To The Mirror, 1988.</cite></th>
+<th rowspan="13" class="top" style="width:50%;"><a href="/assets/images/theatres/1988-04-01-me-and-my-girl-programme-fc.jpg"><img src="/assets/images/theatres/1988-04-01-me-and-my-girl-programme-fc.jpg" class="full-width zoom-in" /></a></th>
 </tr>
-<tr><th style="width:25%;"><a href="#infobox3">Bonnie Langford</a></th> <td>Sally</td></tr>
+<tr><th style="width:25%;"><a href="#infobox2">Bonnie Langford</a></th> <td>Sally</td></tr>
 <tr><th>David Schofield</th><td>Bill Snibson</td></tr>
 <tr><th>sheila Mathews</th><td>The Duchess</td></tr>
 <tr><th>Graham Seed</th><td>The Hon. Gerald</td></tr>
@@ -32,20 +31,16 @@ last_modified_at: 16 January 2024
 <tr><th>Joyce Blane</th><td>unknown</td></tr>
 <tr><th>Marie Lorraine</th><td>unknown</td></tr>
 <tr><th>Robert Wilson</th><td>unknown</td></tr>
-<tr id="infobox3" class="split"><th colspan="3">Quote: From The Programme related to Lena and Bonnie</th></tr>
-<tr>
-<td colspan="3">
-<blockquote>
-<p>In 1978, at the tender age of thirteen, she teamed up with Lena Zavaroni to make the top-rated TV special Lena and Bonnie.</p>
-</blockquote>
-</td></tr>
 </table>
 </figure>
 
 <figure class="fig3">
 <table>
-<tr id="infobox2"><th colspan="2">Production</th></tr>
-<tr><th style="width:50%;">Book and Lyrics</th> <td>L. Arthur Rose & Douglas Furber</td></tr>
+<tr id="infobox2"><th>Bonnie Langford Programme Details</th><th colspan="2">Production</th></tr>
+<tr>
+<th rowspan="13" class="top" style="width:50%;"><a href="/assets/images/theatres/1988-04-01-me-and-my-girl-programme-bl.jpg"><img src="/assets/images/theatres/1988-04-01-me-and-my-girl-programme-bl.jpg" class="full-width zoom-in" /></a><cite>In 1978, at the tender age of thirteen, she teamed up with Lena Zavaroni to make the top-rated TV special <a href="/1978-03-26-lena-and-bonnie/">Lena and Bonnie</a>.</cite></th>
+</tr>
+<tr><th style="width:25%;">Book and Lyrics</th> <td>L. Arthur Rose & Douglas Furber</td></tr>
 <tr><th>Music</th><td>Noel Gay</td></tr>
 <tr><th>Book Revised</th><td>Stephen Fry</td></tr>
 <tr><th>Contribution To Revisions</th><td>Mike Ockrent</td></tr>
@@ -64,6 +59,6 @@ last_modified_at: 16 January 2024
 
 <style>
 .adjust {position:relative; top:-30px;}
-#infobox3 {scroll-margin-top: -3px;}
+#infobox2 {scroll-margin-top: -3px;}
 </style>
 
