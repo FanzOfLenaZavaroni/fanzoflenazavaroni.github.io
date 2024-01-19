@@ -12,12 +12,12 @@ last_modified_at: 1 January 2024
 
 <figure class="fig1">
 <a href="/assets/images/magazines/1998-11-28-Music-Week-page-03.png"><img src="/assets/images/magazines/1998-11-28-Music-Week-page-03.png" class="full-width zoom-in" /></a>
-<cite>Music Week 3 November 1998<br /><a class="external-link" href="https://worldradiohistory.com/UK/Music-Week/1998/Music-Week-1998-11-28.pdf#page=3">Page 3 of PDF</a></cite>
+<cite>Music Week 3 November 1998<br /><a class="external-link" href="https://www.worldradiohistory.com/UK/Music-Week/1998/Music-Week-1998-11-28.pdf#page=3">Page 3 of PDF</a></cite>
 </figure>
 
 <figure class="fig2">
 <a href="/assets/images/magazines/1998-11-28-Music-Week-page-26.png"><img src="/assets/images/magazines/1998-11-28-Music-Week-page-26.png" class="full-width zoom-in" /></a>
-<cite>Music Week 3 November 1998<br /><a class="external-link" href="https://worldradiohistory.com/UK/Music-Week/1998/Music-Week-1998-11-28.pdf#page=26">Page 26 of PDF</a></cite>
+<cite>Music Week 3 November 1998<br /><a class="external-link" href="https://www.worldradiohistory.com/UK/Music-Week/1998/Music-Week-1998-11-28.pdf#page=26">Page 26 of PDF</a></cite>
 </figure>
 
 <figure class="fig3">
