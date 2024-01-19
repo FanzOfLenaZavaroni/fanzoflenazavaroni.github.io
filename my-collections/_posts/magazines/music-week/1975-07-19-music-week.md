@@ -12,12 +12,12 @@ last_modified_at: 1 January 2024
 
 <figure class="fig1">
 <a href="/assets/images/magazines/1975-07-19-Music-Week-page-23.png"><img src="/assets/images/magazines/1975-07-19-Music-Week-page-23.png" class="full-width zoom-in" /></a>
-<cite>Music Week 19 July 1975<br /><a class="external-link" href="https://worldradiohistory.com/UK/Music-Week/1975/Music-Week-1975-07-19.pdf#page=23">Page 23 of PDF</a></cite>
+<cite>Music Week 19 July 1975<br /><a class="external-link" href="https://www.worldradiohistory.com/UK/Music-Week/1975/Music-Week-1975-07-19.pdf#page=23">Page 23 of PDF</a></cite>
 </figure>
 
 <figure class="fig2">
 <a href="/assets/images/magazines/1975-07-19-Music-Week-page-26.png"><img src="/assets/images/magazines/1975-07-19-Music-Week-page-26.png" class="full-width zoom-in" /></a>
-<cite>Music Week 19 July 1975<br /><a class="external-link" href="https://worldradiohistory.com/UK/Music-Week/1975/Music-Week-1975-07-19.pdf#page=26">Page 26 of PDF</a></cite>
+<cite>Music Week 19 July 1975<br /><a class="external-link" href="https://www.worldradiohistory.com/UK/Music-Week/1975/Music-Week-1975-07-19.pdf#page=26">Page 26 of PDF</a></cite>
 </figure>
 
 <figure class="fig3">
