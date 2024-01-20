@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 2022-11-14-Newsbank.md, 2000-02-20-sunday-mail.md, and 15 more…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7e4bc8aa0c06719ce5eb0610d1b4e7a667a52ac0)
-- [Update 1974-ma-hes-making-eyes-at-me-south-africa.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b038289282df162d6322eb3b249a2f6c89b71ad7)
-- [Update README.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d3a9a1f5072cdee6567da2aaab8cb84c67a82330)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/36c0a724298358a0c54cae3737166b17ae1659f0)
-- [Update 1974-03-11-ma-hes-making-eyes-at-me-argentina.md, 1974-03-ma-h…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c9fa2e206ed8c9ad89aaf9b63dac3dcf3e3da49c)
+- [Update frame9109.png, 1977-01-17-news.md, and 365 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cb805ccc1b16223dc8a610405b9447ef449c0074)
+- [Update 1974-01-26-music-week.md, 1975-07-19-music-week.md, and 6 more…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5501b82e7a88aa99bb9fe445edca172ff9cdb893)
+- [Update bonnie-langford-david-schofield-girl-adelphi-21879104.jpg](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c8800b4ce6673fafdb57087c80aa2c9635ef88fe)
+- [Update 1988-04-01-me-and-my-girl-programme-bl.jpg, 1988-04-01-me-and-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c5a805483d7e47406f414a4ea8e57a83e6e0877a)
+- [Update Official Singles Chart Top 50 Positions For Lena Zavaroni&#39;s si…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/646bea2d1dd53f1056cd54d43819fc746f1d0537)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
