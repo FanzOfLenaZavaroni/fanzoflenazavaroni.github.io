@@ -3,9 +3,8 @@ layout: post
 title: Music Week &#124; 21 January 1978
 maintitle: Music Week
 subtitle: Magazine
-description: Airplay Action listed the promo release of Somewhere South Of Macon by Lena Zavaroni at the bottom of page 22.
-media: The magazine
-post_description: Airplay Action listed the promo release of Somewhere South Of Macon by Lena Zavaroni at the bottom of page 22.
+description: MAC MUSIC, publishing company set up recently by writer/producer Mike Hurst
+post_description: MAC MUSIC, publishing company set up recently by writer/producer Mike Hurst
 categories: [Magazines, OnThisDay21January]
 last_modified_at: 21 January 2024
 ---
