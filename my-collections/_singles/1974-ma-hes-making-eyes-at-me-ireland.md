@@ -2,9 +2,9 @@
 layout: discography
 title: Ma! (He's Making Eyes At Me) &#124; Ireland Release
 maintitle: Ma! (He's Making Eyes At Me)
-subtitle: Lena Zavaroni's First Single
-description: Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni.
-post_description: Ma! (He's Making Eyes At Me) is the first single released by Lena Zavaroni.
+subtitle: Lena Zavaroni's debut single
+description: Ma! (He's Making Eyes At Me) is the debut single released by Lena Zavaroni.
+post_description: Ma! (He's Making Eyes At Me) is the debut single released by Lena Zavaroni.
 image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-ireland.jpg
 categories: [Discography, Singles]
 permalink: /discography/singles/:name

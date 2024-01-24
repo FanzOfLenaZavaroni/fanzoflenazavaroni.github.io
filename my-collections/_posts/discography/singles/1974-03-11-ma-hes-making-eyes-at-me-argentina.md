@@ -2,9 +2,9 @@
 layout: post
 title: Ma! (El Me Esta Haciendo Ojitos) &#124; Argentina Release
 maintitle: Ma! (El Me Esta Haciendo Ojitos)
-subtitle: Lena Zavaroni's First Single
-description: Ma! (El Me Esta Haciendo Ojitos) is the first single released by Lena Zavaroni.
-post_description: Ma! (El Me Esta Haciendo Ojitos) is the first single released by Lena Zavaroni.
+subtitle: Lena Zavaroni's debut single
+description: Ma! (El Me Esta Haciendo Ojitos) is the debut single released by Lena Zavaroni.
+post_description: Ma! (El Me Esta Haciendo Ojitos) is the debut single released by Lena Zavaroni.
 image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-argentina.jpg
 categories: [Discography, Singles, OnThisDay11March]
 permalink: /discography/singles/:name
