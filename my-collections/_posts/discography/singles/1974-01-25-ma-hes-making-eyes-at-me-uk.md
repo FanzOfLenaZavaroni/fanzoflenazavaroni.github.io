@@ -8,7 +8,7 @@ post_description: Ma! (He's Making Eyes At Me) is the debut single released by L
 image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-a.jpg
 categories: [Discography, Singles, OnThisDay25January]
 permalink: /discography/singles/:name
-last_modified_at: 12 January 2024
+last_modified_at: 25 January 2024
 ---
 
 <figure class="fig3">
@@ -31,12 +31,22 @@ last_modified_at: 12 January 2024
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="7">Ma! (He's Making Eyes At Me) - UK Release - Side A</th></tr>
-<tr>
-<th style="width:50%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-a.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-a.jpg" class="full-width zoom-in" alt="UK A-Side Label for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a></th>
-</tr>
+<tr id="infobox1"><th colspan="3">Ma! (He's Making Eyes At Me) - UK Release - Side A</th></tr>
+<tr><th style="width:50%; vertical-align:top;" rowspan="8" class="top">
+<div id="slideshow1">
+<div>
+<a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-a.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-a.jpg" class="full-width zoom-in" /></a>
+<cite>Pressed in the UK</cite>
+</div>
+<div>
+<a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-fr-uk-a.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-fr-uk-a.jpg" class="full-width zoom-in" alt="Japan back of the sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a>
+<cite>Pressed in France for release in the UK</cite>
+</div>
+</div>
+</th></tr>
 <tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
-<tr><th>A side:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
+<tr><th colspan="2">A side UK Pressing / Side 1 France Pressing for UK Release:</th></tr>
+<tr><td colspan="2">Ma! (He's Making Eyes At Me)</td></tr>
 <tr><th>Composer:</th><td>Con Conrad</td></tr>
 <tr><th>Composer:</th><td>Sydney Clare</td></tr>
 <tr><th>Producer:</th><td>Tommy Scott</td></tr>
@@ -46,12 +56,22 @@ last_modified_at: 12 January 2024
 
 <figure class="fig3">
 <table>
-<tr id="infobox2"><th colspan="4">Ma! (He's Making Eyes At Me) - UK Release - Side B</th></tr>
-<tr>
-<th style="width:50%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-b.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-b.jpg" class="full-width zoom-in" alt="UK A-Side Label for the Single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a></th>
-</tr>
+<tr id="infobox2"><th colspan="3">Ma! (He's Making Eyes At Me) - UK Release - Side B</th></tr>
+<tr><th style="width:50%; vertical-align:top;" rowspan="9" class="top">
+<div id="slideshow2">
+<div>
+<a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-b.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-b.jpg" class="full-width zoom-in" /></a>
+<cite>Pressed in the UK</cite>
+</div>
+<div>
+<a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-fr-uk-b.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-fr-uk-b.jpg" class="full-width zoom-in" alt="Japan back of the sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a>
+<cite>Pressed in France for release in the UK</cite>
+</div>
+</div>
+</th></tr>
 <tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
-<tr><th>B side:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
+<tr><th colspan="2">B side UK Pressing / Side 2 France Pressing for UK Release:</th></tr>
+<tr><td colspan="2">Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
 <tr><th>Composer:</th><td>Sam. M. Lewis</td></tr>
 <tr><th>Composer:</th><td>Joe Young</td></tr>
 <tr><th>Composer:</th><td>Gene Schwartz</td></tr>
@@ -64,13 +84,14 @@ last_modified_at: 12 January 2024
 <table>
 <tr id="infobox3"><th colspan="4">Ma! (He's Making Eyes At Me) - UK Release - Details</th></tr>
 <tr>
-<th style="width:50%; vertical-align:top;" rowspan="6" class="top"><div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=DzqcGLl8rMg,Yc1h6cDkc8M,yI_nqPZNpAQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></th>
+<th style="width:50%; vertical-align:top;" rowspan="7" class="top"><div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=DzqcGLl8rMg,Yc1h6cDkc8M,yI_nqPZNpAQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></th>
 </tr>
 <tr><th>Label:</th><td>Philips - 6006 367</td></tr>
 <tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
 <tr><th>Country:</th><td>UK</td></tr>
 <tr><th>Released:</th><td>25 January 1974</td></tr>
 <tr><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006367">UK: 6006367</a></td></tr>
+<tr><th>45Cat:</th><td><a class="external-link" href="https://www.45cat.com/record/6006367fr">French export: 6006367fr</a></td></tr>
 </table>
 </figure>
 
@@ -188,4 +209,60 @@ last_modified_at: 12 January 2024
 </figure>
 
 <br />{: .clear}
+
+<style>
+#slideshow1 {
+position: relative;
+aspect-ratio:1/1.1;
+}
+
+#slideshow1 > div {
+position: absolute;
+top: 10px;
+left: 10px;
+right: 10px;
+bottom: 10px;
+}
+
+#slideshow2 {
+position: relative;
+aspect-ratio:1/1.1;
+}
+
+#slideshow2 > div {
+position: absolute;
+top: 10px;
+left: 10px;
+right: 10px;
+bottom: 10px;
+}
+
+@media screen and (orientation:portrait) {.fig2 {margin-top:-50px;} .adjust {margin-top:30px !important;}}
+</style>
+
+<script type="text/javascript" src="/assets/js/jquery-3.6.0.min.js"></script>
+
+<script>
+$("#slideshow1 > div:gt(0)").hide();
+
+setInterval(function() { 
+$('#slideshow1 > div:first')
+.fadeOut(1000)
+.next()
+.fadeIn(1000)
+.end()
+.appendTo('#slideshow1');
+}, 4000);
+
+$("#slideshow2 > div:gt(0)").hide();
+
+setInterval(function() { 
+$('#slideshow2 > div:first')
+.fadeOut(1000)
+.next()
+.fadeIn(1000)
+.end()
+.appendTo('#slideshow2');
+}, 4000);
+</script>
 
