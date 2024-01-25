@@ -18,7 +18,7 @@ last_modified_at: 12 January 2024
 
 <tr><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-belgium">Belgium</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-france">France</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-germany">Germany</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-ireland">Ireland</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-japan">Japan</a></td></tr>
 
-<tr><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-netherlands">Netherlands</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-new-zealand">New Zealand</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-norway">Norway</a></td><td colspan="2"><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-south-africa">South Africa</a></td></tr>
+<tr><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-netherlands">Netherlands</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-new-zealand">New Zealand</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-norway">Norway</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-portugal">Portugal</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-south-africa">South Africa</a></td></tr>
 </table>
 </figure>
 
