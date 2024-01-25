@@ -5,11 +5,12 @@ maintitle: Singles
 subtitle: List of Singles by to Lena Zavaroni.
 description: List of Singles by to Lena Zavaroni.
 categories: [Discography]
+last_modified_at: 25 January 2024
 ---
 
 <strong>Ma! (He's Making Eyes At Me)</strong>
 <ul>
-<li><a href="/discography/singles/1974-01-25-ma-hes-making-eyes-at-me-uk">1974 &#8212; UK Release</a></li>
+<li><a href="/discography/singles/1974-01-25-ma-hes-making-eyes-at-me-uk">1974 &#8212; UK Release + France Pressing for UK Release</a></li>
 <li><a href="/discography/singles/1974-03-11-ma-hes-making-eyes-at-me-argentina">1974 &#8212; Argentina Release</a></li>
 <li><a href="/discography/singles/1974-03-ma-hes-making-eyes-at-me-usa">1974 &#8212; USA Release</a></li>
 <li><a href="/discography/singles/1974-03-ma-hes-making-eyes-at-me-yugoslavia">1974 &#8212; Yugoslavia Release</a></li>
@@ -22,6 +23,7 @@ categories: [Discography]
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-netherlands">1974 &#8212; Netherlands Release</a></li>
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-new-zealand">1974 &#8212; New Zealand Release</a></li>
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-norway">1974 &#8212; Norway Release</a></li>
+<li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-portugal">1974 &#8212; Portugal Release</a></li>
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-south-africa">1974 &#8212; South Africa Release</a></li>
 </ul>
 
