@@ -48,7 +48,7 @@ last_modified_at: 6 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox3"><th>InfoBox: Synopsis</th></tr>
+<tr id="infobox3"><th>Synopsis</th></tr>
 <tr><td>
 <p>Basil and Billy are joined by LENA ZAVARONI in another half-hour of surprises and boom-boom fun.</p>
 <p>Lena appears in a short musical comedy sketch with Basil and Mr. Billy, before performing Will He Kiss Me Tonight.</p>

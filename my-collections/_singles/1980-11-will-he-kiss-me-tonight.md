@@ -19,7 +19,7 @@ last_modified_at: 1 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="3">InfoBox: Will He Kiss Me Tonight - Side A</th></tr>
+<tr id="infobox1"><th colspan="3">Will He Kiss Me Tonight - Side A</th></tr>
 <tr>
 <th style="width:45%; vertical-align:top;" rowspan="6" class="top"><a href="/assets/images/singles/lena-zavaroni-will-he-kiss-me-tonight-galaxy.jpg"><img src="/assets/images/singles/lena-zavaroni-will-he-kiss-me-tonight-galaxy.jpg" class="full-width zoom-in" /></a></th>
 </tr>
@@ -33,7 +33,7 @@ last_modified_at: 1 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox2"><th colspan="3">InfoBox: Will He Kiss Me Tonight - Side B</th></tr>
+<tr id="infobox2"><th colspan="3">Will He Kiss Me Tonight - Side B</th></tr>
 <tr>
 <th style="width:45%; vertical-align:top;" rowspan="5" class="top"><a href="/assets/images/singles/lena-zavaroni-dream-come-true-galaxy.jpg"><img src="/assets/images/singles/lena-zavaroni-dream-come-true-galaxy.jpg" class="full-width zoom-in" /></a></th>
 </tr>
@@ -46,7 +46,7 @@ last_modified_at: 1 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox3"><th colspan="3">InfoBox: Will He Kiss Me Tonight - Details</th></tr>
+<tr id="infobox3"><th colspan="3">Will He Kiss Me Tonight - Details</th></tr>
 <tr>
 <th style="width:45%; vertical-align:top;" rowspan="6" class="top"><div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=4UQmRKsBDvc,zGvjrd-yXHg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></th>
 </tr>
@@ -60,7 +60,7 @@ last_modified_at: 1 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox4"><th colspan="3">InfoBox: Dave Goodman</th></tr>
+<tr id="infobox4"><th colspan="3">Dave Goodman</th></tr>
 <tr><th style="width:45%; vertical-align:top;" rowspan="7" class="top"><img src="/assets/images/singles/goodman.jpg" class="full-width" /></th></tr>
 <tr><th colspan="2">Website:</th></tr>
 <tr><td colspan="2"><a class="external-link" href="http://www.philjens.plus.com/pistols/pistols/pistols_goodman.htm">Dave Goodman 1951-2005</a></td></tr>
@@ -74,7 +74,7 @@ April 1986:</th></tr>
 
 <figure class="fig3">
 <table>
-<tr id="infobox5"><th colspan="2">InfoBox: Related Content</th></tr>
+<tr id="infobox5"><th colspan="2">Related Content</th></tr>
 <tr><th colspan="2"><img src="/assets/images/magazines/1980-12-11-smash-hits-magazine.png" class="full-width" /><cite>Smash Hits Magazine - 11 December 1980</cite></th></tr>
 </table>
 </figure>

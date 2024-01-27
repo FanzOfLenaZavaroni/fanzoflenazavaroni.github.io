@@ -15,7 +15,7 @@ categories: [Biography, Hughie-Green, OnThisDay2February, OnThisDay3May]
 
 <figure class="fig3">
 <table>
-<tr class="top"><th colspan="3">InfoBox: Hughie Green</th></tr>
+<tr class="top"><th colspan="3">Hughie Green</th></tr>
 <tr class="top">
 <th rowspan="9" style="width:35%;">
 <a href="/assets/images/on-this-day/monica-rose-hughie-green-and-audrey-graham-left-to-right-presented-double-your-money.jpg"><img src="/assets/images/on-this-day/monica-rose-hughie-green-and-audrey-graham-left-to-right-presented-double-your-money.jpg" class="full-width zoom-in" /></a>

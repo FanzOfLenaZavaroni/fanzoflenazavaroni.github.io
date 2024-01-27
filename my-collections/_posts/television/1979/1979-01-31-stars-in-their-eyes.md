@@ -28,7 +28,7 @@ last_modified_at: 23 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="2">InfoBox: Screenshot</th></tr>
+<tr id="infobox1"><th colspan="2">Screenshot</th></tr>
 <tr><th colspan="2"><img src="/assets/images/ITV/Stars-In-Their-Eyes.jpg" class="full-width" /></th></tr>
 <tr id="infobox2" class="split"><th colspan="2">Summary:</th></tr>
 <tr><td colspan="2">Ruth Davies, 13, is a pupil at Italia Conti Stage School in London a school that specialises in the stars of the future. Ruth's classmates include Bonnie Langford and Lena Zavaroni...</td></tr>

@@ -19,7 +19,7 @@ last_modified_at: 30 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="2">InfoBox: Podcast Spoken In English</th></tr>
+<tr id="infobox1"><th colspan="2">Podcast Spoken In English</th></tr>
 <tr><td>With thanks to Loving Lena Zavaroni for the post that lead me to Kate O'Sullivan & this podcast.</td></tr>
 <tr><td colspan="3"><iframe src="https://www.listennotes.com/podcasts/making-an-impression/kate-osullivan-xgPhjOI9Mv8/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe></td>
 </tr>

@@ -15,7 +15,7 @@ last_modified_at: 23 December 2023
 
 <figure class="fig3">
 <table>
-<tr><th colspan="3">InfoBox: Les Dawson</th></tr>
+<tr><th colspan="3">Les Dawson</th></tr>
 <tr>
 <th rowspan="7" class="top"><img src="/assets/images/on-this-day/les-dawson.webp" class="full-width" /></th>
 </tr>

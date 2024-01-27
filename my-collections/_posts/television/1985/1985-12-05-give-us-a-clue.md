@@ -23,7 +23,7 @@ last_modified_at: 30 November 2023
 
 <figure class="fig3">
 <table>
-<tr id="cast"><th colspan="3">InfoBox: Cast</th></tr>
+<tr id="cast"><th colspan="3">Cast</th></tr>
 <tr>
 <th rowspan="10" class="top" style="width:50%;"><img src="/assets/images/ITV/1985-12-05-give-us-a-clue.jpg" class="full-width" /><br /><cite>Lena takes part in a game of charades, and mimes the film &quot;A Big Hand For The Little Lady&quot;.</cite></th>
 </tr>
@@ -36,7 +36,7 @@ last_modified_at: 30 November 2023
 <tr><th>Guest Panelist</th><td>Bernie Winters</td></tr>
 <tr><th>Guest Panelist</th><td>Bobby Crush</td></tr>
 <tr><th>Guest Panelist</th><td>Mike Read</td></tr>
-<tr id="crew" class="split"><th colspan="3">InfoBox: Crew</th></tr>
+<tr id="crew" class="split"><th colspan="3">Crew</th></tr>
 <tr><th style="width:50%;">Production assistant</th><td colspan="2" style="width:50%;">Liz Minchin</td></tr>
 <tr><th>Producer & Director</th><td colspan="2">David Clark</td></tr>
 <tr><th>Production company</th><td colspan="2">Thames Television</td></tr>

@@ -19,9 +19,9 @@ permalink: /discography/podcasts/:name
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="3">InfoBox: Podcast Spoken In English</th></tr>
+<tr id="infobox1"><th colspan="3">Podcast Spoken In English</th></tr>
 <tr><td colspan="3"><iframe src="https://www.listennotes.com/podcasts/fierce-fatty-podcast/176-lisa-marie-presley-died-ygGbNvdx71M/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe></td></tr>
-<tr id="infobox2"><th colspan="3">InfoBox: Episode Notes</th></tr>
+<tr id="infobox2"><th colspan="3">Episode Notes</th></tr>
 <tr><td><blockquote>
 <p>With the news of the cause of death for Lisa Marie Presley recently I thought it was time to expand the list of famous people who have died at the hands of fat hate or diet culture. The first part is episode 145, but you don’t need to listen to that before this episode. I am talking about famous people who had overwhelming pressure to be thin and died trying or their life was damaged because of that. It’s a pretty tough episode so please skip if you need to. TW: Fat hate/diet culture leading to death.</p>
 <table>
