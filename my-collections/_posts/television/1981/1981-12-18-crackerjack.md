@@ -26,7 +26,7 @@ last_modified_at: 18 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th>InfoBox: Screenshot</th><th colspan="2">Cast</th></tr>
+<tr id="infobox1"><th>Screenshot</th><th colspan="2">Cast</th></tr>
 <tr>
 <th rowspan="5" class="top" style="width:50%;"><img src="/assets/images/BBC/1981-12-18-crackerjack-01.png" class="full-width" /></th>
 </tr>
@@ -35,7 +35,7 @@ last_modified_at: 18 December 2023
 <tr><th>Regular:</th><td>Sally Ann Triplett</td></tr>
 <tr><th>The Krankies:</th><td>Janette Tough and Ian Tough</td></tr>
 
-<tr id="infobox2"><th>InfoBox: Screenshot</th><th colspan="2">Special Guests</th></tr>
+<tr id="infobox2"><th>Screenshot</th><th colspan="2">Special Guests</th></tr>
 <tr>
 <th rowspan="6" class="top" style="width:50%;"><img src="/assets/images/BBC/1981-12-18-crackerjack-02.png" class="full-width" /><br /><cite>Opening & Closing Credits via <a class="external-link" href="https://tvark.org/crackerjack-4">TV Ark</a></cite></th>
 </tr>

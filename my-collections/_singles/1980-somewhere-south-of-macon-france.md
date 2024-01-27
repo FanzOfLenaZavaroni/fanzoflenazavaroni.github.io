@@ -23,7 +23,7 @@ last_modified_at: 27 November 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="2">InfoBox: Somewhere South Of Macon - Side A</th></tr>
+<tr id="infobox1"><th colspan="2">Somewhere South Of Macon - Side A</th></tr>
 <tr><th style="width:50%;">Artist:</th><td style="width:50%;">Lena Zavaroni</td></tr>
 <tr><th>Side A:</th><td>Somewhere South Of Macon</td></tr>
 <tr><th>Composer:</th><td>J. A. Rushing, M. Chapman</td></tr>
@@ -34,7 +34,7 @@ last_modified_at: 27 November 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox2"><th colspan="2">InfoBox: Somewhere South Of Macon - Side B</th></tr>
+<tr id="infobox2"><th colspan="2">Somewhere South Of Macon - Side B</th></tr>
 <tr><th style="width:50%;">Side B:</th><td style="width:50%;">Little Things Mean A Lot</td></tr>
 <tr><th>Composer:</th><td>C. Stutz, E. Lindeman</td></tr>
 <tr><th>Producer:</th><td>Tommy Scott</td></tr>
@@ -44,7 +44,7 @@ last_modified_at: 27 November 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox3"><th colspan="2">InfoBox: Somewhere South Of Macon - Details</th></tr>
+<tr id="infobox3"><th colspan="2">Somewhere South Of Macon - Details</th></tr>
 <tr><th style="width:50%;">Label:</th><td style="width:50%;">Atoll Productions Ring – 2814 211</td></tr>
 <tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
 <tr><th>Country:</th><td>France</td></tr>

@@ -29,7 +29,7 @@ last_modified_at: 26 November 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="3">InfoBox: Air Love - Side One</th></tr>
+<tr id="infobox1"><th colspan="3">Air Love - Side One</th></tr>
 <tr>
 <th style="width:45%; vertical-align:top;" rowspan="6" class="top"><a href="/assets/images/singles/lena-zavaroni-air-love-stereo-version-ashtree-records-holdings.jpg"><img src="/assets/images/singles/lena-zavaroni-air-love-stereo-version-ashtree-records-holdings.jpg" class="full-width zoom-in" /></a></th>
 </tr>
@@ -43,7 +43,7 @@ J. Friddy, Shifrin</td></tr>
 
 <figure class="fig3">
 <table>
-<tr id="infobox2"><th colspan="3">InfoBox: Air Love - Side Two</th></tr>
+<tr id="infobox2"><th colspan="3">Air Love - Side Two</th></tr>
 <tr>
 <th style="width:45%; vertical-align:top;" rowspan="6" class="top"><a href="/assets/images/singles/lena-zavaroni-air-love-mono-version-ashtree-records-holdings.jpg"><img src="/assets/images/singles/lena-zavaroni-air-love-mono-version-ashtree-records-holdings.jpg" class="full-width zoom-in" /></a><br /></th>
 </tr>
@@ -57,7 +57,7 @@ J. Friddy, Shifrin</td></tr>
 
 <figure class="fig3">
 <table>
-<tr id="infobox3"><th colspan="2">InfoBox: Air Love - Details</th></tr>
+<tr id="infobox3"><th colspan="2">Air Love - Details</th></tr>
 <tr><th style="width:50%;">Label</th><td style="width:50%;">Ashtree – ASDJ-26453</td></tr>
 <tr><th>Format</th><td>7" Vinyl, 45 Single</td></tr>
 <tr><th>Country</th><td>USA</td></tr>

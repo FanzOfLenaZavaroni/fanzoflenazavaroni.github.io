@@ -20,9 +20,9 @@ last_modified_at: 31 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="3">InfoBox: Podcast Spoken In English</th></tr>
+<tr id="infobox1"><th colspan="3">Podcast Spoken In English</th></tr>
 <tr><td colspan="3"><iframe title="Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself." allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=se68m-f5c680-pb&share=1&download=1&fonts=Arial&skin=1&font-color=&rtl=0&logo_link=&btn-skin=7&size=150"></iframe></td></tr>
-<tr id="infobox2" class="split"><th colspan="3">InfoBox: Tracks</th></tr>
+<tr id="infobox2" class="split"><th colspan="3">Tracks</th></tr>
 <tr><th style="width:10%; text-align:center;">Track</th><th>Artist</th><th>Title</th></tr>
 <tr><th style="width:10%; text-align:center;">1</th><td>REO Speedwagon</td><td>Ridin' The Storm Out (studio version)</td></tr>
 <tr><th style="width:10%; text-align:center;">2</th><td>Rufus</td><td>Read All About</td></tr>

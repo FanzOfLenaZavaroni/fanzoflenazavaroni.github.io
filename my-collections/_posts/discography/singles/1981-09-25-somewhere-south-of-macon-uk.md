@@ -22,7 +22,7 @@ last_modified_at: 23 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="3">InfoBox: Somewhere South Of Macon - Official UK Release - Side One</th></tr>
+<tr id="infobox1"><th colspan="3">Somewhere South Of Macon - Official UK Release - Side One</th></tr>
 <tr>
 <th style="width:45%; vertical-align:top;" rowspan="6" class="top"><a href="/assets/images/singles/lena-zavaroni-somewhere-south-of-macon-president.jpg"><img src="/assets/images/singles/lena-zavaroni-somewhere-south-of-macon-president.jpg" class="full-width zoom-in" /></a></th>
 </tr>
@@ -36,7 +36,7 @@ last_modified_at: 23 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox2"><th colspan="3">InfoBox: Somewhere South Of Macon - Official UK Release - Side Two</th></tr>
+<tr id="infobox2"><th colspan="3">Somewhere South Of Macon - Official UK Release - Side Two</th></tr>
 <tr>
 <th style="width:45%; vertical-align:top;" rowspan="6" class="top"><a href="/assets/images/singles/lena-zavaroni-little-things-mean-a-lot-president.jpg"><img src="/assets/images/singles/lena-zavaroni-little-things-mean-a-lot-president.jpg" class="full-width zoom-in" /></a></th>
 </tr>
@@ -50,7 +50,7 @@ last_modified_at: 23 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox3"><th colspan="3">InfoBox: Somewhere South Of Macon - Official UK Release - Details</th></tr>
+<tr id="infobox3"><th colspan="3">Somewhere South Of Macon - Official UK Release - Details</th></tr>
 <tr>
 <th style="width:45%; vertical-align:top;" rowspan="6" class="top"><div class="responsive-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/?playlist=TCVXkhEit7Y,DTELv6BR7TU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></th>
 </tr>

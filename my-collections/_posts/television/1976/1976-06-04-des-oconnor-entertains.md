@@ -25,7 +25,7 @@ Lena appears in a comedy sketch with Des, and performs Some Of These Days.
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="2" style="width:52%;">InfoBox: Cast</th><th colspan="2">Crew</th></tr>
+<tr id="infobox1"><th colspan="2" style="width:52%;">Cast</th><th colspan="2">Crew</th></tr>
 <tr><th>Host</th><td>Des O'connor</td><th>script</th><td>Mike Craig</td></tr>
 <tr><th>Guest</th><td>Lena Zavaroni</td><th>script</th><td>Lawrie Kinsley</td></tr>
 <tr><th>Guest</th><td>Joan Sanderson</td><th>script</th><td>Ron Mcdonnell</td></tr>
@@ -41,7 +41,7 @@ Lena appears in a comedy sketch with Des, and performs Some Of These Days.
 
 <figure class="fig3">
 <table>
-<tr id="infobox2"><th>InfoBox: The Times - 10 December 1976</th><th colspan="2">Repeat 10 December 1976</th></tr>
+<tr id="infobox2"><th>The Times - 10 December 1976</th><th colspan="2">Repeat 10 December 1976</th></tr>
 <tr>
 <th style="width:52%; vertical-align:top;" rowspan="2" class="top"><a href="/assets/images/newspapers/0FFO-1976-DEC10-029.jpeg"><img src="/assets/images/newspapers/0FFO-1976-DEC10-029.jpeg" class="full-width zoom-in" /></a><br /><cite>Date: Friday,  Dec. 10, 1976 - Publication: The Times (London, England) - Issue: 59883.</cite></th>
 </tr>
@@ -65,7 +65,7 @@ UK Regions That repearted the programme
 
 <figure class="fig3">
 <table>
-<tr id="infobox3"><th>InfoBox: Facebook Post</th><th colspan="2">Repeat 3 September 1977</th></tr>
+<tr id="infobox3"><th>Facebook Post</th><th colspan="2">Repeat 3 September 1977</th></tr>
 <tr>
 <th style="width:52%; vertical-align:top;" rowspan="2" class="top"><div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v18.0" nonce="VH9r4KuK"></script><div class="fb-post" data-href="https://www.facebook.com/tvark.org/photos/a.452266604815045/2999606830080997" data-width="350" data-show-text="true"><blockquote cite="https://www.facebook.com/tvark.org/posts/2999607193414294" class="fb-xfbml-parse-ignore"><p>#onthisday LWT repeated this episode of Des O&#039;connor,  It&#039;s still better than the International pop prom</p>Posted by <a href="https://facebook.com/tvark.org">TVARK</a> on&nbsp;<a href="https://www.facebook.com/tvark.org/posts/2999607193414294">Tuesday, 3 September 2019</a></blockquote></div></th>

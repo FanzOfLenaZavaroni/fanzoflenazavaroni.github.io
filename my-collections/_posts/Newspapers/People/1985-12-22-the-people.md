@@ -19,7 +19,7 @@ last_modified_at: 21 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th>InfoBox: The Article</th><th>Photo From The Article</th></tr>
+<tr id="infobox1"><th>The Article</th><th>Photo From The Article</th></tr>
 <tr><td class="top" style="width:50%;">
 <blockquote>
 <p><strong>THE heartbreaking secret that singing star Lena Zavaroni nursed all last summer was revealed by her mother yesterday.</strong></p>

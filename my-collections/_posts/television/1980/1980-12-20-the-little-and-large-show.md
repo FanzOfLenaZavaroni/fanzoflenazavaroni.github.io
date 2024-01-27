@@ -23,7 +23,7 @@ categories: [BBC-One, OnThisDay20December]
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th>InfoBox: Screenshot</th><th colspan="2">Cast</th></tr>
+<tr id="infobox1"><th>Screenshot</th><th colspan="2">Cast</th></tr>
 <tr><th rowspan="6" class="top" style="width:50%;"><img src="/assets/images/BBC/1980-12-20-little-and-large-show-LZ-LLS.png" class="full-width" /><br /><cite>Lena performs Even Now</cite></th></tr>
 <tr><th style="width:25%;">Comedian</th><td>Syd Little</td></tr>
 <tr><th>Comedian</th><td>Eddie Large</td></tr>
@@ -35,7 +35,7 @@ categories: [BBC-One, OnThisDay20December]
 
 <figure class="fig3">
 <table>
-<tr id="infobox2"><th>InfoBox: Screenshot</th><th colspan="2">Crew</th></tr>
+<tr id="infobox2"><th>Screenshot</th><th colspan="2">Crew</th></tr>
 <tr>
 <th rowspan="13" class="top" style="width:50%;"><img src="/assets/images/BBC/1980-12-20-little-and-large-show-LZ-EL-SL.png" class="full-width" /><br /><cite>Lena appears in a comedy sketch with Syd and Eddie</cite></th>
 </tr>

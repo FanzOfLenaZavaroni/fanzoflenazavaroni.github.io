@@ -23,7 +23,7 @@ last_modified_at: 23 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="3">InfoBox: Harold Fielding</th></tr>
+<tr id="infobox1"><th colspan="3">Harold Fielding</th></tr>
 <tr>
 <th rowspan="8" class="top"><img src="/assets/images/harold-fielding.jpg" class="full-width" /></th>
 </tr>
@@ -34,7 +34,7 @@ last_modified_at: 23 December 2023
 <tr><th>Genres</th><td>Musical theatre</td></tr>
 <tr><th>Occupation</th><td>Theatre producer</td></tr>
 <tr><th>Instrument</th><td>Violin</td></tr>
-<tr id="infobox2" class="split"><th colspan="3">InfoBox: Short Bio</th></tr>
+<tr id="infobox2" class="split"><th colspan="3">Short Bio</th></tr>
 <tr><td colspan="3">
 <p><strong>Harold Fielding</strong> was one of Britain's foremost theatrical producers who produced several musicals, including ''Mame'', ''Charlie Girl'', ''Half a Sixpence'', ''Show Boat'', ''Scarlett'', ''Barnum'', ''Sweet Charity'', ''The Biograph Girl'', and ''Ziegfeld''. He also produced &quot;Music for the Millions&quot;, a touring variety show.</p>
 <p>The son of a stockbroker, Fielding was born in Woking, Surrey and educated privately. As a child prodigy, he studied violin with Josef Szigeti. He also handled Tommy Steele's early career, and commissioned ''Half a Sixpence'' for him.</p>
@@ -44,7 +44,7 @@ last_modified_at: 23 December 2023
 <cite><a class="external-link" href="https://en.wikipedia.org/wiki/Harold_Fielding">Wikipedia</a></cite>
 </td></tr>
 <tr id="infobox3" class="split"><th colspan="2" style="width:50%;">The Guardian</th><td style="width:50%;"><a class="external-link" href="https://www.theguardian.com/news/2003/oct/01/guardianobituaries.artsobituaries?fbclid=IwAR3kp02zkYWJKiY7wjLsn8cLz9NLD83a2tLmsvRJbgrljP-Nx42AR3QvA8s">Obituary</a></td></tr>
-<tr id="infobox4" class="split"><th colspan="3">InfoBox: Lena Zavaroni's Career</th></tr>
+<tr id="infobox4" class="split"><th colspan="3">Lena Zavaroni's Career</th></tr>
 <tr><td colspan="3">
 <p>Harold Fielding played a large part in the career of Lena Zavaroni by providing her with regular appearances to headline his Sunday night shows at the Blackpool Opera House.</p>
 <p>See Category: <a href="/category/harold-fielding">Harold Fielding</a> for the list of Harold Fielding's Sunday Night at the Blackpool Opera House in which Lena Zavaroni appeared.</p>

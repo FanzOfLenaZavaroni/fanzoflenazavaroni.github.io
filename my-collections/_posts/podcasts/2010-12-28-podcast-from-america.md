@@ -20,7 +20,7 @@ last_modified_at: 31 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="2">InfoBox: Podcast Spoken Language: English</th></tr>
+<tr id="infobox1"><th colspan="2">Podcast Spoken Language: English</th></tr>
 <tr>
 <th style="width:25%;"><img src="/assets/images/podcasts/PFA.jpg" class="full-width" /></th>
 <td style="width:75%;">

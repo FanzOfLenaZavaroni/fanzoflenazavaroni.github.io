@@ -19,9 +19,9 @@ last_modified_at: 16 December 2023
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th>InfoBox: Clipping From The Article</th></tr>
+<tr id="infobox1"><th>Clipping From The Article</th></tr>
 <tr><th><img src="/assets/images/newspapers/1989-12-17-the-People.jpg" class="full-width"></th></tr>
-<tr id="infobox2" class="split"><th>InfoBox: Typed Copy Of The Article</th></tr>
+<tr id="infobox2" class="split"><th>Typed Copy Of The Article</th></tr>
 <tr><td><blockquote>
 <p>SINGER Lena Zavaroni faced double heartache last night as she arrived in Scotland for the funeral of her mother.</p>
 <p>For her family claimed that Lena's happy wedding two months ago triggered off a fit of depression in her 47-year-old mother Hilda, found dead on Friday from a massive drug overdose.</p>

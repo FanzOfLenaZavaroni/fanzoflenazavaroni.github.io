@@ -22,7 +22,7 @@ last_modified_at: 1 January 2024
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="2">InfoBox: Somewhere South Of Macon - Promo - Side A</th></tr>
+<tr id="infobox1"><th colspan="2">Somewhere South Of Macon - Promo - Side A</th></tr>
 <tr><th style="width:50%;">Artist:</th><td style="width:50%;">Lena Zavaroni</td></tr>
 <tr><th>A side:</th><td>Somewhere South Of Macon</td></tr>
 <tr><th>Composer:</th><td>J. A. Rushing, M. Chapman</td></tr>
@@ -33,7 +33,7 @@ last_modified_at: 1 January 2024
 
 <figure class="fig3">
 <table>
-<tr id="infobox2"><th colspan="2">InfoBox: Somewhere South Of Macon - Promo - Side B</th></tr>
+<tr id="infobox2"><th colspan="2">Somewhere South Of Macon - Promo - Side B</th></tr>
 <tr><th style="width:50%;">Composer:</th><td style="width:50%;">C. Stutz, E. Lindeman</td></tr>
 <tr><th>Producer:</th><td>Tommy Scott</td></tr>
 <tr><th>Arranger:</th><td>Arthur Greenslade</td></tr>
@@ -42,7 +42,7 @@ last_modified_at: 1 January 2024
 
 <figure class="fig3">
 <table>
-<tr id="infobox3"><th colspan="3">InfoBox: Somewhere South Of Macon - Promo - Details</th></tr>
+<tr id="infobox3"><th colspan="3">Somewhere South Of Macon - Promo - Details</th></tr>
 <tr><th colspan="2">Label:</th><td>President - GY 160</td></tr>
 <tr><th colspan="2" style="width:50%;">Format:</th><td colspan="2" style="width:50%;">Promo Only 7" Vinyl, 45 Single</td></tr>
 <tr><th colspan="2">Country:</th><td>UK</td></tr>

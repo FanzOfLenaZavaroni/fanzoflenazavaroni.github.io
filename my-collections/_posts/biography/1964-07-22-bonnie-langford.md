@@ -15,7 +15,7 @@ last_modified_at: 23 December 2023
 
 <figure class="fig3">
 <table>
-<tr><th colspan="3">InfoBox: Bonnie Langford</th></tr>
+<tr><th colspan="3">Bonnie Langford</th></tr>
 <tr>
 <th rowspan="6" class="top"><a href="/assets/images/bonnie/BL-01.png"><img src="/assets/images/bonnie/BL-01.png" class="full-width zoom-in" /></a></th>
 </tr>
