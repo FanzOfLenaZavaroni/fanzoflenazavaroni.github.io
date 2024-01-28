@@ -11,12 +11,14 @@ last_modified_at: 1 January 2024
 
 <figure class="fig1">
 <a href="/assets/images/magazines/1974-02-02-01-record-&-radio-mirror.png"><img src="/assets/images/magazines/1974-02-02-01-record-&-radio-mirror.png" class="full-width zoom-in" /></a>
-<cite>Record and Radio Mirror - 2 February 1976, <a class="external-link" href="https://www.worldradiohistory.com/UK/Record-Mirror/70s/74/Record-Mirror-1974-02-02.pdf">Page 1 of PDF</a></cite>
+<cite class="whitespace">Record and Radio Mirror - 2 February 1976,
+<a class="external-link" href="https://www.worldradiohistory.com/UK/Record-Mirror/70s/74/Record-Mirror-1974-02-02.pdf">Page 1 of PDF</a></cite>
 </figure>
 
 <figure class="fig2">
 <a href="/assets/images/magazines/1974-02-02-15-record-&-radio-mirror.png"><img src="/assets/images/magazines/1974-02-02-15-record-&-radio-mirror.png" class="full-width zoom-in" /></a>
-<cite>Record and Radio Mirror - 2 February 1976, <a class="external-link" href="https://www.worldradiohistory.com/UK/Record-Mirror/70s/74/Record-Mirror-1974-02-02.pdf#page=15">Page 15 of PDF</a></cite>
+<cite class="whitespace">Record and Radio Mirror - 2 February 1976,
+<a class="external-link" href="https://www.worldradiohistory.com/UK/Record-Mirror/70s/74/Record-Mirror-1974-02-02.pdf#page=15">Page 15 of PDF</a></cite>
 </figure>
 
 {: .clear}
