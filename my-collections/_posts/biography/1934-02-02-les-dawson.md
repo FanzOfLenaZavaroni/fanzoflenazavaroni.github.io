@@ -15,35 +15,40 @@ last_modified_at: 23 December 2023
 
 <figure class="fig3">
 <table>
-<tr><th colspan="3">Les Dawson</th></tr>
-<tr>
-<th rowspan="7" class="top"><img src="/assets/images/on-this-day/les-dawson.webp" class="full-width" /></th>
-</tr>
-<tr><th style="width:20%;">Birth name</th><td>Leslie Dawson</td></tr>
-<tr><th>Born</th><td>2 February 1934</td></tr>
-<tr><th>Origin</th><td>Collyhurst, Manchester, England</td></tr>
-<tr><th>Died</th><td>10 June 1993 (aged 59)<br />Whalley Range, Manchester, England</td></tr>
-<tr><th>Genres</th><td>Musical theatre</td></tr>
-<tr><th>Occupation</th><td>Comedian, Actor, Writer, and Presenter</td></tr>
-<tr class="split"><th></th><th>Wikipedia</th><td><a class="external-link" href="https://en.wikipedia.org/wiki/Les_Dawson">Les Dawson</a></td></tr>
+<tr id="infobox1"><th>Les Dawson</th><th colspan="2">Birth name</th></tr>
+<tr class="top"><th rowspan="12" style="width:50%;">
+<a href="/assets/images/on-this-day/les-dawson.webp"><img src="/assets/images/on-this-day/les-dawson.webp" class="full-width zoom-in" /></a>
+<cite>Les Dawson</cite>
+</th></tr>
+<tr><td>Leslie Dawson</td></tr>
+<tr><th>Born</th></tr>
+<tr><td>2 February 1934</td></tr>
+<tr><th>Origin</th></tr>
+<tr><td>Collyhurst, Manchester, England</td></tr>
+<tr><th>Died</th></tr>
+<tr><td class="whitespace">10 June 1993 (aged 59)
+Whalley Range, Manchester, England</td></tr>
+<tr><th>Genres</th></tr>
+<tr><td>Musical theatre</td></tr>
+<tr><th>Occupation</th></tr>
+<tr><td>Comedian, Actor, Writer, and Presenter</td></tr>
+<tr class="split" id="infobox2"><th>Wikipedia</th><td><a class="external-link" href="https://en.wikipedia.org/wiki/Les_Dawson">Les Dawson</a></td></tr>
+<tr class="split" id="infobox3"><th colspan="2">Like Lena Zavaroni his carrer took off after appearing on Opportunity Knocks (circa 1967)</th></tr>
+<tr><td colspan="2">
+<ul>
+<li>&#8212;&#8212;&#58; <a href="/1978-03-20-opportunity-knocks">1978-03-20 - Opportunity Knocks - Episode 18.27</a> - Lena and Les Dawson were both in the final.</li>
+<li>&#8212;&#8212;&#58; <a href="/1980-06-04-lena">1980-06-04 - Lena - Episode 1.6</a> - Les Dawson was a guest on the Show.</li>
+<li>&#8212;&#8212;&#58; <a href="/1982-02-13-the-les-dawson-show">1982-02-13 - The Les Dawson Show - Episode 2.3</a> - Lena was a guest on the show.</li>
+<li>&#8212;&#8212;&#58; <a href="/1984-12-31-a-century-of-stars">1984-12-31 - A Century of Stars</a> - Les Dawson was an On-Screen-Participant, while Lena's appreance was Prerecorded.</li>
+<li>&#8212;&#8212;&#58; <a href="/1987-09-18-blankety-blank">1987-09-18 - Blankety Blank - Episode 10.1</a> - Lena was a guest on the show Les Dawson was the presenter.</li>
+</ul>
+</td></tr>
 </table>
 </figure>
 
 <br />{: .clear}
 
-> {{ post.description }}
-
-<p>Like Lena Zavaroni his carrer took off after appearing on Opportunity Knocks (<i>circa 1967</i>).</p>
-
-* [1978-03-20 - Opportunity Knocks - Episode 18.27](/1978-03-20-opportunity-knocks) - Lena and Les Dawson were both in the final.
-* [1980-06-04 - Lena - Episode 1.6](/1980-06-04-lena) - Les Dawson was a guest on the Show.
-* [1982-02-13 - The Les Dawson Show - Episode 2.3](/1982-02-13-the-les-dawson-show) - Lena was a guest on the show.
-* [1984-12-31 - A Century of Stars](/1984-12-31-a-century-of-stars) - Les Dawson was an On-Screen-Participant, while Lena's appreance was Prerecorded.
-* [1987-09-18 - Blankety Blank - Episode 10.1](/1987-09-18-blankety-blank) - Lena was a guest on the show Les Dawson was the presenter.
-
-<br />{: .clear}
-
 <style>
-@media screen and (orientation:portrait) {.top {vertical-align:top;}}
+#infobox2, #infobox3 {scroll-margin-top: -3px;}
 </style>
 
