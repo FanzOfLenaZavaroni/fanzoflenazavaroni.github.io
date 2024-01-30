@@ -5,12 +5,11 @@ maintitle: Stars In Their Eyes
 subtitle: Tyne Tees Television
 before: "Broadcast On "
 after: " Repeated on 26 December 1979"
-description: Documentary which follows the lives of various members of the Italia Conti stage school, including Lena Zavaroni and Bonnie Langford.
-media: Tyne Tees Television
-post_description: Documentary which follows the lives of various members of the Italia Conti stage school, including Lena Zavaroni and Bonnie Langford.
+description: Ruth Davies, 13, is a pupil at Italia Conti Stage School in London a school that specialises in the stars of the future. Ruth's classmates include Bonnie Langford and Lena Zavaroni...
+post_description: Ruth Davies, 13, is a pupil at Italia Conti Stage School in London a school that specialises in the stars of the future. Ruth's classmates include Bonnie Langford and Lena Zavaroni...
 image: /assets/images/ITV/Stars-In-Their-Eyes.jpg
 categories: [Tyne-Tees-Television, Ruth-Davies, Lena-Zavaroni, Bonnie-Langford, OnThisDay31January, Repeat26December]
-last_modified_at: 23 December 2023
+last_modified_at: 30January 2024
 ---
 
 <table>
