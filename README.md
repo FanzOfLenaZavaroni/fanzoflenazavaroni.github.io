@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1976-03-10-meeting-with-cindy-and-bert-newspaper-clipping.png …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6dd60b8ca80ea833ed3d511b236f1ca717c76436)
-- [Update 1975-02-01-meeting-with-cindy-and-bert-newspaper-clipping.png,…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8993dba7a400509e7643c4426083d20045a03174)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1bf4ae667eb42c0d1c9bc0e51513536b862ea1df)
-- [Update 2019-03-30-only-a-cover-song-episode-203-scots-do-the-beatles.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5689ef026a9744cf7d0b8a5920d1e0cd9aa3208d)
-- [Update 1985-12-22-the-people.md, 1989-12-17-the-people.md, and 38 mor…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e94814c137c0822bfc77b6d8a6e88528f7f26df4)
+- [Update 1964-07-22-bonnie-langford.md and 2023-05-21-dougie-squires.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4d54530cc7e5acc3890e072a6f94cb642b345205)
+- [Update biographies.md, 1916-12-04-harold-fielding.md, and 4 more file…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d58150dbfd89bc3645af0cba01379b3f4caec8f4)
+- [Update 1979-01-31-stars-in-their-eyes.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d8577c6dd4557507eb61767e65bde9b5ac40f182)
+- [Update 1974-10-08-limburgs-dagblads-fp.png, 1974-10-08-limburgs-dagbl…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8aa8647e8e76229407f161ff87a6b88f1bad1008)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a58250eb4534a784f07773e989d373fb2a64071f)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
