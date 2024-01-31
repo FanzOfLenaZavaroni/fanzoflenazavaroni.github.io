@@ -8,8 +8,15 @@ post_description: 1932 - 21 May  2023
 image: /assets/images/newspapers/dougie-squires.jpg
 image-caption: Dougie Squires
 categories: [Biography, Dougie-Squires, OnThisDay23May]
-last_modified_at: 30 January 2024
+last_modified_at: 31 January 2024
 ---
+
+<figure class="fig3">
+<table style="text-align:center;">
+<tr><th colspan="3">Jump To</th></tr>
+<tr><td style="width:33.33%;"><a href="#infobox1">Dougie Squires</a></td><td style="width:33.33%;"><a href="#infobox2">Very Short Bio</a></td><td style="width:33.33%;"><a href="#infobox3">Contributed To</a></td></tr>
+</table>
+</figure>
 
 <figure class="fig3">
 <table>
@@ -27,17 +34,19 @@ last_modified_at: 30 January 2024
 <tr><td>21 May 2023 (aged 91) <span class="up">&#8594;</span> <a class="external-link" href="https://www.theboltonnews.co.uk/news/national/23540053.creator-young-generation-dance-group-dougie-squires-dies-age-91/">The Bolton News</a></td></tr>
 <tr><th>Occupation</th></tr>
 <tr><td>Choreographer</td></tr>
-<tr id="infobox2" class="split"><th colspan="2">Details</th></tr>
+<tr id="infobox2" class="split"><th colspan="2">Very Short Bio</th></tr>
 <tr><td colspan="2">
 <p><strong>Douglas William Squires</strong> OBE MVO (1932 – 21 May 2023) was an English choreographer, known best for his work in television from the mid-1950s. He was born in Nottingham.</p>
 <cite><a class="external-link" href="https://en.wikipedia.org/wiki/Dougie_Squires">Wikipedia</a></cite>
 </td></tr>
-<tr id="infobox3"><th colspan="2" class="split" style="text-align:center;">Shows related to Lena Zavaroni that Dougie Squires contributed to</th></tr>
-<tr><td colspan="2"><a href="/categories/#Hi!-Summer">1977-07-17 to 1977-09-04 Hi! Summer</a></td></tr>
-<tr><td colspan="2"><a href="/1978-09-06-on-broadway-with-lena-zavaroni">1978-09-06 - On Broadway with Lena Zavaroni</a></td></tr>
-<tr><td colspan="2"><a href="/category/lena-zavaroni-and-music">1979-04-01 to 1979-06-27 - Lena Zavaroni and Music</a></td></tr>
-<tr><td colspan="2"><a href="/1982-08-03-the-lena-zavaroni-show/">1982-08-03 - The Lena Zavaroni Show at the White Rock Pavilion, Hastings</a></td></tr>
-<tr><td colspan="2"><strong>Note:</strong> This list is far from complete</td></tr>
+<tr id="infobox3"><th colspan="2" class="split">Shows related to Lena Zavaroni that Dougie Squires contributed to</th></tr>
+<tr><td colspan="2"><ul>
+<li>&#8212;&#8212;&#58; <a href="/1978-09-06-on-broadway-with-lena-zavaroni">1978-09-06 - On Broadway with Lena Zavaroni</a></li>
+<li>&#8212;&#8212;&#58; <a href="/category/lena-zavaroni-and-music">1979-04-01 to 1979-06-27 - Lena Zavaroni and Music</a></li>
+<li>&#8212;&#8212;&#58; <a href="/1982-08-03-the-lena-zavaroni-show/">1982-08-03 - The Lena Zavaroni Show at the White Rock Pavilion, Hastings</a></li>
+</ul>
+<strong>Note:</strong> This list is far from complete
+</td></tr>
 </table>
 </figure>
 
