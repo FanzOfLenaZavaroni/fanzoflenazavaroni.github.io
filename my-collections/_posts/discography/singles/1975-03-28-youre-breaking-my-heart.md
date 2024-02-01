@@ -17,11 +17,11 @@ permalink: /discography/singles/:name
 <figcaption>
 <table>
 <tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
-<tr class="split"><th>A side:</th><td>You're Breaking My Heart</td></tr>
+<tr id="infobox1" class="split"><th>A side:</th><td>You're Breaking My Heart</td></tr>
 <tr><th>Composer:</th><td>Genara, Skylar</td></tr>
 <tr><th>Producer:</th><td>John Franz</td></tr>
 <tr><th>Arranger:</th><td>Peter Knight</td></tr>
-<tr class="split"><th>B side:</th><td>You're Never Too Old</td></tr>
+<tr id="infobox2" class="split"><th>B side:</th><td>You're Never Too Old</td></tr>
 <tr><th>Composer:</th><td>Franz, Blackburn</td></tr>
 <tr><th>Producer:</th><td>John Franz</td></tr>
 <tr><th>Arranger:</th><td>Peter Knight</td></tr>
@@ -35,21 +35,4 @@ permalink: /discography/singles/:name
 </figure>
 
 <br />{: .clear}
-
-<style>
-.split {border-top: solid 5px #4B90B1;}
-
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:left; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 

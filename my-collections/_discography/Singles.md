@@ -29,13 +29,14 @@ last_modified_at: 25 January 2024
 
 <strong>(You've Got) Personality</strong>
 <ul>
-<li><a href="/discography/singles/1974-05-24-personality">1974 &#8212; UK Release</a></li>
+<li><a href="/discography/singles/1974-05-24-personality-uk">1974 &#8212; UK Release</a></li>
 </ul>
 
 <strong>Music Music Music</strong>
 <ul>
-<li>1974 &#8212; UK Release</li>
+<li>1974 &#8212; UK Release - coming soon!</li>
 <li><a href="/discography/singles/1974-music-music-music">1974 &#8212; German Release</a></li>
+<li>1974 &#8212; New Zealand Release - coming soon! link to <a class="exteranl-link" href="https://www.45cat.com/record/6006443nz">45cat</a></li>
 </ul>
 
 
