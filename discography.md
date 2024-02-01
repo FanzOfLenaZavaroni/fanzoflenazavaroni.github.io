@@ -15,7 +15,7 @@ maintitle: Discography+
 </div>
 
 <div>
-<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-germany.jpg" class="full-width" />
+<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-france-fc.jpg" class="full-width" />
 </div>
 
 <div>
