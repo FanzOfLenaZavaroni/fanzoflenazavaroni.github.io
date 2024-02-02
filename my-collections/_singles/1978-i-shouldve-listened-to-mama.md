@@ -7,7 +7,7 @@ subtitle: Lena Zavaroni's Eighth Single
 description: Eighth single by Lena Zavaroni
 post_description: 
 image: /assets/images/singles/
-categories: [Discography, Singles]
+categories: [Discography, Singles, Mike-Hurst]
 last_modified_at: 23 December 2023
 ---
 
