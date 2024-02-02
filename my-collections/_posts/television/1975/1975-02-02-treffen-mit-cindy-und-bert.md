@@ -15,7 +15,7 @@ last_modified_at: 29 January 2024
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="3">DUITSLAND I - KANALEN 9, 24 en 41.</th></tr>
+<tr id="infobox1"><th>DUITSLAND I - KANALEN 9, 24 en 41.</th><th colspan="2">Dutch</th></tr>
 <tr><th>Limburgs Dagblads - 1 Februari 1975</th><th colspan="2">Ontmoeting met Cindy und Bert</th></tr>
 <tr>
 <th rowspan="7" class="top" style="width:50%;"><a href="/assets/images/german-tv/1975-02-01-meeting-with-cindy-and-bert-newspaper-clipping.png"><img src="/assets/images/german-tv/1975-02-01-meeting-with-cindy-and-bert-newspaper-clipping.png" class="full-width zoom-in" /></a><cite>Clipping copied from the following <a class="external-link" href="https://archive.org/details/LimburgsDagblad19701995_part3/ddd%3A010560730%3Ampeg21/page/7/mode/1up">PDF</a></cite></th>
@@ -24,7 +24,7 @@ last_modified_at: 29 January 2024
 <tr><th>Gastvrouw</th><td>Jutta Gusenburger (Cindy)</td></tr>
 <tr><th>Gastheer</th><td>Norbert Berger (Bert)</td></tr>
 <tr><th>Gast</th><td>Gast Donna Hightower (Amerikaanse R&B, soul en jazzzanger en songwriter)</td></tr>
-<tr><th>Gast</th><td><span style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni</span> (Schottischer Sänger)</td></tr>
+<tr><th>Gast</th><td><span style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni</span> (Schotse Zanger)</td></tr>
 <tr><th>Gast</th><td>Freddy Breck (Duitse popzanger, componist, producer)</td></tr>
 <tr id="infobox2"><th colspan="3">Translation of related section of Limburgs Dagblads - 1 Februari 1975</th></tr>
 <tr><td colspan="3">
@@ -36,7 +36,7 @@ last_modified_at: 29 January 2024
 
 <figure class="fig3">
 <table>
-<tr id="infobox3"><th colspan="3">GERMANY I - CHANNELS 9, 24 and 41.</th></tr>
+<tr id="infobox3"><th>GERMANY I - CHANNELS 9, 24 and 41.</th><th colspan="2">English</th></tr>
 <tr><th>Limburgs Dagblads - 10 maart 1976</th><th colspan="2">Meeting with Cindy and Bert</th></tr>
 <tr>
 <th rowspan="7" class="top" style="width:50%;">
@@ -47,7 +47,7 @@ last_modified_at: 29 January 2024
 <tr><th>Hostess</th><td>Jutta Gusenburger (Cindy)</td></tr>
 <tr><th>Host</th><td>Norbert Berger (Bert)</td></tr>
 <tr><th>Guest</th><td>Donna Hightower (American R&B, soul and jazz singer and songwriter)</td></tr>
-<tr><th>Guest</th><td><span style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni</span> (Schotse zanger)</td></tr>
+<tr><th>Guest</th><td><span style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni</span> (Scottish Singer)</td></tr>
 <tr><th>Guest</th><td>Freddy Breck (German Pop singer, composer, record producer)</td></tr>
 <tr id="infobox4"><th colspan="3">Translation of related section of Limburgs Dagblads - 10 maart 1976</th></tr>
 <tr><td colspan="3">
