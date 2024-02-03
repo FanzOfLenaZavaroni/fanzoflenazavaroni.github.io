@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1964-07-22-bonnie-langford.md and 2023-05-21-dougie-squires.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4d54530cc7e5acc3890e072a6f94cb642b345205)
-- [Update biographies.md, 1916-12-04-harold-fielding.md, and 4 more file…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d58150dbfd89bc3645af0cba01379b3f4caec8f4)
-- [Update 1979-01-31-stars-in-their-eyes.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d8577c6dd4557507eb61767e65bde9b5ac40f182)
-- [Update 1974-10-08-limburgs-dagblads-fp.png, 1974-10-08-limburgs-dagbl…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8aa8647e8e76229407f161ff87a6b88f1bad1008)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a58250eb4534a784f07773e989d373fb2a64071f)
+- [Update 1978-02-04-our-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8e7b0c1cbe468cc8ca52428305ee0c5efe775e31)
+- [Update 1974-02-11-fc-cash-box.png, 1974-02-11-page-45-cash-box.png, a…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/84fc07ac5ada5197c6388a3431195240c6d472ac)
+- [Update 1979-02-08-the-stage-and-television-today-page-10-cropped-01.p…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/24fdca7a2681f8fdf8fdb43693ce0d1d5d466790)
+- [Update 1975-02-02-treffen-mit-cindy-und-bert.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3e84328eb1b277cf4484b54af7342df93ed7769d)
+- [Update Singles.md, 1974-05-24-personality-uk.md, and 2 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/369197e3299cec02c3b41bf6561ed91094ea1656)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
