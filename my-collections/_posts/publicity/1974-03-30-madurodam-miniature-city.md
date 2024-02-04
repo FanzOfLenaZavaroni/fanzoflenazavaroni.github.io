@@ -75,7 +75,7 @@ categories: [Publicity, OnThisDay30March]
 
 <p>This is why all visitors should take all details with a pinch of salt.</p>
 
-<p>I hope visitors will read the comments below where links to the Dutch newspapers provide By StephenMolloy1 of <a href="/research#l">Loving Lena Zavaroni</a> add to the evendance that the 30 March 1974 is the correct date for when Lena visited the Madurodam Miniature City.</p>
+<p>I hope visitors will read the comments below where links to the Dutch newspapers provide By StephenMolloy1 of Loving Lena Zavaroni add to the evendance that the 30 March 1974 is the correct date for when Lena visited the Madurodam Miniature City.</p>
 </figure>
 
 <br />{: .clear}

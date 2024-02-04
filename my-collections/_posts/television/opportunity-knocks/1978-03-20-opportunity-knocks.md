@@ -6,7 +6,7 @@ subtitle: Final broadcast of the much loved show
 description: Final broadcast of the much loved show that was the starting block for so many stars.
 post_description: Final broadcast of the much loved show that was the starting block for so many stars.
 image: /assets/images/ITV/gettyimages-544761065-612x612.jpg
-categories: [Thames-Television, Opportunity-Knocks, Hughie-Green, OnThisDay20March]
+categories: [Thames-Television, Opportunity-Knocks, Hughie-Green, Les-Dawson, OnThisDay20March]
 last_modified_at: 13 January 2024
 ---
 
