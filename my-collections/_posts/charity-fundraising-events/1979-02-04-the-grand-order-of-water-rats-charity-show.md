@@ -24,3 +24,7 @@ last_modified_at: 4 February 2024
 
 <br />{: .clear}
 
+<style>
+#infobox2 {scroll-margin-top: -3px;}
+</style>
+
