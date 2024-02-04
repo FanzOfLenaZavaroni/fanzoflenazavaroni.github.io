@@ -7,7 +7,7 @@ description: Lena Zavaroni was one of the Panellist on Blankety Blank.
 media: Details
 post_description: Lena Zavaroni was one of the Panellist on Blankety Blank.
 image: /assets/images/BBC/1987-09-18-blankety-blank.jpg
-categories: [BBC-One, OnThisDay18September]
+categories: [BBC-One, Les-Dawson, OnThisDay18September]
 ---
 
 <figure class="fig1">
