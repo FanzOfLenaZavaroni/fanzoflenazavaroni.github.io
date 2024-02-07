@@ -10,7 +10,7 @@ categories: [Deleted-Online-Articles, OnThisDay14February]
 
 <p><strong>NOTE:</strong></p>
 
-<p>The Article is no longer available on drsallybaker.com, which is why I have published it in full here. I personally consider it a very important work and hope Lena Zavaroni fans will not just jump to small section in which she is reference which is why I have not added a "Jump To" menu or underlined her name which I do on some posts.</p>
+<p>The Article is no longer available on drsallybaker.com, which is why I have published it in full here. I personally consider it a very important work and hope Lena Zavaroni fans will not just jump to the small section in which she is reference which is why I have not added a "Jump To" menu or underlined her name which I do on some posts.</p>
 
 <p>It should go without saying That if requested by the copyright holder I will take this down.</p>
 
