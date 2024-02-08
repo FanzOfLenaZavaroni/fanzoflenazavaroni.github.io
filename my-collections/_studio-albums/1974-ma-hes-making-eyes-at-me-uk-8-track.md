@@ -59,7 +59,7 @@ last_modified_at: 17 November 2023
 
 <figure class="fig3">
 <h3 id="tracks"><a href="#tracks">Track Order</a></h3>
-<blockquote>I believe the reason for the change in the track order compared to the Vinyl and Cassette versions of the ablum is due to the need to fit each song based on its length into the space available on each of the 4 tracks of the 8-Track Cartridge.</blockquote>
+<blockquote>The reason for the change in the track order compared to the Vinyl and Cassette versions of the ablum is due to the need to fit each song based on its length into the space available on each of the 4 tracks of the 8-Track Cartridge.</blockquote>
 <cite>Robcamstone</cite>
 </figure>
 
