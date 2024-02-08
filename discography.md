@@ -2,9 +2,11 @@
 layout: post-no-comments
 title: Discography+
 maintitle: Discography+
+last_modified_at: 8 February 2024
 ---
 
 <figure class="fig1">
+<h3>Covers</h3>
 <div id="slideshow">
  <div>
 <img src="/assets/images/albums/1976-lena-zavaroni-ma-hes-making-eyes-at-me-pickwick.jpg" class="full-width" /> 
@@ -45,7 +47,7 @@ maintitle: Discography+
 </figure>
 
 <figure class="fig2">
-<h3 class="adjust">Discography</h3>
+<h3>Discography</h3>
 <ul>
 <li><a href="/discography/studio-albums">Studio Albums</a></li>
 <li><a href="/discography/compilation-albums">Compilation Albums</a></li>
@@ -63,10 +65,8 @@ maintitle: Discography+
 </figure>
 
 <style>
-.adjust {margin-top:0 !important;}
-
 #slideshow {
-margin: 50px auto;
+margin: 0 auto;
 position: relative;
 aspect-ratio:1/1;
 width: 90%;
@@ -81,10 +81,6 @@ left: 10px;
 right: 10px;
 bottom: 10px;
 }
-
-.fig2 {margin-top:45px;}
-
-@media screen and (orientation:portrait) {.fig2 {margin-top:-50px;} .adjust {margin-top:30px !important;}}
 </style>
 
 <script type="text/javascript" src="/assets/js/jquery-3.6.0.min.js"></script>
