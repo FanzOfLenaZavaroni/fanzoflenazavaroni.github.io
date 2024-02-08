@@ -91,7 +91,6 @@ last_modified_at: 8 February 2024
 
 <style>
 #infobox2, #infobox3, #infobox4, #infobox5, #infobox6 {scroll-margin-top: -3px;}
-.adjust {margin-top:0 !important;}
 
 #slideshow {
 margin: 0 auto;
@@ -102,6 +101,8 @@ padding: 10px;
 box-shadow: 0 0 20px rgba(0,0,0,0.4);
 }
 
+@media screen and (orientation:portrait) {#slideshow {aspect-ratio:1/1.55;}}
+
 #slideshow > div {
 position: absolute;
 top: 10px;
@@ -109,10 +110,6 @@ left: 10px;
 right: 10px;
 bottom: 10px;
 }
-
-.fig2 {margin-top:45px;}
-
-@media screen and (orientation:portrait) {.fig2 {margin-top:-50px;} .adjust {margin-top:30px !important;}}
 </style>
 
 <script type="text/javascript" src="/assets/js/jquery-3.6.0.min.js"></script>
