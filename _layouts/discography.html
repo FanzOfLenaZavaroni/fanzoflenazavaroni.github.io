@@ -8,8 +8,11 @@ layout: default
     <h1 class="post-title p-name" itemprop="name headline" id="{{ page.maintitle | escape }}"><a href="#{{ page.maintitle | escape }}">{{ page.maintitle }}</a></h1>
     <h2>{{ page.subtitle }}</h2>
     <p class="post-meta">
-      {%- if page.more -%}
-       <span itemprop="more" itemscope itemtype="http://schema.org/Person"><span class="p-more h-card" itemprop="name">{{ page.more }}</span></span>
+      {%- if page.before -%}
+       <span itemprop="before" itemscope itemtype="http://schema.org/Person"><span class="p-before h-card" itemprop="name">{{ page.before }}</span></span>
+      {%- endif -%}
+      {%- if page.after -%}
+       <span itemprop="after" itemscope itemtype="http://schema.org/Person"><span class="p-after h-card" itemprop="name">{{ page.after }}</span></span>
       {%- endif -%}</p>
   </header>
 
