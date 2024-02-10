@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1978-02-04-our-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8e7b0c1cbe468cc8ca52428305ee0c5efe775e31)
-- [Update 1974-02-11-fc-cash-box.png, 1974-02-11-page-45-cash-box.png, a…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/84fc07ac5ada5197c6388a3431195240c6d472ac)
-- [Update 1979-02-08-the-stage-and-television-today-page-10-cropped-01.p…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/24fdca7a2681f8fdf8fdb43693ce0d1d5d466790)
-- [Update 1975-02-02-treffen-mit-cindy-und-bert.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3e84328eb1b277cf4484b54af7342df93ed7769d)
-- [Update Singles.md, 1974-05-24-personality-uk.md, and 2 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/369197e3299cec02c3b41bf6561ed91094ea1656)
+- [Update 2004-02-10-trinity-news-two-fc.png, 2004-02-10-trinity-news-tw…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0faa489c68027168731851d8d168ed90668064c3)
+- [Update 1975-01-30-Atuagagdliutit-Grønlandsposten-header.png, 1975-01-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/af60ac2346c5a7cbef88a07d1dd84798c16153f6)
+- [Update 1975-02-09-all-star-gala-variety-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c3460ae9d0158606e8b02d69928e090f9885965c)
+- [Update 1978-05-14-sos-charity-variety-show.md and 1975-02-09-all-star…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fc7de56b8230f89f805295ddaaa4cecbdd8ffe5a)
+- [Update discography.md and 1974-alle-13-goed-deel-7-8-track.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/151ee1633218748b270b6f6866fa2b1b57a55bdf)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
