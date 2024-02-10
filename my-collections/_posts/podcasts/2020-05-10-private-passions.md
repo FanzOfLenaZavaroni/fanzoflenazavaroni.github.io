@@ -6,7 +6,7 @@ maintitle: BBC Radio 3 - Private Passions
 subtitle: Andrew O'Hagan
 description: Novelist and journalist Andrew O’Hagan talks to Michael Berkeley about the music that inspires his writing and his family life.
 post_description: Novelist and journalist Andrew O’Hagan talks to Michael Berkeley about the music that inspires his writing and his family life.
-categories: [BBC Radio 3, Podcasts, Private Passions, OnThisDay10May]
+categories: [BBC Radio 3, Podcasts, Private Passions, Andrew-O'Hagan, OnThisDay10May]
 permalink: /discography/podcasts/:name
 ---
 
