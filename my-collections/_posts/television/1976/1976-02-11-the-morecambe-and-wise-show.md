@@ -8,7 +8,7 @@ description: Lena appears in a comedy sketch with Eric and Ernie. She then perfo
 post_description: Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of These Days, before performing a song and dance version of Something Bout You Baby I Like with the duo.
 image: /assets/images/BBC-PIDs\p0417db6 - 768x432.jpg
 categories: [BBC-One, BBC-Two, Morecambe-And-Wise, OnThisDay11February, Repeat25October]
-last_modified_at: 23 December 2023
+last_modified_at: 11 February 2024
 ---
 
 <table>
@@ -17,9 +17,9 @@ last_modified_at: 23 December 2023
 </tr>
 
 <tr align="center">
-<td><a href="#infobox1">Screenshot 1 - Cast</a></td>
+<td><a href="#infobox1">Screenshot 1 & Cast</a></td>
 <td><a href="#infobox2">Details</a></td>
-<td><a href="#infobox3">Publicity Photo - Screenshot 2</a></td>
+<td><a href="#infobox3">Publicity Photo & Screenshot 2</a></td>
 <td><a href="#infobox4">Crew</a></td>
 </tr>
 <tr align="center"><th colspan="4">BBC Genome</th></tr>
@@ -67,7 +67,7 @@ last_modified_at: 23 December 2023
 <tr><th>Sound:</th><td colspan="3">Alan Machin</td></tr>
 <tr><th>Sound:</th><td colspan="3">Hugh Barker</td></tr>
 <tr><th>Lighting:</th><td colspan="3">Peter Wesson</td></tr>
-<tr><th>Production assistant:</th><td colspan="2">Bill Ersser</td></tr>
+<tr><th>Production assistant:</th><td colspan="3">Bill Ersser</td></tr>
 <tr><th>Designer:</th><td colspan="3">Victor Meredith</td></tr>
 <tr><th>Producer:</th><td colspan="3">Ernest Maxin</td></tr>
 <tr><th>Production company:</th><td colspan="3">BBC Television</td></tr>
