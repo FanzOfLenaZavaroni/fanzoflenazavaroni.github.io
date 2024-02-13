@@ -47,6 +47,6 @@ last_modified_at: 31 December 2023
 <br />{: .clear}
 
 <style>
-#infobox2 {scroll-margin-top: -3px;}
+#infobox2, #infobox3 {scroll-margin-top: -3px;}
 </style>
 
