@@ -28,13 +28,11 @@ categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay24March]
 
 <figure class="fig1">
 <h3 id="charts"><a href="#charts">UK Official Singles Chart</a></h3>
-<p><strong>Top 20:</strong> &nbsp; <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740317/7501/20">17 March 1974 - 23 March 1974</a></p>
-<p><strong>Top 40:</strong> &nbsp; <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740317/7501/40">17 March 1974 - 23 March 1974</a></p>
 <p><strong>Top 50:</strong> &nbsp; <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740317/7501/">17 March 1974 - 23 March 1974</a></p>
 <h3 id="positions"><a href="#positions">All the chart positions</a></h3>
 <p><strong>Via the discography section for the single:</strong></p>
 <ul>
-<li><a href="/discography/singles/1974-01-25-ma-hes-making-eyes-at-me#chart">Ma! (He’s Making Eyes At Me)</a></li>
+<li><a href="/discography/singles/1974-01-25-ma-hes-making-eyes-at-me-uk/#infobox4">Ma! (He’s Making Eyes At Me)</a></li>
 </ul>
 </figure>
 
