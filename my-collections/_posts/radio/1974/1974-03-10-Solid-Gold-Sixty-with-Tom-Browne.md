@@ -28,7 +28,6 @@ categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay10March]
 
 <figure class="fig1">
 <h3 id="charts"><a href="#charts">UK Official Singles Chart</a></h3>
-<p><strong>Top 40:</strong> &nbsp; <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740303/750140">3 March 1974 - 9 March 1974</a></p>
 <p><strong>Top 50:</strong> &nbsp; <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740303/7501">3 March 1974 - 9 March 1974</a></p>
 </figure>
 
