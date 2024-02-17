@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 2004-02-10-trinity-news-two-fc.png, 2004-02-10-trinity-news-tw…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0faa489c68027168731851d8d168ed90668064c3)
-- [Update 1975-01-30-Atuagagdliutit-Grønlandsposten-header.png, 1975-01-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/af60ac2346c5a7cbef88a07d1dd84798c16153f6)
-- [Update 1975-02-09-all-star-gala-variety-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c3460ae9d0158606e8b02d69928e090f9885965c)
-- [Update 1978-05-14-sos-charity-variety-show.md and 1975-02-09-all-star…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fc7de56b8230f89f805295ddaaa4cecbdd8ffe5a)
-- [Update discography.md and 1974-alle-13-goed-deel-7-8-track.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/151ee1633218748b270b6f6866fa2b1b57a55bdf)
+- [Update 1977-o-profeta-Internacional.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/527bf4874d1c21cb801678882e28e9bc873fe9ae)
+- [Update 1974-02-24-Solid-Gold-Sixty-with-Tom-Browne.md, 1974-03-03-Sol…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0a814325793b501751f699965ce97c0f33c114e1)
+- [Update 2021-04-29-two-hundred-percent.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/68fbdd9312a67c3e1fe569c5b319992f6b2d2b72)
+- [Update 1974-02-16-record-&amp;-radio-mirror.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/54f4b669360f684d1537acccf96f869d20a87ec0)
+- [Update 2021-04-29-two-hundred-percent.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/321dacfdd578e7ddc8653d9bb550525f74d7c499)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
