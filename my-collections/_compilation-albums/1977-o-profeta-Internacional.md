@@ -62,32 +62,3 @@ last_modified_at: 15 June 2023
 #infobox2, #infobox3 {scroll-margin-top: -3px;}
 </style>
 
-
-
-https://www.bing.com/search?q=on+which+episode+of+O+Profeta+was+Air+Love+played&form=QBLH&sp=-1&lq=0&pq=on+which+episode+of+o+profeta+was+air+love+played&sc=8-49&qs=n&sk=&cvid=C4B4B48EB1C9457E9292F4074DF84F3A&ghsh=0&ghacc=0&ghpl=
-
-According to my web search, Air Love is a song by the Brazilian singer **Tiago Iorc**, who also performed the theme song for the telenovela O Profeta¹. The song was played on the **last episode** of the show, which aired on May 11, 2007². O Profeta was a remake of the 1977 telenovela of the same name, and it tells the story of a young man who has visions of the future³. I hope this answers your question. 😊
-
-Source: Conversation with Bing, 17/02/2024
-(1) On Love by Kahlil Gibran | Poetry Foundation. https://www.poetryfoundation.org/poems/148579/on-love.
-(2) Translations of The Prophet - Wikipedia. https://en.wikipedia.org/wiki/Translations_of_The_Prophet.
-(3) O Profeta - Wikipedia. https://en.wikipedia.org/wiki/O_Profeta.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
