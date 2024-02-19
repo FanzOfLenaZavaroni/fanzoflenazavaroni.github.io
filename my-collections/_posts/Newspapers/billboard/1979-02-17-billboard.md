@@ -42,7 +42,10 @@ last_modified_at: 11 February 2024
 <li><a class="external-link" href="https://www.45cat.com/label/jonathan">Jonathan - Label Discography</a></li>
 <li><a class="external-link" href="https://www.45cat.com/label/atoll">Atoll - Label Discography</a></li>
 </ul>
-<p>Unconfirmed but my current research which is always on going suggest that nothing come of the plans for Lena to record for the record label Jonathan.</p>
+<strong>Currently only know of one single released on the Jonathan Label related to Lena</strong>
+<ul>
+<li><a href="/discography/singles/1978-i-shouldve-listened-to-mama-france">2S 008-16 617: Lena Zavaroni – I Should've Listened To Mama</a>.</li>
+</ul>
 </figure>
 
 <br />{: .clear}
