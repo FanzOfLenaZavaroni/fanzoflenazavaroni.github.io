@@ -5,7 +5,7 @@ maintitle: Singles
 subtitle: List of Singles by to Lena Zavaroni.
 description: List of Singles by to Lena Zavaroni.
 categories: [Discography]
-last_modified_at: 25 January 2024
+last_modified_at: 21 February 2024
 ---
 
 <strong>Ma! (He's Making Eyes At Me)</strong>
@@ -63,10 +63,10 @@ last_modified_at: 25 January 2024
 
 <strong>I Should've Listened To Mama</strong>
 <ul>
-<li><a href="/discography/singles/1978-i-shouldve-listened-to-mama-uk">1978 &#8212; 1978 &#8212; UK Release</a></li>
+<li><a href="/discography/singles/1978-i-shouldve-listened-to-mama-uk">1978 &#8212; UK Release</a></li>
 <li><a href="/discography/singles/1978-i-shouldve-listened-to-mama-france">1978 &#8212; France Release</a></li>
-<li>1978 &#8212; Germany Release - Comming Soon!</li>
-<li>1979 &#8212; Netherlands Release - Comming Soon!</li>
+<li><a href="/discography/singles/1978-i-shouldve-listened-to-mama-germany">1978 &#8212; Germany Release</a></li>
+<li><a href="/discography/singles/1979-i-shouldve-listened-to-mama-netherlands">1979 &#8212; Netherlands Release</a></li>
 </ul>
 
 <strong>Jump Down Jimmy</strong>

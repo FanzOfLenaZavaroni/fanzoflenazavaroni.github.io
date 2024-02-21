@@ -2,18 +2,17 @@
 layout: discography
 title: I Should've Listened To Mama
 maintitle: I Should've Listened To Mama
-subtitle: Lena Zavaroni's Eighth Single
+subtitle: Lena Zavaroni's Eighth UK Release
 description: Eighth single by Lena Zavaroni
-post_description: 
-image: /assets/images/singles/
+post_description: Eighth single by Lena Zavaroni
 categories: [Discography, Singles, Mike-Hurst]
-last_modified_at: 19 February 2024
+last_modified_at: 21 February 2024
 ---
 
 <figure class="fig3">
 <table style="text-align:center;">
-<tr><th colspan="2">View Details For Each Known Release</th><th colspan="2">To Be Added Soon!</th></tr>
-<tr><td style="width:25%;"><a href="/discography/singles/1978-i-shouldve-listened-to-mama-uk">UK Release &#x2714;</a></td><td style="width:25%;"><a href="/discography/singles/1978-i-shouldve-listened-to-mama-france">France Release</a></td><td style="width:25%;">Germany Release</td><td style="width:25%;">Netherlands Release</td></tr>
+<tr><th colspan="4">View Details For Each Known Release</th></tr>
+<tr><td style="width:25%;"><a href="/discography/singles/1978-i-shouldve-listened-to-mama-uk">UK Release &#x2714;</a></td><td style="width:25%;"><a href="/discography/singles/1978-i-shouldve-listened-to-mama-france">France Release</a></td><td style="width:25%;"><a href="/discography/singles/1978-i-shouldve-listened-to-mama-germany">Germany Release</a></td><td style="width:25%;"><a href="/discography/singles/1979-i-shouldve-listened-to-mama-netherlands">Netherlands Release</a></td></tr>
 </table>
 </figure>
 
