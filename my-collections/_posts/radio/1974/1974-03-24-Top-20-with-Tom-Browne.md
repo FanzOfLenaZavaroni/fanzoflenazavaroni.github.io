@@ -1,13 +1,24 @@
 ---
 layout: post
-last_modified_at: 15 June 2023
 title: Top 20 with Tom Browne &#124; 24 March 1974
 maintitle: Top 20 with Tom Browne
 subtitle: From today the Solid-Gold-Sixty AKA the Top 60 was dropped and only the Top 20 was broadcast by the BBC on Radio 1 Medium Wave & Radio 2 VHF
 description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved down the charts from number 14 to number 17.
 post_description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved down the charts from number 14 to number 17.
 categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay24March]
+last_modified_at: 23 February 2024
 ---
+
+<figure class="fig3">
+<table style="text-align:center;">
+<tr><th colspan="3">View Details For Each Episode featuring Lena Zavaroni</th></tr>
+<tr><td><a href="/1974-02-10-Solid-Gold-Sixty-with-Tom-Browne/">10 February 1974</a></td><td><a href="/1974-02-17-Solid-Gold-Sixty-with-Tom-Browne/">17 February 1974</a></td><td><a href="/1974-02-24-Solid-Gold-Sixty-with-Tom-Browne/">24 February 1974</a></td></tr>
+
+<tr><td><a href="/1974-03-03-Solid-Gold-Sixty-with-Tom-Browne/">3 March 1974</a></td><td><a href="/1974-03-10-Solid-Gold-Sixty-with-Tom-Browne/">10 March 1974</a></td><td><a href="/1974-03-17-Solid-Gold-Sixty-with-Tom-Browne/">17 March 1974</a></td></tr>
+<tr><th colspan="3">Top 20 with Tom Browne</th></tr>
+<tr><td colspan="3"><a href="/1974-03-24-Top-20-with-Tom-Browne">24 March 1974 &#x2714;</a></td></tr>
+</table>
+</figure>
 
 <p>As the BBC dropped the Top 60 it meant this was the last time we would hear Lena's single in their Sunday Charts show as while she would remain in the Top 60 for another 4 weeks her position in the charts would be outside of the Top 20.</p>
 <p><strong>{{ page.description }}</strong></p>

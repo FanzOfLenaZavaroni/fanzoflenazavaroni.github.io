@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Solid Gold Sixty with Tom Browne &#124; 24 February 1974
+title: Solid Gold Sixty with Tom Browne &#124; 17 February 1974
 maintitle: Solid Gold Sixty with Tom Browne
 subtitle: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the top 20)
-description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved up the charts from number 16 to number 13.
-post_description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved up the charts from number 16 to number 13.
-categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay24February]
+description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved up the charts from number 30 to number 16.
+post_description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved up the charts from number 30 to number 16.
+categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay17February]
 last_modified_at: 23 February 2024
 ---
 
 <figure class="fig3">
 <table style="text-align:center;">
 <tr><th colspan="3">View Details For Each Episode featuring Lena Zavaroni</th></tr>
-<tr><td><a href="/1974-02-10-Solid-Gold-Sixty-with-Tom-Browne/">10 February 1974</a></td><td><a href="/1974-02-17-Solid-Gold-Sixty-with-Tom-Browne/">17 February 1974</a></td><td><a href="/1974-02-24-Solid-Gold-Sixty-with-Tom-Browne/">24 February 1974 &#x2714;</a></td></tr>
+<tr><td><a href="/1974-02-10-Solid-Gold-Sixty-with-Tom-Browne/">10 February 1974</a></td><td><a href="/1974-02-17-Solid-Gold-Sixty-with-Tom-Browne/">17 February 1974 &#x2714;</a></td><td><a href="/1974-02-24-Solid-Gold-Sixty-with-Tom-Browne/">24 February 1974</a></td></tr>
 
 <tr><td><a href="/1974-03-03-Solid-Gold-Sixty-with-Tom-Browne/">3 March 1974</a></td><td><a href="/1974-03-10-Solid-Gold-Sixty-with-Tom-Browne/">10 March 1974</a></td><td><a href="/1974-03-17-Solid-Gold-Sixty-with-Tom-Browne/">17 March 1974</a></td></tr>
 <tr><th colspan="3">Top 20 with Tom Browne</th></tr>
@@ -32,42 +32,38 @@ last_modified_at: 23 February 2024
 <figure class="fig3">
 <table>
 <tr id="infobox1"><th colspan="2">Recording of the Top 20 section of the broadcast</th></tr>
-<tr><td colspan="2">
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fandyboyd%2Ftom-browne-uk-top-20-24-2-1974%2F" frameborder="0" ></iframe>
-<cite><a href="https://www.mixcloud.com/andyboyd">andyboyd</a></cite>
-</td></tr>
-<tr id="infobox2"><th colspan="2">BBC Radio 1: <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1974-02-24#at-16.00">Solid Gold Sixty with Tom Browne starts at 16:00hrs</a></th></tr>
+<tr><td colspan="2">Recording not available at this time!</td></tr>
+<tr id="infobox2"><th colspan="2">BBC Radio 1: <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1974-02-17#at-16.00">Solid Gold Sixty with Tom Browne starts at 16:00hrs</a></th></tr>
 <tr><td colspan="2">BBC Radio 1's first air date was on 30 September 1967 it was only transmitted on Medium Wave using amplitude modulation it would get an VHF channel that's rollout would start on 1 September 1988, starting with Central Scotland, the Midlands and the north of England.</td></tr>
 
-<tr id="infobox3"><th colspan="2">BBC Radio 2: <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio2/1974-02-24#at-18.00">The Top Twenty with Tom Browne starts at 18:00hrs</a></th></tr>
+<tr id="infobox3"><th colspan="2">BBC Radio 2: <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio2/1974-02-17#at-18.00">The Top Twenty with Tom Browne starts at 18:00hrs</a></th></tr>
 <tr><td colspan="2">BBC Radio 2's first air date was on 30 September 1967 it was a replacement for the Light Programme it was transmitter on VHF using frequency modulation in 1973 a subcarrier was added to the transmission which allowed the broadcasting of content in stereo.</td></tr>
 <tr id="infobox4"><th style="width:50%;">UK Official Singles Chart</th><th>Differences In Dates</th></tr>
 <tr>
 <td rowspan="3" class="top">
-<p><a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740217/7501">17 February 1974 - 23 February 1974</a></p>
+<p><a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740210/7501/">10 February 1974 - 16 February 1974</a></p>
 <ol reversed>
-<li>The Most Beautiful Girl - Charlie Rich</li>
-<li>Living For The City - Stevie Wonder</li>
-<li>Remember (Sha-La-La-La) - Bay City Rollers</li>
-<li>Dance With The Devil - Cozy Powell</li>
-<li>Teenage Dream - Marc Bolan & T.Rex</li>
-<li>You're Sixteen - Ringo Starr</li>
-<li>Never Never Gonna Give Ya Up - Barry White</li>
+<li>You Won't Find Another Fool Like Me Ft. Lyn Paul - The New Seekers</li>
+<li>Love's Theme - Love Unlimited Orchestra</li>
+<li>Forever - Roy Wood</li>
+<li>Radar Love - Golden Earring</li>
 <li style="text-decoration: underline dashed darkorange 3px;">Ma! (He's Making Eyes At Me) - Lena Zavaroni</li>
-<li>Rockin' Roll Baby - The Stylistics</li>
-<li>Teenage Rampage - The Sweet</li>
-<li>love's theme - love unlimited orchestra</li>
+<li>Living For The City - Stevie Wonder</li>
+<li>Love On A Mountain Top - Robert Knight</li>
+<li>Teenage Dream - Marc Bolan & T.Rex</li>
+<li>Teenage Lament '74 - Alice Cooper</li>
+<li>How Come? - Ronnie Lane & Slim Chance</li>
+<li>The Show Must Go On - Leo Sayer</li>
 <li>All Of My Life - Diana Ross</li>
-<li>The Air That I Breathe - The Hollies</li>
-<li>Solitaire - Andy Williams</li>
-<li>Rebel Rebel - David Bowie</li>
-<li>The Man Who Sold The World - Lulu</li>
+<li>Rockin' Roll Baby - The Stylistics</li>
 <li>Wombling Song - Wombles</li>
-<li>Jealous Mind - Alvin Stardust</li>
-<li>Tiger Feet - Mud</li>
+<li>Dance With The Devil - Cozy Powell</li>
+<li>Solitaire - Andy Williams</li>
+<li>Teenage Rampage - The Sweet</li>
+<li>The Man Who Sold The World - Lulu</li>
 <li>Devil Gate Drive - Suzi Quatro</li>
+<li>Tiger Feet - Mud</li>
 </ol>
-
 </td>
 <td class="top">
 <blockquote>
