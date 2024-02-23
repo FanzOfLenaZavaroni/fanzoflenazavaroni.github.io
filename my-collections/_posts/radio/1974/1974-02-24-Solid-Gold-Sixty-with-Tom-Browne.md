@@ -11,7 +11,7 @@ last_modified_at: 23 February 2024
 
 <figure class="fig3">
 <table style="text-align:center;">
-<tr><th colspan="3">View Details For Each Episode featuring Lena Zavaroni</th></tr>
+<tr><th colspan="3">View Details For Each Episode Featuring Ma! (He’s Making Eyes At Me) By Lena Zavaroni</th></tr>
 <tr><td><a href="/1974-02-10-Solid-Gold-Sixty-with-Tom-Browne/">10 February 1974</a></td><td><a href="/1974-02-17-Solid-Gold-Sixty-with-Tom-Browne/">17 February 1974</a></td><td><a href="/1974-02-24-Solid-Gold-Sixty-with-Tom-Browne/">24 February 1974 &#x2714;</a></td></tr>
 
 <tr><td><a href="/1974-03-03-Solid-Gold-Sixty-with-Tom-Browne/">3 March 1974</a></td><td><a href="/1974-03-10-Solid-Gold-Sixty-with-Tom-Browne/">10 March 1974</a></td><td><a href="/1974-03-17-Solid-Gold-Sixty-with-Tom-Browne/">17 March 1974</a></td></tr>
