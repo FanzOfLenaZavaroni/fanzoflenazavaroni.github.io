@@ -6,7 +6,7 @@ subtitle: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the 
 description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved down the charts from number 10 to number 13.
 post_description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved down the charts from number 10 to number 13.
 categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay10March]
-last_modified_at: 23 February 2024
+last_modified_at: 24 February 2024
 ---
 
 <figure class="fig3">
@@ -22,51 +22,57 @@ last_modified_at: 23 February 2024
 
 <strong>{{ page.description }}</strong>
 
-<figure class="fig1">
-<h3 id="radio-1"><a href="#radio-1">BBC Radio 1</a></h3>
-<p><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1974-03-03#at-16.00">The 60 top records of today starts at 16:00hrs</a></p>
-</figure>
+<figure class="fig3">
+<table>
+<tr id="infobox1"><th colspan="2">Recording of the Top 20 section of the broadcast</th></tr>
+<tr><td colspan="2">Recording not available at this time!</td></tr>
+<tr id="infobox2"><th colspan="2">BBC Radio 1: <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1974-03-10#at-16.00">Solid Gold Sixty with Tom Browne starts at 16:00hrs</a></th></tr>
+<tr><td colspan="2">BBC Radio 1's first air date was on 30 September 1967 it was only transmitted on Medium Wave using amplitude modulation it would get an VHF channel that's rollout would start on 1 September 1988, starting with Central Scotland, the Midlands and the north of England.</td></tr>
 
-<figure class="fig2">
-<figcaption>
-<h3 id="radio-2"><a href="#radio-2">BBC Radio 2</a></h3>
-<p><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio2/1974-03-03#at-18.00">The 20 top records of today starts at 18:00hrs</a></p>
-
-</figcaption>
-</figure>
-
-{: .clear}
-
-<figure class="fig1">
-<h3 id="charts"><a href="#charts">UK Official Singles Chart</a></h3>
-<p><strong>Top 50:</strong> &nbsp; <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740303/7501">3 March 1974 - 9 March 1974</a></p>
-</figure>
-
-<figure class="fig1">
-<h3 id="dates"><a href="#dates">Differences In Dates</a></h3>
+<tr id="infobox3"><th colspan="2">BBC Radio 2: <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio2/1974-03-10#at-18.00">The Top Twenty with Tom Browne starts at 18:00hrs</a></th></tr>
+<tr><td colspan="2">BBC Radio 2's first air date was on 30 September 1967 it was a replacement for the Light Programme it was transmitter on VHF using frequency modulation in 1973 a subcarrier was added to the transmission which allowed the broadcasting of content in stereo.</td></tr>
+<tr id="infobox4"><th style="width:50%;">UK Official Singles Chart</th><th>Differences In Dates</th></tr>
+<tr>
+<td rowspan="3" class="top">
+<p><a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740303/7501/">3 March 1974 - 9 March 1974</a></p>
+<ol reversed>
+<li>Solitaire - Andy Williams</li>
+<li>Happiness Is Me And You - Gilbert O'Sullivan</li>
+<li>Burn Baby Burn - Hudson-Ford</li>
+<li>The Man Who Sold The World - Lulu</li>
+<li>Tiger Feet - Mud</li>
+<li>Love's Theme - Love Unlimited Orchestra</li>
+<li>Never Never Gonna Give Ya Up - Barry White</li>
+<li style="text-decoration: underline dashed darkorange 3px;">Ma! (He's Making Eyes At Me) - Lena Zavaroni</li>
+<li>It's You - Freddie Starr</li>
+<li>Candle In The Wind - Elton John</li>
+<li>Jet - Paul McCartney And Wings</li>
+<li>The Most Beautiful Girl - Charlie Rich</li>
+<li>Billy - Don't Be A Hero - Paper Lace</li>
+<li>Wombling Song - Wombles</li>
+<li>Remember (Sha-La-La-La) - Bay City Rollers</li>
+<li>Rebel Rebel - david bowie</li>
+<li>You're Sixteen - Ringo Starr</li>
+<li>The Air That I Breathe - The Hollies</li>
+<li>Devil Gate Drive - Suzi Quatro</li>
+<li>Jealous Mind - Alvin Stardust</li>
+</ol>
+</td>
+<td class="top">
+<blockquote>
 <p>As can be seen the BBC seems to broadcast a week behind the dates given by the UK Official Singles Charts.</p>
 <p>I imagine that is because the programme is broadcast on a Sunday and they would not receive the data for the charts until sometime during the week.</p>
+</blockquote>
 <cite>Robcamstone</cite>
-</figure>
-
-{: .clear}
-
-<figure class="fig1">
-<h3 id="note-1"><a href="#note-1">Note On BBC Radio 1</a></h3>
-<p>BBC Radio 1's first air date was on 30 September 1967 it was only transmitted on Medium Wave using amplitude modulation it would get an VHF channel that's rollout would start on 1 September 1988, starting with Central Scotland, the Midlands and the north of England.</p>
-</figure>
-
-<figure class="fig2">
-<h3 id="note-2"><a href="#note-2">Note On BBC Radio 2</a></h3>
-<p>BBC Radio 2's first air date was on 30 September 1967 it was a replacement for the Light Programme it was transmitter on VHF using frequency modulation in 1973 a subcarrier was added to the transmission which allowed the broadcasting of content in stereo.</P>
-</figure>
-
-{: .clear}
-
-<figure class="fig3">
-<h3 id="am-fm"><a href="#am-fm">Am - FM</a></h3>
+</td></tr>
+<tr id="infobox5"><th class="top">Medium Wave (AM) - VHF (FM)</th></tr>
+<tr><td class="top">
+<blockquote>
 <p>At the time of broadcast Radio 1 was only available on Medium Wave so when the BBC broadcasted some of its music programmes it also broadcasted them on Radio 2 VHF so that listeners with a VHF Radio could enjoy a higher quality of sound and if the receiver was a stereo one than could enjoy tracks that were made in stereo as they should have been heard.</p>
+</blockquote>
 <cite>Robcamstone</cite>
+</td></tr>
+</table>
 </figure>
 
 <br />{: .clear}
