@@ -6,7 +6,7 @@ subtitle: Magazine
 description: LENA ZAVARONI Will He Kiss Me Tonight (Galaxy, GY 177 CBS)
 media: The magazine
 post_description: LENA ZAVARONI Will He Kiss Me Tonight (Galaxy, GY 177 CBS)
-categories: [Magazines, OnThisDay29November]
+categories: [Magazines, Music-Week, OnThisDay29November]
 last_modified_at: 1 January 2024
 ---
 

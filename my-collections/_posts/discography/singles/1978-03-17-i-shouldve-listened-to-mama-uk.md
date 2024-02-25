@@ -1,18 +1,19 @@
 ---
-layout: discography
+layout: post
 title: I Should've Listened To Mama
 maintitle: I Should've Listened To Mama
 subtitle: Lena Zavaroni's Eighth UK Release
 description: Eighth single by Lena Zavaroni
 post_description: Eighth single by Lena Zavaroni
-categories: [Discography, Singles, Mike-Hurst]
-last_modified_at: 21 February 2024
+categories: [Discography, Singles, Mike-Hurst, OnThisDay17March]
+permalink: /discography/singles/:name
+last_modified_at: 25 February 2024
 ---
 
 <figure class="fig3">
 <table style="text-align:center;">
 <tr><th colspan="4">View Details For Each Known Release</th></tr>
-<tr><td style="width:25%;"><a href="/discography/singles/1978-i-shouldve-listened-to-mama-uk">UK Release &#x2714;</a></td><td style="width:25%;"><a href="/discography/singles/1978-i-shouldve-listened-to-mama-france">France Release</a></td><td style="width:25%;"><a href="/discography/singles/1978-i-shouldve-listened-to-mama-germany">Germany Release</a></td><td style="width:25%;"><a href="/discography/singles/1979-i-shouldve-listened-to-mama-netherlands">Netherlands Release</a></td></tr>
+<tr><td style="width:25%;"><a href="/discography/singles/1978-03-17-i-shouldve-listened-to-mama-uk">UK Release &#x2714;</a></td><td style="width:25%;"><a href="/discography/singles/1978-i-shouldve-listened-to-mama-france">France Release</a></td><td style="width:25%;"><a href="/discography/singles/1978-i-shouldve-listened-to-mama-germany">Germany Release</a></td><td style="width:25%;"><a href="/discography/singles/1979-i-shouldve-listened-to-mama-netherlands">Netherlands Release</a></td></tr>
 </table>
 </figure>
 
@@ -60,7 +61,7 @@ last_modified_at: 21 February 2024
 <tr><th style="width:15%;">Label</th><td style="width:50%;">Galaxy: GY 150</td></tr>
 <tr><th>Format</th><td>7" Vinyl, 45 Single</td></tr>
 <tr><th>Country</th><td>UK</td></tr>
-<tr><th>Released</th><td>1978</td></tr>
+<tr><th>Released</th><td>17 March 1978</td></tr>
 <tr><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/gy150">gy150</a></td></tr>
 </table>
 </figure>

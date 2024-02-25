@@ -6,7 +6,7 @@ subtitle: Magazine
 description: Airplay Action listed the promo release of Somewhere South Of Macon by Lena Zavaroni at the bottom of page 30.
 media: The magazine
 post_description: Airplay Action listed the promo release of Somewhere South Of Macon by Lena Zavaroni at the bottom of page 30.
-categories: [Magazines, OnThisDay17November]
+categories: [Magazines, Music-Week, OnThisDay17November]
 last_modified_at: 1 January 2024
 ---
 

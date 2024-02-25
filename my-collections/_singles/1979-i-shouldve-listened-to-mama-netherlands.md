@@ -12,7 +12,7 @@ last_modified_at: 21 February 2024
 <figure class="fig3">
 <table style="text-align:center;">
 <tr><th colspan="4">View Details For Each Known Release</th></tr>
-<tr><td style="width:25%;"><a href="/discography/singles/1978-i-shouldve-listened-to-mama-uk">UK Release</a></td><td style="width:25%;"><a href="/discography/singles/1978-i-shouldve-listened-to-mama-france">France Release</a></td><td style="width:23%;"><a href="/discography/singles/1978-i-shouldve-listened-to-mama-germany">Germany Release</a></td><td style="width:27%;"><a href="/discography/singles/1979-i-shouldve-listened-to-mama-netherlands">Netherlands Release &#x2714;</a></td></tr>
+<tr><td style="width:25%;"><a href="/discography/singles/1978-03-17-i-shouldve-listened-to-mama-uk">UK Release</a></td><td style="width:25%;"><a href="/discography/singles/1978-i-shouldve-listened-to-mama-france">France Release</a></td><td style="width:23%;"><a href="/discography/singles/1978-i-shouldve-listened-to-mama-germany">Germany Release</a></td><td style="width:27%;"><a href="/discography/singles/1979-i-shouldve-listened-to-mama-netherlands">Netherlands Release &#x2714;</a></td></tr>
 </table>
 </figure>
 
