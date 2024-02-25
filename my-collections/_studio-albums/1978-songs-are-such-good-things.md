@@ -46,27 +46,7 @@ categories: [Studio Albums]
 <li>Love Is Falling In Love Again</li>
 <li>I Wanna Boogie Wid Ya</li>
 </ol>
-
-<div data-video="LvEHYhvhEro" data-autoplay="0" data-loop="1" id="youtube-audio"></div>Listen to sampler
-<script src="https://www.youtube.com/iframe_api"></script>
-<script src="/assets/js/yt.js"></script>
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.padding {margin-bottom:0;}
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
