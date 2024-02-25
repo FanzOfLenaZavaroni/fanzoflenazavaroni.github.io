@@ -6,7 +6,7 @@ subtitle: Magazine
 description: Charlotte Church looked on course yesterday (Sunday) to become the youngest female artist to score a Top 10 album in the UK since 10-year-old Lena Zavaroni reached number four in 1974 with Ma.
 media: The magazine
 post_description: Charlotte Church looked on course yesterday (Sunday) to become the youngest female artist to score a Top 10 album in the UK since 10-year-old Lena Zavaroni reached number four in 1974 with Ma.
-categories: [Magazines, OnThisDay28November]
+categories: [Magazines, Music-Week, OnThisDay28November]
 last_modified_at: 1 January 2024
 ---
 

@@ -7,7 +7,7 @@ description: Carried a full page advertisement for a single by The Bachelors and
 media: The magazine
 post_description: Carried a full page advertisement for a single by The Bachelors and one by Lena Zavaroni.
 image: /assets/images/magazines/1979-11-03-Music-Week-fc.png
-categories: [Magazines, OnThisDay3November]
+categories: [Magazines, Music-Week, OnThisDay3November]
 last_modified_at: 1 January 2024
 ---
 
