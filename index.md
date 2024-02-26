@@ -1,5 +1,6 @@
 ---
 layout: post-no-comments
+image: /assets/images/Lena/1982-12-07-Lena.png
 ---
 
 <h3 id="about"><a href="#about">About Lena Zavaroni</a></h3>
