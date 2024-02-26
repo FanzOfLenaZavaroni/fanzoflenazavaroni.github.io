@@ -6,7 +6,7 @@ subtitle: "Guest of Honour: Bonnie Langford"
 description: Lena Zavaroni appears on the show to pay tribute to Bonnie Langford, and they reminisce about working together. A short clip of their TV show &quot;Lena and Bonnie&quot; is shown.
 media: Granada Television
 post_description: Lena Zavaroni appears on the show to pay tribute to Bonnie Langford, and they reminisce about working together. A short clip of their TV show &quot;Lena and Bonnie&quot; is shown.
-categories: [Granada-Television, Lena-Zavaroni, Bonnie-Langford, OnThisDay29January]
+categories: [Granada-Television, Bonnie-Langford, OnThisDay29January]
 last_modified_at: 28 January 2024
 ---
 
