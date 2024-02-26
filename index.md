@@ -1,6 +1,6 @@
 ---
 layout: post-no-comments
-image: /assets/images/Lena/1982-12-07-Lena.png
+image: /assets/images/Lena/LZ-02-cropped-removebg.png
 ---
 
 <h3 id="about"><a href="#about">About Lena Zavaroni</a></h3>
@@ -26,3 +26,4 @@ image: /assets/images/Lena/1982-12-07-Lena.png
 <style>
 .page-content {padding: 20px 0;}
 </style>
+
