@@ -9,7 +9,7 @@ description: Lena Zavaroni was born on 4 November 1963 in Rankin Memorial Hospit
 post_description: 4 November 1963 - 1 October 1999
 image: /assets/images/lena/LZ-01.jpg
 image-caption: Lena Zavaroni as a toddler
-categories: [Biography, Lena-Zavaroni, OnThisDay4November, OnThisDay1Octorber]
+categories: [Biography, OnThisDay4November, OnThisDay1Octorber]
 author: Robcamstone
 last_modified_at: 23 December 2023
 ---

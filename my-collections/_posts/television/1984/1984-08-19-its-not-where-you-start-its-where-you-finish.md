@@ -8,7 +8,7 @@ subtitle: Documentary on the stage school where Lena Zavaroni and Bonnie Langfor
 description: Documentary on the stage school where Lena Zavaroni and Bonnie Langford Started
 media: Tyne Tees Television
 post_description: Documentary on the stage school where Lena Zavaroni and Bonnie Langford Started.
-categories: [Tyne-Tees-Television, Lena-Zavaroni, Bonnie-Langford, OnThisDay19August, OnThisDay3March]
+categories: [Tyne-Tees-Television, Bonnie-Langford, OnThisDay19August, OnThisDay3March]
 last_modified_at: 23 December 2023
 ---
 

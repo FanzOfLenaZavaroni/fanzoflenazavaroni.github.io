@@ -7,7 +7,7 @@ description: Publicity for Lena and Bonnie.
 media: Photos
 post_description: Lena and Bonnie.
 image: /assets/images/lena-and-bonnie/LZ-BL-01.jpg
-categories: [Publicity, Lena-and-Bonnie, Lena-Zavaroni, Bonnie-Langford]
+categories: [Publicity, Lena-and-Bonnie, Bonnie-Langford]
 ---
 
 <figure class="fig1">

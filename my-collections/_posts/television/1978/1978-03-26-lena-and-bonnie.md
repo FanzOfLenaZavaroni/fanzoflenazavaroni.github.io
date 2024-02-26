@@ -7,7 +7,7 @@ before: "Recorded on the 17 & 18 January 1978 For Broadcast On "
 description: Staring Lena Zavaroni and Bonnie Langford
 post_description: Staring Lena Zavaroni and Bonnie Langford.
 image: /assets/images/lena-and-bonnie/LZ-BL-small.jpg
-categories: [London-Weekend-Television, Lena-and-Bonnie, Lena-Zavaroni, Bonnie-Langford, OnThisDay17January, OnThisDay18January, OnThisDay26March]
+categories: [London-Weekend-Television, Lena-and-Bonnie, Bonnie-Langford, OnThisDay17January, OnThisDay18January, OnThisDay26March]
 last_modified_at: 23 December 2023
 ---
 
