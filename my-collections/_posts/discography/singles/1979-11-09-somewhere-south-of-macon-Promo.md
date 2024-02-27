@@ -6,7 +6,7 @@ subtitle: Promo Release
 description: This promo single would go on to become the twelveth UK single released by Lena Zavaroni.
 post_description: This promo single would go on to become the twelveth UK single released by Lena Zavaroni.
 image: /assets/images/singles/lena-zavaroni-somewhere-south-of-macon-president.jpg
-categories: [Discography, Singles, OnThisDay9November]
+categories: [Discography:-Singles, OnThisDay9November]
 permalink: /discography/singles/:name
 last_modified_at: 1 January 2024
 ---
