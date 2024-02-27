@@ -6,7 +6,7 @@ subtitle: France Release on the then newly formed Jonathan Label
 description:
 post_description:
 image: /assets/images/singles/i-shouldve-listened-to-mama/1978-i-shouldve-listened-to-mama-france-fc.jpg
-categories: [Discography, Singles, Mike-Hurst]
+categories: [Discography:-Singles, Mike-Hurst]
 last_modified_at: 21 February 2024
 ---
 

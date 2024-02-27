@@ -3,7 +3,7 @@ layout: discography
 title: Ma! (He's Making Eyes At Me)
 maintitle: Ma! (He's Making Eyes At Me)
 subtitle: Studio Album - Released In The UK On 8-Track Cartridge
-categories: [Studio 8-Track]
+categories: [Discography-Studio-8-Track]
 last_modified_at: 17 November 2023
 ---
 

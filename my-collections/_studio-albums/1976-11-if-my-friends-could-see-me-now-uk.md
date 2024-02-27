@@ -1,6 +1,5 @@
 ---
 layout: discography
-year: 1974
 title: If My Friends Could See Me Now
 maintitle: If My Friends Could See Me Now
 subtitle: Studio Album - Re-Released In The UK On 12" Vinyl, 33⅓ Album

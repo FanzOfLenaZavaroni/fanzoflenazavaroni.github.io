@@ -6,7 +6,7 @@ title: Hold Tight, It's Lena
 maintitle: Hold Tight, It's Lena
 subtitle: Studio Album
 image: /assets/images/albums/Hold-Tight-Its-Lena.jpg
-categories: [Studio Albums]
+categories: [Discography:-Studio-Albums]
 ---
 
 <figure class="fig1" id="BBC">

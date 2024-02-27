@@ -6,7 +6,7 @@ maintitle: That Does Suit Madame, The "Are You Being Served?" Podcast
 subtitle:  "Episode 45: The Hero"
 description: By Mr. Jeff & Mr. Brandon
 post_description: By Mr. Jeff & Mr. Brandon
-categories: [Podcasts, That-Does-Suit-Madame, "Are-You-Being-Served?", OnThisDay5March]
+categories: [Discography:-Podcasts, That-Does-Suit-Madame, "Are-You-Being-Served?", OnThisDay5March]
 permalink: /discography/podcasts/:name
 ---
 

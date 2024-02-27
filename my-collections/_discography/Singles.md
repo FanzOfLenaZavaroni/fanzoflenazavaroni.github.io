@@ -42,7 +42,7 @@ last_modified_at: 21 February 2024
 
 <strong>You're Breaking My Heart</strong>
 <ul>
-<li><a href="/discography/singles/1975-03-28-youre-breaking-my-heart">1975 &#8212; UK Release</a></li>
+<li><a href="/discography/singles/1975-02-28-youre-breaking-my-heart">1975 &#8212; UK Release</a></li>
 </ul>
 
 <strong>Smile</strong>
