@@ -7,6 +7,7 @@ description: Episode 6 With Bonnie Langford
 post_description: Episode 6 With Bonnie Langford
 image: /assets/images/podcasts/PFA.jpg
 categories: [Discography:-Podcasts, Podcast From America, OnThisDay28December]
+tags: podcasts
 permalink: /discography/podcasts/:name
 last_modified_at: 31 December 2023
 ---
@@ -22,11 +23,13 @@ last_modified_at: 31 December 2023
 <table>
 <tr id="infobox1"><th colspan="2">Podcast Spoken Language: English</th></tr>
 <tr>
-<th style="width:25%;"><img src="/assets/images/podcasts/PFA.jpg" class="full-width" /></th>
+<th style="width:25%;" class="top"><img src="/assets/images/podcasts/PFA.jpg" class="full-width" /></th>
 <td style="width:75%;">
-<p><strong>Podcast Details:</strong> <a href="https://web.archive.org/web/20110718074356/http://lisamarksmedia.com/?m=201012">Lisa Marks Media via The Wayback Machine as the podcast is no longer available.</a></p>
+<p><strong>Podcast Details:</strong> Lisa Marks Media via <a href="https://web.archive.org/web/20110718074356/http://lisamarksmedia.com/?m=201012">The Wayback Machine</a> <s>as the podcast is no longer available</s>.</p>
 <audio id="player" src="/assets/media/podcast_from-America-episode_6-bonnie_langford.mp3" type="audio/mpeg"><p>Your browser doesn't support HTML5 audio. Here is a <a href="/assets/media/podcast_from-America-episode_6-bonnie_langford.mp3">link to the audio</a> instead.</p></audio>
 <div><button onclick="document.getElementById('player').play()">Play</button><button onclick="document.getElementById('player').play(); document.getElementById('player').currentTime = 1954;">Jump To The Part About Lena Zavaroni</button><button onclick="document.getElementById('player').pause()">Pause</button><button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button><button onclick="document.getElementById('player').volume += 0.1">Vol +</button><button onclick="document.getElementById('player').volume -= 0.1">Vol -</button></div>
+<br />
+<p>It Turns out all 10 episodes are avaible via <a class="external-link" href="https://www.mixcloud.com/podcastfromamerica/">MixCloud</a></p>
 </td>
 </tr>
 <tr id="infobox2" class="split"><th colspan="2">Description</th></tr>

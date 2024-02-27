@@ -11,7 +11,7 @@ categories: [Discography]
 <p><strong>Note:</strong> Not all of the podcasts listed here are available via Listen Notes so check the links below as well as the above link.</p>
 
 <ul>
-  {% for post in site.categories.Podcasts reversed %}
+  {% for post in site.tags.podcasts reversed %}
     {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></li>
     {% endif %}

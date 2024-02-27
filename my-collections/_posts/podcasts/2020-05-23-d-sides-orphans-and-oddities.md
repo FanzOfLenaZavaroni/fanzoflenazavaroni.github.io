@@ -7,6 +7,7 @@ subtitle:  The Les Humphries Singers Tribute!!!
 description: The Les Humphries Singers Tribute!!!
 post_description: The Les Humphries Singers Tribute!!!
 categories: [Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay23May]
+tags: podcasts
 permalink: /discography/podcasts/:name
 ---
 

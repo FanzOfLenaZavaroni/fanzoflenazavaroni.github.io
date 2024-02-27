@@ -7,6 +7,7 @@ subtitle:  Steely Dan outtakes are better than your favorite band's greatest hit
 description: Steely Dan outtakes are better than your favorite band's greatest hits. Fight me.
 post_description: Steely Dan outtakes are better than your favorite band's greatest hits. Fight me.
 categories: [Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay17June]
+tags: podcasts
 permalink: /discography/podcasts/:name
 ---
 

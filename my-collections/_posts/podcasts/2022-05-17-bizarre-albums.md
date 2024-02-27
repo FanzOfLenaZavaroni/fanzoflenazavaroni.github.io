@@ -8,6 +8,7 @@ description: 10 year old Lena Zavaroni broke a record by winning British competi
 post_description: 10 year old Lena Zavaroni broke a record by winning British competition show Opportunity Knocks five weeks in a row. Soon after, she would become the youngest person to ever have an album in the top 10. This is the story of Lena Zavaroni’s Ma! He's Making Eyes At Me, from 1974.
 image: /assets/images/podcasts/bizarre-albums.jpg
 categories: [Discography:-Podcasts, Bizarre Albums, OnThisDay17May]
+tags: podcasts
 permalink: /discography/podcasts/:name
 ---
 
