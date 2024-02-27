@@ -7,6 +7,7 @@ subtitle: Episode 203 - Scots Do The Beatles
 description: Episode 203 - Scots Do The Beatles
 post_description: Episode 203 - Scots Do The Beatles
 categories: [Discography:-Podcasts, Only-A-Cover-Song, OnThisDay30March]
+tags: podcasts
 permalink: /discography/podcasts/:name
 ---
 

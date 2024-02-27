@@ -7,6 +7,7 @@ description: "176: Lisa Marie Presley Died From Weight Loss Surgery: Legends Tha
 post_description: "176: Lisa Marie Presley Died From Weight Loss Surgery: Legends That Fatphobia Stole Part 2"
 image: /assets/images/podcasts/
 categories: [Discography:-Podcasts, Fierce-Fatty-Podcast, OnThisDay15August]
+tags: podcasts
 permalink: /discography/podcasts/:name
 ---
 

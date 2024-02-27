@@ -8,6 +8,7 @@ description: On this week’s This Is Our Everest, your intrepid heroes are at t
 post_description: On this week’s This Is Our Everest, your intrepid heroes are at the beach for the BBC’s Seaside Special from August 1975. It affords them ample opportunity to explore their relationship with light entertainment.
 image: /assets/images/podcasts/this-is-our-everest.jpg
 categories: [Discography:-Podcasts, Two Hundred Percent, OnThisDay29April]
+tags: podcasts
 permalink: /discography/podcasts/:name
 last_modified_at: 13 February 2024
 ---

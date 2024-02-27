@@ -8,6 +8,7 @@ description: Ep 2 Kojo Osei And Sue Quin
 post_description: Ep 2 Kojo Osei And Sue Quin
 image: /assets/images/podcasts/
 categories: [Discography:-Podcasts, Bimm There Done That, OnThisDay15December]
+tags: podcasts
 permalink: /discography/podcasts/:name
 published: false
 ---

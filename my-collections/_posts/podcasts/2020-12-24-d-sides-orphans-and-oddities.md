@@ -7,6 +7,7 @@ description: Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities
 post_description: Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself.
 image: /assets/images/podcasts/
 categories: [Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay24December]
+tags: podcasts
 permalink: /discography/podcasts/:name
 last_modified_at: 31 December 2023
 ---
