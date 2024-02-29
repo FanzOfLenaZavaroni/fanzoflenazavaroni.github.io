@@ -2,21 +2,37 @@
 layout: post
 title: Daily Mirror &#124; 29 February 1996
 maintitle: Daily Mirror
-subtitle: Will add details once the on this day kicks in on the related British Newspaper Archive page. Note this will not be until 2024 which is the next leep year.
-description: Will add details once the on this day kicks in on the related British Newspaper Archive page. Note this will not be until 2024 which is the next leep year.
-post_description: Will add details once the on this day kicks in on the related British Newspaper Archive page. Note this will not be until 2024 which is the next leep year.
-categories: [Newspapers, Daily-Mirror, OnThisDay29February]
+subtitle: Lena Zavaroni In Pop Culture
+description: Lena Zavaroni In Pop Culture.
+post_description: Lena Zavaroni In Pop Culture.
+categories: [Newspapers, Daily-Mirror, Pop-Culture, OnThisDay29February]
 last_modified_at: 24 February 2024
 ---
 
-<figure class="fig3">
-<h3 id="cover"><a href="#cover">Front Cover</a></h3>
-<a href="/assets/images/daily-mirror/1996-02-29-daily-mirror-fc.png"><img src="/assets/images/daily-mirror/1996-02-29-daily-mirror-fc.png" class="full-width zoom-in"></a>
+<figure class="fig1">
+<h3 id="infobox1"><a href="#infobox1">Front Cover</a></h3>
+<a href="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-fc.png"><img src="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-fc.png" class="full-width zoom-in"></a>
 </figure>
 
-<figure class="fig3">
-<h3 id="page-71"><a href="#page-71">Page 45</a></h3>
-<a href="https://www.britishnewspaperarchive.co.uk/titles/daily-mirror"><img src="/assets/images/newspapers/1996-02-29-daily-mirror-page-71.png" class="full-width"></a>
+<figure class="fig2">
+<h3 id="infobox2"><a href="#infobox2">Quote From Page 25</a></h3>
+<blockquote>
+<p>Her first LP &#8212; including number written by Bjork when she was eight &#8212; Was an instant hit.</p>
+<p>A year later, Iceland's <span style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni</span> had turned punk princess &#8212; and swapped fame for notoriety.</p>
+</blockquote>
+<cite>2nd column from the right near the very bottom.</cite>
+</figure>
+
+{: .clear}
+
+<figure class="fig1">
+<h3 id="infobox3"><a href="#infobox3">Page 24</a></h3>
+<a href="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-page-24.png"><img src="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-page-24.png" class="full-width"></a>
+</figure>
+
+<figure class="fig2">
+<h3 id="infobox4"><a href="#infobox4">Page 25</a></h3>
+<a href="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-page-25.png"><img src="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-page-25.png" class="full-width"></a>
 </figure>
 
 <br />{: .clear}
