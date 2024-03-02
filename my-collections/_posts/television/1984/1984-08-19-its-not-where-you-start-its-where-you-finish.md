@@ -9,26 +9,15 @@ description: Documentary on the stage school where Lena Zavaroni and Bonnie Lang
 media: Tyne Tees Television
 post_description: Documentary on the stage school where Lena Zavaroni and Bonnie Langford Started.
 categories: [Tyne-Tees-Television, Bonnie-Langford, OnThisDay19August, OnThisDay3March]
-last_modified_at: 23 December 2023
+last_modified_at: 2 March 2024
 ---
 
 <figure class="fig3">
-<figcaption>
-<h3 id="cast"><a href="#cast">Cast</a></h3>
-</figcaption>
-<table style="width:100%;">
-<tr><th>Cast Member</th><td>Bonnie Langford</td></tr>
+<table>
+<tr id="infobox1"><th colspan="2"><a href="#infobox1">Cast</a></th></tr>
+<tr><th style="width:50%;">Cast Member</th><td style="width:50%;">Bonnie Langford</td></tr>
 <tr><th>Cast Member</th><td>Lena Zavaroni</td></tr>
-</table>
-</figure>
-
-{: .clear}
-
-<figure class="fig3">
-<figcaption>
-<h3 id="production"><a href="#production">Production</a></h3>
-</figcaption>
-<table style="width:100%;">
+<tr id="infobox2"><th colspan="2"><a href="#infobox2">Production</a></th></tr>
 <tr><th>Production Company</th><td>Tyne Tees Television</td></tr>
 <tr><th>Producer</th><td>Tony Kysh</td></tr>
 </table>

@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: post-no-comments
 permalink: /categories/
 title: Categories
 maintitle: Categories
+subtitle: "Note: Currently only content with a full date is listed in this section."
 ---
 
 <div id="archives">
