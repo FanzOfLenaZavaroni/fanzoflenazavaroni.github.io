@@ -29,6 +29,8 @@ last_modified_at: 11 March 2024
 </table>
 </figure>
 
+<strong>Note:</strong> unlike all the other countries that play at 45 rpm this Argentina release plays at 33&#8531; rpm.
+
 <figure class="fig3">
 <table>
 <tr id="infobox1"><th colspan="3">Ma! (El Me Esta Haciendo Ojitos) - Argentina Release - Side 1</th></tr>
@@ -64,7 +66,7 @@ last_modified_at: 11 March 2024
 <table>
 <tr id="infobox3"><th colspan="2">Ma! (El Me Esta Haciendo Ojitos) - Argentina Release - Details</th></tr>
 <tr><th style="width:50%;">Label:</th><td>Philips - 6006 367</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 33&#8531; Single</td></tr>
 <tr><th>Country:</th><td>Argentina</td></tr>
 <tr><th>Released:</th><td>11 March 1974</td></tr>
 <tr><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006367ar">6006367ar</a></td></tr>
