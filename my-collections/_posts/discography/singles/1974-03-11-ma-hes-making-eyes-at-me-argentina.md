@@ -36,7 +36,7 @@ last_modified_at: 11 March 2024
 <th style="width:50%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-argentina-side-1.png"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-argentina-side-1.png" class="full-width zoom-in" alt="Argentina Side 1 Label for the Single Ma! (El Me Esta Haciendo Ojitos) Philips - 6006 367" /></a></th>
 </tr>
 <tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
-<tr><th>A side:</th><td>Ma! (El Me Esta Haciendo Ojitos)</td></tr>
+<tr><th>Side 1:</th><td>Ma! (El Me Esta Haciendo Ojitos)</td></tr>
 <tr><th>Composer:</th><td>Con Conrad</td></tr>
 <tr><th>Composer:</th><td>Sydney Clare</td></tr>
 <tr><th>Producer:</th><td>Tommy Scott</td></tr>
@@ -48,9 +48,10 @@ last_modified_at: 11 March 2024
 <table>
 <tr id="infobox2"><th colspan="3">Ma! (El Me Esta Haciendo Ojitos) - Argentina Release - Side 2</th></tr>
 <tr>
-<th style="width:50%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-argentina-side-2.png"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-argentina-side-2.png" class="full-width zoom-in" alt="Argentina Side 2 Label for the Single Ma! (El Me Esta Haciendo Ojitos) Philips - 6006 367" /></a></th>
+<th style="width:50%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-argentina-side-2.png"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-argentina-side-2.png" class="full-width zoom-in" alt="Argentina Side 2 Label for the Single Ma! (El Me Esta Haciendo Ojitos) Philips - 6006 367" /></a></th>
 </tr>
-<tr><th style="width:15%;">B side:</th><td>Arrulla Tu Nena Con Una Melodia De Dixie</td></tr>
+<tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
+<tr><th>Side 2:</th><td>Arrulla Tu Nena Con Una Melodia De Dixie</td></tr>
 <tr><th>Composer:</th><td>Sam. M. Lewis</td></tr>
 <tr><th>Composer:</th><td>Joe Young</td></tr>
 <tr><th>Composer:</th><td>Gene Schwartz</td></tr>
