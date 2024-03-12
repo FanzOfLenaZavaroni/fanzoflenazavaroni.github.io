@@ -27,7 +27,7 @@ permalink: /discography/singles/:name
 <tr><th>Producer:</th><td>Tommy Scott</td></tr>
 <tr><th>Arranger:</th><td>Tom Parker</td></tr>
 <tr class="split"><th>Label:</th><td>Philips - 6006 391</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country:</th><td>UK</td></tr>
 <tr><th>Released:</th><td>24 May 1974</td></tr>
 <tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006691">6006691</a></td></tr>

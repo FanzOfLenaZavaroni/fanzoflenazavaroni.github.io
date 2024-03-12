@@ -75,7 +75,7 @@ last_modified_at: 25 January 2024
 </div>
 </th></tr>
 <tr><th style="width:15%;">Label:</th><td>Gérard Tournier - GT 46501</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country:</th><td>France</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
 <tr><th>45Cat:</th><td><a class="external-link" href="https://www.45cat.com/record/gt46501">GT 46501</a></td></tr>

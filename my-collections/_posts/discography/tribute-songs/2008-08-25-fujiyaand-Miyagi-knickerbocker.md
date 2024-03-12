@@ -24,7 +24,7 @@ The track "Knickerbocker" makes a number of references to the life of Lena Zavar
 <tr class="split"><th>A side:</th><td>Knickerbocker</td></tr>
 <tr><th>B side:</th><td>Knickerbocker (Instrumental)</td></tr>
 <tr class="split"><th>Label:</th><td>Full Time Hobby: FTH&nbsp;059S</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country:</th><td>UK</td></tr>
 <tr><th>Released:</th><td>25 August 2008</td></tr>
 <tr class="split"><th>45worlds:</th><td><a class="external-link" href="https://www.45cat.com/record/fth059s">fth059s</a></td></tr>

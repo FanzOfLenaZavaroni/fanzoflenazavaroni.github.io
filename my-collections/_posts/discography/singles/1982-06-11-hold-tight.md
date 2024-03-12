@@ -32,7 +32,7 @@ permalink: /discography/singles/:name
 <tr><th>Producer:</th><td>Stewart Morris</td></tr>
 <tr><th>Arranger:</th><td>Alan Roper</td></tr>
 <tr class="split"><th>Label:</th><td>BBC: RESL 117</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country:</th><td>UK</td></tr>
 <tr><th>Released:</th><td>11 Jun 1982</td></tr>
 <tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/resl117">resl117</a></td></tr>

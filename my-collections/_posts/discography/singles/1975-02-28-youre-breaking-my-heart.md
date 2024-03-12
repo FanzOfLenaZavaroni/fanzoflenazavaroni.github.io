@@ -52,7 +52,7 @@ last_modified_at: 27 February 2024
 <th style="width:50%; vertical-align:top;" rowspan="6" class="top"><div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=m8YQryTU7yA,KoviPL00AFY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></th>
 </tr>
 <tr><th style="width:15%;">Label:</th><td>Philips - 6006 445</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country:</th><td>UK</td></tr>
 <tr><th>Released:</th><td>28 February 1975</td></tr>
 <tr><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006445">6006445</a></td></tr>

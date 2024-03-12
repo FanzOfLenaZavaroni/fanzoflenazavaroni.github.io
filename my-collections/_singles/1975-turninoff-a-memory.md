@@ -5,7 +5,7 @@ title: Turnin' Off A Memory
 maintitle: Turnin' Off A Memory
 subtitle: Single by The Zavaronis
 description: 
-media: 7" Vinyl, 45 Single
+media: 7" Vinyl, 45 rpm Single
 categories: [Discography, Singles]
 last_modified_at: 15 June 2023
 ---
@@ -24,7 +24,7 @@ last_modified_at: 15 June 2023
 <tr><th>Producer:</th><td>Unknown</td></tr>
 <tr><th>Arranger:</th><td>Ray Martin</td></tr>
 <tr class="split"><th>Label:</th><td>Galaxy: GY 102</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country:</th><td>UK</td></tr>
 <tr><th>Released:</th><td>1975</td></tr>
 <tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/gy102">gy102</a></td></tr>

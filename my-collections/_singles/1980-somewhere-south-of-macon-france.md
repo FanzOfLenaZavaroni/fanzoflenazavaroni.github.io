@@ -46,7 +46,7 @@ last_modified_at: 27 November 2023
 <table>
 <tr id="infobox3"><th colspan="2">Somewhere South Of Macon - Details</th></tr>
 <tr><th style="width:50%;">Label:</th><td style="width:50%;">Atoll Productions Ring – 2814 211</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country:</th><td>France</td></tr>
 <tr><th>Released:</th><td>1980</td></tr>
 <tr class="split"><td colspan="2">With Thanks to <a href="/research#l">Loving Lena Zavaroni</a> for Informing me of this release.</td></tr>
