@@ -52,7 +52,9 @@ last_modified_at: 21 February 2024
 
 <strong>Some Of These Days</strong>
 <ul>
-<li><a href="/discography/singles/1976-03-26-some-of-these-days">1976 &#8212; UK Release</a></li>
+<li><a href="/discography/singles/1976-03-26-some-of-these-days-uk">1976 &#8212; UK Release</a></li>
+<li><a href="/discography/singles/1976-some-of-these-days-germany">1976 &#8212; Germany Release</a></li>
+<li><a href="/discography/singles/1976-some-of-these-days-poland">1976 &#8212; Poland Release</a></li>
 </ul>
 
 <strong>Air Love</strong>
