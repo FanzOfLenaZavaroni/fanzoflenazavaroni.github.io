@@ -61,7 +61,7 @@ last_modified_at: 25 January 2024
 <table>
 <tr id="infobox3"><th colspan="2">Ma! (He's Making Eyes At Me) - Portugal Release - Details</th></tr>
 <tr><th style="width:50%;">Label:</th><td>Philips - 6006 367</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country:</th><td>Portugal</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
 </table>

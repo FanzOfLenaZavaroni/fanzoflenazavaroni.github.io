@@ -5,7 +5,7 @@ title: Music Music Music
 maintitle: Music Music Music
 subtitle: Lena Zavaroni's Third Single
 description: This is the Third single by Lena Zavaroni
-media: 7" Vinyl, 45 Single
+media: 7" Vinyl, 45 rpm Single
 post_description: This is the Third single by Lena Zavaroni
 image: /assets/images/singles/
 categories: [Discography, Singles]
@@ -26,7 +26,7 @@ last_modified_at: 15 June 2023
 <tr><th>Producer:</th><td>Unknown</td></tr>
 <tr><th>Arranger:</th><td>Unknown</td></tr>
 <tr class="split"><th>Label:</th><td>Philips: 6006 443</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country:</th><td>Germany</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
 <tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006443">6006443</a></td></tr>

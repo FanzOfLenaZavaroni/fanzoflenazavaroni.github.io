@@ -59,7 +59,7 @@ last_modified_at: 25 February 2024
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=LAbu1dZeUH0,NYX-2xki--4&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 </th></tr>
 <tr><th style="width:15%;">Label</th><td style="width:50%;">Galaxy: GY 150</td></tr>
-<tr><th>Format</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country</th><td>UK</td></tr>
 <tr><th>Released</th><td>17 March 1978</td></tr>
 <tr><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/gy150">gy150</a></td></tr>

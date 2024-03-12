@@ -59,7 +59,7 @@ J. Friddy, Shifrin</td></tr>
 <table>
 <tr id="infobox3"><th colspan="2">Air Love - Details</th></tr>
 <tr><th style="width:50%;">Label</th><td style="width:50%;">Ashtree – ASDJ-26453</td></tr>
-<tr><th>Format</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country</th><td>USA</td></tr>
 <tr><th>Released</th><td>1976</td></tr>
 <tr><th>45Cat</th><td><a class="external-link" href="http://www.45cat.com/record/asdj26453">ASDJ-26453</a></td></tr>

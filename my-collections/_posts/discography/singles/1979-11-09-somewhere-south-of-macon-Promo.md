@@ -44,7 +44,7 @@ last_modified_at: 1 January 2024
 <table>
 <tr id="infobox3"><th colspan="3">Somewhere South Of Macon - Promo - Details</th></tr>
 <tr><th colspan="2">Label:</th><td>President - GY 160</td></tr>
-<tr><th colspan="2" style="width:50%;">Format:</th><td colspan="2" style="width:50%;">Promo Only 7" Vinyl, 45 Single</td></tr>
+<tr><th colspan="2" style="width:50%;">Format:</th><td colspan="2" style="width:50%;">Promo Only 7" Vinyl, 45 rpm Single</td></tr>
 <tr><th colspan="2">Country:</th><td>UK</td></tr>
 <tr><th colspan="2">Released:</th><td>9 November 1979</td></tr>
 <tr><th colspan="2">45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/gy160">GY 160</a></td></tr>

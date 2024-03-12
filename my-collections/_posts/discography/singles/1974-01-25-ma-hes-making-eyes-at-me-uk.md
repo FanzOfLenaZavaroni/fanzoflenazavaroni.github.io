@@ -87,7 +87,7 @@ last_modified_at: 25 January 2024
 <th style="width:50%; vertical-align:top;" rowspan="7" class="top"><div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=DzqcGLl8rMg,Yc1h6cDkc8M,yI_nqPZNpAQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></th>
 </tr>
 <tr><th>Label:</th><td>Philips - 6006 367</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format:</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country:</th><td>UK</td></tr>
 <tr><th>Released:</th><td>25 January 1974</td></tr>
 <tr><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006367">UK: 6006367</a></td></tr>

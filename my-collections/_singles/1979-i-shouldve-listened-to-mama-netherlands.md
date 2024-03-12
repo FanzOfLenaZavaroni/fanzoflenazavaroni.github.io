@@ -73,7 +73,7 @@ last_modified_at: 21 February 2024
 <table>
 <tr id="infobox3"><th colspan="3">I Should've Listened To Mama - Details</th></tr>
 <tr><th style="width:50%;">Label</th><td style="width:50%;">Scramble: SRS 510.097</td></tr>
-<tr><th>Format</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country</th><td>Netherlands</td></tr>
 <tr><th>Released</th><td>1979</td></tr>
 <tr><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/srs510097">srs510097</a></td></tr>

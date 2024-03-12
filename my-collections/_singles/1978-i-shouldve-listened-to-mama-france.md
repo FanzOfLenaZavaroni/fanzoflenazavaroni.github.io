@@ -74,7 +74,7 @@ last_modified_at: 21 February 2024
 <table>
 <tr id="infobox3"><th colspan="2">I Should've Listened To Mama - Details</th></tr>
 <tr><th style="width:50%;">Label</th><td style="width:50%;">Jonathan – 2S 008-16 617</td></tr>
-<tr><th>Format</th><td>7" Vinyl, 45 Single</td></tr>
+<tr><th>Format</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country</th><td>France</td></tr>
 <tr><th>Released</th><td>1978</td></tr>
 </table>
