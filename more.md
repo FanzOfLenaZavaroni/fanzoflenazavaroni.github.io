@@ -49,7 +49,7 @@ Suggestions and links to help people do their own research.
 <div>
 <a class="style" href="https://github.com/FanzOfLenaZavaroni">
 <figure class="fig1">
-<h3 class="ct">:octocat: GitHub Profile</h3>
+<h3 class="ct"><img src="/assets/images/svg/GitHub_Invertocat_Logo.svg" width="20" height="auto"/> GitHub Profile</h3>
 <p class="ct">Profile for Fanz of Lena Zavaroni</p>
 <img src="/assets/images/Lena/LZ-02-cropped-removebg.png" width="120px" height="auto" style="margin:0 auto; border-radius: 50% !important;"/>
 </figure>
@@ -59,7 +59,7 @@ Suggestions and links to help people do their own research.
 <div>
 <a class="style" href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io">
 <figure class="fig2">
-<h3 class="ct">:octocat: Repository for<br />Fanz of Lena Zavaroni</h3>
+<h3 class="ct"><img src="/assets/images/svg/GitHub_Invertocat_Logo.svg" width="20" height="auto"/> Repository for<br />Fanz of Lena Zavaroni</h3>
 The repository where this website's code is stored and where it is generated via GitPages.
 </figure>
 </a>
