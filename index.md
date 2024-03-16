@@ -21,8 +21,6 @@ image: /assets/images/Lena/LZ-02-cropped-removebg.png
 
 <a href="/1963-11-04-lena-zavaroni"><strong>Media Based Biography of Lena Zavaroni</strong></a>
 
-<strong>Google Earth: <a class="external-links" href="https://earth.google.com/earth/d/1aPUrdPvdWzzY9P8_ZEbHlEHSzgUug-Dy?usp=sharing">Where on earth has Lena been</a><strong>
-
 <style>
 .page-content {padding: 20px 0;}
 </style>
