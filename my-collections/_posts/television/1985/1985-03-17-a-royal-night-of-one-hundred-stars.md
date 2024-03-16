@@ -12,12 +12,12 @@ image: /assets/images/ITV/
 categories: [London-Weekend-Television, Theatre, OnThisDay17March, OnThisDay31March]
 ---
 
-<div class="responsive-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fr18XVtHhhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div id="infobox1" class="responsive-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fr18XVtHhhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <cite>Gala benefit at the National Theatre, sponsored by Princess Anne, in aid of the Save the Children Fund. Hosted by Jimmy Tarbuck, it includes singing, stand-up comedy, dance, comedy skits, and drama.</cite>
 
-### Cast
-<table class="flow-text striped">
+<h3 id="infobox2"><a href="#infobox2">Cast</a></h3>
+<table style="text-align:center;">
 <tr>
 <td>Russ Abbot</td>
 <td>Bruce Forsyth</td>
