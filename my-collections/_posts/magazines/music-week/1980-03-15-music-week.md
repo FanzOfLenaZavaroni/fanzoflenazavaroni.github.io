@@ -5,7 +5,7 @@ maintitle: Music Week
 subtitle: Magazine
 description: "500 attend Scotstar Awards: Lena Zavaroni picks up the Personality of the Year award"
 post_description: "500 attend Scotstar Awards: Lena Zavaroni picks up the Personality of the Year award"
-image: /assets/images/magazines/music-week/1980-03-15-music-week-fc.png"><img src="/assets/images/magazines/music-week/1980-03-15-music-week-fc.png
+image: /assets/images/magazines/music-week/1980-03-15-music-week-fc.png
 categories: [Magazines, Music-Week, OnThisDay15March]
 last_modified_at: 15 March 2024
 ---
