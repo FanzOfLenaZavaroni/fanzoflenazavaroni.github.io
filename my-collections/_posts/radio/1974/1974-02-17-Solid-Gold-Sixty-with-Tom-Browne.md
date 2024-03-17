@@ -6,7 +6,7 @@ subtitle: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the 
 description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved up the charts from number 30 to number 16.
 post_description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved up the charts from number 30 to number 16.
 categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay17February]
-last_modified_at: 24 February 2024
+last_modified_at: 17 March 2024
 ---
 
 <figure class="fig3">
@@ -15,7 +15,7 @@ last_modified_at: 24 February 2024
 <tr><td><a href="/1974-02-10-Solid-Gold-Sixty-with-Tom-Browne/">10 February 1974</a></td><td><a href="/1974-02-17-Solid-Gold-Sixty-with-Tom-Browne/">17 February 1974 &#x2714;</a></td><td><a href="/1974-02-24-Solid-Gold-Sixty-with-Tom-Browne/">24 February 1974</a></td></tr>
 
 <tr><td><a href="/1974-03-03-Solid-Gold-Sixty-with-Tom-Browne/">3 March 1974</a></td><td><a href="/1974-03-10-Solid-Gold-Sixty-with-Tom-Browne/">10 March 1974</a></td><td><a href="/1974-03-17-Solid-Gold-Sixty-with-Tom-Browne/">17 March 1974</a></td></tr>
-<tr><th colspan="3">Top 20 with Tom Browne</th></tr>
+<tr><th colspan="3">Tom Browne with The Top Twenty</th></tr>
 <tr><td colspan="3"><a href="/1974-03-24-Top-20-with-Tom-Browne">24 March 1974</a></td></tr>
 </table>
 </figure>
@@ -36,7 +36,7 @@ last_modified_at: 24 February 2024
 <tr id="infobox2"><th colspan="2">BBC Radio 1: <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1974-02-17#at-16.00">Solid Gold Sixty with Tom Browne starts at 16:00hrs</a></th></tr>
 <tr><td colspan="2">BBC Radio 1's first air date was on 30 September 1967 it was only transmitted on Medium Wave using amplitude modulation it would get an VHF channel that's rollout would start on 1 September 1988, starting with Central Scotland, the Midlands and the north of England.</td></tr>
 
-<tr id="infobox3"><th colspan="2">BBC Radio 2: <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio2/1974-02-17#at-18.00">The Top Twenty with Tom Browne starts at 18:00hrs</a></th></tr>
+<tr id="infobox3"><th colspan="2">BBC Radio 2: <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio2/1974-02-17#at-18.00">Tom Browne with The Top Twenty starts at 18:00hrs</a></th></tr>
 <tr><td colspan="2">BBC Radio 2's first air date was on 30 September 1967 it was a replacement for the Light Programme it was transmitter on VHF using frequency modulation in 1973 a subcarrier was added to the transmission which allowed the broadcasting of content in stereo.</td></tr>
 <tr id="infobox4"><th style="width:50%;">UK Official Singles Chart</th><th>Differences In Dates</th></tr>
 <tr>
