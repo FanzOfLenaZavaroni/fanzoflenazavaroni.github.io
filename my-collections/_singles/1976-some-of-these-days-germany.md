@@ -8,7 +8,7 @@ post_description: Germany Release on the Intercord record label.
 image: /assets/images/singles/lena-zavaroni-some-of-these-days-side-a.jpg
 categories: [Discography:-Singles]
 permalink: /discography/singles/:name
-last_modified_at: 12 March 2024
+last_modified_at: 20 March 2024
 ---
 
 <figure class="fig3">
@@ -58,7 +58,7 @@ last_modified_at: 12 March 2024
 <tr style="width:49%;"><th>Label:</th><td>Intercord - 22 408-9 N / 113.001</td></tr>
 <tr><th>Format:</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country:</th><td>Germany</td></tr>
-<tr><th>Released:</th><td>26 March 1976</td></tr>
+<tr><th>Released:</th><td>1976</td></tr>
 <tr><th>45Cat:</th><td><a class="external-link" href="https://www.45cat.com/record/113001de">113001de</a></td></tr>
 </table>
 </figure>
