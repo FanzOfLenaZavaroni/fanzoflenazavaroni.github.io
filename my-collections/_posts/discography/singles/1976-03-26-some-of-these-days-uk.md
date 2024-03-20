@@ -13,7 +13,7 @@ permalink: /discography/singles/:name
 <figure class="fig3">
 <table style="text-align:center;">
 <tr><th colspan="3">View Details For Know Releases</th></tr>
-<tr><td><a href="/discography/singles/1976-03-26-some-of-these-days-uk">UK &#x2714;</a></td><td><a href="/discography/singles/1976-some-of-these-days-germany">Germany</a></td><td><a href="/discography/singles/1976-some-of-these-days-poland">Poland</a></td></tr>
+<tr><td style="width:33.33%;"><a href="/discography/singles/1976-03-26-some-of-these-days-uk">UK &#x2714;</a></td><td style="width:33.34%;"><a href="/discography/singles/1976-some-of-these-days-germany">Germany</a></td><td style="width:33.33%;"><a href="/discography/singles/1976-some-of-these-days-poland">Poland</a></td></tr>
 </table>
 </figure>
 

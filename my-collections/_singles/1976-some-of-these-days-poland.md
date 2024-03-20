@@ -14,7 +14,7 @@ last_modified_at: 12 March 2024
 <figure class="fig3">
 <table style="text-align:center;">
 <tr><th colspan="3">View Details For Know Releases</th></tr>
-<tr><td><a href="/discography/singles/1976-03-26-some-of-these-days-uk">UK</a></td><td><a href="/discography/singles/1976-some-of-these-days-germany">Germany</a></td><td><a href="/discography/singles/1976-some-of-these-days-poland">Poland &#x2714;</a></td></tr>
+<tr><td style="width:33.33%;"><a href="/discography/singles/1976-03-26-some-of-these-days-uk">UK</a></td><td style="width:33.34%;"><a href="/discography/singles/1976-some-of-these-days-germany">Germany</a></td><td style="width:33.33%;"><a href="/discography/singles/1976-some-of-these-days-poland">Poland &#x2714;</a></td></tr>
 </table>
 </figure>
 
@@ -27,7 +27,7 @@ last_modified_at: 12 March 2024
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="3">Some Of These Days - UK Release - A Side</th></tr>
+<tr id="infobox1"><th colspan="3">Some Of These Days - Poland Release - A Side</th></tr>
 <tr><th style="width:49%; vertical-align:top;" rowspan="7" class="top">
 <div id="slideshow1">
 <div>
@@ -51,7 +51,7 @@ last_modified_at: 12 March 2024
 
 <figure class="fig3">
 <table>
-<tr id="infobox2"><th colspan="3">Some Of These Days - UK Release - B Side</th></tr>
+<tr id="infobox2"><th colspan="3">Some Of These Days - Poland Release - B Side</th></tr>
 <tr><th style="width:49%; vertical-align:top;" rowspan="7" class="top">
 <div id="slideshow2">
 <div>
@@ -75,7 +75,7 @@ last_modified_at: 12 March 2024
 
 <figure class="fig3">
 <table>
-<tr id="infobox3"><th colspan="2">Some Of These Days - UK Release - Details</th></tr>
+<tr id="infobox3"><th colspan="2">Some Of These Days - Poland Release - Details</th></tr>
 <tr style="width:49%;"><th>Label:</th><td>Polskie Nagrania „Muza” - SS 739</td></tr>
 <tr><th>Format:</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country:</th><td>Poland</td></tr>

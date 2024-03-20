@@ -116,7 +116,7 @@ categories: [Publicity, Lena-and-Bonnie, Bonnie-Langford]
 <figure class="fig2">
 <img src="/assets/images/lena-and-bonnie/lena-bonnie-13.jpg" class="full-width">
 <figcaption>
-The TVTimes dated: 25-31 March 1978 used This Photo for the cover image.
+<a href="/1978-03-25-tvtimes">The TVTimes dated: 25-31 March 1978</a> used This Photo for the cover image.
 &copy; 1978 Chris Moorhouse / LWT
 </figcaption>
 </figure>
