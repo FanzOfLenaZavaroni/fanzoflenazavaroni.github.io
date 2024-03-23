@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1985-03-17-a-royal-night-of-one-hundred-stars.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a5ca93a3fe90bcc0ce5f1226a5803b8035ddc8e0)
-- [Update index.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e416f54ea774762e01a4efd45beeb70879439af3)
-- [Update 2024-03-16-notice.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a5e7fd8534b0469b942e92e729d32953dcd8401a)
-- [Update 2024-03-16-notice.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f9fa888059829d7043242ed46e5a0b5ae2462ec2)
-- [Update 2024-03-16-notice.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/090eeb58fa71f264ab5c8491e7cd4c07c079f21e)
+- [Update 1974-03-23-01-cash-box.png, 1974-03-23-52-cash-box.png, and 19…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1c7ccdb025982b880a28e5fc6111fbad7010e7cc)
+- [Update 1077767_orig.jpg, 1639392_orig.jpg, and 24 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a4ff241f168ccdc6592f92720b8121b0d242cdba)
+- [Update 0FFO-2008-0322-0001.jpeg, 2008-03-22-the-times.md, and 1974-09…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5e3928b01f1d926b1ca7a58e8fefe58e94826d5f)
+- [Update 1976-03-26-some-of-these-days-uk.md, 1978-03-25-tvtimes.md, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e8528259b807e420070456ac2742aad2719345ba)
+- [Update 1976-some-of-these-days-germany.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a2e6c1368d5d426ee16368c2eeb18eeeb062d248)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
