@@ -25,6 +25,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "webrick"
   gem "jekyll-sass-converter", "< 3.0"
+  gem 'jekyll-redirect-from'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
