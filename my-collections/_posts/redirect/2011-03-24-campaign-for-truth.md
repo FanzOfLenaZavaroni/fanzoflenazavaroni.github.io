@@ -6,7 +6,6 @@ subtitle: Death in a White Coat
 description: Death in a White Coat.
 post_description: Death in a White Coat.
 categories: [Redirect, OnThisDay24March]
-redirect_to:
-  - /1963-11-04-lena-zavaroni/#campaign-for-truth
+redirect_to: /1963-11-04-lena-zavaroni/#campaign-for-truth
 ---
 
