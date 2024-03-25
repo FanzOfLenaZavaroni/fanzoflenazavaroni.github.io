@@ -5,7 +5,6 @@ maintitle: Internet Debris
 description: Little Girl Lost – Lena Zavaroni.
 post_description: Little Girl Lost – Lena Zavaroni.
 categories: [Redirect, OnThisDay27June]
-redirect_to:
-  - /1963-11-04-lena-zavaroni/#lena
+redirect_to: /1963-11-04-lena-zavaroni/#lena
 ---
 

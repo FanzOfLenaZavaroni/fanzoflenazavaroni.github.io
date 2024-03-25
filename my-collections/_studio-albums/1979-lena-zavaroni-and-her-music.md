@@ -1,16 +1,16 @@
 ---
 layout: discography
-year: July 1979
-last_modified_at: 15 June 2023
 title: Lena Zavaroni And Her Music
 maintitle: Lena Zavaroni And Her Music
 subtitle: Studio Album
 description: 
 image: /assets/images/albums/lena-zavaroni-and-her-music.jpg
 categories: [Discography:-Studio-Albums]
+last_modified_at: 25 March 2024
 ---
 
-<figure class="fig1" id="galaxy">
+<figure class="fig1">
+<h3 id="infobox1"><a href="#infobox1">Album Cover and Details</a></h3>
 <img src="/assets/images/albums/lena-zavaroni-and-her-music.jpg" class="full-width" alt="Front Cover for the album Lena Zavaroni And Her Music (1979)" />
 <figcaption>
 <table>
@@ -23,7 +23,8 @@ categories: [Discography:-Studio-Albums]
 </figcaption>
 </figure>
 
-<figure class="fig2" id="Tracks">
+<figure class="fig2">
+<h3 id="infobox2"><a href="#infobox2">Tracks</a></h3>
 <figcaption>
 <strong>A-Side</strong>
 </figcaption>
@@ -44,27 +45,7 @@ categories: [Discography:-Studio-Albums]
 <li>I Don't Need A Doctor</li>
 <li>Spotlight</li>
 </ol>
-
-<div data-video="AVBoabLLfw8" data-autoplay="0" data-loop="1" id="youtube-audio"></div>Listen to sampler
-<script src="https://www.youtube.com/iframe_api"></script>
-<script src="/assets/js/yt.js"></script>
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.padding {margin-bottom:0;}
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
