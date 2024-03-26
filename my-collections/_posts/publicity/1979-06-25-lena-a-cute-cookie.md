@@ -7,7 +7,7 @@ description: Lena Zavaroni and Music - Episode 6 and The Lena Zavaroni Show - Sp
 post_description: Lena Zavaroni and Music - Episode 6 and The Lena Zavaroni Show - Spa Theatre, Bridlington.
 image: /assets/images/publicity/1979-06-25-lena-zavaroni-front.jpg
 categories: [Publicity, Spa-Theatre, Bridlington, Lena-Zavaroni-and-Music, OnThisDay25June]
-last_modified_at: 24 June 2023
+last_modified_at: 26 March 2024
 ---
 
 <figure class="fig1">
@@ -30,7 +30,7 @@ last_modified_at: 24 June 2023
 <h3>Related Events</h3>
 <ul>
 <li><a href="/1979-06-27-lena-zavaroni-and-music">Lena Zavaroni and Music - Episode 6</a></li>
-<li><a href="/1979-07-06-the-lena-zavaroni-show">The Lena Zavaroni Show - Spa Theatre, Bridlington</a></li>
+<li><a href="/1979-07-05-the-lena-zavaroni-show">The Lena Zavaroni Show - Spa Theatre, Bridlington</a></li>
 </ul>
 </figcaption>
 </figure>
