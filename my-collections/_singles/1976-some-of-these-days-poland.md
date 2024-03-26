@@ -46,6 +46,7 @@ last_modified_at: 12 March 2024
 <tr><th>Composer:</th><td>Will Rossiter</td></tr>
 <tr><th>Producer:</th><td>Ernest Maxin</td></tr>
 <tr><th>Arranger:</th><td>Peter Knight</td></tr>
+
 </table>
 </figure>
 
@@ -80,6 +81,7 @@ last_modified_at: 12 March 2024
 <tr><th>Format:</th><td>7" Vinyl, 45 rpm Single</td></tr>
 <tr><th>Country:</th><td>Poland</td></tr>
 <tr><th>Released:</th><td>1976</td></tr>
+<tr><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/ss739">ss739</a></td></tr>
 </table>
 </figure>
 
