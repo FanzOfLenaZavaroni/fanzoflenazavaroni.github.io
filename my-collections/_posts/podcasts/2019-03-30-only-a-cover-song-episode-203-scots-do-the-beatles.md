@@ -14,8 +14,10 @@ permalink: /discography/podcasts/:name
 <figure class="fig3">
 <table>
 <tr id="infobox1"><th colspan="3">Podcast Spoken In English</th></tr>
-<tr><td colspan="3">
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/only-a-cover-song-episode-203-scots-do-the-beatles/id1620564481?i=1000558388548"></iframe>
+<tr><th style="width:25%;" class="top"><img src="/assets/images/podcasts/Only-A-Cover-Song-Episode-203-Scots-Do-The-Beatles.jpg" class="full-width" /></th>
+<td style="width:75%;">
+<audio id="player" src="/assets/media/podcast/Only-A-Cover-Song-Episode-203-Scots-Do-The-Beatles.mp3" type="audio/mpeg"><p>Your browser doesn't support HTML5 audio. Here is a <a href="/assets/media/podcast/Only-A-Cover-Song-Episode-203-Scots-Do-The-Beatles.mp3">link to the audio</a> instead.</p></audio>
+<div><button onclick="document.getElementById('player').play()">Play</button><button onclick="document.getElementById('player').play(); document.getElementById('player').currentTime = 3362;">Jump To Lena Zavaroni Singing Penny Lane</button><button onclick="document.getElementById('player').pause()">Pause</button><button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button><button onclick="document.getElementById('player').volume += 0.1">Vol +</button><button onclick="document.getElementById('player').volume -= 0.1">Vol -</button></div>
 </td></tr>
 <tr id="infobox2" class="split"><th>Singers</th><th>Songs</th></tr>
 <tr><th>Load Control</th><td>Scotland</td></tr>
