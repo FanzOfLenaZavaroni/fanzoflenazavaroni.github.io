@@ -31,7 +31,7 @@ permalink: /discography/podcasts/:name
 <tr><th>Cream</th><td>Passing The Time</td></tr>
 <tr><th>Jack Bruce</th><td>Eleanor Rigby</td></tr>
 <tr><th>Teenage Fanclub</th><td>The Ballad of John and Yoko</td></tr>
-<tr id="infobox3" style="outline: 4px dashed darkorange; outline-offset: -4px;"><th>Lena Zavaroni</th><td>Penny Lane at approximately 00:56:02 into the podcast.</td></tr>
+<tr id="infobox3" style="outline: 4px dashed darkorange; outline-offset: -4px;"><th>Lena Zavaroni</th><td>Penny Lane</td></tr>
 </table>
 </figure>
 
