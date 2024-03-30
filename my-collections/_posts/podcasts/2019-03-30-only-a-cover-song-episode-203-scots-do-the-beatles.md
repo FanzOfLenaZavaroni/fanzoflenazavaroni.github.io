@@ -16,7 +16,7 @@ permalink: /discography/podcasts/:name
 <tr id="infobox1"><th colspan="3">Podcast Spoken In English</th></tr>
 <tr><th style="width:25%;" class="top"><img src="/assets/images/podcasts/Only-A-Cover-Song-Episode-203-Scots-Do-The-Beatles.jpg" class="full-width" /></th>
 <td style="width:75%;">
-<audio id="player" src="https://fanzoflenazavaroni.github.io/assets/media/podcast/Only-A-Cover-Song-Episode-203-Scots-Do-The-Beatles.mp3" type="audio/mpeg"><p>Your browser doesn't support HTML5 audio. Here is a <a href="https://fanzoflenazavaroni.github.io/assets/media/podcast/Only-A-Cover-Song-Episode-203-Scots-Do-The-Beatles.mp3">link to the audio</a> instead.</p></audio>
+<audio id="player" src="/assets/media/podcast/Only-A-Cover-Song-Episode-203-Scots-Do-The-Beatles.mp3" type="audio/mpeg"><p>Your browser doesn't support HTML5 audio. Here is a <a href="/assets/media/podcast/Only-A-Cover-Song-Episode-203-Scots-Do-The-Beatles.mp3">link to the audio</a> instead.</p></audio>
 <div><button onclick="document.getElementById('player').play()">Play</button><button onclick="document.getElementById('player').play(); document.getElementById('player').currentTime = 4275;">Jump To Lena Zavaroni Singing Penny Lane</button><button onclick="document.getElementById('player').pause()">Pause</button><button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button><button onclick="document.getElementById('player').volume += 0.1">Vol +</button><button onclick="document.getElementById('player').volume -= 0.1">Vol -</button></div>
 </td></tr>
 <tr id="infobox2" class="split"><th>Singers</th><th>Songs</th></tr>
