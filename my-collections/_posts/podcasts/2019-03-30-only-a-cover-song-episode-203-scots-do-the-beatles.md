@@ -14,7 +14,8 @@ permalink: /discography/podcasts/:name
 <figure class="fig3">
 <table>
 <tr id="infobox1"><th colspan="3">Podcast Spoken In English</th></tr>
-<tr><td colspan="3"><iframe src="https://www.listennotes.com/podcasts/only-a-cover-songs/only-a-cover-song-episode-HSvO7BfVrI6/embed/" height="170px" width="100%" style="width: 1px; min-width: 100%;" loading="lazy" frameborder="0" scrolling="no"></iframe>
+<tr><td colspan="3">
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/only-a-cover-song-episode-203-scots-do-the-beatles/id1620564481?i=1000558388548"></iframe>
 </td></tr>
 <tr id="infobox2" class="split"><th>Singers</th><th>Songs</th></tr>
 <tr><th>Load Control</th><td>Scotland</td></tr>
