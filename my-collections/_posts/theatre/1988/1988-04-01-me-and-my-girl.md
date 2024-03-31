@@ -38,7 +38,7 @@ last_modified_at: 18 January 2024
 <table>
 <tr id="infobox2"><th>Bonnie Langford Programme Details</th><th colspan="2">Production</th></tr>
 <tr>
-<th rowspan="13" class="top" style="width:50%;"><a href="/assets/images/theatres/1988-04-01-me-and-my-girl-programme-bl.jpg"><img src="/assets/images/theatres/1988-04-01-me-and-my-girl-programme-bl.jpg" class="full-width zoom-in" /></a><cite>In 1978, at the tender age of thirteen, she teamed up with Lena Zavaroni to make the top-rated TV special <a href="/1978-03-26-lena-and-bonnie/">Lena and Bonnie</a>.</cite></th>
+<th rowspan="13" class="top" style="width:50%;"><a href="/assets/images/theatres/1988-04-01-me-and-my-girl-programme-bl.jpg"><img src="/assets/images/theatres/1988-04-01-me-and-my-girl-programme-bl.jpg" class="full-width zoom-in" /></a><cite>In 1978, at the tender age of thirteen, she teamed up with  <span style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni</span> to make the top-rated TV special <a href="/1978-03-26-lena-and-bonnie/">Lena and Bonnie</a>.</cite></th>
 </tr>
 <tr><th style="width:25%;">Book and Lyrics</th> <td>L. Arthur Rose & Douglas Furber</td></tr>
 <tr><th>Music</th><td>Noel Gay</td></tr>
