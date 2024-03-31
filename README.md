@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1974-04-03-joepie-belgium-magazine-en.png, 1975-06-13-smile.md…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/592abe124a70291aedd84cd69f9d7971cf09c076)
+- [Merge branch &#39;main&#39; of https://FanzOfLenaZavaroni@github.com/FanzOfLe…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b996678dd880fd30916fc07e3588ab66f815ba92)
+- [Update 2024-04-01-etudes-écossaises.png and 2024-04-01-etudes-écossai…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4f1f106ad09700e163f93ae95411fce5f2978c38)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bf69ac71ad681f75794b1d38d882210801a7b36b)
 - [Update 2019-03-30-only-a-cover-song-episode-203-scots-do-the-beatles.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0473e557f592b755ee9423631c9d2947342efb6d)
-- [Update 2019-03-30-only-a-cover-song-episode-203-scots-do-the-beatles.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3d2f419064b0f5aea5364b3621168c01fa35962a)
-- [Update 2019-03-30-only-a-cover-song-episode-203-scots-do-the-beatles.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/06daa5bb9b4da0ef4f5377c207015d56d422dd92)
-- [Update Only-A-Cover-Song-Episode-203-Scots-Do-The-Beatles.jpg, Only-A…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2996adfea835699d6f2e57a0e083b146f11640b2)
-- [Update 2019-03-30-only-a-cover-song-episode-203-scots-do-the-beatles.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d6ec189869e959502bc505d1eb6dabd2fdf56d8d)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
