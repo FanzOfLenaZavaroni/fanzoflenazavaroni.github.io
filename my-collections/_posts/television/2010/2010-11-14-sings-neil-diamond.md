@@ -8,7 +8,7 @@ subtitle: BBC Two with Regular Repeats On BBC Four and BBC iPlayer
 description: Part of BBC Two's 'tribute night' for Neil Diamond, the programmed featured archive clips of famous artists performing his songs.
 post_description: Part of BBC Two's 'tribute night' for Neil Diamond, the programmed featured archive clips of famous artists performing his songs.
 image: /assets/images/BBC-PIDs/1920xn/p01h23pf.jpg
-categories: [BBC-Two, BBC-Four, OnThisDay14November, Repeat1April2022]
+categories: [BBC-Two, BBC-Four, OnThisDay14November, OnThisDay1April]
 last_modified_at: 23 December 2023
 ---
 
