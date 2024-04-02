@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ...Sings Neil Diamond &#124; 14 November 2010
-before: "Original Broadcast On "
-after: " - Last Repeated On 1 April 2022"
+before: "Original Broadcast "
+after: " In SD on BBC Two - Last Repeated on 1 April 2022 in HD On BBC Four"
 maintitle: ...Sings Neil Diamond
 subtitle: BBC Two with Regular Repeats On BBC Four and BBC iPlayer
 description: Part of BBC Two's 'tribute night' for Neil Diamond, the programmed featured archive clips of famous artists performing his songs.
@@ -14,7 +14,7 @@ last_modified_at: 23 December 2023
 
 Part of BBC Two's 'tribute night' for Neil Diamond, the programmed featured archive clips of famous artists performing his songs.
 
-<figure class="fig1">
+<figure class="fig3">
 <img src="/assets/images/BBC-PIDs/1920xn/p01h23pf.jpg" class="full-width">
 <figcaption>
 <p>A compilation from the BBC archive of performances featuring songs written by, or associated with, Neil Diamond. Featuring Lulu, UB40, Vince Hill, Robert Wyatt, Gladys Knight, Urge Overkill, Lena Zavaroni, The Hollies and a duet by Neil Diamond and Shirley Bassey.</p>
@@ -22,14 +22,26 @@ Part of BBC Two's 'tribute night' for Neil Diamond, the programmed featured arch
 </figcaption>
 </figure>
 
-<figure class="fig2">
-<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/tsHVJvkJY2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<figcaption>
-Lena's performance of Forever In Blue Jeans, from her 1979 series Lena Zavaroni and Music - Episode 6, was included.
-</figcaption>
+<figure class="fig3">
+<h3 id="infobox3"><a href="#infobox3">Notes</a></h3>
+<blockquote>
+<p>At the time of the original broadcast the BBC Channels were still broadcasting in Standard Definition (SD) for high definition (HD) viewers would have to watch BBC HD which was a channel that showed a selection of programmes from across the BBC's' other channels so limited in what was showed.</p>
+<table>
+<tr><th colspan="4">Dates</th></tr>
+<tr><th>Channel</th><th>Launched</th><th>Closed</th><th>Replaced by</th></tr>
+<tr><th>BBC HD</th><td>15/05/2006</td><td>26/03/2013</td><td>BBC Two HD</td></tr>
+<tr><th>BBC One HD</th><td>03/11/2010</td><td>N/A</td><td>N/A</td></tr>
+<tr><th>BBC Two HD</th><td>26/03/2013</td><td>N/A</td><td>N/A</td></tr>
+<tr><th>BBC Three HD</th><td>10/12/2013</td><td>16/02/2016</td><td>BBC Three<br />(streaming service)</td></tr>
+<tr><th>BBC Three<br />(streaming service)</th><td>16/02/2016</td><td>01/02/2022</td><td>BBC Three HD</td></tr>
+<tr><th>BBC Three HD Relaunched</th><td>01/02/2022</td><td>N/A</td><td>N/A</td></tr>
+<tr><th>BBC Four HD</th><td>10/12/2013</td><td>N/A</td><td>N/A</td></tr>
+</table>
+<p>...Sings Neil Diamond may have got it's first HD broadcast on 19 November 2016 (unable to confirm as even to this day the BBC broadcasts SD content on its HD channels, Yes it's currently on BBC iPlayer in HD but it may just be upscaled from SD): <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_four/2016-11-19#at-0.50">BBC Genome</a> / <a class="external-link" href="https://www.bbc.co.uk/schedules/p00fzl6b/2016/11/19">BBC Listing Page</a> and just to confuse the issue the BBC Page for ...Sings Neil Diamond gives the date as the 20th so even the editor of the page is confused by how the BBC lists it's programmes as they ignore the fact that the date changes as midnight.</p>
+<p>In the world as we know it the programme was broadcast on the 20 November 2016 but in the BBC listings it is listed under the 19 November 2016 but who ever edited this page used the real world date that does not work on the BBC website as if you go to the 20 November 2016 to look for ...Sings Neil Diamond you will not find it there you have to go to the day before. This is also true a number of other dates and programmes so if you are reaching content always remember to check the day before in the BBC listings.</p>
+</blockquote>
+<cite>Robcamstone</cite>
 </figure>
-
-{: .clear}
 
 <figure class="fig3">
 <table>
@@ -109,24 +121,10 @@ Forever In Blue Jeans</td></tr>
 ...Sings Neil Diamond was scheduled for a broadcast on BBC Four on the 23 March 2019 at 00:30 but the broadcast never went ahead why I don't know. When the BBC pulls a broadcast it just updates the TV listings for the day and does not indicate that a programme had been pulled or the reason why.
 
 <style>
-.fig1 {float:left; width:100%;}
-figcaption {float:left; width:100%;}
-
-.fig2 {float:right; width:100%;}
-figcaption {float:left; width:100%;}
-
-.fig3 {float:left; width:100%;}
-
 .fig4 {float:left; border: solid #dddfe2 1px; padding: 10px;}
 figcaption {float:left; width:100%;}
 
 .fig5 {float:left; border: solid #dddfe2 1px; padding: 10px;}
 figcaption {float:left; width:100%;}
-
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
 </style>
 
