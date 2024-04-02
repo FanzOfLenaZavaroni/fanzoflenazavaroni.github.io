@@ -1,6 +1,5 @@
 ---
 layout: discography
-year: 3 April 1981
 title: Roses And Rainbows
 maintitle: Roses And Rainbows
 subtitle: Lena Zavaroni's Eleventh UK Single
