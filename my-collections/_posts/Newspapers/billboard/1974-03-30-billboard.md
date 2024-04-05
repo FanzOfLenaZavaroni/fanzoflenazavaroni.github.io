@@ -43,8 +43,8 @@ last_modified_at: 28 March 2024
 <figure class="fig2">
 <h3 id="infobox5"><a href="#infobox5">Quote From Page 107</a></h3>
 <blockquote>
-<p><strong>Billboard - Hits of the World - BRITAIN</strong></p>
-<p>Lena Zavaroni's single Ma! (He's Making Eyes At Me) moves down the charts from number 14 to number 17.</p>
+<p><strong>Billboard - Hits of the World</strong></p>
+<p><strong>BRITAIN</strong> &#8212; Lena Zavaroni's single Ma! (He's Making Eyes At Me) moves down the charts from number 14 to number 17.</p>
 </blockquote>
 </figure>
 
