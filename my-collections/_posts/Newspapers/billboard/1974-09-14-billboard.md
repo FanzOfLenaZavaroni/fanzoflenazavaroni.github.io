@@ -4,14 +4,14 @@ title: Billboard &#124; 14 September 1974
 maintitle: Billboard
 subtitle: Newspaper
 description: Billboard Newspaper had a couple of articles that referenced Lena Zavaroni.
-media: Newspaper
 post_description: had a couple of articles that referenced Lena Zavaroni.
-image: /assets/images/magazines/1974-09-14-billboard-front-cover.jpg
+image: /assets/images/newspapers/billboard/1974-09-14-billboard-front-cover.jpg
 categories: [Newspapers, Billboard, OnThisDay14September]
+last_modified_at: 6 April 2024
 ---
 
 <figure class="fig1">
-<a href="/assets/images/magazines/1974-09-14-billboard-front-cover.jpg"><img src="/assets/images/magazines/1974-09-14-billboard-front-cover.jpg" class="full-width zoom-in"></a>
+<a href="/assets/images/newspapers/billboard/1974-09-14-billboard-front-cover.jpg"><img src="/assets/images/newspapers/billboard/1974-09-14-billboard-front-cover.jpg" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
@@ -23,11 +23,11 @@ categories: [Newspapers, Billboard, OnThisDay14September]
 {: .clear}
 
 <figure class="fig1">
-<a href="/assets/images/magazines/1974-09-14-billboard-page-56.jpg"><img src="/assets/images/magazines/1974-09-14-billboard-page-56.jpg" class="full-width zoom-in"></a>
+<a href="/assets/images/newspapers/billboard/1974-09-14-billboard-page-56.jpg"><img src="/assets/images/newspapers/billboard/1974-09-14-billboard-page-56.jpg" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
-<a href="/assets/images/magazines/1974-09-14-billboard-singles.png"><img src="/assets/images/magazines/1974-09-14-billboard-singles.png" class="full-width zoom-in"></a>
+<a href="/assets/images/newspapers/billboard/1974-09-14-billboard-singles.png"><img src="/assets/images/newspapers/billboard/1974-09-14-billboard-singles.png" class="full-width zoom-in"></a>
 </figure>
 
 <br />{: .clear}
