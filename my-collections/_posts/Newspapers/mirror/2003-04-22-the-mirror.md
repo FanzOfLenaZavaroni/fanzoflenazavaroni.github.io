@@ -18,7 +18,4 @@ categories: [Newspapers, Mirror, Andrew-O'Hagan, OnThisDay22April]
 
 <cite><a href="https://www.thefreelibrary.com/The+Scurra.-a0100434743">The Free Library</a></cite>
 
-<h3 id="logical"> <a href="#logical">Logical Outcome of The Mirror's comparison</a></h3>
-> So as we can see from the comparison between Maria Tambini and Lena Zavaroni's life stories is the fact that the only fictional element of this work is the claim that it's not about Lena Zavaroni.
-
-<cite>Robcamstone</cite>
+<br />{: .clear}
