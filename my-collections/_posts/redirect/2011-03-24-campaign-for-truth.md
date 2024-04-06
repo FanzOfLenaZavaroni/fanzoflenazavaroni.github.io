@@ -5,7 +5,8 @@ maintitle: Campaign For Truth
 subtitle: Death in a White Coat
 description: Death in a White Coat.
 post_description: Death in a White Coat.
-categories: [Redirect-To-Media-Based-Biography-Of-Lena-Zavaroni, OnThisDay24March]
+categories: [Redirects-To-Media-Based-Biography-Of-Lena-Zavaroni, OnThisDay24March]
 redirect_to: /1963-11-04-lena-zavaroni/#campaign-for-truth
+class: internal-link
 ---
 
