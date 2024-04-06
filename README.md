@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f10931834318d0b5c6be5d72da0643ccacf58ef9)
-- [Update 1974-04-03-joepie-belgium-magazine-en.png, 1975-06-13-smile.md…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/592abe124a70291aedd84cd69f9d7971cf09c076)
-- [Merge branch &#39;main&#39; of https://FanzOfLenaZavaroni@github.com/FanzOfLe…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b996678dd880fd30916fc07e3588ab66f815ba92)
-- [Update 2024-04-01-etudes-écossaises.png and 2024-04-01-etudes-écossai…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4f1f106ad09700e163f93ae95411fce5f2978c38)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bf69ac71ad681f75794b1d38d882210801a7b36b)
+- [Update 2003-04-07-personality-hardcover.md, 2004-04-01-personality-pa…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1a3384b4299e0b2a97aa09171e749a7b88c9b186)
+- [Update 2003-04-22-the-mirror.md, 1966-03-22-carla-zavaroni-was-born.m…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/75ee130eec7791397c32dc71d75eb7f8c467b399)
+- [Update 1974-09-14-billboard-front-cover.jpg, 1974-09-14-billboard-pag…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4edfa7bf02084865b1cf98e9dff6ef51f979efbb)
+- [Update 1974-04-06-01-billboard.png, 1974-04-06-67-billboard.png, and …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fcda670a041fa8df9da56ef3b6f65f6fd42db6f9)
+- [Update 1975-04-05-01-billboard.png, 1975-04-05-44-billboard.png, and …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9a497e87fb031ad73553e1228f6aa70face83e33)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
