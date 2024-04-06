@@ -5,21 +5,21 @@ maintitle: Billboard
 subtitle: Newspaper
 description: Ibgui Launches Twin Labels with plans to produce Lena Zavaroni on one of them.
 post_description: Ibgui Launches Twin Labels with plans to produce Lena Zavaroni on one of them.
-image: /assets/images/magazines/1979-02-17-billboard-fc.png
+image: /assets/images/newspapers/billboard/1979-02-17-billboard-fc.png
 categories: [Newspapers, Billboard, OnThisDay17February]
-last_modified_at: 11 February 2024
+last_modified_at: 6 April 2024
 ---
 
 <figure class="fig1">
 <h3 id="infobox1"><a href="#infobox1">Front Cover</a></h3>
-<a href="/assets/images/magazines/1979-02-17-billboard-fc.png"><img src="/assets/images/magazines/1979-02-17-billboard-fc.png" class="full-width zoom-in" /></a>
+<a href="/assets/images/newspapers/billboard/1979-02-17-billboard-fc.png"><img src="/assets/images/newspapers/billboard/1979-02-17-billboard-fc.png" class="full-width zoom-in" /></a>
 <cite class="whitespace">Billboard - 10 February 2004,
 <a class="external-link" href="https://www.worldradiohistory.com/Archive-All-Music/Billboard/70s/1979/Billboard%201979-02-17.pdf">Page 1 of PDF</a></cite>
 </figure>
 
 <figure class="fig2">
 <h3 id="infobox2"><a href="#infobox2">Page 105</a></h3>
-<a href="/assets/images/magazines/1979-02-17-billboard-page-105.png"><img src="/assets/images/magazines/1979-02-17-billboard-page-105.png" class="full-width zoom-in" /></a>
+<a href="/assets/images/newspapers/billboard/1979-02-17-billboard-page-105.png"><img src="/assets/images/newspapers/billboard/1979-02-17-billboard-page-105.png" class="full-width zoom-in" /></a>
 <cite class="whitespace">Billboard - 10 February 2004,
 <a class="external-link" href="https://www.worldradiohistory.com/Archive-All-Music/Billboard/70s/1979/Billboard%201979-02-17.pdf#page=105">Page 105 of PDF</a></cite>
 </figure>
@@ -42,7 +42,7 @@ last_modified_at: 11 February 2024
 <li><a class="external-link" href="https://www.45cat.com/label/jonathan">Jonathan - Label Discography</a></li>
 <li><a class="external-link" href="https://www.45cat.com/label/atoll">Atoll - Label Discography</a></li>
 </ul>
-<strong>Currently only know of one single released on the Jonathan Label related to Lena</strong>
+<strong>Currently I only know of one single released on the Jonathan Label related to Lena</strong>
 <ul>
 <li><a href="/discography/singles/1978-i-shouldve-listened-to-mama-france">2S 008-16 617: Lena Zavaroni – I Should've Listened To Mama</a>.</li>
 </ul>
