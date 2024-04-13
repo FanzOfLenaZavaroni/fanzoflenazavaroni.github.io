@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 2003-04-07-personality-hardcover.md, 2004-04-01-personality-pa…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1a3384b4299e0b2a97aa09171e749a7b88c9b186)
-- [Update 2003-04-22-the-mirror.md, 1966-03-22-carla-zavaroni-was-born.m…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/75ee130eec7791397c32dc71d75eb7f8c467b399)
-- [Update 1974-09-14-billboard-front-cover.jpg, 1974-09-14-billboard-pag…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4edfa7bf02084865b1cf98e9dff6ef51f979efbb)
-- [Update 1974-04-06-01-billboard.png, 1974-04-06-67-billboard.png, and …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fcda670a041fa8df9da56ef3b6f65f6fd42db6f9)
-- [Update 1975-04-05-01-billboard.png, 1975-04-05-44-billboard.png, and …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9a497e87fb031ad73553e1228f6aa70face83e33)
+- [Update 1974-04-13-01-cash-box.png, 1974-04-13-20-cash-box.png, and 4 …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cb1950f2b3b8348fbc95e4fea71c0b8a9d6b4991)
+- [Update 1975-04-11-01-music-week.png, 1975-04-11-16-music-week.png, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1a5c359388766d3d5aed890e614e1c4b9a59c8ad)
+- [Update 1975-04-12-music-week.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/81bc195c9b85c6369bc2c6ea147adb374623ee14)
+- [Update 1981-04-11-01-music-week.png, 1981-04-11-24-music-week.png, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/786e4c90e54a5f8632dc9af1f3ab0c9e44e40220)
+- [Update 1976-04-10-01-record-mirror.png, 1976-04-10-29-record-mirror.p…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9b8e8e37db3185c8ccf2920571606259145bf330)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
