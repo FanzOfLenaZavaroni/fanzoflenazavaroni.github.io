@@ -77,7 +77,7 @@ categories: [BBC-One, Multi-Coloured-Swap-Shop, OnThisDay17April]
 >
 > In fact Brown Sauce also performed on TOTP.
 >
-> Good quality rare video recorded from Top Of The Pos 1981. Keith Chegwin (Cheggers) on Guitar Maggie on Bass (his wife) and Knoel Edmonds on Drums. Brown Sauce was a pop band, made up of presenters from the television programme, Multi-Coloured Swap Shop. These were Keith Chegwin, Maggie Philbin and Noel Edmonds. They formed for a one-off single in late 1981 called "I Wanna Be a Winner". After that became a hit, they released another in 1982, but failed to make an impact.
+> Good quality rare video recorded from Top Of The Pos 1981. Keith Chegwin (Cheggers) on Guitar Maggie on Bass (his wife) and Noel Edmonds on Drums. Brown Sauce was a pop band, made up of presenters from the television programme, Multi-Coloured Swap Shop. These were Keith Chegwin, Maggie Philbin and Noel Edmonds. They formed for a one-off single in late 1981 called "I Wanna Be a Winner". After that became a hit, they released another in 1982, but failed to make an impact.
 
 <cite>[memorylane1980s](https://youtu.be/4eHuH65qEX4)</cite>
 
