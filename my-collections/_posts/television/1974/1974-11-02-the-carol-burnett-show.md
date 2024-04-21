@@ -2,12 +2,13 @@
 layout: post
 title: The Carol Burnett Show &#124; 2 November 1974
 maintitle: The Carol Burnett Show
+before: "Original Broadcast "
+after: " - Repeated On 21 April 1987"
 subtitle: Season 8, Episode 7
 description: Lena Zavaroni was one of the guest on the show.
-media: US Television
 post_description: Lena Zavaroni was one of the guest on the show.
 image: /assets/images/US-TV/1974-11-02-the-carol-burnett-show.jpg
-categories: [US-Television, OnThisDay2November]
+categories: [US-Television, OnThisDay2November, OnThisDay21April]
 ---
 
 <figure class="fig1">
