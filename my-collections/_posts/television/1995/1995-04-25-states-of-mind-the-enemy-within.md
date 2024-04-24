@@ -23,7 +23,7 @@ categories: [BBC-Two, OnThisDay25April]
 ### Cast
 <table>
 <tr><th>Interviewee:</th><td>Michaela Strachan</td></tr>
-<tr><th>Interviewee:</th><td>Professor Anthony Clare</td></tr>
+<tr><th>Interviewer:</th><td>Professor Anthony Clare</td></tr>
 </table>
 
 <br />{: .clear}
