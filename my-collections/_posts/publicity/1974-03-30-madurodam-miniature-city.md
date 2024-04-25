@@ -1,13 +1,14 @@
 ---
 layout: publicity-photos
-last_modified_at: 15 June 2023
 title: Publicity &#124; Photos &#124; Lena at the Madurodam Miniature City &#124; 30 March 1974
 maintitle: Publicity Photos
 subtitle: Lena at the Madurodam Miniature City
+after: " - The Press Association has a release date of 25 April 1974 for the photos"
 description: Lena at the Madurodam Miniature City
 media: Publicity Photos
 post_description: Lena at the Madurodam Miniature City
-categories: [Publicity, OnThisDay30March]
+categories: [Publicity, OnThisDay30March, OnThisDay25April]
+last_modified_at: 25 April 2024
 ---
 
 <figure class="fig1">
