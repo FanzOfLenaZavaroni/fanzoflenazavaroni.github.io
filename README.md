@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1974-04-14-junior-showtime.md and 1974-04-21-junior-showtime.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9cd2ad1630108b9e86428b91631b197be308e8ed)
-- [Update 1981-04-17-multi-coloured-swap-Shop.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/523360b5fea8d118b3de7e2b168358f49b36abb2)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4495f9844d0c6a09d1d27b57abb50f08d8a8c0eb)
-- [Update 1974-04-13-01-cash-box.png, 1974-04-13-20-cash-box.png, and 4 …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/cb1950f2b3b8348fbc95e4fea71c0b8a9d6b4991)
-- [Update 1975-04-11-01-music-week.png, 1975-04-11-16-music-week.png, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1a5c359388766d3d5aed890e614e1c4b9a59c8ad)
+- [Update 1974-04-27-record-&amp;-radio-mirror.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/45039748b08c6b86d72a7864354ab55233f9a831)
+- [Update 1974-03-30-madurodam-miniature-city.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4dc514827f5771da27d17021ebdf70f1f550a77a)
+- [Update 1995-04-25-states-of-mind-the-enemy-within.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c58a041ddeb0ba53a2dd3648dec0fe5048a396fe)
+- [Update 1974-11-02-the-carol-burnett-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/379facb6f66960f77bbf92428022413cb5447e4b)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fed5170f71dba4f0ed333325f8023e52f4010d81)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
