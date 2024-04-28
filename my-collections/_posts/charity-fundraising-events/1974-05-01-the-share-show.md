@@ -26,7 +26,7 @@ last_modified_at: 23 December 2023
 <figure class="fig2">
 <h3 id="getty"><a href="#getty">Getty Images</a></h3>
 <a id='MCy8JodPSON1aU7HiGD9vg' class='gie-single' href='http://www.gettyimages.com/detail/103908505' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'MCy8JodPSON1aU7HiGD9vg',sig:'I97xSG1vEhL6-ZVE7yxXYFPPmX0aHuZHrcC9zqQBs_M=',w:'400px',h:'594px',items:'103908505',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
-<cite>My Thanks to <a class="external-link" href="https://github.com/StephenMolloy1">StephenMolloy1</a> of <a href="/research#l">Loving Lena Zavaroni</a> for the link to the photo and for proving the only date we have for the event.</cite>
+<cite>My Thanks to THE LENA ZAVARONI ARCHIVE for the link to the photo and for proving the only date we have for the event.</cite>s
 </figure>
 
 {: .clear}
