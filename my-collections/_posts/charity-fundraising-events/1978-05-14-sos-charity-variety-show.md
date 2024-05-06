@@ -10,10 +10,9 @@ categories: [Theatre, Theatre-Royal, Nottingham, Fundraising, OnThisDay14May]
 
 There are a number of charities with the leters SOS as part of their name so at this time it's not clear which of the charities was being represented.
 
-I had thought it was the following charity <a href="https://www.sos-childrensvillages.org/who-we-are/history">SOS Children's Villages</a> but a post by <a class="external-link" href="https://www.facebook.com/photo/?fbid=260272483031889&amp;set=pcb.260281626364308">Loving Lena Zavaroni</a> suggests that it must be another charity.
+I had thought it was the following charity <a href="https://www.sos-childrensvillages.org/who-we-are/history">SOS Children's Villages</a> but a post by Loving Lena Zavaroni suggests that it must be another charity.
 
-### [Performers](#performers)
-
+<h3 id="infobox1"><a href="#infobox1">Performers</a></h3>
 <table>
 <tr><th style="width:50%;">Australian Entertainer</th><td style="width:50%;">Rolf Harris</td></tr>
 <tr><th>Scottish Singer</th><td>Lena Zavaroni</td></tr>
@@ -23,3 +22,4 @@ I had thought it was the following charity <a href="https://www.sos-childrensvil
 <tr><th>Impressionist</th><td>Karen Kay</td></tr>
 <tr><th>Magician</th><td>John Wade</td></tr>
 </table>
+

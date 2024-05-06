@@ -9,11 +9,11 @@ description: Lena Zavaroni at the BBC Manchester Variety Club for BBC Radio 2.
 media: Details
 post_description: Broadcast on BBC Radio 2 with a repeated on 11 May 1982.
 image: /assets/images/
-categories: [BBC-Radio-2, OnThisDay6October, Repeat11May]
-last_modified_at: 23 December 2023
+categories: [BBC-Radio-2, OnThisDay6October, OnThisDay11May]
+last_modified_at: 6 May 2024
 ---
 
-### Contributors
+<h3 id="infobox1"> <a href="#infobox1">Contributors</a></h3>
 <table>
 <tr><th style="width:50%;">Host</th><td style="width:50%;">Martin Dale</td></tr>
 <tr><th>Star/SInger</th><td>Lena Zavaroni</td></tr>
