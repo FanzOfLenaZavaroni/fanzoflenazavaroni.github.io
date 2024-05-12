@@ -23,7 +23,7 @@ categories: [BBC-Radio-2, OnThisDay4May, OnThisDay13May]
 </table>
 
 <h3 id="infobox1"><a href="#infobox1">Details</a></h3>
-<p>Recorded on the 4 May 1977 from the Top Rank Club, Main street, Rutherglen, Glasgow for broadcast on BBC Radio 2's Pete Murray’s Open House which ran each Friday from 09:02 until 11:30.</p>
+<p>Recorded on the 4 May 1977 from the Top Rank Club, Main street, Rutherglen, Glasgow for broadcast on BBC Radio 2's Pete Murray’s Open House from Glasgow which ran each Friday from 09:02 until 11:30.</p>
 <p>At 10:30 until 10:45 <a href="https://www.bbc.com/historyofthebbc/anniversaries/april/waggoners-walk">Waggoners' Walk</a> was broadcast which was a suburban soap opera.</p>
 
 <h3 id="infobox2"><a href="#infobox2">Lena's section of the broadcast</a></h3>
