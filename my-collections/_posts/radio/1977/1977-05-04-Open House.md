@@ -5,44 +5,27 @@ after: " And Broadcast On BBC Radio 2 On 13 May 1977 at 09.02"
 title: Pete Murray's Open House from Glasgow &#124; 13 May 1977
 maintitle: Pete Murray's Open House from Glasgow
 subtitle: BBC Radio 2
-description: The recording and broadcast dates are unconfirmed, but with what little information is show on BBC Genome I beleave the broadcast date is the 13 May as it's the only episode listed as being from Glasgow that would fit in with having Lena Zavaroni on the show the only other broadcast from the same location pre-dates Lena as it was broadcast on the 8 December 1972.
-media: BBC Radio 2
-post_description: The recording and broadcast dates are unconfirmed, but with what little information is show on BBC Genome I beleave the broadcast date is the 13 May as it's the only episode listed as being from Glasgow that would fit in with having Lena Zavaroni on the show the only other broadcast from the same location pre-dates Lena as it was broadcast on the 8 December 1972.
+description: Recorded on the 4 May 1977 from the Top Rank Club, Main street, Rutherglen, Glasgow for broadcast on BBC Radio 2's Pete Murray’s Open House.
+post_description: Recorded on the 4 May 1977 from the Top Rank Club, Main street, Rutherglen, Glasgow for broadcast on BBC Radio 2's Pete Murray’s Open House.
 categories: [BBC-Radio-2, OnThisDay4May, OnThisDay13May]
 ---
 
 <table>
 <tr align="center">
-<th colspan="3">Jump To:</th>
+<th colspan="2">Jump To:</th><th>BBC Genome:</th>
 </tr>
 
 <tr align="center">
-<td><a href="#unconfirmed-details">Unconfirmed Details</a></td>
-<td><a href="#supporting-details">Supporting Details</a></td>
-<td><a href="#lenas-section-of-the-broadcast">Lena's section of the broadcast</a></td>
-</tr>
-
-<tr align="center">
-<th colspan="3">External Link:</th>
-</tr>
-<tr align="center">
-<td colspan="2" style="width:50%;"><a href="https://genome.ch.bbc.co.uk/search/0/20?adv=0&q=Pete+Murray%27s+Open+House+Glasgow&media=all&yf=1923&yt=2009&mf=1&mt=12&tf=00%3A00&tt=00%3A00#search">List of Broadcasts from Glasgow</a></td>
-<td colspan="2" style="width:50%;"><a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_radio_two/1977-05-13#at-9.02">Episode dated 13 May 1977</a></td>
+<td><a href="#infobox1">Details</a></td>
+<td><a href="#infobox2">Lena's section of the broadcast</a></td>
+<td><a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_radio_two/1977-05-13#at-9.02">Pete Murray's Open House from Glasgow</a></td>
 </tr>
 </table>
 
-### [Unconfirmed Details](#unconfirmed-details)
-> The recording and broadcast dates are unconfirmed, but with what little information is show on BBC Genome I beleave the broadcast date is the 13 May as it's the only episode listed as being from Glasgow that would fit in with having Lena Zavaroni on the show the only other broadcast from the same location pre-dates Lena as it was broadcast on the 8 December 1972.
+<h3 id="infobox1"><a href="#infobox1">Details</a></h3>
+<p>Recorded on the 4 May 1977 from the Top Rank Club, Main street, Rutherglen, Glasgow for broadcast on BBC Radio 2's Pete Murray’s Open House which ran each Friday from 09:02 until 11:30.</p>
+<p>At 10:30 until 10:45 <a href="https://www.bbc.com/historyofthebbc/anniversaries/april/waggoners-walk">Waggoners' Walk</a> was broadcast which was a suburban soap opera.</p>
 
-<cite>Robcamstone</cite>
-
-### [Supporting Details](#supporting-details)
-> Wednesday 4th May 1977, Lena sang on Pete Murray’s Open House from the Top Rank Club, Main street, Rutherglen, Glasgow, BBC Radio Two  10:30 am. She sang Sweet Gypsy Rose and Pinch Me Am I Dreaming. The programme was either repeated or had it's only airing on Friday 13th May.
-
-<cite>[Stephen Molloy](https://github.com/StephenMolloy1)</cite>
-
-### [Lena's section of the broadcast](#lenas-section-of-the-broadcast)
-> <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/8cY19mlluSY?rel=0showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
-
-<cite>[Loving Lena Zavaroni via YouTUbe](https://www.youtube.com/channel/UCzavGl0gV4T5qOH5yRW8ONQ)</cite>
+<h3 id="infobox2"><a href="#infobox2">Lena's section of the broadcast</a></h3>
+<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/8cY19mlluSY?rel=0showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 
