@@ -1,6 +1,5 @@
 ---
 layout: discography
-year: 11 June 1982
 title: Hold Tight (Want Some Sea Food, Mama)
 maintitle: Hold Tight (Want Some Sea Food, Mama)
 subtitle: Lena Zavaroni's Thirteenth Single
@@ -13,7 +12,7 @@ permalink: /discography/singles/:name
 
 <figure class="fig3">
 <figcaption>
-<p>All the tracks on this single and the related <a href="/discography/studio-albums/1982-hold-tight-its-lena">album</a> were preformed by Lena on series 3 of her TV Show "<a href="/categories/#Lena-(TV-Show)">Lena</a>".</p>
+<p>All the tracks on this single and the related <a href="/discography/studio-albums/1982-hold-tight-its-lena">album</a> were preformed by Lena on series 3 of her TV Show "<a href="/categories/#Lena-Series-3">Lena</a>".</p>
 </figcaption>
 </figure>
 
@@ -23,7 +22,7 @@ permalink: /discography/singles/:name
 <figcaption>
 <table>
 <tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
-<tr class="split"><th>A side:</th><td>Hold Tight (Want Some Sea Food, Mama</td></tr>
+<tr class="split"><th>A side:</th><td>Hold Tight (Want Some Sea Food, Mama)</td></tr>
 <tr><th>Composer:</th><td>Brandow, Robinson, Ware, Spottswood</td></tr>
 <tr><th>Producer:</th><td>Stewart Morris</td></tr>
 <tr><th>Arranger:</th><td>Alan Roper</td></tr>
