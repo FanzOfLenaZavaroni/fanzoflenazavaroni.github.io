@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1987-05-11-pulp-freaks.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c87dc6d5a163e0394173d6787ad024940b74f39a)
-- [Update pinterest-71963.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/55926a93c352cbef64dc7412dfea98cd9ccd45af)
-- [Update 1978-05-14-sos-charity-variety-show.md, 1981-10-06-lena-zavaro…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a6a07cafe20e3bd8246ddcf8e26859f044a7a143)
-- [Update 1978-05-06-01-Music-Week.png, 1978-05-06-53-Music-Week.png, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/89cd1a9516d071c5efc129302925f386f9d7f24b)
-- [Update 1975-05-05-lena-zavaroni-at-the-3-arts-theatre.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b1f7b995971b7cf0144ae6d47b8a470070557337)
+- [Update 1979-04-01-lena-zavaroni-and-guests.md, 1979-04-08-lena-zavaro…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/756b53ad64295b3bb2003a92474380329139734f)
+- [Update 1979-05-19-Radio-times.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6c57593df6e4e2a448e661bb4ac86a8c0a32436e)
+- [Update 1980-05-17-01-cash-box.png, 1980-05-17-32-cash-box.png, and 6 …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/21228962b0c255b5ba62716f2b16f246e6f46786)
+- [Update 1977-05-04-Open House.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b92199b49bf2863907e5c332fa346d2ab0721ba7)
+- [Update 1977-05-04-Open House.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a4408cdd5e11972168c8861a6f02b20b25d137bc)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
