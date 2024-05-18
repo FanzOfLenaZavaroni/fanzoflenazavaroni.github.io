@@ -12,8 +12,8 @@ last_modified_at: 26 November 2023
 
 <figure class="fig3">
 <table style="text-align:center;">
-<tr><th colspan="8">View Details For The Two Know Dates for Lena Zavaroni and Guests<br />and Each Episode Of Lena Zavaroni and Music</th></tr>
-<tr><td style="width:12.5%;"><a href="/1979-04-01-lena-zavaroni-and-guests">Guests 1</a></td><td style="width:12.5%;"><a href="/1979-04-08-lena-zavaroni-and-guests/">Guests 2 &#x2714;</a></td><td style="width:12.5%;"><a href="/1979-05-23-lena-zavaroni-and-music/">Episode 1</a></td><td style="width:12.5%;"><a href="/1979-05-30-lena-zavaroni-and-music/">Episode 2</a></td><td style="width:12.5%;"><a href="/1979-06-06-lena-zavaroni-and-music/">Episode 3</a></td><td style="width:12.5%;"><a href="/1979-06-13-lena-zavaroni-and-music/">Episode 4</a></td><td style="width:12.5%;"><a href="/1979-06-20-lena-zavaroni-and-music/">Episode 5</a></td><td style="width:12.5%;"><a href="/1979-06-27-lena-zavaroni-and-music/">Episode 6</a></td></tr>
+<tr><th colspan="8">View Details for BBC Light Entertainment Presents Lena Zavaroni, Lena Zavaroni and Guests<br />and Each Episode Of Lena Zavaroni and Music</th></tr>
+<tr><td><a href="/1979-04-01-lena-zavaroni-and-guests">BBC Presents</a></td><td><a href="/1979-04-08-lena-zavaroni-and-guests/">and Guests &#x2714;</a></td><td><a href="/1979-05-23-lena-zavaroni-and-music/">ep 1</a></td><td><a href="/1979-05-30-lena-zavaroni-and-music/">ep 2</a></td><td><a href="/1979-06-06-lena-zavaroni-and-music/">ep 3</a></td><td><a href="/1979-06-13-lena-zavaroni-and-music/">ep 4</a></td><td><a href="/1979-06-20-lena-zavaroni-and-music/">ep 5</a></td><td><a href="/1979-06-27-lena-zavaroni-and-music/">ep 6</a></td></tr>
 </table>
 </figure>
 
