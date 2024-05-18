@@ -14,7 +14,7 @@ categories: [Radio-Times, OnThisDay19May]
 <figure class="fig1">
 <a href="/assets/images/magazines/1979-05-19-radiotimes-01.jpg"><img src="/assets/images/magazines/1979-05-19-radiotimes-01.jpg" class="full-width zoom-in" /></a>
 <figcaption>
-<p>The Radio Times had an article about Lena's new televison show <a href="/bbc%20one/lena%20zavaroni%20and%20music/1979/05/23/lena-zavaroni-and-music.html">Lena Zavaroni and Music</a>.</p>
+<p>The Radio Times had an article about Lena's new televison show <a href="/1979-05-23-lena-zavaroni-and-music">Lena Zavaroni and Music</a>.</p>
 </figcaption>
 </figure>
 
