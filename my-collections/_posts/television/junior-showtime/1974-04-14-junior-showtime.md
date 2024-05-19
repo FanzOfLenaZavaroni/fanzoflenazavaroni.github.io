@@ -1,6 +1,5 @@
 ---
 layout: post
-last_modified_at: 15 June 2023
 title: Junior Showtime &#124; 14 April 1974
 maintitle: Junior Showtime
 subtitle: Lena Zavaroni's second appearance
@@ -9,6 +8,7 @@ media: Yorkshire Television
 post_description: Mark Curry, Glyn Poole, Roy Rolland, David Davenport, Lena Zavaroni, The New Generation, The Junior Showtime Dancers, puppeteer Roger Stevenson with Daisy Duck, Mister Ebeneezer and Rodney Allen Rippy.
 image: /assets/images/YTV/1974-06-16-junior-showtime.jpg
 categories: [Yorkshire-Television, Junior-Showtime, OnThisDay14April]
+last_modified_at: 19 May 2024
 ---
 
 <table>

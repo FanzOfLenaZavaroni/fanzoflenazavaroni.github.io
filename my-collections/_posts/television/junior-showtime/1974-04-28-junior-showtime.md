@@ -1,6 +1,5 @@
 ---
 layout: post
-last_modified_at: 15 June 2023
 title: Junior Showtime &#124; 28 April 1974
 maintitle: Junior Showtime
 subtitle: Lena Zavaroni's forth appearance
@@ -9,6 +8,7 @@ media: Yorkshire Television
 post_description: Presenters - Mark Curry, Glyn Poole, Roy Rolland as Old Mother Riley, Lena Zavaroni.
 image: /assets/images/YTV/1974-junior-showtime.jpg
 categories: [Yorkshire-Television, Junior-Showtime, OnThisDay28April]
+last_modified_at: 19 May 2024
 ---
 
 <table>
@@ -52,19 +52,4 @@ categories: [Yorkshire-Television, Junior-Showtime, OnThisDay28April]
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 

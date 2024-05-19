@@ -1,6 +1,5 @@
 ---
 layout: post
-last_modified_at: 15 June 2023
 title: Junior Showtime &#124; 7 April 1974
 maintitle: Junior Showtime
 subtitle: Lena Zavaroni's second appearance
@@ -9,6 +8,7 @@ media: Yorkshire Television
 post_description: Mark Curry, Glyn Poole and Lena Zavaroni.
 image: /assets/images/YTV/1974-06-16-junior-showtime.jpg
 categories: [Yorkshire-Television, Junior-Showtime, OnThisDay7April]
+last_modified_at: 19 May 2024
 ---
 
 <table>
@@ -29,7 +29,7 @@ categories: [Yorkshire-Television, Junior-Showtime, OnThisDay7April]
 
 {: .clear}
 
-<figure class="fig1">
+<figure class="fig3">
 <figcaption>
 <h3 id="cast"><a href="#cast">Cast</a></h3>
 </figcaption>
@@ -40,7 +40,7 @@ categories: [Yorkshire-Television, Junior-Showtime, OnThisDay7April]
 </table>
 </figure>
 
-<figure class="fig2">
+<figure class="fig3">
 <figcaption>
 <h3 id="crew"><a href="#crew">Crew</a></h3>
 </figcaption>
@@ -57,19 +57,4 @@ categories: [Yorkshire-Television, Junior-Showtime, OnThisDay7April]
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
