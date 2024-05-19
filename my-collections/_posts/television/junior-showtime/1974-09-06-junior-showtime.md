@@ -8,6 +8,7 @@ media: Yorkshire Television
 post_description: Presenters - Mark Curry, Glyn Poole, with Roy Rolland as Old Mother Riley, Lena Zavaroni.
 image: /assets/images/YTV/0FFO-1974-AUG06-021.jpeg
 categories: [Yorkshire-Television, Junior-Showtime, OnThisDay6August]
+last_modified_at: 19 May 2024
 ---
 
 <table>

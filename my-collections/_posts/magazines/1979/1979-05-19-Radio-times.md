@@ -8,7 +8,7 @@ description: Two page feature, behind the scenes at the filming of Lena's first 
 media: Details
 post_description: Two page feature, behind the scenes at the filming of Lena's first series for the BBC, Lena Zavaroni and Music.
 image: /assets/images/magazines/1979-05-19-radiotimes-01.jpg
-categories: [Radio-Times, OnThisDay19May]
+categories: [Radio-Times, OnThisDay17May, OnThisDay19May]
 ---
 
 <figure class="fig1">
