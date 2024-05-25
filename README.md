@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1979-04-01-lena-zavaroni-and-guests.md, 1979-04-08-lena-zavaro…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/756b53ad64295b3bb2003a92474380329139734f)
-- [Update 1979-05-19-Radio-times.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6c57593df6e4e2a448e661bb4ac86a8c0a32436e)
-- [Update 1980-05-17-01-cash-box.png, 1980-05-17-32-cash-box.png, and 6 …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/21228962b0c255b5ba62716f2b16f246e6f46786)
-- [Update 1977-05-04-Open House.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b92199b49bf2863907e5c332fa346d2ab0721ba7)
-- [Update 1977-05-04-Open House.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a4408cdd5e11972168c8861a6f02b20b25d137bc)
+- [Update 1974-06-01-cash-box.md, 1974-05-25-record-world.md, and 1974-0…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bc9d70403292f19220a114ad204eb0b9b97bbdf7)
+- [Update 1974-05-25-01-cash-box.png, 1974-05-25-30-cash-box.png, and 7 …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3505da592c990d7ce6fc8546bf3f2dcd5fa80af7)
+- [Update 1974-05-24-mike-douglas-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c9dd601310b904a96e2729ad6be90ebceb4231f6)
+- [Update 1979-05-19-Radio-times.md, 1974-04-07-junior-showtime.md, and …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/280c2d356be1032da129dab50b7ba526e6a8bb3d)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c4aa459b08f26e08a6957e111eaae2f178486485)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
