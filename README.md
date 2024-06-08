@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 2022-06-03-glasgow-live.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/db2addde3e905a62f35f6c31854f275ff2ee785f)
-- [Update 1980-05-29-totp.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a064575ffc1cc4b2c7d3b3bae693f8a369150114)
-- [Update 1980-05-29-totp.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7ad9506f49a12a22127edc7ccd1660ca8094f54c)
-- [Update 1980-05-29-totp.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/110fde48621026fe0d18d51a9d943e35c273214d)
-- [Update 1980-05-29-totp.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2596a965b3a32034eead2774a64879465ac73d4a)
+- [Update 1974-06-08-cash-box.md, 1974-06-08-record-mirror..md, and 1974…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/af1bfdcecddfebe6a24613bfc20e4a1d02bb5ff4)
+- [Update 1975-06-07-record-mirror.md and 1982-06-07-record-business.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3f630bc2164038daf123ba6784996c54d8fdd2dc)
+- [Update 1974-06-15-Billboard-a.jpg, 1974-06-15-Billboard-b.png, and 8 …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bc42eecd82287288e3340e5bb2cf5f88c0d62165)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/66be5105b6930627d83fb9c3b6a7c89e6397597a)
+- [Update 2022-06-03-glasgow-live.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b22455361fe216a6e881a84ab1616ebb07dc6a5a)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
