@@ -1,28 +1,31 @@
 ---
 layout: post
-title: D-Sides, Orphans, and Oddities &#124; 24 December 2020
+title: D-Sides, Orphans, and Oddities &#124; 23 December 2020
 maintitle: D-Sides, Orphans, and Oddities
 subtitle:  Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself
 description: Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself.
 post_description: Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself.
 image: /assets/images/podcasts/
-categories: [Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay24December]
+categories: [Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay23December]
 tags: podcasts
 permalink: /discography/podcasts/:name
-last_modified_at: 31 December 2023
+last_modified_at: 8 June 2024
 ---
 
 <figure class="fig3">
 <table style="text-align:center;">
 <tr><th colspan="3">Jump To</th><th>Source</th></tr>
-<tr><td style="width:25%;"><a href="#infobox1">Podcast</a></td><td style="width:25%;"><a href="#infobox2">Tracks</a></td><td style="width:25%;"><a href="#lena">Lena Zavaroni</a></td><td style="width:25%;"><a class="external-link" href="https://dsides.podbean.com/e/who-was-vaughn-meader">podbean</a></td></tr>
+<tr><td><a href="#infobox1">Podcast</a></td><td><a href="#infobox2">Tracks</a></td><td><a href="#lena">Lena Zavaroni</a></td><td><a class="external-link" href="https://dsides.podbean.com/e/who-was-vaughn-meader">podbean</a><span class="up">&#8592;</span> <span class="red">broken link</span></td></tr>
 </table>
 </figure>
 
 <figure class="fig3">
 <table>
 <tr id="infobox1"><th colspan="3">Podcast Spoken In English</th></tr>
-<tr><td colspan="3"><iframe title="Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself." allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=se68m-f5c680-pb&share=1&download=1&fonts=Arial&skin=1&font-color=&rtl=0&logo_link=&btn-skin=7&size=150"></iframe></td></tr>
+<tr><td colspan="3">
+<iframe src="https://www.listennotes.com/podcasts/d-sides-orphans/bay-city-rollers-paul-sbw07qlUBrG/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
+<p><strong>Source:</strong> Podbean - Link is broken which is why I embed via Listen Notes</p>
+</td></tr>
 <tr id="infobox2" class="split"><th colspan="3">Tracks</th></tr>
 <tr><th style="width:10%; text-align:center;">Track</th><th>Artist</th><th>Title</th></tr>
 <tr><th style="width:10%; text-align:center;">1</th><td>REO Speedwagon</td><td>Ridin' The Storm Out (studio version)</td></tr>
@@ -74,5 +77,20 @@ last_modified_at: 31 December 2023
 
 <style>
 #infobox2 {scroll-margin-top: -3px;}
+.up {position: relative; top: -0.2em;}
+.red, .up {color:#ff0000;}
+.discussions {background-color:#f6f8fa; color:#000; padding: 10px; border-radius: 0.25rem; border-style: solid; border-color: #DBDBDB; border-width: 1px;}
+.shape {
+    background-color: var(--color-avatar-bg);
+    border-radius: 50%;
+    box-shadow: 0 0 0 1px var(--color-avatar-border);
+    display: inline-block;
+    flex-shrink: 0;
+    line-height: 1;
+    overflow: hidden;
+    vertical-align: middle;
+    width:32px;
+    margin: 0px 8px 0px 0px;
+}
 </style>
 
