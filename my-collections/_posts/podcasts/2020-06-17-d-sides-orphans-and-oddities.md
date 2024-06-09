@@ -1,6 +1,5 @@
 ---
 layout: post
-year: 17 June 2020
 title: D-Sides, Orphans, and Oddities &#124; 17 June 2020
 maintitle: D-Sides, Orphans, and Oddities
 subtitle:  Steely Dan outtakes are better than your favorite band's greatest hits. Fight me
@@ -9,11 +8,13 @@ post_description: Steely Dan outtakes are better than your favorite band's great
 categories: [Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay17June]
 tags: podcasts
 permalink: /discography/podcasts/:name
+last_modified_at: 8 June 2024
 ---
 
 <figure class="fig3">
 <p>Spoken Language: English</p>
-<iframe title="Steely Dan outtakes are better than your favorite band's greatest hits. Fight me. " allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=sdspj-dff0ff-pb&share=1&download=1&fonts=Arial&skin=1&font-color=&rtl=0&logo_link=&btn-skin=7&size=150"></iframe>
+<iframe src="https://www.listennotes.com/podcasts/d-sides-orphans/steely-dan-outtakes-are-et528kvrJ1M/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
+<p><strong>Source:</strong> Podbean - Link is broken which is why I embed via Listen Notes</p>
 </figure>
 
 {: .clear}
@@ -43,8 +44,26 @@ permalink: /discography/podcasts/:name
 <p>David Frye - The Dick Nixon Show (1971) A good article about a very Vaughn Meader-like character in American showbiz.</p>
 <p>A fake interview with Dwight Eisenhower. Very funny. (Maybe 1965?)</p>
 <p>Eric Burdon & War - A Day In The Life (1968)</p>
-<p><strong>Source:</strong> <a class="external-link" href="https://dsides.podbean.com/e/steely-dan">podbean</a></p>
+<p><strong>Source:</strong> <a class="external-link" href="https://dsides.podbean.com/e/steely-dan">podbean</a><span class="up">&#8592;</span> <span class="red">broken link</span></p>
 </figure>
 
 <br />{: .clear}
+
+<style>
+.up {position: relative; top: -0.2em;}
+.red, .up {color:#ff0000;}
+.discussions {background-color:#f6f8fa; color:#000; padding: 10px; border-radius: 0.25rem; border-style: solid; border-color: #DBDBDB; border-width: 1px;}
+.shape {
+    background-color: var(--color-avatar-bg);
+    border-radius: 50%;
+    box-shadow: 0 0 0 1px var(--color-avatar-border);
+    display: inline-block;
+    flex-shrink: 0;
+    line-height: 1;
+    overflow: hidden;
+    vertical-align: middle;
+    width:32px;
+    margin: 0px 8px 0px 0px;
+}
+</style>
 

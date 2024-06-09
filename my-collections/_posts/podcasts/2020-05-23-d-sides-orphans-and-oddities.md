@@ -1,6 +1,5 @@
 ---
 layout: post
-year: 23 May 2020
 title: D-Sides, Orphans, and Oddities &#124; 23 May 2020
 maintitle: D-Sides, Orphans, and Oddities
 subtitle:  The Les Humphries Singers Tribute!!!
@@ -9,12 +8,13 @@ post_description: The Les Humphries Singers Tribute!!!
 categories: [Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay23May]
 tags: podcasts
 permalink: /discography/podcasts/:name
+last_modified_at: 8 June 2024
 ---
 
 <figure class="fig3">
 <p>Spoken Language: English</p>
 <iframe src="https://www.listennotes.com/podcasts/d-sides-orphans/the-les-humphries-singers-w4Qe9_qXjy2/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
-<p><strong>Source:</strong> Podbean - Link is broken which is why I had to embed via Listen Notes</p>
+<p><strong>Source:</strong> Podbean - Link is broken which is why I embed via Listen Notes</p>
 </figure>
 
 {: .clear}
