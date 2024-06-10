@@ -20,7 +20,7 @@ last_modified_at: 23 December 2023
 <figure class="fig2">
 <h3 id="summary"><a href="#summary">Summary</a></h3>
 <blockquote>Doodles in Depression' is Lorna Naomi Murray's attempt to make sense of her clinical depression. This thoroughly researched, yet gloriously random and spontaneous book delves into Lorna's mind as she 'comes out' as a depressive and attempts to bring herself out of her depression. This is a book that will make sense and possibly bring comfort to fellow sufferers of clinical depression.</blockquote>
-<cite><a class="external-link" href="https://chipmunkapublishing.co.uk/shop/index.php?main_page=product_info&products_id=596">Chipmunka Publishing</a></cite>
+<cite><a class="external-link" href="https://chipmunkapublishing.com/product/chipmunka-anthology-volume-three-the/">Chipmunka Publishing</a></cite>
 </figure>
 
 {: .clear}
@@ -34,7 +34,7 @@ last_modified_at: 23 December 2023
 <tr><th>ISBN-13:</th><td>978-1847471598</td></tr>
 <tr><th>Formats:</th><td>PDF eBook</td></tr>
 <tr><th>Published:</th><td>2007</td></tr>
-<tr><th>Publisher:</th><td><a class="external-link" href="https://chipmunkapublishing.co.uk/shop/index.php?main_page=product_info&products_id=596">Chipmunka Publishing Ltd</a></td></tr>
+<tr><th>Publisher:</th><td><a class="external-link" href="https://chipmunkapublishing.com/product/chipmunka-anthology-volume-three-the/">Chipmunka Publishing Ltd</a></td></tr>
 <tr class="split"><th colspan="2">Other Dates And/Or Formats:</th></tr>
 <tr><th>Amazon - Kindle Edition:</th><td><a class="external-link" href="https://www.amazon.co.uk/Doodles-Depression-Lorna-Naomi-Murray-ebook/dp/B002ZCY976">2 November 2009</a></td></tr>
 <tr><th>Google Play - Based On The Free Sample it's a PDF:</th><td><a class="external-link" href="https://play.google.com/store/books/details?id=ZoydTXmpDpIC&rdid=book-ZoydTXmpDpIC">June 2011</a></td></tr>
@@ -73,7 +73,7 @@ By Various Authors
 <tr><th>ISBN-13:</th><td>978-1847473936</td></tr>
 <tr><th>Formats:</th><td>Paperback</td></tr>
 <tr><th>Published:</th><td>2008</td></tr>
-<tr><th>Publisher:</th><td><a class="external-link" href="https://chipmunkapublishing.co.uk/shop/index.php?main_page=product_info&cPath=2&products_id=911&zenid=4038b73f7fd30769526ce5a465c89a66">Chipmunka Publishing Ltd</a></td></tr>
+<tr><th>Publisher:</th><td><a class="external-link" href="https://chipmunkapublishing.com/product/chipmunka-anthology-volume-three-the/">Chipmunka Publishing Ltd</a></td></tr>
 <tr><th>Stories:</th><td>
 <ul>
 <li>Beyond the Bars</li>
