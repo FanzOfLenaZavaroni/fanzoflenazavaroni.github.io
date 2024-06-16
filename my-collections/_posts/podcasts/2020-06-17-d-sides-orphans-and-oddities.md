@@ -13,11 +13,8 @@ last_modified_at: 8 June 2024
 
 <figure class="fig3">
 <p>Spoken Language: English</p>
-<iframe src="https://www.listennotes.com/podcasts/d-sides-orphans/steely-dan-outtakes-are-et528kvrJ1M/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
-<p><strong>Source:</strong> Podbean - Link is broken which is why I embed via Listen Notes</p>
+<p class="noembed"><span class="red bold">Embed No More</span><br />The Podcast "D-Sides, Orphans, and Oddities" has been taken down and is no longer active on any podcasting website's. I don't know why but I would say it would be a fair guess to say it was for copyright reasons. which is why I will not be uploading a copy to this website.<br /><strong>Original Source:</strong> Podbean <span class="up">&#8592;</span> <span class="red">broken link</span><br /><strong>Current Source (Details Only):</strong> <a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/steely-dan-outtakes-are-et528kvrJ1M/">ListenNotes</a></p>
 </figure>
-
-{: .clear}
 
 <figure class="fig3">
 <h3 id="about"><a href="#about">About This Episode</a></h3>
@@ -44,14 +41,14 @@ last_modified_at: 8 June 2024
 <p>David Frye - The Dick Nixon Show (1971) A good article about a very Vaughn Meader-like character in American showbiz.</p>
 <p>A fake interview with Dwight Eisenhower. Very funny. (Maybe 1965?)</p>
 <p>Eric Burdon & War - A Day In The Life (1968)</p>
-<p><strong>Source:</strong> <a class="external-link" href="https://dsides.podbean.com/e/steely-dan">podbean</a><span class="up">&#8592;</span> <span class="red">broken link</span></p>
 </figure>
 
 <br />{: .clear}
 
 <style>
 .up {position: relative; top: -0.2em;}
-.red, .up {color:#ff0000;}
+.red, .up, .bold {color:#ff0000;}
+.bold {font-weight: bold;}
 .discussions {background-color:#f6f8fa; color:#000; padding: 10px; border-radius: 0.25rem; border-style: solid; border-color: #DBDBDB; border-width: 1px;}
 .shape {
     background-color: var(--color-avatar-bg);
@@ -64,6 +61,20 @@ last_modified_at: 8 June 2024
     vertical-align: middle;
     width:32px;
     margin: 0px 8px 0px 0px;
+}
+
+.noembed {
+    text-align:center;
+    box-sizing:border-box;
+    padding:10px;
+    word-wrap:break-word;
+    position:relative;
+    white-space:normal;
+    word-break:break-word;
+    width:100%;
+    height:auto;
+    border:solid lightgray 1px;
+    border-radius: 5px;
 }
 </style>
 

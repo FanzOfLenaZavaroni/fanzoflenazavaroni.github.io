@@ -13,11 +13,8 @@ last_modified_at: 8 June 2024
 
 <figure class="fig3">
 <p>Spoken Language: English</p>
-<iframe src="https://www.listennotes.com/podcasts/d-sides-orphans/the-les-humphries-singers-w4Qe9_qXjy2/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
-<p><strong>Source:</strong> Podbean - Link is broken which is why I embed via Listen Notes</p>
+<p class="noembed"><span class="red bold">Embed No More</span><br />The Podcast "D-Sides, Orphans, and Oddities" has been taken down and is no longer active on any podcasting website's. I don't know why but I would say it would be a fair guess to say it was for copyright reasons. which is why I will not be uploading a copy to this website.<br /><strong>Original Source:</strong> Podbean <span class="up">&#8592;</span> <span class="red">broken link</span><br /><strong>Current Source (Details Only):</strong> <a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/the-les-humphries-singers-w4Qe9_qXjy2/">ListenNotes</a></p>
 </figure>
-
-{: .clear}
 
 <figure class="fig3">
 <h3 id="about"><a href="#about">About This Episode</a></h3>
@@ -60,4 +57,37 @@ last_modified_at: 8 June 2024
 </figure>
 
 <br />{: .clear}
+
+<style>
+.up {position: relative; top: -0.2em;}
+.red, .up, .bold {color:#ff0000;}
+.bold {font-weight: bold;}
+.discussions {background-color:#f6f8fa; color:#000; padding: 10px; border-radius: 0.25rem; border-style: solid; border-color: #DBDBDB; border-width: 1px;}
+.shape {
+    background-color: var(--color-avatar-bg);
+    border-radius: 50%;
+    box-shadow: 0 0 0 1px var(--color-avatar-border);
+    display: inline-block;
+    flex-shrink: 0;
+    line-height: 1;
+    overflow: hidden;
+    vertical-align: middle;
+    width:32px;
+    margin: 0px 8px 0px 0px;
+}
+
+.noembed {
+    text-align:center;
+    box-sizing:border-box;
+    padding:10px;
+    word-wrap:break-word;
+    position:relative;
+    white-space:normal;
+    word-break:break-word;
+    width:100%;
+    height:auto;
+    border:solid lightgray 1px;
+    border-radius: 5px;
+}
+</style>
 

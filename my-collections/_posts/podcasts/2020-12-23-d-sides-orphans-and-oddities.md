@@ -13,18 +13,10 @@ last_modified_at: 8 June 2024
 ---
 
 <figure class="fig3">
-<table style="text-align:center;">
-<tr><th colspan="3">Jump To</th><th>Source</th></tr>
-<tr><td><a href="#infobox1">Podcast</a></td><td><a href="#infobox2">Tracks</a></td><td><a href="#lena">Lena Zavaroni</a></td><td><a class="external-link" href="https://dsides.podbean.com/e/who-was-vaughn-meader">podbean</a><span class="up">&#8592;</span> <span class="red">broken link</span></td></tr>
-</table>
-</figure>
-
-<figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="3">Podcast Spoken In English</th></tr>
+<tr id="infobox1"><th colspan="3">Spoken Language: English</th></tr>
 <tr><td colspan="3">
-<iframe src="https://www.listennotes.com/podcasts/d-sides-orphans/bay-city-rollers-paul-sbw07qlUBrG/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
-<p><strong>Source:</strong> Podbean - Link is broken which is why I embed via Listen Notes</p>
+<p class="noembed"><span class="red bold">Embed No More</span><br />The Podcast "D-Sides, Orphans, and Oddities" has been taken down and is no longer active on any podcasting website's. I don't know why but I would say it would be a fair guess to say it was for copyright reasons. which is why I will not be uploading a copy to this website.<br /><strong>Original Source:</strong> Podbean <span class="up">&#8592;</span> <span class="red">broken link</span><br /><strong>Current Source (Details Only):</strong> <a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/bay-city-rollers-paul-sbw07qlUBrG/">ListenNotes</a></p>
 </td></tr>
 <tr id="infobox2" class="split"><th colspan="3">Tracks</th></tr>
 <tr><th style="width:10%; text-align:center;">Track</th><th>Artist</th><th>Title</th></tr>
@@ -78,7 +70,8 @@ last_modified_at: 8 June 2024
 <style>
 #infobox2 {scroll-margin-top: -3px;}
 .up {position: relative; top: -0.2em;}
-.red, .up {color:#ff0000;}
+.red, .up, .bold {color:#ff0000;}
+.bold {font-weight: bold;}
 .discussions {background-color:#f6f8fa; color:#000; padding: 10px; border-radius: 0.25rem; border-style: solid; border-color: #DBDBDB; border-width: 1px;}
 .shape {
     background-color: var(--color-avatar-bg);
@@ -91,6 +84,21 @@ last_modified_at: 8 June 2024
     vertical-align: middle;
     width:32px;
     margin: 0px 8px 0px 0px;
+}
+
+.noembed {
+    text-align:center;
+    background-color:#ffffff;
+    box-sizing:border-box;
+    padding:10px;
+    word-wrap:break-word;
+    position:relative;
+    white-space:normal;
+    word-break:break-word;
+    width:100%;
+    height:auto;
+    border:solid lightgray 1px;
+    border-radius: 5px;
 }
 </style>
 
