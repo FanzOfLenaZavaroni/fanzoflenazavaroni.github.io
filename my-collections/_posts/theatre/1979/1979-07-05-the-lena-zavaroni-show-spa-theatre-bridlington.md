@@ -92,6 +92,7 @@ last_modified_at: 23 December 2023
 <figure class="fig3">
 <h3 id="postmark"><a href="#postmark">An Example Of The Postmark Used To Promote The Show</a></h3>
 <a href="/assets/images/theatres/Bridlington-04.jpg"><img src="/assets/images/theatres/Bridlington-04.jpg" class="full-width zoom-in" /></a>
+<cite><a class="external-link" href="https://www.45spaces.com/postmarks/l.php?l=lena-zavaroni-britains-brightest-star-at-bridlington">45spaces | Postmarks</a></cite>
 </figure>
 
 {: .clear}

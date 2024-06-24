@@ -30,23 +30,10 @@ last_modified_at: 26 March 2024
 <h3>Related Events</h3>
 <ul>
 <li><a href="/1979-06-27-lena-zavaroni-and-music">Lena Zavaroni and Music - Episode 6</a></li>
-<li><a href="/1979-07-05-the-lena-zavaroni-show">The Lena Zavaroni Show - Spa Theatre, Bridlington</a></li>
+<li><a href="/1979-07-05-the-lena-zavaroni-show-spa-theatre-bridlington">The Lena Zavaroni Show - Spa Theatre, Bridlington</a></li>
 </ul>
 </figcaption>
 </figure>
 
 <br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
 
