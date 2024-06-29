@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1976-07-28-bring-on-the-girls.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c7e7bd040744127f3b4cba6f53f31815264dd693)
-- [Update 1974-06-22-cash-box.md, 1974-06-22-record-world..md, and 4 mor…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5572dc78c13140bd7bff64c5e267ec8174c36ff3)
-- [Update 2020-05-23-d-sides-orphans-and-oddities.md, 2020-06-17-d-sides…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0aa2864d00c3808c524260eae930a415719d82c2)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7096d842de08b25a14219cf5f47e451753c874bd)
-- [Update 2009-11-02-doodles-in-depression.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e5510cc28b926a83303be32de318330df6b04841)
+- [Update 07-01.md, 07-02.md, and 28 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/87ee162ac80bdd9ffe1f2a7e132211c8532cb76d)
+- [Update 1981-10-17-saturday-night-is-gala-night.md, 1976-02-11-the-mor…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7f42867ad19fbde9c5eb825ce8600b1a7ac58ddd)
+- [Update 1974-06-28-sa-singles-charts.md, 1974-07-05-sa-singles-charts.…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/aeaf788318ec255720e4105948a5b45e7061ede0)
+- [Update 2006-07-02-bbc-radio-report.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9996be3b76b5384b16ebd191309c244b57fd8156)
+- [Update 1974-06-29-cash-box.md and 1975-06-28-record-mirror.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ae739b98565a0cf1a73e73ce310c7eeb8068611e)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
