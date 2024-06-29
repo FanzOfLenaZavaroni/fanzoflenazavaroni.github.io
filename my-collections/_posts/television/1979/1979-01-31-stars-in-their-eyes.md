@@ -8,7 +8,7 @@ after: " Repeated on 26 December 1979"
 description: Ruth Davies, 13, is a pupil at Italia Conti Stage School in London a school that specialises in the stars of the future. Ruth's classmates include Bonnie Langford and Lena Zavaroni...
 post_description: Ruth Davies, 13, is a pupil at Italia Conti Stage School in London a school that specialises in the stars of the future. Ruth's classmates include Bonnie Langford and Lena Zavaroni...
 image: /assets/images/ITV/Stars-In-Their-Eyes.jpg
-categories: [Tyne-Tees-Television, Ruth-Davies, Bonnie-Langford, OnThisDay31January, Repeat26December]
+categories: [Tyne-Tees-Television, Ruth-Davies, Bonnie-Langford, OnThisDay31January, OnThisDay26December]
 last_modified_at: 30January 2024
 ---
 
