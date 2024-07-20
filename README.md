@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1974-07-20-billboard.md, 1974-07-20-cash-box.md, and 1978-07-2…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/03945b3736140d865120dd26c14efd1b8c6d4884)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e0f4635c3966fac6fdedb71ad1f68f7d2298e4ff)
 - [Update rm-images.sh](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b438a7433225b9387ad273274904380957e9a6e0)
 - [Update 1979-07-04-hornsea-carnival-01.png, 1979-07-04-hornsea-carniva…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/13ed0181b4b97ad259e2e7e59a06121fc3346e44)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e2b8fcdfdf6a779e59d04dafc9536d86000e4807)
-- [Update 1979-07-05-the-lena-zavaroni-show-spa-theatre-bridlington.md a…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/142220cfdffee6f6ce6a0ed3d214f1be24e5c480)
-- [Update 2021-07-07-forces-net.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6098dc9fcd43f166b4fb62dee1c0c06d6e10927a)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
