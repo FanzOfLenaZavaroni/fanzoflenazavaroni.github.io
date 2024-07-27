@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1974-07-20-billboard.md, 1974-07-20-cash-box.md, and 1978-07-2…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/03945b3736140d865120dd26c14efd1b8c6d4884)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e0f4635c3966fac6fdedb71ad1f68f7d2298e4ff)
-- [Update rm-images.sh](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b438a7433225b9387ad273274904380957e9a6e0)
-- [Update 1979-07-04-hornsea-carnival-01.png, 1979-07-04-hornsea-carniva…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/13ed0181b4b97ad259e2e7e59a06121fc3346e44)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e2b8fcdfdf6a779e59d04dafc9536d86000e4807)
+- [Update 1974-07-27-billboard.md and 1974-07-27-cash-box.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d2774106dfc43562ce9a102685aadf8ccccd8b7b)
+- [Update 1977-07-24-hi-summer.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e8af7acd37064533a68a12befb76a590910d3987)
+- [Update 1977-07-24-hi-summer.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/37f5352101ca559d0f4add8ec1cd000f85e5f436)
+- [Update 1974-07-26-radio-record..md, 1978-07-29-record-mirror..md, and…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/434a7f38a722b6885bfaf73551dffec1deb5ef86)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6b512dc71f5c4942fcfa7fa4f231ba70f3b7d626)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
