@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/aa908b9f0a006588a8dd795bd5e9401e6b882df5)
 - [Update 1974-07-27-billboard.md and 1974-07-27-cash-box.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d2774106dfc43562ce9a102685aadf8ccccd8b7b)
 - [Update 1977-07-24-hi-summer.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e8af7acd37064533a68a12befb76a590910d3987)
 - [Update 1977-07-24-hi-summer.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/37f5352101ca559d0f4add8ec1cd000f85e5f436)
 - [Update 1974-07-26-radio-record..md, 1978-07-29-record-mirror..md, and…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/434a7f38a722b6885bfaf73551dffec1deb5ef86)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6b512dc71f5c4942fcfa7fa4f231ba70f3b7d626)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
