@@ -2,22 +2,26 @@
 layout: post
 title: D-Sides, Orphans, and Oddities &#124; 17 June 2020
 maintitle: D-Sides, Orphans, and Oddities
-subtitle:  Steely Dan outtakes are better than your favorite band's greatest hits. Fight me
+subtitle: WHUP Radio 104.7 FM &copy; Hillsborough Community Media
 description: Steely Dan outtakes are better than your favorite band's greatest hits. Fight me.
 post_description: Steely Dan outtakes are better than your favorite band's greatest hits. Fight me.
-categories: [Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay17June]
+categories: [WHUP-Radio-104.7-FM, Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay17June]
 tags: podcasts
 permalink: /discography/podcasts/:name
-last_modified_at: 8 June 2024
+last_modified_at: 8 August 2024
 ---
 
 <figure class="fig3">
-<p>Spoken Language: English</p>
-<p class="noembed"><span class="red bold">Embed No More</span><br />The Podcast "D-Sides, Orphans, and Oddities" has been taken down and is no longer active on any podcasting website's. I don't know why but I would say it would be a fair guess to say it was for copyright reasons. which is why I will not be uploading a copy to this website.<br /><strong>Original Source:</strong> Podbean <span class="up">&#8592;</span> <span class="red">broken link</span><br /><strong>Current Source (Details Only):</strong> <a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/steely-dan-outtakes-are-et528kvrJ1M/">ListenNotes</a></p>
+<table>
+<tr id="infobox1"><th colspan="2">Spoken Language: English</th></tr>
+<tr><th style="color:#ff0000; width:35%;">Embed No More</th><td>The former podcast <strong>D-Sides, Orphans, and Oddities</strong> is now an audio stream that removes each episode after two weeks.</td></tr>
+<tr><th><a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/steely-dan-outtakes-are-et528kvrJ1M">ListenNotes</a></th><td>Current source for details of this episode.</td></tr>
+<tr><th><a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities/">WHUP Radio 104.7 FM</a></th><td>D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs</td></tr>
+</table>
 </figure>
 
 <figure class="fig3">
-<h3 id="about"><a href="#about">About This Episode</a></h3>
+<h3 id="infobox2"><a href="#infobox2">Steely Dan outtakes are better than your favorite band's greatest hits. Fight me</a></h3>
 <p>Steely Dan - Kind Spirit (1980) Outtake from the Gaucho sessions.</p>
 <p>Steely Dan - Were You Blind That Day? (1980) Ibid. Became "Third World Man".</p>
 <p>Steely Dan - The Bear (1980) Ibid.</p>

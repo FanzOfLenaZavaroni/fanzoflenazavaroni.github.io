@@ -2,22 +2,26 @@
 layout: post
 title: D-Sides, Orphans, and Oddities &#124; 23 May 2020
 maintitle: D-Sides, Orphans, and Oddities
-subtitle:  The Les Humphries Singers Tribute!!!
+subtitle: WHUP Radio 104.7 FM &copy; Hillsborough Community Media
 description: The Les Humphries Singers Tribute!!!
 post_description: The Les Humphries Singers Tribute!!!
-categories: [Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay23May]
+categories: [WHUP-Radio-104.7-FM, Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay23May]
 tags: podcasts
 permalink: /discography/podcasts/:name
-last_modified_at: 8 June 2024
+last_modified_at: 8 August 2024
 ---
 
 <figure class="fig3">
-<p>Spoken Language: English</p>
-<p class="noembed"><span class="red bold">Embed No More</span><br />The Podcast "D-Sides, Orphans, and Oddities" has been taken down and is no longer active on any podcasting website's. I don't know why but I would say it would be a fair guess to say it was for copyright reasons. which is why I will not be uploading a copy to this website.<br /><strong>Original Source:</strong> Podbean <span class="up">&#8592;</span> <span class="red">broken link</span><br /><strong>Current Source (Details Only):</strong> <a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/the-les-humphries-singers-w4Qe9_qXjy2/">ListenNotes</a></p>
+<table>
+<tr id="infobox1"><th colspan="2">Spoken Language: English</th></tr>
+<tr><th style="color:#ff0000; width:35%;">Embed No More</th><td>The former podcast <strong>D-Sides, Orphans, and Oddities</strong> is now an audio stream that removes each episode after two weeks.</td></tr>
+<tr><th><a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/the-les-humphries-singers-w4Qe9_qXjy2">ListenNotes</a></th><td>Current source for details of this episode.</td></tr>
+<tr><th><a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities/">WHUP Radio 104.7 FM</a></th><td>D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs</td></tr>
+</table>
 </figure>
 
 <figure class="fig3">
-<h3 id="about"><a href="#about">About This Episode</a></h3>
+<h3 id="infobox2"><a href="#infobox2">The Les Humphries Singers Tribute!!!</a></h3>
 <p>Rose Tattoo - We Can’t Be Beaten (1982) Sounds like AC/DC, no? Same producers. I love Rose Tattoo. I have discovered lots of good stuff doing this show. I like this band.</p>
 <p>Andy Williams - Age of Aquarius/Let The Sun Shine In (1969) As I said, Andy tied EVERYTHING. He refused to be tied down.</p>
 <p>Billy Paul - Let ‘Em In (1976) A cover of the almost concurrent original by Paul McCartney and Wings. Only this version features references to black heroes and well-known newsmakers.</p>
@@ -57,37 +61,4 @@ last_modified_at: 8 June 2024
 </figure>
 
 <br />{: .clear}
-
-<style>
-.up {position: relative; top: -0.2em;}
-.red, .up, .bold {color:#ff0000;}
-.bold {font-weight: bold;}
-.discussions {background-color:#f6f8fa; color:#000; padding: 10px; border-radius: 0.25rem; border-style: solid; border-color: #DBDBDB; border-width: 1px;}
-.shape {
-    background-color: var(--color-avatar-bg);
-    border-radius: 50%;
-    box-shadow: 0 0 0 1px var(--color-avatar-border);
-    display: inline-block;
-    flex-shrink: 0;
-    line-height: 1;
-    overflow: hidden;
-    vertical-align: middle;
-    width:32px;
-    margin: 0px 8px 0px 0px;
-}
-
-.noembed {
-    text-align:center;
-    box-sizing:border-box;
-    padding:10px;
-    word-wrap:break-word;
-    position:relative;
-    white-space:normal;
-    word-break:break-word;
-    width:100%;
-    height:auto;
-    border:solid lightgray 1px;
-    border-radius: 5px;
-}
-</style>
 

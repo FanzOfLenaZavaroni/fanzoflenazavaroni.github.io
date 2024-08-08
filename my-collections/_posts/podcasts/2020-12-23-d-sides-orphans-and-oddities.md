@@ -2,23 +2,24 @@
 layout: post
 title: D-Sides, Orphans, and Oddities &#124; 23 December 2020
 maintitle: D-Sides, Orphans, and Oddities
-subtitle:  Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself
+subtitle: WHUP Radio 104.7 FM &copy; Hillsborough Community Media
 description: Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself.
 post_description: Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself.
 image: /assets/images/podcasts/
-categories: [Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay23December]
+categories: [WHUP-Radio-104.7-FM, Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay23December]
 tags: podcasts
 permalink: /discography/podcasts/:name
-last_modified_at: 8 June 2024
+last_modified_at: 8 August 2024
 ---
 
 <figure class="fig3">
+<figure class="fig3">
 <table>
 <tr id="infobox1"><th colspan="3">Spoken Language: English</th></tr>
-<tr><td colspan="3">
-<p class="noembed"><span class="red bold">Embed No More</span><br />The Podcast "D-Sides, Orphans, and Oddities" has been taken down and is no longer active on any podcasting website's. I don't know why but I would say it would be a fair guess to say it was for copyright reasons. which is why I will not be uploading a copy to this website.<br /><strong>Original Source:</strong> Podbean <span class="up">&#8592;</span> <span class="red">broken link</span><br /><strong>Current Source (Details Only):</strong> <a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/bay-city-rollers-paul-sbw07qlUBrG/">ListenNotes</a></p>
-</td></tr>
-<tr id="infobox2" class="split"><th colspan="3">Tracks</th></tr>
+<tr><th colspan="2" style="color:#ff0000; width:35%;">Embed No More</th><td>The former podcast <strong>D-Sides, Orphans, and Oddities</strong> is now an audio stream that removes each episode after two weeks.</td></tr>
+<tr><th colspan="2"><a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/bay-city-rollers-paul-sbw07qlUBrG">ListenNotes</a></th><td>Current source for details of this episode.</td></tr>
+<tr><th colspan="2"><a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities/">WHUP Radio 104.7 FM</a></th><td>D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs</td></tr>
+<tr id="infobox2" class="split"><th colspan="3"><a href="#infobox2">Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself</a></th></tr>
 <tr><th style="width:10%; text-align:center;">Track</th><th>Artist</th><th>Title</th></tr>
 <tr><th style="width:10%; text-align:center;">1</th><td>REO Speedwagon</td><td>Ridin' The Storm Out (studio version)</td></tr>
 <tr><th style="width:10%; text-align:center;">2</th><td>Rufus</td><td>Read All About</td></tr>
