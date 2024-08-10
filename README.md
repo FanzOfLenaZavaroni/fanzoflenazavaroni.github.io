@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/aa908b9f0a006588a8dd795bd5e9401e6b882df5)
-- [Update 1974-07-27-billboard.md and 1974-07-27-cash-box.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d2774106dfc43562ce9a102685aadf8ccccd8b7b)
-- [Update 1977-07-24-hi-summer.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e8af7acd37064533a68a12befb76a590910d3987)
-- [Update 1977-07-24-hi-summer.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/37f5352101ca559d0f4add8ec1cd000f85e5f436)
-- [Update 1974-07-26-radio-record..md, 1978-07-29-record-mirror..md, and…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/434a7f38a722b6885bfaf73551dffec1deb5ef86)
+- [Update 2020-05-23-d-sides-orphans-and-oddities.md, 2020-06-17-d-sides…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6247a6f1df3dba04c1b98e1dd7a480e439668a8d)
+- [Update 1974-08-10-cash-box.md, 1974-08-10-record-world..md, and 7 mor…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/50a7b04d339b0020992ddb476ccfd9d9f95094bc)
+- [Update 1981-09-28-des-oconnor-tonight.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/144cd63a2d2097d890aebdf4b3c3d5e74c0beffc)
+- [Update 1981-09-28-des-oconnor-tonight.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/512d3125b0012705843b5849fd285383c14a16e0)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5117c3388f22c33d6bf7129d1ffa13290d4cd2e4)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
