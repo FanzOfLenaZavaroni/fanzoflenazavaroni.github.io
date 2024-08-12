@@ -36,7 +36,7 @@ last_modified_at: 8 August 2024
 <p>Gary Lewis and the Playboys - Then Again Maybe (1972)</p>
 <p>Dino, Desi & Billy - Lady Love (1970) The group was never a favorite of the critics. Writing for Allmusic.com, music critic Richie Unterberger characterized them as a group that "never had an ounce of credibility", with music that was "innocuously bland in the extreme." These sentiments may be contrasted with the fact that the band was well thought of by the Beach Boys, to the extent that Brian Wilson and [Billy]Hinsche co-wrote one of the band's original songs, and their final single, "Lady Love". That single was released by Reprise Records in 1970, after the group had broken up. Hinsche's sister, Annie, married Carl Wilson and Hinsche himself worked with the Beach Boys as a backing musician for many years.</p>
 <p>Dino, Desi & Billy - A Certain Sound  (1970)</p>
-<p style="outline: 4px dashed darkorange; outline-offset: -4px;width: max-content;padding: 0 5px;">Lena Zavaroni - Jump Down Jimmy (1980) at approximately 1:03:08 into the podcast</p>
+<p style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni - Jump Down Jimmy (1980) at approximately 1:03:08 into the podcast</p>
 <p>Orson Welles - The Begatting Of The President Pt. 1 (1969)</p>
 <p>Rich Little - President's Rap (1982)</p>
 <p>Ultimate Spinach - Suite: Genesis Of Beauty (In Four Parts) (1968)</p>
