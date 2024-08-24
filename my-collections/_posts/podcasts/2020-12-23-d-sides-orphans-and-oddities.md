@@ -13,7 +13,6 @@ last_modified_at: 8 August 2024
 ---
 
 <figure class="fig3">
-<figure class="fig3">
 <table>
 <tr id="infobox1"><th colspan="3">Spoken Language: English</th></tr>
 <tr><th colspan="2" style="color:#ff0000; width:35%;">Embed No More</th><td>The former podcast <strong>D-Sides, Orphans, and Oddities</strong> is now an audio stream that removes each episode after two weeks.</td></tr>
