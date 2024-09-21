@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/03864514ce0cd301d192f21502595121e2c17058)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b01fc378fbfd9a29324af4ac4e7595e7ae891d08)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3222e9696717c2dac87e649d9a00bd76ced4c89e)
 - [Update 1981-08-31-record-business.md and 1974-08-31-record-world..md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3f59da5798eae213f84616ac72fe78ffe1188356)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ddc88a48a741c16c013b87e0103b90e01fa69989)
-- [Update 2020-12-23-d-sides-orphans-and-oddities.md, 1974-08-24-record-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4d75a815bef09c591a420eda67d1b65e15bcc272)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
