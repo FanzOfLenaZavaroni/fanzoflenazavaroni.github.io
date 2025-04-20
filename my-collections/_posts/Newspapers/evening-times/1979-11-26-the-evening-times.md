@@ -5,7 +5,7 @@ maintitle: The Evening Times
 subtitle: A Teddy Tonic For Lena
 description: The Evening Times reported on Lena Zavaroni’s progress in Glasgow Southern General Hospital.
 post_description: A Teddy Tonic For Lena - The Evening Times reported on Lena Zavaroni’s progress in Glasgow Southern General Hospital.
-categories: [Newspapers, The-Evening-Times, OnThisDay26November]
+categories: [Newspaper&#58; Evening-Times-(rebranded-as-the-Glasgow-Times-on-4-December-2019), OnThisDay26November]
 last_modified_at: 22 November 2023
 ---
 

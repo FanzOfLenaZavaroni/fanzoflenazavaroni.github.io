@@ -7,7 +7,7 @@ description: The US magazine's Hits of the World section listed Lena's single Pe
 media: Newspaper
 post_description: The US magazine's Hits of the World section listed Lena's single Personality as moving up the charts from no. 50 to no. 33. Plus a full page advert for the Stax release of Lena Zavaroni's LP Ma! (He's Making Eyes at me).
 image: /assets/images/newspapers/billboard/1974-06-15-01-billboard.jpg
-categories: [Newspapers, Billboard, OnThisDay15June]
+categories: [Newspaper&#58; Billboard, OnThisDay15June]
 last_modified_at: 6 April 2024
 ---
 

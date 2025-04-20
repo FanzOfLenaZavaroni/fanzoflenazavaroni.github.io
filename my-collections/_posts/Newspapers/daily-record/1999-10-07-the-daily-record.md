@@ -5,7 +5,7 @@ maintitle: The Daily Record (Glasgow, Scotland)
 subtitle: LENA HAD NO FEAR OF DEATH; The child star's best friend tells how Lena wanted to find an end to the anorexia which had plagued her life.
 description: LENA HAD NO FEAR OF DEATH; The child star's best friend tells how Lena wanted to find an end to the anorexia which had plagued her life.
 post_description: LENA HAD NO FEAR OF DEATH; The child star's best friend tells how Lena wanted to find an end to the anorexia which had plagued her life.
-categories: [Newspapers, Daily-Record, Glasgow, Scotland, OnThisDay7October]
+categories: [Newspaper&#58; Daily-Record, Glasgow, Scotland, OnThisDay7October]
 ---
 
 <figure class="fig3">

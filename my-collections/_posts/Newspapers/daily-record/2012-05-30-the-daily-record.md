@@ -6,7 +6,7 @@ subtitle: "The Daily Record - GALLERY: Scots were just as keen to celebrate Quee
 after: " Date of this post 31 March 2023"
 description: "The Daily Record - GALLERY: Scots were just as keen to celebrate Queen's Silver Jubilee in 1977"
 post_description: "The Daily Record - GALLERY: Scots were just as keen to celebrate Queen's Silver Jubilee in 1977"
-categories: [Newspapers, Daily Record, Typo, OnThisDay30May]
+categories: [Newspaper&#58; Daily-Record, Glasgow, Scotland, Typo, OnThisDay30May]
 last_modified_at: 23 December 2023
 ---
 

@@ -6,7 +6,7 @@ subtitle: Picks of the week
 description: Series 2 of Lena was one of the Sunday Mirror's picks for Wednesday.
 media: Picks of the week
 post_description: Series 2 of Lena was one of the Sunday Mirror's picks for Wednesday.
-categories: [Newspapers, Sunday-Mirror, OnThisDay5April]
+categories: [Newspaper&#58; Sunday-Mirror, OnThisDay5April]
 ---
 
 <figure class="fig1">

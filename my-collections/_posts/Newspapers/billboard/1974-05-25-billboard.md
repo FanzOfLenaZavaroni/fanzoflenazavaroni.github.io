@@ -6,7 +6,7 @@ subtitle: Newspaper
 description: Everybody Will Be Making Eyes at Lena
 post_description: Everybody Will Be Making Eyes at Lena
 image: /assets/images/newspapers/billboard/1974-05-25-01-billboard.png
-categories: [Newspapers, Billboard, OnThisDay25May]
+categories: [Newspaper&#58; Billboard, OnThisDay25May]
 last_modified_at: 24 May 2024
 ---
 

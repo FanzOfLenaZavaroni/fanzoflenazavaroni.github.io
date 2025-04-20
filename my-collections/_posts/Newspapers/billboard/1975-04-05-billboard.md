@@ -6,7 +6,7 @@ subtitle: Newspaper
 description: Palladium triumph for Lena Zavaroni, sub-teen singer from the Phonogram stable of artists...
 post_description: Palladium triumph for Lena Zavaroni, sub-teen singer from the Phonogram stable of artists...
 image: /assets/images/newspapers/billboard/1975-04-05-01-billboard.png
-categories: [Newspapers, Billboard, OnThisDay5April]
+categories: [Newspaper&#58; Billboard, OnThisDay5April]
 last_modified_at: 6 April 2024
 ---
 
