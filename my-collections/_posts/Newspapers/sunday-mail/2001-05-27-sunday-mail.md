@@ -6,7 +6,7 @@ subtitle: I'm so glad to be home. I only wish Lena was here; TRAGIC STAR'S DAD R
 description: I'm so glad to be home. I only wish Lena was here; TRAGIC STAR'S DAD RETURNS TO ROTHESAY AFTER 21 YEARS
 media: Newspaper
 post_description: I'm so glad to be home. I only wish Lena was here; TRAGIC STAR'S DAD RETURNS TO ROTHESAY AFTER 21 YEARS
-categories: [Newspapers, Sunday-Mail, OnThisDay27May]
+categories: [Newspaper&#58; Sunday-Mail, OnThisDay27May]
 ---
 
 > THE father of Scots singer Lena Zavaroni has moved back to her childhood home on the Isle of Bute.

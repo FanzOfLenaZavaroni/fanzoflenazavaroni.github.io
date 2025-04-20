@@ -5,7 +5,7 @@ maintitle: The Evening Times
 subtitle: Oh Ma, They're Making Eyes At Me!
 description: Oh Ma, They're Making Eyes At Me!
 post_description: Oh Ma, They're Making Eyes At Me!
-categories: [Newspapers, Evening-Times, OnThisDay24November]
+categories: [Newspaper&#58; Evening-Times-(rebranded-as-the-Glasgow-Times-on-4-December-2019), OnThisDay24November]
 last_modified_at: 21 November 2023
 ---
 

@@ -6,7 +6,7 @@ subtitle: ﻿AS HER MUM DIES
 description: SINGER Lena Zavaroni faced double heartache last night as she arrived in Scotland for the funeral of her mother.
 post_description: SINGER Lena Zavaroni faced double heartache last night as she arrived in Scotland for the funeral of her mother.
 image: /assets/images/newspapers/1989-12-17-the-People.jpg
-categories: [Newspapers, The-People, OnThisDay17December]
+categories: [Newspaper&#58; People&#44;-The, OnThisDay17December]
 last_modified_at: 16 December 2023
 ---
 

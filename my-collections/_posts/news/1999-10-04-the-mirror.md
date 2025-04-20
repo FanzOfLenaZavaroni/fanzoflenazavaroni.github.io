@@ -6,7 +6,7 @@ subtitle: THIS IS SO UNJUST; Lena's Love Tells of Her Final Meal and How She Had
 description: THIS IS SO UNJUST; Lena's Love Tells of Her Final Meal and How She Had Bravely Battled Wasting Disease.
 media: Newspaper
 post_description: THIS IS SO UNJUST; Lena's Love Tells of Her Final Meal and How She Had Bravely Battled Wasting Disease.
-categories: [Newspapers, Mirror, OnThisDay4October]
+categories: [Newspaper&#58; Daily-Mirror, OnThisDay4October]
 ---
 
 ### Article excerpt

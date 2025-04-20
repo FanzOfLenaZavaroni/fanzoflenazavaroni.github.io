@@ -6,7 +6,7 @@ subtitle: Obsessed Fan Preyed On My Poor Lena.
 description: Obsessed Fan Preyed On My Poor Lena.
 media: Newspaper
 post_description: Obsessed Fan Preyed On My Poor Lena.
-categories: [Newspapers, Daily-Record, OnThisDay5October]
+categories: [Newspaper&#58; Daily-Record, Glasgow, Scotland, OnThisDay5October]
 ---
 
 ### OBSESSED FAN PREYED ON MY POOR LENA; FAMILY FURY: Tragic Star's Father Hits out after Friend Claims He Proposed to Her
