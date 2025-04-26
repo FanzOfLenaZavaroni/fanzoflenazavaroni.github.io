@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1974-03-16-the-People.md, 1985-12-22-the-people.md, and 47 mor…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e2bd2b3df7099b0834a4285eb344f9872f5e82a1)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/da2fd6c887330c6a8055bd2a9d1365abc4977f5e)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/416ef535ea1ab7a1dfae7863fbc7fbfb27f3f3f7)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/93114ae7366af272358dccc2cca02b9d2157339d)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/2098d6d9c79770f0912e3a800a274211a42f9748)
+- [Update 1999-10-01-Lena Zavaroni died.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c50a48addfd5476dbb14b33f09804086e1f54a4b)
+- [Update october10.html, 10-01.md, and 11-04+comments.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/55ba9eb41837bfe9d6f53398b857e7963b7290f0)
+- [Update 11-04+comments](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9a06a30bff63e553481cf7243765aa47008654ad)
+- [Create 11-04+comments](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7721bf48a0d1c7cc51abf4cf5d2e37ea2bafbd28)
+- [Update 11-04.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/28094a649f5717efb2759f7bddbbd827f62eb8b2)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
