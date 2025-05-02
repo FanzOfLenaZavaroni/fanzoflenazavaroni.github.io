@@ -22,7 +22,7 @@ last_modified_at: 31 January 2024
 <table>
 <tr id="infobox1"><th>Dougie Squires</th><th colspan="2">Birth name</th></tr>
 <tr class="top"><th rowspan="10" style="width:50%;">
-<a href="/assets/images/newspapers/dougie-squires.jpg"><img src="/assets/images/newspapers/dougie-squires.jpg" class="full-width zoom-in" /></a>
+<img src="/assets/images/newspapers/dougie-squires.jpg" class="full-width" />
 <cite>Creator of The Young Generation dance group Dougie Squires dies at the age of 91 (Mark Davies/PA)</cite>
 </th></tr>
 <tr><td>Dougie William Squires</td></tr>

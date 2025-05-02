@@ -24,7 +24,7 @@ last_modified_at: 31 January 2024
 <table>
 <tr id="infobox1"><th>Bonnie Langford</th><th>Birth name</th></tr>
 <tr class="top"><th rowspan="12" style="width:50%;">
-<a href="/assets/images/bonnie/BL-01.png"><img src="/assets/images/bonnie/BL-01.png" class="full-width zoom-in" /></a>
+<img src="/assets/images/bonnie/Bonnielangford86b_(cropped).jpg" class="full-width" />
 <cite>Bonnie Langford back in September of 1986 at the "Whovent 86" convention tour.<br /><br />Taken by Joe Siegler/Dopefish who placed it into the Public domain on the 24 July 2010.</cite>
 </th></tr>
 <tr><td>Bonita Melody Lysette Langford</td></tr>

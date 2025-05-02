@@ -16,10 +16,10 @@ last_modified_at: 30 January 2024
 <table>
 <tr id="infobox1"><th>Hughie Green</th><th colspan="2">Birth name</th></tr>
 <tr class="top"><th rowspan="19" style="width:50%;">
-<a href="/assets/images/on-this-day/monica-rose-hughie-green-and-audrey-graham-left-to-right-presented-double-your-money.jpg"><img src="/assets/images/on-this-day/monica-rose-hughie-green-and-audrey-graham-left-to-right-presented-double-your-money.jpg" class="full-width zoom-in" /></a>
+<img src="/assets/images/on-this-day/monica-rose-hughie-green-and-audrey-graham-left-to-right-presented-double-your-money.jpg" class="full-width" />
 <cite>Presenters Of Double Your Money: Monica Rose, Hughie Green and Audrey Graham (Left-to-right)</cite>
 <br />
-<a href="/assets/images/on-this-day/opportunity-knocks.jpg"><img src="/assets/images/on-this-day/opportunity-knocks.jpg" class="full-width zoom-in" /></a>
+<img src="/assets/images/on-this-day/opportunity-knocks.jpg" class="full-width" />
 <cite>Presenter of Opportunity Knocks: Hughie Green</cite>
 </th></tr>
 <tr><td>Hugh Hughes Green</td></tr>
