@@ -17,7 +17,7 @@ last_modified_at: 23 December 2023
 <table>
 <tr id="infobox1"><th>Les Dawson</th><th colspan="2">Birth name</th></tr>
 <tr class="top"><th rowspan="12" style="width:50%;">
-<a href="/assets/images/on-this-day/les-dawson.webp"><img src="/assets/images/on-this-day/les-dawson.webp" class="full-width zoom-in" /></a>
+<img src="/assets/images/on-this-day/les-dawson.webp" class="full-width" />
 <cite>Les Dawson</cite>
 </th></tr>
 <tr><td>Leslie Dawson</td></tr>
