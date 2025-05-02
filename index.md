@@ -21,6 +21,11 @@ image: /assets/images/Lena/LZ-02-cropped-removebg.png
 
 <a href="/1963-11-04-lena-zavaroni"><strong>Media Based Biography of Lena Zavaroni</strong></a>
 
+<div id="notice-banner" style="background: #f8d7da; padding: 10px; border: 1px solid #dc3545; text-align: center;">
+  <p><strong>Important Notice:</strong> Due to copyright concerns, Fanz of Lena Zavaroni no longer adds images or videos to posts.  
+  <a href="/2025-05-02-announcement" style="color: #dc3545; font-weight: bold;">Read More</a></p>
+</div>
+
 <style>
 .page-content {padding: 20px 0;}
 </style>
