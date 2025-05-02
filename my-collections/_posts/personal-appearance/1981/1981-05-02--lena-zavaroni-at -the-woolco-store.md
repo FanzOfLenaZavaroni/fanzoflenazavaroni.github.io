@@ -9,7 +9,7 @@ categories: [Personal-Appearances, OnThisDay2May]
 ---
 
 <h3 id="infobox1"><a href="#infobox1">Roses And Rainbows</a></h3>
-Lena's then new sing was released on 3 April 1981 for more detail visit my discography section for the single <a href="/discography/singles/1981-04-03-roses-and-rainbows">Roses And Rainbows</a>
+Lena's then new sing was released on 3 April 1981 for more details visit my discography section for the single <a href="/discography/singles/1981-04-03-roses-and-rainbows">Roses And Rainbows</a>
 
 <h3 id="infobox2"><a href="#infobox2">Woolco Department Store Opened 1972</a></h3>
 <blockquote>In the late 1960’s and early 1970’s the then Hatfield Rural District Council and the Commission for the New Towns were concerned about the inadequacy of the shopping facilities within Hatfield Town Centre. The solution was to adopt a new system of trading introduced by the Woolco Division of F.W.Woolworth Ltd. The new store was described as “An out of town department store in the Town Centre”.</blockquote>
