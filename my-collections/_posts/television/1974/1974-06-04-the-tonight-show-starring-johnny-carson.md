@@ -1,6 +1,7 @@
 ---
 layout: post
-last_modified_at: 15 June 2023
+before: "Original Broadcast: "
+after: " - Repeat Brodcast: 3 May 1975"
 title: The Tonight Show &#124; 4 June 1974
 maintitle: The Tonight Show
 subtitle: Starring Johnny Carson
@@ -8,7 +9,8 @@ description: She performs Ma He's Making Eyes At Me and then chats to Johnny, be
 media: US Television
 post_description: Lena Zavaroni performs Ma He's Making Eyes At Me and then chats to Johnny, before performing The End Of The World.
 image: https://img.youtube.com/vi/iG4y6WCY1RA/mqdefault.jpg
-categories: [US-Television, OnThisDay4June]
+categories: [US-Television, OnThisDay4June, OnThisDay3May]
+last_modified_at: 2 May 2025
 ---
 
 <table>
@@ -21,7 +23,7 @@ categories: [US-Television, OnThisDay4June]
 </table>
 
 <h3 id="youtube"><a href="#youtube">YouTube Clip</a></h3>
-<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/iG4y6WCY1RA?rel=0&showinfo=1" frameborder="0" allowfullscreen></iframe></div>
+<div class="responsive-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/SZnmGZTlZu0?si=Yj78gaBeZ5TFPnYv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 <h3 id="summary"><a href="#summary">Summary</a></h3>
 > Lena Zavaroni makes the first of two appearances on the show that summer.
