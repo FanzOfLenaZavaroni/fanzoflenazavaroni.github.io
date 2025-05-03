@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1999-10-01-Lena Zavaroni died.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c50a48addfd5476dbb14b33f09804086e1f54a4b)
-- [Update october10.html, 10-01.md, and 11-04+comments.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/55ba9eb41837bfe9d6f53398b857e7963b7290f0)
-- [Update 11-04+comments](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9a06a30bff63e553481cf7243765aa47008654ad)
-- [Create 11-04+comments](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7721bf48a0d1c7cc51abf4cf5d2e37ea2bafbd28)
-- [Update 11-04.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/28094a649f5717efb2759f7bddbbd827f62eb8b2)
+- [Update 1974-06-04-the-tonight-show-starring-johnny-carson.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ac4b22a5d68c5f94621e4c6ce86c9821870b7be9)
+- [Update Bonnielangford86b_&lpar;cropped&rpar;.jpg, dougie-squires.jpg, and 7 mor…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f88fd8d579ba9b268fb68e959b5efa9fddfb714f)
+- [Update 1981-05-02--lena-zavaroni-at -the-woolco-store.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fbf22073102e4d36cc85d239a958178fc8ccc96a)
+- [Update index.md, 2025-05-02-announcement.md, and 4 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/515121bd9e9eb1e2e030a332235c11a2cdceeb92)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3012e65de7eb45200ba30b96b314d26cfe9f3d56)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
