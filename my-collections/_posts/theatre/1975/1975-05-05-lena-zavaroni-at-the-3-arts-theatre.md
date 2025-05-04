@@ -1,19 +1,18 @@
 ---
 layout: post
 after: "  for two weeks"
-title: Lena Zavaroni At The 3 Arts Theatre
-maintitle: Lena Zavaroni At The 3 Arts Theatre
-subtitle: Due to apartheid black only shows were held on 6 May 1975 & 12, May 1975
+title: The 3 Arts Theatre, Plumstead, South Africa
+maintitle: The 3 Arts Theatre, Plumstead, South Africa
+subtitle: Staring Lena Zavaroni
 description: Due to apartheid black only shows were held on 6 May 1975 & 12, May 1975.
-post_description: Due to apartheid black only shows were held on 6 May 1975 & 12, May 1975.
+post_description: Lena Zavaroni performed at The 3 Arts Theatre for two weeks starting on 5 May 1975, with black-only shows held on 6 May and 12 May due to apartheid restrictions.
 image: /assets/images/theatres/1969c-the-3-arts-theatre.jpg
 categories: [Theatre, 3-Arts-Theatre, OnThisDay5May, OnThisDay6May, OnThisDay12May]
 last_modified_at: 6 May 2024
 ---
 
-<a href="/assets/images/theatres/1969c-the-3-arts-theatre.jpg"><img src="/assets/images/theatres/1969c-the-3-arts-theatre.jpg" class="full-width zoom-in" /></a>
-<cite><a class="external-link" href="http://www.cape-town.photos/image/1859-3-arts-theatre-plumstead-c1969/">3 Arts Theatre, Plumstead. c1969</a></cite>
+Lena Zavaroni performed at The 3 Arts Theatre for two weeks starting on 5 May 1975, with black-only shows held on 6 May and 12 May due to apartheid restrictions.
 
-<h3 id="history"><a href="#history">History</a></h3>
+<h3 id="history"><a href="#history">History Of The 3 Arts Theatre</a></h3>
 <a class="external-link" href="https://3artsvillage.co.za/3-arts-history/">The 3 Arts Theatre</a>
 
