@@ -11,12 +11,12 @@ categories: [BBC-Radio-4, OnThisDay4May, OnThisDay9May]
 
 <figure class="fig3">
 <h3 id="infobox1"><a href="#infobox1">Details</a></h3>
-<p>Each episode had two broadcasts one at 09:45 hrs and again at 00:30 hrs</p>
+<p>Each episode had two broadcasts one at 09:45 hrs on BBC Radio 4 FM and again at 00:30 hrs on BBC Radio 4 LW.</p>
 <h3>10 profound human truths found in cheesy pop songs: Lena Zavaroni: Will He Kiss Me Tonight? (1980)</h3>
 <blockquote>The BBC article highlights Lena Zavaroni’s version of <a href="/discography/singles/1980-11-will-he-kiss-me-tonight">Will He Kiss Me Tonight</a>? (1980) in contrast to its original punk-inspired recording by Dolly Mixture. While Dolly Mixture’s version carried a raw, youthful energy, Lena’s interpretation transformed it into a polished, theatrical performance that reflected her stage presence. The article suggests that, in a more just world, Lena’s version could have been a major hit, capturing the excitement of young love with its expressive delivery.</blockquote>
 <cite>For the full article, visit: <a class="external-link" href="https://www.bbc.co.uk/programmes/articles/3Wjr9Ys8KXSVLGT5wj4FDVT/10-profound-human-truths-found-in-cheesy-pop-songs#:~:text=Lena%20Zavaroni%3A%20Will%20He%20Kiss%20Me%20Tonight%3F%20(1980)">BBC Related Page</a></cite>
 <br />
-<p>The Book itself was released on 6 March 2020, <a href="/2020-03-05-broken-greek-hardcover">More..</a></p>
+<p>The Book itself was released on 5 March 2020, <a href="/2020-03-05-broken-greek-hardcover">More..</a></p>
 </figure>
 
 <table>
