@@ -56,18 +56,7 @@ permalink: /discography/tribute-songs/:name
 
 {: .clear}
 
-<h3 id="anorexic-beauty"><a href="#anorexic-beauty">Anorexic Beauty</a></h3>
-
-<audio id="player" src="/assets/media/07-anorexic-beauty.mp3">Your browser does not support the audio element.</audio>
-<div>
-  <button onclick="document.getElementById('player').play()">Play</button>
-  <button onclick="document.getElementById('player').pause()">Pause</button>
-  <button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button>
-  <button onclick="document.getElementById('player').volume += 0.1">Vol +</button>
-  <button onclick="document.getElementById('player').volume -= 0.1">Vol -</button>
-</div>
-<br />
-<h3 id="lyrics"><a href="#lyrics">Lyrics</a></h3>
+<h3 id="lyrics"><a href="#lyrics">Anorexic Beauty Lyrics</a></h3>
 <blockquote>
 <p>Sitting alone on a cold bar stool</p>
 <p>Your cold, hard eyes make me feel a fool</p>
