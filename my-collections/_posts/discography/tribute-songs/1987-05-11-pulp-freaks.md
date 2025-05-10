@@ -14,11 +14,10 @@ permalink: /discography/tribute-songs/:name
 
 <table>
 <tr align="center">
-<th colspan="5">Jump To:</th>
+<th colspan="4">Jump To:</th>
 </tr>
 <tr>
-<td><a href="#anorexic-beauty">Anorexic Beauty</a></td>
-<td><a href="#lyrics">Lyrics</a></td>
+<td><a href="#lyrics">Anorexic Beauty Lyrics</a></td>
 <td><a href="#dedicated">Dedicated</a></td>
 <td><a href="#details">Details</a></td>
 <td><a href="#my-personal-view-on-the-track">My Personal View On The Track</a></td>
