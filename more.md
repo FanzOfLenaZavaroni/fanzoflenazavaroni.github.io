@@ -88,8 +88,17 @@ Any issues with the coding of the website for example broken links should be rep
 {: .clear}
 
 <div>
+<a class="style" href="/discussions-backup">
+<figure class="fig1">
+<h3 class="ct">:mega: Discussions are now getting backed up</h3>
+<p class="ct">View Backed Up Discussions.</p>
+</figure>
+</a>
+</div>
+
+<div>
 <a class="style" href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/discussions/categories/archives">
-<figure class="fig3">
+<figure class="fig2">
 <h3 class="ct"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c4.png" /> Discussions that have moved to Archives</h3>
 <p class="ct">Go to Github Discussions category Archives.</p>
 </figure>
