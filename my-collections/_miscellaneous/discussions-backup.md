@@ -7,7 +7,71 @@ permalink: /:name
 last_modified_at: 11 May 2025
 ---
 
-<h2 id="infobox39"><a href="#infobox39">2025-05-02-announcement/</a></h2>
+<h2 id="infobox39"><a href="#infobox39">announcements</a></h2>
+
+This is a fan made website and is not endorse by Lena Zavaroni’s family or friends.
+
+https://fanzoflenazavaroni.github.io/
+
+<!-- sha1: 2a60e4229575eb0a15a8e9ab0ccf8c2f053cad70 -->
+
+[View Post](https://fanzoflenazavaroni.github.io/announcements)
+
+[View Discussion](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/discussions/2)
+
+### Comments
+
+**FanzOfLenaZavaroni** (2022-11-24T19:14:44Z)
+
+A large system failure has meant I had to do a full reinstall of this website. Sadly it has meant the lost of all visitor comments on this website, I still have all the comments as emails but that doesn't mean I will be able to add them back here.
+
+I will look to see if I can run the comment system in a separate repository so that any system failure of the website's repo. will not effect the comments and see if there is a way to back up the comments. That doesn't mean the comments repo. could not have a failure of its own but keeping them separate seem the best way to go if it can be done.
+
+This will take time if it can be done, as my coding skills are limited plus my on going heath issues with my hands has already limited how much time I can spend updating the website without this additional work behind the scenes.
+
+#### Replies
+
+**FanzOfLenaZavaroni** (2022-11-28T01:05:31Z)
+
+I have started to recreate the comments as best I can from the email versions of the comments I have.
+
+**FanzOfLenaZavaroni** (2023-03-20T18:10:37Z)
+
+I have defined the recreated comments as Orphaned Comments and they should be available to view on the original page (maybe via a link) they were made on and are grouped under the Category: [Orphaned Comments](https://fanzoflenazavaroni.github.io/categories/#Orphaned-Comments).
+
+As I can't recreated my comments as GitHub does not email me my own comments, not all comments have been recreated I know this is a shame but those I have not recreated make little sense without the context of my comments.
+
+**FanzOfLenaZavaroni** (2025-05-11T17:08:26Z)
+
+It's taken a long time, but I now have a working script to backup Discussions, Comments and Replies.
+
+They can be viewed [here](https://fanzoflenazavaroni.github.io/discussions-backup), so hopefully I will not have to lose any Discussions, Comments and Replies in the future.
+
+There is still some work to be don on the script as where I have a reaction such as a "thumbs up" or a "smiley face" they are getting saved but are not displaying anything after the Comments tag so currently looks like the comments are empty so need to find away to place something after the comment even if it is a text stating that this comment was an unknown reaction such as a "thumbs up" or a "smiley face" as while i could just get the script to skip such comments I feel if someone leaves a reaction that is still a form of commenting and should be remembered.
+
+**FanzOfLenaZavaroni** (2023-03-15T13:33:04Z)
+
+I have change the way biographies are saved on this website they are now located in a sub-folder of the "post" section with their date-of-birth used as the post date this makes them easier to manage with the "Liquid Template Language" and will now automatically show up on the "Posts" page and will also automatically show up on any related "On This Days" E.G, on their birthday and where applicable on their death day.
+
+It also means they now have a section using their name in the "Categories" section so visitors can view all content related to an individual by going to their name within the "Categories" section.
+
+#### Replies
+
+**FanzOfLenaZavaroni** (2023-04-26T15:16:52Z)
+
+The changes I made to the biographies section have now been made to the podcast section for the same reasons.
+
+**FanzOfLenaZavaroni** (2023-06-05T14:10:26Z)
+
+Currently re-doing the way "On This Day" works to deal with multiple dates for a single post.
+
+#### Replies
+
+**FanzOfLenaZavaroni** (2023-06-19T08:37:39Z)
+
+The updated "OnThisDay" code means that dealing with multiple dates has been made more manageable and if required other details along with the date can be added. 
+
+<h2 id="infobox38"><a href="#infobox38">2025-05-02-announcement/</a></h2>
 
 Due to copyright concerns, Fanz of Lena Zavaroni no longer adds images or videos to posts.
 
@@ -43,7 +107,7 @@ As always thanks for your ongoing support it means a lot,
 
 Regards Robert (Robcamstone).
 
-<h2 id="infobox38"><a href="#infobox38">2018-02-13-punk-girl-diaries/</a></h2>
+<h2 id="infobox37"><a href="#infobox37">2018-02-13-punk-girl-diaries/</a></h2>
 
 Lena is…a Punk Rocker…
 
@@ -78,7 +142,7 @@ They have the following as well but currently have nothing related to Lena:
 
 I must learn to take screenshots on the basis that the sites linked to won't be there next year.
 
-<h2 id="infobox37"><a href="#infobox37">onthisday/10/10-03/</a></h2>
+<h2 id="infobox36"><a href="#infobox36">onthisday/10/10-03/</a></h2>
 
 Details for On This Day are genarated by the posts added to the website so the content is subject to changes/updates over time.
 
@@ -105,7 +169,7 @@ Today's 1999 edition of course, though I'm sure you guessed this.
 
 Thanks for the details and link.
 
-<h2 id="infobox36"><a href="#infobox36">1984-08-19-its-not-where-you-start-its-where-you-finish/</a></h2>
+<h2 id="infobox35"><a href="#infobox35">1984-08-19-its-not-where-you-start-its-where-you-finish/</a></h2>
 
 Documentary on the stage school where Lena Zavaroni and Bonnie Langford Started
 
@@ -125,7 +189,7 @@ Someone has commented on YouTube that this is a clip from the programme.
 https://www.youtube.com/watch?v=0UKFZr28Cmc
 
 
-<h2 id="infobox35"><a href="#infobox35">1979-08-17-buckinghamshire-examiner/</a></h2>
+<h2 id="infobox34"><a href="#infobox34">1979-08-17-buckinghamshire-examiner/</a></h2>
 
 Dee Anne aims for the top
 
@@ -139,7 +203,7 @@ https://fanzoflenazavaroni.github.io/
 
 ### Comments
 
-<h2 id="infobox34"><a href="#infobox34">1981-08-09-harold-fieldings-sunday-night-at-the-blackpool-opera-house/</a></h2>
+<h2 id="infobox33"><a href="#infobox33">1981-08-09-harold-fieldings-sunday-night-at-the-blackpool-opera-house/</a></h2>
 
 Two shows at 6.10pm and 8.20pm plus a rehearsal at 2.30pm The Contract for the show was signed by Victor Zavaroni.
 
@@ -163,7 +227,7 @@ I wonder if this was because Lena's parents lived in Rothesay and therefore her 
 
 Good point! One of the many small details we may never learn about.
 
-<h2 id="infobox33"><a href="#infobox33">discography/podcasts/2020-06-29-making-an-impression</a></h2>
+<h2 id="infobox32"><a href="#infobox32">discography/podcasts/2020-06-29-making-an-impression</a></h2>
 
 Kate O’Sullivan
 
@@ -177,7 +241,7 @@ https://fanzoflenazavaroni.github.io/
 
 ### Comments
 
-<h2 id="infobox32"><a href="#infobox32">1980-05-29-totp/</a></h2>
+<h2 id="infobox31"><a href="#infobox31">1980-05-29-totp/</a></h2>
 
 David ‘Kid’ Jensen presents chart hits of the week. Guests include Liquid Gold, Hot Chocolate, Elton John, Don McLean, Thin Lizzy, Roxy Music, OMD, Jermaine Jackson, Stiff Little Fingers, Mystic Merlin and Lena Zavaroni. Includes a dance sequence by Legs & Co.
 
@@ -209,7 +273,7 @@ Their laziness makes it very hard for anyone wishing to make an archive of broad
 
 TOTP, [...Sings Neil Diamond](https://fanzoflenazavaroni.github.io/2010-11-14-sings-neil-diamond/#infobox3), [The Morecambe And Wise Show](https://fanzoflenazavaroni.github.io/1976-02-11-the-morecambe-and-wise-show/) all have misleading information along with many other programmes.
 
-<h2 id="infobox31"><a href="#infobox31">2012-05-30-the-daily-record/</a></h2>
+<h2 id="infobox30"><a href="#infobox30">2012-05-30-the-daily-record/</a></h2>
 
 The Daily Record - GALLERY: Scots were just as keen to celebrate Queen’s Silver Jubilee in 1977
 
@@ -223,7 +287,7 @@ https://fanzoflenazavaroni.github.io/
 
 ### Comments
 
-<h2 id="infobox30"><a href="#infobox30">1974-04-14-harold-fieldings-sunday-night-at-the-blackpool-opera-house/</a></h2>
+<h2 id="infobox29"><a href="#infobox29">1974-04-14-harold-fieldings-sunday-night-at-the-blackpool-opera-house/</a></h2>
 
 Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm The Contract for the show was signed by Victor Zavaroni.
 
@@ -255,7 +319,7 @@ I think I know the photo you mean. If it's OK with you I will re-scan my physica
 
 I just finished a scan and did a HD Scan on the girl as we thought she was it is a young woman I would say so not Susie Heckler maybe Ellis Gilmer but maybe too young for her.
 
-<h2 id="infobox29"><a href="#infobox29">2024-04-01-etudes-%C3%A9cossaises/</a></h2>
+<h2 id="infobox28"><a href="#infobox28">2024-04-01-etudes-%C3%A9cossaises/</a></h2>
 
 Illness beyond the Scottish National Imaginary: Anorexia and Scots-Italian Historical Trauma in Andrew O’Hagan’s Personality.
 
@@ -269,7 +333,7 @@ https://fanzoflenazavaroni.github.io/
 
 ### Comments
 
-<h2 id="infobox28"><a href="#infobox28">2024-03-16-notice/</a></h2>
+<h2 id="infobox27"><a href="#infobox27">2024-03-16-notice/</a></h2>
 
 Content Thieves.
 
@@ -283,7 +347,7 @@ https://fanzoflenazavaroni.github.io/
 
 ### Comments
 
-<h2 id="infobox27"><a href="#infobox27">onthisday/03/03-14/</a></h2>
+<h2 id="infobox26"><a href="#infobox26">onthisday/03/03-14/</a></h2>
 
 Details for On This Day are genarated by the posts added to the website so the content is subject to changes/updates over time.
 
@@ -297,7 +361,7 @@ https://fanzoflenazavaroni.github.io/
 
 ### Comments
 
-<h2 id="infobox26"><a href="#infobox26">2020-03-04-the-courier-evening-telegraph/</a></h2>
+<h2 id="infobox25"><a href="#infobox25">2020-03-04-the-courier-evening-telegraph/</a></h2>
 
 Opportunity Knocks for Angus singer as he gets set to roll back the years at Webster Theatre charity concert by Graeme Strachan
 
@@ -311,7 +375,7 @@ https://fanzoflenazavaroni.github.io/
 
 ### Comments
 
-<h2 id="infobox25"><a href="#infobox25">1980-02-27-the-scottish-national-record-awards/</a></h2>
+<h2 id="infobox24"><a href="#infobox24">1980-02-27-the-scottish-national-record-awards/</a></h2>
 
 Lena collected the "personality of the year" award at The Albany Hotel, Glasgow.
 
@@ -325,7 +389,7 @@ https://fanzoflenazavaroni.github.io/
 
 ### Comments
 
-<h2 id="infobox24"><a href="#infobox24">2000-02-20-sunday-mail/</a></h2>
+<h2 id="infobox23"><a href="#infobox23">2000-02-20-sunday-mail/</a></h2>
 
 20 February 2000 - The Sunday Mail (Glasgow, Scotland) Preview of The Real Lena Zavaroni.
 
@@ -339,7 +403,7 @@ https://fanzoflenazavaroni.github.io/
 
 ### Comments
 
-<h2 id="infobox23"><a href="#infobox23">discography/podcasts/2010-12-28-podcast-from-america</a></h2>
+<h2 id="infobox22"><a href="#infobox22">discography/podcasts/2010-12-28-podcast-from-america</a></h2>
 
 Episode 6 With Bonnie Langford
 
@@ -353,7 +417,7 @@ https://fanzoflenazavaroni.github.io/
 
 ### Comments
 
-<h2 id="infobox22"><a href="#infobox22">1981-10-17-saturday-night-is-gala-night/</a></h2>
+<h2 id="infobox21"><a href="#infobox21">1981-10-17-saturday-night-is-gala-night/</a></h2>
 
 A concert of British music from the Royal Albert Hall, London in association with the Music Publishers Association of Great Britain to celebrate their centenary.
 
@@ -378,7 +442,7 @@ https://www.youtube.com/watch?v=UblmGfMCl1o&ab_channel=RadioRecollections
 
 Thanks for the info, and link. I have added the details to this page.
 
-<h2 id="infobox21"><a href="#infobox21">onthisday/12/12-18/</a></h2>
+<h2 id="infobox20"><a href="#infobox20">onthisday/12/12-18/</a></h2>
 
 Details for On This Day are genarated by the posts added to the website so the content is subject to changes/updates over time.
 
@@ -437,7 +501,7 @@ Yes! Radio seems to get over looked the BBC does have an archive of Radio conten
 
 Sites like mixcloud would be our best option to get to hear Lena related content but to date I have yet to find anything on there apart from what you and I have both found which is the "Top 20 with Tom Browne" and some of them have been taken down.
 
-<h2 id="infobox20"><a href="#infobox20">discography/singles/1979-11-09-somewhere-south-of-macon-promo</a></h2>
+<h2 id="infobox19"><a href="#infobox19">discography/singles/1979-11-09-somewhere-south-of-macon-promo</a></h2>
 
 # 
 
@@ -467,7 +531,7 @@ Thanks for the link gave me a reason to start creating individual pages for each
 
 It should help reduce the data load for mobile users and makes an "On This Day" more clear as to which of the versions of a Single/Album the "On This Day" is related to when there are many versions of a Single/Album.
 
-<h2 id="infobox19"><a href="#infobox19">2019-10-01-orphaned-comments/</a></h2>
+<h2 id="infobox18"><a href="#infobox18">2019-10-01-orphaned-comments/</a></h2>
 
 Cjones85
 
@@ -500,7 +564,7 @@ Hello! I am happy that this website is still going. I keep it bookmarked and try
 
 Yes, I noticed that you had a system failure. Thats VERY unfortuneate. We did have some good conversations on here about Lena. I took a look at all the orphaned comments and all of the ones attributed to me are mine. Thank you for trying to atleast make sure they were reposted! 
 
-<h2 id="infobox18"><a href="#infobox18">2019-10-03-orphaned-comments/</a></h2>
+<h2 id="infobox17"><a href="#infobox17">2019-10-03-orphaned-comments/</a></h2>
 
 3 October 2019
 
@@ -518,7 +582,7 @@ https://fanzoflenazavaroni.github.io/
 
 I stand by my comment above! 
 
-<h2 id="infobox17"><a href="#infobox17">1999-11-04-orphaned-comments/</a></h2>
+<h2 id="infobox16"><a href="#infobox16">1999-11-04-orphaned-comments/</a></h2>
 
 4 November 1999
 
@@ -536,7 +600,7 @@ https://fanzoflenazavaroni.github.io/
 
 This is a comment made by me 4 years ago. 
 
-<h2 id="infobox16"><a href="#infobox16">onthisday/10/10-27/</a></h2>
+<h2 id="infobox15"><a href="#infobox15">onthisday/10/10-27/</a></h2>
 
 Details for On This Day are genarated by the posts added to the website so the content is subject to changes/updates over time.
 
@@ -554,7 +618,7 @@ https://fanzoflenazavaroni.github.io/
 
 Hello Lena! Its been a while since I have written to you. You have been gone 24 years now. The world is worse for your loss. The world is sadly lacking in beautitul sweet kind souls like you. From one tormented soul to another, I sincerely hope you found in death the peace that you never did in life. Love, from a kindred spirit. 
 
-<h2 id="infobox15"><a href="#infobox15">discography/sound-postcards/2023-09-11-lena-zavaroni-drupi</a></h2>
+<h2 id="infobox14"><a href="#infobox14">discography/sound-postcards/2023-09-11-lena-zavaroni-drupi</a></h2>
 
 Lena Zavaroni & Drupi.
 
@@ -568,7 +632,7 @@ https://fanzoflenazavaroni.github.io/
 
 ### Comments
 
-<h2 id="infobox14"><a href="#infobox14">1982-08-03-the-lena-zavaroni-show/</a></h2>
+<h2 id="infobox13"><a href="#infobox13">1982-08-03-the-lena-zavaroni-show/</a></h2>
 
 Lena Zavaroni stars in her own show at the White Rock Pavilion, Hastings.
 
@@ -603,7 +667,7 @@ https://www.facebook.com/photo/?fbid=186176447108160&set=pcb.186176853774786
 ![image](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/assets/54290841/fd2df570-8e92-40a3-870c-ecec86beae6d)
 
 
-<h2 id="infobox13"><a href="#infobox13">2020-07-14-neil-seans-hall-of-fame/</a></h2>
+<h2 id="infobox12"><a href="#infobox12">2020-07-14-neil-seans-hall-of-fame/</a></h2>
 
 The Sky television programme Jameson Tonight was produced in the studio. The show was very cheaply made and basically was trying to be like Johnny Carson in the US without the great host or indeed guests. The most notable I remembered as a guest was the wonderful and gifted Lena Zavaroni plus a great actor who will always been known as the TV favourite ‘Jason King’ aka Peter Wyngarde.
 
@@ -627,7 +691,7 @@ https://www.theargus.co.uk/news/6798928.derek-jameson-lena-zavaroni-and-the-fame
 
 Thanks for the link, sadly very little details are available for "Jameson Tonight", I checked the listings page for the programme via [The Times Digital Archive](https://galeapps.gale.com/apps/auth?userGroupName=bro_ttda&origURL=https%3A%2F%2Fgo.gale.com%2Fps%2FdispBasicSearch.do%3FuserGroupName%3Dbro_ttda%26prodId%3DTTDA&prodId=TTDA) but the "Times" never listed the guests on the programme so no joy there as to which of the dates was Lena's apperance on the programme and the [BFI](https://www2.bfi.org.uk/films-tv-people/5ebb4117a5d0b) page for "Jameson Tonight" is pointless as it has no details on the programme. There are a couple of full episodes on YouTube and a number of clips but none related to Lena. The IMDb only has the [1990](https://www.imdb.com/title/tt1830037/) addition of the programme.
 
-<h2 id="infobox12"><a href="#infobox12">1981-07-03-the-lena-and-leslie-show/</a></h2>
+<h2 id="infobox11"><a href="#infobox11">1981-07-03-the-lena-and-leslie-show/</a></h2>
 
 Two nights of entertainment at Gloucester Hall in Fort Regent featuring the Lena and Leslie Show, with performances by Lena Zavaroni, Leslie Crowther and the Gary Lloyd Orchestra.
 
@@ -652,7 +716,7 @@ https://www.ebid.net/ie/for-sale/lena-zavarone-with-leslie-crowther-show-glouces
 
 Thanks for the link, I will added a copy of the flyer to this post.
 
-<h2 id="infobox11"><a href="#infobox11">1974-06-21-story/</a></h2>
+<h2 id="infobox10"><a href="#infobox10">1974-06-21-story/</a></h2>
 
 Lena kan haar poppen wel vergeten.
 
@@ -716,62 +780,6 @@ So now the story is that Tommy Scott was walking pass the Zavaroni family chip s
 Hold on what happen to the Athletic Bar where Tommy Scott heard Lena singing. Oh scrap the above he was walking pass an unnamed chip shop when he heard Lena singing in the Athletic Bar which was in Gallowgate and nowhere near a chip shop. Oh scrap that as well I was walking pass a chippy and carried on until I turn a corner into Gallowgate where I came upon the Athletic Bar where I heard a singer. Yes! Yes, this version will do (I did not known fiction was so hard).
 
 I think the truth is that Green, Solomon and Scott already had a plan in place for Lena that for reasons (money being one of them) they did not what the public at large to know about and so did not want to connect Green with the other two.
-
-<h2 id="infobox10"><a href="#infobox10">announcements</a></h2>
-
-This is a fan made website and is not endorse by Lena Zavaroni’s family or friends.
-
-https://fanzoflenazavaroni.github.io/
-
-<!-- sha1: 2a60e4229575eb0a15a8e9ab0ccf8c2f053cad70 -->
-
-[View Post](https://fanzoflenazavaroni.github.io/announcements)
-
-[View Discussion](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/discussions/2)
-
-### Comments
-
-**FanzOfLenaZavaroni** (2022-11-24T19:14:44Z)
-
-A large system failure has meant I had to do a full reinstall of this website. Sadly it has meant the lost of all visitor comments on this website, I still have all the comments as emails but that doesn't mean I will be able to add them back here.
-
-I will look to see if I can run the comment system in a separate repository so that any system failure of the website's repo. will not effect the comments and see if there is a way to back up the comments. That doesn't mean the comments repo. could not have a failure of its own but keeping them separate seem the best way to go if it can be done.
-
-This will take time if it can be done, as my coding skills are limited plus my on going heath issues with my hands has already limited how much time I can spend updating the website without this additional work behind the scenes.
-
-#### Replies
-
-**FanzOfLenaZavaroni** (2022-11-28T01:05:31Z)
-
-I have started to recreate the comments as best I can from the email versions of the comments I have.
-
-**FanzOfLenaZavaroni** (2023-03-20T18:10:37Z)
-
-I have defined the recreated comments as Orphaned Comments and they should be available to view on the original page (maybe via a link) they were made on and are grouped under the Category: [Orphaned Comments](https://fanzoflenazavaroni.github.io/categories/#Orphaned-Comments).
-
-As I can't recreated my comments as GitHub does not email me my own comments, not all comments have been recreated I know this is a shame but those I have not recreated make little sense without the context of my comments.
-
-**FanzOfLenaZavaroni** (2023-03-15T13:33:04Z)
-
-I have change the way biographies are saved on this website they are now located in a sub-folder of the "post" section with their date-of-birth used as the post date this makes them easier to manage with the "Liquid Template Language" and will now automatically show up on the "Posts" page and will also automatically show up on any related "On This Days" E.G, on their birthday and where applicable on their death day.
-
-It also means they now have a section using their name in the "Categories" section so visitors can view all content related to an individual by going to their name within the "Categories" section.
-
-#### Replies
-
-**FanzOfLenaZavaroni** (2023-04-26T15:16:52Z)
-
-The changes I made to the biographies section have now been made to the podcast section for the same reasons.
-
-**FanzOfLenaZavaroni** (2023-06-05T14:10:26Z)
-
-Currently re-doing the way "On This Day" works to deal with multiple dates for a single post.
-
-#### Replies
-
-**FanzOfLenaZavaroni** (2023-06-19T08:37:39Z)
-
-The updated "OnThisDay" code means that dealing with multiple dates has been made more manageable and if required other details along with the date can be added. 
 
 <h2 id="infobox9"><a href="#infobox9">1979-05-23-lena-zavaroni-and-music/</a></h2>
 
