@@ -58,7 +58,7 @@ last_modified_at: 26 November 2023
 <br />{: .clear}
 
 <style>
-.width {width:24%;}
-@media (orientation: portrait) {.width {width:49%;}}
+.width {width:24%; height:40px;}
+@media (orientation: portrait) {.width {width:100%; height:50px;}}
 </style>
 

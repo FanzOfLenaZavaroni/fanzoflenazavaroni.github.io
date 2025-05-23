@@ -12,12 +12,13 @@ last_modified_at: 8 August 2024
 ---
 
 <figure class="fig3">
-<table>
-<tr id="infobox1"><th colspan="2">Spoken Language: English</th></tr>
-<tr><th style="color:#ff0000; width:35%;">Embed No More</th><td>The former podcast <strong>D-Sides, Orphans, and Oddities</strong> is now an audio stream that removes each episode after two weeks.</td></tr>
-<tr><th><a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/the-les-humphries-singers-w4Qe9_qXjy2">ListenNotes</a></th><td>Current source for details of this episode.</td></tr>
-<tr><th><a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities/">WHUP Radio 104.7 FM</a></th><td>D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs</td></tr>
-</table>
+<h3 id="infobox1"><a href="#infobox1">Podcast Spoken In English</a></h3>
+
+<p><strong style="color:#ff0000;">Embed No More:</strong> The former podcast <strong>D-Sides, Orphans, and Oddities</strong> is now an audio stream that removes each episode after two weeks.</p>
+
+<p><strong>Current source for details of this episode:</strong> <a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/the-les-humphries-singers-w4Qe9_qXjy2">ListenNotes</a></p>
+
+<p><strong>D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs:</strong> <a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities/">WHUP Radio 104.7 FM</a></p>
 </figure>
 
 <figure class="fig3">
@@ -54,7 +55,7 @@ last_modified_at: 8 August 2024
 <p>Norman Luboff Singers - I’m Ready (1965)</p>
 <p>The Archies - Betty (1969)</p>
 <p>Chuck Berry - Havana Moon (1979 Version)</p>
-<p style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni - Help Me Make It Through The Night (1974) at approximately 1:47:04 into the podcast</p>
+<p id="infobox3"><strong>Lena Zavaroni - Help Me Make It Through The Night (1974)</strong> at approximately 1:47:04 into the podcast</p>
 <p>Lawrence Welk and His Orchestra - The “In” Crowd (1965)</p>
 <p>Pat Boone - U.F.O. (1975)</p>
 <p>Scott Walker - Joanna (1970)</p>
