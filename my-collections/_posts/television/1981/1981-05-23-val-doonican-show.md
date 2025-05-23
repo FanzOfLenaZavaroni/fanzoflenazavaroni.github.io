@@ -10,11 +10,11 @@ categories: [BBC-One, OnThisDay23May]
 ---
 
 <figure class="fig3">
-<a href="#infobox1"><button><big>Screenshot</big></button></a>
-<a href="#infobox2"><button><big>Summary</big></button></a>
-<a href="#infobox3"><button><big>Cast</big></button></a>
-<a href="#infobox4"><button><big>Crew</big></button></a>
-<a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1981-05-23#at-20.10"><button><big>BBC Genome</big> 🔗</button></a>
+<a href="#infobox1"><button class="width"><big>Screenshot</big></button></a>
+<a href="#infobox2"><button class="width"><big>Summary</big></button></a>
+<a href="#infobox3"><button class="width"><big>Cast</big></button></a>
+<a href="#infobox4"><button class="width"><big>Crew</big></button></a>
+<a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1981-05-23#at-20.10"><button class="width"><big>BBC Genome</big> 🔗</button></a>
 </figure>
 
 {: .clear}
@@ -57,4 +57,9 @@ categories: [BBC-One, OnThisDay23May]
 </figure>
 
 <br />{: .clear}
+
+<style>
+.width {width:19%; height:40px;}
+@media (orientation: portrait) {.width {width:100%; height:50px;}}
+</style>
 
