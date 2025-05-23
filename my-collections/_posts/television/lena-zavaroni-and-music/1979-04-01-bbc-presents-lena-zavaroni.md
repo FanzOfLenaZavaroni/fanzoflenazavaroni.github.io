@@ -11,13 +11,14 @@ last_modified_at: 26 November 2023
 ---
 
 <figure class="fig3">
-<div id="notice-banner" style="background: #f0f0f0; padding: 10px; border: 1px solid #e0e0e0; text-align: center;">
-<p><strong>View Details for BBC Light Entertainment pesents Lena Zavaroni, Lena Zavaroni and Guests and Each Episode Of Lena Zavaroni and Music</strong></p>
-</div>
-
-<div id="notice-banner" style="background: #ffffff; padding: 10px; border: 1px solid #e0e0e0; text-align: center;">
-<p><a href="/1979-04-01-lena-zavaroni-and-guests">BBC Presents L Z &#x2714;</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;<a href="/1979-04-08-lena-zavaroni-and-guests/">L Z and Guests</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;<a href="/1979-05-23-lena-zavaroni-and-music/">ep 1</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;<a href="/1979-05-30-lena-zavaroni-and-music/">ep 2</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;<a href="/1979-06-06-lena-zavaroni-and-music/">ep 3</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;<a href="/1979-06-13-lena-zavaroni-and-music/">ep 4</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;<a href="/1979-06-20-lena-zavaroni-and-music/">ep 5</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;<a href="/1979-06-27-lena-zavaroni-and-music/">ep 6</a></p>
-</div>
+<a href="/1979-04-01-bbc-presents-lena-zavaroni"><button class="width"><big>BBC Presents L Z &#x2714;</big></button></a>
+<a href="/1979-04-08-lena-zavaroni-and-guests"><button class="width"><big>L Z and Guests</big></button></a>
+<a href="/1979-05-23-lena-zavaroni-and-music"><button class="width"><big>Episode 1</big></button></a>
+<a href="/1979-05-30-lena-zavaroni-and-music"><button class="width"><big>Episode 2</big></button></a>
+<a href="/1979-06-06-lena-zavaroni-and-music"><button class="width"><big>Episode 3</big></button></a>
+<a href="/1979-06-13-lena-zavaroni-and-music"><button class="width"><big>Episode 4</big></button></a>
+<a href="/1979-06-20-lena-zavaroni-and-music"><button class="width"><big>Episode 5</big></button></a>
+<a href="/1979-06-27-lena-zavaroni-and-music"><button class="width"><big>Episode 6</big></button></a>
 </figure>
 
 {: .clear}
@@ -45,4 +46,9 @@ last_modified_at: 26 November 2023
 </figure>
 
 <br />{: .clear}
+
+<style>
+.width {width:24%;}
+@media (orientation: portrait) {.width {width:49%;}}
+</style>
 
