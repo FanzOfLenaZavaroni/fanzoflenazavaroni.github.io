@@ -13,12 +13,12 @@ last_modified_at: 26 November 2023
 <figure class="fig3">
 <a href="/1979-04-01-bbc-presents-lena-zavaroni"><button class="width"><big>BBC Presents L Z</big></button></a>
 <a href="/1979-04-08-lena-zavaroni-and-guests"><button class="width"><big>L Z and Guests</big></button></a>
-<a href="/1979-05-23-lena-zavaroni-and-music"><button class="width"><big>EP One &#x2714;</big></button></a>
-<a href="/1979-05-30-lena-zavaroni-and-music"><button class="width"><big>EP Two</big></button></a>
-<a href="/1979-06-06-lena-zavaroni-and-music"><button class="width"><big>EP Three</big></button></a>
-<a href="/1979-06-13-lena-zavaroni-and-music"><button class="width"><big>EP Four</big></button></a>
-<a href="/1979-06-20-lena-zavaroni-and-music"><button class="width"><big>EP Five</big></button></a>
-<a href="/1979-06-27-lena-zavaroni-and-music"><button class="width"><big>EP Six</big></button></a>
+<a href="/1979-05-23-lena-zavaroni-and-music"><button class="width"><big>Episode One &#x2714;</big></button></a>
+<a href="/1979-05-30-lena-zavaroni-and-music"><button class="width"><big>Episode Two</big></button></a>
+<a href="/1979-06-06-lena-zavaroni-and-music"><button class="width"><big>Episode Three</big></button></a>
+<a href="/1979-06-13-lena-zavaroni-and-music"><button class="width"><big>Episode Four</big></button></a>
+<a href="/1979-06-20-lena-zavaroni-and-music"><button class="width"><big>Episode Five</big></button></a>
+<a href="/1979-06-27-lena-zavaroni-and-music"><button class="width"><big>Episode Six</big></button></a>
 </figure>
 
 {: .clear}
