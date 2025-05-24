@@ -146,3 +146,25 @@ height: 100%;
 .top {vertical-align:top;}
 
 @media screen and (orientation:portrait) {table {display:inline-table;}}
+
+/*  Card css  */
+.ChartCard {
+    display: inline-block; /* Allows multiple cards side by side */
+    width: 100%; /* Full width within its container */
+    padding: 15px;
+    box-sizing: border-box;
+    border: solid thin #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+    margin: 5px; /* Adds spacing between cards */
+}
+
+.ChartCard .CardItem {
+    padding: 10px 0; /* Added spacing for better readability */
+    font-size: 16px;
+}
+
+.ChartCard .CardItem strong {
+    font-weight: bold;
+}

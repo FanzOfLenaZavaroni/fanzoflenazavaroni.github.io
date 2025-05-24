@@ -13,75 +13,76 @@ permalink: /discography/singles/:name
 ---
 
 <figure class="fig3">
-<h3 id="uk"><a href="#uk">UK</a></h3>
+<h3 id="infobox1"><a href="#infobox1">UK release</a></h3>
 <p><div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=h4agufuuabE,7iOTN0L3EjE&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div></p>
-<figcaption>
-<table>
-<tr><th>Artist:</th><td>Lena Zavaroni</td></tr>
-<tr id="infobox1" class="split"><th>A side:</th><td>(You've Got) Personality</td></tr>
-<tr><th>Composer:</th><td>Logan, Price</td></tr>
-<tr><th>Producer:</th><td>Tommy Scott</td></tr>
-<tr><th>Arranger:</th><td>Tom Parker</td></tr>
-<tr id="infobox2" class="split"><th>B side:</th><td>Schools Out</td></tr>
-<tr><th>Composer:</th><td>Scott</td></tr>
-<tr><th>Producer:</th><td>Tommy Scott</td></tr>
-<tr><th>Arranger:</th><td>Tom Parker</td></tr>
-<tr class="split"><th>Label:</th><td>Philips - 6006 391</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 rpm Single</td></tr>
-<tr><th>Country:</th><td>UK</td></tr>
-<tr><th>Released:</th><td>24 May 1974</td></tr>
-<tr class="split"><th>45Cat:</th><td><a class="external-link" href="http://www.45cat.com/record/6006691">6006691</a></td></tr>
-</table>
-</figcaption>
+</figure>
+
+<figure class="fig1">
+<h3 id="infobox2"><a href="#infobox2">A Side</a></h3>
+<div class="ChartCard">
+    <div class="CardItem"><strong>Artist:</strong> Lena Zavaroni</div>
+    <div class="CardItem split"><strong>A side:</strong> (You've Got) Personality</div>
+    <div class="CardItem"><strong>Composer:</strong> Logan, Price</div>
+    <div class="CardItem"><strong>Producer:</strong> Tommy Scott</div>
+    <div class="CardItem"><strong>Arranger:</strong> om Parker</div>
+</div>
+</figure>
+
+<figure class="fig2">
+<h3 id="infobox3"><a href="#infobox3">B Side</a></h3>
+<div class="ChartCard">
+    <div class="CardItem"><strong>Artist:</strong> Lena Zavaroni</div>
+    <div class="CardItem split"><strong>B side:</strong> Schools Out</div>
+    <div class="CardItem"><strong>Composer:</strong> Scott</div>
+    <div class="CardItem"><strong>Producer:</strong> Tommy Scott</div>
+    <div class="CardItem"><strong>Arranger:</strong> Tom Parker</div>
+</div>
 </figure>
 
 <figure class="fig3">
-<h3 id="chart"><a href="#chart">UK Official Singles Chart Top 50 Positions For The Single</a></h3>
-<table>
-<tr>
-<th style="width:40%;">Start of the week (Sunday)</th>
-<th style="width:40%;">End of the week (Saturday)</th>
-<th style="text-align:center;">Pos</th>
-<th style="text-align:center;">LW</th>
-<th style="text-align:center;">WoC</th>
-</tr>
+<h3 id="infobox4"><a href="#infobox4">Release Details</a></h3>
+<div class="ChartCard">
+    <div class="CardItem"><strong>Label:</strong> Philips - 6006 391</div>
+    <div class="CardItem"><strong>Format:</strong> 7" Vinyl, 45 rpm Single</div>
+    <div class="CardItem"><strong>Country:</strong> UK</div>
+    <div class="CardItem"><strong>Released:</strong> 24 May 1974</div>
+    <div class="CardItem split"><strong>45Cat:</strong> <a class="external-link" href="http://www.45cat.com/record/6006691">6006691</a></div>
+</div>
+</figure>
 
-<tr>
-<td>26 May 1974</td>
-<td>1 June 1974</td>
-<td style="text-align:center;">50</td>
-<td style="text-align:center;">New</td>
-<td style="text-align:center;">1</td>
-</tr>
+<figure class="fig1">
+<h3 id="infobox5"><a href="#infobox5">Chart Details: Week 1</a></h3>
+<div class="ChartCard">
+    <div class="CardItem"><strong>Start of the week (Sunday):</strong> 26 May 1974</div>
+    <div class="CardItem"><strong>End of the week (Saturday):</strong> 1 June 1974</div>
+    <div class="CardItem"><strong>Chart Position:</strong> 50</div>
+    <div class="CardItem"><strong>Last Week's Chart Position:</strong> New</div>
+    <div class="CardItem"><strong>Weeks On Charts:</strong> 1</div>
+</div>
+</figure>
 
-<tr>
-<td>2 June 1974</td>
-<td>8 June 1974</td>
-<td style="text-align:center;">33</td>
-<td style="text-align:center;">50</td>
-<td style="text-align:center;">2</td>
-</tr>
+<figure class="fig2">
+<h3 id="infobox6"><a href="#infobox6">Chart Details: Week 2</a></h3>
+<div class="ChartCard">
+    <div class="CardItem"><strong>Start of the week (Sunday):</strong> 2 June 1974</div>
+    <div class="CardItem"><strong>End of the week (Saturday):</strong> 8 June 1974</div>
+    <div class="CardItem"><strong>Chart Position:</strong> 33</div>
+    <div class="CardItem"><strong>Last Week's Chart Position:</strong> 50</div>
+    <div class="CardItem"><strong>Weeks On Charts:</strong> 2</div>
+</div>
+</figure>
 
-<tr>
-<td>9 June 1974</td>
-<td>15 June 1974</td>
-<td style="text-align:center;">40</td>
-<td style="text-align:center;">33</td>
-<td style="text-align:center;">3</td>
-</tr>
-
-<tr>
-<td colspan="5"><strong>Key:</strong> &nbsp; Pos=Chart Position &nbsp; LW=Last Week &nbsp; WoC=Weeks On Charts</td>
-</tr>
-
-<tr>
-<td colspan="5"><strong>Note:</strong> &nbsp; After the 15 June 1974 the single was no longer listed within the Top 50</td>
-</tr>
-
-<tr>
-<td colspan="5"><strong>PDF:</strong> &nbsp; <a href="/assets/data/Official Singles Chart Top 50 Positions For Lena Zavaroni's single (You've Got) Personality.pdf">Official Singles Chart Top 50 Positions For Lena Zavaroni's single (You've Got) Personality.pdf</a></td>
-</tr>
-</table>
+<figure class="fig3">
+<h3 id="infobox7"><a href="#infobox7">Chart Details: Week 3</a></h3>
+<div class="ChartCard">
+    <div class="CardItem"><strong>Start of the week (Sunday):</strong> 9 June 1974</div>
+    <div class="CardItem"><strong>End of the week (Saturday):</strong> 15 June 1974</div>
+    <div class="CardItem"><strong>Chart Position:</strong> 40</div>
+    <div class="CardItem"><strong>Last Week's Chart Position:</strong> 50</div>
+    <div class="CardItem"><strong>Weeks On Charts:</strong> 3</div>
+    <div class="CardItem"><strong>Note:</strong> &nbsp; After the 15 June 1974 the single was no longer listed within the Top 50</div>
+    <div class="CardItem"><strong>PDF:</strong> &nbsp; <a href="/assets/data/Official Singles Chart Top 50 Positions For Lena Zavaroni's single (You've Got) Personality.pdf">Official Singles Chart Top 50 Positions For Lena Zavaroni's single (You've Got) Personality.pdf</a></div>
+</div>
 </figure>
 
 <br />{: .clear}
