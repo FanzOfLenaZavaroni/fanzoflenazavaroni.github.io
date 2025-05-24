@@ -14,7 +14,9 @@ permalink: /discography/singles/:name
 
 <figure class="fig3">
 <h3 id="infobox1"><a href="#infobox1">UK release</a></h3>
-<p><div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=h4agufuuabE,7iOTN0L3EjE&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div></p>
+<div class="ChartCard">
+<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=h4agufuuabE,7iOTN0L3EjE&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
+</div>
 </figure>
 
 <figure class="fig1">

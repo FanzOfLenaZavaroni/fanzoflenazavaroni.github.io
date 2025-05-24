@@ -21,9 +21,33 @@ image: /assets/images/Lena/LZ-02-cropped-removebg.png
 
 <a href="/1963-11-04-lena-zavaroni"><strong>Media Based Biography of Lena Zavaroni</strong></a>
 
-<div id="notice-banner" style="background: #f8d7da; padding: 10px; border: 1px solid #dc3545; text-align: center;">
-  <p><strong>Important Notice:</strong> Due to copyright concerns, Fanz of Lena Zavaroni no longer adds images or videos to posts.  
-  <a href="/2025-05-02-announcement" style="color: #dc3545; font-weight: bold;">Read More</a></p>
+<div id="notice-banner" style="background: #f8d7da; padding: 10px; border: 1px solid #dc3545;">
+    <p style="text-align: center;"><strong>Important Notice:</strong> Due to copyright concerns, Fanz of Lena Zavaroni no longer adds images or videos to posts. <a href="/2025-05-02-announcement" style="color: #dc3545; font-weight: bold;">Read More</a></p>
+    
+    <p style="margin: 10px 0;"><strong>Update:</strong></p>
+    <p style="text-align: left; margin: 0 auto; max-width: 600px;">
+        I am currently transitioning from using HTML's &lt;table&gt; tag to the &lt;div&gt; tag for creating cards.<br>
+        <strong>Better Mobile Display:</strong> Tables may look fine on desktops, but they can become messy on small mobile devices. The card format will display correctly on all devices.<br>
+        This transition will take some time. You might notice:
+    </p>
+    <ul style="text-align: left; margin: 0 auto; max-width: 600px;">
+        <li>Some pages using the new card format.</li>
+        <li>Other pages still using tables.</li>
+    </ul>
+    <p style="text-align: left; margin: 0 auto; max-width: 600px;">
+        I have changed the submenus from tables to a button format. You may see a mix of tables and buttons until I can rewrite all the code.
+    </p>
+
+    <p style="margin: 10px 0;"><strong>Note:</strong></p>
+    <ul style="text-align: left; margin: 0 auto; max-width: 600px;">
+        <li>I am still figuring out the best approach for the submenu buttons.</li>
+        <li>I might explore alternatives that do not use tables or buttons.</li>
+        <li>There’s also a possibility of removing the submenus, as they were added to help visitors navigate to different parts of the same page, but I feel they have added clutter to pages that have them.</li>
+    </ul>
+
+    <p style="margin: 10px 0;"><strong>Examples:</strong></p>
+    <p style="text-align: left; margin: 0 auto; max-width: 600px;">Page with the table layout which I need to remove because as I said can become messy on mobile devices: <a href="1982-06-01-lena">Lena - Episode 3.2.</a></p>
+    <p style="text-align: left; margin: 0 auto; max-width: 600px;">Page updated to using the card layout while I like the card layout I think you will see why I  am not too happy on the buttons for navaging around the page: <a href="/1982-05-25-lena">Lena - Episode 3.1.</a></p>
 </div>
 
 <style>
