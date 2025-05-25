@@ -32,23 +32,16 @@ image: /assets/images/Lena/LZ-02-cropped-removebg.png
     </p>
     <ul style="text-align: left; margin: 0 auto; max-width: 600px;">
         <li>Some pages using the new card format.</li>
-        <li>Other pages still using tables.</li>
+        <li>Other pages still using tables for now.</li>
     </ul>
     <p style="text-align: left; margin: 0 auto; max-width: 600px;">
-        I have changed the submenus from tables to a button format. You may see a mix of tables and buttons until I can rewrite all the code.
+        <p><s>I have changed the submenus from tables to a button format. You may see a mix of tables and buttons until I can rewrite all the code.</s></p>
+        <p>I have replaced the submenu buttons with a card with a single catergory link, The card may have other links but usualy only one catergory link.</p>
     </p>
-
-    <p style="margin: 10px 0;"><strong>Note:</strong></p>
-    <ul style="text-align: left; margin: 0 auto; max-width: 600px;">
-        <li>I am still figuring out the best approach for the submenu buttons.</li>
-        <li>I might explore alternatives that do not use tables or buttons.</li>
-        <li>There’s also a possibility of removing the submenus, as they were added to help visitors navigate to different parts of the same page, but I feel they have added clutter to pages that have them.</li>
-    </ul>
 
     <p style="margin: 10px 0;"><strong>Examples:</strong></p>
     <p style="text-align: left; margin: 0 auto; max-width: 600px;">Page with the table layout which I need to remove because as I said can become messy on mobile devices: <a href="1982-06-01-lena">Lena - Episode 3.2.</a></p>
-    <p style="text-align: left; margin: 0 auto; max-width: 600px;">Page updated to using the card layout while I like the card layout I think you will see why I  am not too happy on the buttons for navaging around the page: <a href="/1982-05-25-lena">Lena - Episode 3.1.</a></p>
-<p style="margin: 10px 0;"><strong>Note:</strong></p><p style="text-align: left; margin: 0 auto; max-width: 600px;">As I had adjusted the button sizes 3 times to make sure I get 3 in a row as depending on the device I viewed the page on meant I was getting a mix of buttons on a row which just looked a mess and for all I know may still be messy on devices I am unable to test. So I may go away from providing  submenus anchor links, and or related pages, as it looks like a mess. As visitors will see the posts on their related OnThisDay or via the Post link in the main menu, it is not as if they can't find every page. I may look into using the Liquid templating language to create pages for each of the main categories, for example the TV series "Lena" have a category page that will  only list all the episodes of "Lena" that way I can have a single link on a page that would take a visior to a page that lists all epiosdes. I will look at that as an option once I get some sleep. I should have been asleep ages ago, but I always have trouble sleeping, and when I have something on my mind, I have no chance of getting to sleep. Now I have some idea of how to remove the buttons which I do not like and have a single link instead, hopefully, my brain will shut up and let me get some sleep. You can tell I am sleepy as I am just going on. Hopefully, the removal of all submenus will be a quick fix, as it is only a case of deleting them. like updating from tables to cards if I can create singke catagory pages that will take longer as to this notice once I get the work under way I will delete most of it and any comments that get left will be delted occe things get sort, but know I now have a script I use to back up comments so I will aways have them and unlike in the past where I lost comments becuase of a system crash that should not happen anymore now that I have a script to back up all comments left plus my comments as well. Think I covered everything, so off to bed I go.</p>    
+    <p style="text-align: left; margin: 0 auto; max-width: 600px;">Page updated to using the card layout with a link card that give a link to single catorgory page <a href="/1982-05-25-lena/#infobox4">Lena - Episode 3.1.</a></p>
 </div>
 
 <style>
