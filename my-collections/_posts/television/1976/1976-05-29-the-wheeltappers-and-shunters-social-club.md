@@ -12,32 +12,43 @@ categories: [Granada-Television, London-Weekend-Television, OnThisDay29May, OnTh
 last_modified_at: 23 December 2023
 ---
 
-<table>
-<tr align="center">
-<th>Jump To:</th>
-<td><a href="#youtube-clip">YouTube Clip</a></td>
-<td><a href="#cast">Cast</a></td>
-<td><a href="#turns">Turns</a></td>
-</tr>
-</table>
-
-### [YouTube Clip](#youtube-clip)
-> <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/LhSbE9BKqf4?rel=0&showinfo=1" frameborder="0" allowfullscreen></iframe></div>
-
+<figure class="fig3">
+<div class="ChartCard">
+<div class="CardItem"><strong id="infobox1"><a href="#infobox1">YouTube Clip</a></strong></div>
+<div class="CardItem">
+<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/LhSbE9BKqf4?rel=0&showinfo=1" frameborder="0" allowfullscreen></iframe></div>
 <cite>Lena Zavaroni sings Rock-a-Bye Your Baby with a Dixie Melody and Some Of These Days.</cite>
+</div>
+</div>
+</figure>
 
-### [Cast](#cast)
-<table>
-<tr><th style="width:50%;">Compere:</th><td style="width:50%;">Bernard Manning</td></tr>
-<tr><th>Concert Chairman:</th><td>Colin Cromption</td></tr>
-</table>
+<figure class="fig1">
+<div class="ChartCard cast-card">
+<div class="CardItem"><strong id="infobox2"><a href="#infobox2">Cast</a></strong></div>
+<div class="CardItem">
+<p><strong>Compere:</strong> Bernard Manning</p>
+<p><strong>Concert Chairman:</strong> Colin Cromption</p>
+</div>
+</div>
+</figure>
 
-### [Turns](#turns)
-<table>
-<tr><th style="width:50%;">Radio Presenter:</th><td style="width:50%;">Pete Price</td></tr>
-<tr><th>Family Pop Group:</th><td>The Dooley Family</td></tr>
-<tr><th>Actress:</th><td>Pat Mills</td></tr>
-<tr><th>Actor:</th><td>Tony Monoply</td></tr>
-<tr><th>Actor:</th><td>Rob Murray</td></tr>
-<tr><th>Singer:</th><td>Lena Zavaroni</td></tr>
-</table>
+<figure class="fig2">
+<div class="ChartCard">
+<div class="CardItem"><strong id="infobox3"><a href="#infobox3">Turns</a></strong></div>
+<div class="CardItem">
+<P><strong>Radio Presenter:</strong> Pete Price</p>
+<P><strong>Family Pop Group:</strong> The Dooley Family</p>
+<P><strong>Actress:</strong> Pat Mills</p>
+<P><strong>Actor:</strong> Tony Monoply</p>
+<P><strong>Actor:</strong> Rob Murray</p>
+<P><strong>Singer:</strong> Lena Zavaroni</p>
+</div>
+</div>
+</figure>
+
+<br />{: .clear}
+
+<style>
+.cast-card {height: 330px}
+@media screen and (orientation:portrait) {.cast-card {height: unset;}}
+</style>
