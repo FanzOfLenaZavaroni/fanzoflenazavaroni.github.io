@@ -1,6 +1,6 @@
 ---
 layout: post
-before: Broadcast in United States on Channel 11 at 8am on
+before: "Broadcast in United States on Channel 11 at 8am on "
 title: Wonderama &#124; 26 May 1974
 maintitle: Wonderama
 subtitle: The Bob McAllister Years
