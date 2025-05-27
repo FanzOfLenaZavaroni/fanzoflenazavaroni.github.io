@@ -20,7 +20,7 @@ maintitle: "Category: Lena"
 </figure>
 
 <figure class="fig2">
-<div class="LenaCard">
+<div class="LenaCard series2">
 <div class="CardItem"><strong id="infobox2"><a href="#infobox2">Series 2</a></strong></div>
 <div class="CardItem">
 <ul>
@@ -67,4 +67,9 @@ maintitle: "Category: Lena"
 </div>
 </div>
 </figure>
+
+<style>
+.series2 {height: 279px}
+@media screen and (orientation:portrait) {.blogger-card {height: unset;}}
+</style>
 
