@@ -13,7 +13,9 @@ categories: [Theatre, Blackpool-Opera-House, Harold-Fielding, OnThisDay27May]
 <figure class="fig3">
 <div class="ChartCard">
 <div class="CardItem">
-<p>Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm<</p>
+<h3 id="infobox1" class="infobox"><a href="#infobox1">Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm</a></h3>
+</div>
+<div class="CardItem split">
 <ul>
     <li><strong>Guest Star:</strong> Lena Zavaroni.</li>
     <li><strong>Theatre Producer:</strong> <a href="/1916-12-04-harold-fielding">Harold Fielding</a>.</li>

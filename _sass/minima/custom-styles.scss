@@ -1,9 +1,6 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
-/*  Wrapper Adjust the page width  */
-.wrapper {width:calc(900px - (30px * 2));}
-
 /*  fix page content bottom margin for use with cards  */
 .post-content {margin-bottom: -15px;}
 
@@ -48,9 +45,6 @@ figure > img {display: block;}
 
 figcaption {font-size: $base-font-size;}
 
-/* Add a strip of the color cyan */
-.split {border-top: solid 5px #4B90B1;}
-
 /*  fig  */
 .fig1 {float:left; width:49%; }
 
@@ -64,6 +58,10 @@ figcaption {float:left; width:100%;}
 .fig1, .fig2, .fig3 {float:left; width:100%; margin-bottom:30px;}
 figcaption {float:left; width:100%; margin-bottom: 10px;}
 }
+
+/* Add a strip of the color cyan */
+.split {border-top: solid 5px #4B90B1;}
+
 
 /*  Style External Links  */
 .external-link {

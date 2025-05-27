@@ -6,7 +6,11 @@ last_modified_at: 8 February 2024
 ---
 
 <figure class="fig1">
-<h3>Covers</h3>
+<div class="ChartCard cards-height">
+<div class="CardItem">
+<h3 id="infobox1" class="infobox"><a href="#infobox1">Covers</a></h3>
+</div>
+<div class="CardItem split">
 <div id="slideshow">
  <div>
 <img src="/assets/images/albums/1976-lena-zavaroni-ma-hes-making-eyes-at-me-pickwick.jpg" class="full-width" /> 
@@ -42,12 +46,16 @@ last_modified_at: 8 February 2024
 
 <div>
 <img src="/assets/images/discography/lena-zavaroni-drupi-01.jpeg" class="full-width" /> 
-</div>
-</div>
+</div></div></div></div>
 </figure>
 
+
 <figure class="fig2">
-<h3>Discography</h3>
+<div class="ChartCard cards-height">
+<div class="CardItem">
+<h3 id="infobox2" class="infobox"><a href="#infobox2">Discography</a></h3>
+</div>
+<div class="CardItem split">
 <ul>
 <li><a href="/discography/studio-albums">Studio Albums</a></li>
 <li><a href="/discography/compilation-albums">Compilation Albums</a></li>
@@ -62,9 +70,13 @@ last_modified_at: 8 February 2024
 <li><a href="/discography/sheet-music">Sheet Music</a></li>
 <li><a href="/discography/sound-postcards">sound Postcards</a></li>
 </ul>
+</div></div>
 </figure>
 
 <style>
+.cards-height {height: 450px}
+@media screen and (orientation:portrait) {.cards-height {height: unset;}}
+
 #slideshow {
 margin: 0 auto;
 position: relative;
