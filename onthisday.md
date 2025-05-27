@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post-no-comments
 title: On This Day
 maintitle: On This Day
 ---

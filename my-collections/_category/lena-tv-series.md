@@ -5,7 +5,7 @@ maintitle: "Category: Lena"
 ---
 
 <figure class="fig1">
-<div class="ChartCard">
+<div class="LenaCard">
 <div class="CardItem"><strong id="infobox1"><a href="#infobox1">Series 1</a></strong></div>
 <div class="CardItem">
 <ul>
@@ -20,7 +20,7 @@ maintitle: "Category: Lena"
 </figure>
 
 <figure class="fig2">
-<div class="ChartCard">
+<div class="LenaCard">
 <div class="CardItem"><strong id="infobox2"><a href="#infobox2">Series 2</a></strong></div>
 <div class="CardItem">
 <ul>
@@ -35,7 +35,7 @@ maintitle: "Category: Lena"
 </figure>
 
 <figure class="fig3">
-<div class="ChartCard">
+<div class="LenaCard">
 <div class="CardItem"><strong id="infobox3"><a href="#infobox3">Series 3</a></strong></div>
 <div class="CardItem">
 <ul>
@@ -50,7 +50,7 @@ maintitle: "Category: Lena"
 </figure>
 
 <figure class="fig3">
-<div class="ChartCard">
+<div class="LenaCard">
 <div class="CardItem"><strong id="infobox4"><a href="#infobox4">Publicity</a></strong></div>
 <div class="CardItem">
 <p>Details on the back of the publicity photograph</p>

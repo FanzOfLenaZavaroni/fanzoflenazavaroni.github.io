@@ -6,7 +6,7 @@ description:
 ---
 
 <figure class="fig1">
-<div class="ChartCard card-height">
+<div class="LenaCard card-height">
 <div class="CardItem">
 <h4><a href="/announcements">:mega: Announcements</a></h4>
 </div>
@@ -16,7 +16,7 @@ description:
 </figure>
 
 <figure class="fig2">
-<div class="ChartCard card-height">
+<div class="LenaCard card-height">
 <div class="CardItem">
 <h4><a href="/announcements">:ribbon: Fanz of Lena Zavaroni Memorial</a></h4>
 </div>
@@ -26,7 +26,7 @@ description:
 </figure>
 
 <figure class="fig1">
-<div class="ChartCard card-height">
+<div class="LenaCard card-height">
 <div class="CardItem">
 <h4><a href="https://www.zotero.org/fanzoflenazavaroni/library"><span class="z"><strong>Z</strong></span>otero Library</a></h4>
 </div>
@@ -36,7 +36,7 @@ description:
 </figure>
 
 <figure class="fig2">
-<div class="ChartCard card-height">
+<div class="LenaCard card-height">
 <div class="CardItem">
 <h4><a href="/research">:mag: Research Suggestions</a></h4>
 </div>
@@ -46,7 +46,7 @@ description:
 </figure>
 
 <figure class="fig1">
-<div class="ChartCard card-height">
+<div class="LenaCard card-height">
 <div class="CardItem">
 <h4><a href="https://github.com/FanzOfLenaZavaroni"><img src="/assets/images/svg/GitHub_Invertocat_Logo.svg" width="30" height="auto" /> GitHub</a></h4>
 </div>
@@ -56,7 +56,7 @@ description:
 </figure>
 
 <figure class="fig2">
-<div class="ChartCard card-height">
+<div class="LenaCard card-height">
 <div class="CardItem">
 <h4><a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io"><img src="/assets/images/svg/GitHub_Invertocat_Logo.svg" width="30" height="auto" /> Repository</a></h4>
 </div>
@@ -67,7 +67,7 @@ description:
 </figure>
 
 <figure class="fig1">
-<div class="ChartCard card-height">
+<div class="LenaCard card-height">
 <div class="CardItem">
 <h4><a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/discussions">:speech_balloon: Github Discussions</a></h4>
 </div>
@@ -77,7 +77,7 @@ description:
 </figure>
 
 <figure class="fig2">
-<div class="ChartCard card-height">
+<div class="LenaCard card-height">
 <div class="CardItem">
 <h4><a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/issues">:warning: Issues</a></h4>
 </div>
@@ -87,7 +87,7 @@ description:
 </figure>
 
 <figure class="fig3">
-<div class="ChartCard">
+<div class="LenaCard">
 <div class="CardItem">
 <h4><a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/discussions/categories/archives"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c4.png" width="30" height="auto" /> Discussions that have been moved to Archives</a></h4>
 </div>

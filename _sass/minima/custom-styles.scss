@@ -152,7 +152,7 @@ height: 100%;
 @media screen and (orientation:portrait) {table {display:inline-table;}}
 
 /*  Card css  */
-.ChartCard {
+.LenaCard {
     display: inline-block; /* Allows multiple cards side by side */
     width: 100%; /* Full width within its container */
     padding: 15px;
@@ -164,12 +164,12 @@ height: 100%;
     margin: 5px; /* Adds spacing between cards */
 }
 
-.ChartCard .CardItem {
+.LenaCard .CardItem {
     padding: 10px 0; /* Added spacing for better readability */
     font-size: 16px;
 }
 
-.ChartCard .CardItem strong {
+.LenaCard .CardItem strong {
     font-weight: bold;
 }
 

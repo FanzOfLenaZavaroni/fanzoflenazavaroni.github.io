@@ -13,7 +13,7 @@ last_modified_at: 23 December 2023
 ---
 
 <figure class="fig3">
-<div class="ChartCard">
+<div class="LenaCard">
 <div class="CardItem"><strong id="infobox1"><a href="#infobox1">YouTube Clip</a></strong></div>
 <div class="CardItem">
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/LhSbE9BKqf4?rel=0&showinfo=1" frameborder="0" allowfullscreen></iframe></div>
@@ -23,7 +23,7 @@ last_modified_at: 23 December 2023
 </figure>
 
 <figure class="fig1">
-<div class="ChartCard cast-card">
+<div class="LenaCard cast-card">
 <div class="CardItem"><strong id="infobox2"><a href="#infobox2">Cast</a></strong></div>
 <div class="CardItem">
 <p><strong>Compere:</strong> Bernard Manning</p>
@@ -33,7 +33,7 @@ last_modified_at: 23 December 2023
 </figure>
 
 <figure class="fig2">
-<div class="ChartCard">
+<div class="LenaCard">
 <div class="CardItem"><strong id="infobox3"><a href="#infobox3">Turns</a></strong></div>
 <div class="CardItem">
 <P><strong>Radio Presenter:</strong> Pete Price</p>
