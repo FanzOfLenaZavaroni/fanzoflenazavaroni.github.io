@@ -14,14 +14,14 @@ permalink: /discography/singles/:name
 
 <figure class="fig3">
 <h3 id="infobox1"><a href="#infobox1">UK release</a></h3>
-<div class="ChartCard">
+<div class="LenaCard">
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=h4agufuuabE,7iOTN0L3EjE&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 </div>
 </figure>
 
 <figure class="fig1">
 <h3 id="infobox2"><a href="#infobox2">A Side</a></h3>
-<div class="ChartCard">
+<div class="LenaCard">
     <div class="CardItem"><strong>Artist:</strong> Lena Zavaroni</div>
     <div class="CardItem split"><strong>A side:</strong> (You've Got) Personality</div>
     <div class="CardItem"><strong>Composer:</strong> Logan, Price</div>
@@ -32,7 +32,7 @@ permalink: /discography/singles/:name
 
 <figure class="fig2">
 <h3 id="infobox3"><a href="#infobox3">B Side</a></h3>
-<div class="ChartCard">
+<div class="LenaCard">
     <div class="CardItem"><strong>Artist:</strong> Lena Zavaroni</div>
     <div class="CardItem split"><strong>B side:</strong> Schools Out</div>
     <div class="CardItem"><strong>Composer:</strong> Scott</div>
@@ -43,7 +43,7 @@ permalink: /discography/singles/:name
 
 <figure class="fig3">
 <h3 id="infobox4"><a href="#infobox4">Release Details</a></h3>
-<div class="ChartCard">
+<div class="LenaCard">
     <div class="CardItem"><strong>Label:</strong> Philips - 6006 391</div>
     <div class="CardItem"><strong>Format:</strong> 7" Vinyl, 45 rpm Single</div>
     <div class="CardItem"><strong>Country:</strong> UK</div>
@@ -54,7 +54,7 @@ permalink: /discography/singles/:name
 
 <figure class="fig1">
 <h3 id="infobox5"><a href="#infobox5">Chart Details: Week 1</a></h3>
-<div class="ChartCard">
+<div class="LenaCard">
     <div class="CardItem"><strong>Start of the week (Sunday):</strong> 26 May 1974</div>
     <div class="CardItem"><strong>End of the week (Saturday):</strong> 1 June 1974</div>
     <div class="CardItem"><strong>Chart Position:</strong> 50</div>
@@ -65,7 +65,7 @@ permalink: /discography/singles/:name
 
 <figure class="fig2">
 <h3 id="infobox6"><a href="#infobox6">Chart Details: Week 2</a></h3>
-<div class="ChartCard">
+<div class="LenaCard">
     <div class="CardItem"><strong>Start of the week (Sunday):</strong> 2 June 1974</div>
     <div class="CardItem"><strong>End of the week (Saturday):</strong> 8 June 1974</div>
     <div class="CardItem"><strong>Chart Position:</strong> 33</div>
@@ -76,7 +76,7 @@ permalink: /discography/singles/:name
 
 <figure class="fig3">
 <h3 id="infobox7"><a href="#infobox7">Chart Details: Week 3</a></h3>
-<div class="ChartCard">
+<div class="LenaCard">
     <div class="CardItem"><strong>Start of the week (Sunday):</strong> 9 June 1974</div>
     <div class="CardItem"><strong>End of the week (Saturday):</strong> 15 June 1974</div>
     <div class="CardItem"><strong>Chart Position:</strong> 40</div>

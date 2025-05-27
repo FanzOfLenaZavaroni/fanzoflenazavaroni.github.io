@@ -6,7 +6,7 @@ last_modified_at: 8 February 2024
 ---
 
 <figure class="fig1">
-<div class="ChartCard cards-height">
+<div class="LenaCard cards-height">
 <div class="CardItem">
 <h3 id="infobox1" class="infobox"><a href="#infobox1">Covers</a></h3>
 </div>
@@ -51,7 +51,7 @@ last_modified_at: 8 February 2024
 
 
 <figure class="fig2">
-<div class="ChartCard cards-height">
+<div class="LenaCard cards-height">
 <div class="CardItem">
 <h3 id="infobox2" class="infobox"><a href="#infobox2">Discography</a></h3>
 </div>

@@ -14,14 +14,14 @@ last_modified_at: 26 December 2023
 
 <figure class="fig3">
 <h3 id="infobox1"><a href="#infobox1">A version of the theme as no clips of Lena are available</a></h3>
-<div class="ChartCard">
+<div class="LenaCard">
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/akMucPDNjos?rel=0&showinfo=1" frameborder="0" allowfullscreen></iframe></div>
 </div>
 </figure>
 
 <figure class="fig1">
 <h3 id="infobox2"><a href="#infobox2">Cast</a></h3>
-<div class="ChartCard">
+<div class="LenaCard">
     <div class="CardItem"><strong>Presenter:</strong> Bob McAllister</div>
     <div class="CardItem"><strong>Singer:</strong> Lena Zavaroni performs Music, Music, Music.</div>
 </div>
@@ -29,7 +29,7 @@ last_modified_at: 26 December 2023
 
 <figure class="fig2">
 <h3 id="infobox3"><a href="#infobox3">Links</a></h3>
-<div class="ChartCard blogger-card">
+<div class="LenaCard blogger-card">
     <div class="CardItem">
 <ul>
 <li><a class="external-link" href="http://wonderamashow.blogspot.co.uk">Blogger</a></li>

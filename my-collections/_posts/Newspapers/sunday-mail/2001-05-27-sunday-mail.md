@@ -10,7 +10,7 @@ categories: [Newspaper&#58; Sunday-Mail, OnThisDay27May]
 ---
 
 <figure class="fig3">
-<div class="ChartCard">
+<div class="LenaCard">
 <div class="CardItem">
 <h3 id="infobox1" class="infobox"><a href="#infobox1">Quote</a></h3>
 </div>
