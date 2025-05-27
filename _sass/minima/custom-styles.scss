@@ -1,6 +1,12 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
+/*  Wrapper Adjust the page width  */
+.wrapper {width:calc(900px - (30px * 2));}
+
+/*  fix page content bottom margin for use with cards  */
+.post-content {margin-bottom: -15px;}
+
 /*  cite  */
 cite {
 color: $brand-color;
@@ -168,3 +174,7 @@ height: 100%;
 .ChartCard .CardItem strong {
     font-weight: bold;
 }
+
+/*  Infobox css  */
+.infobox {margin-top: 0px !important;}
+
