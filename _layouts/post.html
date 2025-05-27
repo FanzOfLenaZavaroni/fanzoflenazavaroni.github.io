@@ -23,13 +23,12 @@ layout: default
     {{ content }}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-
+<figure class="fig3">
+<div class="ChartCard">
+<div class="CardItem">
   <h2 id="categories"><a href="#categories">Related Categories</a></h2>
+</div>
+<div class="CardItem split">
 <span class="post-categories">
   {% if post %}
     {% assign categories = post.categories %}
@@ -41,11 +40,15 @@ layout: default
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </span>
+</div>
+</div>
+</figure>
 
-<hr>
-<br />
+<figure class="fig3">
+<div class="ChartCard">
+<div class="CardItem">
 <h2 id="comments"><a title="Category=General" href="#comments">Comments</a></h2>
-
+<div class="CardItem split">
 <script src="https://giscus.app/client.js"
         data-repo="FanzOfLenaZavaroni/fanzoflenazavaroni.github.io"
         data-repo-id="R_kgDOIf0PVA"
@@ -61,5 +64,8 @@ layout: default
         crossorigin="anonymous"
         async>
 </script>
+</div>
+</div>
+</figure>
 
 </article>

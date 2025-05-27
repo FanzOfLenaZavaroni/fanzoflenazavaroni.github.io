@@ -11,11 +11,18 @@ categories: [Theatre, Blackpool-Opera-House, Harold-Fielding, OnThisDay27May]
 ---
 
 <figure class="fig3">
-Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
+<div class="ChartCard">
+<div class="CardItem">
+<p>Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm<</p>
+<ul>
+    <li><strong>Guest Star:</strong> Lena Zavaroni.</li>
+    <li><strong>Theatre Producer:</strong> <a href="/1916-12-04-harold-fielding">Harold Fielding</a>.</li>
+    <li><strong>Contract Signatory:</strong> Victor Zavaroni, director of Lena Zavaroni Public Limited Company (PLC).
+        <ul>
+            <li>It is interesting to note Victor Zavaroni signed contracts for Lena and not Dorothy and/or Phil Solomon, who were meant to be her management team. This shows that Victor was more involved in Lena's career than we may think.</li>
+        </ul>
+    </li>
+</ul>
+</div></div>
 </figure>
-
-* —— **Guest Star:** Lena Zavaroni.
-* —— **Theatre Producer:** [Harold Fielding](/1916-12-04-harold-fielding).
-* —— **Contract Signatory:** Victor Zavaroni director of Lena Zavaroni Public Limited Company (PLC).
-     * —— It is interesting to note Victor Zavaroni signed contracts for Lena and not Dorothy and/or Phil Solomon who where meant to be her managerment team and shows that Victor was more involved in Lena's career than we may think.
 
