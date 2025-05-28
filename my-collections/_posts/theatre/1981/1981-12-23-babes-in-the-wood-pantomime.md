@@ -18,7 +18,7 @@ categories: [Theatre, Alexandra-Theatre, Birmingham, OnThisDay23December]
 <figure class="fig2">
 <figcaption>
 <table style="width:100%;">
-<tr><th colspan="2" style="text-align:center;" class="h3">Cast Crew and Article Link</th></tr>
+<tr><th colspan="2" style="text-align:center;" class="h2">Cast Crew and Article Link</th></tr>
 <tr><th>Lena Zavaroni</th><td>Maid Marion</td></tr>
 <tr><th>Paul Squire</th><td>Simple Simon</td></tr>
 <tr><th>Paul Shane</th><td>Ted The Terrible</td></tr>

@@ -10,7 +10,7 @@ last_modified_at: 15 June 2023
 ---
 
 <figure class="fig3">
-<h3 id="content"><a href="#content">Content</a></h3>
+<h2 id="content"><a href="#content">Content</a></h2>
 <blockquote><p>As well as 10 tracks taken from her fist 2 albums it also included the A and B sides of her second single (<a href="/discography/singles/1974-05-24-personality">(You've Got) Personality</a>) plus it had a short biograph of Lena Zavaroni along with some photos.</p></blockquote>
 <cite>Robcamstone</cite>
 </figure>
@@ -19,14 +19,14 @@ last_modified_at: 15 June 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="cover"><a href="#cover">Front Cover</a></h3>
+<h2 id="cover"><a href="#cover">Front Cover</a></h2>
 </figcaption>
 <a href="/assets/images/albums/LZ-Star-For-Millions-Front.jpg"><img src="/assets/images/albums/LZ-Star-For-Millions-Front.jpg" class="full-width zoom-in" alt="Front Cover for the album Lena Zavaroni - Star For Millions (1974)" /></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="cover"><a href="#cover">Back Cover</a></h3>
+<h2 id="cover"><a href="#cover">Back Cover</a></h2>
 </figcaption>
 <a href="/assets/images/albums/LZ-Star-For-Millions-Back.jpg"><img src="/assets/images/albums/LZ-Star-For-Millions-Back.jpg" class="full-width zoom-in" alt="Back Cover for the album Lena Zavaroni - Star For Millions (1974)" /></a>
 </figure>
@@ -35,7 +35,7 @@ last_modified_at: 15 June 2023
 
 <figure class="fig3">
 <figcaption>
-<h3 id="details"><a href="#details">Details</a></h3>
+<h2 id="details"><a href="#details">Details</a></h2>
 </figcaption>
 <table>
 <tr><th style="width:50%">Artist:</th><td>Lena Zavaroni</td></tr>
@@ -50,7 +50,7 @@ last_modified_at: 15 June 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="a-side"><a href="#a-side">A Side</a></h3>
+<h2 id="a-side"><a href="#a-side">A Side</a></h2>
 </figcaption>
 <ol>
 <li>Music, Music, Music</li>
@@ -64,7 +64,7 @@ last_modified_at: 15 June 2023
 
 <figure class="fig2">
 <figcaption>
-<h3 id="b-side"><a href="#b-side">B Side</a></h3>
+<h2 id="b-side"><a href="#b-side">B Side</a></h2>
 </figcaption>
 <ol>
 <li>(You've Got) Personality</li>

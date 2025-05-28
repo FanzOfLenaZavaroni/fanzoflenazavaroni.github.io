@@ -13,14 +13,14 @@ categories: [Newspaper&#58; People&#44;-The, OnThisDay16March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover">Front Cover</h3>
+<h2 id="front-cover">Front Cover</h2>
 </figcaption>
 <a href="/assets/images/newspapers/1974-03-16-sunday-people-front-cover.png"><img src="/assets/images/newspapers/1974-03-16-sunday-people-front-cover.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-20">page 20</h3>
+<h2 id="page-20">page 20</h2>
 </figcaption>
 <a href="/assets/images/newspapers/1974-03-16-sunday-people-front-page-20.png"><img src="/assets/images/newspapers/1974-03-16-sunday-people-front-page-20.png" class="full-width zoom-in"></a>
 </figure>
@@ -29,7 +29,7 @@ categories: [Newspaper&#58; People&#44;-The, OnThisDay16March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-20-cropped">page 20 cropped</h3>
+<h2 id="page-20-cropped">page 20 cropped</h2>
 </figcaption>
 <a href="/assets/images/newspapers/1974-03-16-sunday-people-front-page-20-cropped.png"><img src="/assets/images/newspapers/1974-03-16-sunday-people-front-page-20-cropped.png" class="full-width zoom-in"></a>
 </figure>

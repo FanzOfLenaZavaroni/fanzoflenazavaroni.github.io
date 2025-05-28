@@ -22,15 +22,15 @@ last_modified_at: 2 May 2025
 </tr>
 </table>
 
-<h3 id="youtube"><a href="#youtube">YouTube Clip</a></h3>
+<h2 id="youtube"><a href="#youtube">YouTube Clip</a></h2>
 <div class="responsive-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/SZnmGZTlZu0?si=Yj78gaBeZ5TFPnYv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-<h3 id="summary"><a href="#summary">Summary</a></h3>
+<h2 id="summary"><a href="#summary">Summary</a></h2>
 > Lena Zavaroni makes the first of two appearances on the show that summer.
 >
 > She performs Ma He's Making Eyes At Me and then chats to Johnny, before performing The End Of The World.
 
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 <table>
 <tr><th>Host</th><td>Johnny Carson</td></tr>
 <tr><th>Singer</th><td>Lena Zavaroni</td></tr>

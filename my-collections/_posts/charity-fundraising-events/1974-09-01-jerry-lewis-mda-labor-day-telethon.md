@@ -18,16 +18,16 @@ last_modified_at: 23 December 2023
 
 <figure class="fig2">
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/9iLaE-c77M0?start=2172&rel=0&showinfo=1" frameborder="0" allowfullscreen></iframe></div>
-<h3 id="details"><a href="#details">Details</a></h3>
+<h2 id="details"><a href="#details">Details</a></h2>
 <p>On day 1 Lena sang "Ma! He's Making Eyes At Me" and "Help Me Make It Through The Night".</p>
 <p>The following day (day 2) she returned to the show to chat with Jerry, and performed "Swinging On A Star" and a solo version of "Rock A Bye Your Baby With A Dixie Melody". She then sang a duet of "Rock A Bye" with Jerry before she sang another version of "Ma! He's Making Eyes at Me".</p>
 </figure>
 
-<h3 id="cast1"><a href="#cast1">Cast for Both Days</a></h3>
+<h2 id="cast1"><a href="#cast1">Cast for Both Days</a></h2>
 * Jerry Lewis
 * Lena Zavaroni
 
-<h3 id="cast2"><a href="#cast2">Other Cast Members Unknown If Day 1, Day 2 or Both Days</a></h3>
+<h2 id="cast2"><a href="#cast2">Other Cast Members Unknown If Day 1, Day 2 or Both Days</a></h2>
 * Cindy Adams
 * Joey Adams
 * Anna Maria Alberghetti
@@ -143,7 +143,7 @@ last_modified_at: 23 December 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="mda"><a href="#mda">Jerry Lewis MDA</a></h3>
+<h2 id="mda"><a href="#mda">Jerry Lewis MDA</a></h2>
 <blockquote>Jerry has been honorary chairman of the Muscular Dystrophy Association for many years.</blockquote>
 <cite>Sadly the link to the citation is broken.</cite>
 </figure>
@@ -151,7 +151,7 @@ last_modified_at: 23 December 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="labor-day"><a href="#labor-day">Labor Day in United States</a></h3>
+<h2 id="labor-day"><a href="#labor-day">Labor Day in United States</a></h2>
 <blockquote>Labor Day is on the first Monday of September every year. It was originally organized to celebrate various labor unions' strengths of and contributions to the United States' economy.</blockquote>
 <cite>timeanddate.com: <a href="https://www.timeanddate.com/holidays/us/labor-day">Labor Day in United States</a></cite>
 </figure>

@@ -20,12 +20,12 @@ last_modified_at: 17 November 2023
 {: .clear}
 
 <figure class="fig1">
-<h3 id="cover"><a href="#cover">Cover</a></h3>
+<h2 id="cover"><a href="#cover">Cover</a></h2>
 <a href="https://youtu.be/qE-eqqugY_o"><img src="/assets/images/albums/2UKb.jpg" alt="Red Front Cover for the album If My Friends Could See Me Now Pickwick Records – SHM 901 (1976)" class="full-width cursor" /></a>
 </figure>
 
 <figure class="fig2">
-<h3 id="details"><a href="#details">Details</a></h3>
+<h2 id="details"><a href="#details">Details</a></h2>
 <table>
 <tr><th>Label:</th><td>Pickwick Records – SHM 901</td></tr>
 <tr><th>Format:</th><td>12" Vinyl, 33⅓ Album</td></tr>
@@ -37,7 +37,7 @@ last_modified_at: 17 November 2023
 
 {: .clear}
 
-<h3 id="tracks"><a href="#tracks">Tracks</a></h3>
+<h2 id="tracks"><a href="#tracks">Tracks</a></h2>
 
 <figure class="fig1">
 <figcaption>

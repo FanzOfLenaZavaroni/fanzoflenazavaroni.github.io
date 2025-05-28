@@ -10,7 +10,7 @@ image: /assets/images/newspapers/0FFO-1999-1009-0082.jpeg
 categories: [Newspaper&#58; Sunday-Mirror, OnThisDay10October]
 ---
 
-<h3 style="font-weight: bold; color:#ff0000;">Article Warning</h3>
+<h2 style="font-weight: bold; color:#ff0000;">Article Warning</h2>
 > The report describes one of the most disturbing events in Lena Zavaroni’s life, that I know of.
 
 <cite>Robcamstone</cite>

@@ -18,7 +18,7 @@ last_modified_at: 23 December 2023
 <p>That is why I have defined them as Orphaned Comments.</p>
 </div>
 
-<h3 id="orphaned"><a href="#orphaned">Orphaned Comment</a></h3>
+<h2 id="orphaned"><a href="#orphaned">Orphaned Comment</a></h2>
 
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/54290841" class="shape"/>From <a class="link" href="https://github.com/StephenMolloy1">Stephen Molloy</a> - Date 20 June 2020 at 17:45:07 BST</p>

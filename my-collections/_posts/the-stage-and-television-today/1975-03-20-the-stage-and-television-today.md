@@ -12,14 +12,14 @@ categories: [The-Stage-and-Television-Today, OnThisDay20March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover">Front Cover</h3>
+<h2 id="front-cover">Front Cover</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-front-cover.png"><img src="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-front-cover.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-2">Page 2</h3>
+<h2 id="page-2">Page 2</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-2.png"><img src="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-2.png" class="full-width zoom-in"></a>
 </figure>
@@ -28,14 +28,14 @@ categories: [The-Stage-and-Television-Today, OnThisDay20March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-2-cropped">Page 2 - Cropped</h3>
+<h2 id="page-2-cropped">Page 2 - Cropped</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-2-cropped.png"><img src="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-2-cropped.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-3">Page 3</h3>
+<h2 id="page-3">Page 3</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-3.png"><img src="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-3.png" class="full-width zoom-in"></a>
 </figure>
@@ -44,14 +44,14 @@ categories: [The-Stage-and-Television-Today, OnThisDay20March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-3-crop-1">Page 3 - crop 1</h3>
+<h2 id="page-3-crop-1">Page 3 - crop 1</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-3-crop-1.png"><img src="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-3-crop-1.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-3-crop-2">Page 3 - crop 2</h3>
+<h2 id="page-3-crop-2">Page 3 - crop 2</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-3-crop-2.png"><img src="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-3-crop-2.png" class="full-width zoom-in"></a>
 </figure>
@@ -60,14 +60,14 @@ categories: [The-Stage-and-Television-Today, OnThisDay20March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-47">Page 47</h3>
+<h2 id="page-47">Page 47</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-47.png"><img src="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-47.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-47-crop-1">Page 47 - crop 1</h3>
+<h2 id="page-47-crop-1">Page 47 - crop 1</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-47-crop-1.png"><img src="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-47-crop-1.png" class="full-width zoom-in"></a>
 </figure>
@@ -76,7 +76,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay20March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-47-crop-2">Page 47 - crop 2</h3>
+<h2 id="page-47-crop-2">Page 47 - crop 2</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-47-crop-2.png"><img src="/assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-page-47-crop-2.png" class="full-width zoom-in"></a>
 </figure>

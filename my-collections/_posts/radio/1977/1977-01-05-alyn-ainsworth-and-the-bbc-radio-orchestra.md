@@ -10,7 +10,7 @@ categories: [BBC-Radio-2, OnThisDay5January]
 ---
 
 <table id="contributors">
-<tr><th colspan="2" class="h3">Contributors</th></tr>
+<tr><th colspan="2" class="h2">Contributors</th></tr>
 <tr><th>Presenter</th><td>Tom Edwards</td></tr>
 <tr><th>Music</th><td>Alyn Ainsworth and the BBC Radio Orchestra</td></tr>
 <tr><th>Leader</th><td>Michael Tomalin</td></tr>

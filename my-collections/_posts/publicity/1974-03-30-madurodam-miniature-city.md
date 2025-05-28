@@ -62,7 +62,7 @@ last_modified_at: 25 April 2024
 {: .clear}
 
 <figure class="fig3">
-<h3 id="dates"><a href="#dates">Dates Of The Photos Given By Various Websites</a></h3>
+<h2 id="dates"><a href="#dates">Dates Of The Photos Given By Various Websites</a></h2>
 <p>Alamy: <a class="external-link" href="https://www.alamy.com/stock-photo-music-lena-zavaroni-1974-110277376.html?imageid=DC50E8C8-9DC3-4A4E-8E18-A39901475E86&p=308342&pn=1&searchId=7b4d710dd8804b05b14b1e8ea49ad369&searchtype=0">Music - Lena Zavaroni</a> - 25 April 1974.</p>
 <p>Getty Images: <a class="external-link" href="https://www.gettyimages.co.uk/detail/news-photo/aged-10-lena-zavaroni-the-british-singer-looks-like-a-news-photo/834964858">Music Lena Zavaroni</a> - 25 April 1974.</p>
 <p>Alamy and Getty Images seem to be going by the date use by The Press Association.</p>

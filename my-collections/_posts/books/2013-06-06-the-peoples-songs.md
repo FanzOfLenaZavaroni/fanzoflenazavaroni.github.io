@@ -13,12 +13,12 @@ last_modified_at: 23 December 2023
 ---
 
 <figure class="fig1">
-<h3 id="cover"><a href="#cover">Book Cover</a></h3>
+<h2 id="cover"><a href="#cover">Book Cover</a></h2>
 <img src="/assets/images/books/140903318X-2013.jpg" alt="Front Book Cover For The People’s Songs&#58; The Story of Modern Britain in 50 Records by Stuart Maconie" class="full-width" />
 </figure>
 
 <figure class="fig2">
-<h3 id="details"><a href="#details">Details</a></h3>
+<h2 id="details"><a href="#details">Details</a></h2>
 <table>
 <tr><th>Author</th><td>Stuart Maconie</td></tr>
 <tr><th>Publisher</th><td>Random House</td></tr>

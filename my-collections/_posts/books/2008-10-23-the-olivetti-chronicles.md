@@ -39,14 +39,14 @@ categories: [Books, OnThisDay23October]
 
 <figure class="fig1" id="page-322">
 <figcaption>
-<h3>Page 322</h3>
+<h2>Page 322</h2>
 </figcaption>
 <a href="/assets/images/books/the-olivetti-chronicles-page-322.jpg"><img src="/assets/images/books/the-olivetti-chronicles-page-322.jpg" class="full-width zoom-in" /></a>
 </figure>
 
 <figure class="fig2" id="page-350">
 <figcaption>
-<h3>Page 350</h3>
+<h2>Page 350</h2>
 </figcaption>
 <a href="/assets/images/books/the-olivetti-chronicles-page-350.jpg"><img src="/assets/images/books/the-olivetti-chronicles-page-350.jpg" class="full-width zoom-in" /></a>
 </figure>
@@ -55,14 +55,14 @@ categories: [Books, OnThisDay23October]
 
 <figure class="fig1" id="page-351">
 <figcaption>
-<h3>Page 351</h3>
+<h2>Page 351</h2>
 </figcaption>
 <a href="/assets/images/books/the-olivetti-chronicles-page-351.jpg"><img src="/assets/images/books/the-olivetti-chronicles-page-351.jpg" class="full-width zoom-in" /></a>
 </figure>
 
 <figure class="fig2" id="page-352">
 <figcaption>
-<h3>Page 352</h3>
+<h2>Page 352</h2>
 </figcaption>
 <a href="/assets/images/books/the-olivetti-chronicles-page-352.jpg"><img src="/assets/images/books/the-olivetti-chronicles-page-352.jpg" class="full-width zoom-in" /></a>
 </figure>

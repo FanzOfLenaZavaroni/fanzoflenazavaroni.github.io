@@ -21,7 +21,7 @@ last_modified_at: 1 January 2024
 </figure>
 
 <figure class="fig3">
-<h3 id="page-26"><a href="#page-26">Page 26 - Can the Connolly phenomenon be repeated?</a></h3>
+<h2 id="page-26"><a href="#page-26">Page 26 - Can the Connolly phenomenon be repeated?</a></h2>
 Scotland has produced more than its fair share of lop-name talent from Lulu to Lena Zavaroni, and from the Average White Band to Pilot and the Bay City Rollers. The list of Scots entertainers who took the high road to London to find success is endless.
 </figure>
 

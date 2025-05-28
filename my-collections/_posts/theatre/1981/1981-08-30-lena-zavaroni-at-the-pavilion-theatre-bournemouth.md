@@ -11,13 +11,13 @@ categories: [Theatre, Pavilion-Theatre, Bournemouth, The-Lena-Zavaroni-Show, Goi
 ---
 
 <figure class="fig1">
-<h3>Bournemouth Pavilion Theatre</h3>
+<h2>Bournemouth Pavilion Theatre</h2>
 <a href="https://www.geograph.org.uk/photo/5270508"><img src="{{ page.image }}" class="full-width" /></a>
 <cite>&copy; <a href="https://www.geograph.org.uk/profile/20970">Barry Shimmon</a> and licensed for reuse under this <a href="http://creativecommons.org/licenses/by-sa/2.0">Creative Commons Licence</a></cite>
 </figure>
 
 <figure class="fig2">
-<h3>Songs included</h3>
+<h2>Songs included</h2>
 <ul>
 <li>What A Difference A Day Makes</li>
 <li>Supersonic</li>

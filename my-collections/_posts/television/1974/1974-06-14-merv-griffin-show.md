@@ -23,7 +23,7 @@ categories: [US-Television, Merv-Griffin-Show, OnThisDay14June]
 </tr>
 </table>
 
-<h3 id="photo"><a href="#photo">Publicity Photo</a></h3>
+<h2 id="photo"><a href="#photo">Publicity Photo</a></h2>
 
 <figure class="fig1">
 <a href="/assets/images/US-TV/merv-griffin-show-1a.jpg"><img src="/assets/images/US-TV/merv-griffin-show-1a.jpg" class="full-width zoom-in"/></a>
@@ -50,7 +50,7 @@ categories: [US-Television, Merv-Griffin-Show, OnThisDay14June]
 
 <figure class="fig2">
 <figcaption>
-<h3 id="summary"><a href="#summary">Summary</a></h3>
+<h2 id="summary"><a href="#summary">Summary</a></h2>
 </figcaption>
 <p> Merv's guests are actors Fernando Lamas and James Brolin, child singer Lena Zavaroni and Apollo 15 astronaut Col. James B. Irwin.</p>
 <p> Lena performs Ma He's Making Eyes At Me, before being interviewed by Merv. She tells him about flying in a helicopter, visiting Disneyland, and meeting Frank Sinatra.</p>
@@ -61,7 +61,7 @@ categories: [US-Television, Merv-Griffin-Show, OnThisDay14June]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 </figcaption>
 <table>
 <tr><th>Presenter</th><td>Merv Griffin</td></tr>

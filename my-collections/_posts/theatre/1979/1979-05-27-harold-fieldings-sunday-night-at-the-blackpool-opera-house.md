@@ -11,9 +11,9 @@ categories: [Theatre, Blackpool-Opera-House, Harold-Fielding, OnThisDay27May]
 ---
 
 <figure class="fig3">
-<div class="Cardlayout">
+<div class="CardLayout">
 <div class="CardItem">
-<h3 id="infobox1" class="infobox"><a href="#infobox1">Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm</a></h3>
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm</a></h2>
 </div>
 <div class="CardItem split">
 <ul>

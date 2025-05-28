@@ -10,12 +10,12 @@ last_modified_at: 24 February 2024
 ---
 
 <figure class="fig1">
-<h3 id="infobox1"><a href="#infobox1">Front Cover</a></h3>
+<h2 id="infobox1"><a href="#infobox1">Front Cover</a></h2>
 <a href="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-fc.png"><img src="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-fc.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
-<h3 id="infobox2"><a href="#infobox2">Quote From Page 25</a></h3>
+<h2 id="infobox2"><a href="#infobox2">Quote From Page 25</a></h2>
 <blockquote>
 <p>Her first LP &#8212; including number written by Bjork when she was eight &#8212; Was an instant hit.</p>
 <p>A year later, Iceland's <span style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni</span> had turned punk princess &#8212; and swapped fame for notoriety.</p>
@@ -26,12 +26,12 @@ last_modified_at: 24 February 2024
 {: .clear}
 
 <figure class="fig1">
-<h3 id="infobox3"><a href="#infobox3">Page 24</a></h3>
+<h2 id="infobox3"><a href="#infobox3">Page 24</a></h2>
 <a href="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-page-24.png"><img src="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-page-24.png" class="full-width"></a>
 </figure>
 
 <figure class="fig2">
-<h3 id="infobox4"><a href="#infobox4">Page 25</a></h3>
+<h2 id="infobox4"><a href="#infobox4">Page 25</a></h2>
 <a href="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-page-25.png"><img src="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-page-25.png" class="full-width"></a>
 </figure>
 

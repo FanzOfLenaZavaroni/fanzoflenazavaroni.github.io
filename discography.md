@@ -6,9 +6,9 @@ last_modified_at: 8 February 2024
 ---
 
 <figure class="fig1">
-<div class="Cardlayout cards-height">
+<div class="CardLayout cards-height">
 <div class="CardItem">
-<h3 id="infobox1" class="infobox"><a href="#infobox1">Covers</a></h3>
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Covers</a></h2>
 </div>
 <div class="CardItem split">
 <div id="slideshow">
@@ -51,9 +51,9 @@ last_modified_at: 8 February 2024
 
 
 <figure class="fig2">
-<div class="Cardlayout cards-height">
+<div class="CardLayout cards-height">
 <div class="CardItem">
-<h3 id="infobox2" class="infobox"><a href="#infobox2">Discography</a></h3>
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Discography</a></h2>
 </div>
 <div class="CardItem split">
 <ul>
@@ -64,7 +64,7 @@ last_modified_at: 8 February 2024
 <li><a href="/discography/tribute-songs">Tribute Songs</a></li>
 <li><a href="/discography/karaoke">Karaoke</a></li>
 </ul>
-<h3 class="adjust">Plus</h3>
+<h2 class="adjust">Plus</h2>
 <ul>
 <li><a href="/discography/podcasts">Podcasts</a></li>
 <li><a href="/discography/sheet-music">Sheet Music</a></li>

@@ -11,19 +11,19 @@ last_modified_at: 17 August 2023
 ---
 
 <figure class="fig1">
-<h3 id="bucks"><a href="#bucks">Bucks Examiner</a></h3>
+<h2 id="bucks"><a href="#bucks">Bucks Examiner</a></h2>
 <a href="/assets/images/newspapers/1979-08-17-buckinghamshire-examiner.png"><img src="/assets/images/newspapers/1979-08-17-buckinghamshire-examiner.png" class="full-width zoom-in" /></a>
 </figure>
 
 <figure class="fig2">
-<h3 id="deeanne"><a href="#deeanne">Dee Anne aims for the top</a></h3>
+<h2 id="deeanne"><a href="#deeanne">Dee Anne aims for the top</a></h2>
 <a href="/assets/images/newspapers/1979-08-17-buckinghamshire-examiner-cropped.png"><img src="/assets/images/newspapers/1979-08-17-buckinghamshire-examiner-cropped.png" class="full-width zoom-in" /></a>
 </figure>
 
 {: .clear}
 
 <figure class="fig3">
-<h3 id="solomon"><a href="#solomon">Solomon's Children</a></h3>
+<h2 id="solomon"><a href="#solomon">Solomon's Children</a></h2>
 <table>
 <tr><th class="style1">Individuals</th><th class="style2">Born</th><th class="style3">Died</th><th class="style4">Years Active</th></tr>
 <tr><td><strong>Twinkle</strong><br />(Lynn Annette Ripley)</td><td>15 July 1948</td><td>21 May 2015<br />(aged 66)</td><td>1968-1970s, 2009</td></tr>

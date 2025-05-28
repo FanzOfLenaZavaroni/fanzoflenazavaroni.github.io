@@ -11,14 +11,14 @@ categories: [Newspapers, Fulham-Chronicle, OnThisDay20August]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover"><a href="#front-cover">Front Cover</a></h3>
+<h2 id="front-cover"><a href="#front-cover">Front Cover</a></h2>
 </figcaption>
 <a href="/assets/images/newspapers/1982-08-20-fulham-chronicle-fc.png"><img src="/assets/images/newspapers/1982-08-20-fulham-chronicle-fc.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-24"><a href="#page-24">Page 24 - Clipping</a></h3>
+<h2 id="page-24"><a href="#page-24">Page 24 - Clipping</a></h2>
 </figcaption>
 <a href="/assets/images/newspapers/1982-08-20-fulham-chronicle-page-24.png"><img src="/assets/images/newspapers/1982-08-20-fulham-chronicle-page-24.png" class="full-width zoom-in"></a>
 <figcaption>

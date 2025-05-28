@@ -24,14 +24,14 @@ last_modified_at: 19 May 2024
 
 <figure class="fig1">
 <figcaption>
-<h3 id="infobox1"><a href="#infobox1">Programme ID</a></h3>
+<h2 id="infobox1"><a href="#infobox1">Programme ID</a></h2>
 </figcaption>
 <img src="/assets/images/YTV/1974-junior-showtime.jpg" class="full-width" />
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="infobox2"><a href="#infobox2">Newspaper</a></h3>
+<h2 id="infobox2"><a href="#infobox2">Newspaper</a></h2>
 </figcaption>
 <a href="/assets/images/newspapers/0FFO-1974-APR13-008.jpeg"><img src="/assets/images/newspapers/0FFO-1974-APR13-008.jpeg" class="full-width zoom-in" /></a>
 <figcaption>
@@ -43,7 +43,7 @@ last_modified_at: 19 May 2024
 
 <figure class="fig3">
 <figcaption>
-<h3 id="infobox3"><a href="#infobox3">Cast</a></h3>
+<h2 id="infobox3"><a href="#infobox3">Cast</a></h2>
 </figcaption>
 <table>
 <tr><th style="width:50%;">Guest Singer:</th><td>Lena Zavaroni</td></tr>
@@ -61,7 +61,7 @@ last_modified_at: 19 May 2024
 
 <figure class="fig3">
 <figcaption>
-<h3 id="infobox4"><a href="#infobox4">Crew</a></h3>
+<h2 id="infobox4"><a href="#infobox4">Crew</a></h2>
 </figcaption>
 <table>
 <tr><th style="width:50%;">Choreographer:</th><td>Jean Pearce</td></tr>

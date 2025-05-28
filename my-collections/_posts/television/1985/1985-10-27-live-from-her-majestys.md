@@ -11,7 +11,7 @@ categories: [Scottish-Television-(STV), OnThisDay27October]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="evening"><a href="#evening">Evening Times</a></h3>
+<h2 id="evening"><a href="#evening">Evening Times</a></h2>
 </figcaption>
 <a href="/assets/images/newspapers/1985-10-26-evening-times-page-11-cropped.png"><img src="/assets/images/newspapers/1985-10-26-evening-times-page-11-cropped.png" class="full-width zoom-in" /></a>
 <figcaption>
@@ -21,7 +21,7 @@ categories: [Scottish-Television-(STV), OnThisDay27October]
 
 <figure class="fig2">
 <figcaption>
-<h3 id="times"><a href="#times">Evening Times</a></h3>
+<h2 id="times"><a href="#times">Evening Times</a></h2>
 </figcaption>
 <a href="{{ page.image }}"><img src="{{ page.image }}" class="full-width zoom-in" /></a>
 <figcaption>

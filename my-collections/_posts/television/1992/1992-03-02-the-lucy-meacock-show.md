@@ -27,14 +27,14 @@ categories: [Granada-Television, OnThisDay2March]
 
 <figure id="front-page" class="fig1">
 <figcaption>
-<h3>Front Page</h3>
+<h2>Front Page</h2>
 </figcaption>
 <img src="/assets/images/newspapers/1992-03-03-liverpool-echo-01.png" class="full-width">
 </figure>
 
 <figure id="television-section" class="fig2">
 <figcaption>
-<h3>Related Television Section</h3>
+<h2>Related Television Section</h2>
 </figcaption>
 <a href="/assets/images/newspapers/1992-03-03-liverpool-echo-02.png"><img src="/assets/images/newspapers/1992-03-03-liverpool-echo-02.png" class="full-width zoom-in"></a>
 </figure>
@@ -42,13 +42,13 @@ categories: [Granada-Television, OnThisDay2March]
 {: .clear}
 
 <figure id="screenshot" class="fig1">
-<h3>Screenshot</h3>
+<h2>Screenshot</h2>
 <img src="/assets/images/ITV/Granada-Reports.png" class="full-width">
 </figure>
 
 <figure id="audio" class="fig2">
 <figcaption>
-<h3>Audio</h3>
+<h2>Audio</h2>
 </figcaption>
 <audio id="player" src="/assets/media/1992-03-02-granada-reports.mp3"></audio>
 <div><button onclick="document.getElementById('player').play()">Play</button><button onclick="document.getElementById('player').pause()">Pause</button><button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button><button onclick="document.getElementById('player').volume += 0.1">Vol +</button><button onclick="document.getElementById('player').volume -= 0.1">Vol -</button></div>
@@ -62,7 +62,7 @@ categories: [Granada-Television, OnThisDay2March]
 {: .clear}
 
 <figure id="details" class="fig3">
-<h3>Details</h3>
+<h2>Details</h2>
 <p>This episode of the show asks the question, Should children be pushed onto the stage?</p>
 <p>A short referance to Lena Zavaroni is made in the song <a href="/discography/tribute-songs/2011-06-27-thelancashire-hotpots-achtung-gravy#lucy-meacock">Lucy Meacock</a> by The Lancashire Hotpots.</p>
 </figure>
@@ -71,7 +71,7 @@ categories: [Granada-Television, OnThisDay2March]
 
 <figure id="cast" class="fig1">
 <figcaption>
-<h3>Cast</h3>
+<h2>Cast</h2>
 </figcaption>
 <table>
 <tr><th>Presenter:</th><td>Lucy Meacock</td></tr>
@@ -89,7 +89,7 @@ categories: [Granada-Television, OnThisDay2March]
 
 <figure id="crew" class="fig2">
 <figcaption>
-<h3>Crew</h3>
+<h2>Crew</h2>
 </figcaption>
 <table>
 <tr><th>producer:</th><td>Christine Ruth</td></tr>

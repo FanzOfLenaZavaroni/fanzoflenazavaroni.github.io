@@ -14,7 +14,7 @@ Lena joins a wide line up of celebrities to chat about their plans for Christmas
 Lena talks about her part in the Babes In The Wood pantomime.
 
 <figure class="fig1">
-<h3>Screenshot</h3>
+<h2>Screenshot</h2>
 <img src="/assets/images/BBC/Pebble-Mill-at-One.jpg" class="full-width" />
 <figcaption>
 <cite>Lena joins the rest of the cast at the end of the show, for a rendition of Hark The Herald Angels Sing.</cite>
@@ -22,7 +22,7 @@ Lena talks about her part in the Babes In The Wood pantomime.
 </figure>
 
 <figure class="fig2">
-<h3>Cast</h3>
+<h2>Cast</h2>
 <table>
 <tr><th>Presenter</th><td>Bob langley</td></tr>
 <tr><th>Presenter</th><td>Donny MacLeod</td></tr>

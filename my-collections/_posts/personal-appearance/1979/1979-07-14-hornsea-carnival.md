@@ -23,7 +23,7 @@ last_modified_at: 9 July 2024
 </table>
 
 <figure class="fig3">
-<h3 id="infobox1"><a href="#infobox1">Celebrity Guests That Attended The Carnival</a></h3>
+<h2 id="infobox1"><a href="#infobox1">Celebrity Guests That Attended The Carnival</a></h2>
 <table>
 <tr><th style="vertical-align:top;">Guest:</th><td>Lena Zavaroni declared the Carnival open, then stayed for a short time to meet her fans and members of the public.</td></tr>
 <tr><th style="vertical-align:top;">Guests:</th><td>Wilfrid Brambell and Harry H. Corbett as Steptoe and Son.</td></tr>
@@ -37,7 +37,7 @@ I have no doubt Bernie Winters just thought he was being funny and had not consi
 </figure>
 
 <figure class="fig3">
-<h3 id="infobox2"><a href="#infobox2">Steve Hayter</a></h3>
+<h2 id="infobox2"><a href="#infobox2">Steve Hayter</a></h2>
 <blockquote>A number of photos were taken of the event by Steve Hayter, sadly because of content thefts I have removed them from this article.</blockquote>
 <cite>Robcamstone</cite>
 </figure>

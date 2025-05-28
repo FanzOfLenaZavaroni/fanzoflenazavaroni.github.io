@@ -12,14 +12,14 @@ categories: [The-Stage-and-Television-Today, OnThisDay3October]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover"><a href="#front-cover">Front Cover</a></h3>
+<h2 id="front-cover"><a href="#front-cover">Front Cover</a></h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1985-10-03-the-stage-and-television-today-fc.png"><img src="/assets/images/the-stage-and-television-today/1985-10-03-the-stage-and-television-today-fc.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-5"><a href="#page-5">Page 5</a></h3>
+<h2 id="page-5"><a href="#page-5">Page 5</a></h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1985-10-03-the-stage-and-television-today-page-05.png"><img src="/assets/images/the-stage-and-television-today/1985-10-03-the-stage-and-television-today-page-05.png" class="full-width zoom-in"></a>
 </figure>
@@ -28,7 +28,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay3October]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-6"><a href="#page-6">Page 6</a></h3>
+<h2 id="page-6"><a href="#page-6">Page 6</a></h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1985-10-03-the-stage-and-television-today-page-06.png"><img src="/assets/images/the-stage-and-television-today/1985-10-03-the-stage-and-television-today-page-06.png" class="full-width zoom-in"></a>
 </figure>

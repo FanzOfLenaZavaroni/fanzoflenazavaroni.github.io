@@ -12,17 +12,17 @@ categories: [BBC-One, OnThisDay11March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="screenshot">Screenshot</h3>
+<h2 id="screenshot">Screenshot</h2>
 </figcaption>
 <img src="/assets/images/BBC/Pebble-Mill-at-One-ID.jpg" class="full-width">
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="detail">Details</h3>
+<h2 id="detail">Details</h2>
 <p>Lena performs a live version of "Pinch Me Am I Dreaming".</p>
 <p>Later on she is interviewed alongside her manager Dorothy Solomon, by Donny MacLeod, and then she finishes the show with a live rendition of "Rock-A-Bye Your Baby With A Dixie Melody".</p>
-<h3 id="external-websites">External Websites</h3>
+<h2 id="external-websites">External Websites</h2>
 <p><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1977-03-11#at-13.00">BBC Genome</a></p>
 </figcaption>
 </figure>
@@ -31,7 +31,7 @@ categories: [BBC-One, OnThisDay11March]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="contributors">Contributors</h3>
+<h2 id="contributors">Contributors</h2>
 <table>
 <tr><th>Presenter</th><td>Donny MacLeod</td></tr>
 <tr><th>Presenter</th><td>Marian Foster</td></tr>

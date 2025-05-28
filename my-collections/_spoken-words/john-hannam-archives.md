@@ -18,7 +18,7 @@ image: /assets/images/spoken-words/John_hannam.jpg
 <figure class="fig2">
 <figcaption>
 <table>
-<tr><th colspan="2" class="h3">Tracks</th></tr>
+<tr><th colspan="2" class="h2">Tracks</th></tr>
 <tr><th style="width:15px;">1</th><td>Tommy Cooper</td></tr>
 <tr><th>2</th><td>Russ Conway</td></tr>
 <tr><th>3</th><td>John Mills</td></tr>

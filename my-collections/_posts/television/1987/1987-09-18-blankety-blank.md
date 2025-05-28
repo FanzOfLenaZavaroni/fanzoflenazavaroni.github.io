@@ -11,24 +11,24 @@ categories: [BBC-One, Les-Dawson, OnThisDay18September]
 ---
 
 <figure class="fig1">
-<h3 id="srceenshot"><a href="#srceenshot">Srceenshot</a></h3>
+<h2 id="srceenshot"><a href="#srceenshot">Srceenshot</a></h2>
 <img src="{{ page.image }}" class="full-width" />
 </figure>
 
 <figure class="fig2">
-<h3 id="question"><a href="#question">Question</a></h3>
+<h2 id="question"><a href="#question">Question</a></h2>
 <blockquote>Oliver Twist refused to go up and ask for any more 'BLANKS'</blockquote>
 <cite>Les Dawson</cite>
 <blockquote>Chips</blockquote>
 <cite>Lena Zavaroni's answer</cite>
-<h3 id="related"><a href="#related">Related Website</a></h3>
+<h2 id="related"><a href="#related">Related Website</a></h2>
 <ul><li><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1987-09-18#at-19.40">BBC Genome</a></li></ul>
 </figure>
 
 {: .clear}
 
 <figure class="fig1">
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 <table>
 <tr><th>Presenter</th><td>Les Dawson</td></tr>
 <tr><th>Panellist</th><td>Lynda Baron</td></tr>
@@ -41,7 +41,7 @@ categories: [BBC-One, Les-Dawson, OnThisDay18September]
 </figure>
 
 <figure class="fig2">
-<h3 id="crew"><a href="#crew">Crew</a></h3>
+<h2 id="crew"><a href="#crew">Crew</a></h2>
 <table>
 <tr><th>Musical accompaniment</th><td>Ronnie Hazelhurst</td></tr>
 <tr><th>Sound</th><td>Michael McCarthy</td></tr>

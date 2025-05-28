@@ -21,7 +21,7 @@ last_modified_at: 1 January 2024
 </figure>
 
 <figure class="fig3">
-<h3 id="spanish"><a href="#spanish">SPANISH</a></h3>
+<h2 id="spanish"><a href="#spanish">SPANISH</a></h2>
 <p>Lena Zavaroni. Con Ia prestancia de una artista consagrada; cantó, bailó y conquistó al público.</p>
 <p>Pero, desgraciadamente su paso fué muy fugaz, ojalá retorne y su permanencia sea má prolongada, por que Ia pequeña Lena es sencillamente sensacional.</p>
 </figure>
@@ -29,7 +29,7 @@ last_modified_at: 1 January 2024
 {: .clear}
 
 <figure class="fig3">
-<h3 id="english"><a href="#english">ENGLISH</a></h3>
+<h2 id="english"><a href="#english">ENGLISH</a></h2>
 <p>Lena Zavaroni. With the presence of a consecrated artist; she sang, danced and conquered the public.</p>
 <p>But, unfortunately, her stay was very fleeting, I hope she returns and her stay is longer, because little Lena is simply sensational.</p>
 </figure>

@@ -51,7 +51,7 @@ last_modified_at: 15 June 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="a-side"><a href="#a-side">A-side</a></h3>
+<h2 id="a-side"><a href="#a-side">A-side</a></h2>
 <table>
 <tr><th>ID</th><th>Artist Cover Singer Is Based On</th><th>Song Title</th></tr>
 <tr><td>PI0302A-01</td><td>John Lennon</td><td>Imagine</td></tr>
@@ -74,7 +74,7 @@ last_modified_at: 15 June 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="b-side"><a href="#b-side">B-side</a></h3>
+<h2 id="b-side"><a href="#b-side">B-side</a></h2>
 <table>
 <tr><th>ID</th><th>Artist Cover Singer Is Based On</th><th>Song Title</th></tr>
 <tr><td>PI0302B-01</td><td>Petula Clark</td><td>This Is My Song</td></tr>

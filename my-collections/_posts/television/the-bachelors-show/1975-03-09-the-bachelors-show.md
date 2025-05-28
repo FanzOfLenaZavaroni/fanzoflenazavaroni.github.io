@@ -11,14 +11,14 @@ categories: [BBC-Two, OnThisDay9March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="screenshot">Screenshot</h3>
+<h2 id="screenshot">Screenshot</h2>
 </figcaption>
 <img src="/assets/images/BBC/The-Bachelors-Show-04.jpg" class="full-width">
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="summary">Summary</h3>
+<h2 id="summary">Summary</h2>
 <p>Lena performs "My Funny Valentine", sitting on a huge pink rug with a dog called Champers.</p>
 <p>She then sings "Stage Struck".</p>
 <p>Next she duets with one of the Bachelors (John Stokes) on a version of "Something's Got To Give".</p>
@@ -30,7 +30,7 @@ categories: [BBC-Two, OnThisDay9March]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="cast">Cast</h3>
+<h2 id="cast">Cast</h2>
 <table>
 <tr><th style="width:50%;">Hosts</th><td style="width:50%;">The Bachelors</td></tr>
 <tr><th>Singer</th><td>Lena Zavaroni</td></tr>
@@ -41,7 +41,7 @@ categories: [BBC-Two, OnThisDay9March]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="cast">Cast</h3>
+<h2 id="cast">Cast</h2>
 <table>
 <tr><th style="width:50%;">Orchestra conductor</th><td style="width:50%;">Norman Percival</td></tr>
 <tr><th>Choreography</th><td>Lesley Brooks</td></tr>

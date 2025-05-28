@@ -19,7 +19,7 @@ last_modified_at: 29 December 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 <table>
 <tr><th style="width:30%;">Presenter:</th><td style="width:70%;">Derek Batey</td></tr>
 <tr><th>On-Screen Participant</th><td>David Berglas</td></tr>
@@ -84,7 +84,7 @@ last_modified_at: 29 December 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="crew"><a href="#crew">Crew</a></h3>
+<h2 id="crew"><a href="#crew">Crew</a></h2>
 <table>
 <tr><th style="width:30%;">Director</th><td style="width:70%;">	Harry King</td></tr>
 <tr><th>Researcher</th><td>Cy Young</td></tr>

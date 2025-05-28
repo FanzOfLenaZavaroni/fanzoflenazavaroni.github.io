@@ -17,7 +17,7 @@ Lena appears as last year's winner, to present the award to the 1975 recipient, 
 <br />
 
 <figure class="fig3">
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 <table>
 <tr><th style="width:50%;">Presenter</th><td style="width:50%;">Hughie Green</td></tr>
 <tr style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lz"><th>On screen participant</th><td>Lena Zavaroni</td></tr>
@@ -33,7 +33,7 @@ Lena appears as last year's winner, to present the award to the 1975 recipient, 
 </figure>
 
 <figure class="fig3">
-<h3 id="crew"><a href="#crew">Crew</a></h3>
+<h2 id="crew"><a href="#crew">Crew</a></h2>
 <table>
 <tr><th style="width:50%;">Programme associate</th><td style="width:50%;">Doris Barry</td></tr>
 <tr><th>Programme associate</th><td>Len Marten</td></tr>

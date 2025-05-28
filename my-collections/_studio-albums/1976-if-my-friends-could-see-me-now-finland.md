@@ -34,7 +34,7 @@ last_modified_at: 17 November 2023
 
 {: .clear}
 
-<h3>Tracks</h3>
+<h2>Tracks</h2>
 
 <figure class="fig1" id="programme1">
 <figcaption>

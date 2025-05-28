@@ -32,7 +32,7 @@ A concert of British music from the Royal Albert Hall, London in association wit
 
 <figure class="fig1">
 <table>
-<tr><th colspan="2" class="h3">Programme</th></tr>
+<tr><th colspan="2" class="h2">Programme</th></tr>
 <tr><th class="width">Singer</th><td class="width">Joan Savage</td></tr>
 <tr><th>Solo Cellist</th><td>Julian Lloyd Webber</td></tr>
 <tr><th>Singers</th><td>Mike Sammes Singers</td></tr>
@@ -41,7 +41,7 @@ A concert of British music from the Royal Albert Hall, London in association wit
 <tr><th>Singers</th><td>Mike Sammes Singers</td></tr>
 <tr><th>Singer</th><td>Frankie Vaughan</td></tr>
 <tr><th>Vocalist</th><td>Anne Shelton</td></tr>
-<tr><th colspan="2" class="h3">INTERVAL</th></tr>
+<tr><th colspan="2" class="h2">INTERVAL</th></tr>
 <tr style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lz"><th>Singer</th><td>Lena Zavaroni</td></tr>
 <tr><th>Singer<br /><a class="external-link" href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/discussions/34#discussioncomment-7950091">See Comment 7950091</a></th><td><a class="external-link" href="https://en.wikipedia.org/wiki/Hubert_Gregg">Hubert Gregg</a></td></tr>
 <tr><th>Singers</th><td>Mike Sammes Singers</td></tr>
@@ -63,6 +63,6 @@ A concert of British music from the Royal Albert Hall, London in association wit
 <br />{: .clear}
 
 <style>
-.h3 {font-size: 26px; text-align:center;}
+.h2 {font-size: 26px; text-align:center;}
 .width {width:50%;}
 </style>

@@ -11,14 +11,14 @@ last_modified_at: 15 June 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front"><a href="#front">Front Cover</a></h3>
+<h2 id="front"><a href="#front">Front Cover</a></h2>
 </figcaption>
 <a href="/assets/images/albums/1976-various-artists-20-golden-stars-hits-ab-fc.jpg"><img src="/assets/images/albums/1976-various-artists-20-golden-stars-hits-ab-fc.jpg" class="full-width zoom-in" alt="Front Cover for the album 20 Golden Stars & Hits (1976)" /></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="details"><a href="#details">Details</a></h3>
+<h2 id="details"><a href="#details">Details</a></h2>
 </figcaption>
 <table>
 <tr><th style="width:50%">Artist:</th><td>Various</td></tr>
@@ -34,7 +34,7 @@ last_modified_at: 15 June 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="a-side"><a href="#a-side">A Side</a></h3>
+<h2 id="a-side"><a href="#a-side">A Side</a></h2>
 </figcaption>
 <ol>
 <li><b>Dave Dee, Dozy, Beaky, Mick And Tich:</b> The Legend Of Xanadu</li>
@@ -52,7 +52,7 @@ last_modified_at: 15 June 2023
 
 <figure class="fig2">
 <figcaption>
-<h3 id="b-side"><a href="#b-side">B Side</a></h3>
+<h2 id="b-side"><a href="#b-side">B Side</a></h2>
 </figcaption>
 <ol>
 <li><b>The New Seekers:</b> I'd Like To Teach The World To Sing (In Perfect Harmony)</li>

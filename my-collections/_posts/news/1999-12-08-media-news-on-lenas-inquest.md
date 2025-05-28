@@ -12,5 +12,5 @@ last_modified_at: 28 November 2023
 * ——: [BBC News &#124; WALES &#124; Inquest told of star's suicide threat](http://news.bbc.co.uk/1/hi/wales/554625.stm){: .external-link}
 * ——: [The Independent Television News (ITN) broadcast from the final day of the Inquest.](/1963-11-04-lena-zavaroni/#inquest)
 
-<h3>Note:</h3>
+<h2>Note:</h2>
 * ——: [The 9 December 1999 will carry more news on the inquest as it will be the day after the inquest closed.](/onthisday/12/12-09)

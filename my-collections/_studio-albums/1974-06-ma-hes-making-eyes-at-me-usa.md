@@ -27,7 +27,7 @@ last_modified_at: 17 November 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="cover"><a href="#cover">Album Cover and Details</a></h3>
+<h2 id="cover"><a href="#cover">Album Cover and Details</a></h2>
 </figcaption>
 <img src="/assets/images/albums/1974-lena-zavaroni-ma-hes-making-eyes-at-me-usa.jpg" class="full-width" alt="Stax's' Brown Cover for the album Ma! (He's Making Eyes At Me) Stax STS 5511 (1974)" />
 <figcaption>
@@ -43,7 +43,7 @@ last_modified_at: 17 November 2023
 </figure>
 
 <figure class="fig2">
-<h3 id="tracks"><a href="#tracks">Tracks</a></h3>
+<h2 id="tracks"><a href="#tracks">Tracks</a></h2>
 <figcaption>
 <strong>A-Side</strong>
 </figcaption>
@@ -72,7 +72,7 @@ last_modified_at: 17 November 2023
 
 <figure class="fig3">
 <figcaption>
-<h3 id="flickr"><a href="#flickr">Billboard Advertising The Album In The Sunset Strip Area</a></h3>
+<h2 id="flickr"><a href="#flickr">Billboard Advertising The Album In The Sunset Strip Area</a></h2>
 </figcaption>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/larrythefrog/3456093639" title="Lena Zavaroni Billboard on Sunset Strip (1974)"><img src="https://live.staticflickr.com/3606/3456093639_65bf1aeaaf_c.jpg" width="800" height="533" alt="Billboards on Sunset #77"></a>
 </figure>

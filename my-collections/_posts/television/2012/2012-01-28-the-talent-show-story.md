@@ -11,7 +11,7 @@ categories: [ITV, OnThisDay28January]
 ---
 
 <figure class="fig1" id="lena-Zavaroni-segment">
-<h3>Lena Zavaroni Segment</h3>
+<h2>Lena Zavaroni Segment</h2>
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/50hgJeHNW58?start=315&rel=0&showinfo=0" frameborder="0" allowfullscreen=""></iframe></div>
 <figcaption>
 <p>Episode 4 has a short segment looked at Lena's rise to stardom and subsequent decline.</p>
@@ -22,7 +22,7 @@ categories: [ITV, OnThisDay28January]
 
 <figure class="fig2" id="cast">
 <figcaption>
-<h3>Cast</h3>
+<h2>Cast</h2>
 </figcaption>
 <table>
 <tr><td>Gary Barlow</td></tr>
@@ -64,7 +64,7 @@ categories: [ITV, OnThisDay28January]
 
 <figure class="fig3" id="crew">
 <figcaption>
-<h3>Crew</h3>
+<h2>Crew</h2>
 </figcaption>
 <table>
 <tr><th>Director</th><td>Kerry Allison</td></tr>

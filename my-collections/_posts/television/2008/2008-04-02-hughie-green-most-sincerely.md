@@ -30,18 +30,18 @@ categories: [BBC-Four, Hughie-Green, OnThisDay2April, OnThisDay6December]
 </figure>
 
 <figure class="fig3">
-<h3 id="infobox1"><a href="#infobox1">Screenshot</a></h3>
+<h2 id="infobox1"><a href="#infobox1">Screenshot</a></h2>
 <a href="/assets/images/BBC-PIDs/1920xn/p01gct1y.jpg"><img src="/assets/images/BBC-PIDs/1920xn/p01gct1y.jpg" class="full-width zoom-in" /></a>
 </figure>
 
 <figure class="fig3">
-<h3 id="infobox2"><a href="#infobox2">Summary</a></h3>
+<h2 id="infobox2"><a href="#infobox2">Summary</a></h2>
 <p>Drama about the secret life of Opportunity Knocks and Double Your Money presenter Hughie Green, based on the inside story from his family, friends and peers.</p>
 <p> It tells of the destructive power of success and celebrity from Green's earliest days as a child star, and explores what family and fatherhood meant to this iconic character, who harboured an explosive secret that would rock the entertainment world after his death in 1997.</p>
 </figure>
 
 <figure class="fig3">
-<h3 id="infobox3"><a href="#infobox3">Notes</a></h3>
+<h2 id="infobox3"><a href="#infobox3">Notes</a></h2>
 <blockquote>
 <p>At the time of the original broadcast the BBC Channels were still broadcasting in Standard Definition (SD) for high definition (HD) viewers would have to watch BBC HD which was a channel that showed a selection of programmes from across the BBC's' other channels so limited in what was showed.</p>
 <table>
@@ -62,7 +62,7 @@ categories: [BBC-Four, Hughie-Green, OnThisDay2April, OnThisDay6December]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="infobox4"><a href="#infobox4">Credits</a></h3>
+<h2 id="infobox4"><a href="#infobox4">Credits</a></h2>
 <table>
 <tr><th>Narrator</th><td>Jenny Agutter</td></tr>
 <tr><th>Hughie Green</th><td>Trevor Eve</td></tr>

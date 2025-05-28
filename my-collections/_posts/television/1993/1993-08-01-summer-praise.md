@@ -22,7 +22,7 @@ last_modified_at: 23 December 2023
 </table>
 
 <figure class="fig3">
-<h3 id="programme"><a href="#programme">Programme in Full</a></h3>
+<h2 id="programme"><a href="#programme">Programme in Full</a></h2>
 <div class="responsive-video"><iframe width="640" height="480" src="https://www.youtube.com/embed/DOu5ktVUEoI?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe></div>
 <blockquote>
 <p>First of six programmes from outdoor locations: Doon the Watter.</p>
@@ -34,7 +34,7 @@ last_modified_at: 23 December 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 <table>
 <tr><th>Presenter:</th><td>Pam Rhodes</td></tr>
 <tr><th>Guest:</th><td>Lena Zavaroni</td></tr>
@@ -45,7 +45,7 @@ last_modified_at: 23 December 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="crew"><a href="#crew">Crew</a></h3>
+<h2 id="crew"><a href="#crew">Crew</a></h2>
 <table>
 <tr><th>Music adviser</th><td>Tim Redman</td></tr>
 <tr><th>Camera supervisor</th><td>Des O'Hare</td></tr>

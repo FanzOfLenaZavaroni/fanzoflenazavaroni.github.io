@@ -11,14 +11,14 @@ categories: [Newspapers, Evening-Herald, OnThisDay20August]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover"><a href="#front-cover">Front Cover</a></h3>
+<h2 id="front-cover"><a href="#front-cover">Front Cover</a></h2>
 </figcaption>
 <a href="/assets/images/newspapers/2002-08-20-evening-herald-fc.png"><img src="/assets/images/newspapers/2002-08-20-evening-herald-fc.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-23"><a href="#page-23">Page 23</a></h3>
+<h2 id="page-23"><a href="#page-23">Page 23</a></h2>
 </figcaption>
 <a href="/assets/images/newspapers/2002-08-20-evening-herald-page-23.png"><img src="/assets/images/newspapers/2002-08-20-evening-herald-page-23.png" class="full-width zoom-in"></a>
 </figure>
@@ -27,7 +27,7 @@ categories: [Newspapers, Evening-Herald, OnThisDay20August]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-28"><a href="#page-28">Page 28</a></h3>
+<h2 id="page-28"><a href="#page-28">Page 28</a></h2>
 </figcaption>
 <a href="/assets/images/newspapers/2002-08-20-evening-herald-page-28.png"><img src="/assets/images/newspapers/2002-08-20-evening-herald-page-28.png" class="full-width zoom-in"></a>
 <figcaption>

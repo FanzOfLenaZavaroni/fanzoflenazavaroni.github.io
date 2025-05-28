@@ -14,12 +14,12 @@ last_modified_at: 23 December 2023
 Track 9 is obviously the tribute to Lena Zavaroni.
 
 <figure class="fig1">
-<h3 id="youtube"><a href="#youtube">YouTube</a></h3>
+<h2 id="youtube"><a href="#youtube">YouTube</a></h2>
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/QLaspFaye3A?rel=0&amp;showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 </figure>
 
 <figure class="fig2">
-<h3 id="track-listing"><a href="#track-listing">Track Listing</a></h3>
+<h2 id="track-listing"><a href="#track-listing">Track Listing</a></h2>
 <ol>
 <li>Back When the Music Had Soul</li>
 <li>Here's to the Songwriters</li>

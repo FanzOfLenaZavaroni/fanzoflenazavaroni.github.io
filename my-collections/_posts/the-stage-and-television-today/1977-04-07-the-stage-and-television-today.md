@@ -12,14 +12,14 @@ categories: [The-Stage-and-Television-Today, OnThisDay7April]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover">Front Cover</h3>
+<h2 id="front-cover">Front Cover</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1977-04-07-the-stage-and-television-today-front-cover.png"><img src="/assets/images/the-stage-and-television-today/1977-04-07-the-stage-and-television-today-front-cover.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-6">Page 6</h3>
+<h2 id="page-6">Page 6</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1977-04-07-the-stage-and-television-today-page-6.png"><img src="/assets/images/the-stage-and-television-today/1977-04-07-the-stage-and-television-today-page-6.png" class="full-width zoom-in"></a>
 </figure>
@@ -28,7 +28,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay7April]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-6-cropped">Page 6 - Cropped</h3>
+<h2 id="page-6-cropped">Page 6 - Cropped</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1977-04-07-the-stage-and-television-today-page-6-cropped.png"><img src="/assets/images/the-stage-and-television-today/1977-04-07-the-stage-and-television-today-page-6-cropped.png" class="full-width zoom-in"></a>
 </figure>

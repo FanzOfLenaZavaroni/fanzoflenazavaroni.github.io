@@ -12,7 +12,7 @@ published: false
 ---
 
 <figure class="fig1">
-<h3 id="screenshot"><a href="#screenshot">Screenshot</a></h3>
+<h2 id="screenshot"><a href="#screenshot">Screenshot</a></h2>
 <img src="{{ page.image }}" class="full-width" alt="Lena signs autographs at Belfast airport in 1980" />
 <figcaption>
 <cite>Lena signs autographs at Belfast airport.</cite>
@@ -20,7 +20,7 @@ published: false
 </figure>
 
 <figure class="fig2">
-<h3 id="details"><a href="#details">Details</a></h3>
+<h2 id="details"><a href="#details">Details</a></h2>
 <p>Ulster Television News reported on Lena's arrival at Belfast airport to perform live in the city.</p>
 <p>It featured footage of her emerging from the airport with her agent Dorothy Solomon, comedian Norman Collier and her entourage.</p>
 <p>She also visited a kitchen and helped the chefs prepare some food.</p>

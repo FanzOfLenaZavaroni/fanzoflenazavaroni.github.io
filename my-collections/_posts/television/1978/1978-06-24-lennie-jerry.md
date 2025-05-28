@@ -26,13 +26,13 @@ categories: [BBC-One, Lennie-And-Jerry, OnThisDay24June]
 </table>
 
 <figure class="fig1" id="screenshot-1">
-<h3>Screenshot 1</h3>
+<h2>Screenshot 1</h2>
 <img src="/assets/images/BBC/1978-06-24-lennie-and-jerry-01.jpg" class="full-width" />
 <cite>From left to right: Jerry Stevens, Lena Zavaroni, Lennie Bennett</cite>
 </figure>
 
 <figure class="fig2" id="screenshot-2">
-<h3>Screenshot 2</h3>
+<h2>Screenshot 2</h2>
 <img src="/assets/images/BBC/1978-06-24-lennie-and-jerry-02.jpg" class="full-width zoom-in" />
 <cite>Lena performs as Groucho Marx</cite>
 </figure>
@@ -40,7 +40,7 @@ categories: [BBC-One, Lennie-And-Jerry, OnThisDay24June]
 {: .clear}
 
 <figure class="fig1" id="cast">
-<h3>Cast</h3>
+<h2>Cast</h2>
 <table>
 <tr><th>Comedian & Presenter:</th><td>Lennie Bennett</td></tr>
 <tr><th>Comedian & Presenter:</th><td>Jerry Stevens</td></tr>
@@ -52,7 +52,7 @@ categories: [BBC-One, Lennie-And-Jerry, OnThisDay24June]
 </figure>
 
 <figure class="fig2" id="crew">
-<h3>Crew</h3>
+<h2>Crew</h2>
 <table>
 <tr><th>Music:</th><td>Alyn Ainsworth And His Orchestra</td></tr>
 <tr><th>Scripts by:</th><td>Brad Ashton</td></tr>

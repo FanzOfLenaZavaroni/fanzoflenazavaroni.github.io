@@ -24,12 +24,12 @@ last_modified_at: 26 November 2023
 {: .clear}
 
 <figure class="fig1">
-<h3 id="infobox1"><a href="#infobox1">BBC Publicity Photo</a></h3>
+<h2 id="infobox1"><a href="#infobox1">BBC Publicity Photo</a></h2>
 <img src="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg" class="full-width">
 </figure>
 
 <figure class="fig2">
-<h3 id="infobox2"><a href="#infobox2">Set List</a></h3>
+<h2 id="infobox2"><a href="#infobox2">Set List</a></h2>
 <ul>
 <li>Music Was My First Love (Lena)</li>
 <li>A clog dance to the music of Violinski (Wayne Sleep)</li>
@@ -44,7 +44,7 @@ last_modified_at: 26 November 2023
 {: .clear}
 
 <figure class="fig1">
-<h3 id="infobox3"><a href="#infobox3">Cast</a></h3>
+<h2 id="infobox3"><a href="#infobox3">Cast</a></h2>
 <p><strong>Hostess and Signer::</strong> Lena Zavaroni</p>
 <p><strong>Special guest:</strong> Elaine Stritch</p>
 <p><strong>Special guest:</strong> Wayne Sleep</p>
@@ -55,7 +55,7 @@ last_modified_at: 26 November 2023
 
 
 <figure class="fig2">
-<h3 id="infobox4"><a href="#infobox4">Crew</a></h3>
+<h2 id="infobox4"><a href="#infobox4">Crew</a></h2>
 <p><strong>Orchestra:</strong> Alyn Ainsworth and his Orchestra</p>
 <p><strong>Musical Director:</strong> Alyn Ainsworth</p>
 <p><strong>Vocal Backings:</strong> The Third Kind</p>

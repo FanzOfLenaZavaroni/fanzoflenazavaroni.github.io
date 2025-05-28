@@ -10,13 +10,13 @@ categories: [Theatre, New-Theatre, Cardiff, The-Lena-Zavaroni-Show, OnThisDay17J
 ---
 
 <figure class="fig1">
-<h3 id="photo"><a href="#photo">Photo Of New Theatre, Cardiff</a></h3>
+<h2 id="photo"><a href="#photo">Photo Of New Theatre, Cardiff</a></h2>
 <a href="/assets/images/locations/new-theatre-cardiff.jpg"><img src="/assets/images/locations/new-theatre-cardiff.jpg" class="full-width zoom-in"></a>
 <cite>New Theatre, Cardiff as it look on 13 November 2007,  <a class="external-link" href="https://commons.wikimedia.org/wiki/File:New_Theatre_Cardiff.jpg">Wikimedia Commons</a></cite>
 </figure>
 
 <figure class="fig2">
-<h3 id="performers"><a href="#performers">Performers</a></h3>
+<h2 id="performers"><a href="#performers">Performers</a></h2>
 <table>
 <tr><td><a class="external-link" href="https://treorchymalechoir.com/index.php/history-main/the-landmarks/1980-1999">The Treorchy Male Choir</a></td></tr>
 <tr><td>Y Triban (Welsh Folk Trio: Caryl Owen, Eiri Thrasher and Bob Richards - <a href="/assets/pdf/Total-Choir-Concert-List---Website.pdf#page=85">Total Choir Concert List pdf, Page: 85</a></td></tr>

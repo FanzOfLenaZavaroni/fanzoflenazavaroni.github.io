@@ -20,14 +20,14 @@ last_modified_at: 19 May 2024
 
 <figure class="fig3">
 <figcaption>
-<h3 id="programme-id"><a href="#programme-id">Programme ID</a></h3>
+<h2 id="programme-id"><a href="#programme-id">Programme ID</a></h2>
 </figcaption>
 <img src="/assets/images/YTV/1974-junior-showtime.jpg" class="full-width" />
 </figure>
 
 <figure class="fig3">
 <figcaption>
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 </figcaption>
 <table>
 <tr><th>Presenter</th><td>Mark Curry</td></tr>

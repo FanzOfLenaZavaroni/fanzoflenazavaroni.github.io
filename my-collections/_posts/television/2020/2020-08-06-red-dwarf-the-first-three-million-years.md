@@ -22,7 +22,7 @@ last_modified_at: 4 August 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="episode1"><a href="#episode1">Episode 1 - Boys From The Dwarf</a></h3>
+<h2 id="episode1"><a href="#episode1">Episode 1 - Boys From The Dwarf</a></h2>
 <strong>Features:</strong> Chris Barrie, Craig Charles, Danny John-Jules and Robert Llewellyn
 <strong>Producers:</strong> Chris Hill and Richard Ward
 </figcaption>
@@ -30,7 +30,7 @@ last_modified_at: 4 August 2023
 
 <figure class="fig2">
 <figcaption>
-<h3 id="lz"><a href="#lz">Details related to Lena Zavaroni</a></h3>
+<h2 id="lz"><a href="#lz">Details related to Lena Zavaroni</a></h2>
 Danny John-Jules talks about how he started out on TV as one of Lena Zavaroni's dancers and a short clip of Lena Zavaroni and Danny John-Jules is shown the clip is from <a href="/1981-04-29-lena">series 2, episode 4 of Lena</a>
 </figcaption>
 </figure>
@@ -39,7 +39,7 @@ Danny John-Jules talks about how he started out on TV as one of Lena Zavaroni's 
 
 <figure class="fig1">
 <figcaption>
-<h3 id="screenshot"><a href="#screenshot">Screenshot</a></h3>
+<h2 id="screenshot"><a href="#screenshot">Screenshot</a></h2>
 </figcaption>
 <a href="/assets/images/dave/2020-08-06-red-dwarf-the-first-three-million-years.jpg"><img src="/assets/images/dave/2020-08-06-red-dwarf-the-first-three-million-years.jpg" class="full-width zoom-in"></a>
 <figcaption>
@@ -49,7 +49,7 @@ Danny John-Jules talks about how he started out on TV as one of Lena Zavaroni's 
 
 <figure class="fig2">
 <figcaption>
-<h3 id="clip"><a href="#clip">YouTube Clip</a></h3>
+<h2 id="clip"><a href="#clip">YouTube Clip</a></h2>
 </figcaption>
 <a href="https://youtu.be/DljMPkYCuEw" title="Click to watch on YouTube"><img src="https://img.youtube.com/vi/DljMPkYCuEw/mqdefault.jpg" class="full-width" /></a>
 <figcaption>

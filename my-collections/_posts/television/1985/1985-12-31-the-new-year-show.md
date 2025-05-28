@@ -30,7 +30,7 @@ Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, A
 <cite>If you decide to watch this show on New Years Eve then start the video at 13 minutes to midnight for the Bells of the Elizabeth tower to ring at midnight</cite>
 
 <figure class="fig3">
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 <table>
 <tr><th style="width:50%;">Host</th><td style="width:50%;">Jack McLaughlin- dubbed “The Laird o’ Coocaddens”</td></tr>
 <tr><th>On screen participant</th><td>Russ Abbott</td></tr>
@@ -46,7 +46,7 @@ Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, A
 </figure>
 
 <figure class="fig3">
-<h3 id="crew"><a href="#crew">Crew</a></h3>
+<h2 id="crew"><a href="#crew">Crew</a></h2>
 <table>
 <tr><th style="width:50%;">Choreography</th><td style="width:50%;">Pat Armet</td></tr>
 <tr><th>Musical director</th><td>David Pringle</td></tr>

@@ -27,7 +27,7 @@ The programme is available on My5 until 31 December 2027 - <a class="external-li
 {: .clear}
 
 <figure class="fig1">
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 <table>
 <tr><td>Cameron Ralph</td></tr>
 <tr><td>Christopher Piasecki</td></tr>
@@ -50,13 +50,13 @@ The programme is available on My5 until 31 December 2027 - <a class="external-li
 
 
 <figure class="fig2">
-<h3 id="missing"><a href="#missing">Missing From The End Credits</a></h3>
+<h2 id="missing"><a href="#missing">Missing From The End Credits</a></h2>
 <table>
 <tr><td>Bonnie Langford</td></tr>
 <tr><td>Sue Pollard</td></tr>
 <tr><td>Plus others I have yet to identify</td></tr>
 </table>
-<h3 id="ignored"><a href="#ignored">Completely Ignored</a></h3>
+<h2 id="ignored"><a href="#ignored">Completely Ignored</a></h2>
 <table>
 <tr><td>Lena Zavaroni</td></tr>
 <tr><td>No really! The story of Hughie Green yet you completely skip over the existence of Lena Zavaroni. Shameful!<cite>Fanz Of Lena Zavaroni (Robcamstone)</cite></td></tr>
@@ -66,7 +66,7 @@ The programme is available on My5 until 31 December 2027 - <a class="external-li
 {: .clear}
 
 <figure class="fig3">
-<h3 id="crew"><a href="#crew">Crew</a></h3>
+<h2 id="crew"><a href="#crew">Crew</a></h2>
 <table>
 <tr><th>Camera Operator:</th><td>John Fisher</td></tr>
 <tr><th>Camera Assistant:</th><td>Ken Schijf</td></tr>
@@ -96,7 +96,7 @@ The programme is available on My5 until 31 December 2027 - <a class="external-li
 {: .clear}
 
 <figure class="fig3">
-<h3 id="archive"><a href="#archive">Archives</a></h3>
+<h2 id="archive"><a href="#archive">Archives</a></h2>
 <table>
 <tr><td>Airtime Footage</td></tr>
 <tr><td>Alamy</td></tr>

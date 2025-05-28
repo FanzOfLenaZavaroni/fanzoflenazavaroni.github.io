@@ -24,7 +24,7 @@ categories: [Discography:-Studio-Albums]
 
 <figure class="fig2" id="Tracks">
 <figcaption>
-<h3>Tracks</h3>
+<h2>Tracks</h2>
 <strong>A-Side</strong>
 </figcaption>
 <ol>

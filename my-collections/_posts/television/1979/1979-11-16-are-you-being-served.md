@@ -11,13 +11,13 @@ last_modified_at: 15 November 2023
 ---
 
 <figure class="fig1">
-<h3 id="screenshot"><a href="#screenshot">Screenshot</a></h3>
+<h2 id="screenshot"><a href="#screenshot">Screenshot</a></h2>
 <a href="/assets/images/BBC-PIDs/1920xn/p01tlmqw.jpg"><img src="/assets/images/BBC-PIDs/1920xn/p01tlmqw.jpg" class="full-width zoom-in" /></a>
 <cite>When the Head of Sports Department lets out the secret that Captain Peacock has a boil in a particularly painful spot, Peacock complains to Mr Rumbold. Result - he's volunteered to defend his honour in a boxing match.</cite>
 </figure>
 
 <figure class="fig2">
-<h3 id="dailymotion"><a href="#dailymotion">Dailymotion</a></h3>
+<h2 id="dailymotion"><a href="#dailymotion">Dailymotion</a></h2>
 <div class="responsive-video"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x804unp" width="100%" height="100%" allowfullscreen title="Dailymotion Video Player" > </iframe></div></div>
 <cite>Mrs. Slocombe's Cat Tiddles approximately 03:30 into the programme</cite>
 </figure>
@@ -32,7 +32,7 @@ last_modified_at: 15 November 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 <table>
 <tr><th style="width:30%;">Character</th><th style="width:70%;">Actor</th></tr>
 <tr><td>Mr Rumbold:</td><td>Nicholas Smith</td></tr>
@@ -50,7 +50,7 @@ last_modified_at: 15 November 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="crew"><a href="#crew">Crew and Sources</a></h3>
+<h2 id="crew"><a href="#crew">Crew and Sources</a></h2>
 <table>
 <tr><th colspan="2">Crew</th></tr>
 <tr><td style="width:30%;">Writer:</td><td style="width:70%;">Jeremy Lloyd</td></tr>

@@ -12,14 +12,14 @@ categories: [The-Stage-and-Television-Today, Lena-and-Bonnie, Bonnie-Langford, O
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover">Front Cover</h3>
+<h2 id="front-cover">Front Cover</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1978-03-30-the-stage-and-television-today-front-cover.png"><img src="/assets/images/the-stage-and-television-today/1978-03-30-the-stage-and-television-today-front-cover.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-18">Page 18</h3>
+<h2 id="page-18">Page 18</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1978-03-30-the-stage-and-television-today-page-18.png"><img src="/assets/images/the-stage-and-television-today/1978-03-30-the-stage-and-television-today-page-18.png" class="full-width zoom-in"></a>
 </figure>
@@ -28,7 +28,7 @@ categories: [The-Stage-and-Television-Today, Lena-and-Bonnie, Bonnie-Langford, O
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-18-cropped">Page 18 - Cropped</h3>
+<h2 id="page-18-cropped">Page 18 - Cropped</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1978-03-30-the-stage-and-television-today-page-18-cropped.png"><img src="/assets/images/the-stage-and-television-today/1978-03-30-the-stage-and-television-today-page-18-cropped.png" class="full-width zoom-in"></a>
 </figure>

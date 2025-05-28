@@ -21,7 +21,7 @@ last_modified_at: 7 August 2024
 
 <figure class="fig3">
 <figcaption>
-<h3 id="bbc-news-online"><a href="#bbc-news-online">BBC News Online</a></h3>
+<h2 id="bbc-news-online"><a href="#bbc-news-online">BBC News Online</a></h2>
 </figcaption>
 <img src="/assets/images/locations/futurist.jpg" class="full-width"/>
 <figcaption>

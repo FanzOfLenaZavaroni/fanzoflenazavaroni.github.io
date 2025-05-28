@@ -16,14 +16,14 @@ Lena Zavaroni co-starred with comedian Jimmy Cricket in a Summer Season variety 
 
 <figure class="fig1">
 <figcaption>
-<h3 id="flyer"><a href="#flyer">Flyer</a></h3>
+<h2 id="flyer"><a href="#flyer">Flyer</a></h2>
 </figcaption>
 <a href="/assets/images/theatres/1986-07-05-holiday-startime-01.jpg"><img src="/assets/images/theatres/1986-07-05-holiday-startime-01.jpg" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="front"><a href="#front">Front of Programme</a></h3>
+<h2 id="front"><a href="#front">Front of Programme</a></h2>
 </figcaption>
 <img src="/assets/images/theatres/1986-07-05-holiday-startime-02.jpg" class="full-width">
 </figure>
@@ -32,7 +32,7 @@ Lena Zavaroni co-starred with comedian Jimmy Cricket in a Summer Season variety 
 
 <figure class="fig1">
 <figcaption>
-<h3 id="performers"><a href="#performers">Performers</a></h3>
+<h2 id="performers"><a href="#performers">Performers</a></h2>
 </figcaption>
 <table>
 <tr><th>Comedian</th><td>Jimmy Cricket</td></tr>
@@ -46,7 +46,7 @@ Lena Zavaroni co-starred with comedian Jimmy Cricket in a Summer Season variety 
 
 <figure class="fig2">
 <figcaption>
-<h3 id="production"><a href="#production">Production</a></h3>
+<h2 id="production"><a href="#production">Production</a></h2>
 </figcaption>
 <table>
 <tr><th>Choreographer</th><td>Brian Rogers</td></tr>

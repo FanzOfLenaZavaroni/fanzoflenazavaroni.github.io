@@ -10,9 +10,9 @@ categories: [Newspaper&#58; Sunday-Mail, OnThisDay27May]
 ---
 
 <figure class="fig3">
-<div class="Cardlayout">
+<div class="CardLayout">
 <div class="CardItem">
-<h3 id="infobox1" class="infobox"><a href="#infobox1">Quote</a></h3>
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Quote</a></h2>
 </div>
 <div class="CardItem split">
 <blockquote>

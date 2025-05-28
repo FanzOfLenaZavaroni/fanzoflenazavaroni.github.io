@@ -10,7 +10,7 @@ last_modified_at: 15 June 2023
 ---
 
 <figure class="fig3">
-<h3 id="quote"><a href="#quote">Quote</a></h3>
+<h2 id="quote"><a href="#quote">Quote</a></h2>
 <blockquote>Starali&sacute;my sie wybrac piosenki, kt&oacute;re znajdq zastoswanie nie tylko w dyskotekach,  ale kt&oacute;rych chetnie posluchacie takze w domu.</blockquote>
 <cite>Marek Gasy&nacute;ski</cite>
 
@@ -22,14 +22,14 @@ last_modified_at: 15 June 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front"><a href="#front">Front Cover</a></h3>
+<h2 id="front"><a href="#front">Front Cover</a></h2>
 </figcaption>
 <a href="/assets/images/albums/1977-hits-of-bbc-and-alaska--rec-1-fc.jpg"><img src="/assets/images/albums/1977-hits-of-bbc-and-alaska--rec-1-fc.jpg" class="full-width zoom-in" alt="Front Cover for the album HITS OF BBC AND ALASKA REC 1 (1977)" /></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="back"><a href="#back">Back Cover</a></h3>
+<h2 id="back"><a href="#back">Back Cover</a></h2>
 </figcaption>
 <a href="/assets/images/albums/1977-hits-of-bbc-and-alaska--rec-1-bc.jpg"><img src="/assets/images/albums/1977-hits-of-bbc-and-alaska--rec-1-bc.jpg" class="full-width zoom-in" alt="Back Cover for the album HITS OF BBC AND ALASKA REC 1 (1977)" /></a>
 </figure>
@@ -37,7 +37,7 @@ last_modified_at: 15 June 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="details"><a href="#details">Details</a></h3>
+<h2 id="details"><a href="#details">Details</a></h2>
 <table>
 <tr><th style="width:50%">Artist:</th><td>Various</td></tr>
 <tr><th>Label:</th><td>Polskie Nagrania Muza: SX 1485</td></tr>
@@ -50,7 +50,7 @@ last_modified_at: 15 June 2023
 {: .clear}
 
 <figure class="fig1">
-<h3 id="a-side"><a href="#a-side">A Side</a></h3>
+<h2 id="a-side"><a href="#a-side">A Side</a></h2>
 <ol>
 <li style="outline: 4px dashed darkorange; outline-offset: -4px;"><b>Lena Zavaroni:</b> Some Of These Days</li>
 <li><b>Graffiti:</b> Come Together</li>
@@ -62,7 +62,7 @@ last_modified_at: 15 June 2023
 </figure>
 
 <figure class="fig2">
-<h3 id="b-side"><a href="#b-side">B Side</a></h3>
+<h2 id="b-side"><a href="#b-side">B Side</a></h2>
 <ol>
 <li><b>Brian Keith's Creation:</b> Memories Of You</li>
 <li><b>Scarlet Jade:</b> The Wishing Well</li>

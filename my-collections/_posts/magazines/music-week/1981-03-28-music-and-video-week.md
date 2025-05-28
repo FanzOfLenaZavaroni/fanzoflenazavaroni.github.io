@@ -20,7 +20,7 @@ last_modified_at: 28 March 2024
 </figure>
 
 <figure class="fig3">
-<h3 id="page-4"><a href="#page-4">Page 4 - President releases will follow deals</a></h3>
+<h2 id="page-4"><a href="#page-4">Page 4 - President releases will follow deals</a></h2>
 <blockquote>
 <p>AFTER a series of recently completed deals, President Records is releasing new singles by Lena Zavaroni, Dorothy Squires, Kathy Kirby, and a live Troggs album recorded at the New York rock club Max's Kansas City.</p>
 <p>Lena Zavaroni has been signed to President on an exclusive, worldwide contract, and her single, Roses And Rainbows (PT 492) is produced by Marvin Hamlisch. It will be featured in her own BBC 1 series which starts next month.</p>

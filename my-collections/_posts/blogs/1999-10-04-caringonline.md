@@ -12,7 +12,7 @@ categories: [Deleted-Online-Articles, OnThisDay4October]
 ### **NOTE:** The Article is no longer available via the Caring Online Website, which is why I have published it in full below:
 
 <blockquote>
-<h3 style="font-weight:bold;color:#008080;">Zavaroni Operation Was Not A New Technique</h3>
+<h2 style="font-weight:bold;color:#008080;">Zavaroni Operation Was Not A New Technique</h2>
 
 <p>The hospital where tragic former childhood star Lena Zavaroni died following brain surgery has rejected claims she had undergone pioneering treatment.</p>
 
@@ -42,7 +42,7 @@ categories: [Deleted-Online-Articles, OnThisDay4October]
 
 <p>A post mortem examination will be carried out this week before Cardiff coroner Dr Lawrence Addicott decides whether to order an inquest into Miss Zavaroni's death.</p>
 
-<h3 style="font-weight:bold;color:#00ff00;">Lena Zavaroni dies</h3>
+<h2 style="font-weight:bold;color:#00ff00;">Lena Zavaroni dies</h2>
 
 <p>Former child singing star Lena Zavaroni has died, aged 35.</p>
 
@@ -60,7 +60,7 @@ categories: [Deleted-Online-Articles, OnThisDay4October]
 
 <p>Former Fleet Street editor and radio and TV presenter Derek Jameson expressed his sadness at the news of Zavaroni's death. He said she had appeared on his Sky TV chat show Jameson Tonight and hadstruck him as "bright and very bubbly". He said: "Only 35. What a tragic waste of a life. She showed incredible potential in her early years and then she was struck down by this terrible disease anorexia nervosa. She was destroyed by something as ridiculous as an eating disorder. Surely something more can be done to help these young people who have this terribly serious problem." Mr Jameson added: "She was bright and bubbly but she was also very nervous. I think her great handicap was that she lacked confidence. When you interviewed her you felt she was making an immense effort to be a star and it was all a bit much for her. She lacked that vital spark of confidence that takes you to the top."</p>
 
-<h3 style="font-weight:bold;color:#008080;">Star dies following brain surgery</h3>
+<h2 style="font-weight:bold;color:#008080;">Star dies following brain surgery</h2>
 
 <p>Lena Zavaroni, who shot to fame as a child performer, died following brain surgery in a final attempt to beat anorexia. An inquest is likely to be held into her death at the age of 35. Lena was admitted to the 1,800-bed University Hospital of Wales in Cardiff last month for the treatment.</p>
 
@@ -70,7 +70,7 @@ categories: [Deleted-Online-Articles, OnThisDay4October]
 
 <p>The operation was developed in the 1930s, when the medical establishment embraced it enthusiastically. It remained popular until the late 1950s when, with the introduction of effective drugs, the operation became a rarely-performed procedure. Doctors wishing to perform a leucotomy now must first get a second opinion and then permission from the Mental Health Act Commission. Mr Burrows said: "Miss Zavaroni came to Cardiff because we are one of the few centers that carry out this operation.  "The singer's death will be reported to Cardiff Coroner Dr. Lawrence Addicott because she died following elective surgery."</p>
 
-<h3 style="font-weight:bold;color:#993333;">Talent show</h3>
+<h2 style="font-weight:bold;color:#993333;">Talent show</h2>
 
 <p>Lena was born on the Isle of Bute in Scotland and shot to stardom at the age of 10 on Hughie Green's talent show in the 1970s. But she developed an eating disorder by the time she was 13 and at one time her weight went down to 3 stone 12lbs. She was so ill that she begged doctors to remove part of her brain that she believed was controlling her anorexia.</p>
 

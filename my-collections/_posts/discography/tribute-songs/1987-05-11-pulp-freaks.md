@@ -55,7 +55,7 @@ permalink: /discography/tribute-songs/:name
 
 {: .clear}
 
-<h3 id="lyrics"><a href="#lyrics">Anorexic Beauty Lyrics</a></h3>
+<h2 id="lyrics"><a href="#lyrics">Anorexic Beauty Lyrics</a></h2>
 <blockquote>
 <p>Sitting alone on a cold bar stool</p>
 <p>Your cold, hard eyes make me feel a fool</p>
@@ -97,15 +97,15 @@ permalink: /discography/tribute-songs/:name
 </blockquote>
 <cite><a class="external-link" href="https://www.pulpwiki.net/Pulp/AnorexicBeauty">David Kurley</a></cite>
 
-<h3 id="dedicated"><a href="#dedicated">Dedicated</a></h3>
+<h2 id="dedicated"><a href="#dedicated">Dedicated</a></h2>
 Pulp dedicated Track No: 7 - Anorexic Beauty to Lena Zavaroni.
 
-<h3 id="details"><a href="#details">Details</a></h3>
+<h2 id="details"><a href="#details">Details</a></h2>
 <p>It wasn’t originally a Pulp song. Written by David Kurley of early-Pulp contemporaries New Model Soldier, it was sold to Russell for £1 after a gig. The song dates back to an earlier David Kurley band, Blimp, who featured a young Magnus Doyle on drums.</p>
 
 <cite><a class="external-link" href="https://pulpsongs.wordpress.com/2012/08/11/49-anorexic-beauty">Pulp Songs Wordpress</a> &#8592; follow the link for full article</cite>
 
-<h3 id="my-personal-view-on-the-track"><a href="#my-personal-view-on-the-track">My Personal View On The Track</a></h3>
+<h2 id="my-personal-view-on-the-track"><a href="#my-personal-view-on-the-track">My Personal View On The Track</a></h2>
 <p>I believe the song aims to point out the contradictory feelings we have towards a person with anorexia we may love and care for the individual and even find them beautiful, while finding the way they look horrific due to effects of the anorexia. Which can lead to a conflict of feelings not only for the individual with anorexia but for their family and friends.</p>
 <p>It is sad to note that some Pro-Anorexia websites use the song to justify anorexia as a lifestyle chose, when in fact it's a physiological response to a mental health issue and also shows that the creators of such websites have missed the point of the song.</p>
 

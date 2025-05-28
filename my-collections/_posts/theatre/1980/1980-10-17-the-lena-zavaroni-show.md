@@ -14,7 +14,7 @@ Lena Zavaroni stars in her own show at The Webbington, Weston-Super-Mare.
 
 <figure class="fig3">
 <figcaption>
-<h3 id="glasgow-herald"><a href="#glasgow-herald">Glasgow Herald</a></h3>
+<h2 id="glasgow-herald"><a href="#glasgow-herald">Glasgow Herald</a></h2>
 <p>Lena later sued the Hotel group that owned the venue, due to alleged non-payment of her fees.</p>
 </figcaption>
 <a href="/assets/images/newspapers/1981-01-10-lena-sues.jpg"><img src="/assets/images/newspapers/1981-01-10-lena-sues.jpg" class="full-width zoom-in"/></a>

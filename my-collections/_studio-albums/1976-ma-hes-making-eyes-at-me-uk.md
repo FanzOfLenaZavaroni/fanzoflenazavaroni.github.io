@@ -26,7 +26,7 @@ last_modified_at: 17 November 2023
 {: .clear}
 
 <figure class="fig1">
-<h3 id="cover"><a href="#cover">Album Cover and Details</a></h3>
+<h2 id="cover"><a href="#cover">Album Cover and Details</a></h2>
 <img src="/assets/images/albums/1976-lena-zavaroni-ma-hes-making-eyes-at-me-pickwick.jpg" class="full-width" alt="Pickwick's Red Cover for the album Ma! (He's Making Eyes At Me) Pickwick – SHM 891 (1976)" />
 <figcaption>
 <table>
@@ -41,7 +41,7 @@ last_modified_at: 17 November 2023
 </figure>
 
 <figure class="fig2">
-<h3 id="tracks"><a href="#tracks">Tracks</a></h3>
+<h2 id="tracks"><a href="#tracks">Tracks</a></h2>
 <figcaption>
 <strong>A-Side</strong>
 </figcaption>

@@ -11,14 +11,14 @@ last_modified_at: 6 April 2024
 ---
 
 <figure class="fig1">
-<h3 id="infobox1"><a href="#infobox1">Front Cover</a></h3>
+<h2 id="infobox1"><a href="#infobox1">Front Cover</a></h2>
 <a href="/assets/images/newspapers/billboard/1979-02-17-billboard-fc.png"><img src="/assets/images/newspapers/billboard/1979-02-17-billboard-fc.png" class="full-width zoom-in" /></a>
 <cite class="whitespace">Billboard - 10 February 2004,
 <a class="external-link" href="https://www.worldradiohistory.com/Archive-All-Music/Billboard/70s/1979/Billboard%201979-02-17.pdf">Page 1 of PDF</a></cite>
 </figure>
 
 <figure class="fig2">
-<h3 id="infobox2"><a href="#infobox2">Page 105</a></h3>
+<h2 id="infobox2"><a href="#infobox2">Page 105</a></h2>
 <a href="/assets/images/newspapers/billboard/1979-02-17-billboard-page-105.png"><img src="/assets/images/newspapers/billboard/1979-02-17-billboard-page-105.png" class="full-width zoom-in" /></a>
 <cite class="whitespace">Billboard - 10 February 2004,
 <a class="external-link" href="https://www.worldradiohistory.com/Archive-All-Music/Billboard/70s/1979/Billboard%201979-02-17.pdf#page=105">Page 105 of PDF</a></cite>
@@ -27,7 +27,7 @@ last_modified_at: 6 April 2024
 {: .clear}
 
 <figure class="fig3">
-<h3 id="quote"><a href="#quote">Quotes From Page 105</a></h3>
+<h2 id="quote"><a href="#quote">Quotes From Page 105</a></h2>
 <blockquote>
 <p><strong>Ibgui Launches Twin Labels</strong></p>
 <p><strong>PARIS</strong> &#8212; Charles Ibgui, former managing director of Carabine Musique here, has launched his own record company Atoll featuring two Labels, Atoll and Jonathan, and the outfit will also embrace music publishing interests.</p>
@@ -37,7 +37,7 @@ last_modified_at: 6 April 2024
 </figure>
 
 <figure class="fig3">
-<h3 id="infobox3"><a href="#infobox3">45cat</a></h3>
+<h2 id="infobox3"><a href="#infobox3">45cat</a></h2>
 <ul>
 <li><a class="external-link" href="https://www.45cat.com/label/jonathan">Jonathan - Label Discography</a></li>
 <li><a class="external-link" href="https://www.45cat.com/label/atoll">Atoll - Label Discography</a></li>
