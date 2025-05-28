@@ -6,7 +6,7 @@ subtitle: Magazine
 description: One page article criticising Lena for being open about her problems and for seeking pity.
 media: Magazine
 post_description: One page article criticising Lena for being open about her problems and for seeking pity.
-categories: [Magazines, Woman's-Realm, OnThisday2Febuary]
+categories: [Magazines, Woman's-Realm, OnThisDay2Febuary]
 ---
 
 <figure class="fig1">

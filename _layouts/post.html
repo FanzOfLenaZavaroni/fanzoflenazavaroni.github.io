@@ -5,35 +5,53 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
 <figure class="fig3">
-<div class="LenaCard">
+<div class="Cardlayout">
 <div class="CardItem">
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline" id="{{ page.maintitle | escape }}"><a href="#{{ page.maintitle | escape }}">{{ page.maintitle }}</a></h1>
+    <h1 class="post-title p-name" itemprop="name headline" id="{{ page.maintitle | escape }}">
+      <a href="#{{ page.maintitle | escape }}">{{ page.maintitle }}</a>
+    </h1>
     <h2>{{ page.subtitle }}</h2>
     <p class="post-meta">
       {%- if page.before -%}
-       <span itemprop="before" itemscope itemtype="http://schema.org/Person"><span class="p-before h-card" itemprop="name">{{ page.before }}</span></span>
+       <span itemprop="before" itemscope itemtype="http://schema.org/Person">
+         <span class="p-before h-card" itemprop="name">{{ page.before }}</span>
+       </span>
       {%- endif -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}</time>
+        {{ page.date | date: date_format }}
+      </time>
       {%- if page.after -%}
-       <span itemprop="after" itemscope itemtype="http://schema.org/Person"><span class="p-after h-card" itemprop="name">{{ page.after }}</span></span>
-      {%- endif -%}</p>
+       <span itemprop="after" itemscope itemtype="http://schema.org/Person">
+         <span class="p-after h-card" itemprop="name">{{ page.after }}</span>
+       </span>
+      {%- endif -%}
+    </p>
   </header>
 </div>
 </div>
 </figure>
 
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+<div class="post-content e-content" itemprop="articleBody">
+  {{ content }}
+</div>
 
 <figure class="fig3">
-<div class="LenaCard">
+<div class="Cardlayout">
 <div class="CardItem">
   <h2 id="categories"><a href="#categories">Related Categories</a></h2>
 </div>
+
+{% assign skip_categories = site.pages | where: "permalink", "/categories/" | first %}
+{% assign skip_list = skip_categories.skip-cats %}
+
+{% if skip_list and skip_list.size > 0 %}
+  <p class="info-message">
+    Some categories are displayed but not linked because they serve specific functions and are excluded from the Categories page.
+  </p>
+{% endif %}
+
 <div class="CardItem split">
 <span class="post-categories">
   {% if post %}
@@ -41,9 +59,23 @@ layout: default
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
+  
   {% for category in categories %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category  | replace: "-", " "}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
+    {% assign skip = false %}
+    
+    {% for skip_cat in skip_list %}
+      {% if category contains skip_cat %}
+        {% assign skip = true %}
+      {% endif %}
+    {% endfor %}
+    
+    {% if skip %}
+      {{ category | replace: "-", " " }}
+    {% else %}
+      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category | replace: "-", " " }}</a>
+    {% endif %}
+    
+    {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </span>
 </div>
@@ -51,7 +83,7 @@ layout: default
 </figure>
 
 <figure class="fig3">
-<div class="LenaCard">
+<div class="Cardlayout">
 <div class="CardItem">
 <h2 id="comments"><a title="Category=General" href="#comments">Comments</a></h2>
 <div class="CardItem split">
@@ -75,3 +107,4 @@ layout: default
 </figure>
 
 </article>
+
