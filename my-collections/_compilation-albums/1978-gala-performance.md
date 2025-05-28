@@ -11,14 +11,14 @@ last_modified_at: 15 June 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front"><a href="#front">Front Cover</a></h3>
+<h2 id="front"><a href="#front">Front Cover</a></h2>
 </figcaption>
 <a href="/assets/images/albums/1978-various-artists-gala-performance-ab-fc.jpg"><img src="/assets/images/albums/1978-various-artists-gala-performance-ab-fc.jpg" class="full-width zoom-in" alt="Front Cover for the album Gala Performance (1978)" /></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="back"><a href="#back">Back Cover</a></h3>
+<h2 id="back"><a href="#back">Back Cover</a></h2>
 </figcaption>
 <a href="/assets/images/albums/1978-various-artists-gala-performance-2-ab-bc.jpg"><img src="/assets/images/albums/1978-various-artists-gala-performance-2-ab-bc.jpg" class="full-width zoom-in" alt="Back Cover for the album Gala Performance (1978)"/></a>
 </figure>
@@ -27,7 +27,7 @@ last_modified_at: 15 June 2023
 
 <figure class="fig3">
 <figcaption>
-<h3 id="details"><a href="#details">Details</a></h3>
+<h2 id="details"><a href="#details">Details</a></h2>
 </figcaption>
 <table>
 <tr><th style="width:50%">Artist:</th><td>Various</td></tr>
@@ -44,7 +44,7 @@ last_modified_at: 15 June 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="a-side"><a href="#a-side">A Side</a></h3>
+<h2 id="a-side"><a href="#a-side">A Side</a></h2>
 </figcaption>
 <ol>
 <li><b>Gene Pitney:</b> 24 Hours From Tulsa</li>
@@ -62,7 +62,7 @@ last_modified_at: 15 June 2023
 
 <figure class="fig2">
 <figcaption>
-<h3 id="b-side"><a href="#b-side">B Side</a></h3>
+<h2 id="b-side"><a href="#b-side">B Side</a></h2>
 </figcaption>
 <ol>
 <li><b>Des O'Connor:</b> What I Did For Love</li>

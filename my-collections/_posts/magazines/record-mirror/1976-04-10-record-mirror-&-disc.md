@@ -22,7 +22,7 @@ last_modified_at: 11 April 2024
 </figure>
 
 <figure class="fig3">
-<h3 id="infobox3">LOOK FOR...</h3>
+<h2 id="infobox3">LOOK FOR...</h2>
 <blockquote>
 <p>London Weekend TV, Friday, April 9; Russell Harty's guests are Edna Everidge, Helen Mirren. Lena Zavaroni.</p>
 </blockquote>

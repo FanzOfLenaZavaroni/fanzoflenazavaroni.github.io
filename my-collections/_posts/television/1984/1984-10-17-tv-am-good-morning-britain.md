@@ -20,7 +20,7 @@ categories: [ITV, TV&#45;AM, Good-Morning-Britain, OnThisDay17October]
 {: .clear}
 
 <figure class="fig3">
-<h3 id="presenters"><a href="#presenters">Presenters</a></h3>
+<h2 id="presenters"><a href="#presenters">Presenters</a></h2>
 <table>
 <tr><th style="width:50%;">Presenters:</th><td style="width:50%;">Anne Diamond</td></tr>
 <tr><th>Presenters:</th><td>Nick Owen</td></tr>
@@ -34,7 +34,7 @@ categories: [ITV, TV&#45;AM, Good-Morning-Britain, OnThisDay17October]
 {: .clear}
 
 <figure class="fig3">
-<h3 id="guests"><a href="#guests">Guests</a></h3>
+<h2 id="guests"><a href="#guests">Guests</a></h2>
 <table>
 <tr style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lz"><th style="width:50%;">Singer and Television Hostess:</th><td style="width:50%;">Lena Zavaroni</td></tr>
 <tr><th>Former Page 3 Model Turned Pop Singer:</th><td>Samantha Fox</td></tr>
@@ -48,7 +48,7 @@ categories: [ITV, TV&#45;AM, Good-Morning-Britain, OnThisDay17October]
 {: .clear}
 
 <figure class="fig3">
-<h3 id="production"><a href="#production">Production</a></h3>
+<h2 id="production"><a href="#production">Production</a></h2>
 <table>
 <tr><th style="width:50%;">Director:</th><td style="width:50%;">Alan Goway</td></tr>
 <tr><th>Programme Editor:</th><td>Chris Riley</td></tr>

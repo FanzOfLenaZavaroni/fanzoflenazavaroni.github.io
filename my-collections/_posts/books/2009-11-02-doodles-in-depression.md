@@ -13,12 +13,12 @@ last_modified_at: 23 December 2023
 ---
 
 <figure class="fig1">
-<h3 id="cover"><a href="#cover">eBook Front Cover</a></h3>
+<h2 id="cover"><a href="#cover">eBook Front Cover</a></h2>
 <img src="/assets/images/books/ISBN-1847471595-Doodles in Depression.jpeg" class="full-width"/>
 </figure>
 
 <figure class="fig2">
-<h3 id="summary"><a href="#summary">Summary</a></h3>
+<h2 id="summary"><a href="#summary">Summary</a></h2>
 <blockquote>Doodles in Depression' is Lorna Naomi Murray's attempt to make sense of her clinical depression. This thoroughly researched, yet gloriously random and spontaneous book delves into Lorna's mind as she 'comes out' as a depressive and attempts to bring herself out of her depression. This is a book that will make sense and possibly bring comfort to fellow sufferers of clinical depression.</blockquote>
 <cite><a class="external-link" href="https://chipmunkapublishing.com/product/chipmunka-anthology-volume-three-the/">Chipmunka Publishing</a></cite>
 </figure>
@@ -26,7 +26,7 @@ last_modified_at: 23 December 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="ebook"><a href="#ebook">eBook</a></h3>
+<h2 id="ebook"><a href="#ebook">eBook</a></h2>
 <table>
 <tr><th style="width:50%">Full Title:</th><td style="width:50%">Doodles in Depression</td></tr>
 <tr><th>Author:</th><td>Lorna Naomi Murray</td></tr>
@@ -47,7 +47,7 @@ last_modified_at: 23 December 2023
 
 
 <figure class="fig3">
-<h3 id="quote1"><a href="#quote1">Quote 1</a></h3>
+<h2 id="quote1"><a href="#quote1">Quote 1</a></h2>
 <blockquote>Lobotomy, Lobotomy, Lobotomy. Don't bet your last neuron on It. Patient A did and she's living on empty (Francis Famer). Patient B did, was left incapacitated and institutionalized for life (Rose Kennedy). Patient C did, develop a raging infection and croaked three months later (Lena Zavaroni).</blockquote>
 <cite>Page 15 "Doodles in Depression" or Page 126 "Chipmunka Anthology Volume Three" </cite>
 </figure>
@@ -55,7 +55,7 @@ last_modified_at: 23 December 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="quote2"><a href="#quote2">Quote 2</a></h3>
+<h2 id="quote2"><a href="#quote2">Quote 2</a></h2>
 <blockquote>﻿September 1999. Another celeb-victim-of-lobotomy-gone-wrong, Little Lena Zavaroni, Scottish child star, winner of 'Opportunity Knocks', develops severe depression and anorexia, is lobotomised, gets an infection and pegs, aged thirty-five years. A spokesman fobs off the nation with the following explanation; 'A special surgical procedure is available as a last-resort treatment for the most severe cases of chronic clinical depression. It's not a treatment for anorexia (Lena suffered from severe anorexia) and it's not a lobotomy. It's available only at a small number of specialist neurosurgical centres in the United Kingdom, of which the University Hospital of Wales is one. This is not an experimental or pioneering procedure - the NHS treatment has been performed successfully at the hospital for over six years. Each operation is approved individually by the Mental Health Commission and surgery can only be performed after a rigorous examination of all the facts in each case. This includes an interview with the patient and all the healthcare professionals involved" (Vonnegut, 2005). Mr Coroner (hey Mister Coroner) records a verdict of death by natural causes Do they honestly think we were born yesterday?</blockquote>
 <cite>Page 17 "Doodles in Depression" or Page 129 "Chipmunka Anthology Volume Three" </cite>
 </figure>
@@ -63,7 +63,7 @@ last_modified_at: 23 December 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="anthology"><a href="#anthology">Chipmunka Anthology Volume Three</a></h3>
+<h2 id="anthology"><a href="#anthology">Chipmunka Anthology Volume Three</a></h2>
 <table>
 <tr><th style="width:50%">Full Title:</th><td style="width:50%">Chipmunka Anthology Volume Three - Four Examples of Mental Health Empowerment
 By Various Authors

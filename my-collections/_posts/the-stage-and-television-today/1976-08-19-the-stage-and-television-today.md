@@ -12,14 +12,14 @@ categories: [The-Stage-and-Television-Today, OnThisDay19August]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover"><a href="#front-cover">Front Cover</a></h3>
+<h2 id="front-cover"><a href="#front-cover">Front Cover</a></h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1976-08-19-the-stage-and-television-today-front-cover.png"><img src="/assets/images/the-stage-and-television-today/1976-08-19-the-stage-and-television-today-front-cover.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-12"><a href="#page-12">Page 12</a></h3>
+<h2 id="page-12"><a href="#page-12">Page 12</a></h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1976-08-19-the-stage-and-television-today-page-12.png"><img src="/assets/images/the-stage-and-television-today/1976-08-19-the-stage-and-television-today-page-12.png" class="full-width zoom-in"></a>
 <figcaption>
@@ -31,7 +31,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay19August]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-60"><a href="#page-60">Page 60</a></h3>
+<h2 id="page-60"><a href="#page-60">Page 60</a></h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1976-08-19-the-stage-and-television-today-page-60.png"><img src="/assets/images/the-stage-and-television-today/1976-08-19-the-stage-and-television-today-page-60.png" class="full-width zoom-in"></a>
 <figcaption>
@@ -41,7 +41,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay19August]
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-69"><a href="#page-69">Page 69</a></h3>
+<h2 id="page-69"><a href="#page-69">Page 69</a></h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1976-08-19-the-stage-and-television-today-page-69.png"><img src="/assets/images/the-stage-and-television-today/1976-08-19-the-stage-and-television-today-page-69.png" class="full-width zoom-in"></a>
 <figcaption>
@@ -53,7 +53,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay19August]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-81"><a href="#page-81">Page 81</a></h3>
+<h2 id="page-81"><a href="#page-81">Page 81</a></h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1976-08-19-the-stage-and-television-today-page-81.png"><img src="/assets/images/the-stage-and-television-today/1976-08-19-the-stage-and-television-today-page-81.png" class="full-width zoom-in"></a>
 <figcaption>
@@ -63,7 +63,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay19August]
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-87"><a href="#page-87">Page 87</a></h3>
+<h2 id="page-87"><a href="#page-87">Page 87</a></h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1976-08-19-the-stage-and-television-today-page-87.png"><img src="/assets/images/the-stage-and-television-today/1976-08-19-the-stage-and-television-today-page-87.png" class="full-width zoom-in"></a>
 <figcaption>

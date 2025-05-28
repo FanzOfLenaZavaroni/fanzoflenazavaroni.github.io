@@ -11,14 +11,14 @@ categories: [BBC-Two, OnThisDay16March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="screenshot">Screenshot</h3>
+<h2 id="screenshot">Screenshot</h2>
 </figcaption>
 <img src="/assets/images/BBC/The-Bachelors-Show-05.jpg" class="full-width">
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="summary">Summary</h3>
+<h2 id="summary">Summary</h2>
 <p>Lena sings "What A Wonderful World" as she wanders around in a make believe garden. She then performs a lively song and dance version of "The Spaniard That Blighted My Life". Finally she joins the Bachelors and the Vernons for a version of "Viva Espana".</p>
 <p><strong>External Website:</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1975-03-16#at-20.15">BBC Genome</a></p>
 </figcaption>
@@ -28,7 +28,7 @@ categories: [BBC-Two, OnThisDay16March]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="cast">Cast</h3>
+<h2 id="cast">Cast</h2>
 <table>
 <tr><th style="width:50%;">Hosts</th><td style="width:50%;">The Bachelors</td></tr>
 <tr><th>Singer</th><td>Lena Zavaroni</td></tr>
@@ -39,7 +39,7 @@ categories: [BBC-Two, OnThisDay16March]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="cast">Cast</h3>
+<h2 id="cast">Cast</h2>
 <table>
 <tr><th style="width:50%;">Orchestra conductor</th><td style="width:50%;">Norman Percival</td></tr>
 <tr><th>Choreography</th><td>Lesley Brooks</td></tr>

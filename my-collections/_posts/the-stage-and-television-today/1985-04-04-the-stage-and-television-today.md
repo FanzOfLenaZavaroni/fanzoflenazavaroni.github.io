@@ -12,14 +12,14 @@ categories: [The-Stage-and-Television-Today, OnThisDay4April]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover">Front Cover</h3>
+<h2 id="front-cover">Front Cover</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1985-04-04-the-stage-front-cover.png"><img src="/assets/images/the-stage-and-television-today/1985-04-04-the-stage-front-cover.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-3">Page 3</h3>
+<h2 id="page-3">Page 3</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1985-04-04-the-stage-page-3.png"><img src="/assets/images/the-stage-and-television-today/1985-04-04-the-stage-page-3.png" class="full-width zoom-in"></a>
 </figure>
@@ -28,7 +28,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay4April]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-3-cropped">Page 3 - Cropped</h3>
+<h2 id="page-3-cropped">Page 3 - Cropped</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1985-04-04-the-stage-page-3-cropped.png"><img src="/assets/images/the-stage-and-television-today/1985-04-04-the-stage-page-3-cropped.png" class="full-width zoom-in"></a>
 </figure>

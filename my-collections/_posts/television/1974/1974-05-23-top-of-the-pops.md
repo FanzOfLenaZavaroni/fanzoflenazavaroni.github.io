@@ -10,7 +10,7 @@ last_modified_at: 22 May 1974
 ---
 
 <figure class="fig3">
-<h3 id="infobox1"><a href="#infobox1">Cast</a></h3>
+<h2 id="infobox1"><a href="#infobox1">Cast</a></h2>
 <p><strong>Tony Blackburn:</strong> Presenter</p>
 <p><strong>Bryan Ferry:</strong> The ‘In’ Crowd (and charts) (23)</p>
 <p><strong>Showaddywaddy:</strong> Hey Rock And Roll (5)</p>
@@ -27,7 +27,7 @@ last_modified_at: 22 May 1974
 {: .clear}
 
 <figure class="fig3">
-<h3 id="infobox2"><a href="#infobox2">Crew</a></h3>
+<h2 id="infobox2"><a href="#infobox2">Crew</a></h2>
 
 <p><strong>Johnny Pearson:</strong> Executive Producer</p>
 <p><strong>Robin Nash:</strong> Producer</p>
@@ -40,7 +40,7 @@ last_modified_at: 22 May 1974
 {: .clear}
 
 <figure class="fig3">
-<h3 id="infobox3"><a href="#infobox3">External Website</a></h3>
+<h2 id="infobox3"><a href="#infobox3">External Website</a></h2>
 <p><strong>BBC Genome:</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1974-05-23#at-19.25">BBC One London, 23 May 1974, 19.25</a></p>
 </figure>
 

@@ -12,7 +12,7 @@ There are a number of charities with the leters SOS as part of their name so at 
 
 I had thought it was the following charity <a href="https://www.sos-childrensvillages.org/who-we-are/history">SOS Children's Villages</a> but a post by Loving Lena Zavaroni suggests that it must be another charity.
 
-<h3 id="infobox1"><a href="#infobox1">Performers</a></h3>
+<h2 id="infobox1"><a href="#infobox1">Performers</a></h2>
 <table>
 <tr><th style="width:50%;">Australian Entertainer</th><td style="width:50%;">Rolf Harris</td></tr>
 <tr><th>Scottish Singer</th><td>Lena Zavaroni</td></tr>

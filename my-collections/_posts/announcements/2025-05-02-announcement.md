@@ -8,7 +8,7 @@ categories: [Announcements, OnThisDay2May]
 ---
 
 <figure class="fig3">
-<div class="Cardlayout">
+<div class="CardLayout">
 <div class="CardItem">
 <p>I (Robcamstone) believe that media cannot be considered fair use if it features a watermark that was not authorized by the original copyright holder.</p>
 <p>As a result, <strong>Fanz of Lena Zavaroni no longer includes images or videos in its posts</strong>, and a significant number of previously shared images have been removed. This decision stems from the widespread practice of individuals taking copyrighted media, adding their own watermarks, and implying ownership, which I do not support.</p>

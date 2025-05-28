@@ -11,21 +11,21 @@ last_modified_at: 1 March 2024
 ---
 
 <figure class="fig1">
-<h3 id="infobox1"><a href="#infobox1">Front Cover</a></h3>
+<h2 id="infobox1"><a href="#infobox1">Front Cover</a></h2>
 <a href="/assets/images/magazines/music-week/1980-03-01-music-week-fc.png"><img src="/assets/images/magazines/music-week/1980-03-01-music-week-fc.png" class="full-width zoom-in" /></a>
 <cite>Music Week, 1 March 1980<br /><a class="external-link" href="https://www.worldradiohistory.com/UK/Music-Week/1980/Music-Week-1980-03-01.pdf">Page 1 of PDF</a></cite>
 </figure>
 
 <figure class="fig2">
-<h3 id="infobox2"><a href="#infobox2">Page 42</a></h3>
+<h2 id="infobox2"><a href="#infobox2">Page 42</a></h2>
 <a href="/assets/images/magazines/music-week/1980-03-01-music-week-page-42.png"><img src="/assets/images/magazines/music-week/1980-03-01-music-week-page-42.png" class="full-width zoom-in" /></a>
 <cite>Music Week, 1 March 1980<br /><a class="external-link" href="https://www.worldradiohistory.com/UK/Music-Week/1980/Music-Week-1980-03-01.pdf#page=42">Page 42 of PDF</a></cite>
 </figure>
 
 <figure class="fig3">
-<h3 id="infobox3"><a href="#infobox3">Quote - Page 42</a></h3>
+<h2 id="infobox3"><a href="#infobox3">Quote - Page 42</a></h2>
 <blockquote>
-<p><h3>Clyde Factors hosts awards</h3></p>
+<p><h2>Clyde Factors hosts awards</h2></p>
 CLYDE FACTORS, fourth annual Scotstar Record Awards show promises to be as big, and entertaining, an event as its predecessors. In association with the record industry, the Scottish distributor is hosting "a great get together" at Glasgow's Albany Hotel tonight (February 27) — giving Scottish dealers a rare chance to socialise with manufacturers.</p>
 <p>The show, once again produced by Archie McCulloch, will include presentation of the awards:</P>
 <ul style="text-transform: capitalize;">

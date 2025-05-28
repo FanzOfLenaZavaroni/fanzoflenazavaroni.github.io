@@ -16,7 +16,7 @@ categories: [Newspapers, Irish-Independent, OnThisDay14March]
 {: .clear}
 
 <figure class="fig3">
-<h3 id="quote"><a href="#quote">Quote</a></h3>
+<h2 id="quote"><a href="#quote">Quote</a></h2>
 <blockquote>
 <p>Not every child star enjoyed a subsequent happy life. Lena Zavaroni was only 10 when she won Opportunity Knocks for a record five weeks in a row in 1974. She went on to have an album in the Top Ten, appeared with Morecambe and Wise and sang for President Gerald Ford at the White House.</p>
 <p>But her career stuggled once her teens were over and she went on to develop severe anorexia and depression. Zavaroni died of pneumonia aged <s>36&nbsp;</s> 35 and weighing less than five stone.</p>

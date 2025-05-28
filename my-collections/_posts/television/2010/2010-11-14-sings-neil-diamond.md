@@ -23,7 +23,7 @@ Part of BBC Two's 'tribute night' for Neil Diamond, the programmed featured arch
 </figure>
 
 <figure class="fig3">
-<h3 id="infobox3"><a href="#infobox3">Notes</a></h3>
+<h2 id="infobox3"><a href="#infobox3">Notes</a></h2>
 <blockquote>
 <p>At the time of the original broadcast the BBC Channels were still broadcasting in Standard Definition (SD) for high definition (HD) viewers would have to watch BBC HD which was a channel that showed a selection of programmes from across the BBC's' other channels so limited in what was showed.</p>
 <table>

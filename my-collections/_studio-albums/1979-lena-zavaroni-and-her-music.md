@@ -10,7 +10,7 @@ last_modified_at: 25 March 2024
 ---
 
 <figure class="fig1">
-<h3 id="infobox1"><a href="#infobox1">Album Cover and Details</a></h3>
+<h2 id="infobox1"><a href="#infobox1">Album Cover and Details</a></h2>
 <img src="/assets/images/albums/lena-zavaroni-and-her-music.jpg" class="full-width" alt="Front Cover for the album Lena Zavaroni And Her Music (1979)" />
 <figcaption>
 <table>
@@ -24,7 +24,7 @@ last_modified_at: 25 March 2024
 </figure>
 
 <figure class="fig2">
-<h3 id="infobox2"><a href="#infobox2">Tracks</a></h3>
+<h2 id="infobox2"><a href="#infobox2">Tracks</a></h2>
 <figcaption>
 <strong>A-Side</strong>
 </figcaption>

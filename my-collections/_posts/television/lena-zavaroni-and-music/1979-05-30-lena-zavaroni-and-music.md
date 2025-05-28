@@ -24,12 +24,12 @@ last_modified_at: 26 November 2023
 {: .clear}
 
 <figure class="fig1">
-<h3 id="infobox1"><a href="#infobox1">BBC Publicity Photo</a></h3>
+<h2 id="infobox1"><a href="#infobox1">BBC Publicity Photo</a></h2>
 <img src="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg" class="full-width">
 </figure>
 
 <figure class="fig2">
-<h3 id="infobox2"><a href="#infobox2">Set List</a></h3>
+<h2 id="infobox2"><a href="#infobox2">Set List</a></h2>
 <ul>
 <li>Music Was My First Love (Lena a shorter version than the previous week this became the show's theme song)</li>
 <li>It's a Miracle/Take Me Back To Hollywood (Lena)</li>
@@ -46,7 +46,7 @@ last_modified_at: 26 November 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="infobox3"><a href="#infobox3">Cast</a></h3>
+<h2 id="infobox3"><a href="#infobox3">Cast</a></h2>
 <p><strong>Hostess and Signer:</strong> Lena Zavaroni</p>
 <p><strong>Guest/Singer</strong> Edward Woodward</p>
 <p><strong>Guest/Singer</strong> Gerard Kenny</p>

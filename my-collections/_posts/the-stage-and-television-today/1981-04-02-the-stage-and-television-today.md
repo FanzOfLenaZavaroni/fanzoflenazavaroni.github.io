@@ -12,14 +12,14 @@ categories: [The-Stage-and-Television-Today, OnThisDay2April]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover">Front Cover</h3>
+<h2 id="front-cover">Front Cover</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1981-04-02-the-stage-front-cover.png"><img src="/assets/images/the-stage-and-television-today/1981-04-02-the-stage-front-cover.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-7">Page 7</h3>
+<h2 id="page-7">Page 7</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1981-04-02-the-stage-page-7.png"><img src="/assets/images/the-stage-and-television-today/1981-04-02-the-stage-page-7.png" class="full-width zoom-in"></a>
 </figure>
@@ -28,14 +28,14 @@ categories: [The-Stage-and-Television-Today, OnThisDay2April]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-7-cropped">Page 7 - Cropped</h3>
+<h2 id="page-7-cropped">Page 7 - Cropped</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1981-04-02-the-stage-page-7-cropped.png"><img src="/assets/images/the-stage-and-television-today/1981-04-02-the-stage-page-7-cropped.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-17">Page 17</h3>
+<h2 id="page-17">Page 17</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1981-04-02-the-stage-page-17.png"><img src="/assets/images/the-stage-and-television-today/1981-04-02-the-stage-page-17.png" class="full-width zoom-in"></a>
 </figure>
@@ -44,7 +44,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay2April]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-17-cropped">Page 17 - Cropped</h3>
+<h2 id="page-17-cropped">Page 17 - Cropped</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1981-04-02-the-stage-page-17-cropped.png"><img src="/assets/images/the-stage-and-television-today/1981-04-02-the-stage-page-17-cropped.png" class="full-width zoom-in"></a>
 </figure>

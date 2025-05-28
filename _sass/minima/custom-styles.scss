@@ -12,6 +12,23 @@ display: block;
 margin-top: 5px;
 }
 
+// Override heading sizes
+h1 {
+  font-size: 2rem !important;
+}
+
+h2 {
+  font-size: 1.5rem !important;
+}
+
+h3 {
+  font-size: 1.125rem !important;
+}
+
+h4 {
+  font-size: 0.9rem !important;
+}
+
 cite:before {
 content: "\2014 \2009";
 }
@@ -152,7 +169,7 @@ height: 100%;
 @media screen and (orientation:portrait) {table {display:inline-table;}}
 
 /*  Card css  */
-.Cardlayout {
+.CardLayout {
     display: inline-block; /* Allows multiple cards side by side */
     width: 100%; /* Full width within its container */
     padding: 15px;
@@ -164,12 +181,12 @@ height: 100%;
     margin: 5px; /* Adds spacing between cards */
 }
 
-.Cardlayout .CardItem {
+.CardLayout .CardItem {
     padding: 10px 0; /* Added spacing for better readability */
     font-size: 16px;
 }
 
-.Cardlayout .CardItem strong {
+.CardLayout .CardItem strong {
     font-weight: bold;
 }
 

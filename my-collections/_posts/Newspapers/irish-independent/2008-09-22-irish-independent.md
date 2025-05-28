@@ -14,14 +14,14 @@ categories: [Newspapers, Irish-Independent, OnThisDay22September]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="fc"><a href="#fc">Front Cover</a></h3>
+<h2 id="fc"><a href="#fc">Front Cover</a></h2>
 </figcaption>
 <a href="{{ page.image }}"><img src="{{ page.image }}" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-18"><a href="#page-18">Page 18</a></h3>
+<h2 id="page-18"><a href="#page-18">Page 18</a></h2>
 </figcaption>
 <a href="{{ page.page_18 }}"><img src="{{ page.page_18 }}" class="full-width zoom-in"></a>
 </figure>
@@ -30,7 +30,7 @@ categories: [Newspapers, Irish-Independent, OnThisDay22September]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="clipping"><a href="#clipping">Page 18 - Clipping</a></h3>
+<h2 id="clipping"><a href="#clipping">Page 18 - Clipping</a></h2>
 </figcaption>
 <a href="{{ page.page_18_clipping }}"><img src="{{ page.page_18_clipping }}" class="full-width zoom-in"></a>
 </figure>

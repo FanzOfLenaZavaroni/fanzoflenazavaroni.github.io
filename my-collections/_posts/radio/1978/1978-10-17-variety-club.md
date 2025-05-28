@@ -9,7 +9,7 @@ post_description: Martin Dale invites you to Join the audience at the BBC Variet
 categories: [BBC-Radio-2, OnThisDay17October]
 ---
 
-<h3 id="contributors"><a href="#contributors">Contributors</a></h3>
+<h2 id="contributors"><a href="#contributors">Contributors</a></h2>
 
 <table id="contributors">
 <tr><th>Star/Singer</th><td>Lena Zavaroni</td></tr>

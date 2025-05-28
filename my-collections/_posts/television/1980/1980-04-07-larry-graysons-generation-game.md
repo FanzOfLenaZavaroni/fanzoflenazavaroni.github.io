@@ -25,7 +25,7 @@ categories: [BBC-One, Larry-Grayson, OnThisDay7April]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="programme-id">Programme ID</h3>
+<h2 id="programme-id">Programme ID</h2>
 </figcaption>
 <img src="/assets/images/BBC/larry-graysons-generation-game.jpg" class="full-width" />
 <figcaption>
@@ -34,7 +34,7 @@ categories: [BBC-One, Larry-Grayson, OnThisDay7April]
 </figure>
 
 <figure class="fig2">
-<h3 id="youtube">Youtube</h3>
+<h2 id="youtube">Youtube</h2>
 <div class="responsive-video"><iframe width="640" height="480" src="https://www.youtube.com/embed/gzGwTbn41g4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </figure>
 
@@ -42,7 +42,7 @@ categories: [BBC-One, Larry-Grayson, OnThisDay7April]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="cast">Cast</h3>
+<h2 id="cast">Cast</h2>
 </figcaption>
 <table class="striped">
 <tr><th>Presenter:</th> <td>Larry Grayson</td></tr>
@@ -66,7 +66,7 @@ categories: [BBC-One, Larry-Grayson, OnThisDay7April]
 
 <figure class="fig2">
 <figcaption>
-<h3 id="crew">Crew</h3>
+<h2 id="crew">Crew</h2>
 </figcaption>
 <table class="striped">
 <tr><th>Programme associate:</th> <td>Tony Hawes</td></tr>

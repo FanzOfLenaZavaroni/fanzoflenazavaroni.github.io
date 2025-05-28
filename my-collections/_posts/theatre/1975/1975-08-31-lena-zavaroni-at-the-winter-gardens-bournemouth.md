@@ -14,7 +14,7 @@ categories: [Theatre, Winter-Gardens, Bournemouth, The-Lena-Zavaroni-Show, OnThi
 
 {: .clear}
 
-<h3 id="bbc-news"><a href="#bbc-news">BBC News: 28 November 2018</a></h3>
+<h2 id="bbc-news"><a href="#bbc-news">BBC News: 28 November 2018</a></h2>
 * [Bournemouth Winter Gardens £150m revamp plans approved](https://www.bbc.co.uk/news/uk-england-dorset-46375045)
 
 <br />{: .clear}

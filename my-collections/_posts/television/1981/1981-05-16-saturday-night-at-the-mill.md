@@ -26,7 +26,7 @@ categories: [BBC-One, Going-Nowhere, OnThisDay16May]
 </table>
 
 <figure class="fig3">
-<h3 id="clip"><a href="#clip">Lena's Section Of The Show</a></h3>
+<h2 id="clip"><a href="#clip">Lena's Section Of The Show</a></h2>
 <div class="responsive-video"><div id="player"></div></div>
 <strong>Timestamps:</strong>
 <ul>
@@ -39,7 +39,7 @@ categories: [BBC-One, Going-Nowhere, OnThisDay16May]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="summary"><a href="#summary">Summary</a></h3>
+<h2 id="summary"><a href="#summary">Summary</a></h2>
 </figcaption>
 <p>Lena sings a live version of Going Nowhere, before chatting to Bob Langley about her life, career and health.</p>
 <p>She describes how the recording of "Be A Clown" for the television show <a href="/1976-07-28-bring-on-the-girls">Bring on the Girls</a> was faulty and the van taking the seals home had to be found and turned back so that it could be re-recorded.</p>
@@ -51,7 +51,7 @@ categories: [BBC-One, Going-Nowhere, OnThisDay16May]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 </figcaption>
 <table>
 <tr><th>Presenter:</th><td>Bob Langley</td></tr>
@@ -65,7 +65,7 @@ categories: [BBC-One, Going-Nowhere, OnThisDay16May]
 
 <figure class="fig2">
 <figcaption>
-<h3 id="crew"><a href="#crew">Crew</a></h3>
+<h2 id="crew"><a href="#crew">Crew</a></h2>
 </figcaption>
 <table>
 <tr><th>Musical director:</th><td>Arthur Greenslade</td></tr>

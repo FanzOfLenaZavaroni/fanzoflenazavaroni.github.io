@@ -21,7 +21,7 @@ last_modified_at: 1 January 2024
 </figure>
 
 <figure class="fig3">
-<h3 id="page-24"><a href="#page-24">Page 24 - SELECT SINGLES</a></h3>
+<h2 id="page-24"><a href="#page-24">Page 24 - SELECT SINGLES</a></h2>
 LENA ZAVARONI Will He Kiss Me Tonight (Galaxy, GY 177 CBS). Vocals pushed back with number Lesley Gore would have enjoyed in Sixties although here backing much fuller and at times slightly over-powering. Disappointing fade-out.
 </figure>
 

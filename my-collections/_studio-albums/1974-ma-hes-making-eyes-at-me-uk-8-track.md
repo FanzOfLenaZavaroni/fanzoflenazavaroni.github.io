@@ -33,19 +33,19 @@ last_modified_at: 17 November 2023
 {: .clear}
 
 <figure class="fig1">
-<h3 id="fc"><a href="#fc">Front Cover</a></h3>
+<h2 id="fc"><a href="#fc">Front Cover</a></h2>
 <img src="/assets/images/albums/lena-zavaroni-ma-hes-making-eyes-at-me-philips-ca.jpg" class="full-width" alt="Philips's' 8-Track Front Cover for the album Ma! (He's Making Eyes At Me) Philips – 	7711058 (1974)" />
 </figure>
 
 <figure class="fig2">
-<h3 id="bc"><a href="#bc">Back Cover</a></h3>
+<h2 id="bc"><a href="#bc">Back Cover</a></h2>
 <img src="/assets/images/albums/lena-zavaroni-ma-hes-making-eyes-at-me-1974-2-ca.jpg" class="full-width" alt="Philips's' 8-Track Back Cover for the album Ma! (He's Making Eyes At Me) Philips – 	7711058 (1974)" />
 </figure>
 
 {: .clear}
 
 <figure class="fig3">
-<h3 id="details"><a href="#details">Details</a></h3>
+<h2 id="details"><a href="#details">Details</a></h2>
 <table>
 <tr><th>Label:</th><td>Philips – 7711058</td></tr>
 <tr><th>Format:</th><td>8-Track</td></tr>
@@ -58,7 +58,7 @@ last_modified_at: 17 November 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="tracks"><a href="#tracks">Track Order</a></h3>
+<h2 id="tracks"><a href="#tracks">Track Order</a></h2>
 <blockquote>The reason for the change in the track order compared to the Vinyl and Cassette versions of the ablum is due to the need to fit each song based on its length into the space available on each of the 4 tracks of the 8-Track Cartridge.</blockquote>
 <cite>Robcamstone</cite>
 </figure>

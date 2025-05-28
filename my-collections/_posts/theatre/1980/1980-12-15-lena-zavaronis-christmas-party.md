@@ -98,7 +98,7 @@ categories: [Theatre, Edinburgh-Playhouse, Edinburgh, OnThisDay15December]
 
 <figure class="fig4" id="bbc-hercules-the-bear">
 <figcaption>
-<h3>BBC: Hercules The Bear</h3>
+<h2>BBC: Hercules The Bear</h2>
 </figcaption>
 <iframe width="100%" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p08p17kk/player"></iframe>
 </figure>

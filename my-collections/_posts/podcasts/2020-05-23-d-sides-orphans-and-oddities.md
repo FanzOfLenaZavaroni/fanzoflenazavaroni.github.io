@@ -12,7 +12,7 @@ last_modified_at: 8 August 2024
 ---
 
 <figure class="fig3">
-<h3 id="infobox1"><a href="#infobox1">Podcast Spoken In English</a></h3>
+<h2 id="infobox1"><a href="#infobox1">Podcast Spoken In English</a></h2>
 
 <p><strong style="color:#ff0000;">Embed No More:</strong> The former podcast <strong>D-Sides, Orphans, and Oddities</strong> is now an audio stream that removes each episode after two weeks.</p>
 
@@ -22,7 +22,7 @@ last_modified_at: 8 August 2024
 </figure>
 
 <figure class="fig3">
-<h3 id="infobox2"><a href="#infobox2">The Les Humphries Singers Tribute!!!</a></h3>
+<h2 id="infobox2"><a href="#infobox2">The Les Humphries Singers Tribute!!!</a></h2>
 <p>Rose Tattoo - We Can’t Be Beaten (1982) Sounds like AC/DC, no? Same producers. I love Rose Tattoo. I have discovered lots of good stuff doing this show. I like this band.</p>
 <p>Andy Williams - Age of Aquarius/Let The Sun Shine In (1969) As I said, Andy tied EVERYTHING. He refused to be tied down.</p>
 <p>Billy Paul - Let ‘Em In (1976) A cover of the almost concurrent original by Paul McCartney and Wings. Only this version features references to black heroes and well-known newsmakers.</p>

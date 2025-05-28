@@ -11,14 +11,14 @@ categories: [Newspaper&#58; Sunday-Mirror, OnThisDay31March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover">Front Cover</h3>
+<h2 id="front-cover">Front Cover</h2>
 </figcaption>
 <a href="/assets/images/sunday-mirror/1985-03-31-sunday-mirror-front-cover.png"><img src="/assets/images/sunday-mirror/1985-03-31-sunday-mirror-front-cover.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-26">Page 26</h3>
+<h2 id="page-26">Page 26</h2>
 </figcaption>
 <a href="/assets/images/sunday-mirror/1985-03-31-sunday-mirror-page-26.png"><img src="/assets/images/sunday-mirror/1985-03-31-sunday-mirror-page-26.png" class="full-width zoom-in"></a>
 </figure>
@@ -27,7 +27,7 @@ categories: [Newspaper&#58; Sunday-Mirror, OnThisDay31March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-26-cropped">Page 26 - Cropped</h3>
+<h2 id="page-26-cropped">Page 26 - Cropped</h2>
 </figcaption>
 <a href="/assets/images/sunday-mirror/1985-03-31-sunday-mirror-page-26-cropped.png"><img src="/assets/images/sunday-mirror/1985-03-31-sunday-mirror-page-26-cropped.png" class="full-width zoom-in"></a>
 </figure>

@@ -5,7 +5,7 @@ maintitle: "Category: BBC One"
 ---
 
 <figure class="fig3">
-<div class="Cardlayout">
+<div class="CardLayout">
 <div class="CardItem"><strong id="infobox1"><a href="#infobox1">Series 1</a></strong></div>
 <div class="CardItem">
 <ul>

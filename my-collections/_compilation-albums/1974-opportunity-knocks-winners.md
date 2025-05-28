@@ -10,7 +10,7 @@ last_modified_at: 15 June 2023
 ---
 
 <figure class="fig3">
-<h3 id="quote"><a href="#quote">Quote</a></h3>
+<h2 id="quote"><a href="#quote">Quote</a></h2>
 <blockquote>To say I'm knocked out that this LP has been produced would be the understatement of the year. It not only presents some of Britain's greatest stars, but to say "thank you" to the Thames Televion Production Team who in fourteen years have auditioned over 100,000 performers to find them. It's also a tribute to the viewers of Britain whose votes brought deserved fame to each of the artists'. who I hope you will enjoy on this record. "I mean it really folks!"</blockquote>
 <cite>Sincerely, Hughie Green</cite>
 </figure>
@@ -19,14 +19,14 @@ last_modified_at: 15 June 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="cover"><a href="#cover">Album Cover</a></h3>
+<h2 id="cover"><a href="#cover">Album Cover</a></h2>
 </figcaption>
 <a href="/assets/images/albums/various-opportunity-knocks-winners-vinyl-record.jpeg"><img src="/assets/images/albums/various-opportunity-knocks-winners-vinyl-record.jpeg" class="full-width zoom-in" alt="Front Cover for the album Opportunity Knocks Winners ()1974)" /></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="details"><a href="#details">Details</a></h3>
+<h2 id="details"><a href="#details">Details</a></h2>
 </figcaption>
 <table>
 <tr><th style="width:50%">Artist:</th><td>Various</td></tr>
@@ -43,7 +43,7 @@ last_modified_at: 15 June 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="a-side"><a href="#a-side">A Side</a></h3>
+<h2 id="a-side"><a href="#a-side">A Side</a></h2>
 </figcaption>
 <ol>
 <li><strong>Peters & Lee</strong> Welcome Home</li>
@@ -61,7 +61,7 @@ last_modified_at: 15 June 2023
 
 <figure class="fig2">
 <figcaption>
-<h3 id="b-side"><a href="#b-side">B Side</a></h3>
+<h2 id="b-side"><a href="#b-side">B Side</a></h2>
 </figcaption>
 <ol>
 <li><strong>Peters & Lee</strong> I'm Confessin'</li>
@@ -80,7 +80,7 @@ last_modified_at: 15 June 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="listen"><a href="#listen">Listen</a></h3>
+<h2 id="listen"><a href="#listen">Listen</a></h2>
 <p>Due to YouTube restriction the embeding of this album did not work so you will have to follow this <a class="external-link" href="https://www.youtube.com/watch?v=CIakLGevu34">link</a> if you wish to listen to the album.</p>
 </figure>
 

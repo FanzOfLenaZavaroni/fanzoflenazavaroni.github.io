@@ -27,7 +27,7 @@ categories: [Studio Albums]
 </table>
 
 <figure class="fig1">
-<h3 id="details"><a href="#details">Details</a></h3>
+<h2 id="details"><a href="#details">Details</a></h2>
 <figcaption>
 <table>
 <tr><th>Artist</th><td>Lena Zavaroni</td></tr>
@@ -41,13 +41,13 @@ categories: [Studio Albums]
 </figure>
 
 <figure class="fig2">
-<h3  id="listen-via-youtube"><a href="#listen-via-youtube">Listen via YouTube</a></h3>
+<h2  id="listen-via-youtube"><a href="#listen-via-youtube">Listen via YouTube</a></h2>
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/FqnZEbFiMos?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 </figure>
 
 {: .clear}
 
-<h3 id="tracks"><a href="#tracks">Tracks</a></h3>
+<h2 id="tracks"><a href="#tracks">Tracks</a></h2>
 <figure class="fig1">
 <strong>A-Side</strong>
 <ol>
@@ -73,8 +73,8 @@ categories: [Studio Albums]
 
 {: .clear}
 
-<h3 id="personal-appearances"><a href="#personal-appearances">Personal Appearances</a></h3>
-<h3 style="background-color:#a44268; color:#ffffff; padding-left:5px;">Game</h3>
+<h2 id="personal-appearances"><a href="#personal-appearances">Personal Appearances</a></h2>
+<h2 style="background-color:#a44268; color:#ffffff; padding-left:5px;">Game</h2>
 
 <figure class="fig1">
 <img src="/assets/images/locations/Game-563078.jpg" class="full-width" alt="The 50-year evolution of the Game brand" />

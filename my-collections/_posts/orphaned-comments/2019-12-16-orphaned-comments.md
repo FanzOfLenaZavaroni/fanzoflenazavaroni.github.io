@@ -16,7 +16,7 @@ categories: [Orphaned-Comments, OnThisDay16December]
 <p>That is why I have defined them as Orphaned Comments.</p>
 </div>
 
-<h3 id="orphaned"><a href="#orphaned">Orphaned Comment(s)</a></h3>
+<h2 id="orphaned"><a href="#orphaned">Orphaned Comment(s)</a></h2>
 
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/54290841" class="shape"/>From <a class="link" href="https://github.com/StephenMolloy1">Stephen Molloy</a> - 16 December 2019 at 21:25:18 GMT</p>

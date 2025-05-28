@@ -23,7 +23,7 @@ last_modified_at: 11 January 2024
 
 <figure class="fig1">
 <figcaption>
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 <table>
 <tr><th>Introduced By</th><td>Noel Edmonds</td></tr>
 <tr><th>Singer</th><td>Alvin Stardust</td></tr>
@@ -42,7 +42,7 @@ last_modified_at: 11 January 2024
 
 <figure class="fig2">
 <figcaption>
-<h3 id="crew"><a href="#crew">Crew</a></h3>
+<h2 id="crew"><a href="#crew">Crew</a></h2>
 <table>
 <tr><th>Producer</th><td>Robin Nash</td></tr>
 <tr><th>Sound</th><td>Richard Chamberlain</td></tr>
@@ -51,7 +51,7 @@ last_modified_at: 11 January 2024
 <tr><th>Musical director</th><td>Johnny Pearson with the Top Of The Pops Orchestra</td></tr>
 <tr><th>Choreography</th><td>Flick Colby</td></tr>
 </table>
-<h3 id="external-website"><a href="#external-website">External Website</a></h3>
+<h2 id="external-website"><a href="#external-website">External Website</a></h2>
 <table>
 <tr><th>BBC Genome</th><td><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1974-02-14#at-19.25">BBC One London, 14 February 1974 &#124; 19.25</a></td></tr>
 </table>
@@ -62,7 +62,7 @@ last_modified_at: 11 January 2024
 
 <figure class="fig3">
 <figcaption>
-<h3 id="note"><a href="#note">Note</a></h3>
+<h2 id="note"><a href="#note">Note</a></h2>
 </figcaption>
 <p>I had questioned if the YouTube clip is the version recorded for broadcast or if it is a camera rehearsal recording made prior to the broadcast. Thanks to the research done by Loving Lena Zavaroni and his comments <a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/discussions/15#discussioncomment-5496938">here</a> I now think it is save to say it is the version as broadcast.</p>
 <cite>Robcamstone</cite>

@@ -12,7 +12,7 @@ last_modified_at: 26 June 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="still"><a href="#still">Still From The TV Show</a></h3>
+<h2 id="still"><a href="#still">Still From The TV Show</a></h2>
 </figcaption>
 <img src="/assets/images/US-TV/1974-07-15-the-tonight-show.jpg" class="full-width"/>
 <figcaption>
@@ -22,12 +22,12 @@ last_modified_at: 26 June 2023
 
 <figure class="fig2">
 <figcaption>
-<h3 id="details"><a href="#details">Details</a></h3>
+<h2 id="details"><a href="#details">Details</a></h2>
 </figcaption>
 <p>Actor Burt Reynolds stood in for Johnny Carson. Lena Zavaroni makes the second of two appearances on the show that summer.</p>
 <p>Lena performs Swinging On A Star and is then interviewed by Burt. She tells him about her trip to Japan and how she ate with chopsticks, and then shows Burt how to use them. She then sings Help Me Make It Through The Night.</p>
 <figcaption>
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 </figcaption>
 <table>
 <tr><th style="width:50%;">Guest presenter:</th><td style="width:50%;">Burt Reynolds</td></tr>

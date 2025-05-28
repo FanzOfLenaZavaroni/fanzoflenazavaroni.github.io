@@ -11,14 +11,14 @@ categories: [BBC-Two, OnThisDay23March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="screenshot">Screenshot</h3>
+<h2 id="screenshot">Screenshot</h2>
 </figcaption>
 <img src="/assets/images/BBC/The-Bachelors-Show-06.jpg" class="full-width">
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="summary">Summary</h3>
+<h2 id="summary">Summary</h2>
 <p>Lena sits on the stage and sings Oh My Papa.</p>
 <p>Lena performs the Tennesse Wig Walk as the rest of the cast look on.</p>
 <p>Lena, the Bachelors and the Vernons then perform a song and dance version of Skip To My Lou together.</p>
@@ -31,7 +31,7 @@ categories: [BBC-Two, OnThisDay23March]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="cast">Cast</h3>
+<h2 id="cast">Cast</h2>
 <table>
 <tr><th style="width:50%;">Hosts</th><td style="width:50%;">The Bachelors</td></tr>
 <tr><th>Singer</th><td>Lena Zavaroni</td></tr>
@@ -45,7 +45,7 @@ categories: [BBC-Two, OnThisDay23March]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="cast">Cast</h3>
+<h2 id="cast">Cast</h2>
 <table>
 <tr><th style="width:50%;">Orchestra conductor</th><td style="width:50%;">Norman Percival</td></tr>
 <tr><th>Choreography</th><td>Lesley Brooks</td></tr>

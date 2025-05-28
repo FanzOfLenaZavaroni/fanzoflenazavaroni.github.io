@@ -13,7 +13,7 @@ categories: [Associated-Television-(ATV), OnThisDay31March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="screenshot"><a href="#screenshot">Screenshots</a></h3>
+<h2 id="screenshot"><a href="#screenshot">Screenshots</a></h2>
 </figcaption>
 <img src="/assets/images/ITV/The-Golden-Shot.png" class="full-width" />
 <figcaption>
@@ -23,7 +23,7 @@ categories: [Associated-Television-(ATV), OnThisDay31March]
 
 <figure class="fig2">
 <figcaption>
-<h3 id="contributors"><a href="#contributors">Contributors</a></h3>
+<h2 id="contributors"><a href="#contributors">Contributors</a></h2>
 </figcaption>
 <table>
 <tr><th>Host:</th> <td>Charlie Williams</td></tr>

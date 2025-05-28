@@ -23,7 +23,7 @@ The following is a list of websites and tips that may help you with your own res
 <tr><td>Q</td><td>R</td><td><a href="#s" title="Jump To">S</a></td><td><a href="#t" title="Jump To">T</a></td><td>U</td><td>V</td><td><a href="#w" title="Jump To">W</a></td><td>X</td><td>Y</td><td>Z</td><td colspan="7"><a href="#orphaned">Visitors Tips</a></td></tr>
 </table>
 
-<h3 id="numbers">#</h3>
+<h2 id="numbers">#</h2>
 * ——: [<strong>45cat.com</strong>](http://www.45cat.com/45_search.php?sq=Lena+Zavaroni&sm=se) - Datebase  of Singles, 45s, 7" records.
 * ——: [<strong>45spaces</strong>](http://www.45spaces.com/45s_search.php?sq=Lena+Zavaroni) - Communities for collectors, critics and the curious.
 * ——: [<strong>45worlds: CD Albums</strong>](http://www.45worlds.com/cdalbum/cd_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of CD Albums
@@ -118,7 +118,7 @@ The following is a list of websites and tips that may help you with your own res
 
 {: .clear}
 
-<h3 id="failure"><a href="#failure">System failure</a></h3>
+<h2 id="failure"><a href="#failure">System failure</a></h2>
 
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/54239649" class="shape"/>Robcamstone (<a class="link" href="https://github.com/FanzOfLenaZavaroni">Fanz Of Lena Zavaroni</a>)</p>
@@ -128,7 +128,7 @@ The following is a list of websites and tips that may help you with your own res
 <p>That is why I have defined them as Orphaned Comments.</p>
 </div>
 
-<h3 id="orphaned"><a href="#orphaned">Orphaned Comment(s)</a></h3>
+<h2 id="orphaned"><a href="#orphaned">Orphaned Comment(s)</a></h2>
 
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/54290841" class="shape"/>From <a class="link" href="https://github.com/StephenMolloy1">Stephen Molloy</a> - Date 14 November 2020 at 12:07:17 GMT</p>

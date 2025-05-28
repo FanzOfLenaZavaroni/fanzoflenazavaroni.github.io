@@ -12,14 +12,14 @@ categories: [BBC-Two, OnThisDay23February]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="screenshot">Screenshot</h3>
+<h2 id="screenshot">Screenshot</h2>
 </figcaption>
 <img src="/assets/images/BBC/The-Bachelors-Show-02.jpg" class="full-width">
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="summary">Summary</h3>
+<h2 id="summary">Summary</h2>
 <p>Lena performs the song &#34;Music, Music, Music&#34; standing at an old jukebox. She then joins the Bachelors to sing the Irving Berlin composition &#34;I Love A Piano&#34; while sitting on top of theirs.</p>
 <p>While she still sits on their piano, they then teach her about musical scales in a short musical comedy routine.</p>
 <p><strong>External Website:</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1975-02-23#at-20.20">BBC Genome</a></p>
@@ -30,7 +30,7 @@ categories: [BBC-Two, OnThisDay23February]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="cast">Cast</h3>
+<h2 id="cast">Cast</h2>
 <table>
 <tr><th style="width:50%;">Hosts</th><td style="width:50%;">The Bachelors</td></tr>
 <tr><th>Singer</th><td>Lena Zavaroni</td></tr>
@@ -41,7 +41,7 @@ categories: [BBC-Two, OnThisDay23February]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="cast">Cast</h3>
+<h2 id="cast">Cast</h2>
 <table>
 <tr><th style="width:50%;">Orchestra conductor</th><td style="width:50%;">Norman Percival</td></tr>
 <tr><th>Choreography</th><td>Lesley Brooks</td></tr>

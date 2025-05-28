@@ -24,12 +24,12 @@ last_modified_at: 26 November 2023
 {: .clear}
 
 <figure class="fig1">
-<h3 id="infobox1"><a href="#infobox1">BBC Publicity Photo</a></h3>
+<h2 id="infobox1"><a href="#infobox1">BBC Publicity Photo</a></h2>
 <img src="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg" class="full-width zoom-in">
 </figure>
 
 <figure class="fig2">
-<h3 id="infobox2"><a href="#infobox2">Set List</a></h3><ul>
+<h2 id="infobox2"><a href="#infobox2">Set List</a></h2><ul>
 <li>Music Was My First Love (Lena, shorter version)</li>
 <li>Going Places (Lena and the Ace Eight)</li>
 <li>Tomorrow [from the musical Annie] (Lena)</li>
@@ -45,7 +45,7 @@ last_modified_at: 26 November 2023
 {: .clear}
 
 <figure class="fig1">
-<h3 id="infobox3"><a href="#infobox3">Cast</a></h3>
+<h2 id="infobox3"><a href="#infobox3">Cast</a></h2>
 <p><strong>Hostess and Signer:</strong> Lena Zavaroni</p>
 <p><strong>Special Guest:</strong> Michel Legrand</p>
 <p><strong>Special Guest:</strong> Wayne Sleep</p>
@@ -54,7 +54,7 @@ last_modified_at: 26 November 2023
 </figure>
 
 <figure class="fig2">
-<h3 id="infobox4"><a href="#infobox4">Cast</a></h3>
+<h2 id="infobox4"><a href="#infobox4">Cast</a></h2>
 <p><strong>Musicians:</strong> Alyn Ainsworth and his Orchestra</p>
 <p><strong>Choreographer:</strong> Dougie Squires</p>
 <p><strong>Vocal Backings:</strong> The Third Kind</p>

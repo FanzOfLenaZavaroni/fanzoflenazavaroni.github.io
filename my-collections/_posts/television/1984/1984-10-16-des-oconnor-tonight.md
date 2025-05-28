@@ -27,7 +27,7 @@ Des O'Connor's guests are Michael Aspel, Eamonn Andrews, Lena Zavaroni, The Ever
 {: .clear}
 
 <figure class="fig3">
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 <table>
 <tr><th style="width:50%;">Host:</th><td style="width:50%;">Des O'Connor</td></tr>
 <tr><th>English Television Presenter:</th><td>Michael Aspel</td></tr>

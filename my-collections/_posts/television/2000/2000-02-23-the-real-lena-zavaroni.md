@@ -14,7 +14,7 @@ last_modified_at: 19 February
 
 <figure class="fig1">
 <figcaption>
-<h3 id="publicity"><a href="#publicity">Publicity Photo</a></h3>
+<h2 id="publicity"><a href="#publicity">Publicity Photo</a></h2>
 </figcaption>
 <a href="/assets/images/channel4/2000-02-23-the-real-lena-zavaroni.jpg"><img src="/assets/images/channel4/2000-02-23-the-real-lena-zavaroni.jpg" class="full-width zoom-in"/></a>
 <figcaption>
@@ -24,7 +24,7 @@ last_modified_at: 19 February
 
 <figure class="fig2">
 <figcaption>
-<h3 id="preview"><a href="#preview">Preview</a></h3>
+<h2 id="preview"><a href="#preview">Preview</a></h2>
 <blockquote>
 <p>On 6 January 1974, Hughie Green introduced a ten-year-old redhead from the Isle of Bute to the Opportunity Knocks audience. Overnight, Lena Zavaroni went from Winning the local talent contest to household name Under the guardianship of her agent, the little girl With the big voice left her island home and within a few short months had toured Japan and the US, sang to President Ford, met Frank Sinatra and taken residence on London's swanky Park Lane.</p>
 <p>Separated from her parents at an early age, torn by the pressures of fame - the path to anorexia clearly marked, leading the singer from the height of fame to drawing the dole and her eventual death last year An intimate account of a tragic life comprising interviews with friends and family, peppered With clips of that amazing voice in action, The Real LenaZavaroni is a fascinating insight, and deeply sad.</p>
@@ -37,7 +37,7 @@ last_modified_at: 19 February
 
 <figure class="fig1">
 <figcaption>
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 <table>
 <tr><th>Narrator</th><td>Jenny Agutter</td></tr>
 <tr><th>On screen participant</th><td>Victor Zavaroni</td></tr>
@@ -53,7 +53,7 @@ last_modified_at: 19 February
 
 <figure class="fig2">
 <figcaption>
-<h3 id="crew"><a href="#crew">Crew</a></h3>
+<h2 id="crew"><a href="#crew">Crew</a></h2>
 <table>
 <tr><th>Production executive</th><td>Christine Mathisen</td></tr>
 <tr><th>Production secretary</th><td>Kate Finn</td></tr>

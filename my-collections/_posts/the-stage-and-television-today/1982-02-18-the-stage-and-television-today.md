@@ -12,14 +12,14 @@ categories: [The-Stage-and-Television-Today, OnThisDay18February]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front"><a href="#front">Front Cover</a></h3>
+<h2 id="front"><a href="#front">Front Cover</a></h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1982-02-18-the-stage-and-television-today-front-cover.png"><img src="/assets/images/the-stage-and-television-today/1982-02-18-the-stage-and-television-today-front-cover.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="cropped"><a href="#cropped">page 33 cropped</a></h3>
+<h2 id="cropped"><a href="#cropped">page 33 cropped</a></h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1982-02-18-the-stage-and-television-today-page-33-cropped.png"><img src="/assets/images/the-stage-and-television-today/1982-02-18-the-stage-and-television-today-page-33-cropped.png" class="full-width zoom-in"></a>
 </figure>

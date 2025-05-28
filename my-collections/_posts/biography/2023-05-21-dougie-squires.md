@@ -12,13 +12,13 @@ last_modified_at: 31 January 2024
 ---
 
 <figure class="fig1">
-<h3 id="infobox1"><a href="#infobox1">Dougie Squires</a></h3>
+<h2 id="infobox1"><a href="#infobox1">Dougie Squires</a></h2>
 <img src="/assets/images/newspapers/dougie-squires.jpg" class="full-width" />
 <cite>Creator of The Young Generation dance group Dougie Squires dies at the age of 91 (Mark Davies/PA)</cite>
 </figure>
 
 <figure class="fig2">
-<h3 id="infobox2"><a href="#infobox2">Details</a></h3>
+<h2 id="infobox2"><a href="#infobox2">Details</a></h2>
 <p><strong>Birth name:</strong> Dougie William Squires</p>
 <p><strong>Born:</strong> 1932</p>
 <p><strong>Origin:</strong> Woking, Surrey, England</p>
@@ -30,7 +30,7 @@ last_modified_at: 31 January 2024
 {: .clear}
 
 <figure class="fig3">
-<h3 id="infobox3"><a href="#infobox3">Bio</a></h3>
+<h2 id="infobox3"><a href="#infobox3">Bio</a></h2>
 <blockquote>
 <p><strong>Douglas William Squires</strong> OBE MVO (1932 – 21 May 2023) was an English choreographer, known best for his work in television from the mid-1950s. He was born in Nottingham.</p>
 </blockquote>
@@ -39,7 +39,7 @@ last_modified_at: 31 January 2024
 
 
 <figure class="fig3">
-<h3 id="infobox4"><a href="#infobox4">Shows related to Lena Zavaroni that Dougie Squires contributed to</a></h3>
+<h2 id="infobox4"><a href="#infobox4">Shows related to Lena Zavaroni that Dougie Squires contributed to</a></h2>
 <ul>
 <li>&#8212;&#8212;&#58; <a href="/1978-09-06-on-broadway-with-lena-zavaroni">1978-09-06 - On Broadway with Lena Zavaroni</a></li>
 <li>&#8212;&#8212;&#58; <a href="/category/lena-zavaroni-and-music">1979-04-01 to 1979-06-27 - Lena Zavaroni and Music</a></li>

@@ -21,7 +21,7 @@ last_modified_at: 25 February 2024
 </figure>
 
 <figure class="fig3">
-<h3 id="page-3"><a href="#page-3">Quote: Page 6</a></h3>
+<h2 id="page-3"><a href="#page-3">Quote: Page 6</a></h2>
 <blockquote>
 <p><strong>Galaxy label signs up with CBS</strong></p>
 <p>PHIL SOLOMON'S Galaxy label, which includes such names as Lena Zavaroni. comedian Frank Carson and Irish singer Danny Doyle on its artist rosier, has signed a distribution deal with CBS after two and a half years with President. Under the new arrangement, revealed at CBS' mini-sales conference last week, most of the Galaxy back Catalogue will switch to CBS distribution, and new product is currently being lined up.</p>

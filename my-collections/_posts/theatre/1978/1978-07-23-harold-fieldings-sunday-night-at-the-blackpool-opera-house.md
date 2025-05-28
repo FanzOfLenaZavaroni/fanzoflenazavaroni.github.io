@@ -22,14 +22,14 @@ Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 
 <figure class="fig1">
 <figcaption>
-<h3>Front Cover</h3>
+<h2>Front Cover</h2>
 </figcaption>
 <a href="/assets/images/theatres/1978-07-23-programme-cover.jpg"><img src="/assets/images/theatres/1978-07-23-programme-cover.jpg" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3>Publicity Photo</h3>
+<h2>Publicity Photo</h2>
 </figcaption>
 <a href="/assets/images/publicity/1978-lena-zavaroni.jpg"><img src="/assets/images/publicity/1978-lena-zavaroni.jpg" class="full-width zoom-in"></a>
 </figure>
@@ -38,7 +38,7 @@ Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 
 <figure class="fig3">
 <figcaption>
-<h3>Inside Pages</h3>
+<h2>Inside Pages</h2>
 </figcaption>
 <a href="/assets/images/theatres/1978-07-23-programme-inside.jpg"><img src="/assets/images/theatres/1978-07-23-programme-inside.jpg" class="full-width zoom-in"></a>
 </figure>

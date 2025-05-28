@@ -16,7 +16,7 @@ categories: [London-Weekend-Television, Theatre, OnThisDay17March, OnThisDay31Ma
 
 <cite>Gala benefit at the National Theatre, sponsored by Princess Anne, in aid of the Save the Children Fund. Hosted by Jimmy Tarbuck, it includes singing, stand-up comedy, dance, comedy skits, and drama.</cite>
 
-<h3 id="infobox2"><a href="#infobox2">Cast</a></h3>
+<h2 id="infobox2"><a href="#infobox2">Cast</a></h2>
 <table style="text-align:center;">
 <tr>
 <td>Russ Abbot</td>

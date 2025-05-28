@@ -21,7 +21,7 @@ last_modified_at: 8 August 2024
 </figure>
 
 <figure class="fig3">
-<h3 id="infobox2"><a href="#infobox2">Steely Dan outtakes are better than your favorite band's greatest hits. Fight me</a></h3>
+<h2 id="infobox2"><a href="#infobox2">Steely Dan outtakes are better than your favorite band's greatest hits. Fight me</a></h2>
 <p>Steely Dan - Kind Spirit (1980) Outtake from the Gaucho sessions.</p>
 <p>Steely Dan - Were You Blind That Day? (1980) Ibid. Became "Third World Man".</p>
 <p>Steely Dan - The Bear (1980) Ibid.</p>

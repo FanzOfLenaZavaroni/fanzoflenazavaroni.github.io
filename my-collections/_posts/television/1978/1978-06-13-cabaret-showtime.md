@@ -29,7 +29,7 @@ categories: [BBC-One, Cabaret-Showtime, OnThisDay13June]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="screenshot"><a href="#screenshot">Screenshot</a></h3>
+<h2 id="screenshot"><a href="#screenshot">Screenshot</a></h2>
 </figcaption>
 <img src="/assets/images/BBC/1978-06-13-cabaret-showtime.jpg" class="full-width"/>
 <figcaption>
@@ -39,7 +39,7 @@ categories: [BBC-One, Cabaret-Showtime, OnThisDay13June]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="clipping"><a href="#clipping">Clipping</a></h3>
+<h2 id="clipping"><a href="#clipping">Clipping</a></h2>
 </figcaption>
 <a href="/assets/images/newspapers/1978-06-09-wishaw-press-cliping-page-14-cropped.png"><img src="/assets/images/newspapers/1978-06-09-wishaw-press-cliping-page-14.png" class="full-width zoom-in"/></a>
 <figcaption>
@@ -50,7 +50,7 @@ categories: [BBC-One, Cabaret-Showtime, OnThisDay13June]
 {: .clear}
 
 <figure class="fig3">
-<h3 id="summary"><a href="#summary">Summary</a></h3>
+<h2 id="summary"><a href="#summary">Summary</a></h2>
 <p>In this episode of the programme recorded at the Civic Centre, Motherwell, Jimmy Logan introduces his special guest Lena Zavaronl also featuring The New Seekers, Danny Street, Andy Cameron and Alex Welsh and His Band.</p>
 </figure>
 
@@ -58,7 +58,7 @@ categories: [BBC-One, Cabaret-Showtime, OnThisDay13June]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 </figcaption>
 <table>
 <tr><th>Presenter</th><td>Jimmy Logan</td></tr>
@@ -72,7 +72,7 @@ categories: [BBC-One, Cabaret-Showtime, OnThisDay13June]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="crew"><a href="#crew">Crew</a></h3>
+<h2 id="crew"><a href="#crew">Crew</a></h2>
 </figcaption>
 <table>
 <tr><th>Band</th><td>Brian Fahey and the Scottish Radio' Orchestra</td></tr>

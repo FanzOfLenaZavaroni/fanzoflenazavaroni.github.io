@@ -21,12 +21,12 @@ last_modified_at: 1 January 2024
 </figure>
 
 <figure class="fig3">
-<h3 id="page-3"><a href="#page-3">Page 3</a></h3>
+<h2 id="page-3"><a href="#page-3">Page 3</a></h2>
 Charlotte Church looked on course yesterday (Sunday) to become the youngest female artist to score a Top 10 album in the UK since 10-year-old Lena Zavaroni reached number four in 1974 with Ma.
 </figure>
 
 <figure class="fig3">
-<h3 id="page-26"><a href="#page-26">Page 26</a></h3>
+<h2 id="page-26"><a href="#page-26">Page 26</a></h2>
 Charlotte Church, whose debut album Voice Of An Angel soars 24-4. There was much written in the week about how Charlotte was the youngest female ever to have a Top 40 album, and the youngest artist to top the classical chart, all of which was mistaken, I'm afraid. Aled Jones was the youngest artist to top the classical chart, doing so at age 11, while the youngest female to have a Top 40 album was Lena Zavaroni. Lena was just 10 years old when she reached number eight with her Ma album in March 1974.
 </figure>
 

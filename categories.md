@@ -22,7 +22,7 @@ skip-cats: OnThisDay
 
   {% unless skip %}
     <figure class="fig3">
-    <div class="Cardlayout">
+    <div class="CardLayout">
       <div class="CardItem">
         <strong id="{{ category[0] | uri_escape }}">
           <a href="#{{ category[0] | uri_escape }}">{{ category[0] | replace: "-", " " }}</a>

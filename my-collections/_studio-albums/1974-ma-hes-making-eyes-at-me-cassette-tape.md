@@ -28,7 +28,7 @@ last_modified_at: 19 December 2023
 Ma! He's Making Eyes At Me is the debut album by Scottish singer Lena Zavaroni, released in 1974 on Philips Records.
 
 <figure class="fig1">
-<h3 id="infobx1"><a href="#infobx1">Album Cover and Details</a></h3>
+<h2 id="infobx1"><a href="#infobx1">Album Cover and Details</a></h2>
 <img src="/assets/images/albums/1974-ma-hes-making-eyes-at-me-cassette-tape-cover.png" class="full-width" alt="Philips's' Blue Front Cover for the album Ma! (He's Making Eyes At Me) Hallmark – HSC 251 (1974)" />
 <figcaption>
 <table>
@@ -42,7 +42,7 @@ Ma! He's Making Eyes At Me is the debut album by Scottish singer Lena Zavaroni, 
 </figure>
 
 <figure class="fig2">
-<h3 id="infobx2"><a href="#infobx2">Tracks</a></h3>
+<h2 id="infobx2"><a href="#infobx2">Tracks</a></h2>
 <figcaption>
 <strong>A-Side</strong>
 </figcaption>

@@ -13,9 +13,11 @@ last_modified_at: 23 December 2023
 ---
 
 <figure class="fig3">
-<div class="Cardlayout">
-<div class="CardItem"><strong id="infobox1"><a href="#infobox1">YouTube Clip</a></strong></div>
+<div class="CardLayout">
 <div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">YouTube Clip</a></h2>
+</div>
+<div class="CardItem split">
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/LhSbE9BKqf4?rel=0&showinfo=1" frameborder="0" allowfullscreen></iframe></div>
 <cite>Lena Zavaroni sings Rock-a-Bye Your Baby with a Dixie Melody and Some Of These Days.</cite>
 </div>
@@ -23,32 +25,35 @@ last_modified_at: 23 December 2023
 </figure>
 
 <figure class="fig1">
-<div class="Cardlayout cast-card">
-<div class="CardItem"><strong id="infobox2"><a href="#infobox2">Cast</a></strong></div>
-<div class="CardItem">
-<p><strong>Compere:</strong> Bernard Manning</p>
-<p><strong>Concert Chairman:</strong> Colin Cromption</p>
-</div>
-</div>
+<div class="CardLayout CardLayout-Height">
+<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Cast</a></h2></div>
+<div class="CardItem split">
+<ul>
+<li><strong>Compere:</strong> Bernard Manning</li>
+<li><strong>Concert Chairman:</strong> Colin Cromption</li>
+</ul>
+</div></div>
 </figure>
 
 <figure class="fig2">
-<div class="Cardlayout">
-<div class="CardItem"><strong id="infobox3"><a href="#infobox3">Turns</a></strong></div>
-<div class="CardItem">
-<P><strong>Radio Presenter:</strong> Pete Price</p>
-<P><strong>Family Pop Group:</strong> The Dooley Family</p>
-<P><strong>Actress:</strong> Pat Mills</p>
-<P><strong>Actor:</strong> Tony Monoply</p>
-<P><strong>Actor:</strong> Rob Murray</p>
-<P><strong>Singer:</strong> Lena Zavaroni</p>
-</div>
-</div>
+<div class="CardLayout CardLayout-Height">
+<div class="CardItem"><h2 id="infobox3" class="infobox"><a href="#infobox3">Turns</a></h2></div>
+<div class="CardItem split">
+<ul>
+<li><strong>Radio Presenter:</strong> Pete Price</li>
+<li><strong>Family Pop Group:</strong> The Dooley Family</li>
+<li><strong>Actress:</strong> Pat Mills</li>
+<li><strong>Actor:</strong> Tony Monoply</li>
+<li><strong>Actor:</strong> Rob Murray</li>
+<li><strong>Singer:</strong> Lena Zavaroni</li>
+</ul>
+</div></div>
 </figure>
 
 <br />{: .clear}
 
 <style>
-.cast-card {height: 330px}
-@media screen and (orientation:portrait) {.cast-card {height: unset;}}
+.CardLayout-Height {height: 299px}
+@media screen and (orientation:portrait) {.link-card {height: unset;}}
 </style>
+

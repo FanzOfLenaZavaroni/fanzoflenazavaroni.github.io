@@ -11,19 +11,19 @@ last_modified_at: 8 January 2024
 ---
 
 <figure class="fig1">
-<h3 id="infobox1"><a href="#infobox1">Front Cover</a></h3>
+<h2 id="infobox1"><a href="#infobox1">Front Cover</a></h2>
 <a href="/assets/images/magazines/1975-01-04-radiocorriere-fc.png"><img src="/assets/images/magazines/1975-01-04-radiocorriere-fc.png" class="full-width zoom-in" /></a>
 <cite>Radiocorriere - Issue 2, 1975, <a class="external-link" href="/assets/pdf/RC-1975-02_text.pdf">Page 1 of PDF</a></cite>
 </figure>
 
 <figure class="fig2">
-<h3 id="infobox2"><a href="#infobox2">Page 33</a></h3>
+<h2 id="infobox2"><a href="#infobox2">Page 33</a></h2>
 <a href="/assets/images/magazines/1975-01-04-radiocorriere-page33.png"><img src="/assets/images/magazines/1975-01-04-radiocorriere-page33.png" class="full-width zoom-in" /></a>
 <cite>Radiocorriere - Issue 2, 1975, <a class="external-link" href="/assets/pdf/RC-1975-02_text.pdf#page=33">Page 33 of PDF</a></cite>
 </figure>
 
 <figure class="fig3">
-<h3 id="infobox3"><a href="#infobox3">Italian Quote From Page 33</a></h3>
+<h2 id="infobox3"><a href="#infobox3">Italian Quote From Page 33</a></h2>
 <p><strong>Mercoledì 8 gennaio 1975</strong></p>
 <p><strong>ALLE SETTE DELLA SERA</strong></p>
 <p><strong>ore 19 <a class="external-link" href="https://en.wikipedia.org/wiki/Rai_2#:~:text=The%20channel%20was%20initially%20referred%20to%20as%20%22Secondo%20Programma%22.">secondo</a></strong></p>
@@ -34,7 +34,7 @@ last_modified_at: 8 January 2024
 </figure>
 
 <figure class="fig3">
-<h3 id="infobox4"><a href="#infobox4">English Quote From Page 33</a></h3>
+<h2 id="infobox4"><a href="#infobox4">English Quote From Page 33</a></h2>
 <p><strong>Wednesday 8 January 1975</strong></p>
 <strong>AT SEVEN IN THE EVENING</strong>
 <strong>7pm <a class="external-link" href="https://en.wikipedia.org/wiki/Rai_2#:~:text=The%20channel%20was%20initially%20referred%20to%20as%20%22Secondo%20Programma%22.">second</a></strong>

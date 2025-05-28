@@ -12,19 +12,19 @@ last_modified_at: 23 December 2023
 ---
 
 <figure class="fig1">
-<h3 id="screenshot1"><a href="#screenshot1">Screenshot 1</a></h3>
+<h2 id="screenshot1"><a href="#screenshot1">Screenshot 1</a></h2>
 <img class="full-width" src="/assets/images/television/1981-09-28-desoconnor-tonight-des-lena.jpg" />
 <cite>Des O'Connor and Lena Zavaroni</cite>
 </figure>
 
 <figure class="fig2">
-<h3 id="screenshot2"><a href="#screenshot2">Screenshot 2</a></h3>
+<h2 id="screenshot2"><a href="#screenshot2">Screenshot 2</a></h2>
 <img class="full-width" src="/assets/images/television/1981-09-28-desoconnor-tonight-lena.jpg" />
 <cite>Lena Zavaroni</cite>
 </figure>
 
 <figure class="fig3">
-<h3 id="synopsis"><a href="#synopsis">Synopsis</a></h3>
+<h2 id="synopsis"><a href="#synopsis">Synopsis</a></h2>
 <blockquote>
 <p>Starring Des O'Connor who plays host to some of the finest entertainment talent from Britain and America. Des sings, jokes and talks in the company of his guests from both sides of the Atlantic. Tonight's special guests are: from Britain: Jim Davidson, Lena Zavaroni and from America Garry Shandling.</p>
 <p>Lena performs her then new single <a href="/discography/singles/1981-09-25-somewhere-south-of-macon-uk">Somewhere South Of Macon</a>, then she joins Des to duet on Nice and Easy and Love Will Keep Us Together.</p>
@@ -35,7 +35,7 @@ last_modified_at: 23 December 2023
 {: .clear}
 
 <figure class="fig3">
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 <table>
 <tr><th>Host</th><td>Des O'Connor</td></tr>
 <tr><th>Comedian</th><td>Jim Davidson</td></tr>

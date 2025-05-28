@@ -13,7 +13,7 @@ categories: [BBC-Radio-2, OnThisDay6October, OnThisDay11May]
 last_modified_at: 6 May 2024
 ---
 
-<h3 id="infobox1"> <a href="#infobox1">Contributors</a></h3>
+<h2 id="infobox1"> <a href="#infobox1">Contributors</a></h2>
 <table>
 <tr><th style="width:50%;">Host</th><td style="width:50%;">Martin Dale</td></tr>
 <tr><th>Star/SInger</th><td>Lena Zavaroni</td></tr>

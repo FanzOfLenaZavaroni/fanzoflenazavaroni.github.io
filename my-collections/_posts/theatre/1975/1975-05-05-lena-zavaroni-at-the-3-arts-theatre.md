@@ -13,6 +13,6 @@ last_modified_at: 6 May 2024
 
 Lena Zavaroni performed at The 3 Arts Theatre for two weeks starting on 5 May 1975, with black-only shows held on 6 May and 12 May due to apartheid restrictions.
 
-<h3 id="history"><a href="#history">History Of The 3 Arts Theatre</a></h3>
+<h2 id="history"><a href="#history">History Of The 3 Arts Theatre</a></h2>
 <a class="external-link" href="https://3artsvillage.co.za/3-arts-history/">The 3 Arts Theatre</a>
 

@@ -11,7 +11,7 @@ categories: [Magazines, Woman's-Realm, OnThisDay2Febuary]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover">Front Cover</h3>
+<h2 id="front-cover">Front Cover</h2>
 </figcaption>
 <a href="/assets/images/magazines/Womans-Realm-1994-02-01a.jpg"><img src="/assets/images/magazines/Womans-Realm-1994-02-01a.jpg" class="height zoom-in"></a>
 <figcaption>
@@ -21,7 +21,7 @@ categories: [Magazines, Woman's-Realm, OnThisDay2Febuary]
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-18">Page 18</h3>
+<h2 id="page-18">Page 18</h2>
 </figcaption>
 <a href="/assets/images/magazines/Womans-Realm-1994-02-01b.jpg"><img src="/assets/images/magazines/Womans-Realm-1994-02-01b.jpg" class="height zoom-in"></a>
 </figure>
@@ -30,14 +30,14 @@ categories: [Magazines, Woman's-Realm, OnThisDay2Febuary]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-19">Page 19</h3>
+<h2 id="page-19">Page 19</h2>
 </figcaption>
 <a href="/assets/images/magazines/Womans-Realm-1994-02-01c.jpg"><img src="/assets/images/magazines/Womans-Realm-1994-02-01c.jpg" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="notes">Notes</h3>
+<h2 id="notes">Notes</h2>
 <ul>
 <li>Another article in which factual details are missing and guestwork is used in place.</li>
 <li>Lena was in fact ten when she went on Opportunity Knocks for the first time.</li>

@@ -12,14 +12,14 @@ categories: [The-Stage-and-Television-Today, OnThisDay2March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover">Front Cover</h3>
+<h2 id="front-cover">Front Cover</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1978-03-02-the-stage-and-television-today-front-cover.jpg"><img src="/assets/images/the-stage-and-television-today/1978-03-02-the-stage-and-television-today-front-cover.jpg" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-11">page 11</h3>
+<h2 id="page-11">page 11</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1978-03-02-the-stage-and-television-today-page-11.jpg"><img src="/assets/images/the-stage-and-television-today/1978-03-02-the-stage-and-television-today-page-11.jpg" class="full-width zoom-in"></a>
 </figure>
@@ -28,7 +28,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay2March]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-11-cropped">page 11 cropped</h3>
+<h2 id="page-11-cropped">page 11 cropped</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1978-03-02-the-stage-and-television-today-page-11-cropped.jpg"><img src="/assets/images/the-stage-and-television-today/1978-03-02-the-stage-and-television-today-page-11-cropped.jpg" class="full-width zoom-in"></a>
 </figure>

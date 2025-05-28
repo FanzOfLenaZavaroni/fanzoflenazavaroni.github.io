@@ -13,14 +13,14 @@ last_modified_at: 30 July 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover"><a href="#front-cover">Front Cover</a></h3>
+<h2 id="front-cover"><a href="#front-cover">Front Cover</a></h2>
 </figcaption>
 <a href="/assets/images/books/2007-09-03-look-in-the-best-of-the-seventies.jpg"><img src="/assets/images/books/2007-09-03-look-in-the-best-of-the-seventies.jpg" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="lena-looks-ahead"><a href="#lena-looks-ahead">Lena Looks Ahead</a></h3>
+<h2 id="lena-looks-ahead"><a href="#lena-looks-ahead">Lena Looks Ahead</a></h2>
 </figcaption>
 <a href="/assets/images/magazines/1977-07-30-look-in-inside-page.jpg"><img src="/assets/images/magazines/1977-07-30-look-in-inside-page.jpg" class="full-width zoom-in"></a>
 </figure>
@@ -29,7 +29,7 @@ last_modified_at: 30 July 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="details"><a href="#details">Details</a></h3>
+<h2 id="details"><a href="#details">Details</a></h2>
 </figcaption>
 <table>
 <tr><th>Title:</th><td>Look-in: The Best of the Seventies</td></tr>
@@ -44,7 +44,7 @@ last_modified_at: 30 July 2023
 
 <figure class="fig2">
 <figcaption>
-<h3 id="pony"><a href="#pony">Related Photograph</a></h3>
+<h2 id="pony"><a href="#pony">Related Photograph</a></h2>
 </figcaption>
 <a href="/assets/images/publicity/1977-lena-and-her-pony.png"><img src="/assets/images/publicity/1977-lena-and-her-pony.png" class="full-width zoom-in"></a>
 <figcaption>

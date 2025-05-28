@@ -12,14 +12,14 @@ categories: [The-Stage-and-Television-Today, OnThisDay20January]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front-cover">Front Cover</h3>
+<h2 id="front-cover">Front Cover</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-front-cover.jpg"><img src="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-front-cover.jpg" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-10">page 10</h3>
+<h2 id="page-10">page 10</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-10.jpg"><img src="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-10.jpg" class="full-width zoom-in"></a>
 </figure>
@@ -28,14 +28,14 @@ categories: [The-Stage-and-Television-Today, OnThisDay20January]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-11">page 11</h3>
+<h2 id="page-11">page 11</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-11.jpg"><img src="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-11.jpg" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-12">page 12</h3>
+<h2 id="page-12">page 12</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-12.jpg"><img src="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-12.jpg" class="full-width zoom-in"></a>
 </figure>
@@ -44,7 +44,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay20January]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-13">page 13</h3>
+<h2 id="page-13">page 13</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-13.jpg"><img src="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-13.jpg" class="full-width zoom-in"></a>
 </figure>
@@ -52,7 +52,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay20January]
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-13-cropped">Page 13-cropped</h3>
+<h2 id="page-13-cropped">Page 13-cropped</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-Lena-Zavaroni-shaking-hands-with-princess-margaret.png"><img src="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-Lena-Zavaroni-shaking-hands-with-princess-margaret.png" class="full-width zoom-in"></a>
 <figcaption>

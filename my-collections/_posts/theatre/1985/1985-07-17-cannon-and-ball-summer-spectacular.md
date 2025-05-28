@@ -11,7 +11,7 @@ categories: [Theatre, Blackpool-Opera-House]
 
 <figure class="fig1">
 <figcaption>
-<h3>Programme Cover</h3>
+<h2>Programme Cover</h2>
 </figcaption>
 <img src="/assets/images/locations/1985-07-17-cannon-and-ball-summer-spectacular-front-cover.jpg" class="full-width" />
 <figcaption>
@@ -21,7 +21,7 @@ categories: [Theatre, Blackpool-Opera-House]
 
 <figure class="fig2">
 <figcaption>
-<h3>Performers</h3>
+<h2>Performers</h2>
 </figcaption>
 <table>
 <tr><th>Comedian</th><td>Dudley Doolittle</td></tr>
@@ -30,13 +30,13 @@ categories: [Theatre, Blackpool-Opera-House]
 <tr><th>Comedy Double Act</th><td>Cannon and Ball</td></tr>
 </table>
 <figcaption>
-<h3>Director</h3>
+<h2>Director</h2>
 </figcaption>
 <table>
 <tr><td>Allan Blackburn</td></tr>
 </table>
 <figcaption>
-<h3>More Details</h3>
+<h2>More Details</h2>
 </figcaption>
 <table>
 <tr><th>External Website</th><td><a href="http://www.comedykings.co.uk/index.php/summer-1985-blackpool">Comedy Kings</a></td></tr>

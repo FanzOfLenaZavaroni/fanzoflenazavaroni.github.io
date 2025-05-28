@@ -11,13 +11,13 @@ categories: [BBC-One, OnThisDay28September]
 ---
 
 <figure class="fig1">
-<h3 id="times"><a href="#times">Times TV Listings For BBC One</a></h3>
+<h2 id="times"><a href="#times">Times TV Listings For BBC One</a></h2>
 <a href="/assets/images/BBC/0FFO-1978-SEP28-027.png"><img src="/assets/images/BBC/0FFO-1978-SEP28-027.png" class="full-width zoom-in" /></a>
 <cite>The Times (London, England), Thursday, September 28, 1978, Issue 60418, p.27.</cite>
 </figure>
 
 <figure class="fig2">
-<h3 id="screenshot"><a href="#screenshot">Screenshot</a></h3>
+<h2 id="screenshot"><a href="#screenshot">Screenshot</a></h2>
 <a href="/assets/images/BBC/1978-09-28-blue-peter.jpg"><img src="/assets/images/BBC/1978-09-28-blue-peter.jpg" class="full-width zoom-in" /></a>
 <cite>Simon Groom, Lena Zavaroni, Lesley Judd and Christopher Wenner.</cite>
 </figure>
@@ -25,7 +25,7 @@ categories: [BBC-One, OnThisDay28September]
 {: .clear}
 
 <figure class="fig1">
-<h3 id="cast"><a href="#cast">Cast</a></h3>
+<h2 id="cast"><a href="#cast">Cast</a></h2>
 <table>
 <tr><th>Presenter:</th><td>Lesley Judd</td></tr>
 <tr><th>Presenter:</th><td>Simon Groom</td></tr>
@@ -35,7 +35,7 @@ categories: [BBC-One, OnThisDay28September]
 </figure>
 
 <figure class="fig2">
-<h3 id="crew"><a href="#crew">Crew</a></h3>
+<h2 id="crew"><a href="#crew">Crew</a></h2>
 <table>
 <tr><th>Film cameraman:</th><td>Alec Curtis</td></tr>
 <tr><th>Film recordist:</th><td>Dennis Panchen</td></tr>

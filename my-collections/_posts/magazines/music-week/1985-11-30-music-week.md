@@ -21,7 +21,7 @@ last_modified_at: 1 January 2024
 </figure>
 
 <figure class="fig3">
-<h3 id="page-10"><a href="#page-10">Page 10 - Youthful celebration</a></h3>
+<h2 id="page-10"><a href="#page-10">Page 10 - Youthful celebration</a></h2>
 NIK KERSHAW, Five Star, the National Youth Jazz Orchestra and Lena Zavaroni will be among young artists appearing in A Royal Celebration Of Youth. The event, a gala concert organised by Yorkshire Television as its contribution to the International Year Of Youth, is to be staged at the Harrogate Conference Centre on December 8. All proceeds from the show — to be attended by the Queen — will be donated to the National Council of YMCA's, and the programme will be networked over the Christmas period.
 </figure>
 

@@ -21,7 +21,7 @@ categories: [Magazines, Women's-Own, OnThisDay25August]
 {: .clear}
 
 <figure class="fig3">
-<h3><strong>other</strong> people <strong>and their scents</strong></h3>
+<h2><strong>other</strong> people <strong>and their scents</strong></h2>
 <p><strong>Lena Zavaroni,</strong> the little lady with a big voice who's now shaping up nicely as an all-round entertainer, tells us, "I have several different perfumes that I like to wear but I think my favourite is Estée."</p>
 <p>Estée Lauder's Estée comes in two strengths — Super and lighter and more subtle, Daytime. The Super costs from £6.25 for a small purse spray to £34 for 30 cc perfume, while Daytime costs £9—£14.</p>
 </figure>

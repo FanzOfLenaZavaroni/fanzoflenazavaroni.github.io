@@ -15,7 +15,7 @@ Based on the advert in the Pontypridd Observer it seems that the original plan w
 
 <figure class="fig1">
 <figcaption>
-<h3 id="pontypridd-observer"><a href="#pontypridd-observer"><span class="br">The Pontypridd Observer,</span><span class="br">3 October 1980</span></a></h3>
+<h2 id="pontypridd-observer"><a href="#pontypridd-observer"><span class="br">The Pontypridd Observer,</span><span class="br">3 October 1980</span></a></h2>
 </figcaption>
 <a href="/assets/images/newspapers/1980-10-03-pontypridd-observer-page-4-clipping.png"><img src="/assets/images/newspapers/1980-10-03-pontypridd-observer-page-4-clipping.png" class="full-width zoom-in"></a>
 <figcaption>
@@ -25,7 +25,7 @@ Based on the advert in the Pontypridd Observer it seems that the original plan w
 
 <figure class="fig2">
 <figcaption>
-<h3 id="neath-guardian"><a href="#neath-guardian"><span class="br">The Neath Guardian,</span><span class="br">6 November 1980</span></a></h3>
+<h2 id="neath-guardian"><a href="#neath-guardian"><span class="br">The Neath Guardian,</span><span class="br">6 November 1980</span></a></h2>
 </figcaption>
 <a href="/assets/images/newspapers/1980-11-06-neath-guardian-page-4.png"><img src="/assets/images/newspapers/1980-11-06-neath-guardian-page-4.png" class="full-width zoom-in"></a>
 <figcaption>

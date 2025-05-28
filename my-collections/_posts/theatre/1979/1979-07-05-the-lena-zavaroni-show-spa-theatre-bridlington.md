@@ -12,19 +12,19 @@ last_modified_at: 5 July 2024
 ---
 
 <figure class="fig1">
-<h3 id="flyer"><a href="#flyer">Flyer</a></h3>
+<h2 id="flyer"><a href="#flyer">Flyer</a></h2>
 <img src="/assets/images/theatres/Bridlington-03.jpg" class="full-width" />
 </figure>
 
 <figure class="fig2">
-<h3 id="cover"><a href="#cover">Programme Cover</a></h3>
+<h2 id="cover"><a href="#cover">Programme Cover</a></h2>
 <img src="/assets/images/theatres/Bridlington-01.jpg" class="full-width" />
 </figure>
 
 {: .clear}
 
 <figure class="fig3">
-<h3 id="details"><a href="#details">Programme Details</a></h3>
+<h2 id="details"><a href="#details">Programme Details</a></h2>
 <img src="/assets/images/theatres/Bridlington-02.jpg" class="full-width" />
 </figure>
 
@@ -72,7 +72,7 @@ last_modified_at: 5 July 2024
 {: .clear}
 
 <figure class="fig3">
-<h3 id="included"><a href="#included">Performances by Lena Zavaroni included</a></h3>
+<h2 id="included"><a href="#included">Performances by Lena Zavaroni included</a></h2>
 <ul>
 <li>A Tribute To The Young Talent Of Yesteryear</li>
 <li>I Dance All Night</li>
@@ -89,7 +89,7 @@ last_modified_at: 5 July 2024
 <!-- ![Lena Outside The Spa Theatre, Bridlington](/assets/images/theatres/Lena Outside The Spa Theatre.jpg) -->
 
 <figure class="fig3">
-<h3 id="postmark"><a href="#postmark">An Example Of The Postmark Used To Promote The Show</a></h3>
+<h2 id="postmark"><a href="#postmark">An Example Of The Postmark Used To Promote The Show</a></h2>
 <a href="/assets/images/theatres/Bridlington-04.jpg"><img src="/assets/images/theatres/Bridlington-04.jpg" class="full-width zoom-in" /></a>
 <cite><a class="external-link" href="https://www.45spaces.com/postmarks/l.php?l=lena-zavaroni-britains-brightest-star-at-bridlington">45spaces | Postmarks</a></cite>
 </figure>
@@ -97,7 +97,7 @@ last_modified_at: 5 July 2024
 {: .clear}
 
 <figure class="fig3">
-<h3 id="publicity"><a href="#publicity">Also See The Related Publicity Photo</a></h3>
+<h2 id="publicity"><a href="#publicity">Also See The Related Publicity Photo</a></h2>
 <a href="/1979-06-25-lena-a-cute-cookie"> 25 June 1979 - LENA... A CUTE COOKIE</a>
 </figure>
 

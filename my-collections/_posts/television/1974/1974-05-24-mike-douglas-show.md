@@ -22,12 +22,12 @@ categories: [US-Television, OnThisDay24May]
 {: .clear}
 
 <figure class="fig1">
-<h3 id="infobox1"><a href="#infobox1">Screenshot</a></h3>
+<h2 id="infobox1"><a href="#infobox1">Screenshot</a></h2>
 <img src="/assets/images/US-TV/mike-douglas-show.jpg" class="full-width"/>
 </figure>
 
 <figure class="fig2">
-<h3 id="infobox2"><a href="#infobox2">Cast</a></h3>
+<h2 id="infobox2"><a href="#infobox2">Cast</a></h2>
 <p><strong>Host:</strong> Mike Douglas</p>
 <p><strong>Co-host:</strong> Totie Fields</p>
 <p><strong>Totie's Hubb:</strong> George Johnston</p>
@@ -40,20 +40,20 @@ categories: [US-Television, OnThisDay24May]
 </figure>
 
 <figure class="fig3">
-<h3 id="infobox3"><a href="#infobox3">Summary</a></h3>
+<h2 id="infobox3"><a href="#infobox3">Summary</a></h2>
 <p>Totie Fields is co-host. Guests are actor Tony Curtis, singer-actress Florence Henderson, 10-year-old Scottish singer Lena Zavaroni, Totie's husband George Johnston, diet book author Dr. Irwin Stillman, and diet patient Alison Libert.</p>
 <p>Lena performs Ma! He's Making Eyes At Me</p>
 </figure>
 
 
 <figure class="fig3">
-<h3 id="infobox4"><a href="#infobox4">The Stillman Diet</a></h3>
+<h2 id="infobox4"><a href="#infobox4">The Stillman Diet</a></h2>
 <p>The Stillman Diet is a high-protein, low-carbohydrate diet that was created in 1967 by physician Irwin Maxwell Stillman (1896–1975).</p>
 <cite><a class="external-linx" href="https://en.wikipedia.org/wiki/Stillman_diet">Wikipedia</a></cite>
 </figure>
 
 <figure class="fig3">
-<h3 id="infobox5"><a href="#infobox5">Karen Carpenter</a></h3>
+<h2 id="infobox5"><a href="#infobox5">Karen Carpenter</a></h2>
 <p>Karen Carpenter began using the diet in her teens. Karen was 5'4" and 145 pounds when she went on the Stillman Diet in 1967. She eventually abandoned the Stillman Diet and limited her caloric intake extremely. By September 1975, Karen's weight dropped to 91 pounds. In 1983 she died of complications related to anorexia nervosa.</p>
 <cite><a class="external-linx" href="https://en.wikipedia.org/wiki/Stillman_diet#Karen_Carpenter">Wikipedia</a></cite>
 </figure>

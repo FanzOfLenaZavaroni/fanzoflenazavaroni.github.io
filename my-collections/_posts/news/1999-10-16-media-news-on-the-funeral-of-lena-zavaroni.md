@@ -9,7 +9,7 @@ post_description: Various articles covering the Funeral.
 categories: [Newspapers, Daily-Record, OnThisDay16October]
 ---
 
-<h3 id="daily-mirror"><a href="#daily-mirror">Daily Mirror</a></h3>
+<h2 id="daily-mirror"><a href="#daily-mirror">Daily Mirror</a></h2>
 <Strong>Lena's tiny coffin was white like a child's.. it was a poignant reminder of her life</strong>
 THEY chose a white coffin for Lena Zavaroni, whose star shone so brightly and so briefly, like they do for a child.
 
@@ -25,7 +25,7 @@ He said: “It was a true talent, a gift given to very few people on this earth.
 
 Read the artilce in full via [The Free Library](https://www.thefreelibrary.com/Lena%27s+tiny+coffin+was+white+like+a+child%27s..+it+was+a+poignant...-a060333467)
 
-<h3 id="daily-record"><a href="#daily-record">Daily Record</a></h3>
+<h2 id="daily-record"><a href="#daily-record">Daily Record</a></h2>
 <strong>BONNIE SAYS FAREWELL; Lena lived in a grey, grey world .. it was like she was in a plane flying in a storm</strong>
 
 FORMER child star Bonnie Langford said goodbye to her old friend Lena Zavaroni at an emotional funeral service yesterday.

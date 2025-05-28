@@ -12,14 +12,14 @@ categories: [The-Stage-and-Television-Today, OnThisDay1April]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="cover"><a href="#cover">Front Cover</a></h3>
+<h2 id="cover"><a href="#cover">Front Cover</a></h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1976-04-01-the-stage-and-television-today-front-cover.png"><img src="/assets/images/the-stage-and-television-today/1976-04-01-the-stage-and-television-today-front-cover.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="page-6"><a href="#page-6">Page 6</a></h3>
+<h2 id="page-6"><a href="#page-6">Page 6</a></h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1976-04-01-the-stage-and-television-today-page-6.png"><img src="/assets/images/the-stage-and-television-today/1976-04-01-the-stage-and-television-today-page-6.png" class="full-width zoom-in"></a>
 </figure>
@@ -28,13 +28,13 @@ categories: [The-Stage-and-Television-Today, OnThisDay1April]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="cropped"><a href="#cropped">Page 6 - Cropped</a></h3>
+<h2 id="cropped"><a href="#cropped">Page 6 - Cropped</a></h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1976-04-01-the-stage-and-television-today-page-6-cropped.png"><img src="/assets/images/the-stage-and-television-today/1976-04-01-the-stage-and-television-today-page-6-cropped.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
-<h3 id="single"><a href="#single">Some Of These Days</a></h3>
+<h2 id="single"><a href="#single">Some Of These Days</a></h2>
 Details of Lena Zavaroni's single listed in this edition of The Stage and Television can be find <a href="/discography/singles/1976-03-26-some-of-these-days-uk">here</a>.'
 </figure>
 

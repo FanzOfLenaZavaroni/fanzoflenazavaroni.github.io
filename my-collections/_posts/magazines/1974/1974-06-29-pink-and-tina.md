@@ -13,14 +13,14 @@ categories: [Magazines, pink-&-tina, OnThisDay29June]
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front"><a href="#front">Front Cover</a></h3>
+<h2 id="front"><a href="#front">Front Cover</a></h2>
 </figcaption>
 <a href="/assets/images/magazines/1974-06-29-pink-and-tina-01.jpg"><img src="/assets/images/magazines/1974-06-29-pink-and-tina-01.jpg" class="full-width zoom-in"/></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="tiddlers"><a href="#tiddlers">A Handful of Tiddlers...</a></h3>
+<h2 id="tiddlers"><a href="#tiddlers">A Handful of Tiddlers...</a></h2>
 </figcaption>
 <p><strong>Lena Zavaroni</strong> certainly made an impact when she appeared on Opportunity Knocks with her Shirley Temple outfit and Shirley Bassey voice. But hers isn't just a flash-in-the-pan talent — She has recently been signed up by a major recording company who plan to bring out an album and set her well on the road to stardom.</p>
 <p>Making so many television appearances has meant that Lena has had to leave her Scottish home for a while to stay in London. Stardom has also meant that she's had to cut down on Sweets, puddings, spaghetti — all the things she loves!</p>
@@ -30,7 +30,7 @@ categories: [Magazines, pink-&-tina, OnThisDay29June]
 
 <figure class="fig3">
 <figcaption>
-<h3 id="Pages-28-29"><a href="#Pages-28-29">Pages 28 and 29</a></h3>
+<h2 id="Pages-28-29"><a href="#Pages-28-29">Pages 28 and 29</a></h2>
 </figcaption>
 <a href="/assets/images/magazines/1974-06-29-pink-and-tina-02.jpg"><img src="/assets/images/magazines/1974-06-29-pink-and-tina-02.jpg" class="full-width zoom-in"/></a>
 </figure>

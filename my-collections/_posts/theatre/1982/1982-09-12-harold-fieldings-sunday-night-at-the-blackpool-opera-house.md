@@ -18,14 +18,14 @@ Two shows at 6.10pm and 8.20pm plus a rehearsal at 2.30pm
 
 <figure class="fig1">
 <figcaption>
-<h3>Front Cover</h3>
+<h2>Front Cover</h2>
 </figcaption>
 <img src="/assets/images/theatres/1982-09-12-harold-fieldings-sunday-night-at-the-blackpool-opera-house.jpg" class="full-width">
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="performers">Performers</h3>
+<h2 id="performers">Performers</h2>
 </figcaption>
 <table style="width:100%;">
 <tr><th>English Clarinetist And Vocalist:</th><td style="width:45%;">Acker Bilk and his Paramount Jazz Band</td></tr>
@@ -41,7 +41,7 @@ Two shows at 6.10pm and 8.20pm plus a rehearsal at 2.30pm
 
 <figure class="fig3">
 <figcaption>
-<h3 id="organisers">Organisers</h3>
+<h2 id="organisers">Organisers</h2>
 </figcaption>
 <table style="width:100%;">
 <tr><th>Theatre producer:</th><td style="width:45%;"><a href="/biography/harold-fielding">Harold Fielding</a></td></tr>

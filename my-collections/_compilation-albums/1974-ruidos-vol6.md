@@ -11,14 +11,14 @@ last_modified_at: 15 June 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="front"><a href="#front">Front Cover</a></h3>
+<h2 id="front"><a href="#front">Front Cover</a></h2>
 </figcaption>
 <a href="/assets/images/albums/ruidos-vol6-fc.jpg"><img src="/assets/images/albums/ruidos-vol6-fc.jpg" class="full-width zoom-in" alt="Front Cover for the album RUIDOS vol 6 (1974)" /></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
-<h3 id="details"><a href="#details">Details</a></h3>
+<h2 id="details"><a href="#details">Details</a></h2>
 </figcaption>
 <table>
 <tr><th>Artist:</th><td>Various</td></tr>
@@ -34,7 +34,7 @@ last_modified_at: 15 June 2023
 
 <figure class="fig1">
 <figcaption>
-<h3 id="a-side"><a href="#a-side">A Side</a></h3>
+<h2 id="a-side"><a href="#a-side">A Side</a></h2>
 </figcaption>
 <ol>
 <li><strong>Terry Jacks:</strong> Estaciones En El Sol</li>
@@ -48,7 +48,7 @@ last_modified_at: 15 June 2023
 
 <figure class="fig2">
 <figcaption>
-<h3 id="b-side"><a href="#b-side">B Side</a></h3>
+<h2 id="b-side"><a href="#b-side">B Side</a></h2>
 </figcaption>
 <ol>
 <li><strong>Demis Roussos:</strong> Algun Dia, Algun Lugar</li>

@@ -14,7 +14,7 @@ McLeod Holden have plans to hold a number of shows this year (1977) including on
 
 <figure class="fig1">
 <figcaption>
-<h3 id="page-3">page 3 - Light Entertainment Section</h3>
+<h2 id="page-3">page 3 - Light Entertainment Section</h2>
 </figcaption>
 <a href="/assets/images/the-stage-and-television-today/1977-01-27-the-stage-and-television-today-page-03-cropped.jpg"><img src="/assets/images/the-stage-and-television-today/1977-01-27-the-stage-and-television-today-page-03-cropped.jpg" class="full-width zoom-in"></a>
 </figure>
