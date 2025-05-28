@@ -6,7 +6,7 @@ maintitle: Jimmy Scott A Songwriter's Notebook
 subtitle: Date unconfirmed as various websites have various dates.
 description: Track 9 - Lena is the song that is a wonderful Tribute to Lena Zavaroni.
 post_description: Date unconfirmed as various websites have various dates.
-categories: [Discography:-Tribute Songs, OnThisday31December, OnThisday1June, OnThisday5June]
+categories: [Discography:-Tribute Songs, OnThisDay31December, OnThisDay1June, OnThisDay5June]
 permalink: /discography/tribute-songs/:name
 last_modified_at: 23 December 2023
 ---

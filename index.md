@@ -5,7 +5,7 @@ maintitle: Welcome to Fanz of Lena Zavaroni
 ---
 
 <figure class="fig3">
-<div class="LenaCard">
+<div class="Cardlayout">
 <div class="CardItem">
 <h3 id="infobox1"><a href="#infobox1">About Lena Zavaroni</a></h3>
 <div class="CardItem split">
@@ -16,7 +16,7 @@ maintitle: Welcome to Fanz of Lena Zavaroni
 </figure>
 
 <figure class="fig3">
-<div class="LenaCard">
+<div class="Cardlayout">
 <div class="CardItem">
 <h3 id="infobox2"><a href="#infobox2">Introduction</a></h3>
 <div class="CardItem split">
@@ -28,7 +28,7 @@ maintitle: Welcome to Fanz of Lena Zavaroni
 </figure>
 
 <figure class="fig3">
-<div class="LenaCard" style="background: #f8d7da; border: 1px solid #dc3545;">
+<div class="Cardlayout" style="background: #f8d7da; border: 1px solid #dc3545;">
 <div class="CardItem">
 <h3 id="infobox3"><a href="#infobox3" style="color: #dc3545; font-weight: bold;">Important Notice</a></h3>
 <div class="CardItem red-split">
@@ -55,7 +55,7 @@ This transition will take some time. You might notice:
 </figure>
 
 <style>
-.LenaCard-Fix {text-align: center;}
+.Cardlayout-Fix {text-align: center;}
 .red-split {border-top: solid 5px red;}
 </style>
 

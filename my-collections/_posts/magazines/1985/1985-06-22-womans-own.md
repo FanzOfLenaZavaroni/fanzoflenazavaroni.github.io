@@ -7,7 +7,7 @@ description: LENA ZAVARONI - I promised myself I'd live to sing again. 4 page ex
 media: Magazine
 post_description: LENA ZAVARONI - I promised myself I'd live to sing again. 4 page exclusive interview.
 image: /assets/images/magazines/1985-06-22-womans-own-08.jpg
-categories: [Magazines, Woman's-Own, OnThisday22June]
+categories: [Magazines, Woman's-Own, OnThisDay22June]
 ---
 
 <figure class="fig1">
