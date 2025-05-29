@@ -57,7 +57,7 @@ maintitle: "Category: Lena"
 <p>12.4.1981/JRG <span style="float: right;">80/0851</span></p>
 <p>BBC 1</p>
 <p>Lena Zavaroni 1/6 Singer</p>
-<p>Lena Zavaroni returns to BBC Televison with a new series of her own. Each weekshe will introduce two guests and in her first programme they are Rowan Atkinson and Corky Hale.</p>
+<p>Lena Zavaroni returns to BBC Televison with a new series of her own. Each week she will introduce two guests and in her first programme they are Rowan Atkinson and Corky Hale.</p>
 <p>Lena Zavaroni.</p>
 <p>Transmission: BBC 1, Wednesday, April 23.</p>
 <p>BBC COPYRIGHT PHOTOGRAPH, FROM:</p>
