@@ -9,7 +9,11 @@ image: /assets/images/locations/The-New-Embassy-Centre-Skegness.jpg
 categories: [Theatre, The-Lena-Zavaroni-Show, OnThisDay30May]
 ---
 
-> [![The Embassy Theatre formerly The New Embassy Centre](/assets/images/locations/The-New-Embassy-Centre-Skegness.jpg){: .full-width}{: .zoom-in}](/assets/images/locations/The-New-Embassy-Centre-Skegness.jpg)
-
-<cite>The New Embassy Centre, Skegness</cite>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">The Embassy Theatre</a></h2></div>
+<div class="CardItem split"><img src="/assets/images/locations/The-New-Embassy-Centre-Skegness.jpg" class="full-width" /></div>
+<div class="CardItem"><cite>The Embassy Theatre formerly The New Embassy Centre</cite></div>
+</div>
+</figure>
 

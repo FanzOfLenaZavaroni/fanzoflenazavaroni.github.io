@@ -1,9 +1,13 @@
 ---
 layout: post-no-title-link
-title: "Category: BBC One"
-maintitle: "Category: Lena-Zavaroni-and-Music"
+title: "Category: Lena Zavaroni and Music"
+maintitle: "Category: Lena Zavaroni and Music"
 ---
 
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><strong id="infobox1"><a href="#infobox1">Series 1</a></strong></div>
+<div class="CardItem">
 <ul>
   {% for post in site.categories.Lena-Zavaroni-and-Music reversed %}
     {% if post.url %}
@@ -11,4 +15,7 @@ maintitle: "Category: Lena-Zavaroni-and-Music"
     {% endif %}
   {% endfor %}
 </ul>
+</div>
+</div>
+</figure>
 
