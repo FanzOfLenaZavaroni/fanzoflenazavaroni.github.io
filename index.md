@@ -49,7 +49,7 @@ This transition will take some time. You might notice:
 </p>
 
 <p style="margin: 10px 0;"><strong>Examples:</strong></p>
-<p style="text-align: left; margin: 0 auto; max-width: 600px;">Page with the table layout which I need to remove because as I said can become messy on mobile devices: <a href="/1982-06-01-lena" style="color: #dc3545; font-weight: bold;">Lena - Episode 3.2</a>.</p>
+<p style="text-align: left; margin: 0 auto; max-width: 600px;">Page with the table layout which I need to remove because as I said can become messy on mobile devices: <a href="/1982-06-08-lena" style="color: #dc3545; font-weight: bold;">Lena - Episode 3.3</a>.</p>
 <p style="text-align: left; margin: 0 auto; max-width: 600px;">Page updated to using the card layout with a link card that give a link to single catorgory page <a href="/1982-05-25-lena/#infobox4" style="color: #dc3545; font-weight: bold;">Lena - Episode 3.1</a>.</p>
 </div></div></div>
 </figure>
