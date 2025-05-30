@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: 24 May 1974
 last_modified_at: 15 June 2023
 title: (You've Got) Personality
