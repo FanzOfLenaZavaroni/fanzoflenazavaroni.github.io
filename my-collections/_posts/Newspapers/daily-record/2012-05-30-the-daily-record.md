@@ -21,8 +21,7 @@ last_modified_at: 23 December 2023
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">I know what your thinking it just a typo</a></h2></div>
-<div class="CardItem split"><img src="/assets/images/theatres/queen-eddzabreth-iis-silver-jubilee-celebrations-03.jpg" class="full-width" /></div>
-<div class="CardItem">
+<div class="CardItem split">
 <p>Someone typed a 3 instead of a 7 but no if you go to <a class="external-link" href="https://www.alamy.com/stock-photo-sydney-devine-royal-command-performance-1973-collect-of-sydney-meeting-20287097.html?imageid=80CB904E-4AFE-49BE-ACBD-104347CB1DF9&p=62486&pn=2&searchId=d6f79d8b34e5cc27bb0ad014b3189be4&searchtype=0">Alamy</a> you will see their details for the photo. The details are as follows: <strong>Sydney Devine Royal Command performance 1973 collect of sydney meeting the queen in 1973 with other famous stars including frankie howard at back of line up david soul dolly parton lena zavaroni and alan stewart</strong></p>
 <p>To add to this I contact Alamy some 10+ years ago and pointed out their error.</p>
 <p>They as you can see have not fixed the error and in their reply to me they pointed out that all details are provided by the individuals/companies they are representing and can't change the details unless the individuals/companies ask them to. They did say they would pass on my comment to the related party. I have no way of knowing if they did but the error in the date is still there.</p>
