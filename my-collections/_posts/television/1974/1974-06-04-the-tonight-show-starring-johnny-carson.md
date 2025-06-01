@@ -13,30 +13,39 @@ categories: [US-Television, OnThisDay4June, OnThisDay3May]
 last_modified_at: 2 May 2025
 ---
 
-<table>
-<tr align="center">
-<th>Jump To:</th>
-<td><a href="#youtube">YouTube Clip</a></td>
-<td><a href="#summary">Summary</a></td>
-<td><a href="#cast">Cast</a></td>
-</tr>
-</table>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">YouTube Clip</a></h2></div>
+<div class="CardItem split">
+<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/SZnmGZTlZu0?si=Yj78gaBeZ5TFPnYv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<cite>Taken from the opening credits</cite>
+</div></div>
+</figure>
 
-<h2 id="youtube"><a href="#youtube">YouTube Clip</a></h2>
-<div class="responsive-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/SZnmGZTlZu0?si=Yj78gaBeZ5TFPnYv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Summary</a></h2></div>
+<div class="CardItem split">
+<blockquote>
+<p>Lena Zavaroni makes the first of two appearances on the show that summer.</p>
+<p>She performs Ma He's Making Eyes At Me and then chats to Johnny, before performing The End Of The World.</p>
+</blockquote>
+<cite>Robcamstone</cite>
+</div></div>
+</figure>
 
-<h2 id="summary"><a href="#summary">Summary</a></h2>
-> Lena Zavaroni makes the first of two appearances on the show that summer.
->
-> She performs Ma He's Making Eyes At Me and then chats to Johnny, before performing The End Of The World.
-
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-<table>
-<tr><th>Host</th><td>Johnny Carson</td></tr>
-<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
-<tr><th>American Comedian</th><td>Joan Rivers</td></tr>
-<tr><th>Actor</th><td>George Peppard</td></tr>
-<tr><th>American Entertainer</th><td>Tom Sullivan</td></tr>
-<tr><th>Orchestra conductor</th><td>Doc Severinsen</td></tr>
-</table>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox3" class="infobox"><a href="#infobox3">Cast</a></h2></div>
+<div class="CardItem split">
+<ul>
+<li><strong>Host</strong> Johnny Carson</li>
+<li><strong>Singer</strong> Lena Zavaroni</li>
+<li><strong>American Comedian</strong> Joan Rivers</li>
+<li><strong>Actor</strong> George Peppard</li>
+<li><strong>American Entertainer</strong> Tom Sullivan</li>
+<li><strong>Orchestra conductor</strong> Doc Severinsen</li>
+</ul>
+</div></div>
+</figure>
 
