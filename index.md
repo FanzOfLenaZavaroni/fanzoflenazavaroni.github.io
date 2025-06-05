@@ -56,6 +56,5 @@ This transition will take some time. You might notice:
 
 <style>
 .CardLayout-Fix {text-align: center;}
-.red-split {border-top: solid 5px red;}
 </style>
 
