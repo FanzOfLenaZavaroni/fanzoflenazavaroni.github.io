@@ -89,6 +89,8 @@ defaults:
   -
     values:
       post_description: "Details unavailable at this time."
+      subtitle-onthisday: "Details are generated via the OnThisDay Category for each post"
+      sub-subtitle-onthisday: "So the content is subject to changes/update over time."
 
 # Feed Settings: excerpt_only: true or false
 feed:

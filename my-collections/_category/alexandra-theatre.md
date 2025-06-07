@@ -1,9 +1,12 @@
 ---
-layout: post-no-title-link
+layout: post-no-comments
 title: "Category: Alexandra Theatre"
 maintitle: "Category: Alexandra Theatre"
 ---
 
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
 <ul>
   {% for post in site.categories.Alexandra-Theatre reversed %}
     {% if post.url %}
@@ -11,4 +14,6 @@ maintitle: "Category: Alexandra Theatre"
     {% endif %}
   {% endfor %}
 </ul>
-
+</div>
+</div>
+</figure>
