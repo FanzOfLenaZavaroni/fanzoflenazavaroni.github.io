@@ -47,10 +47,6 @@ This transition will take some time. You might notice:
 <p><s>I have changed the submenus from tables to a button format. You may see a mix of tables and buttons until I can rewrite all the code.</s></p>
 <p>I have replaced the submenu buttons with a card with a single catergory link, The card may have other links but usualy only one catergory link.</p>
 </p>
-
-<p style="margin: 10px 0;"><strong>Examples:</strong></p>
-<p style="text-align: left; margin: 0 auto; max-width: 600px;">Page with the table layout which I need to remove because as I said can become messy on mobile devices: <a href="/1982-06-08-lena" style="color: #dc3545; font-weight: bold;">Lena - Episode 3.3</a>.</p>
-<p style="text-align: left; margin: 0 auto; max-width: 600px;">Page updated to using the card layout with a link card that give a link to single catorgory page <a href="/1982-05-25-lena/#infobox4" style="color: #dc3545; font-weight: bold;">Lena - Episode 3.1</a>.</p>
 </div></div></div>
 </figure>
 
