@@ -1,9 +1,12 @@
 ---
-layout: post-no-title-link
+layout: post-no-comments
 title: "Category: Harold Fielding"
 maintitle: "Category: Harold Fielding"
 ---
 
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
 <ul>
   {% for post in site.categories.Harold-Fielding reversed %}
     {% if post.url %}
@@ -11,4 +14,6 @@ maintitle: "Category: Harold Fielding"
     {% endif %}
   {% endfor %}
 </ul>
-
+</div>
+</div>
+</figure>

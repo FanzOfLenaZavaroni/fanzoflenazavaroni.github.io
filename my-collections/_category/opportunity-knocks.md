@@ -1,9 +1,12 @@
 ---
-layout: post-no-title-link
+layout: post-no-comments
 title: "Category: Opportunity Knocks"
 maintitle: "Category: Opportunity Knocks"
 ---
 
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
 <ul>
   {% for post in site.categories.Opportunity-Knocks reversed %}
     {% if post.url %}
@@ -11,3 +14,6 @@ maintitle: "Category: Opportunity Knocks"
     {% endif %}
   {% endfor %}
 </ul>
+</div>
+</div>
+</figure>

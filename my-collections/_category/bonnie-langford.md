@@ -1,9 +1,12 @@
 ---
-layout: post-no-title-link
+layout: post-no-comments
 title: "Category: Bonnie Langford"
 maintitle: "Category: Bonnie Langford"
 ---
 
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
 <ul>
   {% for post in site.categories.Bonnie-Langford reversed %}
     {% if post.url %}
@@ -11,4 +14,7 @@ maintitle: "Category: Bonnie Langford"
     {% endif %}
   {% endfor %}
 </ul>
+</div>
+</div>
+</figure>
 

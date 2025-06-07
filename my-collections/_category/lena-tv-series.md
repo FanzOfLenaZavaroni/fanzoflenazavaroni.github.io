@@ -1,5 +1,5 @@
 ---
-layout: post-no-title-link
+layout: post-no-comments
 title: "Category: Lena"
 maintitle: "Category: Lena"
 ---

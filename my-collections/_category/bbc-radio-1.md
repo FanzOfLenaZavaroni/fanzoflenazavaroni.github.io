@@ -1,9 +1,12 @@
 ---
-layout: post-no-title-link
+layout: post-no-comments
 title: "Category: BBC Radio 1"
 maintitle: "Category: BBC Radio 1"
 ---
 
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
 <ul>
   {% for post in site.categories.BBC-Radio-1 reversed %}
     {% if post.url %}
@@ -11,4 +14,7 @@ maintitle: "Category: BBC Radio 1"
     {% endif %}
   {% endfor %}
 </ul>
+</div>
+</div>
+</figure>
 

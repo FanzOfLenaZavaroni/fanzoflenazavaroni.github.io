@@ -1,9 +1,12 @@
 ---
-layout: post-no-title-link
+layout: post-no-comments
 title: "Category: BBC Two"
 maintitle: "Category: BBC Two"
 ---
 
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
 <ul>
   {% for post in site.categories.BBC-Two reversed %}
     {% if post.url %}
@@ -11,4 +14,7 @@ maintitle: "Category: BBC Two"
     {% endif %}
   {% endfor %}
 </ul>
+</div>
+</div>
+</figure>
 
