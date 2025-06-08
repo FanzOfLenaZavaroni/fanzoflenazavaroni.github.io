@@ -2,6 +2,8 @@
 layout: post
 title: Biography &#124; Dougie Squires
 maintitle: Dougie Squires
+born: 1932
+died: 2023-05-21
 before: "Born: circa 1932 - Died: "
 description: 1932 - 21 May  2023
 post_description: 1932 - 21 May  2023

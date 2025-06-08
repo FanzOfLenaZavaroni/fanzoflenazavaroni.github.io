@@ -2,6 +2,8 @@
 layout: post
 title: Biography &#124; Harold Fielding
 maintitle: Harold Fielding
+born: 1916-12-04
+died: 2003-09-27
 before: "Born On "
 after: " - Died On 27 September 2003 (aged 86)"
 position: Theatre Producer

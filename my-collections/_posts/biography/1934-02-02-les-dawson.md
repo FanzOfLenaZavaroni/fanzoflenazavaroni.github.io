@@ -2,6 +2,8 @@
 layout: post
 title: Biography &#124; Les Dawson
 maintitle: Les Dawson
+born: 1934-02-02
+died: 1993-06-10
 before: "Born On "
 after: " - Died On 10 June 1993 (aged 59)"
 position: Comedian, Actor, Writer, and Presenter

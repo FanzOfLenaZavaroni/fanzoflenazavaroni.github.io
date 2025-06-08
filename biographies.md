@@ -2,20 +2,63 @@
 layout: post-no-comments
 title: Biographies
 maintitle: Biographies
-last_modified_at: 7 June 2025
+subtitle: Lena Zavaroni’s biography, plus brief biographies of those who guided her journey or performed with her on stage or screen.
 ---
 
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
 <ul>
-<li><h2><a href="/1916-12-04-harold-fielding/">Harold Fielding (4 December 1916 - 27 September 2003)</a></h2></li>
-<li><h2><a href="/1920-02-02-hughie-green">Hughie Green (2 February 1920 - 3 May 1997)</a></h2></li>
-<li><h2><a href="/2023-05-21-dougie-squires">Dougie Squires (1932 - 23 May 2023)</a></h2></li>
-<li><h2><a href="/1934-02-02-les-dawson">Les Dawson (2 February 1934 - 10 June 1993)</a></h2></li>
-<li><h2><a href="/1963-11-04-lena-zavaroni">Lena Zavaroni (4 November 1963 - 1 October 1999)</a></h2></li>
-<li><h2><a href="/1964-07-22-bonnie-langford">Bonnie Langford (22 July 1964 - Present)</a></h2></li>
+  {% for post in site.categories.Biography reversed %}
+    {% if post.url %}
+        <li> ——: <a href="{{ post.url }}"><strong>{{ post.maintitle }}</strong> 
+        (<strong>Born:</strong> {% assign born_parts = post.born | split: "-" %}
+        {% if born_parts.size == 3 %}
+            {{ post.born | date: "%-d %B %Y" }}
+        {% elsif born_parts.size == 2 %}
+            {{ born_parts[1] | replace: "01", "January"
+                             | replace: "02", "February"
+                             | replace: "03", "March"
+                             | replace: "04", "April"
+                             | replace: "05", "May"
+                             | replace: "06", "June"
+                             | replace: "07", "July"
+                             | replace: "08", "August"
+                             | replace: "09", "September"
+                             | replace: "10", "October"
+                             | replace: "11", "November"
+                             | replace: "12", "December"
+            }} {{ born_parts[0] }}
+        {% else %}
+            {{ post.born }}
+        {% endif %}
+        {% if post.died %}
+            , <strong>Died:</strong> {% assign died_parts = post.died | split: "-" %}
+            {% if died_parts.size == 3 %}
+                {{ post.died | date: "%-d %B %Y" }}
+            {% elsif died_parts.size == 2 %}
+                {{ died_parts[1] | replace: "01", "January"
+                                 | replace: "02", "February"
+                                 | replace: "03", "March"
+                                 | replace: "04", "April"
+                                 | replace: "05", "May"
+                                 | replace: "06", "June"
+                                 | replace: "07", "July"
+                                 | replace: "08", "August"
+                                 | replace: "09", "September"
+                                 | replace: "10", "October"
+                                 | replace: "11", "November"
+                                 | replace: "12", "December"
+                }} {{ died_parts[0] }}
+            {% else %}
+                {{ post.died }}
+            {% endif %}
+        {% endif %})</a></li>
+    {% endif %}
+  {% endfor %}
 </ul>
-</div></div>
+
+</div>
+</div>
 </figure>
 

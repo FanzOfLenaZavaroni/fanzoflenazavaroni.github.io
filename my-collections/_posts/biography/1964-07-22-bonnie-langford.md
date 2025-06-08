@@ -2,6 +2,7 @@
 layout: post
 title: Biography &#124; Bonnie Langford
 maintitle: Bonnie Langford
+born: 1964-07-22
 before: "Born On "
 after: " - Present"
 position: English Actress, Dancer And Singer
