@@ -3,6 +3,8 @@ layout: post
 title: Biography &#124; Lena Zavaroni
 maintitle: Lena Zavaroni
 subtitle: The following Biography is based On the media coverage and the public comments made by Lena Zavaroni, her family and friends
+born: 1963-11-04
+died: 1999-10-01
 before: "Born On "
 after: " - Died On 1 October 1999 (aged 35)"
 position: Singer and Television Show Host

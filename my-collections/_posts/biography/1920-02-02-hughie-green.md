@@ -2,6 +2,8 @@
 layout: post
 title: Biography &#124; Hughie Green
 maintitle: Hughie Green
+born: 1920-02-02
+died: 1997-05-03
 before: "Born On "
 after: " - Died On 3 May 1997 (aged 77)"
 position: Actor and Producer
