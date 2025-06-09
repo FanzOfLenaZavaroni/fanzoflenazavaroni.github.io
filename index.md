@@ -7,7 +7,7 @@ maintitle: Welcome to Fanz of Lena Zavaroni
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox1"><a href="#infobox1">About Lena Zavaroni</a></h2>
+<h2 id="infobox1" class="infobox"><a href="#infobox1">About Lena Zavaroni</a></h2>
 <div class="CardItem split">
 <p><strong>Lena Zavaroni</strong> was a singer who came to the public's attention in 1974 when she appeared on Opportunity Knocks on which she returned five times.</p>
 <p>She went on to have her own TV shows. She also travelled the world and despite not being a recording artist released a number of albums and singles.</p>
@@ -18,7 +18,7 @@ maintitle: Welcome to Fanz of Lena Zavaroni
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox2"><a href="#infobox2">Introduction</a></h2>
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Introduction</a></h2>
 <div class="CardItem split">
 <p>We can never know the true story of Lena Zavaroni's life as it seems to be a closed subject.</p>
 <p>The best we can do is try and build up a view based on the information covered by the media and the public comments made by Lena, her family and friends. This is why I define the Biography on this website as a Media Based Biography of Lena Zavaroni.</p>
@@ -30,7 +30,7 @@ maintitle: Welcome to Fanz of Lena Zavaroni
 <figure class="fig3">
 <div class="CardLayout" style="background: #f8d7da; border: 1px solid #dc3545;">
 <div class="CardItem">
-<h2 id="infobox3"><a href="#infobox3" style="color: #dc3545; font-weight: bold;">Important Notice</a></h2>
+<h2 id="infobox3" class="infobox"><a href="#infobox3" style="color: #dc3545; font-weight: bold;">Important Notice</a></h2>
 <div class="CardItem red-split">
 <p><strong>Important Notice:</strong> Due to copyright concerns, Fanz of Lena Zavaroni no longer adds images or videos to posts. <a href="/2025-05-02-announcement" style="color: #dc3545; font-weight: bold;">Read More</a></p>
 <p style="margin: 10px 0;"><strong>Update:</strong></p>
