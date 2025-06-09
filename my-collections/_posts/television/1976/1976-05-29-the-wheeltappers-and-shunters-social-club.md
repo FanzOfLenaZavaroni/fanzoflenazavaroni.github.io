@@ -54,6 +54,6 @@ last_modified_at: 23 December 2023
 
 <style>
 .CardLayout-Height {height: 299px}
-@media screen and (orientation:portrait) {.link-card {height: unset;}}
+@media screen and (orientation:portrait) {.CardLayout-Height {height: unset;}}
 </style>
 
