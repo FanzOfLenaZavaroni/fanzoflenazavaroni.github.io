@@ -292,7 +292,7 @@ I've got to wear all these silly costumes and try and get into them and be with 
 <h2 id="infobox25" class="infobox"><a href="#infobox25">7 September 1999</a></h2>
 <div class="CardItem split">
 <p>On the 7 September 1999 Lena Zavaroni underwent Neurosurgery for Mental Disorder (NMD) (aka Psychosurgery) the type she was treated with was Anterior Capsulotomy which is one of the 4 types of stereotactic psychosurgery available.</p>
-<p>The University Hospital of Wales iniff allowed this surgery even though Lena Zavaroni was seriously weakened by her anorexia.
+<p>The University Hospital of Wales Cardiff allowed this surgery even though Lena Zavaroni was seriously weakened by her anorexia.
 In the first days after the operation she appeared to slowly recover and seemed less unhappy; she even asked a doctor if it would be possible to resume her career.</p>
 <p>But she would never leave the hospital. Within three weeks, on 1 October 1999 she died from a Pneumonia  infection.</p>
 <p>She was just 35. At the time of her death she weighed only five stone (70 lb, 32 kg).</p>
@@ -318,10 +318,10 @@ In the first days after the operation she appeared to slowly recover and seemed 
 <div class="CardItem split">
 <p>Has four types of procedures:</p>
 <ul>
-<li> ——: anterior cingulotomy</li>
-<li> ——: subcaudate tractotomy</li>
-<li> ——: limbic leucotomy (aka lobotomy)</li>
-<li> ——: anterior capsulotomy</li>
+<li> ——: Anterior Cingulotomy</li>
+<li> ——: Subcaudate Tractotomy</li>
+<li> ——: Limbic Leucotomy (aka Lobotomy)</li>
+<li> ——: Anterior Capsulotomy</li>
 </ul>
 </div></div></div>
 </figure>
@@ -407,7 +407,7 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <div class="CardItem">
 <h2 id="infobox33" class="infobox"><a href="#infobox33">Death</a></h2>
 <div class="CardItem split">
-<p>Prior to her death Lena was admitted to University Hospital of Wales iniff for a psychosurgical operation that was described as "pioneering" and "keyhole surgery to partially interrupt the nerve pathways that control emotions".</p>
+<p>Prior to her death Lena was admitted to University Hospital of Wales Cardiff for a psychosurgical operation that was described as "pioneering" and "keyhole surgery to partially interrupt the nerve pathways that control emotions".</p>
 <p>The operation took place on 7 September 1999. After the operation she contracted Pneumonia and her weight drop to less than five stone (70 lb, 32 kg), just three weeks later she was dead.</p>
 <p>On Lena's <a href="/1999-12-15-death-certificate/">death certificate <sup><i class="fa fa-link" aria-hidden="true"></i></sup></a> it states she died from Bronchopneumonia  on 1 October 1999.</p>
 <p>But the reality of her death is not as straightforward as her death certificate implies. The description of her death as one of natural causes is as far from reality as you could get.</p>
@@ -458,7 +458,7 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <div class="CardItem split">
 <blockquote>
 <p>The hospital where tragic former childhood star Lena Zavaroni died following brain surgery has rejected claims she had undergone pioneering treatment.</p>
-<p>Miss Zavaroni, 35, died on Friday from an infection after experts at the University Hospital of Wales iniff carried out delicate neurosurgery to try to cure her mental illness.</p>
+<p>Miss Zavaroni, 35, died on Friday from an infection after experts at the University Hospital of Wales Cardiff carried out delicate neurosurgery to try to cure her mental illness.</p>
 </blockquote>
 <cite><a href="/1999-10-04-caringonline">Caring Online, 4 October 1999</a></cite>
 </div></div></div>
