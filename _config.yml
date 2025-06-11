@@ -82,7 +82,7 @@ collections:
       permalink: /discography/karaoke/:name
    miscellaneous:
       output: true
-      permalink: /more/:name
+      permalink: /miscellaneous/:name
 
 # Front Matter Defaults
 defaults:
