@@ -13,18 +13,18 @@ permalink: /discography/singles/:name
 ---
 
 <figure class="fig3">
-<div class="CardLayout Card-Padding">
+<div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox1"><a href="#infobox1">UK release</a></h2>
+<h2 id="infobox1" class="infobox"><a href="#infobox1">UK release</a></h2>
 <div class="CardItem split">
 <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/?playlist=h4agufuuabE,7iOTN0L3EjE&rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
 </div></div></div>
 </figure>
 
 <figure class="fig1">
-<div class="CardLayout Card-Padding CardLayout-Height1">
+<div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox2"><a href="#infobox2">A Side</a></h2>
+<h2 id="infobox2" class="infobox"><a href="#infobox2">A Side</a></h2>
 <div class="CardItem split">
     <div class="CardItem"><strong>Artist:</strong> Lena Zavaroni</div>
     <div class="CardItem"><strong>A side:</strong> (You've Got) Personality</div>
@@ -35,9 +35,9 @@ permalink: /discography/singles/:name
 </figure>
 
 <figure class="fig2">
-<div class="CardLayout Card-Padding CardLayout-Height1">
+<div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox3"><a href="#infobox3">B Side</a></h2>
+<h2 id="infobox3" class="infobox"><a href="#infobox3">B Side</a></h2>
 <div class="CardItem split">
     <div class="CardItem"><strong>Artist:</strong> Lena Zavaroni</div>
     <div class="CardItem"><strong>B side:</strong> Schools Out</div>
@@ -48,9 +48,9 @@ permalink: /discography/singles/:name
 </figure>
 
 <figure class="fig3">
-<div class="CardLayout Card-Padding CardLayout-Height1">
+<div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox4"><a href="#infobox4">Release Details</a></h2>
+<h2 id="infobox4" class="infobox"><a href="#infobox4">Release Details</a></h2>
 <div class="CardItem split">
     <div class="CardItem"><strong>Label:</strong> Philips - 6006 391</div>
     <div class="CardItem"><strong>Format:</strong> 7" Vinyl, 45 rpm Single</div>
@@ -61,9 +61,9 @@ permalink: /discography/singles/:name
 </figure>
 
 <figure class="fig1">
-<div class="CardLayout Card-Padding CardLayout-Height1">
+<div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox5"><a href="#infobox5">Chart Details: Week 1</a></h2>
+<h2 id="infobox5" class="infobox"><a href="#infobox5">Chart Details: Week 1</a></h2>
 <div class="CardItem split">
     <div class="CardItem"><strong>Start of the week (Sunday):</strong> 26 May 1974</div>
     <div class="CardItem"><strong>End of the week (Saturday):</strong> 1 June 1974</div>
@@ -74,9 +74,9 @@ permalink: /discography/singles/:name
 </figure>
 
 <figure class="fig2">
-<div class="CardLayout Card-Padding CardLayout-Height1">
+<div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox6"><a href="#infobox6">Chart Details: Week 2</a></h2>
+<h2 id="infobox6" class="infobox"><a href="#infobox6">Chart Details: Week 2</a></h2>
 <div class="CardItem split">
     <div class="CardItem"><strong>Start of the week (Sunday):</strong> 2 June 1974</div>
     <div class="CardItem"><strong>End of the week (Saturday):</strong> 8 June 1974</div>
@@ -87,9 +87,9 @@ permalink: /discography/singles/:name
 </figure>
 
 <figure class="fig3">
-<div class="CardLayout Card-Padding CardLayout-Height1">
+<div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox6"><a href="#infobox6">Chart Details: Week 3</a></h2>
+<h2 id="infobox6" class="infobox"><a href="#infobox6">Chart Details: Week 3</a></h2>
 <div class="CardItem split">
     <div class="CardItem"><strong>Start of the week (Sunday):</strong> 9 June 1974</div>
     <div class="CardItem"><strong>End of the week (Saturday):</strong> 15 June 1974</div>
@@ -100,10 +100,4 @@ permalink: /discography/singles/:name
     <div class="CardItem"><strong>PDF:</strong> &nbsp; <a href="/assets/data/Official Singles Chart Top 50 Positions For Lena Zavaroni's single (You've Got) Personality.pdf">Official Singles Chart Top 50 Positions For Lena Zavaroni's single (You've Got) Personality.pdf</a></div>
 </div></div></div>
 </figure>
-
-<style>
-.Card-Padding {padding-top: 0px;}
-.CardLayout-Height {height: 646.617px;}
-@media screen and (orientation:portrait) {.CardLayout-Height1 {height: unset;}}
-</style>
 
