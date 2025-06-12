@@ -37,7 +37,7 @@ last_modified_at: 26 November 2023
 
 <figure class="fig1">
 <div class="CardLayout CardLayout-Height2">
-<div class="CardItem"><h2 id="infobox3" class="infobox"><a href="#infobox3">Cast</a></h2></div>
+<div class="CardItem"><h2 id="infobox3" class="infobox"><a href="#infobox3">Cast</a></h2>
 <div class="CardItem split">
 <ul>
 <li><strong>Hostess and Signer:</strong> Lena Zavaroni</li>
@@ -46,18 +46,18 @@ last_modified_at: 26 November 2023
 <li><strong>Special Guest:</strong> Berni Flint</li>
 <li><strong>Dancers</strong> The Ace Eight</li>
 </ul>
-<div class="CardLayout CardLayout-Margin">
-<div class="CardItem">
+</div>
+<div class="CardItem"><h2 id="infobox4" class="infobox"><a href="#infobox4">Links</a></h2>
 <ul>
 <li><strong>Category:</strong> <a href="/category/lena-zavaroni-and-music">Lena Zavaroni and Music</a></li>
 <li><strong>BBC Genome:</strong> <a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1979-06-20#at-18.50">Series 1, Episode 5</a></li>
 </ul>
-</div></div></div></div>
+</div></div></div>
 </figure>
 
 <figure class="fig2">
 <div class="CardLayout CardLayout-Height2">
-<div class="CardItem"><h2 id="infobox4" class="infobox"><a href="#infobox4">Crew</a></h2></div>
+<div class="CardItem"><h2 id="infobox4" class="infobox"><a href="#infobox4">Crew</a></h2>
 <div class="CardItem split">
 <ul>
 <li><strong>Orchestra:</strong> Alyn Ainsworth and his Orchestra</li>
@@ -70,13 +70,13 @@ last_modified_at: 26 November 2023
 <li><strong>Designer:</strong> Nigel Curzon</li>
 <li><strong>Production</strong> David G. Hillier</li>
 </ul>
-</div></div>
+</div></div></div>
 </figure>
 
 <style>
 .CardLayout-Margin {margin: auto;}
 .CardLayout-Height1 {height:531.5px;}
-.CardLayout-Height2 {height:391.5px;}
+.CardLayout-Height2 {height:400.5px;}
 @media screen and (orientation:portrait) {.CardLayout-Height1, .CardLayout-Height2 {height: unset;}}
 </style>
 

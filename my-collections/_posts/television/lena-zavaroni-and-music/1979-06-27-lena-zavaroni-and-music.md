@@ -39,7 +39,7 @@ last_modified_at: 26 November 2023
 
 <figure class="fig1">
 <div class="CardLayout CardLayout-Height2">
-<div class="CardItem"><h2 id="infobox3" class="infobox"><a href="#infobox3">Cast</a></h2></div>
+<div class="CardItem"><h2 id="infobox3" class="infobox"><a href="#infobox3">Cast</a></h2>
 <div class="CardItem split">
 <ul>
 <li><strong>Hostess and Signer:</strong> Lena Zavaroni</li>
@@ -49,18 +49,18 @@ last_modified_at: 26 November 2023
 <li><strong>Special Guest:</strong> Johnny Hutch & the Half-Wits</li>
 <li><strong>Dancers</strong> The Ace Eight</li>
 </ul>
-<div class="CardLayout CardLayout-Margin">
-<div class="CardItem">
+</div>
+<div class="CardItem"><h2 id="infobox4" class="infobox"><a href="#infobox4">Links</a></h2>
 <ul>
 <li><strong>Category:</strong> <a href="/category/lena-zavaroni-and-music">Lena Zavaroni and Music</a></li>
 <li><strong>BBC Genome:</strong> <a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1979-06-27#at-19.40">Series 1, Episode 6</a></li>
 </ul>
-</div></div></div></div>
+</div></div></div>
 </figure>
 
 <figure class="fig2">
 <div class="CardLayout CardLayout-Height2">
-<div class="CardItem"><h2 id="infobox4" class="infobox"><a href="#infobox4">Crew</a></h2></div>
+<div class="CardItem"><h2 id="infobox4" class="infobox"><a href="#infobox4">Crew</a></h2>
 <div class="CardItem split">
 <ul>
 <li><strong>Unless indicated otherwise the same individuals worked on all episodes</strong></li>
@@ -75,7 +75,7 @@ last_modified_at: 26 November 2023
 <li><strong>Designer:</strong> Andrew H. Davies (Episode 4)</li>
 <li><strong>Production:</strong> David G. Hillier</li>
 </ul>
-</div></div>
+</div></div></div>
 </figure>
 
 <style>

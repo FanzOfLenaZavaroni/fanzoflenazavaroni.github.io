@@ -10,84 +10,74 @@ image: /assets/images/BBC/1978-06-13-cabaret-showtime.jpg
 categories: [BBC-One, Cabaret-Showtime, OnThisDay13June]
 ---
 
-<table>
-<tr align="center">
-<th colspan="5">Jump To:</th>
-<th colspan="2">External Links:</th>
-</tr>
-
-<tr align="center">
-<td><a href="#screenshot">Screenshot</a></td>
-<td><a href="#clipping">Clipping</a></td>
-<td><a href="#summary">Summary</a></td>
-<td><a href="#cast">Cast</a></td>
-<td><a href="#crew">Crew</a></td>
-<td><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1978-06-13#at-22.10">BBC Genome</a></td>
-<td><a href="https://wiki.scotlandonair.com/wiki/Cabaret_Showtime">Scotland On Air Wiki</a></td>
-</tr>
-</table>
-
 <figure class="fig3">
-<figcaption>
-<h2 id="screenshot"><a href="#screenshot">Screenshot</a></h2>
-</figcaption>
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Screenshot</a></h2>
+<div class="CardItem split">
 <img src="/assets/images/BBC/1978-06-13-cabaret-showtime.jpg" class="full-width"/>
-<figcaption>
 <cite>Screenshot of Lena Zavaroni on Cabaret Showtime, 13 June 1978</cite>
-</figcaption>
+</div></div></div>
 </figure>
 
 <figure class="fig3">
-<figcaption>
-<h2 id="clipping"><a href="#clipping">Clipping</a></h2>
-</figcaption>
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Clipping</a></h2>
+<div class="CardItem split">
 <a href="/assets/images/newspapers/1978-06-09-wishaw-press-cliping-page-14-cropped.png"><img src="/assets/images/newspapers/1978-06-09-wishaw-press-cliping-page-14.png" class="full-width zoom-in"/></a>
-<figcaption>
 <cite>The Wishaw Press 9 June 1978, page 14, clipping</cite>
-</figcaption>
+</div></div></div>
 </figure>
 
-{: .clear}
-
 <figure class="fig3">
-<h2 id="summary"><a href="#summary">Summary</a></h2>
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox3" class="infobox"><a href="#infobox3">Summary</a></h2>
+<div class="CardItem split">
 <p>In this episode of the programme recorded at the Civic Centre, Motherwell, Jimmy Logan introduces his special guest Lena Zavaronl also featuring The New Seekers, Danny Street, Andy Cameron and Alex Welsh and His Band.</p>
+</div></div></div>
 </figure>
 
-{: .clear}
-
-<figure class="fig3">
-<figcaption>
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-</figcaption>
-<table>
-<tr><th>Presenter</th><td>Jimmy Logan</td></tr>
-<tr><th>Special Guest</th><td>Lena Zavaroni</td></tr>
-<tr><th>Guest</th><td>Danny Street</td></tr>
-<tr><th>Guest</th><td>Andy Cameron</td></tr>
-<tr><th>Guest</th><td>Alex Welsh And His Band</td></tr>
-<tr><th>Guest</th><td>The New Seekers</td></tr>
-</table>
+<figure class="fig1">
+<div class="CardLayout CardLayout-Height">
+<div class="CardItem">
+<h2 id="infobox4" class="infobox"><a href="#infobox4">Cast</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Presenter</strong> Jimmy Logan</li>
+<li><strong>Special Guest</strong> Lena Zavaroni</li>
+<li><strong>Guest</strong> Danny Street</li>
+<li><strong>Guest</strong> Andy Cameron</li>
+<li><strong>Guest</strong> Alex Welsh And His Band</li>
+<li><strong>Guest</strong> The New Seekers</li>
+</ul>
+</div></div></div>
 </figure>
 
-<figure class="fig3">
-<figcaption>
-<h2 id="crew"><a href="#crew">Crew</a></h2>
-</figcaption>
-<table>
-<tr><th>Band</th><td>Brian Fahey and the Scottish Radio' Orchestra</td></tr>
-<tr><th>Band Leader</th><td>Ian Tyre</td></tr>
-<tr><th>Script</th><td>Gary Chambers</td></tr>
-<tr><th>Script</th><td>Wallt Makston</td></tr>
-<tr><th>Choreographer</th><td>Brian Rodgers</td></tr>
-<tr><th>Lighting</th><td>Roy Smith</td></tr>
-<tr><th>Sound</th><td>Alan Bunting</td></tr>
-<tr><th>Sound</th><td>Ron Allan</td></tr>
-<tr><th>Designer</th><td>Helen Rae</td></tr>
-<tr><th>Producer</th><td>Iain MacFadyen</td></tr>
-<tr><th>Production company</th><td>BBC Scotland</td></tr>
-</table>
+<figure class="fig2">
+<div class="CardLayout CardLayout-Height">
+<div class="CardItem">
+<h2 id="infobox5" class="infobox"><a href="#infobox5">Crew</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Band</strong> Brian Fahey and the Scottish Radio' Orchestra</li>
+<li><strong>Band Leader</strong> Ian Tyre</li>
+<li><strong>Script</strong> Gary Chambers</li>
+<li><strong>Script</strong> Wallt Makston</li>
+<li><strong>Choreographer</strong> Brian Rodgers</li>
+<li><strong>Lighting</strong> Roy Smith</li>
+<li><strong>Sound</strong> Alan Bunting</li>
+<li><strong>Sound</strong> Ron Allan</li>
+<li><strong>Designer</strong> Helen Rae</li>
+<li><strong>Producer</strong> Iain MacFadyen</li>
+<li><strong>Production company</strong> BBC Scotland</li>
+</ul>
+</div></div></div>
 </figure>
 
-<br />{: .clear}
+<style>
+.CardLayout-Height {height:436.5px;}
+@media screen and (orientation:portrait) {.CardLayout-Height {height: unset;}}
+</style>
 
