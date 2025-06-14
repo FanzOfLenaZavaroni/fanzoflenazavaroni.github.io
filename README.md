@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update index.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8c636e7576be5f7a14d2d0983649ec36e8223955)
-- [Update home.html, october10.html, and 3 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/38eab1d4a2461b4cc16a19b066c40722c1b31f27)
-- [Update _config.yml, onthisday.html, and 15 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d28cf11a021a0102bbcab95f018bea3bc1888008)
-- [Update onthisday.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/db0e83089e7f8cbaf1fcbb9b2be5f0500f2017da)
-- [Update discography.html, post-no-comments.html, and 4 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/104274accc3283df127f94e1b96caa3b58478cdd)
+- [Update 1978-06-17-emma-a.jpg, 1978-06-17-emma-b.jpg, and 73 more file…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8b4fc4404ff7a4a5e123f7b7d11f1f4ec8d958b6)
+- [Update 1974-06-14-merv-griffin-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/40921fb0d4e4a63cadef8d4188dd4e338ed631c0)
+- [Update 1974-06-14-merv-griffin-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7b1175e389ab9dc79b797cbc8fb6ebc7f36ae2a1)
+- [Update 2023-06-14-Newsbank.md, 1974-05-24-personality-uk.md, and 7 mo…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/840dd0afff1af460bf779e9642727eab6570061b)
+- [Update 1963-11-04-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7534e21a37d0b9594b866ef667b7adb167ad2753)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
