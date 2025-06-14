@@ -24,7 +24,7 @@ last_modified_at: 14 June 2025
 
 <figure class="fig3">
 <div class="CardLayout CardLayout-Height1">
-<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Cast</a></h2></div>
+<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Cast</a></h2></div>
 <div class="CardItem split">
 <ul>
 <li><strong>Presenter:</strong> Merv Griffin</li>
