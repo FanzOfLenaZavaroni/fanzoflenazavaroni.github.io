@@ -8,22 +8,25 @@ post_description: The Les Humphries Singers Tribute!!!
 categories: [WHUP-Radio-104.7-FM, Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay23May]
 tags: podcasts
 permalink: /discography/podcasts/:name
-last_modified_at: 8 August 2024
+last_modified_at: 14 Jube 2025
 ---
 
 <figure class="fig3">
-<h2 id="infobox1"><a href="#infobox1">Podcast Spoken In English</a></h2>
-
-<p><strong style="color:#ff0000;">Embed No More:</strong> The former podcast <strong>D-Sides, Orphans, and Oddities</strong> is now an audio stream that removes each episode after two weeks.</p>
-
-<p><strong>Current source for details of this episode:</strong> <a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/the-les-humphries-singers-w4Qe9_qXjy2">ListenNotes</a></p>
-
-<p><strong>D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs:</strong> <a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities/">WHUP Radio 104.7 FM</a></p>
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Spoken Language: English</a></h2></div>
+<div class="CardItem split">
+<p><span style="color: #ff0000; font-weight: bold;">EMBED NO MORE:</span> The former podcast <strong>D-Sides, Orphans, and Oddities</strong> has transitioned to an audio stream. Episodes are now removed after two weeks, eliminating the archive and tracklisting features. As a result, specific episodes—including those featuring Lena Zavaroni—can no longer be identified. Past podcast details remain on the related pages, but with embedded content removed, as the original embed feature is no longer functional. Since the stream does not offer archives, new episodes will not be added to this website.</p>
+<p><a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/the-les-humphries-singers-w4Qe9_qXjy2/">ListenNotes</a> Current source for details of this episode.</p>
+<p><a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities/">WHUP Radio 104.7 FM</a> D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs</p>
+</div>
+</div>
 </figure>
 
 <figure class="fig3">
-<h2 id="infobox2"><a href="#infobox2">The Les Humphries Singers Tribute!!!</a></h2>
-<p>Rose Tattoo - We Can’t Be Beaten (1982) Sounds like AC/DC, no? Same producers. I love Rose Tattoo. I have discovered lots of good stuff doing this show. I like this band.</p>
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">The Les Humphries Singers Tribute!!!</a></h2></div>
+<div class="CardItem split">
+<p>Rose Tattoo - We Can’t Be Beaten (1982) Sounds like AC/DC, no? Same producers. I love Rose Tattoo. I have discovered lots of good stuff doing this show. I like this band</p>
 <p>Andy Williams - Age of Aquarius/Let The Sun Shine In (1969) As I said, Andy tied EVERYTHING. He refused to be tied down.</p>
 <p>Billy Paul - Let ‘Em In (1976) A cover of the almost concurrent original by Paul McCartney and Wings. Only this version features references to black heroes and well-known newsmakers.</p>
 <p>Dean Martin - By The Time I Get To Phoenix (1968)</p>
@@ -59,7 +62,7 @@ last_modified_at: 8 August 2024
 <p>Lawrence Welk and His Orchestra - The “In” Crowd (1965)</p>
 <p>Pat Boone - U.F.O. (1975)</p>
 <p>Scott Walker - Joanna (1970)</p>
+</div>
+</div>
 </figure>
-
-<br />{: .clear}
 
