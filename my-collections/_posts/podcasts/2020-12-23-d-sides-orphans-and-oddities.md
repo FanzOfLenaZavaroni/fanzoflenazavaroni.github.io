@@ -6,7 +6,7 @@ subtitle: WHUP Radio 104.7 FM &copy; Hillsborough Community Media
 description: Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself.
 post_description: Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself.
 image: /assets/images/podcasts/
-categories: [WHUP-Radio-104.7-FM, Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay23December]
+categories: [WHUP-Radio-104.7-FM, Discography-Podcasts, D-Sides-Orphans-and-Oddities, OnThisDay23December]
 tags: podcasts
 permalink: /discography/podcasts/:name
 last_modified_at: 8 August 2024

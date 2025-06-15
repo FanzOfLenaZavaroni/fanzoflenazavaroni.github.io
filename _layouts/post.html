@@ -70,9 +70,9 @@ layout: default
     {% endfor %}
     
     {% if skip %}
-      {{ category | replace: "-", " " }}
+      {{ category }}
     {% else %}
-      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category | replace: "-", " " }}</a>
+      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category }}</a>
     {% endif %}
     
     {% unless forloop.last %}&nbsp;{% endunless %}

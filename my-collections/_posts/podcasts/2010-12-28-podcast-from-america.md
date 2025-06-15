@@ -6,7 +6,7 @@ subtitle: Episode 6 With Bonnie Langford
 description: Episode 6 With Bonnie Langford
 post_description: Episode 6 With Bonnie Langford
 image: /assets/images/podcasts/PFA.jpg
-categories: [Discography:-Podcasts, Podcast From America, OnThisDay28December]
+categories: [Discography-Podcasts, Podcast-From-America, OnThisDay28December]
 tags: podcasts
 permalink: /discography/podcasts/:name
 last_modified_at: 31 December 2023
