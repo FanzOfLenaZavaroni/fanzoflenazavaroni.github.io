@@ -5,7 +5,7 @@ maintitle: White Wine Question Time
 subtitle: Bonnie Langford
 description: Bonnie Langford on her illustrious career, learning from failure, and standing up for yourself.
 post_description: Bonnie Langford on her illustrious career, learning from failure, and standing up for yourself.
-categories: [Discography:-Podcasts, White-Wine-Question-Time, OnThisDay21April]
+categories: [Discography-Podcasts, White-Wine-Question-Time, OnThisDay21April]
 tags: podcasts
 permalink: /discography/podcasts/:name
 last_modified_at: 21 April 2025

@@ -5,7 +5,7 @@ maintitle: D-Sides, Orphans, and Oddities
 subtitle: WHUP Radio 104.7 FM &copy; Hillsborough Community Media
 description: Steely Dan outtakes are better than your favorite band's greatest hits. Fight me.
 post_description: Steely Dan outtakes are better than your favorite band's greatest hits. Fight me.
-categories: [WHUP-Radio-104.7-FM, Discography:-Podcasts, D-Sides Orphans and Oddities, OnThisDay17June]
+categories: [WHUP-Radio-104.7-FM, Discography-Podcasts, D-Sides-Orphans-and-Oddities, OnThisDay17June]
 tags: podcasts
 permalink: /discography/podcasts/:name
 last_modified_at: 8 August 2024

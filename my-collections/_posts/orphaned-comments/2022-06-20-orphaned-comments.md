@@ -10,6 +10,10 @@ categories: [Orphaned-Comments, OnThisDay20June]
 last_modified_at: 23 December 2023
 ---
 
+<figure class="fig3">
+<div class="CardLayout CardLayout-Height1">
+<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Details</a></h2></div>
+<div class="CardItem split">
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/54239649" class="shape"/>Robcamstone (<a class="link" href="https://github.com/FanzOfLenaZavaroni">Fanz Of Lena Zavaroni</a>)</p>
 <p>Due to a system failure logged <a class="link" href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/discussions/2">here</a> The comments made by visitors were lost.</p>
@@ -17,9 +21,13 @@ last_modified_at: 23 December 2023
 <p>Sadly Github did not send me emails of my comments or replies, so that is why some of the comments will feel strange as the commenter may be responding to one of my missing comments.</p>
 <p>That is why I have defined them as Orphaned Comments.</p>
 </div>
+</div></div>
+</figure>
 
-<h2 id="orphaned"><a href="#orphaned">Orphaned Comment</a></h2>
-
+<figure class="fig3">
+<div class="CardLayout CardLayout-Height1">
+<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Orphaned Comment</a></h2></div>
+<div class="CardItem split">
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/54290841" class="shape"/>From <a class="link" href="https://github.com/StephenMolloy1">Stephen Molloy</a> - Date 20 June 2020 at 17:45:07 BST</p>
 <p>Subject: <a class="link" href="/1982-09-11-the-lena-zavaroni-show/">Re: [FanzOfLenaZavaroni/fanzoflenazavaroni.github.io] 1982-09-11-the-lena-zavaroni-show (#44)</a></p>
@@ -27,10 +35,11 @@ last_modified_at: 23 December 2023
 <p>Found on a local facebook page. She did indeed cancel due to ill health, and The Bachelors stood in for her.</p>
 <p><a href="https://www.facebook.com/photo.php?fbid=4751383516114&set=p.4751383516114&type=1&theater">https://www.facebook.com/photo.php?fbid=4751383516114&set=p.4751383516114&type=1&theater</a></p>
 </div>
+</div></div>
+</figure>
 
 <style>
 .discussions {background-color:#f6f8fa; color:#000; padding: 10px; border-radius: 0.25rem; border-style: solid; border-color: #DBDBDB; border-width: 1px;}
-
 .shape {
     background-color: var(--color-avatar-bg);
     border-radius: 50%;

@@ -10,5 +10,12 @@ image: https://live.staticflickr.com/3552/3826412639_c8e5809d00_n_d.jpg
 categories: [Theatre, The-Villa-Marina, OnThisDay19June]
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/brighton/3826412639" title="Villa Marina, Douglas, Isle Of Man."><img src="https://live.staticflickr.com/3552/3826412639_c8e5809d00_b.jpg" width="1024" height="639" alt="Villa Marina, Douglas, Isle Of Man."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<figure class="fig3">
+<div class="CardLayout CardLayout-Height1">
+<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Flickr</a></h2></div>
+<div class="CardItem split">
+<a href="https://www.flickr.com/photos/brighton/3826412639" title="Villa Marina, Douglas, Isle Of Man."><img src="https://live.staticflickr.com/3552/3826412639_c8e5809d00_z.jpg" class="full-width zoom-in" /></a>
+<cite>Sadly! We currently have no details for this event other than the date.</cite>
+</div></div>
+</figure>
 
