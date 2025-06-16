@@ -6,21 +6,21 @@ subtitle: Picks of the week
 description: Series 2 of Lena was one of the Sunday Mirror's picks for Wednesday.
 media: Picks of the week
 post_description: Series 2 of Lena was one of the Sunday Mirror's picks for Wednesday.
-categories: [Newspaper&#58; Sunday-Mirror, OnThisDay5April]
+categories: [Newspaper-Mirror, OnThisDay5April]
 ---
 
 <figure class="fig1">
 <figcaption>
 <h2 id="front-cover">Front Cover</h2>
 </figcaption>
-<a href="/assets/images/sunday-mirror/1981-04-05-sunday-mirror-front-cover.png"><img src="/assets/images/sunday-mirror/1981-04-05-sunday-mirror-front-cover.png" class="full-width zoom-in"></a>
+<a href="/assets/images/mirror/1981-04-05-mirror-front-cover.png"><img src="/assets/images/mirror/1981-04-05-mirror-front-cover.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
 <h2 id="page-27">Page 27</h2>
 </figcaption>
-<a href="/assets/images/sunday-mirror/1981-04-05-sunday-mirror-page-27.png"><img src="/assets/images/sunday-mirror/1981-04-05-sunday-mirror-page-27.png" class="full-width zoom-in"></a>
+<a href="/assets/images/mirror/1981-04-05-mirror-page-27.png"><img src="/assets/images/mirror/1981-04-05-mirror-page-27.png" class="full-width zoom-in"></a>
 </figure>
 
 {: .clear}
@@ -29,7 +29,7 @@ categories: [Newspaper&#58; Sunday-Mirror, OnThisDay5April]
 <figcaption>
 <h2 id="page-27-cropped">Page 27 - Cropped</h2>
 </figcaption>
-<a href="/assets/images/sunday-mirror/1981-04-05-sunday-mirror-page-27-cropped.png"><img src="/assets/images/sunday-mirror/1981-04-05-sunday-mirror-page-27-cropped.png" class="full-width zoom-in"></a>
+<a href="/assets/images/mirror/1981-04-05-mirror-page-27-cropped.png"><img src="/assets/images/mirror/1981-04-05-mirror-page-27-cropped.png" class="full-width zoom-in"></a>
 </figure>
 
 <br />{: .clear}

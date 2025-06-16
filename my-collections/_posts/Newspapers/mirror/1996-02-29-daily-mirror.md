@@ -5,13 +5,13 @@ maintitle: Daily Mirror
 subtitle: Lena Zavaroni In Popular Culture
 description: Lena Zavaroni In Popular Culture.
 post_description: Lena Zavaroni In Popular Culture.
-categories: [Newspaper&#58; Daily-Mirror, Popular-Culture, OnThisDay29February]
+categories: [Newspaper-Mirror, Popular-Culture, OnThisDay29February]
 last_modified_at: 24 February 2024
 ---
 
 <figure class="fig1">
 <h2 id="infobox1"><a href="#infobox1">Front Cover</a></h2>
-<a href="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-fc.png"><img src="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-fc.png" class="full-width zoom-in"></a>
+<a href="/assets/images/newspapers/mirror/1996-02-29-mirror-fc.png"><img src="/assets/images/newspapers/mirror/1996-02-29-mirror-fc.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
@@ -27,12 +27,12 @@ last_modified_at: 24 February 2024
 
 <figure class="fig1">
 <h2 id="infobox3"><a href="#infobox3">Page 24</a></h2>
-<a href="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-page-24.png"><img src="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-page-24.png" class="full-width"></a>
+<a href="/assets/images/newspapers/mirror/1996-02-29-mirror-page-24.png"><img src="/assets/images/newspapers/mirror/1996-02-29-mirror-page-24.png" class="full-width"></a>
 </figure>
 
 <figure class="fig2">
 <h2 id="infobox4"><a href="#infobox4">Page 25</a></h2>
-<a href="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-page-25.png"><img src="/assets/images/newspapers/daily-mirror/1996-02-29-daily-mirror-page-25.png" class="full-width"></a>
+<a href="/assets/images/newspapers/mirror/1996-02-29-mirror-page-25.png"><img src="/assets/images/newspapers/mirror/1996-02-29-mirror-page-25.png" class="full-width"></a>
 </figure>
 
 <br />{: .clear}

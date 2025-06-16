@@ -6,7 +6,7 @@ subtitle: Newspaper
 description: "Capital Radio's music director of London's independent commercial radio station, Aiden Day said: &quot;We are not playing Paper Lace and we are not playing Lena Zavaroni, Bay City Rollers, Freddie Starr and Hudson Ford.&quot;"
 post_description: "Capital Radio's music director of London's independent commercial radio station, Aiden Day said: &quot;We are not playing Paper Lace and we are not playing Lena Zavaroni, Bay City Rollers, Freddie Starr and Hudson Ford.&quot;"
 image: /assets/images/newspapers/billboard/1974-03-30-billboard-fc.png
-categories: [Newspaper&#58; Billboard, OnThisDay30March]
+categories: [Newspaper-Billboard, OnThisDay30March]
 last_modified_at: 6 April 2024
 ---
 

@@ -6,7 +6,7 @@ subtitle: Newspaper
 description: Billboard Newspaper had a couple of articles that referenced Lena Zavaroni.
 post_description: had a couple of articles that referenced Lena Zavaroni.
 image: /assets/images/newspapers/billboard/1974-09-14-billboard-front-cover.jpg
-categories: [Newspaper&#58; Billboard, OnThisDay14September]
+categories: [Newspaper-Billboard, OnThisDay14September]
 last_modified_at: 6 April 2024
 ---
 
