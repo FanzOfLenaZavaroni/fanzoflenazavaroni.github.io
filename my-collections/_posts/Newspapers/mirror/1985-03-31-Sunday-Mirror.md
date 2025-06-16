@@ -6,21 +6,21 @@ subtitle: Pick of the day
 description: A Royal Night of One Hundred Stars
 media: Pick of the day
 post_description: A Royal Night of One Hundred Stars
-categories: [Newspaper&#58; Sunday-Mirror, OnThisDay31March]
+categories: [Newspaper-Mirror, OnThisDay31March]
 ---
 
 <figure class="fig1">
 <figcaption>
 <h2 id="front-cover">Front Cover</h2>
 </figcaption>
-<a href="/assets/images/sunday-mirror/1985-03-31-sunday-mirror-front-cover.png"><img src="/assets/images/sunday-mirror/1985-03-31-sunday-mirror-front-cover.png" class="full-width zoom-in"></a>
+<a href="/assets/images/mirror/1985-03-31-mirror-front-cover.png"><img src="/assets/images/mirror/1985-03-31-mirror-front-cover.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
 <h2 id="page-26">Page 26</h2>
 </figcaption>
-<a href="/assets/images/sunday-mirror/1985-03-31-sunday-mirror-page-26.png"><img src="/assets/images/sunday-mirror/1985-03-31-sunday-mirror-page-26.png" class="full-width zoom-in"></a>
+<a href="/assets/images/mirror/1985-03-31-mirror-page-26.png"><img src="/assets/images/mirror/1985-03-31-mirror-page-26.png" class="full-width zoom-in"></a>
 </figure>
 
 {: .clear}
@@ -29,7 +29,7 @@ categories: [Newspaper&#58; Sunday-Mirror, OnThisDay31March]
 <figcaption>
 <h2 id="page-26-cropped">Page 26 - Cropped</h2>
 </figcaption>
-<a href="/assets/images/sunday-mirror/1985-03-31-sunday-mirror-page-26-cropped.png"><img src="/assets/images/sunday-mirror/1985-03-31-sunday-mirror-page-26-cropped.png" class="full-width zoom-in"></a>
+<a href="/assets/images/mirror/1985-03-31-mirror-page-26-cropped.png"><img src="/assets/images/mirror/1985-03-31-mirror-page-26-cropped.png" class="full-width zoom-in"></a>
 </figure>
 
 <br />{: .clear}

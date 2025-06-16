@@ -6,7 +6,7 @@ subtitle: I'm so glad to be home. I only wish Lena was here; TRAGIC STAR'S DAD R
 description: I'm so glad to be home. I only wish Lena was here; TRAGIC STAR'S DAD RETURNS TO ROTHESAY AFTER 21 YEARS
 media: Newspaper
 post_description: I'm so glad to be home. I only wish Lena was here; TRAGIC STAR'S DAD RETURNS TO ROTHESAY AFTER 21 YEARS
-categories: [Newspaper&#58; Sunday-Mail, OnThisDay27May]
+categories: [Newspaper-Sunday-Mail, OnThisDay27May]
 ---
 
 <figure class="fig3">

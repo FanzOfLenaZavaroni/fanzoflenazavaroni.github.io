@@ -6,7 +6,7 @@ subtitle: Ray was besotted with my Lena... but he was never any more than her fr
 description: Ray was besotted with my Lena... but he was never any more than her friend; Father says her will proves she never planned to marry singer.
 media: The Sunday Mirror
 post_description: Ray was besotted with my Lena... but he was never any more than her friend; Father says her will proves she never planned to marry singer.
-categories: [Newspaper&#58; Sunday-Mirror, OnThisDay30January]
+categories: [Newspaper-Mirror, OnThisDay30January]
 ---
 
 > LENA Zavaroni had been dead only a few days when club singer Ray Dexter suddenly announced that he was her fiance.

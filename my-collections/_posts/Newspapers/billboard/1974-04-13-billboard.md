@@ -5,7 +5,7 @@ maintitle: Billboard
 subtitle: Newspaper
 description: Lena Zavaroni - Brussels, Copenhagen and Britain.
 post_description: Lena Zavaroni - Brussels, Copenhagen and Britain.
-categories: [Newspaper&#58; Billboard, OnThisDay13April]
+categories: [Newspaper-Billboard, OnThisDay13April]
 image: /assets/images/newspapers/billboard/1974-04-13-01-billboard.png
 last_modified_at: 6 April 2024
 ---

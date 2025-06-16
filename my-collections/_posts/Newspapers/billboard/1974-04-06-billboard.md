@@ -5,7 +5,7 @@ maintitle: Billboard
 subtitle: Newspaper
 description: Lena Zavaroni's single Ma! (He's Making Eyes At Me) moves down the charts from number 17 to number 26.
 post_description: Lena Zavaroni's single Ma! (He's Making Eyes At Me) moves down the charts from number 17 to number 26.
-categories: [Newspaper&#58; Billboard, OnThisDay6April]
+categories: [Newspaper-Billboard, OnThisDay6April]
 image: /assets/images/newspapers/billboard/1974-04-06-01-billboard.png
 last_modified_at: 6 April 2024
 ---

@@ -6,7 +6,7 @@ subtitle: Newspaper
 description: Ibgui Launches Twin Labels with plans to produce Lena Zavaroni on one of them.
 post_description: Ibgui Launches Twin Labels with plans to produce Lena Zavaroni on one of them.
 image: /assets/images/newspapers/billboard/1979-02-17-billboard-fc.png
-categories: [Newspaper&#58; Billboard, OnThisDay17February]
+categories: [Newspaper-Billboard, OnThisDay17February]
 last_modified_at: 6 April 2024
 ---
 

@@ -6,7 +6,7 @@ subtitle:  "Stealing in the Limelight; Why Do Rich and Famous Go Shoplifting?"
 description: "Stealing in the Limelight; Why Do Rich and Famous Go Shoplifting?"
 Media: Newspaper
 post_description: "Stealing in the Limelight; Why Do Rich and Famous Go Shoplifting?"
-categories: [Newspaper&#58; Daily-Mirror, OnThisDay9November]
+categories: [Newspaper-Mirror, OnThisDay9November]
 ---
 
 <cite><a href="https://www.thefreelibrary.com/Stealing+IN+THE+limelight%3b+WHY+DO+RICH+AND+FAMOUS+GO+SHOPLIFTING%3f-a0124315955">The Free Library</a></cite>

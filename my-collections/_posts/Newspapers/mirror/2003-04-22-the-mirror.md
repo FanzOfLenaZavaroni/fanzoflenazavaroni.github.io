@@ -5,7 +5,7 @@ maintitle: The Mirror Website
 subtitle: The Scurra
 description: THE family of Lena Zavaroni have accused an author of cashing in on the late singer's memory, I learn.
 post_description: THE family of Lena Zavaroni have accused an author of cashing in on the late singer's memory, I learn.
-categories: [Newspaper&#58; Daily-Mirror, Andrew-O'Hagan, OnThisDay22April]
+categories: [Newspaper-Mirror, Andrew-O'Hagan, OnThisDay22April]
 ---
 
 <blockquote>
