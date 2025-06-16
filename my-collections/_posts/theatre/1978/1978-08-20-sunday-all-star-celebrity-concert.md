@@ -7,7 +7,7 @@ description: Starring Lena Zavaroni with Bert Weedon, Tony Evans, Valentine, Rod
 media: Details
 post_description: Starring Lena Zavaroni with Bert Weedon, Tony Evans, Valentine, Rod Hartley and the Stuart Atkins Band.
 image: /assets/images/theatres/1978-08-20-sunday-all-star-celebrity-concert.jpg
-categories: [Theatre, ABC-Theatre, Blackpool, OnThisDay20August]
+categories: [Theatres, ABC-Theatre, Blackpool, OnThisDay20August]
 ---
 
 ![](/assets/images/theatres/1978-08-20-sunday-all-star-celebrity-concert.jpg)

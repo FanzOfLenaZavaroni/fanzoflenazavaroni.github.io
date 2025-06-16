@@ -5,7 +5,7 @@ maintitle: Lena Zavaroni In Cabaret
 subtitle: The Kelvin Centre, Glasgow
 description:
 post_description:
-categories: [Theatre, Kelvin Centre, Glasgow, OnThisDay19May, OnThisDay20May]
+categories: [Theatres, Kelvin Centre, Glasgow, OnThisDay19May, OnThisDay20May]
 ---
 
 {{ page.post_description }}

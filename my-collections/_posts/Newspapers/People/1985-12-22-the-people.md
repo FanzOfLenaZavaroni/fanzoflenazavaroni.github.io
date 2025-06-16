@@ -6,7 +6,7 @@ subtitle: ﻿LENA BROKE NEWS OF HER DAD'S LOVER By HUGH FARMER
 description: THE heartbreaking secret that singing star Lena Zavaroni nursed all last summer was revealed by her mother yesterday.
 post_description: THE heartbreaking secret that singing star Lena Zavaroni nursed all last summer was revealed by her mother yesterday.
 image: /assets/images/newspapers/1985-12-22-the-People.png
-categories: [Newspaper-People&#44;-The, OnThisDay22December]
+categories: [Newspaper-People, OnThisDay22December]
 last_modified_at: 21 December 2023
 ---
 

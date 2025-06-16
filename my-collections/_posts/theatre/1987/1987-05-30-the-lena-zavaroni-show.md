@@ -6,7 +6,7 @@ subtitle: The New Embassy Centre, Skegness
 description: The New Embassy Centre, Skegness.
 post_description: The New Embassy Centre, Skegness.
 image: /assets/images/locations/The-New-Embassy-Centre-Skegness.jpg
-categories: [Theatre, The-Lena-Zavaroni-Show, OnThisDay30May]
+categories: [Theatres, The-Lena-Zavaroni-Show, OnThisDay30May]
 ---
 
 <figure class="fig3">

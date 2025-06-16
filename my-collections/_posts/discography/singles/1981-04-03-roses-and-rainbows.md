@@ -6,7 +6,7 @@ subtitle: Lena Zavaroni's Eleventh UK Single
 description: This is the eleventh single by Lena Zavaroni.
 post_description: This is the eleventh single by Lena Zavaroni.
 image: /assets/images/singles/lena-zavaroni-roses-and-rainbows-president.jpg
-categories: [Discography:-Singles, OnThisDay3April]
+categories: [Discography-Singles, OnThisDay3April]
 permalink: /discography/singles/:name
 ---
 

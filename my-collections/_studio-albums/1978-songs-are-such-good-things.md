@@ -7,7 +7,7 @@ maintitle: Songs Are Such Good Things
 subtitle: Studio Album
 description: 
 image: /assets/images/albums/Songs-Are-Such-Good-Things.jpeg
-categories: [Discography:-Studio-Albums]
+categories: [Discography-Studio-Albums]
 ---
 
 <figure class="fig1" id="galaxy">

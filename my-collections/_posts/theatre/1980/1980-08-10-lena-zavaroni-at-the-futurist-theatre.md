@@ -6,7 +6,7 @@ subtitle: Starring Lena Zavaroni
 description: Lena Zavaroni At The Futurist Theatre, Scarborough
 post_description: Details Currently Unknown.
 image: /assets/images/locations/the-futurist-theatre.jpg
-categories: [Theatre, Futurist-Theatre, Scarborough, OnThisDay10August]
+categories: [Theatres, Futurist-Theatre, Scarborough, OnThisDay10August]
 last_modified_at: 7 August 2024
 ---
 

@@ -5,7 +5,7 @@ maintitle: The Lena Zavaroni Show
 subtitle: The Sandown Pavilion, Isle Of Wight
 description: Note&#58; The title "The Lena Zavaroni Show" is a generic name for shows Starring Lena Zavaroni that had no original show title for the theatre at which Lena was appearing.
 image: /assets/images/locations/sandown-pier-view-from-isle-of-wight-coastal-path.jpg
-categories: [Theatre, The-Lena-Zavaroni-Show]
+categories: [Theatres, The-Lena-Zavaroni-Show]
 ---
 
 ### Note

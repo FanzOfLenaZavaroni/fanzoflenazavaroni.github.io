@@ -7,7 +7,7 @@ description: Lena Zavaroni At The Futurist Theatre, Scarborough
 media: Yorkshire
 post_description: Starring Lena Zavaroni.
 image: /assets/images/locations/the-futurist-theatre.jpg
-categories: [Theatre, Futurist-Theatre]
+categories: [Theatres, Futurist-Theatre]
 ---
 
 <figure class="fig3">

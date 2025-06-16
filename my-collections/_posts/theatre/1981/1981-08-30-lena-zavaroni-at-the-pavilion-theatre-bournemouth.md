@@ -7,7 +7,7 @@ description: Starring Lena Zavaroni At The Pavilion Theatre, Bournemouth.
 media: The Pavilion Theatre, Bournemouth.
 post_description: Starring Lena Zavaroni.
 image: /assets/images/locations/geograph-5270508-by-barry-shimmon.jpg
-categories: [Theatre, Pavilion-Theatre, Bournemouth, The-Lena-Zavaroni-Show, Going-Nowhere, OnThisDay30August]
+categories: [Theatres, Pavilion-Theatre, Bournemouth, The-Lena-Zavaroni-Show, Going-Nowhere, OnThisDay30August]
 ---
 
 <figure class="fig1">

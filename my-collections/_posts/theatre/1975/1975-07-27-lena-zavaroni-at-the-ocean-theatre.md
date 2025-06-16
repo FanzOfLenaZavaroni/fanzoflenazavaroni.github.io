@@ -7,7 +7,7 @@ description: Lena Zavaroni At The Ocean Theatre, Clacton Pier, Claton-on-sea
 media: Starring
 post_description: Lena Zavaroni.
 image: /assets/images/locations/the-pier-at-clacton-on-sea.jpg
-categories: [Theatre, The-Ocean-Theatre, OnThisDay27July]
+categories: [Theatres, The-Ocean-Theatre, OnThisDay27July]
 last_modified_at: 22 July 2023
 ---
 

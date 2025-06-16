@@ -7,7 +7,7 @@ description: Charity variety show to raise funds for the Entertainment Artists B
 media: Details
 post_description: Charity variety show to raise funds for the Entertainment Artists Benevolent Fund, the Stars Organisation For Spastics (SOS) and other local charities.
 image: /assets/images/theatres/
-categories: [Theatre, Festival-Theatre, Paignton, Fundraising, OnThisDay5September]
+categories: [Theatres, Festival-Theatre, Paignton, Fundraising, OnThisDay5September]
 ---
 
 <strong style="Color:#ff0000;">Article Warning:</strong> Sadly needed for a Personal Appearance that at the time would not have needed one, but time and the ignorance of humankind has made a single word within the charity's name taboo.

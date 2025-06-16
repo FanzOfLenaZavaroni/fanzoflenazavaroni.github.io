@@ -6,7 +6,7 @@ subtitle: The Treorchy Male Choir In Concert with Y Triban and Lena Zavaroni.
 description: The Treorchy Male Choir In Concert with Y Triban and Lena Zavaroni.
 post_description: The Treorchy Male Choir In Concert with Y Triban and Lena Zavaroni.
 images: /assets/images/locations/new-theatre-cardiff.jpg
-categories: [Theatre, New-Theatre-Cardiff, OnThisDay17June]
+categories: [Theatres, New-Theatre-Cardiff, OnThisDay17June]
 ---
 
 <figure class="fig1">

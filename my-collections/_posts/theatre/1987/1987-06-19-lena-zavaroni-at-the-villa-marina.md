@@ -7,7 +7,7 @@ description: Lena Zavaroni At The Villa Marina, Douglas, Isle Of Man
 media: Douglas, Isle Of Man
 post_description: Douglas, Isle Of Man.
 image: https://live.staticflickr.com/3552/3826412639_c8e5809d00_n_d.jpg
-categories: [Theatre, The-Villa-Marina, OnThisDay19June]
+categories: [Theatres, The-Villa-Marina, OnThisDay19June]
 ---
 
 <figure class="fig3">

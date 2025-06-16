@@ -7,7 +7,7 @@ after: " - 31 March 1989"
 description: Starting Bonnie Langford As Sally and David Schofield as Bill Snibson.
 post_description: Starting Bonnie Langford As Sally and David Schofield as Bill Snibson.
 image: /assets/images/theatres/1988-04-01-me-and-my-girl-programme-fc.jpg
-categories: [Theatre, Me-And-My-Girl, Bonnie-Langford, David-Schofield, OnThisDay1April]
+categories: [Theatres, Me-And-My-Girl, Bonnie-Langford, David-Schofield, OnThisDay1April]
 last_modified_at: 18 January 2024
 ---
 

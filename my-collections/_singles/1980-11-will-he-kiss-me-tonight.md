@@ -6,7 +6,7 @@ maintitle: Will He Kiss Me Tonight
 subtitle: Lena Zavaroni's Tenth Single
 b-side: Dream Come True
 description: This is the tenth single by Lena Zavaroni.
-categories: [Discography:-Singles, David-Goodman]
+categories: [Discography-Singles, David-Goodman]
 last_modified_at: 1 December 2023
 ---
 
