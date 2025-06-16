@@ -5,7 +5,7 @@ maintitle: The Grand Order Of Water Rats Charity Show
 subtitle: King's Club, Great Barr, Birmingham
 description: On the bill were The Bachelors, Roger De Courcey and Lena Zavaroni, The compare for the show was Charlie Smithers.
 post_description: On the bill were The Bachelors, Roger De Courcey and Lena Zavaroni, The compare for the show was Charlie Smithers.
-categories: [Theatre, King's-Club, Great-Barr, Birmingham, Fundraising, OnThisDay4February]
+categories: [Theatres, King's-Club, Great-Barr, Birmingham, Fundraising, OnThisDay4February]
 last_modified_at: 4 February 2024
 ---
 

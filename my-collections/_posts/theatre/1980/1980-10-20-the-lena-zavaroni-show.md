@@ -7,7 +7,7 @@ subtitle: The Tonic, Bangor
 description: Lena Zavaroni stars in her own show at The Tonic, Bangor.
 media: Details
 post_description: Lena Zavaroni stars in her own show at The Tonic, Bangor.
-categories: [Theatre, The-Tonic, Bangor, OnThisDay20October]
+categories: [Theatres, The-Tonic, Bangor, OnThisDay20October]
 ---
 
 Lena Zavaroni stars in her own show at The Tonic, Bangor.

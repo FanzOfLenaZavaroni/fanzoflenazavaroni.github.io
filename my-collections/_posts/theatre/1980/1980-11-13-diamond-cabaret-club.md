@@ -7,7 +7,7 @@ subtitle: Starring Lena Zavaroni
 description: Starring Lena Zavaroni from 13 - 15 November 1980.
 post_description: Starring Lena Zavaroni from 13 - 15 November 1980.
 image: /assets/images/newspapers/1980-11-06-neath-guardian-page-4.png
-categories: [Theatre, Diamond-Cabaret-Club, OnThisDay13November, OnThisDay15November]
+categories: [Theatres, Diamond-Cabaret-Club, OnThisDay13November, OnThisDay15November]
 last_modified_at: 23 December 2023
 ---
 

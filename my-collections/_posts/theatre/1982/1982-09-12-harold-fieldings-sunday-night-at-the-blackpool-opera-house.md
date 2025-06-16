@@ -7,7 +7,7 @@ description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm The Contrac
 media: Show Times
 post_description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 image: /assets/images/theatres/1982-09-12-harold-fieldings-sunday-night-at-the-blackpool-opera-house.jpg
-categories: [Theatre, Blackpool-Opera-House, Harold-Fielding, OnThisDay12September]
+categories: [Theatres, Blackpool-Opera-House, Harold-Fielding, OnThisDay12September]
 ---
 
 <figure class="fig3">

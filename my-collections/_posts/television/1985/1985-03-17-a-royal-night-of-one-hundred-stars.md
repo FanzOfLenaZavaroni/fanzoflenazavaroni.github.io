@@ -9,7 +9,7 @@ description: Recorded at the National Theatre (Olivier Theatre), London on 17 Ma
 media: National Theatre (Olivier Theatre), London
 post_description: Recorded on 17 March 1985 for Broadcast by London Weekend Television (LWT) on 31 March 1985.
 image: /assets/images/ITV/
-categories: [London-Weekend-Television, Theatre, OnThisDay17March, OnThisDay31March]
+categories: [Theatres, London-Weekend-Television, OnThisDay17March, OnThisDay31March]
 ---
 
 <div id="infobox1" class="responsive-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fr18XVtHhhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

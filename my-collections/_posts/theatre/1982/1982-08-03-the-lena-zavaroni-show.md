@@ -8,7 +8,7 @@ after: " - 4 September 1982 Closing Night"
 description: Lena Zavaroni stars in her own show at the White Rock Pavilion, Hastings.
 post_description: The White Rock Pavilion, Hastings.
 image: /assets/images/theatres/1982-08-03-the-white-rock-pavilion-01.jpg
-categories: [Theatre, White-Rock-Pavilion, Hastings, Dougie-Squires, OnThisDay3August]
+categories: [Theatres, White-Rock-Pavilion, Hastings, Dougie-Squires, OnThisDay3August]
 last_modified_at: 23 December 2023
 ---
 

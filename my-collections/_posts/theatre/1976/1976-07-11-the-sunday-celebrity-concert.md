@@ -7,7 +7,7 @@ description: Lena Zavaroni stars in the Sunday Celebrity Concert at the The Wint
 media: The Winter Gardens, Margate
 post_description: Starring Lena Zavaroni.
 image: /assets/images/locations/the-winter-gardens-margate.jpg
-categories: [Theatre, The-Lena-Zavaroni-Show, OnThisDay11July]
+categories: [Theatres, The-Lena-Zavaroni-Show, OnThisDay11July]
 last_modified_at: 26 June 2023
 ---
 

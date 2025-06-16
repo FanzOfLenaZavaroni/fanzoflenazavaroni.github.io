@@ -7,7 +7,7 @@ after: " - 17 July 1982"
 description: Starring Lena Zavaroni for three nights 15, 16 & 17 July 1982 at 6.15pm and 8.45pm
 post_description: Starring Lena Zavaroni for three nights.
 image: /assets/images/locations/geograph-734107-by-John-Allan.jpg
-categories: [Theatre, Cliffs Pavilion, Southend, OnThisDay15July, OnThisDay17July]
+categories: [Theatres, Cliffs-Pavilion, Southend, OnThisDay15July, OnThisDay17July]
 last_modified_at: 23 December 2023
 ---
 

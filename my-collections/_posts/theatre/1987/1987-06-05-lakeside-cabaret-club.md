@@ -7,7 +7,7 @@ subtitle: Lena Zavaroni Plus Full Supporting Programme
 description: Lena Zavaroni Plus Full Supporting Programme.
 post_description: Lena Zavaroni Plus Full Supporting Programme.
 image: /assets/images/Media-Logos/OnThizDay.jpg
-categories: [Theatre, The-Lena-Zavaroni-Show, OnThisDay5June, OnThisDay6June]
+categories: [Theatres, The-Lena-Zavaroni-Show, OnThisDay5June, OnThisDay6June]
 last_modified_at: 5 June 2025
 ---
 

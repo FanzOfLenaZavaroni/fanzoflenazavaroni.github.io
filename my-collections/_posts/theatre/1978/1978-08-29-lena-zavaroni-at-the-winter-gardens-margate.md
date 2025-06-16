@@ -7,7 +7,7 @@ description: Starring Lena Zavaroni.
 media: Theatre
 post_description: Starring Lena Zavaroni.
 image: /assets/images/locations/the-winter-gardens-margate.jpg
-categories: [Theatre, Winter-Gardens, Margate, The-Lena-Zavaroni-Show, OnThisDay29August]
+categories: [Theatres, Winter-Gardens, Margate, The-Lena-Zavaroni-Show, OnThisDay29August]
 ---
 
 [![The Winter Gardens, Margate]({{ page.image }}){: .full-width}](https://www.geograph.org.uk/photo/460492)

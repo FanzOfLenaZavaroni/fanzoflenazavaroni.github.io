@@ -9,7 +9,7 @@ description: An all-star spectacular variety show filmed at the King's Theatre i
 media: Scottish television
 post_description: An all-star spectacular variety show filmed at the King's Theatre in Glasgow, as part of Queen Elizabreth II's Silver Jubilee celebrations.
 image: /assets/images/STV/1977-05-17-the-royal-show-listing.jpg
-categories: [Theatre, Scottish-Television-(STV), OnThisDay17May, OnThisDay22May]
+categories: [Theatres, Scottish-Television-(STV), OnThisDay17May, OnThisDay22May]
 ---
 
  <table>

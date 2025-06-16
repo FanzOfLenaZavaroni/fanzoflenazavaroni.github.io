@@ -6,7 +6,7 @@ subtitle: Various articles covering the Funeral.
 description: Various articles covering the Funeral.
 media: Details
 post_description: Various articles covering the Funeral.
-categories: [Newspapers, Daily-Record, OnThisDay16October]
+categories: [Newspapers, Newspaper-Daily-Record, OnThisDay16October]
 ---
 
 <h2 id="daily-mirror"><a href="#daily-mirror">Daily Mirror</a></h2>

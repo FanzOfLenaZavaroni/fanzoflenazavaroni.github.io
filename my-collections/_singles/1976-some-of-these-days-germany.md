@@ -6,7 +6,7 @@ subtitle: Germany Release on the Intercord record label
 description: Germany Release on the Intercord record label.
 post_description: Germany Release on the Intercord record label.
 image: /assets/images/singles/lena-zavaroni-some-of-these-days-side-a.jpg
-categories: [Discography:-Singles]
+categories: [Discography-Singles]
 permalink: /discography/singles/:name
 last_modified_at: 20 March 2024
 ---

@@ -6,7 +6,7 @@ subtitle: Manchester
 description: Lena Zavaroni was due to star in her own show in Manchester
 media: Theatre
 post_description: Lena Zavaroni was due to star in her own show in Manchester
-categories: [Theatre, Manchester, OnThisDay4October]
+categories: [Theatres, Manchester, OnThisDay4October]
 ---
 
 Lena Zavaroni was due to star in her own show in Manchester

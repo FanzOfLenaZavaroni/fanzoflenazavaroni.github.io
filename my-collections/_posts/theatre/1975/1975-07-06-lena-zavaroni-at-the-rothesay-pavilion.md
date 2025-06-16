@@ -7,7 +7,7 @@ description: Note&#58; The Pavilion was the location Lena Zavaroni first perform
 media: Note
 post_description: The Pavilion was the location Lena Zavaroni first performed to Phil Solomon in 1973.
 image: /assets/images/theatres/1975-07-06-rothesay-pavilion-ticket.jpg
-categories: [Theatre, Rothesay-Pavilion, The-Lena-Zavaroni-Show, OnThisDay6July]
+categories: [Theatres, Rothesay-Pavilion, The-Lena-Zavaroni-Show, OnThisDay6July]
 last_modified_at: 4 July 2023
 ---
 

@@ -6,7 +6,7 @@ subtitle: CD Re-Release Of The Original Recording
 description: CD Re-Release Of The Original Recording.
 post_description: CD Re-Release Of The Original Recording.
 image: /assets/images/albums/2UKa.jpg
-categories: [Discography:-Studio-Albums, OnThisDay19November]
+categories: [Discography-Studio-Albums, OnThisDay19November]
 permalink: /discography/studio-albums/:name
 last_modified_at: 17 November 2023
 ---

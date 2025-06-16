@@ -7,7 +7,7 @@ after: " - 11 October 1980"
 description: Lena Zavaroni stars in her own show at The Pavilion Theatre, Glasgow.
 media: Details
 post_description: Lena Zavaroni stars in her own show at The Pavilion Theatre, Glasgow.
-categories: [Theatre, Pavilion-Theatre, Glasgow, OnThisDay6October, OnThisDay11October]
+categories: [Theatres, Pavilion-Theatre, Glasgow, OnThisDay6October, OnThisDay11October]
 last_modified_at: 23 December 2023
 ---
 

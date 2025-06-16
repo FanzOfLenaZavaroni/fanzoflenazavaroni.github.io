@@ -6,7 +6,7 @@ subtitle: Lena Zavaroni's debut single - Ma! (He's Making Eyes At Me)
 description: Lena Zavaroni's debut single - Ma! (He's Making Eyes At Me).
 post_description: Lena Zavaroni's debut single - Ma! (He's Making Eyes At Me).
 image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-argentina-side-1.png
-categories: [Discography:-Singles, OnThisDay11March]
+categories: [Discography-Singles, OnThisDay11March]
 permalink: /discography/singles/:name
 last_modified_at: 11 March 2024
 ---

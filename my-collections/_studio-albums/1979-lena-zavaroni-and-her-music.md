@@ -5,7 +5,7 @@ maintitle: Lena Zavaroni And Her Music
 subtitle: Studio Album
 description: 
 image: /assets/images/albums/lena-zavaroni-and-her-music.jpg
-categories: [Discography:-Studio-Albums]
+categories: [Discography-Studio-Albums]
 last_modified_at: 25 March 2024
 ---
 

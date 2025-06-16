@@ -6,7 +6,7 @@ subtitle: Lena take an overdose of anti-depressants which she had secretly been 
 description: Lena take an overdose of anti-depressants which she had secretly been squirreling away
 post_description: Lena take an overdose of anti-depressants which she had secretly been squirreling away
 categories: [Redirects-To-Media-Based-Biography-Of-Lena-Zavaroni, OnThisDay3November]
-redirect_to: /1963-11-04-lena-zavaroni/#19961103
+redirect_to: /1963-11-04-lena-zavaroni/#infobox23
 class: internal-link
 ---
 

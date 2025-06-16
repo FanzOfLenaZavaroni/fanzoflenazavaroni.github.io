@@ -3,7 +3,7 @@ layout: discography
 title: Ma! (He's Making Eyes At Me)
 maintitle: Ma! (He's Making Eyes At Me)
 subtitle: Studio Album - Released In The USA On 12" Vinyl, 33⅓ Album
-categories: [Discography:-Studio-Albums]
+categories: [Discography-Studio-Albums]
 last_modified_at: 17 November 2023
 ---
 

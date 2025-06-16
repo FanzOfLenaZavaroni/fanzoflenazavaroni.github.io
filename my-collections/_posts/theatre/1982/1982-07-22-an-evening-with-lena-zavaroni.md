@@ -7,7 +7,7 @@ after: " - 24 July 1982 at 8pm"
 description: Special Guests Duggie Brown & Wout Steenhuis
 post_description: Special Guests Duggie Brown & Wout Steenhuis
 image: /assets/images/theatres/1982-07-22-an-evening-with-lena-zavaroni-200x200.png
-categories: [Theatre, Margate, OnThisDay22July]
+categories: [Theatres, Margate, OnThisDay22July]
 last_modified_at: 23 December 2023
 ---
 

@@ -7,7 +7,7 @@ maintitle: Presenting Lena Zavaroni
 subtitle: Studio Album
 description: 
 image: /assets/images/albums/Presenting-Lena-Zavaroni.jpeg
-categories: [Discography:-Studio-Albums]
+categories: [Discography-Studio-Albums]
 ---
 
 <figure class="fig1" id="galaxy">

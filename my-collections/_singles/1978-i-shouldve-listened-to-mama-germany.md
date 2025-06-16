@@ -5,7 +5,7 @@ maintitle: I Should've Listened To Mama
 subtitle: Germany Release on the Polydor Label
 description:
 post_description:
-categories: [Discography:-Singles, Mike-Hurst]
+categories: [Discography-Singles, Mike-Hurst]
 last_modified_at: 21 February 2024
 ---
 

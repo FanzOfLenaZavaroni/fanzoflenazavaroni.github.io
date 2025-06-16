@@ -7,7 +7,7 @@ maintitle: Lena Zavaroni in South Africa
 subtitle: Studio Album
 description: While in South Africa Lena Zavaroni record an album. It was released in South Africa by the Record and Tape Company in 1975 to coincided with her trip to South Africa.
 image: https://img.youtube.com/vi/FqnZEbFiMos/sddefault.jpg
-categories: [Studio Albums]
+categories: [Studio-Albums]
 ---
 
 <table>

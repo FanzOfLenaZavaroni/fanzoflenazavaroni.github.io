@@ -6,7 +6,7 @@ subtitle: Poland Release on the Polskie Nagrania „Muza” record label
 description: Poland Release on the Polskie Nagrania „Muza” record label.
 post_description: Poland Release on the Polskie Nagrania „Muza” record label.
 image: /assets/images/singles/lena-zavaroni-some-of-these-days-side-a.jpg
-categories: [Discography:-Singles]
+categories: [Discography-Singles]
 permalink: /discography/singles/:name
 last_modified_at: 12 March 2024
 ---

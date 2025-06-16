@@ -7,7 +7,7 @@ description: Lena retired from the show during the first song, due to illness, a
 media: Details
 post_description: Lena retired from the show during the first song, due to illness, and the rest of the show was cancelled.
 image: /assets/images/the-girl-from-rothesay/the-girl-from-rothesay-page-21.jpg
-categories: [Theatre, New-Brighton, OnThisDay19September]
+categories: [Theatres, New-Brighton, OnThisDay19September]
 ---
 
 <h2 id="rothesay"><a href="#rothesay">The Girl From Rothesay</a></h2>

@@ -7,7 +7,7 @@ description: Lena Zavaroni stars in her own show at Caesar's Palace, Luton.
 media: Details
 post_description: Lena Zavaroni stars in her own show at Caesar's Palace, Luton.
 image: /assets/images/locations/
-categories: [Theatre, Caesar's-Palace, Luton, OnThisDay21September]
+categories: [Theatres, Caesar's-Palace, Luton, OnThisDay21September]
 ---
 
 

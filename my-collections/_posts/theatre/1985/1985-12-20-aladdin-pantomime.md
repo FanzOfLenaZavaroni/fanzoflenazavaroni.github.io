@@ -8,7 +8,7 @@ description: Lena Zavaroni stars as the Princess.
 media: Wimbledon Theatre
 post_description: Lena Zavaroni stars as the Princess.
 image: /assets/images/theatres/flyer-aladdin-01.jpg
-categories: [Theatre, Wimbledon-Theatre, OnThisDay20December]
+categories: [Theatres, Wimbledon-Theatre, OnThisDay20December]
 ---
 
 ### Flyer

@@ -5,7 +5,7 @@ maintitle: Charity All Star Variety Show
 subtitle: Theatre Royal, Drury Lane, London
 description: Theatre Royal, Drury Lane, London. Starring Lena Zavaroni
 post_description: Show held to mark "International Year of the Child", and to raise money for several charities.
-categories: [Theatre, Theatre-Royal, Drury-Lane, Fundraising, OnThisDay25February]
+categories: [Theatres, Theatre-Royal, Drury-Lane, Fundraising, OnThisDay25February]
 ---
 
 Show held to mark &quot;International Year of the Child&quot;, and to raise money for several charities.

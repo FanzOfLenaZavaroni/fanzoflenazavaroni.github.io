@@ -8,7 +8,7 @@ after: " The Album &quot;Lightbulbs&quot; Released On 1 September 2008"
 description: Knickerbocker (The song makes a number of references to the life of Lena Zavaroni and the references are correct).
 post_description: Knickerbocker (The song makes a number of references to the life of Lena Zavaroni and the references are correct).
 image: /assets/images/albums/2008-09-01-fujiya-and-miyagi-knickerbocker-album-cover.jpg
-categories: [Discography:-Tribute Songs, OnThisDay25August, OnThisDay1September]
+categories: [Discography-Tribute Songs, OnThisDay25August, OnThisDay1September]
 permalink: /discography/tribute-songs/:name
 last_modified_at: 23 December 2023
 ---
