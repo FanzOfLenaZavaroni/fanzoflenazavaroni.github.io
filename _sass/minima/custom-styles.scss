@@ -193,3 +193,18 @@ height: 100%;
 /*  Infobox css  */
 .infobox {margin-top: 0px !important;}
 
+
+/*  definition list  */
+  dl {
+    margin: 1em 0;
+  }
+
+  dt {
+    font-weight: bold;
+    margin-top: 1em;
+  }
+
+  dd {
+    margin-left: 1em;
+    margin-bottom: 0.5em;
+  }
