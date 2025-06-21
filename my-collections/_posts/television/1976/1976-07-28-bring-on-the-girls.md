@@ -13,50 +13,47 @@ categories: [Thames-Television, OnThisDay28July, OnThisDay22June]
 last_modified_at: 23 December 2023
 ---
 
-<table style="text-align:center;">
-<tr>
-<th colspan="4">Jump To</th>
-</tr>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Cast</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Host:</strong> Bruce Forsyth</li>
+<li><strong>English actress:</strong> Honor Blackman</li>
+<li><strong>Singer:</strong> Lena Zavaroni</li>
+<li><strong>Actress, singer and dancer:</strong> Denise Brownlow</li>
+<li><strong>English actress:</strong> Karan David</li>
+<li><strong>Model, actress, and singer:</strong> Twiggy</li>
+<li><strong>Dance Troupe:</strong> The Lionel Blair Dancers</li>
+<li><strong>Vocal Group:</strong> The Three Degrees</li>
+</ul>
+</div></div></div>
+</figure>
 
-<tr>
-<td style="width:25%;"><a href="#screenshots">Screenshots</a></td>
-<td style="width:25%;"><a href="#cast">Cast</a></td>
-<td style="width:25%;"><a href="#crew">Crew</a></td>
-<td style="width:25%;"><a href="#facebook">Facebook Comment</a></td>
-</tr>
-</table>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobx2">Crew</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Script:</strong> Dick Hills, Barry Cryer</li>
+<li><strong>Designer:</strong> Alex Clarke</li>
+<li><strong>Music Associate:</strong> Don Hunt</li>
+<li><strong>Music Director:</strong> Peter Knight</li>
+<li><strong>Producer / Director:</strong> Keith Beckett</li>
+<li><strong>Executive Producer:</strong> Philip Jones</li>
+<li><strong>Production Company:</strong> Thames Television</li>
+</ul>
+</div></div></div>
+</figure>
 
-<h2 id="screenshots"><a href="#screenshots">Collage Of Screenshots</a></h2>
-![](/assets/images/ITV/1976-07-28-bring-on-the-girls.jpg){: .full-width}
-
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-<table>
-<tr><th style="width:25%;">Host:</th><td style="width:25%;">Bruce Forsyth</td></tr>
-<tr><th>English actress:</th><td>Honor Blackman</td></tr>
-<tr><th>Singer:</th><td>Lena Zavaroni</td></tr>
-<tr><th>English actress, singer and dancer:</th><td>Denise Brownlow</td></tr>
-<tr><th>English actress:</th><td>Karan David</td></tr>
-<tr><th>English model, actress, and singer:</th><td>Twiggy</td></tr>
-<tr><th>Dance Troupe:</th><td>The Lionel Blair Dancers</td></tr>
-<tr><th>American Female Vocal Group:</th><td>The Three Degrees</td></tr>
-</table>
-
-<h2 id="crew"><a href="#crew">Crew</a></h2>
-<table>
-<tr><th style="width:25%;">Script:</th><td style="width:25%;">Dick Hills</td></tr>
-<tr><th>Script:</th><td>Barry Cryer</td></tr>
-<tr><th>Designer:</th><td>Alex Clarke</td></tr>
-<tr><th>Music Associate:</th><td>Don Hunt</td></tr>
-<tr><th>Music Director:</th><td>Peter Knight</td></tr>
-<tr><th>Producer:</th><td>Keith Beckett</td></tr>
-<tr><th>Executive Producer:</th><td>Philip Jones</td></tr>
-<tr><th>Director:</th><td>Keith Beckett</td></tr>
-<tr><th>Production Company:</th><td>Thames Television</td></tr>
-</table>
-
-<h2 id="facebook"><a href="#facebook">Facebook Comment From 28 July 2018</a></h2>
-* Reconstructed from the archive of Fanz of Lena Zavaroni's canceled Facebook page.
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox3" class="infobox"><a href="#infobx3">Facebook Comment From 28 July 2018</a></h2>
+<p>Reconstructed from the archive of Fanz of Lena Zavaroni's canceled Facebook page.</p>
+<div class="CardItem split">
 <span class="fb"><strong>Stephen Molloy</strong> In a 1981 interview on <a href="/1981-05-16-saturday-night-at-the-mill">Saturday Night At The Mill</a>, Lena describes how the recording of Be A Clown was faulty and the van taking the seals home had to be found and turned back so that it could be re-recorded.<br /><br />Lena mentions that they had already worked all day, so at twelve years old I imagine that hurried negotiations between lawyers, management and the local council would have had to take place to allow her to carry on working.<br /><br />On this 1981 edition of Pebble Mill, Lena sang Roses And Rainbows. If you look at her neck at around one minute and twenty seconds you will see her necklace break, but Lena carries on as if nothing had happened.</span>
+</div></div></div>
+</figure>
 
 <style>
 .fb {
