@@ -25,7 +25,7 @@ last_modified_at: 23 December 2023
 <div class="CardItem split">
 <p>Lena and Bonnie was recorded on the 17 & 18 January 1978 at the Kent House Studios and was broadcast by London Weekend Television (LWT) on the 26 of March 1978.</p>
 <p>It was a one-off special starring Lena Zavaroni and Bonnie Langford.</p>
-<p>A number of publicity photographs were taken around the time of the show’s recording, possibly during one of the two studio sessions, although the exact date is unconfirmed.</p>
+<p>A number of publicity photographs were taken around the time of the show’s recording, possibly during one or both of the studio dates, although the exact dates are unconfirmed.</p>
 </div></div></div>
 </figure>
 
