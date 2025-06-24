@@ -24,14 +24,14 @@ The following is a list of websites and tips that may help you with your own res
 </table>
 
 <h2 id="numbers">#</h2>
-* ——: [<strong>45cat.com</strong>](http://www.45cat.com/45_search.php?sq=Lena+Zavaroni&sm=se) - Datebase  of Singles, 45s, 7" records.
+* ——: [<strong>45cat.com</strong>](http://www.45cat.com/45_search.php?sq=Lena+Zavaroni&sm=se) - DataBase  of Singles, 45s, 7" records.
 * ——: [<strong>45spaces</strong>](http://www.45spaces.com/45s_search.php?sq=Lena+Zavaroni) - Communities for collectors, critics and the curious.
-* ——: [<strong>45worlds: CD Albums</strong>](http://www.45worlds.com/cdalbum/cd_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of CD Albums
+* ——: [<strong>45worlds: CD Albums</strong>](http://www.45worlds.com/cdalbum/cd_search.php?sq=Lena+Zavaroni&sm=se) - DataBase of CD Albums
 * ——: [<strong>45worlds: Live Music</strong>](http://www.45worlds.com/live/artist/lena-zavaroni) - Community dedicated to live music, concerts, festivals and gigs.
-* ——: [<strong>45worlds: Magazines</strong>](http://www.45worlds.com/magazine/mg_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of Magazines
-* ——: [<strong>45worlds: Tape Media</strong>](http://www.45worlds.com/tape/ca_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of eight-track cartridges, Cassette Tapes.
-* ——: [<strong>45worlds: TV</strong>](http://www.45worlds.com/tvseries/tv_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of Television Shows.
-* ——: [<strong>45worlds: Vinyl Albums</strong>](http://www.45worlds.com/vinyl/ab_search.php?sq=Lena+Zavaroni&sm=se) - Datebase of LPs, Albums, 33&#x2153; records.
+* ——: [<strong>45worlds: Magazines</strong>](http://www.45worlds.com/magazine/mg_search.php?sq=Lena+Zavaroni&sm=se) - DataBase of Magazines
+* ——: [<strong>45worlds: Tape Media</strong>](http://www.45worlds.com/tape/ca_search.php?sq=Lena+Zavaroni&sm=se) - DataBase of eight-track cartridges, Cassette Tapes.
+* ——: [<strong>45worlds: TV</strong>](http://www.45worlds.com/tvseries/tv_search.php?sq=Lena+Zavaroni&sm=se) - DataBase of Television Shows.
+* ——: [<strong>45worlds: Vinyl Albums</strong>](http://www.45worlds.com/vinyl/ab_search.php?sq=Lena+Zavaroni&sm=se) - DataBase of LPs, Albums, 33&#x2153; records.
 
 
 
