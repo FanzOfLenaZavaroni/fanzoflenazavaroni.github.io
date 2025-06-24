@@ -2,7 +2,7 @@
 layout: post
 title: Time &#124; 24 June 1974
 maintitle: Time
-subtitle: A Short Summary Based On The Sunday Mirror's Article
+subtitle: A Short Summary Based On The Time's Article About Lena
 description: A short item about Lena appears in Time magazine’s “People” section.
 post_description: A short item about Lena appears in Time magazine’s “People” section.
 categories: [Magazine-Time, OnThisDay24June]
