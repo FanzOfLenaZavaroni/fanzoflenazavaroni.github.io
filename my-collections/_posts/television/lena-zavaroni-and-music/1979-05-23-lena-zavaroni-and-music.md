@@ -13,8 +13,8 @@ last_modified_at: 26 November 2023
 <figure class="fig1">
 <div class="CardLayout CardLayout-Height1">
 <div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">BBC Publicity Photo</a></h2>
-<div class="CardItem split"><img src="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg" class="full-width" /></div>
-</div></div>
+<div class="CardItem split"><img src="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg" class="full-width" />
+</div></div></div>
 </figure>
 
 <figure class="fig2">
