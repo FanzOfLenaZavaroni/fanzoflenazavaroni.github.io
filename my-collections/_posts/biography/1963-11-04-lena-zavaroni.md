@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Biography &#124; Lena Zavaroni
-maintitle: Lena Zavaroni
+title: Media Based Biography &#124; Lena Zavaroni
+maintitle: Media Based Biography of Lena Zavaroni
 subtitle: The following Biography is based On the media coverage and the public comments made by Lena Zavaroni, her family and friends
 born: 1963-11-04
 died: 1999-10-01
@@ -16,6 +16,16 @@ categories: [Biography, OnThisDay4November, OnThisDay1Octorber]
 author: Robcamstone
 last_modified_at: 8 June 2025
 ---
+
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox0" class="infobox"><a href="#infobox0">Looking for a Shorter Version?</a></h2>
+<div class="CardItem split">
+<p>If you find the full Media Based Biography overwhelming or would prefer a quicker overview, you can visit the <a href="/1963-11-04-summary-biography-of-lena-zavaroni">Summary Biography of Lena Zavaroni</a>—a condensed version drawn from the same media sources.</p>
+</div></div></div>
+</figure>
+
 
 <figure class="fig3">
 <div class="CardLayout">
@@ -49,8 +59,7 @@ last_modified_at: 8 June 2025
 <div class="CardItem">
 <img src="/assets/images/locations/Rankin-Memorial-Hospital.jpg" class="full-width">
 <cite>Archive Photo of the Rankin Memorial Hospital</cite>
-</div>
-</div></div>
+</div></div></div>
 </figure>
 
 <figure class="fig3">
@@ -63,8 +72,7 @@ last_modified_at: 8 June 2025
 <div class="CardItem">
 <img src="/assets/images/locations/rothesay_pier_-_geographorguk_-_31029_36228796816_o.jpg" class="full-width">
 <cite>Rothesay Pier</cite>
-</div>
-</div></div>
+</div></div></div>
 </figure>
 
 <figure class="fig3">
@@ -77,8 +85,7 @@ last_modified_at: 8 June 2025
 <div class="CardItem">
 <img src="/assets/images/Lena/LZ-01.jpg" class="full-width">
 <cite>Lena Zavaroni</cite>
-</div>
-</div></div>
+</div></div></div>
 </figure>
 
 <figure class="fig3">
@@ -87,8 +94,7 @@ last_modified_at: 8 June 2025
 <h2 id="infobox6" class="infobox"><a href="#infobox6">22 March 1966</a></h2>
 <div class="CardItem split">
 <p>Her sister Carla was born on 22 March 1966.</p>
-</div>
-</div></div>
+</div></div></div>
 </figure>
 
 <figure class="fig3">
