@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summary Biography | Lena Zavaroni
-maintitle: Summary Biography
+maintitle: Summary Of My Media Based Biography of Lena Zavaroni
 subtitle: A condensed account of Lena Zavaroni’s life and legacy, based on media coverage and public commentary.
 born: 1963-11-04
 died: 1999-10-01
