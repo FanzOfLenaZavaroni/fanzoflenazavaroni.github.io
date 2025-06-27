@@ -17,14 +17,3 @@ categories: [The-Stage-and-Television-Today, OnThisDay29June]
 </div>
 </div>
 </div></figure>
-
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Lennie & Jerry – BBC One, 24 June 1978</a></h2>
-<div class="CardItem split">
-<p>This episode featured a return appearance by piano duo Che and Ray, and guest star Lena Zavaroni, who impressed in the final number despite a slightly hesitant start. Lennie Bennett and Jerry Stevens delivered a mix of original and conventional comedy, including a playful sketch imagining if "love" were a rude word. Their chemistry shone in a juggling act with Frediani, though the show overall was seen as lacking innovation.</p>
-<p>The review suggested that while the duo showed promise, a bolder format might better showcase their talents in future episodes.</p>
-</div>
-</div>
-</div></figure>
-
