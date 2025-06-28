@@ -13,6 +13,7 @@ last_modified_at: 26 June 2025
 <div class="CardLayout">
 <div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Summary: Lena Zavaroni’s Early Rise</a></h2>
 <div class="CardItem split">
+<p>Summary based on the original article published on 29 June 1978.</p>
 <p>Following her memorable debut on <em>Opportunity Knocks</em>, Lena Zavaroni quickly captured public attention with her distinctive voice and stage presence. Her early success led to a recording contract and a move from Scotland to London to support her growing television career.</p>
 <p>Adjusting to life in the spotlight, Lena began making lifestyle changes to meet the demands of fame, even giving up some of her favourite treats. Her journey was just beginning, but the signs of a promising future were already clear.</p>
 </div>
