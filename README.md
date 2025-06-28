@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1979-06-23-TVTimes.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/75949420839fdad30c4e41132c4dce3b4859132b)
-- [Update 1979-06-23-TVTimes.md and 1976-07-28-bring-on-the-girls.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fcde79388de4eb4eb427b4652731e491ef7042b6)
-- [Update 1978-03-26-lena-and-bonnie.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a43a79469bc78f3c1a15197aaa759250d12b2ac2)
-- [Update LZ-BL-01.jpg, LZ-BL-small.jpg, and 17 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4a33c6ae1dbc8a023ca51a2b586227940f542529)
-- [Update custom-styles.scss and 1980-06-20-the-belfast-telegraph.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/57cd52acc219611a86064abe25e4f846bb3f9b93)
+- [Update 1975-01-30-atuagagdliuti-grønlandsposten.md, 1980-06-20-the-be…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9b8a29bd65585e764209a0c1dee401d3d33f1597)
+- [Update 1986-07-05-holiday-startime-01.jpg, 1986-07-05-holiday-startim…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d1028d5a73bc0e98b844e4c80b173647b6dcc453)
+- [Update 1978-06-29-the-stage-and-television-today.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4c88316e710747dd5d318f692ad88110d1edddb5)
+- [Update 1963-11-04-summary-biography-of-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6bed6b35892c5e9dfe0bc1b7abad9ddb80faea7f)
+- [Update 1974-06-29-pink-and-tina-01.jpg, 1974-06-29-pink-and-tina-02.j…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/330b23cf0651b5a5e1379631c4da9f38610a8d38)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
