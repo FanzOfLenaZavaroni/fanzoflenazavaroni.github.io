@@ -5,7 +5,7 @@ maintitle: The Glasgow Herald
 description: Published a short article on The Scottish National Record Awards that had taken place the previous day.
 post_description: Lena the top personality - a short article on The Scottish National Record Awards that had taken place the previous day.
 image: /assets/images/newspapers/The-Glasgow-Herald-1980-02-28.jpeg
-categories: [Newspapers, Glasgow-Herald, OnThisDay28February]
+categories: [Newspaper-Glasgow-Herald, OnThisDay28February]
 ---
 
 <strong>The Glasgow Herald published a short article on [The Scottish National Record Awards](/1980-02-27-the-scottish-national-record-awards) that had taken place the previous day.</strong>

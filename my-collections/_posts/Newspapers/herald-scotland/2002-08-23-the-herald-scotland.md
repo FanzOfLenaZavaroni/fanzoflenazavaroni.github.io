@@ -7,7 +7,7 @@ description: Alison Smith, fund co-ordinator for the memorial on the Isle of But
 media: Newspaper
 post_description: Alison Smith, fund co-ordinator for the memorial on the Isle of Bute, said&#58; "Some friends and I decided that a monument to Lena Zavaroni was needed in Rothesay".
 image: https://live.staticflickr.com/3327/3548682160_273044813a_o_d.jpg
-categories: [Newspapers, Herald-Scotland, OnThisDay23August]
+categories: [Newspaper-Herald-Scotland, OnThisDay23August]
 ---
 
 <figure class="fig3">

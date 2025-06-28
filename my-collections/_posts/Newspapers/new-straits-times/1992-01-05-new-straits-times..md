@@ -6,7 +6,7 @@ subtitle: Starving themselves sick
 description: Starving themselves sick
 post_description: Starving themselves sick
 image: /assets/images/newspapers/1992-01-05-new-straits-times.-page-9.png
-categories: [Newspapers, New-Straits-Times, OnThisDay5January]
+categories: [Newspaper-New-Straits-Times, OnThisDay5January]
 last_modified_at: 4 January 2024
 ---
 

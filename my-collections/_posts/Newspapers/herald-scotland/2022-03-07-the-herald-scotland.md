@@ -8,7 +8,7 @@ subtitle: Published an article with the tag line "Who killed Lena Zavaroni? The 
 description: Published an article with the tag line "Who killed Lena Zavaroni? The life and death of a child star".
 post_description: Published an article with the tag line "Who killed Lena Zavaroni? The life and death of a child star".
 image: /assets/images/newspapers/2022-03-07-herald.jpg
-categories: [Newspapers, Herald-Scotland, OnThisDay7March]
+categories: [Newspaper-Herald-Scotland, OnThisDay7March]
 last_modified_at: 23 December 2023
 ---
 

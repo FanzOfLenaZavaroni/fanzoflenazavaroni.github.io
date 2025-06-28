@@ -5,7 +5,7 @@ maintitle: "The Courier / Evening Telegraph"
 subtitle: Opportunity Knocks for Angus singer as he gets set to roll back the years at Webster Theatre charity concert by Graeme Strachan
 description: Opportunity Knocks for Angus singer as he gets set to roll back the years at Webster Theatre charity concert by Graeme Strachan
 post_description: Opportunity Knocks for Angus singer as he gets set to roll back the years at Webster Theatre charity concert by Graeme Strachan
-categories: [Newspapers, The-Courier, Popular-Culture, OnThisDay4March]
+categories: [Newspaper-The-Courier, Popular-Culture, OnThisDay4March]
 last_modified_at: 3 March 2024
 ---
 

@@ -6,7 +6,7 @@ description: Too much, too soon?
 media: Newspaper
 post_description: Too much, too soon?
 image: /assets/images/newspapers/2007-03-14-irish-independent.png
-categories: [Newspapers, Irish-Independent, OnThisDay14March]
+categories: [Newspaper-Irish-Independent, OnThisDay14March]
 ---
 
 <figure class="fig3">

@@ -6,7 +6,7 @@ subtitle: Contained  an advert for a show at The New Vic Theatre, Belfast starri
 description: Contained  an advert for a show at The New Vic Theatre, Belfast starring Lena Zavaroni.
 post_description: Contained  an advert for a show at The New Vic Theatre, Belfast starring Lena Zavaroni.
 image: /assets/images/newspapers/1980-10-22-the-belfast-telegraph.png
-categories: [Newspapers, Belfast-Telegraph, OnThisDay22October]
+categories: [Newspaper-Belfast-Telegraph, OnThisDay22October]
 last_modified_at: 18 October 2023
 ---
 

@@ -6,7 +6,7 @@ subtitle: The Greenland Post
 after: " - Dated unconfirmed I based the date on the fact that 3 February 1975 was the earliest date in the Radio listings which would mean that the paper had to be released before that date and as it only comes out on Tuesdays and Thursdays the closest date is the 30 January 1975."
 description: The paper is only published twice a week on Tuesdays and Thursdays.
 post_description: The paper is only published twice a week on Tuesdays and Thursdays.
-categories: [Newspapers, Newspaper-Atuagagdliutit-Grønlandsposten, The-Greenland-Post, OnThisDay30January]
+categories: [Newspaper-Atuagagdliutit-Grønlandsposten, The-Greenland-Post, OnThisDay30January]
 last_modified_at: 9 February 2024
 ---
 
