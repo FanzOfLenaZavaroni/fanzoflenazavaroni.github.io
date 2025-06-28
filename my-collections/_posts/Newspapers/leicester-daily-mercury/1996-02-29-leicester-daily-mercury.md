@@ -5,7 +5,7 @@ maintitle: Leicester Daily Mercury
 subtitle: Lena Zavaroni In Popular Culture
 description: Lena Zavaroni In Popular Culture.
 post_description: Lena Zavaroni In Popular Culture.
-categories: [Newspapers, Leicester Daily-Mercury, Popular-Culture, OnThisDay29February]
+categories: [Newspaper-Leicester Daily-Mercury, Popular-Culture, OnThisDay29February]
 last_modified_at: 24 February 2024
 ---
 

@@ -5,7 +5,7 @@ maintitle: The Herald Scotland
 subtitle: Lena Zavaroni&apos;s mother found dead
 description: The Herald Scotland reported that Lena Zavaroni's mother had been found dead the previous day.
 post_description: The Herald Scotland reported that Lena Zavaroni's mother had been found dead the previous day.
-categories: [Newspapers, Herald-Scotland, OnThisDay16December]
+categories: [Newspaper-Herald-Scotland, OnThisDay16December]
 ---
 
 <figure class="fig3">

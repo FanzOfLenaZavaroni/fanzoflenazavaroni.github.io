@@ -5,7 +5,7 @@ maintitle: Belfast Telegraph
 subtitle: "Page: 16 - Villa Marina, Douglas, advertised it’s upcoming summer concerts"
 description: "Page: 16 - Villa Marina, Douglas, advertised it’s upcoming summer concerts."
 post_description: "Page: 16 - Villa Marina, Douglas, advertised it’s upcoming summer concerts."
-categories: [Newspapers, Newspaper-Belfast-Telegraph, OnThisDay20June]
+categories: [Newspaper-Belfast-Telegraph, OnThisDay20June]
 last_modified_at: 20 June 2025
 ---
 

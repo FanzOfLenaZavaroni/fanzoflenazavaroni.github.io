@@ -6,7 +6,7 @@ subtitle: AKA Bucks Examiner
 description: Dee Anne aims for the top
 post_description: Dee Anne aims for the top
 image: /assets/images/newspapers/1979-08-17-buckinghamshire-examiner.png
-categories: [Newspapers, Times, OnThisDay17August]
+categories: [Newspaper-Times, OnThisDay17August]
 last_modified_at: 17 August 2023
 ---
 

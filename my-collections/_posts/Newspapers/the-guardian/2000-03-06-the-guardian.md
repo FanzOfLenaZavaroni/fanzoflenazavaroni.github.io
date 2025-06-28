@@ -5,7 +5,7 @@ maintitle: The Guardian
 subtitle: "Little girl lost: Bonnie Langford says she wants to be seen as an adult. Anita Chaudhuri on why we won't let women act their age"
 description: "Little girl lost: Bonnie Langford says she wants to be seen as an adult. Anita Chaudhuri on why we won't let women act their age."
 post_description: "Little girl lost: Bonnie Langford says she wants to be seen as an adult. Anita Chaudhuri on why we won't let women act their age."
-categories: [Newspapers, Guardian, OnThisDay6March]
+categories: [Newspaper-Guardian, OnThisDay6March]
 last_modified_at: 4 March 2024
 ---
 

@@ -6,7 +6,7 @@ subtitle: Contained the obligatory photo of Lena Zavaroni that any article relat
 description: Page 28 - Contained the obligatory photo of Lena Zavaroni that any article related to anorexia must have.
 media: Page 28
 post_description: Contained the obligatory photo of Lena Zavaroni that any article related to anorexia must have.
-categories: [Newspapers, Evening-Herald, OnThisDay20August]
+categories: [Newspaper-Evening-Herald, OnThisDay20August]
 ---
 
 <figure class="fig1">
