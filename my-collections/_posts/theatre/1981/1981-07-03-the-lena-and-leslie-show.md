@@ -12,25 +12,15 @@ categories: [Theatres, The-Lena-and-Leslie-Show, OnThisDay3July, OnThisDay4July]
 last_modified_at: 23 December 2023
 ---
 
-<figure class="fig1">
-<figcaption>
-<h2 id="flyer"><a href="#flyer">Flyer</a></h2>
-</figcaption>
-<a href="/assets/images/theatres/1981-07-03-the-lena-and-leslie-show.jpg"><img src="/assets/images/theatres/1981-07-03-the-lena-and-leslie-show.jpg" class="full-width zoom-in"></a>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Details</a></h2>
+<ul>
+<li><strong>Starring</strong> Lena Zavaroni</li> 
+<li><strong>Starring</strong> Leslie Crowther</li> 
+<li><strong>Orchestra</strong> Gary Lloyd Orchestra</li> 
+<li><strong>Link</strong> <a class="external-link" href="https://catalogue.jerseyheritage.org/collection/Details/archive/110302880">Jersey Heritage</a></li> 
+<li><strong>An Aside</strong> <a class="external-link" href="https://www.gov.je/SiteCollectionDocuments/Government%20and%20administration/R%20Fort%20Regent%20Conservation%20Study%2020061001%20PH.pdf">A CONSERVATION STATEMENT FOR F O RT R E G E N T JERSEY</a></li> 
+</ul>
+</div></div>
 </figure>
-
-<figure class="fig2">
-<figcaption>
-<h2 id="details"><a href="#details">Details</a></h2>
-</figcaption>
-<table>
-<tr><th>Starring</th><td>Lena Zavaroni</td></tr>
-<tr><th>Starring</th><td>Leslie Crowther</td></tr>
-<tr><th>Orchestra</th><td>Gary Lloyd Orchestra</td></tr>
-<tr><th>External Link</th><td><a href="https://catalogue.jerseyheritage.org/collection/Details/archive/110302880">Jersey Heritage</a></td></tr>
-<tr><th>An Aside</th><td><a href="https://www.gov.je/SiteCollectionDocuments/Government%20and%20administration/R%20Fort%20Regent%20Conservation%20Study%2020061001%20PH.pdf">A CONSERVATION STATEMENT FOR F O RT R E G E N T JERSEY</a></td></tr>
-</table>
-</figure>
-
-<br />{: .clear}
-
