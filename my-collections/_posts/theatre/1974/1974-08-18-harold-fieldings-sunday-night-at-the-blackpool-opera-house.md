@@ -7,7 +7,7 @@ description: Two shows at 6.10pm and 8.20pm with rehearsals at 2.30pm, Lena Zava
 media: Show Times
 post_description: Two shows at 6.10pm and 8.20pm with rehearsals at 2.30pm, Lena Zavaroni's fee was £1500.
 image: /assets/images/theatres/1974-08-18-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.png
-categories: [Theatres, Blackpool-Opera-House, Harold-Fielding, OnThisDay18August]
+categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay18August]
 ---
 
 <figure class="fig3">

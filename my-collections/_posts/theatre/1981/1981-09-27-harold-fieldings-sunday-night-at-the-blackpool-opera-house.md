@@ -7,7 +7,7 @@ description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm The Contrac
 media: Show Times
 post_description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 image: /assets/images/theatres/1974-04-14-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.jpg
-categories: [Theatres, Blackpool-Opera-House, Harold-Fielding, OnThisDay27September]
+categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay27September]
 ---
 
 <figure class="fig3">
