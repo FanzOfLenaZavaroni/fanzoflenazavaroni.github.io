@@ -4,17 +4,16 @@ title: The Sunday Mirror &#124; 6 July 1975
 maintitle: The Sunday Mirror
 subtitle: Pals, I'm Making Eyes At You Now
 description: Published an artilce on Lena Zavaroni's return to the Rothesay Pavilion along with a photo of Lena and her South Africa friend Susie Heckler.
-media: Newspaper
 post_description: Published an artilce on Lena Zavaroni's return to the Rothesay Pavilion along with a photo of Lena and her South Africa friend Susie Heckler.
-image: /assets/images/newspapers/1975-07-06-the-mirror.jpeg
 categories: [Newspaper-Mirror, OnThisDay6July]
 ---
 
-> [![](/assets/images/newspapers/1975-07-06-the-mirror.jpeg){: .full-width}{: .zoom-in}](/assets/images/newspapers/1975-07-06-the-mirror.jpeg)
->
-> An artilce on Lena Zavaroni's return to the Rothesay Pavilion along with a photo of Lena and her South Africa friend Susie Heckler.
-
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Details</a></h2>
+<div class="CardItem split">
+<blockquote><p>An artilce on Lena Zavaroni's return to the Rothesay Pavilion along with a photo of Lena and her South Africa friend Susie Heckler.</p></blockquote>
 <cite>The Sunday Mirror, page 11, 6 July 1975</cite>
-
-![](/assets/images/newspapers/1975-07-06-the-mirror-photo.jpg){: .full-width}
-
+</div></div></div>
+</figure>
