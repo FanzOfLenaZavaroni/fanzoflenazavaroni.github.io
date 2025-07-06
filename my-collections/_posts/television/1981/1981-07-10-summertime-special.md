@@ -7,54 +7,62 @@ before: "Recorded On "
 after: " for broadcast on 25 July 1981"
 description: Lena presents the show and performs Roses And Rainbows and covers Bobby Darin’s Multiplication.
 post_description: Lena presents the show and performs Roses And Rainbows and covers Bobby Darin’s Multiplication.
-image: /assets/images/BBC/1981-07-25-summertime-special.jpg
 categories: [BBC-One, Summertime-Special, Brighton, OnThisDay10July, OnThisDay25July]
 last_modified_at: 23 December 2023
 ---
 
-<table style="text-align:center;">
-<tr>
-<th colspan="3">Jump to</th>
-<th colspan="2">External Links</th>
-</tr>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Programme Summary</a></h2>
+<div class="CardItem split">
+<p>Lena presents the show and performs <a href="/discography/singles/1981-04-03-roses-and-rainbows">Roses And Rainbows</a> and covers Bobby Darin’s "Multiplication".</p>
+</div></div></div>
+</figure>
 
-<tr>
-<td><a href="#screenshot">Screenshot</a></td>
-<td><a href="#cast">Cast</a></td>
-<td><a href="#crew">Crew</a></td>
-<td><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1981-07-25#at-20.20">BBC Genome</a></td>
-</tr>
-</table>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Cast</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Presenter/Singer:</strong> Lena Zavaroni</li>
+<li><strong>Comedian:</strong> Lenny Windsor</li>
+<li><strong>Dancers:</strong> The A Team</li>
+<li><strong>Impressionist:</strong> Faith Brown</li>
+<li><strong>Music:</strong> John Coleman and his Orchestra</li>
+<li><strong>Jugglers:</strong> Victor Ponche and Sylvia</li>
+<li><strong>Singers:</strong> Bucks Fizz</li>
+<li><strong>Singer:</strong> Randy Crawford</li>
+<li><strong>Vocal backing:</strong> Vicki Brown</li>
+<li><strong>Vocal backing:</strong> Stevie Lange</li>
+<li><strong>Vocal backing:</strong> Joy Yates</li>
+</ul>
+</div></div></div>
+</figure>
 
-### Screenshot
-![Screenshot of Programme ID For Summertime Special](/assets/images/BBC/1981-07-25-summertime-special.jpg){: .full-width}
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox3" class="infobox"><a href="#infobox3">Crew</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Choreography:</strong> Lud</li>
+<li><strong>Costume Designer:</strong> Linda Martin</li>
+<li><strong>Lighting:</strong> Bert Oaten</li>
+<li><strong>Sound:</strong> Chris Holcombe</li>
+<li><strong>Designer:</strong> Paul Trerise</li>
+<li><strong>Special Material:</strong> Tony Hare</li>
+<li><strong>Producer:</strong> Stewart Morris</li>
+<li><strong>Production Company:</strong> BBC Television</li>
+</ul>
+</div></div></div>
+</figure>
 
-> Lena presents the show and performs Roses And Rainbows and covers Bobby Darin's Multiplication.
-
-### Cast
-<table>
-<tr><th>Presenter&#47;Singer</th><td>Lena Zavaroni</td></tr>
-<tr><th>Comedian</th><td>Lenny Windsor</td></tr>
-<tr><th>Dancers</th><td>The A Team</td></tr>
-<tr><th>Impressionist</th><td>Faith Brown</td></tr>
-<tr><th>Music</th><td>John Coleman and his Orchestra</td></tr>
-<tr><th>Jugglers</th><td>Victor Ponche And Sylvia</td></tr>
-<tr><th>Singers</th><td>Bucks Fizz</td></tr>
-<tr><th>Singer</th><td>Randy Crawford</td></tr>
-<tr><th>Vocal backing</th><td>Vicki Brown</td></tr>
-<tr><th>Vocal backing</th><td>Stevie Lange</td></tr>
-<tr><th>Vocal backing</th><td>Joy Yates</td></tr>
-</table>
-
-### Crew
-<table>
-<tr><th>Choreography</th><td>Lud</td></tr>
-<tr><th>Costume Designer</th><td>Linda Martin</td></tr>
-<tr><th>Lighting</th><td>Bert Oaten</td></tr>
-<tr><th>Sound</th><td>Chris Holcombe</td></tr>
-<tr><th>Designer</th><td>Paul Trerise</td></tr>
-<tr><th>Special Material</th><td>Tony Hare</td></tr>
-<tr><th>Producer</th><td>Stewart Morris</td></tr>
-<tr><th>Production Company</th><td>BBC Television</td></tr>
-</table>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox4" class="infobox"><a href="#infobox4">External Links</a></h2>
+<div class="CardItem split">
+<ul>
+<li><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1981-07-25#at-20.20">BBC Genome Listing</a></li>
+</ul>
+</div></div></div>
+</figure>
 
