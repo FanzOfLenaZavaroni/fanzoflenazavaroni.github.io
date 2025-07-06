@@ -30,7 +30,7 @@ last_modified_at: 6 July 2025
 
 <figure class="fig3">
 <div class="CardLayout">
-<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">What is NHK?</a></h2>
+<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">About the Broadcast</a></h2>
 <div class="CardItem split">
 <p><strong>NHK</strong> stands for <strong>Nippon Hōsō Kyōkai</strong> (日本放送協会), which translates to <strong>Japan Broadcasting Corporation</strong>. It is Japan’s national public broadcaster, similar in role to the BBC in the United Kingdom. NHK operates multiple television and radio networks and is funded by viewer license fees. It was established in 1926 and began television broadcasting in 1953.</p>
 
