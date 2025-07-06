@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Media Based Biography &#124; Lena Zavaroni
-maintitle: Media Based Biography of Lena Zavaroni
+title: Lena Zavaroni &#124; Media Based Biography
+maintitle: Lena Zavaroni A Media Based Biography
 subtitle: The following Biography is based On the media coverage and the public comments made by Lena Zavaroni, her family and friends
 born: 1963-11-04
 died: 1999-10-01
