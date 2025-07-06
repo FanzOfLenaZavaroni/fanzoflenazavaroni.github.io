@@ -79,12 +79,17 @@ last_modified_at: 25 January 2024
 <tr><th>Country:</th><td>Japan</td></tr>
 <tr><th>Released:</th><td>1974</td></tr>
 <tr><th>45Cat:</th><td><a class="external-link" href="https://www.45cat.com/record/sfl1850">sfl1850</a></td></tr>
-<tr id="infobox4" class="split"><th colspan="3">Note:</th></tr>
-<tr><td colspan="3">
-<p>This is the english version of the single released in Japan it would be later in the year while visiting Japan that Lena would record a version of Ma! (He's Making Eyes At Me) in Japanese.</p>
-<p>At this time I don't know what if anything was on the B-side or if it was just a recording that Japanese TV and Radio could use and so not even officially available to the public.</p></td></tr>
-</table>
+
+
+
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox3" class="infobox"><a href="#infobox3">Note</a></h2>
+<div class="CardItem split">
+<p>This is the English version of the single released in Japan. Later in 1974, Lena performed a Japanese-language version of <em>“Ma! (He’s Making Eyes At Me)”</em> on Japanese television. The broadcast aired on <strong>Sunday, 25 August 1974</strong>, as part of the variety show <em>“Big Show: As Long As There Is Song”</em> (「ビッグショー 歌のある限り」). There is no evidence that this version was commercially released, and it may have been recorded solely for broadcast purposes.</p>
+</div></div></div>
 </figure>
+
 
 <br />{: .clear}
 
