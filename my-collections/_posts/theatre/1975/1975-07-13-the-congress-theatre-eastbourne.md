@@ -11,35 +11,16 @@ categories: [Theatres, Congress-Theatre, OnThisDay13July]
 last_modified_at: 26 June 2023
 ---
 
-<figure class="fig1">
-<img src="/assets/images/theatres/1975-07-13-congress-theatre-eastbourne.jpg" class="full-width"/>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Credits</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Singer</strong> Lena Zavaroni</li>
+<li><strong>Comedian</strong> Norman Collier</li>
+<li><strong>Xylophone Players</strong> Jackie Allen And Barbara</li>
+<li><strong>Compere / Comedian</strong> Cavin Prime</li>
+<li><strong>Musicians</strong> Johnny Wiltshire And His Orchestra</li>
+</ul>
+</div></div></div>
 </figure>
-
-<figure class="fig2">
-<table>
-<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
-<tr><th>Comedian</th><td>Norman Collier</td></tr>
-<tr><th>Xylophone Players</th><td>Jackie Allen And Barbara</td></tr>
-<tr><th>Compere / Comedian</th><td>Cavin Prime</td></tr>
-<tr><th>Musicians</th><td>Johnny Wiltshire And His Orchestra</td></tr>
-</table>
-</figure>
-
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1 {float:left; width:100%;}
-.fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
-

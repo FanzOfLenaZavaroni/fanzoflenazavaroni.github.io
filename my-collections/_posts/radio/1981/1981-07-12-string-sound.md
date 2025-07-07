@@ -10,18 +10,27 @@ categories: [BBC-Radio-2, OnThisDay12July]
 last_modified_at: 23 December 2023
 ---
 
-{{ page.description }}
-
 <figure class="fig3">
-<table>
-<tr><th>Leader</th><td>Michael Tomalin</td></tr>
-<tr><th>Conductor</th><td>Neil Richardson</td></tr>
-<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
-<tr><th>Presenter</th><td>Moira Stuart</td></tr>
-<tr><th>Producer</th><td>Mel House</td></tr>
-<tr><th>BBC Genome</th><td><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_radio_two/1981-07-12#at-16.30">String Sound</a></td></tr>
-</table>
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Details</a></h2>
+<div class="CardItem split">
+{{ page.description }}
+<ul>
+<li><strong>BBC Genome</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_radio_two/1981-07-12#at-16.30">String Sound</a></li>
+</ul>
+</div></div></div>
 </figure>
 
-<br />{: .clear}
-
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Credits</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Leader</strong> Michael Tomalin</li>
+<li><strong>Conductor</strong> Neil Richardson</li>
+<li><strong>Singer</strong> Lena Zavaroni</li>
+<li><strong>Presenter</strong> Moira Stuart</li>
+<li><strong>Producer</strong> Mel House</li>
+</ul>
+</div></div></div>
+</figure>

@@ -12,62 +12,66 @@ categories: [BBC-One, Royal-Albert-Hall, London, OnThisDay13July, OnThisDay15Jul
 last_modified_at: 23 December 2023
 ---
 
-<table style="text-align:center;">
-<tr>
-<th colspan="4">Jump to</th>
-<th colspan="2">External Links</th>
-</tr>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Screenshot</a></h2>
+<div class="CardItem split">
+<img src="/assets/images/BBC/1976-07-15-the-grand-prix-night-of-the-stars.jpg" class="full-width" />
+</div></div></div>
+</figure>
 
-<tr>
-<td><a href="#screenshot">Screenshot</a></td>
-<td><a href="#details">Details</a></td>
-<td><a href="#cast">Cast</a></td>
-<td><a href="#crew">Crew</a></td>
-<td><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1976-07-15#at-20.00">BBC Genome</a></td>
-</tr>
-</table>
-
-### Screenshot
-![](/assets/images/BBC/1976-07-15-the-grand-prix-night-of-the-stars.jpg){: .full-width}
-
-### Details
-> In the week of Britain's round of the World Motor Racing Championship - The British Grand Prix stars from the world of entertainment and the world's top Grand Prix drivers share the stage at the Royal Albert Hall.
->
-> Lena performs a live version of This Is My Song, and is then serenaded by Henry Cooper and Barrie Gill, with their version of Lena, My Little Honey Lena.
-
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Details</a></h2>
+<div class="CardItem split">
+<blockquote>
+<p>In the week of Britain's round of the World Motor Racing Championship - The British Grand Prix stars from the world of entertainment and the world's top Grand Prix drivers share the stage at the Royal Albert Hall.</p>
+<p>Lena performs a live version of This Is My Song, and is then serenaded by Henry Cooper and Barrie Gill, with their version of Lena, My Little Honey Lena.</p>
+</blockquote>
 <cite>Robcamstone</cite>
+</div></div></div>
+</figure>
 
-### Cast
-<table>
-<tr><th style="width:50%;">Unknown Apart From Obviously Being Dancers</th><td style="width:50%;">The Minstrel Dancers</td></tr>
-<tr><th>Welsh singer</th><td>Shirley Bassey</td></tr>
-<tr><th>British Pop Group</th><td>Brotherhood of Man</td></tr>
-<tr><th>British jazz Band</th><td>The Chris Barber Band</td></tr>
-<tr><th>Scottish Singer</th><td>Lena Zavaroni</td></tr>
-<tr><th>Irish Singer - Unable To Confirmed At This Time</th><td>Vincent Zara</td></tr>
-<tr><th>Motorsport Commentator</th><td>Barrie Gill</td></tr>
-<tr><th>Astronomer</th><td>Patrick Moore</td></tr>
-<tr><th>British Racing Driver</th><td>James Hunt</td></tr>
-<tr><th>British heavyweight boxer</th><td>Henry Cooper</td></tr>
-<tr><th>British Formula One Racing Driver</th><td>Jackie Stewart</td></tr>
-<tr><th>Austrian Formula One driver</th><td>Niki Lauda</td></tr>
-<tr><th>British Racing Driver from Wales</th><td>Tom Pryce</td></tr>
-<tr><th>South African Formula One Racing Driver</th><td>Jody Scheckter</td></tr>
-<tr><th>Italian-born American Racing Driver</th><td>Mario Andretti</td></tr>
-<tr><th>Brazilian Automobile Racing Driver</th><td>Emerson Fittipaldi</td></tr>
-<tr><th>English Grand Prix Motorcycle Road Racer And Formula One Driver</th><td>John Surtees</td></tr>
-</table>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox3" class="infobox"><a href="#infobox3">Cast</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Unknown Apart From Obviously Being Dancers</strong> The Minstrel Dancers</li>
+<li><strong>Welsh singer</strong> Shirley Bassey</li>
+<li><strong>British Pop Group</strong> Brotherhood of Man</li>
+<li><strong>British jazz Band</strong> The Chris Barber Band</li>
+<li><strong>Scottish Singer</strong> Lena Zavaroni</li>
+<li><strong>Irish Singer - Unable To Confirmed At This Time</strong> Vincent Zara</li>
+<li><strong>Motorsport Commentator</strong> Barrie Gill</li>
+<li><strong>Astronomer</strong> Patrick Moore</li>
+<li><strong>British Racing Driver</strong> James Hunt</li>
+<li><strong>British heavyweight boxer</strong> Henry Cooper</li>
+<li><strong>British Formula One Racing Driver</strong> Jackie Stewart</li>
+<li><strong>Austrian Formula One driver</strong> Niki Lauda</li>
+<li><strong>British Racing Driver from Wales</strong> Tom Pryce</li>
+<li><strong>South African Formula One Racing Driver</strong> Jody Scheckter</li>
+<li><strong>Italian-born American Racing Driver</strong> Mario Andretti</li>
+<li><strong>Brazilian Automobile Racing Driver</strong> Emerson Fittipaldi</li>
+<li><strong>English Grand Prix Motorcycle Road Racer And Formula One Driver</strong> John Surtees</li>
+</ul>
+</div></div></div>
+</figure>
 
-### Crew
-<table>
-<tr><th style="width:50%;">Producer</th><td style="width:50%;">Ernest Maxin</td></tr>
-<tr><th>Producer</th><td>Stewart Morris</td></tr>
-<tr><th>Lighting</th><td>Hubert Cartwright</td></tr>
-<tr><th>Designer</th><td>Ken Starkey</td></tr>
-<tr><th>Conductor</th><td>Arthur Greenslade</td></tr>
-<tr><th>Conductor</th><td>Ronnie Hazlehurst</td></tr>
-<tr><th>Choreography</th><td>Geraldine Yates</td></tr>
-<tr><th>Sound</th><td>Chris Holcombe</td></tr>
-<tr><th>Production Company</th><td>BBC</td></tr>
-</table>
-
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox4" class="infobox"><a href="#infobox4">Crew</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Producer</strong> Ernest Maxin</li>
+<li><strong>Producer</strong> Stewart Morris</li>
+<li><strong>Lighting</strong> Hubert Cartwright</li>
+<li><strong>Designer</strong> Ken Starkey</li>
+<li><strong>Conductor</strong> Arthur Greenslade</li>
+<li><strong>Conductor</strong> Ronnie Hazlehurst</li>
+<li><strong>Choreography</strong> Geraldine Yates</li>
+<li><strong>Sound</strong> Chris Holcombe</li>
+<li><strong>Production Company</strong> BBC</li>
+</ul>
+</div></div></div>
+</figure>
