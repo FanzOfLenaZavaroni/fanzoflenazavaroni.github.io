@@ -7,7 +7,7 @@ after: " - 8 September 1979"
 description: The Spa Theatre, Bridlington.
 post_description: The Spa Theatre, Bridlington.
 categories: [Theatre-Spa-Theatre, Bridlington, The-Lena-Zavaroni-Show, OnThisDay5July, OnThisDay8September]
-last_modified_at: 5 July 2024
+last_modified_at: 8 July 2024
 ---
 
 <figure class="fig1">
@@ -80,7 +80,6 @@ last_modified_at: 5 July 2024
 </figure>
 
 <style>
-.CardLayout-Height1 {height:582px;}
-.CardLayout-Height2 {height:314px;}
-@media screen and (orientation:portrait) {.CardLayout-Height1, .CardLayout-Height2 {height: unset;}}
+.CardLayout-Height1 {height: 513px;}
+@media screen and (orientation:portrait) {.CardLayout-Height1 {height: unset;}}
 </style>
