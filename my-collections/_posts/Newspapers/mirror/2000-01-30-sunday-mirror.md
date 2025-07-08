@@ -39,7 +39,7 @@ categories: [Newspaper-Mirror, OnThisDay30January]
 
         <p>As for the claim that Victor was a devoted father, that too is open to question. He was clearly involved in Lena’s life and career, yet remained largely out of public view. Then, months after her death, he stepped forward not to share memories or grief, but to discredit someone else’s account. If grief and privacy were the reason for his earlier silence, why speak out at all?</p>
 
-        <p>Maybe my discomfort is personal. Maybe it’s because I see someone who had power but stayed in the shadows. And maybe that’s why I find his use of Lena’s will to dismiss Ray Dexter so troubling. The will left Dexter £500—more than Lena left to Bonnie Langford or Elly Dalziel, two of her closest friends. That doesn’t prove anything. But it does make Victor’s claim feel selective, even self-serving.</p>
+        <p>Maybe my discomfort is personal. Maybe it’s because I see someone who had power but stayed in the shadows. And maybe that’s why I find his use of Lena’s will to dismiss Ray Dexter so troubling. The will left Dexter £500 — more than Lena left to Bonnie Langford or Elly Dalziel, two of her closest friends. That doesn’t prove anything. But it does make Victor’s claim feel selective, even self-serving.</p>
 
         <p>Back to the "Will": if, as Victor claims, it proves Lena and Ray were never going to marry, then by that logic it must also prove Lena did not value her friendships with Bonnie or Elly—which is clearly untrue. I’m sure she valued them both.</p>
 
