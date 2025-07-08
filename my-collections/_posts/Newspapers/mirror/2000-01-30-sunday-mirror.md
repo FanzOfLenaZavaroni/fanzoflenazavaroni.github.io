@@ -35,7 +35,7 @@ categories: [Newspaper-Mirror, OnThisDay30January]
     <div class="CardItem">
       <h2 id="infobx3" class="infobox"><a href="#infobx3">Commentary</a></h2>
       <div class="CardItem split">
-        <p>While we can never know the truth about Lena and Ray's relationship, the idea that her "Will" proves anything is misleading. I have now seen photos of Lena and Ray together, and they do appear very close—but whether that closeness was romantic or platonic is open to interpretation. Only two people truly knew the nature of that relationship: Lena and Ray. And with Lena’s passing, we can’t confirm anything.</p>
+        <p>While we can never know the truth about Lena and Ray's relationship, the idea that her "Will" proves anything is misleading. I have now seen photos of Lena and Ray together, and they do appear very close—but whether that closeness was romantic or platonic is open to interpretation. Only two people truly knew the nature of that relationship: Lena and Ray, and with Lena’s passing, we can’t confirm anything.</p>
 
         <p>As for the claim that Victor was a devoted father, that too is open to question. He was clearly involved in Lena’s life and career, yet remained largely out of public view. Then, months after her death, he stepped forward not to share memories or grief, but to discredit someone else’s account. If grief and privacy were the reason for his earlier silence, why speak out at all?</p>
 
