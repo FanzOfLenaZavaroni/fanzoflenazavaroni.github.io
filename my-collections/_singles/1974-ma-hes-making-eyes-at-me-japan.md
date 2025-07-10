@@ -10,119 +10,77 @@ permalink: /discography/singles/:name
 last_modified_at: 25 January 2024
 ---
 
-<figure class="fig3">
-<table style="text-align:center;">
-<tr><th colspan="5">View Details For Know Releases</th></tr>
-<tr><td><a href="/discography/singles/1974-01-25-ma-hes-making-eyes-at-me-uk">UK</a></td><td><a href="/discography/singles/1974-03-11-ma-hes-making-eyes-at-me-argentina">Argentina</a></td><td><a href="/discography/singles/1974-03-ma-hes-making-eyes-at-me-usa">USA</a></td><td><a href="/discography/singles/1974-03-ma-hes-making-eyes-at-me-yugoslavia">Yugoslavia</a><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-australia">Australia</a></td></td></tr>
-
-<tr><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-belgium">Belgium</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-france">France</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-germany">Germany</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-ireland">Ireland</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-japan">Japan &#x2714;</a></td></tr>
-
-<tr><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-netherlands">Netherlands</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-new-zealand">New Zealand</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-norway">Norway</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-portugal">Portugal</a></td><td><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-south-africa">South Africa</a></td></tr>
-</table>
-</figure>
-
-<figure class="fig3">
-<table style="text-align:center;">
-<tr><th colspan="4">Jump To</th></tr>
-<tr><td style="width:25%;"><a href="#infobox1">Side 1</a></td><td style="width:25%;"><a href="#infobox2">Side 2</a></td><td style="width:25%;"><a href="#infobox3">Details</a></td><td style="width:25%;"><a href="#infobox4">Note</a></td></tr>
-</table>
-</figure>
-
-<figure class="fig3">
-<table>
-<tr id="infobox1"><th colspan="3">Ma! (He's Making Eyes At Me) - Japan Release - Side 1</th></tr>
-<tr>
-<th style="width:50%; vertical-align:top;" rowspan="7" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-japan-side-1.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-japan-side-1.jpg" class="full-width zoom-in" /></a></th>
-</tr>
-<tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
-<tr><th>A Face:</th><td>Ma! (He's Making Eyes At Me)</td></tr>
-<tr><th>Composer:</th><td>Con Conrad</td></tr>
-<tr><th>Composer:</th><td>Sydney Clare</td></tr>
-<tr><th>Producer:</th><td>Tommy Scott</td></tr>
-<tr><th>Arranger:</th><td>Tom Parker</td></tr>
-</table>
-</figure>
-
-<figure class="fig3">
-<table>
-<tr id="infobox2"><th colspan="3">Ma! (He's Making Eyes At Me) - Japan Release - Side 2</th></tr>
-<tr>
-<th style="width:50%; vertical-align:top;" rowspan="8" class="top"><a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-japan-side-2.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-japan-side-2.jpg" class="full-width zoom-in" /></a></th>
-</tr>
-<tr><th style="width:15%;">Artist:</th><td>Lena Zavaroni</td></tr>
-<tr><th>B Face:</th><td>Rock-A-Bye Your Baby With A Dixie Melody</td></tr>
-<tr><th>Composer:</th><td>Sam. M. Lewis</td></tr>
-<tr><th>Composer:</th><td>Joe Young</td></tr>
-<tr><th>Composer:</th><td>Gene Schwartz</td></tr>
-<tr><th>Producer:</th><td>Tommy Scott</td></tr>
-<tr><th>Arranger:</th><td>Tom Parker</td></tr>
-</table>
-</figure>
-
-<figure class="fig3">
-<table>
-<tr id="infobox3"><th colspan="3">Ma! (He's Making Eyes At Me) - Japan Release - Details</th></tr>
-<tr><th style="width:50%; vertical-align:top;" rowspan="6" class="top">
-<div id="slideshow">
-<div>
-<a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-japan-fs.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-japan-fs.jpg" class="full-width zoom-in" alt="Japan front of the sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a>
-<cite>Front of the sleeve</cite>
-</div>
-<div>
-<a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-japan-bs.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-japan-bs.jpg" class="full-width zoom-in" alt="Japan back of the sleeve for the single Ma! (He's Making Eyes At Me) Philips - 6006 367" /></a>
-<cite>Back of the sleeve</cite>
-</div>
-</div>
-</th></tr>
-<tr><th style="width:15%;">Label:</th><td>Philips - SFL-1850</td></tr>
-<tr><th>Format:</th><td>7" Vinyl, 45 Stereo Single</td></tr>
-<tr><th>Country:</th><td>Japan</td></tr>
-<tr><th>Released:</th><td>1974</td></tr>
-<tr><th>45Cat:</th><td><a class="external-link" href="https://www.45cat.com/record/sfl1850">sfl1850</a></td></tr>
-
-
-
-<figure class="fig3">
+<figure class="fig1">
 <div class="CardLayout">
-<div class="CardItem"><h2 id="infobox3" class="infobox"><a href="#infobox3">Note</a></h2>
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Side 1</a></h2>
 <div class="CardItem split">
-<p>This is the English version of the single released in Japan. Later in 1974, Lena performed a Japanese-language version of <em>“Ma! (He’s Making Eyes At Me)”</em> on Japanese television. The broadcast aired on <strong>Sunday, 25 August 1974</strong>, as part of the variety show <em>“Big Show: As Long As There Is Song”</em> (「ビッグショー 歌のある限り」). There is no evidence that this version was commercially released, and it may have been recorded solely for broadcast purposes.</p>
+<a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-japan-side-1.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-japan-side-1.jpg" class="full-width zoom-in" /></a>
 </div></div></div>
 </figure>
 
+<figure class="fig2">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Side 2</a></h2>
+<div class="CardItem split">
+<a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-japan-side-2.jpg"><img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-japan-side-2.jpg" class="full-width zoom-in" /></a>
+</div></div></div>
+</figure>
 
-<br />{: .clear}
+<figure class="fig1">
+<div class="CardLayout CardLayout-Height1">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Side 1 - Details</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Artist:</strong> Lena Zavaroni</li>
+<li><strong>Side 1:</strong> Ma! (He's Making Eyes At Me)</li>
+<li><strong>Composer:</strong> Clare Conrad</li>
+<li><strong>Producer:</strong> Tommy Scott</li>
+</ul>
+</div></div></div>
+</figure>
+
+<figure class="fig2">
+<div class="CardLayout CardLayout-Height1">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Side 2 - Details</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Artist:</strong> Lena Zavaroni</li>
+<li><strong>B side:</strong> Rock-A-Bye Your Baby With A Dixie Melody</li>
+<li><strong>Composer:</strong> Lewis, Young</li>
+<li><strong>Composer:</strong> Schwartz</li>
+<li><strong>Producer:</strong> Tommy Scott</li>
+</ul>
+</div></div></div>
+</figure>
+
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox3" class="infobox"><a href="#infobox3">Release Details</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Label:</strong> Philips - SFL-1850</li>
+<li><strong>Format:</strong> 7" Vinyl, 45 rpm Single</li>
+<li><strong>Country:</strong> Japan</li>
+<li><strong>Released:</strong> 1974</li>
+<li><strong>45Cat:</strong> <a class="external-link" href="https://www.45cat.com/record/sfl1850">sfl1850</a></li>
+</ul>
+</div></div></div>
+</figure>
+
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox4" class="infobox"><a href="#infobox4">Note</a></h2>
+<div class="CardItem split">
+<p>This is the English-language version of the single released in Japan. A separate Japanese-language version of <em>“Ma! (He’s Making Eyes At Me)”</em> was also released in 1974. Lena Zavaroni performed this version on Japanese television on <strong>25 August 1974</strong>, during the variety show <em>“Big Show: As Long As There Is Song”</em> (「ビッグショー 歌のある限り」). Further details about the Japanese-language release will be covered separately.</p>
+</div></div></div>
+</figure>
 
 <style>
-#infobox4 {scroll-margin-top: -3px;}
-#slideshow {
-position: relative;
-aspect-ratio:1/1.1;
-}
-
-#slideshow > div {
-position: absolute;
-top: 10px;
-left: 10px;
-right: 10px;
-bottom: 10px;
-}
-
-@media screen and (orientation:portrait) {.fig2 {margin-top:-50px;} .adjust {margin-top:30px !important;}}
+.CardLayout-Height1 {height: 289.5px;}
+@media screen and (orientation:portrait) {.CardLayout-Height1 {height: unset;}}
 </style>
-
-<script type="text/javascript" src="/assets/js/jquery-3.6.0.min.js"></script>
-
-<script>
-$("#slideshow > div:gt(0)").hide();
-
-setInterval(function() { 
-$('#slideshow > div:first')
-.fadeOut(1000)
-.next()
-.fadeIn(1000)
-.end()
-.appendTo('#slideshow');
-}, 4000);
-</script>
-
