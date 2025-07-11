@@ -2,6 +2,7 @@
 layout: post-no-comments
 title: Welcome to Fanz of Lena Zavaroni
 maintitle: Welcome to Fanz of Lena Zavaroni
+subtitle: This site is dedicated to preserving the truth and legacy of Lena Zavaroni — not as a product of fame, but as a person who mattered.
 ---
 
 <figure class="fig3">
@@ -52,8 +53,3 @@ This transition will take some time. You might notice:
 </p>
 </div></div></div>
 </figure>
-
-<style>
-.CardLayout-Fix {text-align: center;}
-</style>
-
