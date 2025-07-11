@@ -13,16 +13,26 @@ last_modified_at: 26 June 2023
 
 <figure class="fig3">
 <div class="CardLayout">
-<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Stars</a></h2>
+<div class="CardItem">
+<h2 id="infobox1" class="infobox">
+<a href="#infobox1">Programme Schedule</a>
+</h2>
 <div class="CardItem split">
-<ul>
-<li>Lena Zavaroni</li>
-<li>Barry Britten</li>
-<li>Barley</li>
-<li>The Wedgewoods</li>
-<li>Pam Ayres</li>
-</ul>
-</div></div></div>
+<h3>Before the Interval</h3>
+<ol>
+<li>Pam Ayres – Poetry</li>
+<li>The Wedgewoods – Folk music</li>
+<li>Barry Britten – Vocal act</li>
+<li>Barley – Instrumental interlude</li>
+</ol>
+<h3>After the Interval</h3>
+<ol>
+<li>Pam Ayres – Poetry reprise</li>
+<li>Lena Zavaroni – Headline set</li>
+</ol>
+</div>
+</div>
+</div>
 </figure>
 
 <figure class="fig3">

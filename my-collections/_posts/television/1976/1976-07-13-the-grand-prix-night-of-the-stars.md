@@ -27,6 +27,7 @@ last_modified_at: 23 December 2023
 <blockquote>
 <p>In the week of Britain's round of the World Motor Racing Championship - The British Grand Prix stars from the world of entertainment and the world's top Grand Prix drivers share the stage at the Royal Albert Hall.</p>
 <p>Lena performs a live version of This Is My Song, and is then serenaded by Henry Cooper and Barrie Gill, with their version of Lena, My Little Honey Lena.</p>
+<p>You can also use the following link to view a short summery of an article in the <a href="/1976-07-11-the-sunday-People">Sunday Mirror</a> dated 11 July 1976.</p>
 </blockquote>
 <cite>Robcamstone</cite>
 </div></div></div>
