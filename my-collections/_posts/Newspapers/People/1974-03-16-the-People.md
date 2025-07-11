@@ -1,14 +1,12 @@
 ---
 layout: post
-last_modified_at: 15 June 2023
 title: The People &#124; 16 March 1975
 maintitle: The People
 subtitle: Pick of the Day
 description: Lena has 'divi' for Vernons
-media: Newspaper
 post_description: Lena has 'divi' for Vernons
-image: /assets/images/newspapers/1974-03-16-sunday-people-front-page-20.png
 categories: [Newspaper-People, OnThisDay16March]
+last_modified_at: 15 June 2023
 ---
 
 <figure class="fig1">
