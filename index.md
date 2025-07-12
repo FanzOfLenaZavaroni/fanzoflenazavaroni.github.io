@@ -37,19 +37,5 @@ subtitle: This site is dedicated to preserving the truth and legacy of Lena Zava
 <h2 id="infobox3" class="infobox"><a href="#infobox3" style="color: #dc3545; font-weight: bold;">Important Notice</a></h2>
 <div class="CardItem red-split">
 <p><strong>Important Notice:</strong> Due to copyright concerns, Fanz of Lena Zavaroni no longer adds images or videos to posts. <a href="/2025-05-02-announcement" style="color: #dc3545; font-weight: bold;">Read More</a></p>
-<p style="margin: 10px 0;"><strong>Update:</strong></p>
-<p style="text-align: left; margin: 0 auto; max-width: 600px;">
-I am currently transitioning from using HTML's &lt;table&gt; tag to the &lt;div&gt; tag for creating cards.<br>
-<strong>Better Mobile Display:</strong> Tables may look fine on desktops, but they can become messy on small mobile devices. The card format will display correctly on all devices.<br>
-This transition will take some time. You might notice:
-</p>
-<ul style="text-align: left; margin: 0 auto; max-width: 600px;">
-<li>Some pages using the new card format.</li>
-<li>Other pages still using tables for now.</li>
-</ul>
-<p style="text-align: left; margin: 0 auto; max-width: 600px;">
-<p><s>I have changed the submenus from tables to a button format. You may see a mix of tables and buttons until I can rewrite all the code.</s></p>
-<p>I have replaced the submenu buttons with a card with a single catergory link, The card may have other links but usualy only one catergory link.</p>
-</p>
 </div></div></div>
 </figure>
