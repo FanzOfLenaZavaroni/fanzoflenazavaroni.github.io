@@ -73,9 +73,12 @@ last_modified_at: 8 July 2024
 
 <figure class="fig3">
 <div class="CardLayout">
-<div class="CardItem"><h2 id="infobox4" class="infobox"><a href="#infobox4">Link To An Example Postmark Used To Promote The Show</a></h2>
+<div class="CardItem"><h2 id="infobox4" class="infobox"><a href="#infobox4">Links</a></h2>
 <div class="CardItem split">
-<p><a class="external-link" href="https://www.45spaces.com/postmarks/l.php?l=lena-zavaroni-britains-brightest-star-at-bridlington">45spaces | Postmarks</a></p>
+<ul>
+<li><strong>See also:</strong> <a href="/1979-07-12-the-stage-and-television-today">Stage and Television Today &mdash; 12 July 1979</a></li>
+<li><strong>An Example Postmark Used To Promote The Show:</strong> <a class="external-link" href="https://www.45spaces.com/postmarks/l.php?l=lena-zavaroni-britains-brightest-star-at-bridlington">45spaces | Postmarks</a></li>
+</ul>
 </div></div></div>
 </figure>
 
