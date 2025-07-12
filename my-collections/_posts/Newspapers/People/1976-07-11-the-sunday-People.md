@@ -13,7 +13,7 @@ last_modified_at: 11 July 2025
   <div class="CardLayout">
     <div class="CardItem">
       <h2 id="infobox1" class="infobox">
-        <a href="#infobox1">Feature Summary</a>
+        <a href="#infobox1">Publication Details</a>
       </h2>
       <div class="CardItem split">
         <ul>
