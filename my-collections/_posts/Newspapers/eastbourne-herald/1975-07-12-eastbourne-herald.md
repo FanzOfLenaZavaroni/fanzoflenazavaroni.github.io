@@ -13,13 +13,13 @@ last_modified_at: 12 July 2025
 <div class="CardLayout">
 <div class="CardItem">
 <h2 id="infobox1" class="infobox">
-<a href="#infobox1">Feature Summary</a>
+<a href="#infobox1">Publication Details</a>
 </h2>
 <div class="CardItem split">
 <ul>
 <li><strong>Publication:</strong> Eastbourne Herald</li>
 <li><strong>Date:</strong> 12 July 1975</li>
-<li><strong>Venue:</strong> Congress Theatre, Eastbourne</li>
+<li><strong>Venue:</strong> <a href="/1975-07-13-the-congress-theatre-eastbourne">Congress Theatre, Eastbourne</a></li>
 <li><strong>Event Date:</strong> 13 July 1975</li>
 <li><strong>Programme:</strong> Sunday Variety Show</li>
 <li><strong>Performer:</strong> Lena Zavaroni</li>
