@@ -11,14 +11,16 @@ last_modified_at: 23 December 2023
 ---
 
 <figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Details</a></h2>
-<div class="CardItem split">
-{{ page.description }}
-<ul>
-<li><strong>BBC Genome</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_radio_two/1981-07-12#at-16.30">String Sound</a></li>
-</ul>
-</div></div></div>
+  <div class="CardLayout">
+    <div class="CardItem">
+      <h2 id="infobox1" class="infobox">
+        <a href="#infobox1">Details</a>
+      </h2>
+      <div class="CardItem split">
+        <p>Lena Zavaroni appeared as a featured vocalist in this edition of BBC Radio 2’s <strong>String Sound</strong>, performing alongside conductor Neil Richardson and the Radio Orchestra strings led by Michael Tomalin.</p>
+      </div>
+    </div>
+  </div>
 </figure>
 
 <figure class="fig3">
