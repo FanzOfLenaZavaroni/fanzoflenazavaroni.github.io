@@ -32,9 +32,21 @@ subtitle: This site is dedicated to preserving the truth and legacy of Lena Zava
 </figure>
 
 <figure class="fig3">
+<div class="CardLayout" style="background: #fff3cd; border: 1px solid #ffc107;">
+<div class="CardItem">
+<h2 id="infobox3" class="infobox"><a href="#infobox3" style="color: #856404; font-weight: bold;">Why This Site Works Differently</a></h2>
+<div class="CardItem yellow-split">
+<p><strong>Fanz of Lena Zavaroni</strong> is dedicated to portraying Lena as a person—not as a commodity of fame or a gallery subject. This site no longer includes images or videos due to copyright concerns and the misuse of media by other platforms.</p>
+<p>Many websites value appearance over integrity, using watermarked or unauthorized images to draw attention. This site values truth, context, and respect—building meaningful pages based on verified history, firsthand recollections, and thoughtful layout. What started as a limitation has become a strength: pages now carry more depth and clarity than ever before.</p>
+<p>Whether you’re a lifelong fan or newly curious, you’re invited to explore Lena’s life from a place of honesty. Not a fantasy. A legacy.</p>
+<p>For more on this decision, see the <a href="#infobox4" style="color: #856404; font-weight: bold;">Important Notice</a> below or preferably read the <a href="/2025-05-02-announcement" class="external-link">full statement</a> explaining why this approach matters.</p>
+</div></div></div>
+</figure>
+
+<figure class="fig3">
 <div class="CardLayout" style="background: #f8d7da; border: 1px solid #dc3545;">
 <div class="CardItem">
-<h2 id="infobox3" class="infobox"><a href="#infobox3" style="color: #dc3545; font-weight: bold;">Important Notice</a></h2>
+<h2 id="infobox4" class="infobox"><a href="#infobox4" style="color: #dc3545; font-weight: bold;">Important Notice</a></h2>
 <div class="CardItem red-split">
 <p><strong>Important Notice:</strong> Due to copyright concerns, Fanz of Lena Zavaroni no longer adds images or videos to posts. <a href="/2025-05-02-announcement" style="color: #dc3545; font-weight: bold;">Read More</a></p>
 </div></div></div>

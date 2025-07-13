@@ -5,53 +5,35 @@ maintitle: The Tonight Show
 subtitle: Actor Burt Reynolds stood in for Johnny Carson
 description: Actor Burt Reynolds stood in for Johnny Carson. Lena Zavaroni makes the second of two appearances on the show that summer. Lena performs Swinging On A Star and is then interviewed by Burt. She tells him about her trip to Japan and how she ate with chopsticks, and then shows Burt how to use them. She then sings Help Me Make It Through The Night.
 post_description: Actor Burt Reynolds stood in for Johnny Carson with Lena Zavaroni making her second of two appearances on the show.
-image: /assets/images/US-TV/1974-07-15-the-tonight-show-200x200.png
 categories: [US-Television, OnThisDay15July]
-last_modified_at: 26 June 2023
+last_modified_at: 13 July 2025
 ---
 
-<figure class="fig1">
-<figcaption>
-<h2 id="still"><a href="#still">Still From The TV Show</a></h2>
-</figcaption>
-<img src="/assets/images/US-TV/1974-07-15-the-tonight-show.jpg" class="full-width"/>
-<figcaption>
-<cite>Burt Reynolds and Lena Zavaroni</cite>
-</figcaption>
-</figure>
-
-<figure class="fig2">
-<figcaption>
-<h2 id="details"><a href="#details">Details</a></h2>
-</figcaption>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Details</a></h2>
+<div class="CardItem split">
 <p>Actor Burt Reynolds stood in for Johnny Carson. Lena Zavaroni makes the second of two appearances on the show that summer.</p>
-<p>Lena performs Swinging On A Star and is then interviewed by Burt. She tells him about her trip to Japan and how she ate with chopsticks, and then shows Burt how to use them. She then sings Help Me Make It Through The Night.</p>
-<figcaption>
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-</figcaption>
-<table>
-<tr><th style="width:50%;">Guest presenter:</th><td style="width:50%;">Burt Reynolds</td></tr>
-<tr><th>Singer:</th><td>Lena Zavaroni</td></tr>
-<tr><th>Actor:</th><td>Jimmy Stewart</td></tr>
-<tr><th>Actor:</th><td>Willie Mays</td></tr>
-<tr><th>Actor:</th><td>Paul Anka</td></tr>
-</table>
+<p>Lena performs <strong>Swinging On A Star</strong> and is then interviewed by Burt. She tells him about her trip to Japan and how she ate with chopsticks, and then shows Burt how to use them. She then sings <strong>Help Me Make It Through The Night</strong>.</p>
+</div>
+</div>
+</div>
 </figure>
 
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1 {float:left; width:100%;}
-.fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Cast</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Guest Presenter:</strong> Burt Reynolds</li>
+<li><strong>Singer:</strong> Lena Zavaroni</li>
+<li><strong>Actor:</strong> Jimmy Stewart</li>
+<li><strong>Actor:</strong> Willie Mays</li>
+<li><strong>Actor:</strong> Paul Anka</li>
+</ul>
+</div>
+</div>
+</div>
+</figure>
