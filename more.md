@@ -19,9 +19,9 @@ description:
 <figure class="fig2">
 <div class="CardLayout card-height">
 <div class="CardItem">
-  <h2 class="infobox"><a href="/announcements">:ribbon: Fanz of Lena Zavaroni Memorial</a></h2>
+  <h2 class="infobox"><a href="https://fanz-of-lena-zavaroni.muchloved.com">:ribbon: Fanz of Lena Zavaroni Memorial</a></h2>
   <div class="CardItem split">
-    <a href="https://fanz-of-lena-zavaroni.muchloved.com/">A website where fans of Lena Zavaroni can go to leave a message to Lena, light a candle, post a photo, ECT.</a>
+    <a href="https://fanz-of-lena-zavaroni.muchloved.com">A website where fans of Lena Zavaroni can go to leave a message to Lena, light a candle, post a photo, ECT.</a>
   </div>
 </div>
 </div>
@@ -94,12 +94,23 @@ description:
 </div>
 </figure>
 
-<figure class="fig3">
-<div class="CardLayout">
+<figure class="fig1">
+<div class="CardLayout card-height">
 <div class="CardItem">
   <h2 class="infobox"><a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/discussions/categories/archives"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c4.png" width="30" height="auto" /> Discussions that have been moved to Archives</a></h2>
   <div class="CardItem split">
     <a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/discussions/categories/archives">Go to Github Discussions category Archives.</a>
+  </div>
+</div>
+</div>
+</figure>
+
+<figure class="fig2">
+<div class="CardLayout card-height">
+<div class="CardItem">
+    <h2 class="infobox"><a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/wiki">❓ Wiki</a></h2>
+  <div class="CardItem split">
+    <a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/wiki"> Simple details on the code that helps the website function.</a>
   </div>
 </div>
 </div>
