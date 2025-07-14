@@ -34,7 +34,7 @@ subtitle: This site is dedicated to preserving the truth and legacy of Lena Zava
 <figure class="fig3">
 <div class="CardLayout" style="background: #fff3cd; border: 1px solid #ffc107;">
 <div class="CardItem">
-<h2 id="infobox3" class="infobox"><a href="#infobox3" style="color: #856404; font-weight: bold;">Why This Site Works Differently</a></h2>
+<h2 id="infobox3" class="infobox"><a href="#infobox3" style="color: #856404; font-weight: bold;">Why Fanz of Lena Zavaroni Switched to a Text-Based Archive</a></h2>
 <div class="CardItem yellow-split">
 <p><strong>Fanz of Lena Zavaroni</strong> is dedicated to portraying Lena as a person—not as a commodity of fame or a gallery subject. This site no longer includes images or videos due to copyright concerns and the misuse of media by other platforms.</p>
 <p>Many websites value appearance over integrity, using watermarked or unauthorized images to draw attention. This site values truth, context, and respect—building meaningful pages based on verified history, firsthand recollections, and thoughtful layout. What started as a limitation has become a strength: pages now carry more depth and clarity than ever before.</p>
