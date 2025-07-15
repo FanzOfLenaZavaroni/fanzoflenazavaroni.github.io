@@ -26,7 +26,7 @@ subtitle: This site is dedicated to preserving the truth and legacy of Lena Zava
 <p>It is presented as a series of short notes and comments along with links to related media, blogs, etc. I hope fans will find it of interest and that it helps them on their own discovery of Lena Zavaroni. It's a hard but sometimes happy but also very sad journey into the world of Lena Zavaroni. If you want the fantasy Lena that some fans seem to, then you should end your journey here.</p>
 <ul>
 <li><a href="/1963-11-04-lena-zavaroni"><strong>Media Based Biography of Lena Zavaroni</strong></a></li>
-<li><a href="1963-11-04-summary-biography-of-lena-zavaroni/"><strong> Summary Biography of Lena Zavaroni</strong></a></li>
+<li><a href="1963-11-04-summary-biography-of-lena-zavaroni/"><strong> Summary Of The Media Based Biography of Lena Zavaroni</strong></a></li>
 </ul>
 </div></div></div>
 </figure>
