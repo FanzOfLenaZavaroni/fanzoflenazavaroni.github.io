@@ -2,6 +2,7 @@
 layout: post-no-comments
 title: On This Day
 maintitle: On This Day
+force_rerender: true
 ---
 
 <script>
