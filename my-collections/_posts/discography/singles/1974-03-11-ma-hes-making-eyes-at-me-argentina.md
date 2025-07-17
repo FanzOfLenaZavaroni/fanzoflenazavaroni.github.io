@@ -72,7 +72,7 @@ last_modified_at: 10 July 2025
 <div class="CardItem split">
 <ul>
   <li><strong>Label:</strong> Philips – 6006 367</li>
-  <li><strong>Format:</strong> 7" Vinyl, 33⅓ rpm Single</li>
+  <li><strong>Format:</strong> 7" Vinyl, 33⅓ rpm Mono Single</li>
   <li><strong>Country:</strong> Argentina</li>
   <li><strong>Released:</strong> 11 March 1974</li>
   <li><strong>45Cat:</strong> <a class="external-link" href="http://www.45cat.com/record/6006367ar">6006367ar</a></li>
@@ -80,12 +80,12 @@ last_modified_at: 10 July 2025
 </div></div></div>
 </figure>
 
-<figure class="fig6">
+<figure class="fig7">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox6" class="infobox"><a href="#infobox6">Note</a></h2>
+<h2 id="infobox6" class="infobox"><a href="#infobox6">Regional Format Insight</a></h2>
 <div class="CardItem split">
-<p>Unlike most other countries where the single was released at 45 rpm, this Argentina release plays at <strong>33⅓ rpm</strong>.</p>
+<p>Philips issued Lena Zavaroni’s debut single in Argentina using a localized title—“El Me Está Haciendo Ojitos”—but retained her original English-language performance on both sides. Uniquely, this pressing plays at <strong>33⅓ rpm</strong> and in <strong>mono</strong>, a format commonly used in Argentina during the 1970s. Unlike the 45 rpm stereo singles released elsewhere, Argentine record labels favored LP-speed singles to suit local playback equipment and mastering practices. This version reflects how international music was adapted to meet regional norms in format and presentation.</p>
 </div></div></div>
 </figure>
 
