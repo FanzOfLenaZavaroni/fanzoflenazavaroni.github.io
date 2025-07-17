@@ -2,43 +2,46 @@
 layout: post
 title: Harold Fielding's Sunday Night at the Blackpool Opera House &#124; 21 July 1974
 maintitle: Harold Fielding's Sunday Night at the Blackpool Opera House
-subtitle: Starring The Bachelors
-description: Two shows at 6.10pm and 8.20pm
-media: Show Times
-post_description: Two shows at 6.10pm and 8.20pm
-image: /assets/images/theatres/1974-07-21-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.png
+subtitle: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
+description: Two shows at 6.10pm and 8.20pm plus a rehearsal at 2.30pm The Contract for the show was signed by Victor Zavaroni.
+post_description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay21July]
 ---
 
 <figure class="fig3">
-Two shows at 6.10pm and 8.20pm
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Contract</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Theatre Producer:</strong> <a href="/1916-12-04-harold-fielding">Harold Fielding</a></li>
+<li><strong>Contract Signatory:</strong> Victor Zavaroni director of Lena Zavaroni Public Limited Company (PLC).</li>
+</ul>
+</div></div></div>
 </figure>
 
-{: .clear}
-
-<figure class="fig1">
-<a href="/assets/images/theatres/1974-07-21-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.png"><img src="/assets/images/theatres/1974-07-21-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.png" class="full-width zoom-in"></a>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Production Team and Cast</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Licensee and General Manager:</strong> D. Gledhill</li>
+<li><strong>House Manager:</strong> Leslie Heyes</li>
+<li><strong>Orchestra:</strong> DANNY WALTERS and THE OPERA HOUSE CONCERT ORCHESTRA</li>
+<li><strong>Musical Comedy Group:</strong> SHEP'S BANJO BOYS</li>
+<li><strong>Comedian & Entertainer:</strong> NORMAN COLLIER</li>
+<li>
+<p><strong>Singer:</strong> LENA ZAVARONI</p>
+<p><strong>Musical Director (for Lena Zavaroni):</strong> Arthur Greenslade</p>
+</li>
+</ul>
+<h2 id="infobox3" class="infobox"><a href="#infobox3">INTERVAL</a></h2>
+<ul>
+<li>
+<p><strong>Star Act:</strong> THE BACHELORS</p>
+<p><strong>Musical Director (for The Bachelors):</strong> Stuart Atkins</p>
+</li>
+</ul>
+</div></div></div>
 </figure>
-
-<figure class="fig2">
-<a href="/assets/images/theatres/1974-07-21-harold-fieldings-sunday-night-at-the-blackpool-opera-house-02.png"><img src="/assets/images/theatres/1974-07-21-harold-fieldings-sunday-night-at-the-blackpool-opera-house-02.png" class="full-width zoom-in"></a>
-</figure>
-
-{: .clear}
-
-<figure class="fig1">
-<a href="/assets/images/theatres/1974-07-21-harold-fieldings-sunday-night-at-the-blackpool-opera-house-03.png"><img src="/assets/images/theatres/1974-07-21-harold-fieldings-sunday-night-at-the-blackpool-opera-house-03.png" class="full-width zoom-in"></a>
-</figure>
-
-<figure class="fig2">
-<table>
-<tr><th>Music:</th><td>Danny Walter and The Opera House Concert Orchestra</td></tr>
-<tr><th>Musical Act:</th><td>Shep's Banjo Boys</td></tr>
-<tr><th>Comedian:</th><td>Norman Collier</td></tr>
-<tr><th>Singer:</th><td>Lena Zavaroni</td></tr>
-<tr><th>Popular Music Group:</th><td>The Bachelors</td></tr>
-<tr><th>Musical Director:</th><td>Stuart Atkins</td></tr>
-</table>
-</figure>
-
-<br />{: .clear}
