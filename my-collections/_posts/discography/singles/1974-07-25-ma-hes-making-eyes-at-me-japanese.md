@@ -1,12 +1,12 @@
 ---
 layout: discography
-title: Ma! (He's Making Eyes At Me) &#124; Japanese Release
+title: Ma! (He's Making Eyes At Me) &#124; Japanese Version  &#124; 25 July 1974
 maintitle: Ma! (He's Making Eyes At Me)
 subtitle: Lena Zavaroni's Japanese-Language Version of Her debut single
-description: Ma! (He's Making Eyes At Me) is the debut single released by Lena Zavaroni.
-post_description: Ma! (He's Making Eyes At Me) is the debut single released by Lena Zavaroni.
+description: Ma! (He's Making Eyes At Me) Japanese Version.
+post_description: Ma! (He's Making Eyes At Me) Japanese Version.
 permalink: /discography/singles/:name
-last_modified_at: 10 July 2025
+last_modified_at: 17 July 2025
 ---
 
 <figure class="fig1">
@@ -125,7 +125,8 @@ last_modified_at: 10 July 2025
 <li><strong>Label:</strong> Philips – SFL-1868</li>
 <li><strong>Format:</strong> 7" Vinyl, 45 rpm Single</li>
 <li><strong>Country:</strong> Japan</li>
-<li><strong>Released:</strong> 1974</li>
+<li><strong>Recording:</strong> 10 July 1974</li>
+<li><strong>Released:</strong> 25 July 1974</li>
 </ul>
 </div></div></div>
 </figure>
@@ -134,7 +135,7 @@ last_modified_at: 10 July 2025
 <div class="CardLayout">
 <div class="CardItem"><h2 id="infobox7" class="infobox"><a href="#infobox7">Note</a></h2>
 <div class="CardItem split">
-<p>This is the Japanese-language version of the single released in Japan. A separate <a href="1974-ma-hes-making-eyes-at-me-japan">English-language version of “Ma! (He’s Making Eyes At Me)</a> was also released in 1974. Lena Zavaroni performed this version on Japanese television on <strong>25 August 1974</strong>, during the variety show “Big Show: As Long As There Is Song” (「ビッグショー 歌のある限り」).</p>
+<p>This is the Japanese-language version of the single released in Japan. A separate <a href="1974-ma-hes-making-eyes-at-me-japan">English-language version of “Ma! (He’s Making Eyes At Me)</a> was also released in 1974. Lena Zavaroni performed this version on Japanese television on <strong>25 August 1974</strong>, during the variety show <a href="/1974-08-25-big-show-as-long-as-there-is-song">Big Show: As Long As There Is Song</a> (「ビッグショー 歌のある限り」).</p>
 </div></div></div>
 </figure>
 

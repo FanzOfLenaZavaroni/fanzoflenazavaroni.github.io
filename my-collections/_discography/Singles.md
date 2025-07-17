@@ -20,7 +20,7 @@ last_modified_at: 21 February 2024
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-germany">1974 &#8212; Germany Release</a></li>
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-ireland">1974 &#8212; Ireland Release</a></li>
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-japan">1974 &#8212; Japan Release (English Version)</a></li>
-<li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-japanese">1974 &#8212; Japan Release (Japanese-Language Version)</a></li>
+<li><a href="/discography/singles/1974-07-25-ma-hes-making-eyes-at-me-japanese">1974 &#8212; Japan Release (Japanese-Language Version)</a></li>
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-netherlands">1974 &#8212; Netherlands Release</a></li>
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-new-zealand">1974 &#8212; New Zealand Release</a></li>
 <li><a href="/discography/singles/1974-ma-hes-making-eyes-at-me-norway">1974 &#8212; Norway Release</a></li>

@@ -3,8 +3,8 @@ layout: post
 title: Eastbourne Gazette &#124; 16 July 1975
 maintitle: Eastbourne Gazette
 subtitle: Lena Zavaroni Captivates Congress Theatre Audiences
-description: Front page editorial and entertainment coverage of Lena Zavaroni’s recent Eastbourne performance on 13 July 1975.
-post_description: From front page commentary to review excerpts, the Eastbourne Gazette captures Lena Zavaroni's impact at Congress Theatre.
+description: " Front-page and feature coverage of Lena Zavaroni’s 13 July 1975 Eastbourne performance, highlighting her debut at Congress Theatre, strong audience turnout, and the editorial reflection on child performers."
+post_description: "Published across the front page and page 15, the Eastbourne Gazette captures Lena Zavaroni’s double-show Congress Theatre debut, civic reception, and commentary on her poised presence and early acclaim."
 categories: [Newspaper-EastbourneGazette, OnThisDay16July]
 last_modified_at: 16 July 2025
 ---
