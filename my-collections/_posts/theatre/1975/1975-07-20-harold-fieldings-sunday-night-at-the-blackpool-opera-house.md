@@ -5,7 +5,6 @@ maintitle: Harold Fielding's Sunday Night at the Blackpool Opera House
 subtitle: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 description: Two shows at 6.10pm and 8.20pm plus a rehearsal at 2.30pm The Contract for the show was signed by Victor Zavaroni.
 post_description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
-image: /assets/images/theatres/1975-07-20-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.jpg
 categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay20July]
 ---
 
@@ -29,16 +28,16 @@ categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay20July]
 <ul>
 <li><strong>Licensee and General Manager:</strong> D. Gledhill</li>
 <li><strong>House Manager:</strong> Leslie Heyes</li>
-<li>STUART ATKINS and THE OPERA HOUSE CONCERT ORCHESTRA</li>
-<li>JOHNNY LISTER</li>
-<li>FRANK CARSON</li>
-<li>JOE "Mr. Piano" HENDERSON</li>
+<li><strong>Orchestra:</strong> STUART ATKINS and THE OPERA HOUSE CONCERT ORCHESTRA</li>
+<li><strong>Performer:</strong> JOHNNY LISTER</li>
+<li><strong>Comedian & Entertainer:</strong> FRANK CARSON</li>
+<li><strong>Pianist & Entertainer:</strong> JOE "Mr. Piano" HENDERSON</li>
 </ul>
 <h2 id="infobox3" class="infobox"><a href="#infobox3">INTERVAL</a></h2>
 <ul>
 <li>
-<p>LENA ZAVARONI</p>
-<p><strong>Musical Director:</strong> Arthur Dakin</p>
+<p><strong>Singer</strong> LENA ZAVARONI</p>
+<p><strong>Musical Director (for Lena Zavaroni):</strong> Arthur Dakin</p>
 </li>
 </ul>
 </div></div></div>
