@@ -3,58 +3,59 @@ layout: post
 title: Harold Fielding's Sunday Night at the Blackpool Opera House &#124; 18 August 1974
 maintitle: Harold Fielding's Sunday Night at the Blackpool Opera House
 subtitle: Starring The Bachelors
-description: Two shows at 6.10pm and 8.20pm with rehearsals at 2.30pm, Lena Zavaroni's fee was £1500.
-media: Show Times
-post_description: Two shows at 6.10pm and 8.20pm with rehearsals at 2.30pm, Lena Zavaroni's fee was £1500.
-image: /assets/images/theatres/1974-08-18-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.png
+description: Two shows at 6.10pm and 8.20pm plus a rehearsal at 2.30pm The Contract for the show was signed by Victor Zavaroni.
+post_description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay18August]
+last_modified_at: 18 July 2025
 ---
 
 <figure class="fig3">
-Two shows at 6.10pm and 8.20pm with rehearsals at 2.30pm, Lena Zavaroni's fee was £1500.
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Contract</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Theatre Producer:</strong> <a href="/1916-12-04-harold-fielding">Harold Fielding</a></li>
+<li>
+<p><strong>Contract Signatory For Lena Zavaroni:</strong> Victor Zavaroni director of Lena Zavaroni Public Limited Company (PLC).</p>
+<p>It is interesting to note Victor Zavaroni signed contracts for Lena and not Dorothy and/or Phil Solomon who where meant to be her managerment team and shows that Victor was more involved in Lena's career than we may think.</p>
+</li>
+</ul>
+</div></div></div>
 </figure>
 
-{: .clear}
-
-<figure class="fig1">
-<a href="/assets/images/theatres/1974-08-18-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.png"><img src="/assets/images/theatres/1974-08-18-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.png" class="full-width zoom-in"></a>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Theatre Management Team</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Licensee and General Manager:</strong> D. Gledhill</li>
+<li><strong>House Manager:</strong> Leslie Heyes</li>
+</ul>
+</div></div></div>
 </figure>
 
-<figure class="fig2">
-<a href="/assets/images/theatres/1974-08-18-harold-fieldings-sunday-night-at-the-blackpool-opera-house-02.png"><img src="/assets/images/theatres/1974-08-18-harold-fieldings-sunday-night-at-the-blackpool-opera-house-02.png" class="full-width zoom-in"></a>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox3" class="infobox"><a href="#infobox3">Turns</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Orchestra:</strong> Danny Walters and the Opera House Concert Orchestra</li>
+<li><strong>Jazz Band:</strong> George Huxley & His Jazz Band</li>
+<li><strong>Comedian & Entertainer:</strong> Norman Collier</li>
+<li>
+<p><strong>Singer:</strong> Lena Zavaroni</p>
+<p><strong>Musical Director (for Lena Zavaroni):</strong> Arthur Greenslade</p>
+</li>
+</ul>
+<h2 id="infobox4" class="infobox"><a href="#infobox4">Interval</a></h2>
+<ul>
+<li>
+<p><strong>Star Act:</strong> The Bachelors</p>
+<p><strong>Musical Director (for The Bachelors):</strong> Stuart Atkins</p>
+</li>
+</ul>
+</div></div></div>
 </figure>
-
-{: .clear}
-
-<figure class="fig1">
-<a href="/assets/images/theatres/1974-08-18-harold-fieldings-sunday-night-at-the-blackpool-opera-house-03.png"><img src="/assets/images/theatres/1974-08-18-harold-fieldings-sunday-night-at-the-blackpool-opera-house-03.png" class="full-width zoom-in"></a>
-</figure>
-
-<figure class="fig2">
-<table>
-<tr><th style="width: 50%;">Music:</th><td style="width: 50%;">Danny Walter and The Opera House Concert Orchestra</td></tr>
-<tr><th>Musical Act:</th><td>George Huxley and His Jazz Band</td></tr>
-<tr><th>Concert Pianist:</th><td>Brooks Aehron</td></tr>
-<tr><th>Singer:</th><td>Lena Zavaroni</td></tr>
-<tr><th>Musical Director For Lena Zavaroni:</th><td>Arthur Greenslade</td></tr>
-<tr><th>Popular Music Group:</th><td>The Bachelors</td></tr>
-<tr><th>Musical Director For The Bachelors:</th><td>Stuart Atkins</td></tr>
-</table>
-</figure>
-
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>

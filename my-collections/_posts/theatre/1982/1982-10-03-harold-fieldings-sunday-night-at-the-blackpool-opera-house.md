@@ -4,20 +4,50 @@ title: Harold Fielding's Sunday Night at the Blackpool Opera House &#124; 3O cto
 maintitle: Harold Fielding's Sunday Night at the Blackpool Opera House
 subtitle: Starring Lena Zavaroni
 description: Two shows at 6.10pm and 8.20pm plus a rehearsal at 2.30pm The Contract for the show was signed by Victor Zavaroni.
-media: Show Times
 post_description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
-image: /assets/images/theatres/1980-07-20-harold-fieldings-sunday-night-at-the-blackpool-opera-house-01.jpg
 categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay3October]
-last_modified_at: 27 September 2023
+last_modified_at: 18 July 2025
 ---
 
-Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Cancellation Of The Show</a></h2>
+<div class="CardItem split">
+<p>Unable to confirm if the show was canceled, it should have been if Lena followed the order to rest for 6 weeks.</p>
+<p>It's also posible that the show went ahead with an alternative turn replacing Lena in the starring role.</p>
+</div></div></div>
+</figure>
 
-* —— **Guest Star:** Lena Zavaroni.
-* —— **Theatre Producer:** [Harold Fielding](/biography/harold-fielding).
-* —— **Contract Signatory:** Victor Zavaroni director of Lena Zavaroni Public Limited Company (PLC).
-     * —— It is interesting to note Victor Zavaroni signed contracts for Lena and not Dorothy and/or Phil Solomon who where meant to be her managerment team and shows that Victor was more involved in Lena's career than we may think.
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Contract</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Theatre Producer:</strong> <a href="/1916-12-04-harold-fielding">Harold Fielding</a></li>
+<li>
+<p><strong>Contract Signatory For Lena Zavaroni:</strong> Victor Zavaroni director of Lena Zavaroni Public Limited Company (PLC).</p>
+<p>It is interesting to note Victor Zavaroni signed contracts for Lena and not Dorothy and/or Phil Solomon who where meant to be her managerment team and shows that Victor was more involved in Lena's career than we may think.</p>
+</li>
+</ul>
+</div></div></div>
+</figure>
 
-### Unable to confirm if the show was canceled, it should have been if Lena followed the order to rest for 6 weeks.
-<p>It is also posible that the show went ahead with an alternative act replacing Lena in the starring role.</p>
-
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox3" class="infobox"><a href="#infobox3">Theatre Management Team and Turns</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Currently:</strong> Unknown</li>
+</ul>
+<h2 id="infobox4" class="infobox"><a href="#infobox4">INTERVAL</a></h2>
+<ul>
+<li>
+<p><strong>Headliner:</strong> Lena Zavaroni</p>
+<p><strong>Musical Director (for Lena Zavaroni) Unconfirmed:</strong> Arthur Dakin or Stuart Atkins</p>
+</li>
+</ul>
+</div></div></div>
+</figure>

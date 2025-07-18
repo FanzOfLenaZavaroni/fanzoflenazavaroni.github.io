@@ -13,18 +13,32 @@ categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay27May]
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox1" class="infobox"><a href="#infobox1">Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm</a></h2>
-</div>
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Contract</a></h2>
 <div class="CardItem split">
 <ul>
-    <li><strong>Guest Star:</strong> Lena Zavaroni.</li>
-    <li><strong>Theatre Producer:</strong> <a href="/1916-12-04-harold-fielding">Harold Fielding</a>.</li>
-    <li><strong>Contract Signatory:</strong> Victor Zavaroni, director of Lena Zavaroni Public Limited Company (PLC).
-        <ul>
-            <li>It is interesting to note Victor Zavaroni signed contracts for Lena and not Dorothy and/or Phil Solomon, who were meant to be her management team. This shows that Victor was more involved in Lena's career than we may think.</li>
-        </ul>
-    </li>
+<li><strong>Theatre Producer:</strong> <a href="/1916-12-04-harold-fielding">Harold Fielding</a></li>
+<li>
+<p><strong>Contract Signatory For Lena Zavaroni:</strong> Victor Zavaroni director of Lena Zavaroni Public Limited Company (PLC).</p>
+<p>It is interesting to note Victor Zavaroni signed contracts for Lena and not Dorothy and/or Phil Solomon who where meant to be her managerment team and shows that Victor was more involved in Lena's career than we may think.</p>
+</li>
 </ul>
-</div></div>
+</div></div></div>
 </figure>
 
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Theatre Management Team and Turns</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Currently:</strong> Unknown</li>
+</ul>
+<h2 id="infobox3" class="infobox"><a href="#infobox3">INTERVAL</a></h2>
+<ul>
+<li>
+<p><strong>Headliner:</strong> Lena Zavaroni</p>
+<p><strong>Musical Director (for Lena Zavaroni) Unconfirmed:</strong> Arthur Dakin or Stuart Atkins</p>
+</li>
+</ul>
+</div></div></div>
+</figure>
