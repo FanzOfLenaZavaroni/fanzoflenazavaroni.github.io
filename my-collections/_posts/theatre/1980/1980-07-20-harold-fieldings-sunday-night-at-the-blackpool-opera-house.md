@@ -2,7 +2,7 @@
 layout: post
 title: Harold Fielding's Sunday Night at the Blackpool Opera House &#124; 20 July 1980
 maintitle: Harold Fielding's Sunday Night at the Blackpool Opera House
-subtitle: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
+subtitle: Starring Lena Zavaroni
 description: Two shows at 6.10pm and 8.20pm plus a rehearsal at 2.30pm The Contract for the show was signed by Victor Zavaroni.
 post_description: Two shows at 6.10 and 8.20pm plus a rehearsal at 2.30pm
 categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay20July]
@@ -15,7 +15,10 @@ categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay20July]
 <div class="CardItem split">
 <ul>
 <li><strong>Theatre Producer:</strong> <a href="/1916-12-04-harold-fielding">Harold Fielding</a></li>
-<li><strong>Contract Signatory:</strong> Victor Zavaroni director of Lena Zavaroni Public Limited Company (PLC).</li>
+<li>
+<p><strong>Contract Signatory For Lena Zavaroni:</strong> Victor Zavaroni director of Lena Zavaroni Public Limited Company (PLC).</p>
+<p>It is interesting to note Victor Zavaroni signed contracts for Lena and not Dorothy and/or Phil Solomon who where meant to be her managerment team and shows that Victor was more involved in Lena's career than we may think.</p>
+</li>
 </ul>
 </div></div></div>
 </figure>
