@@ -10,9 +10,18 @@ last_modified_at: 20 June 2025
 ---
 
 <figure class="fig3">
+<div class="CardLayout CardLayout-Height1">
+<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Flickr</a></h2></div>
+<div class="CardItem split">
+<a href="https://www.flickr.com/photos/brighton/3826412639" title="Villa Marina, Douglas, Isle Of Man."><img src="https://live.staticflickr.com/3552/3826412639_c8e5809d00_z.jpg" class="full-width zoom-in" /></a>
+<cite>The Isle of Man's entertainment history reached a milestone in 2004 with the opening of the newly refurbished Villa Marina and Gardens.</cite>
+</div></div>
+</figure>
+
+<figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox1" class="infobox"><a href="#infobox1">Coming to the Isle of Man this year? Then visit the VILLA MARINA DOUGLAS &#8212; where the Stars are always shining bright!</a></h2>
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Coming to the Isle of Man this year? Then visit the VILLA MARINA DOUGLAS &#8212; where the Stars are always shining bright!</a></h2>
 <div class="CardItem split">
 <p style="font-size: 1.5rem !important;">Star Shows: July and August</p>
 <dl>
@@ -36,7 +45,7 @@ last_modified_at: 20 June 2025
 <dd><strong>10th:</strong> THE KRANKIES</dd> 
 <dd><strong>12th:</strong> VAL DOONICAN</dd> 
 <dd><strong>17th:</strong> ROGER de COURCEY</dd> 
-<dd><strong>19th:</strong> LENA ZAVARONI</dd> 
+<dd><strong>19th:</strong> <a href="/1980-08-19-lena-zavaroni-at-the-villa-marina">LENA ZAVARONI</a></dd> 
 <dd><strong>24th:</strong> SOLOMON KING</dd> 
 </dl>
 
