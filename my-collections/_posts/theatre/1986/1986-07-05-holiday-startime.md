@@ -51,7 +51,7 @@ last_modified_at: 19 July 2025
 <div class="CardItem">
 <h2 id="infobox4" class="infobox"><a href="#infobox4">20 July 1986 - Jimmy Cricket & Lena Zavaroni's Day Off</a></h2>
 <div class="CardItem split">
-<p>Gary Wilmot is the headline Turn for that night.</p>
+<p><strong>Gary Wilmot</strong> is the headline Turn for that night.</p>
 <p>It is currently unclear whether the other Turns were the same as those supporting Jimmy Cricket and Lena Zavaroni, or if Gary Wilmot was supported by different Turns.</p>
 </div></div></div>
 </figure>
