@@ -14,10 +14,10 @@ categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay20July]
 <h2 id="infobox1" class="infobox"><a href="#infobox1">Contract</a></h2>
 <div class="CardItem split">
 <ul>
-<li><strong>Theatre Producer:</strong> <a href="/1916-12-04-harold-fielding">Harold Fielding</a></li>
+<li><strong>Theatre Producer:</strong> <a href="/1916-12-04-harold-fielding">Harold Fielding</a>.</li>
 <li>
 <p><strong>Contract Signatory For Lena Zavaroni:</strong> Victor Zavaroni director of Lena Zavaroni Public Limited Company (PLC).</p>
-<p>It is interesting to note Victor Zavaroni signed contracts for Lena and not Dorothy and/or Phil Solomon who where meant to be her managerment team and shows that Victor was more involved in Lena's career than we may think.</p>
+<p>It's interesting to note <strong>Victor Zavaroni</strong> signed contracts for Lena and not <strong>Dorothy Solomon</strong> and/or <strong>Phil Solomon</strong> who where meant to be her management team and shows that Victor was more involved in Lena's career than we may think.</p>
 </li>
 </ul>
 </div></div></div>
@@ -29,8 +29,8 @@ categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay20July]
 <h2 id="infobox2" class="infobox"><a href="#infobox2">Theatre Management Team</a></h2>
 <div class="CardItem split">
 <ul>
-<li><strong>Licensee and General Manager:</strong> D. Gledhill</li>
-<li><strong>House Manager:</strong> Leslie Heyes</li>
+<li><strong>Licensee and General Manager:</strong> D. Gledhill.</li>
+<li><strong>House Manager:</strong> Leslie Heyes.</li>
 </ul>
 </div></div></div>
 </figure>
@@ -41,16 +41,16 @@ categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay20July]
 <h2 id="infobox3" class="infobox"><a href="#infobox3">Turns</a></h2>
 <div class="CardItem split">
 <ul>
-<li><strong>Orchestra:</strong> Stuart Atkins and the Opera House Concert Orchestra</li>
-<li><strong>Performer:</strong> Johnny Lister</li>
-<li><strong>Comedian & Entertainer:</strong> Frank Carson</li>
-<li><strong>Pianist & Entertainer:</strong> Joe "Mr. Piano" Henderson</li>
+<li><strong>Orchestra:</strong> Stuart Atkins and the Opera House Concert Orchestra.</li>
+<li><strong>Performer:</strong> Johnny Lister.</li>
+<li><strong>Comedian & Entertainer:</strong> Frank Carson.</li>
+<li><strong>Pianist & Entertainer:</strong> Joe "Mr. Piano" Henderson.</li>
 </ul>
 <h2 id="infobox4" class="infobox"><a href="#infobox4">Interval</a></h2>
 <ul>
 <li>
-<p><strong>Singer:</strong> Lena Zavaroni</p>
-<p><strong>Musical Director (for Lena Zavaroni):</strong> Arthur Dakin</p>
+<p><strong>Singer:</strong> Lena Zavaroni.</p>
+<p><strong>Musical Director (for Lena Zavaroni):</strong> Arthur Dakin.</p>
 </li>
 </ul>
 </div></div></div>
