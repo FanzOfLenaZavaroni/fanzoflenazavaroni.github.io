@@ -27,16 +27,32 @@ last_modified_at: 18 July 2025
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox2" class="infobox"><a href="#infobox2">Theatre Management Team and Turns</a></h2>
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Theatre Management Team</a></h2>
 <div class="CardItem split">
 <ul>
-<li><strong>Currently:</strong> Unknown</li>
+<li><strong>Licensee and General Manager:</strong> D. Gledhill</li>
+<li><strong>House Manager:</strong> Leslie Heyes</li>
 </ul>
-<h2 id="infobox3" class="infobox"><a href="#infobox3">INTERVAL</a></h2>
+</div></div></div>
+</figure>
+
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox3" class="infobox"><a href="#infobox3">Turns</a></h2>
+<div class="CardItem split">
 <ul>
+<li><strong>Function Unconfirmed:</strong> Dan Shearman's Music (likely took on the role typically filled by an orchestra for the show)</li>
+<li><strong>Unknown (likely a comedy Trio):</strong> Three Squires</li>
+<li><strong>Pianist:</strong> Bobby Crush</li>
+<li><strong>Singer And Actor:</strong> Mark Wynter</li>
+</ul>
+<h2 id="infobox4" class="infobox"><a href="#infobox4">Interval</a></h2>
+<ul>
+<li><strong>Ventriloquist:</strong> Neville King with his tipsy half size puppet "Old Boy"</li>
 <li>
 <p><strong>Headliner:</strong> Lena Zavaroni</p>
-<p><strong>Musical Director (for Lena Zavaroni) Unconfirmed:</strong> Arthur Dakin or Stuart Atkins</p>
+<p><strong>Musical Director (for Lena Zavaroni):</strong> Arthur Dakin</p>
 </li>
 </ul>
 </div></div></div>
