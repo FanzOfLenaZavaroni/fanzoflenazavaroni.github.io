@@ -40,6 +40,7 @@ categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay5September
 <div class="CardItem">
 <h2 id="infobox3" class="infobox"><a href="#infobox3">Turns</a></h2>
 <div class="CardItem split">
+<p>A "Turn" refers to an individual performance or act in a variety show, showcasing different talents and entertainment styles.</p>
 <ul>
 <li><strong>Believed to be a Musical Act:</strong> Cool Breeze.</li>
 <li><strong>Ventriloquist:</strong> Roger De Courcey with "Nookie".</li>

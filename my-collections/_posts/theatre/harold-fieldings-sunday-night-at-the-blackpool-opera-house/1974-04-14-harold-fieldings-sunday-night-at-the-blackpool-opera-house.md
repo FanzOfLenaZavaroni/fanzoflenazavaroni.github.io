@@ -41,6 +41,7 @@ last_modified_at: 18 July 2025
 <div class="CardItem">
 <h2 id="infobox3" class="infobox"><a href="#infobox3">Turns</a></h2>
 <div class="CardItem split">
+<p>A "Turn" refers to an individual performance or act in a variety show, showcasing different talents and entertainment styles.</p>
 <ul>
 <li><strong>Function Unconfirmed:</strong> Dan Shearman's Music (Most likely took on the role typically filled by an orchestra for the show).</li>
 <li>

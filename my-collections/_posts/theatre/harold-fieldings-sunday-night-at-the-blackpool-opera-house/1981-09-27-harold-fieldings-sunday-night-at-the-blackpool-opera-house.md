@@ -40,6 +40,7 @@ categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay27Septembe
 <div class="CardItem">
 <h2 id="infobox3" class="infobox"><a href="#infobox3">Turns</a></h2>
 <div class="CardItem split">
+<p>A "Turn" refers to an individual performance or act in a variety show, showcasing different talents and entertainment styles.</p>
 <ul>
 <li><strong>Currently:</strong> Unknown.</li>
 </ul>
