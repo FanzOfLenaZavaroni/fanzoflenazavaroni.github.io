@@ -14,7 +14,7 @@ categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay12Septembe
 <h2 id="infobox1" class="infobox"><a href="#infobox1">Contract</a></h2>
 <div class="CardItem split">
 <ul>
-<li><strong>Theatre Producer:</strong> <a href="/1916-12-04-harold-fielding">Harold Fielding</a></li>
+<li><strong>Theatre Producer:</strong> <a href="/1916-12-04-harold-fielding">Harold Fielding</a>.</li>
 <li>
 <p><strong>Contract Signatory For Lena Zavaroni:</strong> Victor Zavaroni director of Lena Zavaroni Public Limited Company (PLC).</p>
 <p>It is interesting to note Victor Zavaroni signed contracts for Lena and not Dorothy and/or Phil Solomon who where meant to be her management team and shows that Victor was more involved in Lena's career than we may think.</p>
@@ -30,8 +30,8 @@ categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay12Septembe
 <h2 id="infobox2" class="infobox"><a href="#infobox2">Theatre Management Team</a></h2>
 <div class="CardItem split">
 <ul>
-<li><strong>Licensee and General Manager:</strong> D. Gledhill</li>
-<li><strong>House Manager:</strong> Leslie Heyes</li>
+<li><strong>Licensee and General Manager:</strong> D. Gledhill.</li>
+<li><strong>General Manager (Theatres Division):</strong> Bernard Crabtree or Someone else.in a similar role.</li>
 </ul>
 </div></div></div>
 </figure>
@@ -41,16 +41,16 @@ categories: [Theatre-Blackpool-Opera-House, Harold-Fielding, OnThisDay12Septembe
 <div class="CardItem">
 <h2 id="infobox3" class="infobox"><a href="#infobox3">Turns</a></h2>
 <div class="CardItem split">
-<p><strong>Note:</strong> Order of Turns unconfirmed</p>
+<p><strong>Note:</strong> Order of Turns unconfirmed.</p>
 <ul>
-<li><strong>English Clarinetist And Vocalist:</strong> Acker Bilk and his Paramount Jazz Band</li>
-<li><strong>Comedy Entertainer:</strong> Bob Carolgees</li>
-<li><strong>Unknown:</strong> Paul Squire</li>
+<li><strong>English Clarinetist And Vocalist:</strong> Acker Bilk and his Paramount Jazz Band.</li>
+<li><strong>Comedy Entertainer:</strong> Bob Carolgees.</li>
+<li><strong>Unknown:</strong> Paul Squire.</li>
 </ul>
 <h2 id="infobox4" class="infobox"><a href="#infobox4">Interval</a></h2>
 <ul>
 <li>
-<p><strong>Headliners:</strong> The Bachelors</p>
+<p><strong>Headliners:</strong> The Bachelors.</p>
 <p>Lena Zavaroni cancelled her role due to ongoing health issues, The Bachelors stood in for her.</p>
 </li>
 </ul>

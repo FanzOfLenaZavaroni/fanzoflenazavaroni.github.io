@@ -16,7 +16,7 @@ last_modified_at: 27 June 2023
 <h2 id="infobox1" class="infobox"><a href="#infobox1">Contract</a></h2>
 <div class="CardItem split">
 <ul>
-<li><strong>Theatre Producer:</strong> <a href="/1916-12-04-harold-fielding">Harold Fielding</a></li>
+<li><strong>Theatre Producer:</strong> <a href="/1916-12-04-harold-fielding">Harold Fielding</a>.</li>
 <li><strong>Contract Signatory For Lena Zavaroni:</strong> <a href="/1982-07-04-harold-fieldings-sunday-night-at-the-blackpool-opera-house/#infobox4">Victor Zavaroni</a> director of Lena Zavaroni Public Limited Company (PLC).</li>
 </ul>
 </div></div></div>
@@ -25,16 +25,28 @@ last_modified_at: 27 June 2023
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox2" class="infobox"><a href="#infobox2">Theatre Management Team and Turns</a></h2>
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Theatre Management Team</a></h2>
 <div class="CardItem split">
 <ul>
-<li><strong>Currently:</strong> Unknown</li>
+<li><strong>Licensee and General Manager:</strong> D. Gledhill.</li>
+<li><strong>General Manager (Theatres Division):</strong> Bernard Crabtree or Someone else.in a similar role.</li>
 </ul>
-<h2 id="infobox3" class="infobox"><a href="#infobox3">INTERVAL</a></h2>
+</div></div></div>
+</figure>
+
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox3" class="infobox"><a href="#infobox3">Turns</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Currently:</strong> Unknown.</li>
+</ul>
+<h2 id="infobox4" class="infobox"><a href="#infobox4">Interval</a></h2>
 <ul>
 <li>
-<p><strong>Headliner:</strong> Lena Zavaroni</p>
-<p><strong>Musical Director (for Lena Zavaroni) Unconfirmed:</strong> Arthur Dakin or Stuart Atkins</p>
+<p><strong>Singer:</strong> Lena Zavaroni.</p>
+<p><strong>Musical Director (for Lena Zavaroni):</strong> Arthur Dakin or Stuart Atkins (Unconfirmed which or if someone else).</p>
 </li>
 </ul>
 </div></div></div>
