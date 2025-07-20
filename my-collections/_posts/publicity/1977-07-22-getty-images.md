@@ -1,5 +1,5 @@
 ---
-layout: publicity-photos
+layout: post
 title: Publicity &#124; Photo &#124; 22 July 1977  &#124; United News/Popperfoto via Getty Images
 maintitle: United News/Popperfoto
 subtitle: Publicity Photos
@@ -11,29 +11,21 @@ categories: [Publicity, United-News, OnThisDay22July]
 ---
 
 <figure class="fig1">
+<div class="CardLayout Card-height">
+<div class="CardItem">
 <a id='KpO_xA7aRp9cElzOtp7gXg' class='gie-slideshow' href='http://www.gettyimages.co.uk/detail/527887935' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'KpO_xA7aRp9cElzOtp7gXg',sig:'PqASEeeDdZI2KTzkjuszf139rPLFI7Y9jCZ9yV9opWE=',w:'397px',h:'594px',items:'527887935,527887933',caption: true ,tld:'co.uk',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+</div></div>
 </figure>
 
 <figure class="fig2">
+<div class="CardLayout Card-height">
+<div class="CardItem">
 <p>Scottish singer <strong>Lena Zavaroni</strong> posed in London on 22nd July 1977.</p>
 <p>As is typical with media agencies there is no details of any value or any story behind the photos.</p>
 <p>Popperfoto is one of the UK's oldest and largest independently-owned image libraries, founded by Czech photo-journalist Paul Popper in 1934.</p>
+</div></div>
 </figure>
 
-<br />{: .clear}
-
 <style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
+.Card-height {height: 569.65px;}
 </style>
-

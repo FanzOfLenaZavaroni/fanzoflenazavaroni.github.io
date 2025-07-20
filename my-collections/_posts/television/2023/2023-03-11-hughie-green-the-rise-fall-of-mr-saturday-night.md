@@ -8,110 +8,159 @@ post_description: The story of one of the most successful and ruthless personali
 categories: [Channel-5, Hughie-Green, Bonnie-Langford, OnThisDay11March]
 ---
 
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Channel 5</a></h2>
+<div class="CardItem split">
+
 <figure class="fig1">
+<div class="CardLayout">
+<div class="CardItem">
 <a href="/assets/images/channel5/2023-03-11-hughie-green-the-rise-fall-of-mr-saturday-night.jpg"><img src="/assets/images/channel5/2023-03-11-hughie-green-the-rise-fall-of-mr-saturday-night.jpg" class="full-width zoom-in"></a>
 <cite>Image beleived to be &copy; Channel 5, 2023</cite>
+</div></div>
 </figure>
 
 <figure class="fig2">
+<div class="CardLayout">
+<div class="CardItem">
 <a href="/assets/images/channel5/closing-screenshot-from-2023-03-11-hughie-green-the-rise-fall-of-mr-saturday-night.png"><img src="/assets/images/channel5/closing-screenshot-from-2023-03-11-hughie-green-the-rise-fall-of-mr-saturday-night.png" class="full-width zoom-in"></a>
 <cite>Image beleived to be &copy; Channel 5, 2023</cite>
+</div></div>
 </figure>
 
-{: .clear}
+<p>The programme is available on My5 until 31 December 2027 - <a class="external-link" href="https://www.channel5.com/show/hughie-green-the-rise-fall-of-mr-saturday-night">Hughie Green: The Rise &amp; Fall of Mr Saturday Night</a></p>
+</div></div></div>
+</figure>
 
 <figure class="fig3">
-The programme is available on My5 until 31 December 2027 - <a class="external-link" href="https://www.channel5.com/show/hughie-green-the-rise-fall-of-mr-saturday-night">Hughie Green: The Rise & Fall of Mr Saturday Night</a>
-</figure>
-
-{: .clear}
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Cast</a></h2>
+<div class="CardItem split">
 
 <figure class="fig1">
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-<table>
-<tr><td>Cameron Ralph</td></tr>
-<tr><td>Christopher Piasecki</td></tr>
-<tr><td>David Noble</td></tr>
-<tr><td>Davy Bridgwood</td></tr>
-<tr><td>Dickon Thompson</td></tr>
-<tr><td>Dilan Zeynilli</td></tr>
-<tr><td>Elodie Chiper</td></tr>
-<tr><td>Fabienne Descamps</td></tr>
-<tr><td>Galina Hristova</td></tr>
-<tr><td>Igors Ulanovs</td></tr>
-<tr><td>Mark Cosgrove</td></tr>
-<tr><td>Michael Haynes</td></tr>
-<tr><td>Nicholas Stewart</td></tr>
-<tr><td>Stephane Fichet</td></tr>
-<tr><td>Robin Howland</td></tr>
-<tr><td>Russell Bryant</td></tr>
-</table>
+<div class="CardLayout">
+<div class="CardItem">
+<ul>
+<li>Cameron Ralph</li>
+<li>Christopher Piasecki</li>
+<li>David Noble</li>
+<li>Davy Bridgwood</li>
+<li>Dickon Thompson</li>
+<li>Dilan Zeynilli</li>
+<li>Elodie Chiper</li>
+<li>Fabienne Descamps</li>
+</ul>
+</div></div>
 </figure>
-
 
 <figure class="fig2">
-<h2 id="missing"><a href="#missing">Missing From The End Credits</a></h2>
-<table>
-<tr><td>Bonnie Langford</td></tr>
-<tr><td>Sue Pollard</td></tr>
-<tr><td>Plus others I have yet to identify</td></tr>
-</table>
-<h2 id="ignored"><a href="#ignored">Completely Ignored</a></h2>
-<table>
-<tr><td>Lena Zavaroni</td></tr>
-<tr><td>No really! The story of Hughie Green yet you completely skip over the existence of Lena Zavaroni. Shameful!<cite>Fanz Of Lena Zavaroni (Robcamstone)</cite></td></tr>
-</table>
+<div class="CardLayout">
+<div class="CardItem">
+<ul>
+<li>Galina Hristova</li>
+<li>Igors Ulanovs</li>
+<li>Mark Cosgrove</li>
+<li>Michael Haynes</li>
+<li>Nicholas Stewart</li>
+<li>Stephane Fichet</li>
+<li>Robin Howland</li>
+<li>Russell Bryant</li>
+</ul>
+</div></div>
 </figure>
 
-{: .clear}
+<figure class="fig1">
+<div class="CardLayout Card-height">
+<div class="CardItem">
+<h3 id="infobox3" class="infobox"><a href="#infobox3">Missing From The End Credits</a></h3>
+<ul>
+<li>Bonnie Langford</li>
+<li>Sue Pollard</li>
+<li>Plus others I have yet to identify</li>
+</ul>
+</div></div>
+</figure>
+
+<figure class="fig2">
+<div class="CardLayout Card-height">
+<div class="CardItem">
+<h3 id="infobox4" class="infobox"><a href="#infobox4">Completely Ignored</a></h3>
+<ul>
+<li>
+<p>Lena Zavaroni</p>
+<p>No really! The story of Hughie Green yet you completely skip over the existence of Lena Zavaroni. Shameful!<cite>Fanz Of Lena Zavaroni (Robcamstone)</cite></P>
+</li>
+</ul>
+</div></div>
+</figure>
+
+
+
+
+
+
+
+
+</div></div></div>
+</figure>
 
 <figure class="fig3">
-<h2 id="crew"><a href="#crew">Crew</a></h2>
-<table>
-<tr><th>Camera Operator:</th><td>John Fisher</td></tr>
-<tr><th>Camera Assistant:</th><td>Ken Schijf</td></tr>
-<tr><th>Dubbing Mixer</th><td>Mark Apicella</td></tr>
-<tr><th>Rock Duo:</th><td>The Everly Brothers</td></tr>
-<tr><th>Online Editor & Colourist:</th><td>Nick Arthur</td></tr>
-<tr><th>Post Production Facility:</th><td>ITN Post</td></tr>
-<tr><th>Post Production Team</th><td>Tom Butler</td></tr>
-<tr><th>Post Production Team</th><td>Ellie Goodall</td></tr>
-<tr><th>Post Production Team</th><td>Joel Rawles</td></tr>
-<tr><th>Senior Post Producer</th><td>Aimee Silverman</td></tr>
-<tr><th>Post Production Manager:</th><td>Sam Hardy</td></tr>
-<tr><th>Head Of Technical Operations:</th><td>James Bennett</td></tr>
-<tr><th>Director Of Post Production:</th><td>Edurne Bengoa</td></tr>
-<tr><th>Production Coordinator:</th><td>Phoebe Hofford</td></tr>
-<tr><th>Production Manager:</th><td>Charlotte Simpson</td></tr>
-<tr><th>Head Of Production:</th><td>Nicki Purcell</td></tr>
-<tr><th>Archive Producer:</th><td>Beth Lewis</td></tr>
-<tr><th>Film Editor:</th><td>Danny Robertson</td></tr>
-<tr><th>Assistant Producer:</th><td>Alice Anderson</td></tr>
-<tr><th>Executive Producer:</th><td>Nathaniel Lippiett</td></tr>
-<tr><th>Filmed, Produced & Directed:</th><td>Grant Armour</td></tr>
-<tr><th>Production:</th><td>ITN Productions for Channel 5</td></tr>
-</table>
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox5" class="infobox"><a href="#infobox5">Crew</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Camera Operator:</strong> John Fisher</li>
+<li><strong>Camera Assistant:</strong> Ken Schijf</li>
+<li><strong>Dubbing Mixer</strong> Mark Apicella</li>
+<li><strong>Rock Duo:</strong> The Everly Brothers</li>
+<li><strong>Online Editor & Colourist:</strong> Nick Arthur</li>
+<li><strong>Post Production Facility:</strong> ITN Post</li>
+<li><strong>Post Production Team</strong> Tom Butler</li>
+<li><strong>Post Production Team</strong> Ellie Goodall</li>
+<li><strong>Post Production Team</strong> Joel Rawles</li>
+<li><strong>Senior Post Producer</strong> Aimee Silverman</li>
+<li><strong>Post Production Manager:</strong> Sam Hardy</li>
+<li><strong>Head Of Technical Operations:</strong> James Bennett</li>
+<li><strong>Director Of Post Production:</strong> Edurne Bengoa</li>
+<li><strong>Production Coordinator:</strong> Phoebe Hofford</li>
+<li><strong>Production Manager:</strong> Charlotte Simpson</li>
+<li><strong>Head Of Production:</strong> Nicki Purcell</li>
+<li><strong>Archive Producer:</strong> Beth Lewis</li>
+<li><strong>Film Editor:</strong> Danny Robertson</li>
+<li><strong>Assistant Producer:</strong> Alice Anderson</li>
+<li><strong>Executive Producer:</strong> Nathaniel Lippiett</li>
+<li><strong>Filmed, Produced & Directed:</strong> Grant Armour</li>
+<li><strong>Production:</strong> ITN Productions for Channel 5</li>
+</ul>
+</div></div></div>
 </figure>
-
-{: .clear}
 
 <figure class="fig3">
-<h2 id="archive"><a href="#archive">Archives</a></h2>
-<table>
-<tr><td>Airtime Footage</td></tr>
-<tr><td>Alamy</td></tr>
-<tr><td>BBC Archive</td></tr>
-<tr><td>British Pathe</td></tr>
-<tr><td>Fremantle</td></tr>
-<tr><td>Getty Images</td></tr>
-<tr><td>Kino Library</td></tr>
-<tr><td>News Of The World/News Licensing</td></tr>
-<tr><td>Pond 5</td></tr>
-<tr><td>Shutterstock</td></tr>
-<tr><td>Topfoto</td></tr>
-<tr><td>Independent Digital News & Media Ltd</td></tr>
-</table>
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox6" class="infobox"><a href="#infobox6">Archives</a></h2>
+<div class="CardItem split">
+<ul>
+<li>Airtime Footage</li>
+<li>Alamy</li>
+<li>BBC Archive</li>
+<li>British Pathe</li>
+<li>Fremantle</li>
+<li>Getty Images</li>
+<li>Kino Library</li>
+<li>News Of The World/News Licensing</li>
+<li>Pond 5</li>
+<li>Shutterstock</li>
+<li>Topfoto</li>
+<li>Independent Digital News & Media Ltd</li>
+</ul>
+</div></div></div>
 </figure>
 
-<br />{: .clear}
-
+<style>
+.Card-height {height: 252px;}
+</style>
