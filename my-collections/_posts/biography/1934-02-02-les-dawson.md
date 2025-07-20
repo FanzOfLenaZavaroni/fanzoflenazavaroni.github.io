@@ -39,7 +39,7 @@ last_modified_at: 23 December 2023
 </figure>
 
 <figure class="fig3">
-<div class="CardLayout Card-Padding">
+<div class="CardLayout">
 <div class="CardItem">
 <h2 id="infobox3" class="infobox"><a href="#infobox3">Like Lena Zavaroni his carrer took off after appearing on Opportunity Knocks (circa 1967)</a></h2>
 <div class="CardItem split">
