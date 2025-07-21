@@ -5,7 +5,7 @@ maintitle: Belfast Telegraph
 subtitle: "Page: 16 - Villa Marina, Douglas, advertised it’s upcoming summer concerts"
 description: "Page: 16 - Villa Marina, Douglas, advertised it’s upcoming summer concerts."
 post_description: "Page: 16 - Villa Marina, Douglas, advertised it’s upcoming summer concerts."
-categories: [Newspaper-Belfast-Telegraph, OnThisDay20June]
+categories: [Entertainment-Venue-The-Villa-Marina, Newspaper-Belfast-Telegraph, OnThisDay20June]
 last_modified_at: 20 June 2025
 ---
 
@@ -13,7 +13,7 @@ last_modified_at: 20 June 2025
 <div class="CardLayout CardLayout-Height1">
 <div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Flickr</a></h2></div>
 <div class="CardItem split">
-<a href="https://www.flickr.com/photos/brighton/3826412639" title="Villa Marina, Douglas, Isle Of Man."><img src="https://live.staticflickr.com/3552/3826412639_c8e5809d00_z.jpg" class="full-width zoom-in" /></a>
+<a href="https://www.flickr.com/photos/brighton/3826412639"><img src="https://live.staticflickr.com/3552/3826412639_c8e5809d00_z.jpg" class="full-width " /></a>
 <cite>The Isle of Man's entertainment history reached a milestone in 2004 with the opening of the newly refurbished Villa Marina and Gardens.</cite>
 </div></div>
 </figure>
