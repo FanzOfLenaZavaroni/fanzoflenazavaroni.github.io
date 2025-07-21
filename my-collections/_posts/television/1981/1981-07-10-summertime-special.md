@@ -19,8 +19,8 @@ last_modified_at: 23 December 2023
 </div></div></div>
 </figure>
 
-<figure class="fig3">
-<div class="CardLayout">
+<figure class="fig1">
+<div class="CardLayout CardLayout-Height">
 <div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Cast</a></h2>
 <div class="CardItem split">
 <ul>
@@ -39,8 +39,8 @@ last_modified_at: 23 December 2023
 </div></div></div>
 </figure>
 
-<figure class="fig3">
-<div class="CardLayout">
+<figure class="fig2">
+<div class="CardLayout CardLayout-Height">
 <div class="CardItem"><h2 id="infobox3" class="infobox"><a href="#infobox3">Crew</a></h2>
 <div class="CardItem split">
 <ul>
@@ -66,3 +66,7 @@ last_modified_at: 23 December 2023
 </div></div></div>
 </figure>
 
+<style>
+.CardLayout-Height {height: 412.5px;}
+@media screen and (orientation:portrait) {.CardLayout-Height {height: unset;}}
+</style>
