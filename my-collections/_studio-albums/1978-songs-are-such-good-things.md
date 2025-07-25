@@ -10,23 +10,36 @@ image: /assets/images/albums/Songs-Are-Such-Good-Things.jpeg
 categories: [Discography-Studio-Albums]
 ---
 
-<figure class="fig1" id="galaxy">
+<figure class="fig1">
+<div class="CardLayout CardLayout-Height1">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Album Cover</a></h2>
+<div class="CardItem split">
 <img src="/assets/images/albums/Songs-Are-Such-Good-Things.jpeg" class="full-width" alt="Front Cover for the album Songs Are Such Good Things (1978)" />
-<figcaption>
-<table>
-<tr><th>Label:</th><td>Galaxy: GAL 6020</td></tr>
-<tr><th>Format:</th><td>12" Vinyl, 33⅓ Album</td></tr>
-<tr><th>Country:</th><td>UK</td></tr>
-<tr><th>Released:</th><td>April 1978</td></tr>
-<tr class="split"><th>45worlds:</th><td><a class="external-link" href="http://www.45worlds.com/vinyl/album/gal6020">gal6020</a></td></tr>
-</table>
-</figcaption>
+</div></div></div>
 </figure>
 
-<figure class="fig2" id="Tracks">
-<figcaption>
-<strong>A-Side</strong>
-</figcaption>
+<figure class="fig2">
+<div class="CardLayout CardLayout-Height1">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Details</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Label:</strong> Galaxy: GAL 6020</li>
+<li><strong>Format:</strong> 12" Vinyl, 33⅓ Album</li>
+<li><strong>Country:</strong> UK</li>
+<li><strong>Released:</strong> April 1978</li>
+<li><strong>45worlds:</strong> <a class="external-link" href="http://www.45worlds.com/vinyl/album/gal6020">gal6020</a></li>
+</ul>
+</div></div></div>
+</figure>
+
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox3" class="infobox"><a href="#infobox3">Tracks</a></h2>
+<div class="CardItem split">
+<h3 id="infobox4" class="infobox"><a href="#infobox4">A Side</a></h3>
 <ol>
 <li>Speedy Gonzales</li>
 <li>Another Somebody Done Somebody Wrong Song</li>
@@ -35,9 +48,7 @@ categories: [Discography-Studio-Albums]
 <li>Songs Are Such Good Things</li>
 <li>I Should Have Listened To Mama</li>
 </ol>
-<figcaption>
-<strong>B-Side</strong>
-</figcaption>
+<h3 id="infobox5" class="infobox"><a href="#infobox5">B Side</a></h3>
 <ol>
 <li>The Air That I Breathe</li>
 <li>Crazy Little Lover Boy</li>
@@ -46,7 +57,10 @@ categories: [Discography-Studio-Albums]
 <li>Love Is Falling In Love Again</li>
 <li>I Wanna Boogie Wid Ya</li>
 </ol>
+</div></div></div>
 </figure>
 
-<br />{: .clear}
-
+<style>
+.CardLayout-Height1 {height:447.933px;}
+@media screen and (orientation:portrait) {.CardLayout-Height1 {height: unset;}}
+</style>
