@@ -25,6 +25,7 @@ last_modified_at: 26 November 2023
 <div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Back Of The Ticket</a></h2>
 <div class="CardItem split">
 <a href="/assets/images/BBC/ticket-1979-04-01-08-back.jpg"><img src="/assets/images/BBC/ticket-1979-04-01-08-back.jpg" class="full-width zoom-in" /></a>
+<p></p>
 <cite>Map and audience guidelines from the reverse side of the ticket. Included under UK fair dealing provisions for historical documentation.</cite>
 </div></div></div>
 </figure>
