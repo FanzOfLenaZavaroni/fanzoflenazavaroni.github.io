@@ -12,14 +12,17 @@ last_modified_at: 26 November 2023
 
 <figure class="fig1">
 <div class="CardLayout CardLayout-Height1">
-<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">BBC Publicity Photo</a></h2>
-<div class="CardItem split"><img src="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg" class="full-width" />
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">BBC Publicity Photo</a></h2>
+<div class="CardItem split">
+<img src="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg" class="full-width" />
 </div></div></div>
 </figure>
 
 <figure class="fig2">
 <div class="CardLayout CardLayout-Height1">
-<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Set List</a></h2>
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Set List</a></h2>
 <div class="CardItem split">
 <ul>
 <li>Music Was My First Love (Lena a shorter version than the previous week this became the show's theme song)</li>
@@ -37,7 +40,8 @@ last_modified_at: 26 November 2023
 
 <figure class="fig1">
 <div class="CardLayout CardLayout-Height2">
-<div class="CardItem"><h2 id="infobox3" class="infobox"><a href="#infobox3">Cast</a></h2>
+<div class="CardItem">
+<h2 id="infobox3" class="infobox"><a href="#infobox3">Cast</a></h2>
 <div class="CardItem split">
 <ul>
 <li><strong>Hostess and Signer:</strong> Lena Zavaroni</li>
@@ -52,7 +56,8 @@ last_modified_at: 26 November 2023
 
 <figure class="fig2">
 <div class="CardLayout CardLayout-Height2">
-<div class="CardItem"><h2 id="infobox4" class="infobox"><a href="#infobox4">Links</a></h2>
+<div class="CardItem">
+<h2 id="infobox4" class="infobox"><a href="#infobox4">Links</a></h2>
 <div class="CardItem split">
 <ul>
 <li><strong>Category:</strong> <a href="/category/lena-zavaroni-and-music">Lena Zavaroni and Music</a></li>
@@ -66,4 +71,3 @@ last_modified_at: 26 November 2023
 .CardLayout-Height2 {height:314px;}
 @media screen and (orientation:portrait) {.CardLayout-Height1, .CardLayout-Height2 {height: unset;}}
 </style>
-
