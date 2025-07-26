@@ -11,7 +11,8 @@ last_modified_at: 23 July 2025
 
 <figure class="fig3">
 <div class="CardLayout">
-<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Broadcast Details Unknown</a></h2>
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Broadcast Details Unknown</a></h2>
 <div class="CardItem split">
 <p>While we know that <em>Lena Zavaroni and Music</em> aired on <strong>BBC One Wales</strong> on <strong>23 July 1979</strong> at 19:15, the specific episode remains unidentified.</p>
 <p>This lack of detail highlights a broader issue: the BBC’s archival records, particularly for regional broadcasts, often omit crucial information such as episode titles or content summaries. This makes it difficult to preserve and celebrate the full history of iconic programmes like Lena’s.</p>
@@ -26,7 +27,8 @@ last_modified_at: 23 July 2025
 
 <figure class="fig3">
 <div class="CardLayout">
-<div class="CardItem"><h2 id="infobox3" class="infobox"><a href="#infobox3">Loss Enabled by Structural Gaps</a></h2>
+<div class="CardItem">
+<h2 id="infobox3" class="infobox"><a href="#infobox3">Loss Enabled by Structural Gaps</a></h2>
 <div class="CardItem split">
 <p>The missing details for <strong>Lena Zavaroni and Music</strong> broadcast on <strong>BBC One Wales</strong> (23 July 1979) highlight ongoing challenges in preserving UK television history. Based on available public documentation—including the BBC’s Charter, Framework Agreement, and internal Records Management Policy—there is currently <strong>no clear evidence</strong> of a formal requirement for the BBC to archive complete programme records, such as episode-level details or transmission dates.</p>
 <p>While some material may be offered to the <strong>British Film Institute (BFI)</strong> for preservation, what qualifies, what is retained, and whether contextual information survives—such as scheduling changes or metadata—is left undefined and largely opaque to the public. The process lacks clarity, consistency, and accountability.</p>

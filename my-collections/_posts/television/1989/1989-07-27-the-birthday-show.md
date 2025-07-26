@@ -4,108 +4,106 @@ title: The Birthday Show &#124; 27 July 1989
 maintitle: The Birthday Show
 subtitle: 21 Years Of Variety From Thames Television
 description: Edward Woodward looks back at 21 years of Thames Television through a montage of old clips. An excerpt of Lena singing I Should Have Listened To Mama from the final episode of Opportunity Knocks is shown.
-media: Thames Television
 post_description: Edward Woodward looks back at 21 years of Thames Television through a montage of old clips. An excerpt of Lena singing I Should Have Listened To Mama from the final episode of Opportunity Knocks is shown.
-image: /assets/images/ITV/1989-07-27-the-times-london-england-thursday-page-23-200x200.png
-categories: [Thames-Television, OnThisDay27July]
-last_modified_at: 22 November 2023
+categories: [Television-Thames-Television, OnThisDay27July]
+last_modified_at: 26 July 2025
 ---
 
-<table style="text-align:center;">
-<tr><th colspan="5">Jump To</th></tr>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Details</a></h2>
+<div class="CardItem split">
+<p>Edward Woodward looks back at 21 years of Thames Television through a montage of old clips.</p>
+<p>An excerpt of Lena singing I Should Have Listened To Mama from the final episode of <a href="/1978-03-20-opportunity-knocks">Opportunity Knocks</a></p>
+</div></div></div>
+</figure>
 
-<tr>
-<td><a href="#the-times">The Times</a></td>
-<td><a href="#details">Details</a></td>
-<td><a href="#cast">Cast</a></td>
-<td><a href="#crew">Crew</a></td>
-</tr>
-</table>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Cast</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Introduced By:</strong> Edward Woodward</li>
+<li><strong>Featured:</strong> Eamonn Andrews</li>
+<li><strong>Featured:</strong> Michael Aspel</li>
+<li><strong>Featured:</strong> Michael Barrymore</li>
+<li><strong>Featured:</strong> Bernard Bresslaw</li>
+<li><strong>Featured:</strong> Richard Briers</li>
+<li><strong>Featured:</strong> Janet Brown</li>
+<li><strong>Featured:</strong> Max Bygraves</li>
+<li><strong>Featured:</strong> Petula Clark</li>
+<li><strong>Featured:</strong> John Cleese</li>
+<li><strong>Featured:</strong> Tommy Cooper</li>
+<li><strong>Featured:</strong> Bernard Cribbins</li>
+<li><strong>Featured:</strong> Suzanne Danielle</li>
+<li><strong>Featured:</strong> Jim Davidson</li>
+<li><strong>Featured:</strong> Ken Dodd</li>
+<li><strong>Featured:</strong> Lorraine Doyle</li>
+<li><strong>Featured:</strong> Jimmy Edwards</li>
+<li><strong>Featured:</strong> Kenny Everett</li>
+<li><strong>Featured:</strong> Bruce Forsyth</li>
+<li><strong>Featured:</strong> Connie Georges</li>
+<li><strong>Featured:</strong> Hughie Green</li>
+<li><strong>Featured:</strong> Charles Hawtrey</li>
+<li><strong>Featured:</strong> Benny Hill</li>
+<li><strong>Featured:</strong> Tony Holland</li>
+<li><strong>Featured:</strong> Bob Hope</li>
+<li><strong>Featured:</strong> Mary Hopkin</li>
+<li><strong>Featured:</strong> Frankie Howerd</li>
+<li><strong>Featured:</strong> Rod Hull</li>
+<li><strong>Featured:</strong> Johnny Hutch</li>
+<li><strong>Featured:</strong> Sidney James</li>
+<li><strong>Featured:</strong> Peter John</li>
+<li><strong>Featured:</strong> Jon Jon Keefe</li>
+<li><strong>Featured:</strong> Geoff Love</li>
+<li><strong>Featured:</strong> Ronn Lucas</li>
+<li><strong>Featured:</strong> Henry McGee</li>
+<li><strong>Featured:</strong> Julia Mckenzie</li>
+<li><strong>Featured:</strong> Spike Milligan</li>
+<li><strong>Featured:</strong> Eric Morecambe</li>
+<li><strong>Featured:</strong> David Nixon</li>
+<li><strong>Featured:</strong> Des O'Connor</li>
+<li><strong>Featured:</strong> Dave Prowse</li>
+<li><strong>Featured:</strong> Tom O'Connor</li>
+<li><strong>Featured:</strong> Esther Rantzen</li>
+<li><strong>Featured:</strong> Andrew Sachs</li>
+<li><strong>Featured:</strong> Selina Scott</li>
+<li><strong>Featured:</strong> Charmaine Seal</li>
+<li><strong>Featured:</strong> Harry Secombe</li>
+<li><strong>Featured:</strong> Peter Sellers</li>
+<li><strong>Featured:</strong> Bob Sharples</li>
+<li><strong>Featured:</strong> Freddie Starr</li>
+<li><strong>Featured:</strong> Eric Sykes</li>
+<li><strong>Featured:</strong> Sylvia Syms</li>
+<li><strong>Featured:</strong> Bob Todd</li>
+<li><strong>Featured:</strong> John Williams</li>
+<li><strong>Featured:</strong> Barbara Windsor</li>
+<li><strong>Featured:</strong> Ernie Wise</li>
+<li><strong>Featured:</strong> Terry Wogan</li>
+<li><strong>Featured:</strong> Jackie Wright</li>
+<li><strong>Featured:</strong> Mike Yarwood</li>
+<li><strong>Featured:</strong> Lena Zavaroni</li>
+</ul>
+</div></div></div>
+</figure>
 
-### [The Times](#times)
-![](/assets/images/ITV/1989-07-27-the-times-london-england-thursday-page-23.jpg)
-
-<cite>The Times (London, England), Thursday, 27 July 1989; pg. 23; Issue 63457</cite>
-
-### [Details](details)
-Edward Woodward looks back at 21 years of Thames Television through a montage of old clips.
-
-An excerpt of Lena singing I Should Have Listened To Mama from the final episode of [Opportunity Knocks](/1978-03-20-opportunity-knocks)
-
-### [Cast](cast)
-<table>
-<tr><th>Presenter:</th><td>Edward Woodward</td></tr>
-<tr><th>On-Screen Participant:</th><td>Eamonn Andrews</td></tr>
-<tr><th>On-Screen Participant:</th><td>Michael Aspel</td></tr>
-<tr><th>On-Screen Participant:</th><td>Michael Barrymore</td></tr>
-<tr><th>On-Screen Participant:</th><td>Bernard Bresslaw</td></tr>
-<tr><th>On-Screen Participant:</th><td>Richard Briers</td></tr>
-<tr><th>On-Screen Participant:</th><td>Janet Brown</td></tr>
-<tr><th>On-Screen Participant:</th><td>Max Bygraves</td></tr>
-<tr><th>On-Screen Participant:</th><td>Petula Clark</td></tr>
-<tr><th>On-Screen Participant:</th><td>John Cleese</td></tr>
-<tr><th>On-Screen Participant:</th><td>Tommy Cooper</td></tr>
-<tr><th>On-Screen Participant:</th><td>Bernard Cribbins</td></tr>
-<tr><th>On-Screen Participant:</th><td>Suzanne Danielle</td></tr>
-<tr><th>On-Screen Participant:</th><td>Jim Davidson</td></tr>
-<tr><th>On-Screen Participant:</th><td>Ken Dodd</td></tr>
-<tr><th>On-Screen Participant:</th><td>Lorraine Doyle</td></tr>
-<tr><th>On-Screen Participant:</th><td>Jimmy Edwards</td></tr>
-<tr><th>On-Screen Participant:</th><td>Kenny Everett</td></tr>
-<tr><th>On-Screen Participant:</th><td>Bruce Forsyth</td></tr>
-<tr><th>On-Screen Participant:</th><td>Connie Georges</td></tr>
-<tr><th>On-Screen Participant:</th><td>Hughie Green</td></tr>
-<tr><th>On-Screen Participant:</th><td>Charles Hawtrey</td></tr>
-<tr><th>On-Screen Participant:</th><td>Benny Hill</td></tr>
-<tr><th>On-Screen Participant:</th><td>Tony Holland</td></tr>
-<tr><th>On-Screen Participant:</th><td>Bob Hope</td></tr>
-<tr><th>On-Screen Participant:</th><td>Mary Hopkin</td></tr>
-<tr><th>On-Screen Participant:</th><td>Frankie Howerd</td></tr>
-<tr><th>On-Screen Participant:</th><td>Rod Hull</td></tr>
-<tr><th>On-Screen Participant:</th><td>Johnny Hutch</td></tr>
-<tr><th>On-Screen Participant:</th><td>Sidney James</td></tr>
-<tr><th>On-Screen Participant:</th><td>Peter John</td></tr>
-<tr><th>On-Screen Participant:</th><td>Jon Jon Keefe</td></tr>
-<tr><th>On-Screen Participant:</th><td>Geoff Love</td></tr>
-<tr><th>On-Screen Participant:</th><td>Ronn Lucas</td></tr>
-<tr><th>On-Screen Participant:</th><td>Henry McGee</td></tr>
-<tr><th>On-Screen Participant:</th><td>Julia Mckenzie</td></tr>
-<tr><th>On-Screen Participant:</th><td>Spike Milligan</td></tr>
-<tr><th>On-Screen Participant:</th><td>Eric Morecambe</td></tr>
-<tr><th>On-Screen Participant:</th><td>David Nixon</td></tr>
-<tr><th>On-Screen Participant:</th><td>Des O'Connor</td></tr>
-<tr><th>On-Screen Participant:</th><td>Dave Prowse</td></tr>
-<tr><th>On-Screen Participant:</th><td>Tom O'Connor</td></tr>
-<tr><th>On-Screen Participant:</th><td>Esther Rantzen</td></tr>
-<tr><th>On-Screen Participant:</th><td>Andrew Sachs</td></tr>
-<tr><th>On-Screen Participant:</th><td>Selina Scott</td></tr>
-<tr><th>On-Screen Participant:</th><td>Charmaine Seal</td></tr>
-<tr><th>On-Screen Participant:</th><td>Harry Secombe</td></tr>
-<tr><th>On-Screen Participant:</th><td>Peter Sellers</td></tr>
-<tr><th>On-Screen Participant:</th><td>Bob Sharples</td></tr>
-<tr><th>On-Screen Participant:</th><td>Freddie Starr</td></tr>
-<tr><th>On-Screen Participant:</th><td>Eric Sykes</td></tr>
-<tr><th>On-Screen Participant:</th><td>Sylvia Syms</td></tr>
-<tr><th>On-Screen Participant:</th><td>Bob Todd</td></tr>
-<tr><th>On-Screen Participant:</th><td>John Williams</td></tr>
-<tr><th>On-Screen Participant:</th><td>Barbara Windsor</td></tr>
-<tr><th>On-Screen Participant:</th><td>Ernie Wise</td></tr>
-<tr><th>On-Screen Participant:</th><td>Terry Wogan</td></tr>
-<tr><th>On-Screen Participant:</th><td>Jackie Wright</td></tr>
-<tr><th>On-Screen Participant:</th><td>Mike Yarwood</td></tr>
-<tr style="outline: 4px dashed darkorange; outline-offset: -4px;"><th>On-Screen Participant:</th><td>Lena Zavaroni</td></tr>
-</table>
-
-### [Crew](crew)
-<table>
-<tr><th>Designer:</th><td>Stuart McCarthy</td></tr>
-<tr><th>Videotape Editor:</th><td>Roger Holmes</td></tr>
-<tr><th>Videotape Editor:</th><td>Dave Lewinton</td></tr>
-<tr><th>Graphic Designer:</th><td>Chris Connors</td></tr>
-<tr><th>Director:</th><td>Philip Jones</td></tr>
-<tr><th>Production Assistant:</th><td>Sue Mahoney</td></tr>
-<tr><th>Associate Producer:</th><td>Neil Shand</td></tr>
-<tr><th>Producer:</th><td>Philip Jones</td></tr>
-<tr><th>Production Company:</th><td>Thames Television</td></tr>
-</table>
-
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox3" class="infobox"><a href="#infobox3">Crew</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Designer:</strong> Stuart McCarthy</li>
+<li><strong>Videotape Editor:</strong> Roger Holmes</li>
+<li><strong>Videotape Editor:</strong> Dave Lewinton</li>
+<li><strong>Graphic Designer:</strong> Chris Connors</li>
+<li><strong>Director:</strong> Philip Jones</li>
+<li><strong>Production Assistant:</strong> Sue Mahoney</li>
+<li><strong>Associate Producer:</strong> Neil Shand</li>
+<li><strong>Producer:</strong> Philip Jones</li>
+<li><strong>Production Company:</strong> Thames Television</li>
+</ul>
+</div></div></div>
+</figure>
