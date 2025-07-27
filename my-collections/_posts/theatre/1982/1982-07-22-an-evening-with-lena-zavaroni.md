@@ -33,7 +33,7 @@ last_modified_at: 20 July 2025
 <li><strong>Comedian</strong> Duggie Brown</li>
 <li><strong>Multi-Instrumentalist</strong> Wout Steenhuis</li>
 </ul>
-<p><strong>Note:</strong> While I have not been able to confirm the type of show at this time, given the type of performer Lena's managers had set Lena up to be the use of variety show and referring to the performers as Turns seems like the best fit at this time, but visitors should treat such details as unconfirmed.</p>
+<p><strong>Note:</strong> While I have not been able to confirm the type of show at this time, given the type of performer Lena's managers had set Lena up to be, the use of variety show and referring to the performers as Turns seems like the best fit at this time, but visitors to this website should treat such details as unconfirmed.</p>
 </div></div></div>
 </figure>
 
