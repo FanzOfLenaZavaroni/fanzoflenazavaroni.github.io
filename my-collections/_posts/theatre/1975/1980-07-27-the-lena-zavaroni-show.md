@@ -15,7 +15,7 @@ last_modified_at: 27 July 2925
 <h2 id="infobox1" class="infobox"><a href="#infobox1">The Lena Zavaroni Show</a></h2>
 <div class="CardItem split">
 <h3 id="infobox2" class="infobox"><a href="#infobox2">Minehead Summer Festival</a></h3>
-<p>Some Fans state it was performed inside a circus tent and while it remains unconfirmed it makes the most sense given it was not a performed at a it was not a permanent fixture.</p>
+<p>Some Fans claim it was performed inside a circus tent, and while it remains unconfirmed, it makes the most sense given that it's unlikely that the festival would take place in a permanent structure.</p>
 </div></div></div>
 </figure>
 
