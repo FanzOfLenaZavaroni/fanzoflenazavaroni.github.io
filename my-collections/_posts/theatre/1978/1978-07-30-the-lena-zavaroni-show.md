@@ -10,35 +10,22 @@ categories: [Theatres, The-Lena-Zavaroni-Show, OnThisDay30July]
 last_modified_at: 22 July 2023
 ---
 
-<figure class="fig1">
-<a href="/assets/images/theatres/1978-07-30-the-lena-zavaroni-show-front-of-programme.jpg"><img src="/assets/images/theatres/1978-07-30-the-lena-zavaroni-show-front-of-programme.jpg" class="full-width zoom-in"/></a>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Turns</a></h2>
+<div class="CardItem split">
+<p>A "Turn" refers to an individual performance or act in a variety show, showcasing different talents and entertainment styles.</p>
+<ul>
+<li>The Maurice Merry Orchestra</li>
+<li>Your Host Terry Denton Introduces</li>
+<li>Tony Evans</li>
+<li>Terry Denton</li>
+<li>Turnstyle (From the Marti Caine Show)</li></ul>
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Interval</a></h2>
+<ul>
+<li>Terry Denton introduces the Star of the Show <strong>Lena Zavaroni</strong>.</li>
+</ul>
+<p><strong>Note:</strong> While I have not been able to confirm the type of show at this time, given the type of performer Lena's managers had set Lena up to be, the use of variety show and referring to the performers as Turns seems like the best fit at this time, but visitors to this website should treat such details as unconfirmed.</p>
+</div></div></div>
 </figure>
-
-<figure class="fig2">
-<a href="/assets/images/theatres/1978-07-30-the-lena-zavaroni-show-inside-of-the-programme.jpg"><img src="/assets/images/theatres/1978-07-30-the-lena-zavaroni-show-inside-of-the-programme.jpg" class="full-width zoom-in"/></a>
-</figure>
-
-{: .clear}
-
-<figure class="fig1">
-<a href="/assets/images/theatres/1978-07-30-the-lena-zavaroni-show-back-of-programme.jpg"><img src="/assets/images/theatres/1978-07-30-the-lena-zavaroni-show-back-of-programme.jpg" class="full-width zoom-in"/></a>
-</figure>
-
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:32.5%;}
-
-.fig2 {float:right; width:65.5%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1 {float:left; width:100%;}
-.fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
-

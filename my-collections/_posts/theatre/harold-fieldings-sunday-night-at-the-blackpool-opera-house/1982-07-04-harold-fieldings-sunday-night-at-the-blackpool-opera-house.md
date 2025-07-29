@@ -60,7 +60,5 @@ last_modified_at: 27 June 2023
 <div class="CardItem split">
 <p>Although Dorothy and Phil Solomon were officially part of Lena’s management team, it was Victor, her father and director of the Lena Zavaroni Public Limited Company (plc), who signed the contracts. Lena was 18 at the time and legally able to sign for herself, making his continued involvement particularly noteworthy.</p>
 <p>Some fans have suggested the plc was created to protect Lena’s earnings. However, if the goal was purely financial safeguarding, one might expect a trust fund or similar legal arrangement. A plc, by contrast, is a commercial structure typically used for business operations. As its director, Victor would have had a financial interest in Lena’s career, raising questions about whether the company truly served her best interests or primarily benefited those managing her.</p>
-</div>
-</div>
-</div>
+</div></div></div>
 </figure>
