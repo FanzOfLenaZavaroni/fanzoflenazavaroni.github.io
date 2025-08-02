@@ -7,65 +7,46 @@ before: "Original Broadcast On BBC One "
 after: " And Repeated On BBC Two 2 August 1993"
 description: The Sunday evening religious show features the Firth Of Clyde, and visits Lena's home town of Rothesay. Pam Rhodes chats to Lena about her life and career.
 post_description: The Sunday evening religious show features the Firth Of Clyde, and visits Lena's home town of Rothesay. Pam Rhodes chats to Lena about her life and career.
-image: https://img.youtube.com/vi/DOu5ktVUEoI/hqdefault.jpg
-categories: [BBC-One, OnThisDay1August, OnThisDay2August]
-last_modified_at: 23 December 2023
+categories: [Television-BBC-One, OnThisDay1August, OnThisDay2August, Year-1993]
+last_modified_at: 1 August 2025
 ---
 
-<table style="text-align:center;">
-<tr><th colspan="3">Jump To</th></tr>
-<tr>
-<td><a href="#programme">Programme in Full</a></td>
-<td><a href="#cast">Cast</a></td>
-<td><a href="#crew">Crew</a></td>
-</tr>
-</table>
-
 <figure class="fig3">
-<h2 id="programme"><a href="#programme">Programme in Full</a></h2>
-<div class="responsive-video"><iframe width="640" height="480" src="https://www.youtube.com/embed/DOu5ktVUEoI?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe></div>
-<blockquote>
-<p>First of six programmes from outdoor locations: Doon the Watter.</p>
-<p>Rothesay born Lena Zavaroni sings on television for the first time in six years as she journeys home to join Pam Rhodes who is sailing around the Clyde Coast Islands in the company of the Scottish Festival Singers. Local choirs from Arran, Bute and Dunoon join in.</p>
-</blockquote>
-<cite>BBC Genome: <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1993-08-01#at-18.25">BBC One</a> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_two_england/1993-08-02#at-15.00">BBC Two</a></cite>
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Cast</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Presenter:</strong> Pam Rhodes</li>
+<li><strong>Guest:</strong> Lena Zavaroni</li>
+<li><strong>Christian/Gospel Singers</strong> The Scottish Festival Singers</li>
+</ul>
+</div></div></div>
 </figure>
 
-{: .clear}
-
 <figure class="fig3">
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-<table>
-<tr><th>Presenter:</th><td>Pam Rhodes</td></tr>
-<tr><th>Guest:</th><td>Lena Zavaroni</td></tr>
-<tr><th>Christian/Gospel Singers</th><td>The Scottish Festival Singers</td></tr>
-</table>
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Cast</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Music adviser</strong> Tim Redman</li>
+<li><strong>Camera supervisor</strong> Des O'Hare</li>
+<li><strong>Sound supervisor</strong> Jim Young</li>
+<li><strong>Conductor</strong> Ian McCrorie</li>
+<li><strong>Vision supervisor</strong> Dave Roberts</li>
+<li><strong>Organist</strong> Ian Hogg</li>
+<li><strong>Stage manager</strong> Brian McBeath</li>
+<li><strong>Soloist</strong> Jenny Nex</li>
+<li><strong>Production assistant</strong> Tracy McParland</li>
+<li><strong>Vocals</strong> Arran United Churches Choir</li>
+<li><strong>Production assistant</strong> Lisbeth-Anne McLaughlin</li>
+<li><strong>Vocals</strong> Cowal United Churches Choir</li>
+<li><strong>Series producer</strong> Stuart Kremer</li>
+<li><strong>Vocals</strong> Bute United Churches Choir</li>
+<li><strong>Producer</strong> Stuart Miller</li>
+<li><strong>Editor</strong> Helen Alexander</li>
+<li><strong>Production company</strong> BBC Television</li>
+</ul>
+</div></div></div>
 </figure>
-
-{: .clear}
-
-<figure class="fig3">
-<h2 id="crew"><a href="#crew">Crew</a></h2>
-<table>
-<tr><th>Music adviser</th><td>Tim Redman</td></tr>
-<tr><th>Camera supervisor</th><td>Des O'Hare</td></tr>
-<tr><th>Sound supervisor</th><td>Jim Young</td></tr>
-<tr><th>Conductor</th><td>Ian McCrorie</td></tr>
-<tr><th>Vision supervisor</th><td>Dave Roberts</td></tr>
-<tr><th>Organist</th><td>Ian Hogg</td></tr>
-<tr><th>Stage manager</th><td>Brian McBeath</td></tr>
-<tr><th>Soloist</th><td>Jenny Nex</td></tr>
-<tr><th>Production assistant</th><td>Tracy McParland</td></tr>
-<tr><th>Vocals</th><td>Arran United Churches Choir</td></tr>
-<tr><th>Production assistant</th><td>Lisbeth-Anne McLaughlin</td></tr>
-<tr><th>Vocals</th><td>Cowal United Churches Choir</td></tr>
-<tr><th>Series producer</th><td>Stuart Kremer</td></tr>
-<tr><th>Vocals</th><td>Bute United Churches Choir</td></tr>
-<tr><th>Producer</th><td>Stuart Miller</td></tr>
-<tr><th>Editor</th><td>Helen Alexander</td></tr>
-<tr><th>Production company</th><td>BBC Television</td></tr>
-</table>
-</figure>
-
-<br />{: .clear}
-
