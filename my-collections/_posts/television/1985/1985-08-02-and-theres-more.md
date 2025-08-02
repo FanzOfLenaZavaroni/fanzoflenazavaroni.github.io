@@ -11,60 +11,40 @@ categories: [Central-Television, OnThisDay2August]
 last_modified_at: 22 July 2023
 ---
 
-<table style="text-align:center;">
-<tr><th colspan="3">Jump To</th></tr>
-<tr>
-<td style="width:50%;"><a href="#screenshot">Screenshot</a></td>
-<td><a href="#cast">Cast</a></td>
-<td><a href="#crew">Crew</a></td>
-</tr>
-</table>
-
-<figure class="fig1">
-<figcaption>
-<h2 id="screenshot"><a href="#screenshot">Screenshot</a></h2>
-</figcaption>
-<img src="/assets/images/ITV/1985-08-02-and-theres-more.jpg" class="full-width" />
-<figcaption>
-<cite>Lena performs I Am What I Am on the comedy show, hosted by the comedian Jimmy Cricket.</cite>
-</figcaption>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Cast</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Presenter/Host</strong> Jimmy Cricket</li>
+<li><strong>Guest</strong> Lena Zavaroni</li>
+<li><strong>Guest</strong> Jessica Martin</li>
+<li><strong>Guest</strong> Rory Bremner</li>
+<li><strong>Guest</strong> Adrian Walsh</li>
+<li><strong>Guest</strong> Hi Ching</li>
+<li><strong>Guest</strong> Rex Wei</li>
+<li><strong>Guest</strong> Billy Dainty</li>
+</ul>
+</div></div></div>
 </figure>
-
-<figure class="fig2">
-<figcaption>
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-</figcaption>
-<table>
-<tr><th style="width:50%;">Presenter/Host</th><td style="width:50%;">Jimmy Cricket</td></tr>
-<tr><th>Guest</th><td>Lena Zavaroni</td></tr>
-<tr><th>Guest</th><td>Jessica Martin</td></tr>
-<tr><th>Guest</th><td>Rory Bremner</td></tr>
-<tr><th>Guest</th><td>Adrian Walsh</td></tr>
-<tr><th>Guest</th><td>Hi Ching</td></tr>
-<tr><th>Guest</th><td>Rex Wei</td></tr>
-<tr><th>Guest</th><td>Billy Dainty</td></tr>
-</table>
-</figure>
-
-{: .clear}
 
 <figure class="fig3">
-<figcaption>
-<h2 id="crew"><a href="#crew">Crew</a></h2>
-</figcaption>
-<table>
-<tr><th style="width:50%;">Musical Director</th><td style="width:50%;">Mike Alexander</td></tr>
-<tr><th>Choreography</th><td>Carole Todd</td></tr>
-<tr><th>Production assistant</th><td>Sue Parkes</td></tr>
-<tr><th>Sound</th><td>Martin Gillman</td></tr>
-<tr><th>Lighting</th><td>Keith Reed</td></tr>
-<tr><th>Designer</th><td>David Chandler</td></tr>
-<tr><th>Associate Producer</th><td>Paula Burden</td></tr>
-<tr><th>Producer</th><td>Tony Wolfe</td></tr>
-<tr><th>Director</th><td>Tony Wolfe</td></tr>
-<tr><th>Production company</th><td>Central Television</td></tr>
-</table>
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Crew</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Musical Director</strong> Mike Alexander</li>
+<li><strong>Choreography</strong> Carole Todd</li>
+<li><strong>Production assistant</strong> Sue Parkes</li>
+<li><strong>Sound</strong> Martin Gillman</li>
+<li><strong>Lighting</strong> Keith Reed</li>
+<li><strong>Designer</strong> David Chandler</li>
+<li><strong>Associate Producer</strong> Paula Burden</li>
+<li><strong>Producer</strong> Tony Wolfe</li>
+<li><strong>Director</strong> Tony Wolfe</li>
+<li><strong>Production company</strong> Central Television</li>
+</ul>
+</div></div></div>
 </figure>
-
-<br />{: .clear}
-

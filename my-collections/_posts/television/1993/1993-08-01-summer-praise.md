@@ -27,7 +27,7 @@ last_modified_at: 1 August 2025
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox1" class="infobox"><a href="#infobox1">Cast</a></h2>
+<h2 id="infobox2" class="infobox"><a href="#infobo2">Cast</a></h2>
 <div class="CardItem split">
 <ul>
 <li><strong>Music adviser</strong> Tim Redman</li>
