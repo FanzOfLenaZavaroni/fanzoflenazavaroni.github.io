@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1989-07-27-the-times-london-england-thursday-page-23.jpg, 1989…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ab84aeceb057bf740a08e691bd0783d35f27cdea)
-- [Update Gemfile, 1978-07-26-tesco-extra.md, and 1978-songs-are-such-go…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/74bcd470631d40ba2f76c682a0f3c4c00abb92cb)
-- [Update 1974-07-25-ma-hes-making-eyes-at-me-japanese.md and 1979-04-01…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f8a1bb001cbd10f2be5e182fb65f4e272996aa3c)
-- [Update 1974-05-01-annual-share-boomtown party.md, 2024-03-16-notice.m…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6a42dc907ac9df5dbc78b2858a3a4a5665397bbe)
-- [Update 1963-11-04-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/819bef8e41ce157f0162cabceed6f5e9cc7848a9)
+- [Update Pavilion_Theatre,_Bournemouth_&lpar;South_Face_-_01&rpar;.jpg, D-Sides, …](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b220deb40f0353e253b5b9ad1b24b4ec70083929)
+- [Update 1993-08-01-summer-praise.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/afcaa89a8a3ca5c0fa2d25c1ef17fda8cd35c17c)
+- [Update theatre.md, 1976-08-01-lena-zavaroni-at-the-pier-theatre.md, a…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7fa35893076cfc60be408067c6bc0a451bd1be38)
+- [Update 1993-07-31-press-information.md and 1985-07-31-weekend.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/93c83c06e2e8c0975c7248f571c24ad449b93539)
+- [Update 1977-07-31-hi-summer.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fd6221299721041044baf7368d682285993d0075)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
