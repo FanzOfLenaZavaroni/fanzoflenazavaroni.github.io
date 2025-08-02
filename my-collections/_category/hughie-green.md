@@ -8,11 +8,14 @@ maintitle: "Category: Hughie Green"
 <div class="CardLayout">
 <div class="CardItem">
 <ul>
-  {% for post in site.categories.Hughie-Green reversed %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></li>
-    {% endif %}
-  {% endfor %}
+{% for post in site.categories.Hughie-Green reversed %}
+{% if post.url %}
+<li>
+<p><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></p>
+<p>{{ post.subtitle }}</p>
+</li>
+{% endif %}
+{% endfor %}
 </ul>
 </div>
 </div>

@@ -4,64 +4,77 @@ title: "Category: Lena"
 maintitle: "Category: Lena"
 ---
 
-<figure class="fig1">
-<div class="CardLayout Card-Height">
+<figure class="fig3">
+<div class="CardLayout">
 <div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Series 1</a></h2></div>
 <div class="CardItem split">
 <ul>
-  {% for post in site.categories.Lena-Series-1 reversed %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></li>
-    {% endif %}
-  {% endfor %}
+{% for post in site.categories.Lena-Series-1 reversed %}
+{% if post.url %}
+<li>
+<p><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></p>
+<p>{{ post.subtitle }}</p>
+</li>
+{% endif %}
+{% endfor %}
 </ul>
 </div>
 </div>
 </figure>
 
-<figure class="fig2">
-<div class="CardLayout Card-Height">
+<figure class="fig3">
+<div class="CardLayout">
 <div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Series 2</a></h2></div>
 <div class="CardItem split">
 <ul>
-  {% for post in site.categories.Lena-Series-2 reversed %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></li>
-    {% endif %}
-  {% endfor %}
+{% for post in site.categories.Lena-Series-2 reversed %}
+{% if post.url %}
+<li>
+<p><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></p>
+<p>{{ post.subtitle }}</p>
+</li>
+{% endif %}
+{% endfor %}
 </ul>
 </div>
 </div>
 </figure>
 
-<figure class="fig1">
+<figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem"><h2 id="infobox3" class="infobox"><a href="#infobox3">Series 3, Block 1</a></h2></div>
 <div class="CardItem split">
 <ul>
 {% for post in site.categories.Lena-Series-3 reversed %}
 {% if post.block == 1 %}
-<li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></li>
+<li>
+<p><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></p>
+<p>{{ post.subtitle }}</p>
+</li>
 {% endif %}
 {% endfor %}
 </ul>
 </div></div>
 </figure>
 
-<figure class="fig2">
+<figure class="fig4">
 <div class="CardLayout">
 <div class="CardItem"><h2 id="infobox4" class="infobox"><a href="#infobox4">Series 3, Block 2</a></h2></div>
 <div class="CardItem split">
 <ul>
 {% for post in site.categories.Lena-Series-3 reversed %}
 {% if post.block == 2 %}
-<li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></li>
+<li>
+<p><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></p>
+<p>{{ post.subtitle }}</p>
+</li>
 {% endif %}
 {% endfor %}
 </ul>
 </div></div>
 </figure>
 
+<!--
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem"><h2 id="infobox4" class="infobox"><a href="#infobox4">Publicity</a></h2></div>
@@ -80,9 +93,4 @@ maintitle: "Category: Lena"
 </div>
 </div>
 </figure>
-
-<style>
-.Card-Height {height: 314.5px}
-@media screen and (orientation:portrait) {.Card-Height {height: unset;}}
-</style>
-
+-->

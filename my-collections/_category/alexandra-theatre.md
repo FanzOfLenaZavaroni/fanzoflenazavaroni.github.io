@@ -8,9 +8,12 @@ maintitle: "Category: Alexandra Theatre"
 <div class="CardLayout">
 <div class="CardItem">
 <ul>
-  {% for post in site.categories.Alexandra-Theatre reversed %}
+  {% for post in site.categories.Theatre-Alexandra-Theatre reversed %}
     {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></li>
+<li>
+<p><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></p>
+<p>{{ post.subtitle }}</p>
+</li>
     {% endif %}
   {% endfor %}
 </ul>

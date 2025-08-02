@@ -10,19 +10,20 @@ maintitle: "Category: Theatre"
 <ul>
 {% assign reversed_posts = site.posts | reverse %}
 {% for post in reversed_posts %}
-  {% assign has_theatre_category = false %}
+{% assign has_theatre_category = false %}
 
-  {% for category in post.categories %}
-    {% if category contains "Theatre-" %}
-      {% assign has_theatre_category = true %}
-    {% endif %}
-  {% endfor %}
+{% for category in post.categories %}
+{% if category contains "Theatre-" %}
+{% assign has_theatre_category = true %}
+{% endif %}
+{% endfor %}
 
-  {% if has_theatre_category %}
-    <li>
-      <a href="{{ post.url }}">{{ post.date | date: "%-d %B %Y" }} - {{ post.maintitle }}</a>
-    </li>
-  {% endif %}
+{% if has_theatre_category %}
+<li>
+<p><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></p>
+<p>{{ post.subtitle }}</p>
+</li>
+{% endif %}
 {% endfor %}
 </ul>
 </div>
