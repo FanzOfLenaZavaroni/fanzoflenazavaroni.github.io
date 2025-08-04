@@ -4,47 +4,21 @@ title: Junior Showtime &#124; 6 August 1974
 maintitle: Junior Showtime
 subtitle: Lena Zavaroni's fifth appearance
 description: Presenters - Mark Curry, Glyn Poole, with Roy Rolland as Old Mother Riley, Lena Zavaroni.
-media: Yorkshire Television
 post_description: Presenters - Mark Curry, Glyn Poole, with Roy Rolland as Old Mother Riley, Lena Zavaroni.
-image: /assets/images/YTV/0FFO-1974-AUG06-021.jpeg
-categories: [Yorkshire-Television, Junior-Showtime, OnThisDay6August]
-last_modified_at: 19 May 2024
+categories: [Television-Junior-Showtime, OnThisDay6August]
+last_modified_at: 4 August 2025
 ---
 
-<table>
-<tr align="center">
-<th>Jump To:</th>
-<td><a href="#programme-id">Programme ID</a></td>
-<td><a href="#cast">Cast</a></td>
-<td><a href="#newspaper">Newspaper</a></td>
-</tr>
-</table>
-
-<figure class="fig1">
-<figcaption>
-<h2 id="programme-id"><a href="#programme-id">Programme ID</a></h2>
-</figcaption>
-<img src="/assets/images/YTV/1974-junior-showtime.jpg" class="full-width" />
-<figcaption>
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-</figcaption>
-<table>
-<tr><th>Presenter</th><td> Mark Curry</td></tr>
-<tr><th>Presenter</th><td> Glyn Poole</td></tr>
-<tr><th>Old Mother Riley</th><td> Roy Rolland</td></tr>
-<tr><th>Guest Singer</th><td> Lena Zavaroni</td></tr>
-</table>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Cast</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Presenter</strong> Mark Curry</li>
+<li><strong>Presenter</strong> Glyn Poole</li>
+<li><strong>Old Mother Riley</strong> Roy Rolland</li>
+<li><strong>Guest Singer</strong> Lena Zavaroni</li>
+</ul>
+</div></div></div>
 </figure>
-
-<figure class="fig2">
-<figcaption>
-<h2 id="newspaper"><a href="#newspaper">Newspaper</a></h2>
-</figcaption>
-<a href="/assets/images/newspapers/0FFO-1974-AUG06-021.jpeg"><img src="/assets/images/newspapers/0FFO-1974-AUG06-021.jpeg" class="full-width zoom-in" /></a>
-<figcaption>
-<cite>The Times London, England, Saturday,<br />6 August 1974</cite>
-</figcaption>
-</figure>
-
-<br />{: .clear}
-
