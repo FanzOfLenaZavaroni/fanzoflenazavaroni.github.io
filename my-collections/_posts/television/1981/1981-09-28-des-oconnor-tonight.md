@@ -11,38 +11,30 @@ categories: [BBC-Two, BBC-One, Des-O'Connor, OnThisDay28September, OnThisDay5Aug
 last_modified_at: 23 December 2023
 ---
 
-<figure class="fig1">
-<h2 id="screenshot1"><a href="#screenshot1">Screenshot 1</a></h2>
-<img class="full-width" src="/assets/images/television/1981-09-28-desoconnor-tonight-des-lena.jpg" />
-<cite>Des O'Connor and Lena Zavaroni</cite>
-</figure>
-
-<figure class="fig2">
-<h2 id="screenshot2"><a href="#screenshot2">Screenshot 2</a></h2>
-<img class="full-width" src="/assets/images/television/1981-09-28-desoconnor-tonight-lena.jpg" />
-<cite>Lena Zavaroni</cite>
-</figure>
-
 <figure class="fig3">
-<h2 id="synopsis"><a href="#synopsis">Synopsis</a></h2>
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Summary</a></h2>
+<div class="CardItem split">
 <blockquote>
 <p>Starring Des O'Connor who plays host to some of the finest entertainment talent from Britain and America. Des sings, jokes and talks in the company of his guests from both sides of the Atlantic. Tonight's special guests are: from Britain: Jim Davidson, Lena Zavaroni and from America Garry Shandling.</p>
 <p>Lena performs her then new single <a href="/discography/singles/1981-09-25-somewhere-south-of-macon-uk">Somewhere South Of Macon</a>, then she joins Des to duet on Nice and Easy and Love Will Keep Us Together.</p>
 </blockquote>
 <cite>BBC Genome: <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1981-09-28#at-20.10">28 September 1981</a>, <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1982-08-05#at-21.55">5 August 1982</a></cite>
+</div></div></div>
 </figure>
 
-{: .clear}
 
 <figure class="fig3">
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-<table>
-<tr><th>Host</th><td>Des O'Connor</td></tr>
-<tr><th>Comedian</th><td>Jim Davidson</td></tr>
-<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
-<tr><th>Comedian</th><td>Garry Shandling</td></tr>
-</table>
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Cast</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Host</strong> Des O'Connor</li>
+<li><strong>Comedian</strong> Jim Davidson</li>
+<li><strong>Singer</strong> Lena Zavaroni</li>
+<li><strong>Comedian</strong> Garry Shandling</li>
+</ul>
+</div></div></div>
 </figure>
-
-<br />{: .clear}
-
