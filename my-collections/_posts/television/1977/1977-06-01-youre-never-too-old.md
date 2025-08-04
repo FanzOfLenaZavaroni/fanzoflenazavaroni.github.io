@@ -12,15 +12,7 @@ categories: [Associated-Television-(ATV), OnThisDay1June]
 
 <figure class="fig3">
 <div class="CardLayout">
-<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">TVTimes</a></h2></div>
-<div class="CardItem split"><img src="/assets/images/ITV/youre-never-too-old.jpg" class="full-width" /></div>
-<div class="CardItem"><cite>Lena celebrates her birthday as a pensioner in a comedy sketch.</cite></div>
-</div>
-</figure>
-
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Cast</a></h2></div>
+<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Cast</a></h2></div>
 <div class="CardItem split">
 <ul>
 <li>Lena Zavaroni</li>
