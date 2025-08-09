@@ -310,7 +310,8 @@ I've got to wear all these silly costumes and try and get into them and be with 
 <p>On the 7 September 1999 Lena Zavaroni underwent Neurosurgery for Mental Disorder (NMD) (aka Psychosurgery) the type she was treated with was Anterior Capsulotomy which is one of the 4 types of stereotactic psychosurgery available.</p>
 <p>The University Hospital of Wales Cardiff allowed this surgery even though Lena Zavaroni was seriously weakened by her anorexia.
 In the first days after the operation she appeared to slowly recover and seemed less unhappy; she even asked a doctor if it would be possible to resume her career.</p>
-<p>But she would never leave the hospital. Within three weeks, on <strong id="infoxbox28">1 October 1999 she died from a Pneumonia  infection</strong>.</p>
+<h3 id="infobox28" class="infobox"><a href="#infobox28">1 October 1999</a></h3>
+<p>But she would never leave the hospital. Within three weeks, 1 October 1999 she died from a Pneumonia  infection.</p>
 <p>She was just 35. At the time of her death she weighed only five stone (70 lb, 32 kg).</p>
 </div></div></div>
 </figure>
