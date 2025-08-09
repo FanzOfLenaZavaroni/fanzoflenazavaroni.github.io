@@ -5,7 +5,7 @@ maintitle: Record Mirror & Disc
 subtitle: Magazine
 description: London Weekend TV, Friday, April 9; Russell Harty's guests are Edna Everidge, Helen Mirren. Lena Zavaroni.
 post_description: London Weekend TV, Friday, April 9; Russell Harty's guests are Edna Everidge, Helen Mirren. Lena Zavaroni.
-categories: [Magazines, Record-Mirror-&-Disc, OnThisDay10April]
+categories: [Magazines, Record-Mirror-&-Disc, OnThisDay10April, Year-1976]
 last_modified_at: 11 April 2024
 ---
 

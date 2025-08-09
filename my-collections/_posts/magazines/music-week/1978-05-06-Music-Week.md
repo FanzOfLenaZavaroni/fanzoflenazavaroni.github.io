@@ -6,7 +6,7 @@ subtitle: Magazine
 description: DJM Publishing - DJM subsidiary, Cookaway Music, have also collaborated to write I Should Have Listened To Mama which Lena Zavaroni has recorded for Galaxy Records.
 post_description: DJM Publishing - DJM subsidiary, Cookaway Music, have also collaborated to write I Should Have Listened To Mama which Lena Zavaroni has recorded for Galaxy Records.
 image: /assets/images/magazines/music-week/1978-05-06-01-Music-Week.png
-categories: [Magazines, Music-Week, OnThisDay6May]
+categories: [Magazines, Music-Week, OnThisDay6May, Year-1978]
 last_modified_at: 6 May 2024
 ---
 

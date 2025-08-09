@@ -5,7 +5,7 @@ maintitle: Tom Browne with The Top Twenty
 subtitle: From today the Solid-Gold-Sixty AKA the Top 60 was dropped and only the Top 20 was broadcast by the BBC on Radio 1 Medium Wave & Radio 2 VHF
 description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved down the charts from number 14 to number 17.
 post_description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved down the charts from number 14 to number 17.
-categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay24March]
+categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay24March, Year-1974]
 last_modified_at: 17 March 2024
 ---
 

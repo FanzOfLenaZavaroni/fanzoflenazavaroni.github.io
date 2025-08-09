@@ -7,7 +7,7 @@ description: Lena Zavaroni At The Futurist Theatre, Scarborough
 media: Info
 post_description: Details Unknown.
 image: /assets/images/locations/the-futurist-theatre.jpg
-categories: [Theatres, Futurist-Theatre, Scarborough, OnThisDay7September]
+categories: [Theatres, Futurist-Theatre, Scarborough, OnThisDay7September, Year-1975]
 ---
 
 <figure class="fig3">

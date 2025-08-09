@@ -7,7 +7,7 @@ description: Starring Lena Zavaroni.
 media: Details
 post_description: Starring Lena Zavaroni.
 image: /assets/images/locations/1975-08-31-the-lena-zavaroni-show.jpg
-categories: [Theatres, Winter-Gardens, Bournemouth, The-Lena-Zavaroni-Show, OnThisDay31August]
+categories: [Theatres, Winter-Gardens, Bournemouth, The-Lena-Zavaroni-Show, OnThisDay31August, Year-1975]
 ---
 
 ![]({{ page.image }}){: .left}

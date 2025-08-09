@@ -7,7 +7,7 @@ description: The Press Association issued a photograph of Lena Zavaroni.
 media: Details
 post_description: Issued a photograph of Lena Zavaroni.
 image: /assets/images/publicity/1978-09-12-the-press-association-01.png 
-categories: [Publicity, The-Press-Association, OnThisDay12September]
+categories: [Publicity, The-Press-Association, OnThisDay12September, Year-1978]
 ---
 
 <figure class="fig1">

@@ -7,7 +7,7 @@ description: Featured a number of pages that made reference Lena Zavaroni.
 media: Newspaper
 post_description: Featured a number of pages that made reference Lena Zavaroni.
 image: /assets/images/the-stage-and-television-today/1976-08-19-the-stage-and-television-today-front-cover.png
-categories: [The-Stage-and-Television-Today, OnThisDay19August]
+categories: [The-Stage-and-Television-Today, OnThisDay19August, Year-1976]
 ---
 
 <figure class="fig1">

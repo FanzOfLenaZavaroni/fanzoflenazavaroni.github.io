@@ -6,7 +6,7 @@ subtitle: Tesco Extra
 description: Scottish singer and television child star Lena Zavaroni appeared at the store on this day to promote her new album Songs Are Such Good Things and sign autographs.
 media: Personal Appearance
 post_description: Scottish singer and television child star Lena Zavaroni appeared at the store on this day to promote her new album Songs Are Such Good Things and sign autographs.
-categories: [Personal-Appearances, OnThisDay26July]
+categories: [Personal-Appearances, OnThisDay26July, Year-1978]
 last_modified_at: 22 July 2023
 ---
 

@@ -7,7 +7,7 @@ description: Lena performs Jubilation T. Cornpone from the musical Lil Abner, an
 media: BBC Two
 post_description: Lena performs Jubilation T. Cornpone from the musical Lil Abner, and  her then new single Air Love.
 image: /assets/images/BBC/The-Musical-Time-Machine-01.jpg
-categories: [BBC-Two, Dougie-Squires, OnThisDay15February]
+categories: [BBC-Two, Dougie-Squires, OnThisDay15February, Year-1977]
 last_modified_at: 2 February 2024
 ---
 

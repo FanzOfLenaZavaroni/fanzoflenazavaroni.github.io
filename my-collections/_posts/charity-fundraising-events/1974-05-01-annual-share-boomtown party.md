@@ -8,7 +8,7 @@ subtitle:  aka The SHARE Show
 description: Annual children's charity benefit show held in Hollywood, USA circa May 1974 by the charity SHARE
 post_description: "Date is unconfirmed just used 1 May as it the only date we currently have: Annual children's charity benefit show held in Hollywood, USA circa May 1974."
 image: /assets/images/US-TV/Frank-Sinatra-and-Lena-Zavaroni.jpg
-categories: [US-Television, Fundraising, OnThisDay1May]
+categories: [US-Television, Fundraising, OnThisDay1May, Year-1974]
 last_modified_at: 23 July 2025
 ---
 

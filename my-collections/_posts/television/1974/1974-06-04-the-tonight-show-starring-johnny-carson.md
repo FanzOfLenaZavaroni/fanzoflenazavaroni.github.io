@@ -9,7 +9,7 @@ description: She performs Ma He's Making Eyes At Me and then chats to Johnny, be
 media: US Television
 post_description: Lena Zavaroni performs Ma He's Making Eyes At Me and then chats to Johnny, before performing The End Of The World.
 image: https://img.youtube.com/vi/iG4y6WCY1RA/mqdefault.jpg
-categories: [US-Television, OnThisDay4June, OnThisDay3May]
+categories: [US-Television, OnThisDay4June, OnThisDay3May, Year-1974, Year-1974, Year-1974]
 last_modified_at: 2 May 2025
 ---
 

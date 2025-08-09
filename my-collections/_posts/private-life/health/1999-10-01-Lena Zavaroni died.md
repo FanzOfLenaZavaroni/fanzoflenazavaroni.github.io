@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Lena Zavaroni died &#124; 3 November 1996
-maintitle: Lena Zavaroni died
-subtitle: 
+maintitle: Lena Zavaroni
+subtitle: Die from Bronchopneumonia
 description: Prior to her death Lena was admitted to University Hospital of Wales iniff for a psychosurgical operation that was described as "pioneering" and "keyhole surgery to partially interrupt the nerve pathways that control emotions".
 post_description: Prior to her death Lena was admitted to University Hospital of Wales iniff for a psychosurgical operation that was described as "pioneering" and "keyhole surgery to partially interrupt the nerve pathways that control emotions".
 categories: [Health, Death, OnThisDay1October]

@@ -6,7 +6,7 @@ subtitle: Magazine
 description: Philips must have been very pleased with the BBC 2 Bachelors programmes, especially as they featured that other record star, Miss Lena Zavaroni...
 post_description: Philips must have been very pleased with the BBC 2 Bachelors programmes, especially as they featured that other record star, Miss Lena Zavaroni...
 image: 
-categories: [Magazines, Magazine-Music-Week, OnThisDay12April]
+categories: [Magazines, Magazine-Music-Week, OnThisDay12April, Year-1975]
 last_modified_at: 12 April 2024
 ---
 

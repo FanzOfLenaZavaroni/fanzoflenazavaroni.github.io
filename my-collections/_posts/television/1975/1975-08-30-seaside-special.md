@@ -8,7 +8,7 @@ media: BBC One
 post_description: An outside broadcast from the BBC1 Big Top which this week visits Torbay. Starring Roy Hudd, Keith Harris, Tessie O'Shea, Lena Zavaroni, Derek Dene, Jon Britain, Tony Blackburn and featuring NEW EDITION.
 image: https://img.youtube.com/vi/lFU0ROYFwh4/hqdefault.jpg
 youtube-id: lFU0ROYFwh4
-categories: [BBC-One, Torbay, OnThisDay30August]
+categories: [BBC-One, Torbay, OnThisDay30August, Year-1975]
 ---
 
 <figure class="fig1">

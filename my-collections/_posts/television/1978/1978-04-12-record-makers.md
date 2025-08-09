@@ -8,7 +8,7 @@ subtitle: Scottish-Television (STV)
 description: Today's guest Lena Zavaroni sings all the songs from her album Presenting Lena Zavaroni including her single Air Love which is also on the album.
 post_description: original broadcast 12 April 1978 with a repeat on 6 December 1978. Today's guest Lena Zavaroni sings all the songs from her album Presenting Lena Zavaroni including her single Air Love which is also on the album.
 image: /assets/images/ITV/the-record-makers-12-april-1978.jpg
-categories: [Scottish-Television-(STV), OnThisDay12April, OnThisDay6December]
+categories: [Scottish-Television-(STV), OnThisDay12April, OnThisDay6December, Year-1978]
 last_modified_at: 23 December 2023
 ---
 

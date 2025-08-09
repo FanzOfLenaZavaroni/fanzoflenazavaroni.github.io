@@ -7,7 +7,7 @@ description: Starring Lena Zavaroni
 media: Details
 post_description: Starring Lena Zavaroni
 image: /assets/images/theatres/
-categories: [Theatres, Winter-Gardens, Bournemouth, OnThisDay17September]
+categories: [Theatres, Winter-Gardens, Bournemouth, OnThisDay17September, Year-1978]
 last_modified_at: 4 August 2023
 ---
 

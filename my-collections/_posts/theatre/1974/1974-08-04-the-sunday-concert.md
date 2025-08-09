@@ -5,7 +5,7 @@ maintitle: The Sunday Concert At The Winter Gardens, Margate
 subtitle: 6pm and 8:30pm
 description: Staring Lena Zavaroni
 post_description: Staring Lena Zavaroni
-categories: [Theatres, Winter-Gardens, Margate, OnThisDay4August]
+categories: [Theatres, Winter-Gardens, Margate, OnThisDay4August, Year-1974, Year-1974, Year-1974]
 last_modified_at: 3 August 2025
 ---
 

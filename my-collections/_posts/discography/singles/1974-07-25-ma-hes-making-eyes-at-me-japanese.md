@@ -5,7 +5,7 @@ maintitle: Ma! (He's Making Eyes At Me)
 subtitle: Lena Zavaroni's Japanese-Language Version of Her debut single
 description: Ma! (He's Making Eyes At Me) Japanese Version.
 post_description: Ma! (He's Making Eyes At Me) Japanese Version.
-categories: [Discography-Singles, OnThisDay25July]
+categories: [Discography-Singles, OnThisDay25July, Year-1974]
 permalink: /discography/singles/:name
 last_modified_at: 25 July 2025
 ---

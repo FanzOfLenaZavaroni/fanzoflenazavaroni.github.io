@@ -5,7 +5,7 @@ maintitle: All Star Gala Variety Show
 subtitle: Wimbledon Theatre
 description: All star cast.
 post_description: All star cast.
-categories: [Theatres, Wimbledon-Theatre, Wimbledon, OnThisDay9February]
+categories: [Theatres, Wimbledon-Theatre, Wimbledon, OnThisDay9February, Year-1975]
 last_modified_at: 9 February 2024
 ---
 

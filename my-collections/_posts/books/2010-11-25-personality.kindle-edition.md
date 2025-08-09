@@ -6,7 +6,7 @@ subtitle: Andrew O'Hagan
 description: Maria Tambini is a thirteen-year-old girl with a great singing voice. Growing up on a small Scottish island, she is ready for the big time and keen to escape her ordinary life.
 post_description: Maria Tambini is a thirteen-year-old girl with a great singing voice. Growing up on a small Scottish island, she is ready for the big time and keen to escape her ordinary life.
 image: /assets/images/books/2003-04-01-personality-paperback.jpg
-categories: [Books, Andrew-O'Hagan, OnThisDay25November]
+categories: [Books, Andrew-O'Hagan, OnThisDay25November, Year-2010]
 ---
 
 <figure class="fig3">

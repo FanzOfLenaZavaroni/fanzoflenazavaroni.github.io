@@ -6,7 +6,7 @@ subtitle: The Southport Theatre, Southport
 description: Starring Lena Zavaroni at The Southport Theatre, Southport.
 media: Details
 post_description: Starring Lena Zavaroni at The Southport Theatre, Southport.
-categories: [Theatres, Southport-Theatre, Southport, The-Lena-Zavaroni-Show, OnThisDay24August]
+categories: [Theatres, Southport-Theatre, Southport, The-Lena-Zavaroni-Show, OnThisDay24August, Year-1975]
 ---
 
 

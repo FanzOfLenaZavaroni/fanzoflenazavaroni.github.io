@@ -7,7 +7,7 @@ description: Starring Max Bygraves with Lena Zavaroni, Charlie Cairoli, Sandra D
 media: Thames Television
 post_description: Starring Max Bygraves with Lena Zavaroni, Charlie Cairoli, Sandra Dickinson, Jim Davidson and Margaret Powell.
 image: /assets/images/ITV/1877-12-27-maxs-holiday-hour.jpg
-categories: [Thames-Television, OnThisDay27December]
+categories: [Thames-Television, OnThisDay27December, Year-1977]
 ---
 
 <table>

@@ -6,7 +6,7 @@ subtitle: Lena Zavaroni's debut single was released shortly after her third appe
 description: Ma! (He's Making Eyes At Me) is the debut single released by Lena Zavaroni.
 post_description: Ma! (He's Making Eyes At Me) is the debut single released by Lena Zavaroni.
 image: /assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-uk-a.jpg
-categories: [Discography-Singles, OnThisDay25January]
+categories: [Discography-Singles, OnThisDay25January, Year-1974]
 permalink: /discography/singles/:name
 last_modified_at: 25 January 2024
 ---

@@ -5,7 +5,7 @@ maintitle: Music Week
 subtitle: Magazine
 description: MAC MUSIC, publishing company set up recently by writer/producer Mike Hurst
 post_description: MAC MUSIC, publishing company set up recently by writer/producer Mike Hurst
-categories: [Magazines, Music-Week, Mike-Hurst, OnThisDay21January]
+categories: [Magazines, Music-Week, Mike-Hurst, OnThisDay21January, Year-1978]
 last_modified_at: 21 January 2024
 ---
 

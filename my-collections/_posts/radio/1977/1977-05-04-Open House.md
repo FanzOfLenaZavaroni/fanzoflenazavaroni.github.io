@@ -7,7 +7,7 @@ maintitle: Pete Murray's Open House from Glasgow
 subtitle: BBC Radio 2
 description: Recorded on the 4 May 1977 from the Top Rank Club, Main street, Rutherglen, Glasgow for broadcast on BBC Radio 2's Pete Murray’s Open House.
 post_description: Recorded on the 4 May 1977 from the Top Rank Club, Main street, Rutherglen, Glasgow for broadcast on BBC Radio 2's Pete Murray’s Open House.
-categories: [BBC-Radio-2, OnThisDay4May, OnThisDay13May]
+categories: [BBC-Radio-2, OnThisDay4May, OnThisDay13May, Year-1977]
 ---
 
 <table>

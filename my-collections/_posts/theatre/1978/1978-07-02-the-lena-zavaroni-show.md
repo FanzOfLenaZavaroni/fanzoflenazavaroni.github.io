@@ -8,7 +8,7 @@ description: With David Harrison, Bobby Bragg, Joan Hide, International magical 
 media: Hastings
 post_description: With David Harrison, Bobby Bragg, Joan Hide, International magical entertainers Brian Miller & Audrey, Gordon Turner.
 image: /assets/images/theatres/1978-07-02-the-lena-zavaroni-show-01.jpg
-categories: [Theatres, White-Rock-Pavilion, Hastings, OnThisDay2July]
+categories: [Theatres, White-Rock-Pavilion, Hastings, OnThisDay2July, Year-1978]
 last_modified_at: 1 July 2025
 ---
 

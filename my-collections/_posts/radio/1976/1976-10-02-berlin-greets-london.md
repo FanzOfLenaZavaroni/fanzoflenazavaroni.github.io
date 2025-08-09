@@ -6,7 +6,7 @@ subtitle: The Grosse Sendesaal, West Berlin
 description: Recorded on 1 October 1976 for broadcast on BBC Radio 2 on the 2 October 1976.
 post_description: Recorded on 1 October 1976 for broadcast on BBC Radio 2 on the 2 October 1976.
 image: /assets/images/Senderfreiesberlin-logo.svg
-categories: [BBC-Radio-2, OnThisDay1October, OnThisDay2October]
+categories: [BBC-Radio-2, OnThisDay1October, OnThisDay2October, Year-1976]
 last_modified_at: 1 October 2023
 ---
 

@@ -8,7 +8,7 @@ subtitle: The Story of Modern Britain in 50 Records by Stuart Maconie
 description: Lena Zavaroni was a star in her early teens, bursting into the limelight thanks to her appearance on TV show Opportunity Knocks, the cheesy seventies template for the X Factor. At ten she was the youngest person to have a top ten album and to appear on Top of the Pops, later she enjoyed her own TV series. But what the world didn't know is that from the age of thirteen Zavaroni suffered from anorexia nervosa brought on by early pressures to fit into stage costumes as she went through puberty. At one point, while at stage school (another echo of Winehouse), her weight dropped to four stone...
 post_description: The Story of Modern Britain in 50 Records by Stuart Maconie.
 image: /assets/images/books/140903318X-2013.jpg
-categories: [Books, OnThisDay6June, OnThisDay27March]
+categories: [Books, OnThisDay6June, OnThisDay27March, Year-2013]
 last_modified_at: 23 December 2023
 ---
 

@@ -5,7 +5,7 @@ maintitle: Record &quot;Popswop&quot; Mirror
 subtitle: Magazine
 description: besides  we always said Lena Zavaroni could take Shirley Temple for a ride (any time).
 post_description: besides we always said Lena Zavaroni could take Shirley Temple for a ride (any time).
-categories: [Magazines, Record-Popswop-Mirror, OnThisDay1March]
+categories: [Magazines, Record-Popswop-Mirror, OnThisDay1March, Year-1975]
 last_modified_at: 1 January 2024
 ---
 

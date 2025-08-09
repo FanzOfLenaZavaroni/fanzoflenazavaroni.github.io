@@ -5,7 +5,7 @@ maintitle: Eastbourne Herald
 subtitle: Lena Zavaroni Performs at Congress Theatre
 description: Lena Zavaroni is set to perform in Eastbourne on 13 July 1975 at the Congress Theatre.
 post_description: The child singing sensation makes her local debut at the Congress Theatre as part of a Sunday night variety programme.
-categories: [Newspaper-EastbourneHerald, OnThisDay12July]
+categories: [Newspaper-EastbourneHerald, OnThisDay12July, Year-1975]
 last_modified_at: 12 July 2025
 ---
 

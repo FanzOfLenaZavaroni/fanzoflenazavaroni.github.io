@@ -5,7 +5,7 @@ maintitle: I Should've Listened To Mama
 subtitle: Lena Zavaroni's Eighth UK Release
 description: Eighth single by Lena Zavaroni
 post_description: Eighth single by Lena Zavaroni
-categories: [Discography-Singles, Mike-Hurst, OnThisDay17March]
+categories: [Discography-Singles, Mike-Hurst, OnThisDay17March, Year-1978, Year-1978]
 permalink: /discography/singles/:name
 last_modified_at: 25 February 2024
 ---

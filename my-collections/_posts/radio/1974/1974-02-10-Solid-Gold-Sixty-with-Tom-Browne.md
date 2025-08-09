@@ -5,7 +5,7 @@ maintitle: Solid Gold Sixty with Tom Browne
 subtitle: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the top 20)
 description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) enters the charts at number 30.
 post_description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) enters the charts at number 30.
-categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay10February]
+categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay10February, Year-1974]
 last_modified_at: 17 March 2024
 ---
 

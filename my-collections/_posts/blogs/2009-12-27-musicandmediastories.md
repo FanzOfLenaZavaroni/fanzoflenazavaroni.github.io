@@ -5,7 +5,7 @@ maintitle: Music And Media Stories
 subtitle: The Wrath of Solomon - Part 2 by John McCready
 description: The Wrath of Solomon by John McCready - Part 2
 post_description: The Wrath of Solomon by John McCready - Part 2
-categories: [Blogs, John-McCready, OnThisDay27December]
+categories: [Blogs, John-McCready, OnThisDay27December, Year-2009]
 last_modified_at: 10 December 2023
 ---
 

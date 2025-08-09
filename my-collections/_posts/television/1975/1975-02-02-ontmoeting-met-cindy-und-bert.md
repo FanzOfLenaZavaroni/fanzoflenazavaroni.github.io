@@ -6,7 +6,7 @@ subtitle: "English Title: Meeting with Cindy and Bert"
 after: " &#8212; Original Broadcast On GERMANY I - CHANNELS 9, 24 and 41<br />10 March 1976 &#8212; Repeat Broadcast  On GERMANY I - CHANNELS 9, 24 and First Time Broadcast 11, 46"
 description: "Guests: Donna Hightower, Lena Zavaroni, Freddy Breck and Anderen."
 post_description: "Guests: Donna Hightower, Lena Zavaroni, Freddy Breck and Anderen."
-categories: [German-TV, Meeting-with-Cindy-and-Bert, OnThisDay2February, OnThisDay10March]
+categories: [German-TV, Meeting-with-Cindy-and-Bert, OnThisDay2February, OnThisDay10March, Year-1975]
 last_modified_at: 29 January 2024
 ---
 

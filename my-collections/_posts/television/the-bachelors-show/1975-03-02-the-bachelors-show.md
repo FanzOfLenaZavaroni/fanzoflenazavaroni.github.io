@@ -7,7 +7,7 @@ description:  2 March 1975 - with The Bachelors, The Vernons and Lena Zavaroni.
 media: Epiosde 3
 post_description: with The Bachelors, The Vernons and Lena Zavaroni.
 image: /assets/images/BBC/The-Bachelors-Show-03.jpg
-categories: [BBC-Two, OnThisDay2March]
+categories: [BBC-Two, OnThisDay2March, Year-1975]
 ---
 
 <figure class="fig1">

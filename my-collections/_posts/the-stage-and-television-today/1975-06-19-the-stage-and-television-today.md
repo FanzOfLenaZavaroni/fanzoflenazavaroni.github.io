@@ -5,7 +5,7 @@ maintitle: The Stage and Television Today
 subtitle: STARS FOR SOUTH COAST SUNDAYS
 description: KIMBRELL-STEPHAM Associates are again presenting a line-up of Sunday stars this summer at the Congress, Eastbourne and the Winter Gardens, Bournemouth.
 post_description: KIMBRELL-STEPHAM Associates are again presenting a line-up of Sunday stars this summer at the Congress, Eastbourne and the Winter Gardens, Bournemouth.
-categories: [The-Stage-and-Television-Today, OnThisDay19June]
+categories: [The-Stage-and-Television-Today, OnThisDay19June, Year-1975]
 ---
 
 <figure class="fig3">

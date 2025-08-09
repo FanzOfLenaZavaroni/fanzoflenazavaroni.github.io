@@ -7,7 +7,7 @@ description: Recorded on 25 March 1976 and broadcast on 9 April 1976
 media: London Weekend Television (LWT)
 post_description: Recorded on 25 March 1976 and broadcast on 9 April 1976
 image: https://img.youtube.com/vi/DgDqWWRSVoo/hqdefault.jpg
-categories: [London-Weekend-Television, OnThisDay25March, OnThisDay9April]
+categories: [London-Weekend-Television, OnThisDay25March, OnThisDay9April, Year-1976]
 last_modified_at: 22 November 2023
 ---
 
