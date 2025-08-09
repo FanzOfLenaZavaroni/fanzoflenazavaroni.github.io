@@ -5,8 +5,7 @@ title: HITS OF BBC AND ALASKA REC 1
 maintitle: HITS OF BBC AND ALASKA REC 1
 subtitle: Compilation Album
 description: We tried to choose songs that will be used not only in discos, but which you can also listen to at home.
-image: /assets/images/albums/1977-hits-of-bbc-and-alaska--rec-1-fc.jpg
-last_modified_at: 15 June 2023
+last_modified_at: 9 August 2025
 ---
 
 <figure class="fig3">
@@ -43,7 +42,7 @@ last_modified_at: 15 June 2023
 <tr><th>Label:</th><td>Polskie Nagrania Muza: SX 1485</td></tr>
 <tr><th>Formats:</th><td>12" Vinyl 33⅓ Album</td></tr>
 <tr><th>Country:</th><td>Poland</td></tr>
-<tr><th>Released:</th><td>1974</td></tr>
+<tr><th>Released:</th><td>1977</td></tr>
 </table>
 </figure>
 
