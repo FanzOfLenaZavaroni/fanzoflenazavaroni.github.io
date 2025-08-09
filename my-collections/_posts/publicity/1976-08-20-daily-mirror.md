@@ -6,7 +6,7 @@ subtitle: Publicity Photo
 description: The Daily Mirror took photographs of Lena at Rothesay Acadamy, she only lasted one term as a group of pupils were nasty to her, doing things like spitting on her cutlery.
 post_description: The Daily Mirror took photographs of Lena at Rothesay Acadamy, she only lasted one term as a group of pupils were nasty to her, doing things like spitting on her cutlery.
 image: /assets/images/publicity/1976-08-20-lena-at-rothesay-acadamy.jpg 
-categories: [Newspaper-Mirror, OnThisDay20August]
+categories: [Newspaper-Mirror, OnThisDay20August, Year-1976]
 ---
 
 <figure class="fig1">

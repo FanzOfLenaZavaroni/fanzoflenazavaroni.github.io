@@ -5,7 +5,7 @@ maintitle: The Odeon Theatre, Woolwich, London
 subtitle:  Staring Lena Zavaroni with Eddie Idriss, Terry Herbert and The James Boys
 description: Staring Lena Zavaroni with Eddie Idriss, Terry Herbert and The James Boys.
 post_description: Staring Lena Zavaroni with Eddie Idriss, Terry Herbert and The James Boys.
-categories: [Theatres, The-Lena-Zavaroni-Show, OnThisDay24June]
+categories: [Theatres, The-Lena-Zavaroni-Show, OnThisDay24June, Year-1978]
 last_modified_at: 19 June 2025
 ---
 

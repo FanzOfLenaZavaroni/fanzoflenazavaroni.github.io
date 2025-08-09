@@ -5,7 +5,7 @@ maintitle: The Stage and Television Today
 subtitle: Short article about stars topping the bill at the Blackpool Opera House for its current season.
 description: Short article about stars topping the bill at the Blackpool Opera House for its current season.
 post_description: Short article about stars topping the bill at the Blackpool Opera House for its current season.
-categories: [The-Stage-and-Television-Today, OnThisDay3July]
+categories: [The-Stage-and-Television-Today, OnThisDay3July, Year-1975]
 last_modified_at: 3 July 2025
 ---
 

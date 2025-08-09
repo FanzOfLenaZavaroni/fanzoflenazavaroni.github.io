@@ -6,7 +6,7 @@ subtitle: Magazine
 description: 
 media: The magazine
 post_description: Page 23 - Spotlight On Scotland, Page 26 - Can the Connolly phenomenon be repeated?
-categories: [Magazines, Music-Week, OnThisDay19July]
+categories: [Magazines, Music-Week, OnThisDay19July, Year-1975]
 last_modified_at: 1 January 2024
 ---
 

@@ -5,7 +5,7 @@ maintitle: Lena Zavaroni At The King’s Theatre
 subtitle: Glasgow
 description: Starring Lena Zavaroni
 post_description: Summer Bank Holiday In Scotland.
-categories: [Theatre-King’s-Theatre, OnThisDay1August]
+categories: [Theatre-King’s-Theatre, OnThisDay1August, Year-1977]
 ---
 
 <figure class="fig3">

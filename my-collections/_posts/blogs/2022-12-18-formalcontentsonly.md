@@ -5,7 +5,7 @@ maintitle: Formal Contents Only
 subtitle: Dolly Mixture & The Link Between The Sex Pistols & Lena Zavaroni
 description: Dolly Mixture & The Link Between The Sex Pistols & Lena Zavaroni.
 post_description: Dolly Mixture & The Link Between The Sex Pistols & Lena Zavaroni.
-categories: [Blogs, David-Goodman, OnThisDay18December]
+categories: [Blogs, David-Goodman, OnThisDay18December, Year-2022]
 last_modified_at: 1 December 2023
 ---
 

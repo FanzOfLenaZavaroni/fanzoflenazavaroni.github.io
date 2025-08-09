@@ -5,7 +5,7 @@ maintitle: Record and Radio Mirror
 subtitle: Magazine
 description: LENA ZAVARONL Opportunity Knocks. has struck again for here's this bubbly blonde-haired twice winner with new single on Phillips titled Ma, He's' Making eyes At Me, the old hit for Emile And The Checkmates. Lena is ten years old but packs plenty of self-assurance.
 post_description: LENA ZAVARONL Opportunity Knocks. has struck again for here's this bubbly blonde-haired twice winner with new single on Phillips titled Ma, He's' Making eyes At Me, the old hit for Emile And The Checkmates. Lena is ten years old but packs plenty of self-assurance.
-categories: [Magazines, Record-and-Radio-Mirror, OnThisDay26January]
+categories: [Magazines, Record-and-Radio-Mirror, OnThisDay26January, Year-1974]
 last_modified_at: 26 January 2024
 ---
 

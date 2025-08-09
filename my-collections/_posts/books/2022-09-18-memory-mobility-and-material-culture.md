@@ -8,7 +8,7 @@ description: With a focus on the object and where it is situated, in time (memor
 media: Book
 post_description: With a focus on the object and where it is situated, in time (memory) and space (mobility), Memory, Mobility, and Material Culture embodies a multidisciplinary and cross-disciplinary approach.
 image: /assets/images/books/2022-11-18-memory-mobility-and-material-culture.jpg
-categories: [Books, OnThisDay18November]
+categories: [Books, OnThisDay18November, Year-2022]
 ---
 
 <figure class="fig1">

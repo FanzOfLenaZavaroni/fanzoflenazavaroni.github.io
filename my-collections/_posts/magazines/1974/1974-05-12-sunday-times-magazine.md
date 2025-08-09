@@ -8,7 +8,7 @@ description: Published a profile of Lena Zavaroni.
 media: Published
 post_description: A profile of Lena Zavaroni.
 image: /assets/images/magazines/the-sunday-times-magazine-12-may-1974-cover.jpg
-categories: [Supplement, Sunday-Times-Magazine, OnThisDay12May]
+categories: [Supplement, Sunday-Times-Magazine, OnThisDay12May, Year-1974]
 ---
 
 

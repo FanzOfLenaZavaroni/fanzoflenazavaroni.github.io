@@ -6,7 +6,7 @@ subtitle: Italian TV & Radio Listings Magazine
 description: In its listings for Wednesday 8 January at 7pm is the programme &quot;AT SEVEN IN THE EVENING&quot; its film of the evening was about Lena Zavaroni.
 post_description: In its listings for Wednesday 8 January at 7pm is the programme &quot;AT SEVEN IN THE EVENING&quot; its film of the evening was about Lena Zavaroni.
 image: /assets/images/magazines/1975-01-04-radiocorriere-fc.png
-categories: [TV-&-Radio-Listings-Magazines, Radiocorriere, OnThisDay4January]
+categories: [TV-&-Radio-Listings-Magazines, Radiocorriere, OnThisDay4January, Year-1975]
 last_modified_at: 8 January 2024
 ---
 

@@ -8,7 +8,7 @@ description: Charlie Williams has a short chat with Lena Zavaroni and she prefor
 media: Associated Television
 post_description: Charlie Williams has a short chat with Lena Zavaroni and she preforms Swinging On A Star.
 image: /assets/images/ITV/The-Golden-Shot.png
-categories: [Associated-Television-(ATV), OnThisDay31March]
+categories: [Associated-Television-(ATV), OnThisDay31March, Year-1974, Year-1974, Year-1974]
 ---
 
 <figure class="fig1">

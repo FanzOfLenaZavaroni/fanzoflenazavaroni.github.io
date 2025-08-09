@@ -5,7 +5,7 @@ maintitle: Alle Sette Della Sera
 subtitle: "Broadcaster: Secondo Programma, Now known as Rai 2"
 description: One of the three sections of the programme showed a film dedicated to the very young singer Lena Zavaroni.
 post_description: One of the three sections of the programme showed a film dedicated to the very young singer Lena Zavaroni.
-categories: [Secondo Programma, Alle-Sette-Della-Sera, At-Seven-In-The-Evening, OnThisDay8January]
+categories: [Secondo Programma, Alle-Sette-Della-Sera, At-Seven-In-The-Evening, OnThisDay8January, Year-1975]
 last_modified_at: 8 January 2024
 ---
 

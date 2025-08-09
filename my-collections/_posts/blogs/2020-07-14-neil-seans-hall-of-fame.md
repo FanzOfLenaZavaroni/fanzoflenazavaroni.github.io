@@ -6,7 +6,7 @@ subtitle: Neil Sean takes a nostalgic look at the Famous Windmill Theatre and in
 after: " - 17 October 2020 At some time between those two dates the article that references Lena was added to the Blog"
 description: The Sky television programme Jameson Tonight was produced in the studio. The show was very cheaply made and basically was trying to be like Johnny Carson in the US without the great host or indeed guests. The most notable I remembered as a guest was the wonderful and gifted Lena Zavaroni plus a great actor who will always been known as the TV favourite 'Jason King' aka Peter Wyngarde.
 post_description: Neil Sean takes a nostalgic look at the Famous Windmill Theatre and interviews Windmill Girl Jill Millard Shapiro
-categories: [Blogs, OnThisDay14July, OnThisDay17October]
+categories: [Blogs, OnThisDay14July, OnThisDay17October, Year-2020]
 last_modified_at: 12 July 2025
 ---
 

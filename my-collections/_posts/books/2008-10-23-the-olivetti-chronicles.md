@@ -7,7 +7,7 @@ description: A brief reference is made to Lena Zavaroni.
 media: Book
 post_description: A brief reference is made to Lena Zavaroni.
 image: /assets/images/books/2008-10-23-the-olivetti-chronicles.jpeg
-categories: [Books, OnThisDay23October]
+categories: [Books, OnThisDay23October, Year-2008]
 ---
 
 <table class="striped">

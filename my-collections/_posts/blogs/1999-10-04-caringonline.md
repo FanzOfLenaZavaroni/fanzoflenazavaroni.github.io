@@ -6,7 +6,7 @@ subtitle: Eating Disorders
 description: Zavaroni Operation Was Not A New Technique.
 media: Online Website
 post_description: Zavaroni Operation Was Not A New Technique.
-categories: [Deleted-Online-Articles, OnThisDay4October]
+categories: [Deleted-Online-Articles, OnThisDay4October, Year-1999]
 ---
 
 ### **NOTE:** The Article is no longer available via the Caring Online Website, which is why I have published it in full below:

@@ -5,12 +5,17 @@ maintitle: Lena Zavaroni at The Festival Theatre
 subtitle: Paignton
 description: Lena Zavaroni at The Festival Theatre, Paignton.
 post_description: Details Currently Unknown.
-image: /assets/images/locations/1975-08-10-the-lena-zavaroni-show.jpg
-categories: [Theatres, Festival-Theatre, Paignton, OnThisDay10August]
-last_modified_at: 7 August 2024
+categories: [Theatre-Festival-Theatre, Paignton, OnThisDay10August, Year-1975]
+last_modified_at: 7 August 2025
 ---
 
-[![The Festival Theatre, Paignton](/assets/images/locations/1975-08-10-the-lena-zavaroni-show.jpg)](http://cinematreasures.org/theaters/25234/photos/54169)
-
-<cite>The Festival Theatre, Paignton, copyright [LenGazzard](http://cinematreasures.org/members/lengazzard/photos) 17 July 1997, usage: [Creative Commons (Attribution)](http://cinematreasures.org/licenses/2).</cite>
-
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Festival Theatre</a></h2>
+<div class="CardItem split">
+<a href="http://cinematreasures.org/theaters/25234/photos/54169"><img src="/assets/images/locations/1975-08-10-the-lena-zavaroni-show.jpg" class="full-width" /></a>
+<p></p>
+<cite><a class="external-link" href="http://cinematreasures.org/theaters/25234/photos/54169">The Festival Theatre, Paignton</a>, © <a class="external-link" href="http://cinematreasures.org/members/lengazzard/photos">LenGazzard</a> 17 July 1997, usage: <a class="external-link" href="http://cinematreasures.org/licenses/2">Creative Commons (Attribution)</a>.</cite>
+</div></div></div>
+</figure>

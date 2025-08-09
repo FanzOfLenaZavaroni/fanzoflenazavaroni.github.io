@@ -7,7 +7,7 @@ description: Maurice Dale of the Lena Zavaroni fan club, took photographs of Len
 media: Publicity Photos
 post_description: Maurice Dale of the Lena Zavaroni fan club, took photographs of Lena at the home of the Grudko's.
 image: /assets/images/maurice-dale/maurice-dale-01.png
-categories: [Publicity, OnThisDay9November]
+categories: [Publicity, OnThisDay9November, Year-1978]
 ---
 
 {{ page.description }}

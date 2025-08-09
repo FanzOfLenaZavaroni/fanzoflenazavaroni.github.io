@@ -7,7 +7,7 @@ description: The Princess Theatre, Torquay starring Lena Zavaroni.
 media: Starring
 post_description: Lena Zavaroni.
 image: /assets/images/locations/geograph-4489556-by-Jaggery.jpg
-categories: [Theatres, The-Princess-Theatre, OnThisDay25July]
+categories: [Theatres, The-Princess-Theatre, OnThisDay25July, Year-1976]
 last_modified_at: 20 July 2023
 ---
 

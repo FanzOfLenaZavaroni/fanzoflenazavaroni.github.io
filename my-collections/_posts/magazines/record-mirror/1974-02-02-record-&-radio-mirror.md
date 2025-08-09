@@ -5,7 +5,7 @@ maintitle: Record and Radio Mirror
 subtitle: Magazine
 description: "LENA ZAVARONI: Ma! (He's Making Eyes At Me) (Philips. 6006 3671). Ten-year-old girl who is a regular winner on Opportunity Knocks."
 post_description: "LENA ZAVARONI: Ma! (He's Making Eyes At Me) (Philips. 6006 3671). Ten-year-old girl who is a regular winner on Opportunity Knocks."
-categories: [Magazines, Record-and-Radio-Mirror, OnThisDay2February]
+categories: [Magazines, Record-and-Radio-Mirror, OnThisDay2February, Year-1974]
 last_modified_at: 29 January 2024
 ---
 

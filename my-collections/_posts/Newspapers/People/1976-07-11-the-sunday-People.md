@@ -5,7 +5,7 @@ maintitle: Sunday People
 subtitle: It’s Lena Zavaroni – finding a friend
 description: A 1976 article from the Sunday People explores Lena Zavaroni’s return to school life and her hopes for friendship and normality.
 post_description: Lena Zavaroni returns to school to pursue O-levels and ballet, hoping to leave loneliness behind.
-categories: [Newspaper-People, OnThisDay11July]
+categories: [Newspaper-People, OnThisDay11July, Year-1976]
 last_modified_at: 11 July 2025
 ---
 

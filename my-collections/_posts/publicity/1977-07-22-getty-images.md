@@ -7,7 +7,7 @@ description: Scottish singer Lena Zavaroni (1963-1999) posed in London on 22nd J
 media: Photos
 post_description: Scottish singer Lena Zavaroni (1963-1999) posed in London on 22nd July 1977. (Photo by United News/Popperfoto via Getty Images). As always the stock photos have no details of any value, It's so disappointing that the stories behind the photos are lost because for some unknown Reason the media agencies seem to think the stories are unimportant.
 image: /assets/images/gettyimages/gettyimages-527887935-594x594.jpg
-categories: [Publicity, United-News, OnThisDay22July]
+categories: [Publicity, United-News, OnThisDay22July, Year-1977]
 ---
 
 <figure class="fig1">

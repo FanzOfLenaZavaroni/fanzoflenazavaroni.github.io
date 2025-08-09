@@ -7,7 +7,7 @@ description: Contained a feature on the Italia Conti stage school end of term pr
 media: Feature on the Italia Conti stage school end of term production
 post_description: Contained a feature on the Italia Conti stage school end of term production. It also featured a photo of Lena Zavaroni and Bonnie Langford, onstage with the rest of the cast.
 image: /assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-front-cover.png
-categories: [The-Stage-and-Television-Today, Bonnie-Langford, OnThisDay6April]
+categories: [The-Stage-and-Television-Today, Bonnie-Langford, OnThisDay6April, Year-1978]
 ---
 
 <figure class="fig1">

@@ -6,7 +6,7 @@ subtitle: Glasgow Apollo
 description: Lena Zavaroni stars in her own show at the Glasgow Apollo.
 media: Details
 post_description: Lena Zavaroni stars in her own show at the Glasgow Apollo.
-categories: [Theatres, Glasgow-Apollo, OnThisDay21October]
+categories: [Theatres, Glasgow-Apollo, OnThisDay21October, Year-1975]
 ---
 
 <table>

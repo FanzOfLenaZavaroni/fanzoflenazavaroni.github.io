@@ -6,7 +6,7 @@ subtitle: Lena Zavaroni's Thirteenth Single
 description: This is the thirteenth single by Lena Zavaroni.
 post_description: This is the thirteenth single by Lena Zavaroni.
 image: /assets/images/singles/
-categories: [Discography-Singles, OnThisDay11June]
+categories: [Discography-Singles, OnThisDay11June, Year-1982]
 permalink: /discography/singles/:name
 ---
 

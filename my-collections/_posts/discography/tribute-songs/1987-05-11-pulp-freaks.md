@@ -6,7 +6,7 @@ subtitle: "Related track: Anorexic Beauty"
 description: Pulp's album Freaks was released they dedicated Track No 7 - Anorexic Beauty to Lena Zavaroni.
 post_description: Pulp's album Freaks was released they dedicated Track No 7 - Anorexic Beauty to Lena Zavaroni.
 image: /assets/images/albums/1987-05-11-pulp-freaks-01.jpg
-categories: [Discography-Tribute Songs, OnThisDay11May]
+categories: [Discography-Tribute Songs, OnThisDay11May, Year-1987]
 permalink: /discography/tribute-songs/:name
 ---
 

@@ -310,7 +310,7 @@ I've got to wear all these silly costumes and try and get into them and be with 
 <p>On the 7 September 1999 Lena Zavaroni underwent Neurosurgery for Mental Disorder (NMD) (aka Psychosurgery) the type she was treated with was Anterior Capsulotomy which is one of the 4 types of stereotactic psychosurgery available.</p>
 <p>The University Hospital of Wales Cardiff allowed this surgery even though Lena Zavaroni was seriously weakened by her anorexia.
 In the first days after the operation she appeared to slowly recover and seemed less unhappy; she even asked a doctor if it would be possible to resume her career.</p>
-<p>But she would never leave the hospital. Within three weeks, on 1 October 1999 she died from a Pneumonia  infection.</p>
+<p>But she would never leave the hospital. Within three weeks, on <strong id="infoxbox28">1 October 1999 she died from a Pneumonia  infection</strong>.</p>
 <p>She was just 35. At the time of her death she weighed only five stone (70 lb, 32 kg).</p>
 </div></div></div>
 </figure>
@@ -318,7 +318,7 @@ In the first days after the operation she appeared to slowly recover and seemed 
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox28" class="infobox"><a href="#infobox28">Neurosurgery for Mental Disorder (NMD)</a></h2>
+<h2 id="infobox29" class="infobox"><a href="#infobox29">Neurosurgery for Mental Disorder (NMD)</a></h2>
 <div class="CardItem split">
 <blockquote>
 <p>Surgeons at the University Hospital of Wales Cardiff have conducted 56 NMD operations in the past decade. It was there that the former child singing star Lena Zavaroni, who suffered from anorexia, underwent such surgery in 1999 for severe depression. Though the operation seemed to have been a success, she died of Pneumonia less than a month later. According to Brian Simpson, consultant neurosurgeon atiff, the operations his team have conducted have led to a "marked improvement" in roughly half of those being treated for severe depression and OCD. "NMD is not a panacea," Simpson agrees. "It is carefully regulated and only offered to patients for whom all other treatments have failed But in the patients for whom it works well, whose suffering has been indescribable, it transforms their lives."</p>
@@ -330,7 +330,7 @@ In the first days after the operation she appeared to slowly recover and seemed 
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox29" class="infobox"><a href="#infobox29">Neurosurgery for Mental Disorder (Modern stereotactic psychosurgery)</a></h2>
+<h2 id="infobox30" class="infobox"><a href="#infobox30">Neurosurgery for Mental Disorder (Modern stereotactic psychosurgery)</a></h2>
 <div class="CardItem split">
 <p>Has four types of procedures:</p>
 <ul>
@@ -345,7 +345,7 @@ In the first days after the operation she appeared to slowly recover and seemed 
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox30" class="infobox"><a href="#infobox30">Anterior Capsulotomy</a></h2>
+<h2 id="infobox31" class="infobox"><a href="#infobox31">Anterior Capsulotomy</a></h2>
 <div class="CardItem split">
 <a href="https://prezi.com/embed/pbdgaesym8bb" title="Sorry! I have replaced embed content with link due to music continuously playing in the background."><img src="/assets/images/anterior-capsulotomy.png" class="full-width" /></a>
 <cite>Sorry! I have replaced embed content with link due to music continuously playing in the background.</cite>
@@ -355,7 +355,7 @@ In the first days after the operation she appeared to slowly recover and seemed 
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox31" class="infobox"><a href="#infobox31">The Mental Health Act 1983 - England and Wales</a></h2>
+<h2 id="infobox32" class="infobox"><a href="#infobox32">The Mental Health Act 1983 - England and Wales</a></h2>
 <div class="CardItem split">
 <blockquote>
 <p>Neurosurgery for Mental Disorder is covered by section 57 of the Mental Health Act 1983, which covers all patients, whether voluntary or detained under another section of the Act (sectioned). Under section 57, neurosurgery can be given only if all three of the following requirements are met:</p>
@@ -372,7 +372,7 @@ In the first days after the operation she appeared to slowly recover and seemed 
 <cite><a class="external-link" href="https://www.mind.org.uk/information-support/drugs-and-treatments/neurosurgery-for-mental-disorder-nmd/consent-to-nmd#TheLawInEnglandAndWales">Consent to NMD | Mind, the mental health charity</a></cite>
 </div>
 <div class="CardItem">
-<h3 id="infobox32" class="infobox"><a href="#infobox32">Comment</a></h3>
+<h3 id="infobox3" class="infobox"><a href="#infobox33">Comment</a></h3>
 <blockquote>
 <p>This section of the Mental Health Act seems flawed How can an individual with severe mental heath problems make an informed chose if they are capable of making such a chose then I would argue that they don't need the surgical procedure.</p>
 <p>Lena informing those treating her that she would kill herself if she does not get the NMD is not consect but is as they believed her threat grounds for Lena being Sectioned.</p>
@@ -384,7 +384,7 @@ In the first days after the operation she appeared to slowly recover and seemed 
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox33" class="infobox"><a href="#infobox33">Campaign For Truth</a></h2>
+<h2 id="infobox34" class="infobox"><a href="#infobox34">Campaign For Truth</a></h2>
 <div class="CardItem split">
 <blockquote>
 The famous British child star had been struggling with anorexia for 22 years. In September 1999, after years of psychotherapy, anti-depressants and electroshock treatment had failed, she was admitted to the University Hospital of Wales atiff for a lobotomy. In spite of warnings that the discredited operation could destroy her intellect, erase parts of her memory and change her character, Lena and her family persuaded themselves that it was for the best. After all, Britain&#8217;s most skilled &#8216;brain surgeons&#8217; would be presiding. Bob Burrows, a spokesman for the hospital, pointed out to the London Times that the operation was performed using the latest cutting-edge technology:
@@ -398,7 +398,7 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox34" class="infobox"><a href="#infobox34">Bronchopneumonia</a></h2>
+<h2 id="infobox35" class="infobox"><a href="#infobox35">Bronchopneumonia</a></h2>
 <div class="CardItem split">
 <ul>
 <li> ——: There are many different types of bacteria and viruses that can lead to Pneumonia.</li>
@@ -421,7 +421,7 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox35" class="infobox"><a href="#infobox35">Death</a></h2>
+<h2 id="infobox36" class="infobox"><a href="#infobox36">Death</a></h2>
 <div class="CardItem split">
 <p>Prior to her death Lena was admitted to University Hospital of Wales Cardiff for a psychosurgical operation that was described as "pioneering" and "keyhole surgery to partially interrupt the nerve pathways that control emotions".</p>
 <p>The operation took place on 7 September 1999. After the operation she contracted Pneumonia and her weight drop to less than five stone (70 lb, 32 kg), just three weeks later she was dead.</p>
@@ -437,7 +437,7 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox36" class="infobox"><a href="#infobox36">Lena Zavaroni's Funeral</a></h2>
+<h2 id="infobox37" class="infobox"><a href="#infobox37">Lena Zavaroni's Funeral</a></h2>
 <div class="CardItem split">
 <p>The service took place at The <a class="external-link" href="https://hertfordshirechurches.wordpress.com/2013/04/21/st-augustine-hoddesdon-roman-catholic">Roman Catholic Church of St Augustine</a>, Presbytery, High Street, Hoddesdon, Herts, EN11&nbsp;8DS on Friday, 15 October 1999.</p>
 <figure class="fig1">
@@ -454,7 +454,7 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox37" class="infobox"><a href="#infobox37">Lena Zavaroni's Grave</a></h2>
+<h2 id="infobox38" class="infobox"><a href="#infobox38">Lena Zavaroni's Grave</a></h2>
 <div class="CardItem split">
 <figure class="fig1">
 <a href="/assets/images/locations/Lena_Zavaroni_grave_Hoddesdon.jpg"><img src="/assets/images/locations/Lena_Zavaroni_grave_Hoddesdon.jpg" class="full-width zoom-in"></a>
@@ -470,7 +470,7 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox38" class="infobox"><a href="#infobox38">Zavaroni Operation Was Not A New Technique</a></h2>
+<h2 id="infobox39" class="infobox"><a href="#infobox39">Zavaroni Operation Was Not A New Technique</a></h2>
 <div class="CardItem split">
 <blockquote>
 <p>The hospital where tragic former childhood star Lena Zavaroni died following brain surgery has rejected claims she had undergone pioneering treatment.</p>
@@ -483,7 +483,7 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox39" class="infobox"><a href="#infobox39">All we can say is there is a lot of unknowns</a></h2>
+<h2 id="infobox40" class="infobox"><a href="#infobox40">All we can say is there is a lot of unknowns</a></h2>
 <div class="CardItem split">
 <blockquote>
 <ul>
@@ -505,7 +505,7 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox40" class="infobox"><a href="#infobox40">Inquest</a></h2>
+<h2 id="infobox41" class="infobox"><a href="#infobox41">Inquest</a></h2>
 <div class="CardItem split">
 <p><strong>A judicial inquiry to ascertain the facts relating to an incident, such as a death</strong></p>
 <video src="/assets/media/LENA-ZAVARONI-INQUEST-DUE-TO-END-Archive-Footage-ITN-Source-BSP081299009-0.mp4" width="100%"  poster="/assets/images/thumbnails/LENA-ZAVARONI-INQUEST-DUE-TO-END-Archive-Footage-ITN-Source-BSP081299009-0.png" controls="" controlsList="nodownload"></video>
@@ -522,7 +522,7 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox41" class="infobox"><a href="#infobox41">List Of The So Called Natural Causes</a></h2>
+<h2 id="infobox42" class="infobox"><a href="#infobox42">List Of The So Called Natural Causes</a></h2>
 <div class="CardItem split">
 <blockquote>
 <ul>

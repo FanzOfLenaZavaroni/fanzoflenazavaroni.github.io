@@ -5,7 +5,7 @@ maintitle: Charity All Star Variety Show
 subtitle: Theatre Royal, Drury Lane, London
 description: Theatre Royal, Drury Lane, London. Starring Lena Zavaroni
 post_description: Show held to mark "International Year of the Child", and to raise money for several charities.
-categories: [Theatres, Theatre-Royal, Drury-Lane, Fundraising, OnThisDay25February]
+categories: [Theatres, Theatre-Royal, Drury-Lane, Fundraising, OnThisDay25February, Year-1979]
 ---
 
 Show held to mark &quot;International Year of the Child&quot;, and to raise money for several charities.
@@ -22,4 +22,3 @@ Songs performed by Lena included &quot;It's Not The Spotlight&quot;, Tomorrow&qu
 <tr><th>Magician</th><td>Russ Stevens</td></tr>
 <tr><th>Finnish Star</th><td>Seija Simola</td></tr>
 </table>
-

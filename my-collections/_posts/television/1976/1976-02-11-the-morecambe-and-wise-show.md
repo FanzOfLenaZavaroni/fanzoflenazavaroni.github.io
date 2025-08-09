@@ -7,7 +7,7 @@ subtitle: Episode 9.3
 description: Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of These Days, before performing a song and dance version of Something Bout You Baby I Like with the duo.
 post_description: Lena appears in a comedy sketch with Eric and Ernie. She then performs Some Of These Days, before performing a song and dance version of Something Bout You Baby I Like with the duo.
 image: /assets/images/BBC-PIDs\p0417db6 - 768x432.jpg
-categories: [BBC-One, BBC-Two, Morecambe-And-Wise, OnThisDay11February, OnThisDay25October]
+categories: [BBC-One, BBC-Two, Morecambe-And-Wise, OnThisDay11February, OnThisDay25October, Year-1976]
 last_modified_at: 11 February 2024
 ---
 

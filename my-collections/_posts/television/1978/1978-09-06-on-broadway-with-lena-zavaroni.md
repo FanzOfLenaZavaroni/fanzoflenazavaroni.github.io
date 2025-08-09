@@ -7,7 +7,7 @@ description: The show was chosen for the 1978 Golden Sea Swallow Festival in Kno
 media: Details
 post_description: The show was chosen for the 1978 Golden Sea Swallow Festival in Knokke, Belgium, where it won the silver award.
 image: /assets/images/BBC/1978-09-06-on-broadway-with-lena-zavaroni-01.png
-categories: [BBC-One, Dougie-Squires, OnThisDay6September]
+categories: [BBC-One, Dougie-Squires, OnThisDay6September, Year-1978]
 ---
 
 <figure class="fig3">

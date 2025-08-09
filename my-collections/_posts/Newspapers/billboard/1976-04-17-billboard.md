@@ -5,7 +5,7 @@ maintitle: Billboard
 subtitle: Newspaper
 description:  BBC label Beeb is promoting the new Lena Zavaroni single on four major commercial stations.
 post_description: BBC label Beeb is promoting the new Lena Zavaroni single on four major commercial stations.
-categories: [Newspaper-Billboard, OnThisDay17April]
+categories: [Newspaper-Billboard, OnThisDay17April, Year-1976]
 image: 
 last_modified_at: 13 April 2024
 ---

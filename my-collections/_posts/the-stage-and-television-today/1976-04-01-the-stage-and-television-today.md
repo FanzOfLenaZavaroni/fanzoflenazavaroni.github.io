@@ -7,7 +7,7 @@ description: List of singles and albums released during previous month.
 media: Discs on Release
 post_description: List of singles and albums released during previous month.
 image: /assets/images/the-stage-and-television-today/1976-04-01-the-stage-and-television-today-front-cover.png
-categories: [The-Stage-and-Television-Today, OnThisDay1April]
+categories: [The-Stage-and-Television-Today, OnThisDay1April, Year-1976]
 ---
 
 <figure class="fig1">

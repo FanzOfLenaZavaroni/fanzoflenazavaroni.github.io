@@ -5,7 +5,7 @@ maintitle: pink & tina
 subtitle: The Magazine carried a short article about Lena Zavaroni.
 description: There was a short article about Lena  Zavaroni in the magazine.
 post_description: carried a short article about Lena Zavaroni.
-categories: [Magazines-pink-&-tina, OnThisDay29June]
+categories: [Magazines-pink-&-tina, OnThisDay29June, Year-1974]
 last_modified_at: 29 June 2025
 ---
 

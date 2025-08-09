@@ -6,7 +6,7 @@ subtitle: London
 description: Reports of Lena Zavaroni’s death, described as one of natural causes, is littered with failures and nebulous explanations about the treatment she received during the years leading up to her death. Many give mere justifications why the treatments did not work and emphasise the “huge problems faced in attempting to treat her illness.”
 media: Online Article
 post_description: Reports of Lena Zavaroni’s death, described as one of natural causes, is littered with failures and nebulous explanations about the treatment she received during the years leading up to her death. Many give mere justifications why the treatments did not work and emphasise the “huge problems faced in attempting to treat her illness.”
-categories: [Deleted-Online-Articles, OnThisDay5October]
+categories: [Deleted-Online-Articles, OnThisDay5October, Year-2011]
 ---
 
 ### **NOTE:** The Article is no longer available via the CCHR Website, which is why I have published it in full below:

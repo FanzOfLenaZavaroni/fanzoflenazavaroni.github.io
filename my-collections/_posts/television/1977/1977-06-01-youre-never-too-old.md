@@ -7,7 +7,7 @@ description: Lena celebrates her birthday as a pensioner in a comedy sketch.
 media: ATV
 post_description: Lena celebrates her birthday as a pensioner in a comedy sketch.
 image: /assets/images/ITV/youre-never-too-old.jpg
-categories: [Associated-Television-(ATV), OnThisDay1June]
+categories: [Associated-Television-(ATV), OnThisDay1June, Year-1977]
 ---
 
 <figure class="fig3">

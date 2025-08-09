@@ -8,7 +8,7 @@ subtitle: Season 8, Episode 7
 description: Lena Zavaroni was one of the guest on the show.
 post_description: Lena Zavaroni was one of the guest on the show.
 image: /assets/images/US-TV/1974-11-02-the-carol-burnett-show.jpg
-categories: [US-Television, OnThisDay2November, OnThisDay21April]
+categories: [US-Television, OnThisDay2November, OnThisDay21April, Year-1974, Year-1974, Year-1974]
 ---
 
 <figure class="fig1">

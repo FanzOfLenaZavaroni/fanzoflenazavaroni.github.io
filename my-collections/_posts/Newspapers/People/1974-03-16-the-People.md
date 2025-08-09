@@ -5,7 +5,7 @@ maintitle: The People
 subtitle: Pick of the Day
 description: Lena has 'divi' for Vernons
 post_description: Lena has 'divi' for Vernons
-categories: [Newspaper-People, OnThisDay16March]
+categories: [Newspaper-People, OnThisDay16March, Year-1974]
 last_modified_at: 15 June 2023
 ---
 

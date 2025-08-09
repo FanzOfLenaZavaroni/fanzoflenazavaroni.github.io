@@ -8,7 +8,7 @@ description: The magazine carried a full page advertisement for Lena's debut sin
 media: The magazine
 post_description: Carried a full page advertisement for Lena's debut single Ma! (He's Making Eyes At Me).
 image: /assets/images/magazines/1974-01-26-music-week-01.jpg
-categories: [Magazines, Music-Week, OnThisDay26January]
+categories: [Magazines, Music-Week, OnThisDay26January, Year-1974]
 ---
 
 The magazine carried a full page advertisement for Lena's debut single <a href="/discography/singles/1974-01-25-ma-hes-making-eyes-at-me-uk">Ma! (He's Making Eyes At Me)

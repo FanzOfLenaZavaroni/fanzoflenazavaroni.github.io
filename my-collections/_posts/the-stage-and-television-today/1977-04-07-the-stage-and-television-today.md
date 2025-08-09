@@ -7,7 +7,7 @@ description: The Royal Variety Show at the Kings Theatre, Glasgow has changes to
 media: Royal Variety Change
 post_description: The Royal Variety Show at the Kings Theatre, Glasgow has changes to it's line up but Lena Zavaroni is confirmed to be in the show.
 image: /assets/images/the-stage-and-television-today/1977-04-07-the-stage-and-television-today-front-cover.png
-categories: [The-Stage-and-Television-Today, OnThisDay7April]
+categories: [The-Stage-and-Television-Today, OnThisDay7April, Year-1977]
 ---
 
 <figure class="fig1">

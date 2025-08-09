@@ -7,7 +7,7 @@ description: Contained a double-page feature on two Royal charity fundraisers wh
 media: ROYAL OCCASIONS
 post_description: Contained a double-page feature on two Royal charity fundraisers which had been held the previous week. Lena had performed at one of them, held at Jollees in Stoke-on-Trent, and she was photographed shaking hands with Princess Margaret.
 image: /assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-front-cover.jpg
-categories: [The-Stage-and-Television-Today, OnThisDay20January]
+categories: [The-Stage-and-Television-Today, OnThisDay20January, Year-1977]
 ---
 
 <figure class="fig1">

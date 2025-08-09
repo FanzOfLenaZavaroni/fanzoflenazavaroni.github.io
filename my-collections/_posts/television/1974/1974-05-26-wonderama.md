@@ -8,7 +8,7 @@ description: Broadcast in United States on Channel 11 at 8am Lena Zavaroni made 
 media: US Television
 post_description: Broadcast in United States on Channel 11 at 8am Lena Zavaroni made a guest appearance on this episode singing Music, Music, Music.
 image: https://img.youtube.com/vi/akMucPDNjos/sddefault.jpg
-categories: [US-Television, OnThisDay26May]
+categories: [US-Television, OnThisDay26May, Year-1974, Year-1974, Year-1974]
 last_modified_at: 26 December 2023
 ---
 

@@ -7,7 +7,7 @@ description: Reported that Lena would be appearing at the Pavilion Theatre, Bour
 media: Theatre Section
 post_description: Reported that Lena would be appearing at the Pavilion Theatre, Bournemouth.
 image: /assets/images/the-stage-and-television-today/1975-03-20-the-stage-and-television-today-front-cover.png
-categories: [The-Stage-and-Television-Today, OnThisDay20March]
+categories: [The-Stage-and-Television-Today, OnThisDay20March, Year-1975]
 ---
 
 <figure class="fig1">

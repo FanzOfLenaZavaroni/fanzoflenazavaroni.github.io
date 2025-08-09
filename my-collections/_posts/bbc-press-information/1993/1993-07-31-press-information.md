@@ -5,7 +5,7 @@ maintitle: BBC Press Information
 subtitle: Detailed programme information for most BBC TV programmes in the 31st week of 1993 on BBC1 and BBC2.
 description: Detailed programme information for most BBC TV programmes in the 31st week of 1993 on BBC1 and BBC2.
 post_description: Detailed programme information for most BBC TV programmes in the 31st week of 1993 on BBC1 and BBC2.
-categories: [Magazines, BBC-Press-Information, OnThisDay31July]
+categories: [Magazines, BBC-Press-Information, OnThisDay31July, Year-1993]
 last_modified_at: 15 March 2024
 ---
 

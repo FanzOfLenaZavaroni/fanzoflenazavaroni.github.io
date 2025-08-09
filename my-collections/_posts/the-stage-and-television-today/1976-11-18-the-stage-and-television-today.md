@@ -7,7 +7,7 @@ description: It made reference to Lena Zavaroni on pages 4, 13, 21, 24, 26 & 27.
 media: Newspaper
 post_description: It made reference to Lena Zavaroni on pages 4, 13, 21, 24, 26 & 27.
 image: /assets/images/the-stage-and-television-today/1976-11-18-the-stage-and-television-today-01.jpg
-categories: [The-Stage-and-Television-Today, OnThisDay18November]
+categories: [The-Stage-and-Television-Today, OnThisDay18November, Year-1976]
 ---
 
 <figure class="fig1">

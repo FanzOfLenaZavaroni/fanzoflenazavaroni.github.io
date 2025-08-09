@@ -4,7 +4,7 @@ title: Important Notice About Images and Videos &#124; 2 May 2025
 maintitle: Important Notice About Images and Videos
 description: Due to copyright concerns, Fanz of Lena Zavaroni no longer adds images or videos to posts.
 post_description: Due to copyright concerns, Fanz of Lena Zavaroni no longer adds images or videos to posts.
-categories: [Announcements, OnThisDay2May]
+categories: [Announcements, OnThisDay2May, Year-2025]
 ---
 
 <figure class="fig3">

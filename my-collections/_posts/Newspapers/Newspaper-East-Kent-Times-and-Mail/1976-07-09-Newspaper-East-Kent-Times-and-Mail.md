@@ -5,7 +5,7 @@ maintitle: East Kent Times and Mail
 subtitle:
 description: The East Kent Times and Mail advertised Lena Zavaroni’s upcoming concert at the Winter Gardens, Margate.
 post_description: The East Kent Times and Mail advertised Lena Zavaroni’s upcoming concert at the Winter Gardens, Margate.
-categories: [Newspaper-East-Kent-Times-and-Mail, OnThisDay9July]
+categories: [Newspaper-East-Kent-Times-and-Mail, OnThisDay9July, Year-1976]
 ---
 
 <figure class="fig3">

@@ -8,7 +8,7 @@ description: Turns - Pete Price, The Dooley Family, Pat Mills, Tony Monoply, Rob
 media: London Weekend Television
 post_description: Turns - Pete Price, The Dooley Family, Pat Mills, Tony Monoply, Rob Murray and Lena Zavaroni
 image: /assets/images/ITV/26705332579.jpg
-categories: [Granada-Television, London-Weekend-Television, OnThisDay29May, OnThisDay12June]
+categories: [Granada-Television, London-Weekend-Television, OnThisDay29May, OnThisDay12June, Year-1976]
 last_modified_at: 23 December 2023
 ---
 

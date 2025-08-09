@@ -6,7 +6,7 @@ subtitle: Music Chart Television Programme
 description: Lena Zavaroni gets to preform on Top of the Pops for the first time.
 post_description: Lena Zavaroni gets to preform on Top of the Pops for the first time.
 image: http://img.youtube.com/vi/IHWfmYHK324/hqdefault.jpg
-categories: [BBC-One, TOTP, OnThisDay14February]
+categories: [BBC-One, TOTP, OnThisDay14February, Year-1974]
 last_modified_at: 11 January 2024
 ---
 

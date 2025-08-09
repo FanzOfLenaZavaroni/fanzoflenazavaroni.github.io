@@ -5,7 +5,7 @@ maintitle: You're Breaking My Heart
 subtitle: Lena Zavaroni's Fouth Single
 description: This is the Fouth single by Lena Zavaroni.
 post_description: This is the Fouth single by Lena Zavaroni.
-categories: [Discography-Singles, OnThisDay28February]
+categories: [Discography-Singles, OnThisDay28February, Year-1975]
 permalink: /discography/singles/:name
 last_modified_at: 27 February 2024
 ---

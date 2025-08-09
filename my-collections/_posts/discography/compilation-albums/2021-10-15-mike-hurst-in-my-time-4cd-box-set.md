@@ -6,7 +6,7 @@ subtitle: Compilation Album
 description: A 4CD collection of the work of songwriter, singer and producer Mike Hurst who worked with internationally renowned stars such as Cat Stevens, Dusty Springfield, The Spencer Davis Group, The Move, Shakin’ Stevens, Cilla Black, Colin Blunstone, PP Arnold, The Nolan Sisters, Chris Farlowe and Showaddywaddy.
 post_description: A 4CD collection of the work of songwriter, singer and producer Mike Hurst who worked with internationally renowned stars such as Cat Stevens, Dusty Springfield, The Spencer Davis Group, The Move, Shakin’ Stevens, Cilla Black, Colin Blunstone, PP Arnold, The Nolan Sisters, Chris Farlowe and Showaddywaddy.
 image: /assets/images/albums/Mike-Hurst-In-My-Time.jpg
-categories: [Discography-Compilation Albums, Mike-Hurst, OnThisDay15October]
+categories: [Discography-Compilation Albums, Mike-Hurst, OnThisDay15October, Year-2021]
 permalink: /discography/compilation-albums/:name
 last_modified_at: 21 January 2024
 ---

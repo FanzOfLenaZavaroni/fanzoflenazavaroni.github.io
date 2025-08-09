@@ -8,7 +8,7 @@ description: This is the Nineth single by Lena Zavaroni.
 media: 7" Vinyl, 45 rpm Single
 post_description: This is the Nineth single by Lena Zavaroni.
 image: /assets/images/singles/lena-zavaroni-jump-down-jimmy-galaxy.jpg
-categories: [Discography-Singles, OnThisDay16May]
+categories: [Discography-Singles, OnThisDay16May, Year-1980]
 permalink: /discography/singles/:name
 ---
 

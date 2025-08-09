@@ -5,7 +5,7 @@ maintitle: Lena Zavaroni At The Villa Marina
 subtitle: Douglas, Isle Of Man
 description: Lena Zavaroni At The Villa Marina, Douglas, Isle Of Man
 post_description: Starring Lena Zavaroni.
-categories: [Entertainment-Venue-The-Villa-Marina, OnThisDay27July]
+categories: [Entertainment-Venue-The-Villa-Marina, OnThisDay27July, Year-1978]
 last_modified_at: 21 July 2025
 ---
 

@@ -5,7 +5,7 @@ maintitle: The Stage and Television Today
 subtitle:
 description: Lena Zavaroni withdraws from the 1978 Christmas pantomime Aladdin at the King's Theatre, Southsea, due to ongoing health issues.
 post_description: Lena Zavaroni withdraws from the 1978 Christmas pantomime Aladdin at the King's Theatre, Southsea, due to ongoing health issues.
-categories: [The-Stage-and-Television-Today, OnThisDay9July]
+categories: [The-Stage-and-Television-Today, OnThisDay9July, Year-1978]
 ---
 
 <figure class="fig3">

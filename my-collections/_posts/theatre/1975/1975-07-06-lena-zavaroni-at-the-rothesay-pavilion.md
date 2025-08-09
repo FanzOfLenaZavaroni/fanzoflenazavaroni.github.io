@@ -5,7 +5,7 @@ maintitle: Lena Zavaroni at the Rothesay Pavilion
 subtitle: Rothesay Pavilion, 45 Argyle St, Rothesay, Isle of Bute PA20 0AU
 description: Note&#58; The Pavilion was the location Lena Zavaroni first performed to Phil Solomon in 1973.
 post_description: The Pavilion was the location Lena Zavaroni first performed to Phil Solomon in 1973.
-categories: [Theatres, Rothesay-Pavilion, The-Lena-Zavaroni-Show, OnThisDay6July]
+categories: [Theatres, Rothesay-Pavilion, The-Lena-Zavaroni-Show, OnThisDay6July, Year-1975]
 last_modified_at: 4 July 2025
 ---
 

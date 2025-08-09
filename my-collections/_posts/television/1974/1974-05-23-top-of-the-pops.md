@@ -5,7 +5,7 @@ maintitle: Top of the Pops
 subtitle: Music Chart Television Programme
 description: Lena Zavaroni gets to preform on Top of the Pops for the second time.
 post_description: Lena Zavaroni gets to preform on Top of the Pops for the second time.
-categories: [BBC-One, TOTP, OnThisDay23May]
+categories: [BBC-One, TOTP, OnThisDay23May, Year-1974, Year-1974, Year-1974]
 last_modified_at: 22 May 1974
 ---
 

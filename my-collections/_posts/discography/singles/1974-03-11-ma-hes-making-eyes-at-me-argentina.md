@@ -5,7 +5,7 @@ maintitle: Ma! (El Me Esta Haciendo Ojitos)
 subtitle: Lena Zavaroni's debut single - Ma! (He's Making Eyes At Me)
 description: Lena Zavaroni's debut single - Ma! (He's Making Eyes At Me).
 post_description: Lena Zavaroni's debut single - Ma! (He's Making Eyes At Me).
-categories: [Discography-Singles, OnThisDay11March]
+categories: [Discography-Singles, OnThisDay11March, Year-1974]
 permalink: /discography/singles/:name
 last_modified_at: 10 July 2025
 ---

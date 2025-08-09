@@ -5,7 +5,7 @@ maintitle: Record &quot;Popswop&quot; Mirror
 subtitle: The magazine makes reference to Lena on pages 7 and her second single is the answer to question number 19 on page 11
 description: The magazine makes reference to Lena on pages 7 and her second single is the answer to question number 19 on page 11.
 post_description: The magazine makes reference to Lena on pages 7 and her second single is the answer to question number 19 on page 11
-categories: [Magazines, Record-Popswop-Mirror, OnThisDay4January]
+categories: [Magazines, Record-Popswop-Mirror, OnThisDay4January, Year-1975]
 last_modified_at: 1 January 2024
 ---
 
