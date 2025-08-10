@@ -6,7 +6,7 @@ subtitle: The service took place at The Roman Catholic Church of St Augustine, P
 description: The service took place at The Roman Catholic Church of St Augustine, Presbytery, High Street, Hoddesdon, Herts, EN11 8DS.
 media: Details
 post_description: The service took place at The Roman Catholic Church of St Augustine, Presbytery, High Street, Hoddesdon, Herts, EN11 8DS.
-categories: [Funeral, OnThisDay15October]
+categories: [Private-Life-Funeral, OnThisDay15October]
 ---
 
 <table>
