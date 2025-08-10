@@ -6,7 +6,7 @@ subtitle:  (aka Psychosurgery) at the University Hospital of Wales the type she 
 description: (aka Psychosurgery) at the University Hospital of Wales the type she was treated with was Anterior Capsulotomy which is one of the 4 types of stereotactic psychosurgery available.
 media: Health
 post_description: (aka Psychosurgery) at the University Hospital of Wales the type she was treated with was Anterior Capsulotomy which is one of the 4 types of stereotactic psychosurgery available.
-categories: [Health, Neurosurgery-for-Mental-Disorder-(NMD), OnThisDay7September]
+categories: [Private-Life-Neurosurgery-for-Mental-Disorder-(NMD), OnThisDay7September]
 ---
 
 <table>

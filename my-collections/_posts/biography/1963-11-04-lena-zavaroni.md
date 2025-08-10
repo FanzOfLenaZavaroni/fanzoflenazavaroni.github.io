@@ -22,7 +22,6 @@ last_modified_at: 8 June 2025
 </div></div></div>
 </figure>
 
-
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
@@ -37,7 +36,16 @@ last_modified_at: 8 June 2025
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox3" class="infobox"><a href="#infobox3">Zavaroni's Fish and Chip Shop</a></h2>
+<h2 id="infobox3" class="infobox"><a href="#infobox3">14 December 1961</a></h2>
+<div class="CardItem split">
+<p>The wedding of Victor Zavaroni and Hilda Jordan took place</p>
+</div></div></div>
+</figure>
+
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox4" class="infobox"><a href="#infobox4">Zavaroni's Fish and Chip Shop</a></h2>
 <div class="CardItem split">
 <p>Victor and Hilda Zavaroni owned and operated a fish and chip shop in Rothesay. One of the known Zavaroni outlets was located at 12 E. Princes Street, but further confirmation is needed to verify if this was their specific location.</p>
 <img src="/assets/images/locations/4014680129_8fcf18749c_o.jpg" class="full-width">
@@ -48,7 +56,7 @@ last_modified_at: 8 June 2025
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox4" class="infobox"><a href="#infobox4">4 November 1963</a></h2>
+<h2 id="infobox5" class="infobox"><a href="#infobox5">4 November 1963</a></h2>
 <div class="CardItem split">
 <p>Lena Hilda Zavaroni was born on 4 November 1963 at Rankin Memorial Hospital, Greenock, Inverclyde, Scotland, United Kingdom to Victor Zavaroni (December 1939) and Hilda Catherine (Jordan) Zavaroni (7 January 1941-December 1989).</p>
 </div>
@@ -61,7 +69,7 @@ last_modified_at: 8 June 2025
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox5" class="infobox"><a href="#infobox5">Early Life</a></h2>
+<h2 id="infobox6" class="infobox"><a href="#infobox6">Early Life</a></h2>
 <div class="CardItem split">
 <p>Lena grew up in the small town of Rothesay on the Isle of Bute.</p>
 </div>
@@ -74,7 +82,7 @@ last_modified_at: 8 June 2025
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox6" class="infobox"><a href="#infobox6">Lena Zavaroni as a toddler</a></h2>
+<h2 id="infobox7" class="infobox"><a href="#infobox7">Lena Zavaroni as a toddler</a></h2>
 <div class="CardItem split">
 <p>Lena grew up in the small town of Rothesay on the Isle of Bute.</p>
 </div>
@@ -87,7 +95,7 @@ last_modified_at: 8 June 2025
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox7" class="infobox"><a href="#infobox7">22 March 1966</a></h2>
+<h2 id="infobox8" class="infobox"><a href="#infobox8">22 March 1966</a></h2>
 <div class="CardItem split">
 <p>Her sister Carla was born on 22 March 1966.</p>
 </div></div></div>
@@ -96,7 +104,7 @@ last_modified_at: 8 June 2025
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox8" class="infobox"><a href="#infobox8">Tommy Scott And The Summer Of 1973</a></h2>
+<h2 id="infobox9" class="infobox"><a href="#infobox9">Tommy Scott And The Summer Of 1973</a></h2>
 <div class="CardItem split">
 <p>There are multiple conflicting accounts of how Lena Zavaroni was first discovered. Below is one version told by Phil Solomon, but other sources present significantly different details.</p>
 <blockquote>
@@ -112,7 +120,7 @@ last_modified_at: 8 June 2025
 </div>
 
 <div class="CardItem">
-<h3 id="infobox9" class="infobox"><a href="#infobox9">Conflicting Reports on Lena’s Discovery</a></h3>
+<h3 id="infobox10" class="infobox"><a href="#infobox10">Conflicting Reports on Lena’s Discovery</a></h3>
 <p>There is no single, verified version of how Lena was discovered. Different sources offer varying accounts, often contradicting one another.</p>
 <ul>
 <li>The <a class="external-link" href="https://www.express.co.uk/entertainment/theatre/1780852/Lena-Zavaroni-opportunity-knock-hughie-green">Express (14 June 2023 Updated 15 June 2023)</a>: In an article by Richard Barber it is stated that Tommy Scott was walking past the chippie when he heard Lena singing.</li>
@@ -121,7 +129,7 @@ last_modified_at: 8 June 2025
 </div>
 
 <div class="CardItem">
-<h3 id="infobox10" class="infobox"><a href="#infobox10">UK and US Versions</a></h3>
+<h3 id="infobox11" class="infobox"><a href="#infobox11">UK and US Versions</a></h3>
 <p>If we put the UK versions down to editorial errors and that the commonly known version is true, then what about the US version that is clearly different?</p>
 <p>Is it that in the UK narratives, Lena’s discovery is grounded in personal connection and happenstance — Tommy Scott on holiday, hearing a young girl sing with her family. It’s intimate, almost folkloric. Whereas the US version, in contrast, skips the mentorship arc and places her in a public, working-class setting like a bingo parlour, with swift exploitation by the industry. It’s cinematic, immediate, and hits themes of American showbiz spectacle.</p>
 <p>These aren't just contradictory — they're reflections of two different lenses on celebrity. One leans into charm and luck; the other leans into dazzling talent and economic opportunity.</p>
@@ -133,7 +141,7 @@ last_modified_at: 8 June 2025
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h3 id="infobox11" class="infobox"><a href="#infobox11">Summary of Contradictions</a></h3>
+<h3 id="infobox12" class="infobox"><a href="#infobox12">Summary of Contradictions</a></h3>
 <p>The multiple versions of Lena Zavaroni’s discovery raise questions about accuracy, intent, and the motives behind how her story has been told. While Tommy Scott and Phil Solomon are frequently credited, even their accounts vary — from a vacation encounter in the Athletic Bar to a chance meeting outside a chip shop.</p>
 
 <p>With the addition of the US narrative, the contradictions grow more significant. In UK tellings, Lena’s discovery is framed through personal connection and mentorship — Scott hears her sing during a vacation and brings Solomon into the fold. It's all very folkloric. The US version, however, sets the scene in a bingo parlour and skips over any handlers, placing the focus on Lena’s raw talent and immediate commercial appeal.</p>
@@ -148,7 +156,7 @@ last_modified_at: 8 June 2025
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox12" class="infobox"><a href="#infobox12">One Life, Two Paths</a></h2>
+<h2 id="infobox13" class="infobox"><a href="#infobox13">One Life, Two Paths</a></h2>
 <div class="CardItem split">
 <ul>
 <li> ——: The beginning of two paths—one leading to stardom, the other to anorexia and depression.</li>
@@ -166,7 +174,7 @@ last_modified_at: 8 June 2025
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox13" class="infobox"><a href="#infobox13">7 January 1974 - Article Published 11 December 2009</a></h2>
+<h2 id="infobox14" class="infobox"><a href="#infobox14">7 January 1974 - Article Published 11 December 2009</a></h2>
 <div class="CardItem split">
 <h3 id="infobox14"><a href="#infobox14">John McCready</a></h3>
 <p>On Monday 7 January 1974 Lena would make her debut TV appearance on Opportunity Knocks.</p>

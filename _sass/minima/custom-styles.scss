@@ -209,3 +209,48 @@ height: 100%;
     margin-left: 1em;
     margin-bottom: 0.5em;
   }
+
+/*  Card css  */
+
+.year-selector {
+  display: none;
+}
+
+.year-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+.year-links a {
+  text-decoration: none;
+  color: #000;
+  transition: color 0.2s, border-bottom 0.2s;
+  border-bottom: 1px solid transparent;
+}
+
+.year-links a:hover {
+  color: #007acc;
+  border-bottom: 1px solid #007acc;
+  cursor: pointer;
+}
+
+.year-links a.active {
+  font-weight: bold;
+  border-bottom: 2px solid #007acc;
+}
+
+@media screen and (orientation: portrait) {
+  .year-links {
+    display: none;
+  }
+  .year-selector {
+    display: block;
+    width: 100%;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+}
+
