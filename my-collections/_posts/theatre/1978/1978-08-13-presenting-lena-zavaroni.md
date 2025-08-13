@@ -1,33 +1,40 @@
 ---
 layout: post
-title: Presenting Lena Zavaroni
-maintitle: Presenting Lena Zavaroni
+title: Sunday Seaside Special
+maintitle: Sunday Seaside Special
 subtitle: Wellington Pier, Great Yarmouth
 description: Lena Zavaroni stars in her own show at the Wellington Pier, Great Yarmouth.
-media: Theatre
 post_description: Lena Zavaroni stars in her own show at the Wellington Pier, Great Yarmouth.
-image: /assets/images/theatres/1978-08-13-presenting-lena-zavaroni.jpg
-categories: [Theatres, Great-Yarmouth, OnThisDay13August, Year-1978]
+categories: [Entertianment-Great-Yarmouth-Pier-Pavilion, OnThisDay13August, Year-1978]
 ---
 
-<figure class="fig1">
-<a href="/assets/images/theatres/1978-08-13-presenting-lena-zavaroni.jpg"><img src="/assets/images/theatres/1978-08-13-presenting-lena-zavaroni.jpg" class="full-width zoom-in"/></a>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Turns</a></h2>
+<div class="CardItem split">
+<p>A "Turn" refers to an individual performance or act in a variety show, showcasing different talents and entertainment styles.</p>
+<ol>
+<li>Band currently unknown</li>
+<li>Duggie Chapman introduces Chris North & Jill</li>
+<li>Duggie Chapman introduces Bobby Crush</li>
+</ol>
+<p>INTERVAL</p>
+<ol start="4">
+<li>Reg Thompson</li>
+<li>Lena Zavaroni</li>
+</ol>
+<p><strong>Note:</strong> While I have not been able to confirm the type of show at this time, given the type of performer Lena's managers had set Lena up to be, the use of variety show and referring to the performers as Turns seems like the best fit at this time, but visitors to this website should treat such details as unconfirmed.</p>
+</div></div></div>
 </figure>
 
-<figure class="fig2">
-<a href="/assets/images/theatres/1978-08-13-presenting-lena-zavaroni-wp.jpg"><img src="/assets/images/theatres/1978-08-13-presenting-lena-zavaroni-wp.jpg" class="full-width zoom-in"/></a>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Wellington Pier, Great Yarmouth, Norfolk</a></h2>
+<div class="CardItem split">
+<p>Lights on the pier</p>
+<a href="https://www.flickr.com/photos/21804434@N02/3047335949"><img src="/assets/images/theatres/1280px-Wellington_Pier_at_night.jpg" class="full-width"/></a>
+<cite><a class="external-link" href="https://www.flickr.com/photos/21804434@N02/3047335949">Wellington Pier</a> &copy; 19 November 2008 <a class="external-link" href="https://www.flickr.com/photos/21804434@N02/">mira66</a> and licensed for reuse under this <a class="external-link" href="https://creativecommons.org/licenses/by/2.0">Creative Commons Licence</a>.</cite>
+</div></div></div>
 </figure>
-
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:30.5%;}
-
-.fig2 {float:right; width:67.5%;}
-
-@media screen and (orientation:portrait) {
-.fig1 {float:left; width:100%; margin-bottom: 25px;}
-.fig2 {float:left; width:100%;}
-}
-</style>
-
