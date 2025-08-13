@@ -1,16 +1,23 @@
 ---
 layout: post
-title: The Sunday Concert At The Pavilion Theatre
-maintitle: The Sunday Concert At The Pavilion Theatre, Bournemouth
+title: The Sunday Concert at The Pavilion Theatre, Bournemouth &#124; 16 August 1981
+maintitle: The Sunday Concert at The Pavilion Theatre, Bournemouth
 subtitle: Starring Lena Zavaroni
-description: Lena Zavaroni stars in her own show at The Pavilion, Bournemouth.
-media: The Sunday Concert
-post_description: Starring Lena Zavaroni
-image: /assets/images/locations/5484043_1ebb0d9a-200x200.png
-categories: [Theatres, The-Lena-Zavaroni-Show, OnThisDay16August]
+description: The Sunday Concert at The Pavilion Theatre, Bournemouth.
+post_description: Lena Zavaroni
+categories: [Theatre-Pavilion-Theatre, Bournemouth, Sunday-Concert, OnThisDay16August]
 ---
 
-[![](/assets/images/locations/geograph-5270508-by-barry-shimmon.jpg){: .full-width}](https://www.geograph.org.uk/photo/5270508)
-
-<cite>The Pavilion, Bournemouth Copyright [Barry Shimmon ](https://www.geograph.org.uk/profile/20970) and licensed for reuse under this [Creative Commons Licence](http://creativecommons.org/licenses/by-sa/2.0/)</cite>
-
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Pavilion Theatre</a></h2>
+<div class="CardItem split">
+<a href="https://commons.wikimedia.org/wiki/File:Pavilion_Theatre,_Bournemouth_(South_Face_-_01).jpg"><img src="/assets/images/theatres/Pavilion_Theatre,_Bournemouth_(South_Face_-_01).jpg" class="full-width" /></a>
+<p></p>
+<blockquote>
+The Pavilion Theatre and Ballroom is a concert hall in Bournemouth. It opened in 1929 and has been redesigned several times since.
+</blockquote>
+<cite><a class="external-link" href="https://commons.wikimedia.org/wiki/File:Pavilion_Theatre,_Bournemouth_(South_Face_-_01).jpg">White Rock Theatre</a> <a class="external-link" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">cc-by-sa/4.0</a>, &copy; <a class="external-link" href="https://commons.wikimedia.org/wiki/User:Ethan_Doyle_White">Ethan Doyle White</a></cite>
+</div></div></div>
+</figure>
