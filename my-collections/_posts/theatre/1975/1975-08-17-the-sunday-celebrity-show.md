@@ -1,18 +1,35 @@
 ---
 layout: post
-title: The Sunday Concert At The Winter Gardens, Margate &#124; 4 August 1974
-maintitle: The Sunday Concert At The Winter Gardens, Margate
-subtitle: 6pm and 8:30pm
-description: Staring Lena Zavaroni
-post_description: Staring Lena Zavaroni
-categories: [Theatres, Winter-Gardens, Margate, OnThisDay4August, Year-1974, Year-1974, Year-1974]
-last_modified_at: 3 August 2025
+title: The Sunday Celebrity Show &#124; 17 August 1975
+maintitle: The Sunday Celebrity Show
+subtitle: Winter Gardens, Margate
+after: ", Shows at 6.00pm and 8.30pm"
+description: Lena Zavaroni stars in the show.
+post_description: Lena Zavaroni stars in the show.
+categories: [Theatre-The-Winter-Gardens, Margate, OnThisDay17August, Year-1975]
 ---
 
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox1" class="infobox"><a href="#infobox1">Winter Gardens, Margate</a></h2>
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Turns</a></h2>
+<div class="CardItem split">
+<p>A "Turn" refers to an individual performance or act in a variety show, showcasing different talents and entertainment styles. Set order of Turns currently unknown.</p>
+<ul>
+<li>Bill Rayner and his orchestra</li>
+<li>Kenny Cantor</li>
+<li>Franklin and his doves</li>
+<li>Walter Landauer</li>
+<li>Lena Zavaroni</li>
+</ul>
+<p><strong>Note:</strong> While I have not been able to confirm the type of show at this time, given the type of performer Lena's managers had set Lena up to be, the use of variety show and referring to the performers as Turns seems like the best fit at this time, but visitors to this website should treat such details as unconfirmed.</p>
+</div></div></div>
+</figure>
+
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Winter Gardens, Margate</a></h2>
 <div class="CardItem split">
 <a href="https://www.geograph.org.uk/photo/4541730"><img src="/assets/images/locations/4541730_e5dd3900_original.jpg" class="full-width" /></a>
 <p></p>
@@ -26,7 +43,7 @@ last_modified_at: 3 August 2025
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem">
-<h2 id="infobox2" class="infobox"><a href="#infobox2">Winter Gardens restoration plans take step forward</a></h2>
+<h2 id="infobox3" class="infobox"><a href="#infobox3">Winter Gardens restoration plans take step forward</a></h2>
 <div class="CardItem split">
 <p>Summary of the BBC News Article</p>
 <blockquote>

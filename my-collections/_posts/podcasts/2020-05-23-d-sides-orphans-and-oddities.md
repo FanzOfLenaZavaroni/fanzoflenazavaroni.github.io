@@ -5,7 +5,7 @@ maintitle: D-Sides, Orphans, and Oddities
 subtitle: WHUP Radio 104.7 FM &copy; Hillsborough Community Media
 description: The Les Humphries Singers Tribute!!!
 post_description: The Les Humphries Singers Tribute!!!
-categories: [WHUP-Radio-104.7-FM, Discography-Podcasts, D-Sides-Orphans-and-Oddities, OnThisDay23May]
+categories: [WHUP-Radio-104.7-FM, Discography-Podcast-D-Sides-Orphans-and-Oddities, OnThisDay23May]
 tags: podcasts
 permalink: /discography/podcasts/:name
 last_modified_at: 14 Jube 2025
