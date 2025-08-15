@@ -24,7 +24,7 @@ last_modified_at: 17 August 2023
 <div class="CardItem">
 <h2 id="infobox2" class="infobox"><a href="#infobox2">Solomon's Children</a></h2>
 <div class="CardItem split">
-<p>The performers listed below were all associated with Phil Solomon or his wife Dorothy, both known for managing young musical talent during the 1960s and 1970s. Dee Anne (possibly Deanne Blazey) appeared in press coverage with similar aspirations, but her connection to the Dee Anne remains unconfirmed, and her career trajectory is unclear.</p>
+<p>The performers listed below were all associated with Phil Solomon and his wife Dorothy, both known for managing young musical talent during the 1960s and 1970s. Dee Anne (possibly Deanne Blazey) appeared in press coverage with similar aspirations, but her connection to the Solomons remains unconfirmed, and her career trajectory is unclear.</p>
 <dl>
 <dt>Twinkle (Lynn Annette Ripley)</dt>
 <dd><strong>Born:</strong> 15 July 1948</dd>
