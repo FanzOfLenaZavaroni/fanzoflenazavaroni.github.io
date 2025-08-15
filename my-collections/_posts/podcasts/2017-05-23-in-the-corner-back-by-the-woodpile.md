@@ -6,7 +6,7 @@ maintitle: In the Corner Back by the Woodpile
 subtitle: Episode 104 - Fluorescent Decade on a Hill X
 description: Episode 104 - Fluorescent Decade on a Hill X
 post_description: Episode 104 - Fluorescent Decade on a Hill X
-categories: [Discography-Podcasts, Popcasting, OnThisDay23May]
+categories: [Discography-Podcast-In-the-Corner-Back-by-the-Woodpile, OnThisDay23May]
 tags: podcasts
 permalink: /discography/podcasts/:name
 last_modified_at: 31 December 2023
