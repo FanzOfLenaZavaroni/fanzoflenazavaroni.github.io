@@ -36,7 +36,7 @@ last_modified_at: 17 August 2023
 <dd><strong>Years Active:</strong> 1963–1980s</dd>
 <dt>Lena Hilda Zavaroni</dt>
 <dd><strong>Born:</strong> 4 November 1963</dd>
-<dd><strong>Died:</strong> 1 October 1999(aged 35)</dd>
+<dd><strong>Died:</strong> 1 October 1999 (aged 35)</dd>
 <dd><strong>Years Active:</strong> 1974–1993</dd>
 </dl>
 <div class="CardItem red-split">
