@@ -8,20 +8,30 @@ subtitle: Documentary on the stage school where Lena Zavaroni and Bonnie Langfor
 description: Documentary on the stage school where Lena Zavaroni and Bonnie Langford Started
 media: Tyne Tees Television
 post_description: Documentary on the stage school where Lena Zavaroni and Bonnie Langford Started.
-categories: [Tyne-Tees-Television, Bonnie-Langford, OnThisDay19August, OnThisDay3March]
+categories: [Television-Tyne-Tees-Television, Bonnie-Langford, OnThisDay19August, Year-1974, OnThisDay3March]
 last_modified_at: 2 March 2024
 ---
 
 <figure class="fig3">
-<table>
-<tr id="infobox1"><th colspan="2"><a href="#infobox1">Cast</a></th></tr>
-<tr><th style="width:50%;">Cast Member</th><td style="width:50%;">Bonnie Langford</td></tr>
-<tr><th>Cast Member</th><td>Lena Zavaroni</td></tr>
-<tr id="infobox2"><th colspan="2"><a href="#infobox2">Production</a></th></tr>
-<tr><th>Production Company</th><td>Tyne Tees Television</td></tr>
-<tr><th>Producer</th><td>Tony Kysh</td></tr>
-</table>
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Cast</a></h2>
+<div class="CardItem split">
+<ul>
+<li>Bonnie Langford</li>
+<li>Lena Zavaroni</li>
+</ul>
+</div></div></div>
 </figure>
 
-<br />{: .clear}
-
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Production</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Production Company:</strong> Tyne Tees Television:</li>
+<li><strong>Producer:</strong> Tony Kysh:</li>
+</ul>
+</div></div></div>
+</figure>

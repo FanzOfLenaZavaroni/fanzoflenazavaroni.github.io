@@ -11,20 +11,22 @@ categories: [Theatres, Futurist-Theatre, Scarborough, OnThisDay23August]
 ---
 
 <figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Futurist Theatre</a></h2>
+<div class="CardItem split">
 <img src="/assets/images/locations/the-futurist-theatre.jpg" class="full-width"/>
-<figcaption>
-<cite>The Futurist Theatre</cite>
-</figcaption>
+<p></p>
+<blockquote><p>The site of the Futurist has been used for entertainment since 1903.</p></blockquote>
+<cite>© Copyright <a class="external-links" href="https://www.geograph.org.uk/profile/13903">Pauline E</a> and licensed for <a class="external-link" href="https://www.geograph.org.uk/reuse.php?id=2785375">reuse</a> under this <a class="external-link" href="http://creativecommons.org/licenses/by-sa/2.0/">Creative Commons Licence</a>.</cite>
+<br />
+<p>Photo taken on 27 January 2012 so may not reflect how the Theatre looked at the time of Lena's performance.</p>
+</div></div></div>
 </figure>
 
-{: .clear}
-
 <figure class="fig3">
-<figcaption>
-<h2 id="bbc-news-online"><a href="#bbc-news-online">BBC News Online</a></h2>
-</figcaption>
-<img src="/assets/images/locations/futurist.jpg" class="full-width"/>
-<figcaption>
+<div class="CardLayout">
+<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">BBC News Online</a></h2>
+<div class="CardItem split">
 <blockquote>
 <strong>The demolition of a seafront theatre in Scarborough has begun following a long fight by campaigners to save it</strong>
 <p>The Futurist opened in 1921 and hosted many artists - including famously The Beatles in 1963 - but closed in 2014.</p>
@@ -32,24 +34,5 @@ categories: [Theatres, Futurist-Theatre, Scarborough, OnThisDay23August]
 <p>Campaigners had hoped to run it as a charitable trust but the council said it was not sustainable as a theatrical venue.</p>
 </blockquote>
 <cite>BBC News York and North Yorkshire: <a class="external-link" href="https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-44368471">5 June 2018</a></cite>
-</figcaption>
+</div></div></div>
 </figure>
-
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1 {float:left; width:100%;}
-.fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
-
