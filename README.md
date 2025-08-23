@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1974-08-22-variety-magazine.md and 2018-08-22-Jezebel.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6258dab40e753718a4f533c9d8d69e5acef20001)
+- [Update 1986-08-23-the-lena-zavaroni-club-get-together-01.jpg, 1986-08…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e20fa802c2e5fad47f1b3ec66a3f4eb01bc54628)
+- [Update 2002-08-20-evening-herald-fc.png, 2002-08-20-evening-herald-pa…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/18072b0fa9b68e6fe8e2528f871ed1a7429b73be)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6b359335dc47c94e441993d159a64b7c0e228531)
 - [Update custom-styles.scss and 1976-08-19-the-stage-and-television-tod…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c6ff88ade0fafbf1eab31b7c4ae24ad64c736bfe)
-- [Update 1979-08-17-buckinghamshire-examiner.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e04cc18f70a9d87d8c4ca0bc3e846270bb23dc1c)
-- [Update 1977-08-16-startime77.pdf, 1979-08-17-buckinghamshire-examiner…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/02a17c3db6bb9021c283b91deb30f93944cd0470)
-- [Update 1979-08-17-buckinghamshire-examiner.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3f4be72333d17ec5b12d0386c5c4ea1439bdeb9e)
-- [Update 1979-08-17-buckinghamshire-examiner.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9539f5499bffea91e8f16ba8ff8cd38fab74571f)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
