@@ -2,6 +2,7 @@
 layout: post-no-comments
 title: "Category: Theatre"
 maintitle: "Category: Theatre"
+excerpt_separator: ""
 ---
 
 <figure class="fig3">
