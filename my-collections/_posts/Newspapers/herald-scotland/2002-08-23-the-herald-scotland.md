@@ -36,7 +36,7 @@ categories: [Newspaper-Herald-Scotland, OnThisDay23August, Year-2002]
 <h2 id="infobox3" class="infobox"><a href="#infobox3" style="color: #dc3545;">Article Warning: Personal views may be upsetting to some fans</a></h2>
 <div class="CardItem red-split">
 <p><strong>The monument that’s not a monument</strong></p>
-<p>While Alison Smith did her best to provide a monument in spite of the lack of funds dding a plaque to a statue sourced from a garden centre hardly feels like a fitting tribute for such a great star as Lena Zavaroni undoubtedly was.</p>
+<p>While Alison Smith did her best to provide a monument in spite of the lack of funds adding a plaque to a statue sourced from a garden centre hardly feels like a fitting tribute for such a great star as Lena Zavaroni undoubtedly was.</p>
 <p>Unfortunately the article does not mention if she approached Argyll and Bute Council to see if they would contribute to the monument of a star that had help put Bute on the map, it was the least Lena’s hometown could have done.</p>
 <p>While Victor and Carla attended the opening, we don’t know if Alison approached Victor for help with the funding, as Lena’s father I would have thought he could have used some of the money from the inheritance he received after his daughter’s death to insure a more fitting monument.</p>
 <p id="infobox4">Our memories can only be enriched if we take the time to share them otherwise they will just become forgotten.</p>
