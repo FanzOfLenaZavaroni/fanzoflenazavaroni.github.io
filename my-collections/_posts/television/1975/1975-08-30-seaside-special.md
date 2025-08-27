@@ -11,67 +11,57 @@ youtube-id: lFU0ROYFwh4
 categories: [BBC-One, Torbay, OnThisDay30August, Year-1975]
 ---
 
-<figure class="fig1">
-<h2 id="youtube"><a href="#youtube">YouTube</a></h2>
-<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/{{ page.youtube-id }}?rel=0&amp;showinfo=1" frameborder="0" allowfullscreen></iframe></div>
-</figure>
-
-<figure class="fig2">
-<h2 id="summary"><a href="#summary">Summary</a></h2>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Summary</a></h2>
+<div class="CardItem split">
 <p>Starring Roy Hudd, Keith Harris, Tessie O'Shea, Lena Zavaroni, Derek Dene, Jon Britain, Tony Blackburn and featuring NEW EDITION.</p>
 <p>Lena performs a short version of Teddy Bear and then she sings Smile.</p>
 <cite><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1975-08-30#at-18.10">BBC Genome</a></cite>
+</div></div></div>
 </figure>
-
-{: .clear}
 
 <figure class="fig3">
-<h2 id="podcast"><a href="#podcast">Two Hundred Percent</a></h2>
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Cast</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Presenter:</strong> Roy Hudd</li>
+<li><strong>Welsh entertainer and actress:</strong> Tessie O'Shea</li>
+<li><strong>Scottish singer:</strong> Lena Zavaroni</li>
+<li><strong>English Actor:</strong> Derek Dene</li>
+<li><strong>English Ventriloquist:</strong> Keith Harris</li>
+<li><strong>? Singer:</strong> Jon Britain</li>
+<li><strong>English disc jockey, Singer and TV Presenter:</strong> Tony Blackburn</li>
+<li><strong>Dance Troupe:</strong> New Edition</li>
+</ul>
+</div></div></div>
+</figure>
+
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox3" class="infobox"><a href="#infobox3">Crew</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Choreography:</strong> Mavis Ascott</li>
+<li><strong>Vocal direction:</strong> Maggie Stredder</li>
+<li><strong>Vocal Backing:</strong> The Maggie Stredder Singers</li>
+<li><strong>Staging:</strong> Maggie Jensen</li>
+<li><strong>Musical director:</strong> Ronnie Hazelhurst</li>
+<li><strong>Production assistant:</strong> Bob Spiers</li>
+<li><strong>Producer:</strong> Michael Hurll</li>
+</ul>
+</div></div></div>
+</figure>
+
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox4" class="infobox"><a href="#infobox4">Two Hundred Percent</a></h2>
+<div class="CardItem split">
 <a href="/discography/podcasts/2021-04-29-two-hundred-percent">Podcast 293: This is our Everest, Part Thirty-Nine – Seaside Special, 1975</a>
+</div></div></div>
 </figure>
-
-{: .clear}
-
-<figure class="fig1">
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-<table>
-<tr><th style="width:50%;">Presenter:</th><td style="width:50%;">Roy Hudd</td></tr>
-<tr><th>Welsh entertainer and actress:</th><td>Tessie O'Shea</td></tr>
-<tr><th>Scottish singer:</th><td>Lena Zavaroni</td></tr>
-<tr><th>English Actor:</th><td>Derek Dene</td></tr>
-<tr><th>English Ventriloquist:</th><td>Keith Harris</td></tr>
-<tr><th>? Singer:</th><td>Jon Britain</td></tr>
-<tr><th>English disc jockey, Singer and TV Presenter:</th><td>Tony Blackburn</td></tr>
-<tr><th>Dance Troupe:</th><td>New Edition</td></tr>
-</table>
-</figure>
-
-<figure class="fig2">
-<h2 id="crew"><a href="#crew">Crew</a></h2>
-<table>
-<tr><th style="width:50%;">Choreography:</th><td style="width:50%;">Mavis Ascott</td></tr>
-<tr><th>Vocal direction:</th><td>Maggie Stredder</td></tr>
-<tr><th>Vocal Backing:</th><td>The Maggie Stredder Singers</td></tr>
-<tr><th>Staging:</th><td>Maggie Jensen</td></tr>
-<tr><th>Musical director:</th><td>Ronnie Hazelhurst</td></tr>
-<tr><th>Production assistant:</th><td>Bob Spiers</td></tr>
-<tr><th>Producer:</th><td>Michael Hurll</td></tr>
-</table>
-</figure>
-
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
