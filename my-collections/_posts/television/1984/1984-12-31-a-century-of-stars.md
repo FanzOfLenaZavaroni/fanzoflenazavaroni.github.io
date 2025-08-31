@@ -7,7 +7,7 @@ description: A short clip of Lena singing &quot;Help Me Make It Through The Nigh
 media: Granada Television
 post_description: A short clip of Lena singing &quot;Help Me Make It Through The Night&quot; live, is included in this 90 minute documentary about the Grand Order Of Water Rats.
 image: /assets/images/Channel4/Grand%20Order%20of%20Water%20Rats.png
-categories: [Granada-Television, Les-Dawson, OnThisDay31December]
+categories: [Granada-Television, Les-Dawson, OnThisDay31December, Year-1984]
 last_modified_at: 29 December 2023
 ---
 

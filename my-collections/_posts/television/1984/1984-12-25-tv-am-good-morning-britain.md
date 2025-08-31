@@ -6,7 +6,7 @@ subtitle: "ITV: TV-AM's Main Breakfast Television Show"
 description: Lena appears on the sofa to talk about her plans for Christmas.
 post_description: Lena appears on the sofa to talk about her plans for Christmas.
 image: /assets/images/ITV/TV-AM.png
-categories: [ITV, TV&#45;AM, OnThisDay25December]
+categories: [ITV, TV&#45;AM, OnThisDay25December, Year-1984]
 ---
 
 <table>
