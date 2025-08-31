@@ -5,7 +5,7 @@ maintitle: Sunday All Star Celebrity Concert
 subtitle: The ABC Theatre, Blackpool
 description: Starring Lena Zavaroni with , Tony Evans, Valentine, Rod Hartley and the Stuart Atkins Band.
 post_description: Starring Lena Zavaroni with , Tony Evans, Valentine, Rod Hartley and the Stuart Atkins Band.
-categories: [Theatres, ABC-Theatre, Blackpool, OnThisDay20August, Year-1978]
+categories: [Theatre-ABC-Theatre, Blackpool, OnThisDay20August, Year-1978]
 ---
 
 <figure class="fig3">

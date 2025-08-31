@@ -7,7 +7,7 @@ description: Lena appeared alongside Samantha Fox on the sofa to talk about her 
 media: Details
 post_description: Lena appeared alongside Samantha Fox on the sofa to talk about her comeback from illness.
 image: /assets/images/sf-lz.jpg
-categories: [ITV, TV&#45;AM, Good-Morning-Britain, OnThisDay17October]
+categories: [ITV, TV&#45;AM, Good-Morning-Britain, OnThisDay17October, Year-1984]
 ---
 
 <figure class="fig3">
