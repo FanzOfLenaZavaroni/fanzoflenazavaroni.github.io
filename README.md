@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1978-09-12-the-press-association-01.png and 1985-09-11-stars-m…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d4304605368a4a20440e2a1f255da168c0ea656a)
+- [Update 1978-05-02-womens-own.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b4e5d45a5aa1d5ffc572d327c5be1b6517239488)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a5e54e2402663b6e8b346852a4c383a5ae7e6b51)
 - [Update 1999-09-07-lena-zavaroni-underwent-neurosurgery-for-mental-dis…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3b2264f86794854cd49174576b1cbc0bf3fbf199)
 - [Update 1974-09-01-jerry-lewis-mda-labor-day-telethon.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/93d74490713752425b89740925777a4f5b92ce67)
-- [Update 1980-08-31-the-lena-zavaroni-show.md and 1980-08-31-harold-fie…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/469136267c2ba3ae71faf7b4fd6eec5bb9eea6b8)
-- [Update 1975-08-31-the-lena-zavaroni-show.jpg, 1984-10-17-tv-am-good-m…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/30854e7996bd667643982ad9d9d5eb5b06d242c0)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/51b1ed681550e6ac3b190c0d56b709a979772c9c)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
