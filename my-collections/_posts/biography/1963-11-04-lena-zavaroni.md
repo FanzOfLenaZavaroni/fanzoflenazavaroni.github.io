@@ -38,7 +38,7 @@ last_modified_at: 8 June 2025
 <div class="CardItem">
 <h2 id="infobox3" class="infobox"><a href="#infobox3">14 December 1961</a></h2>
 <div class="CardItem split">
-<p>The wedding of Victor Zavaroni and Hilda Jordan took place</p>
+<p>The wedding of Victor Zavaroni and Hilda Jordan took place.</p>
 </div></div></div>
 </figure>
 
