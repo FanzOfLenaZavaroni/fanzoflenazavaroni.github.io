@@ -41,7 +41,7 @@ categories: [BBC-One, Les-Dawson, OnThisDay18September, Year-1987]
 <li><strong>Production company:</strong> Talbot Television for the BBC</li>
 <li><strong>Subtitles:</strong> Ceefax</li>
 </ul>
-<h3 id="infobox3" class="infobox"><a href="#infobox3">Links</a></h3>
+<h3 id="infobox3" class="infobox"><a href="#infobox3">Link</a></h3>
 <ul><li><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1987-09-18#at-19.40">BBC Genome</a></li></ul>
 </div></div></div>
 </figure>
