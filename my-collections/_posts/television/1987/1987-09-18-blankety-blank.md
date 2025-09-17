@@ -4,55 +4,42 @@ title: Blankety Blank &#124; 18 September 1987
 maintitle: Blankety Blank
 subtitle: Episode 10.1
 description: Lena Zavaroni was one of the Panellist on Blankety Blank.
-media: Details
 post_description: Lena Zavaroni was one of the Panellist on Blankety Blank.
-image: /assets/images/BBC/1987-09-18-blankety-blank.jpg
-categories: [BBC-One, Les-Dawson, OnThisDay18September]
+categories: [BBC-One, Les-Dawson, OnThisDay18September, Year-1987]
 ---
 
-<figure class="fig1">
-<h2 id="srceenshot"><a href="#srceenshot">Srceenshot</a></h2>
-<img src="{{ page.image }}" class="full-width" />
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Cast</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Presenter:</strong> Les Dawson</li>
+<li><strong>Panellist:</strong> Lynda Baron</li>
+<li><strong>Panellist:</strong> Roy Castle</li>
+<li><strong>Panellist:</strong> John Conteh</li>
+<li><strong>Panellist:</strong> Linda Nolan</li>
+<li><strong>Panellist:</strong> Mike Reid</li>
+<li><strong>Panellist:</strong> Lena Zavaroni</li>
+</ul>
+</div></div></div>
 </figure>
 
-<figure class="fig2">
-<h2 id="question"><a href="#question">Question</a></h2>
-<blockquote>Oliver Twist refused to go up and ask for any more 'BLANKS'</blockquote>
-<cite>Les Dawson</cite>
-<blockquote>Chips</blockquote>
-<cite>Lena Zavaroni's answer</cite>
-<h2 id="related"><a href="#related">Related Website</a></h2>
-<ul><li><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1987-09-18#at-19.40">BBC Genome</a></li></ul>
+<figure class="fig3">
+<div class="CardLayout">
+<div class="CardItem">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Crew</a></h2>
+<div class="CardItem split">
+<ul>
+<li><strong>Musical accompaniment:</strong> Ronnie Hazelhurst</li>
+<li><strong>Sound:</strong> Michael McCarthy</li>
+<li><strong>Lighting:</strong> Alan Horne</li>
+<li><strong>Production manager:</strong> Mike Pearce</li>
+<li><strong>Design:</strong> Chris Webster</li>
+<li><strong>Director:</strong> Geoff Miles</li>
+<li><strong>Producer:</strong> Stanley Appel</li>
+<li><strong>Production company:</strong> Talbot Television for the BBC</li>
+<li><strong>Subtitles:</strong> Ceefax</li>
+</ul>
+</div></div></div>
 </figure>
-
-{: .clear}
-
-<figure class="fig1">
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-<table>
-<tr><th>Presenter</th><td>Les Dawson</td></tr>
-<tr><th>Panellist</th><td>Lynda Baron</td></tr>
-<tr><th>Panellist</th><td>Roy Castle</td></tr>
-<tr><th>Panellist</th><td>John Conteh</td></tr>
-<tr><th>Panellist</th><td>Linda Nolan</td></tr>
-<tr><th>Panellist</th><td>Mike Reid</td></tr>
-<tr><th>Panellist</th><td>Lena Zavaroni</td></tr>
-</table>
-</figure>
-
-<figure class="fig2">
-<h2 id="crew"><a href="#crew">Crew</a></h2>
-<table>
-<tr><th>Musical accompaniment</th><td>Ronnie Hazelhurst</td></tr>
-<tr><th>Sound</th><td>Michael McCarthy</td></tr>
-<tr><th>Lighting</th><td>Alan Horne</td></tr>
-<tr><th>Production manager</th><td>Mike Pearce</td></tr>
-<tr><th>Design</th><td>Chris Webster</td></tr>
-<tr><th>Director</th><td>Geoff Miles</td></tr>
-<tr><th>Producer</th><td>Stanley Appel</td></tr>
-<tr><th>Production company</th><td>Talbot Television for the BBC</td></tr>
-<tr><th>Subtitles</th><td>Ceefax</td></tr>
-</table>
-</figure>
-
-<br>{: .clear}
