@@ -282,11 +282,8 @@ I've got to wear all these silly costumes and try and get into them and be with 
 <h2 id="infobox24" class="infobox"><a href="#infobox24">30 September 1989</a></h2>
 <div class="CardItem split">
 <p>Lena Zavaroni and Peter Wiltshire were married in St Mary's Church, Finchley, Greater London, on 30 September 1989. The Marriage would only last 18 months.</p>
-<p>In later interviews with Lena, she would claim that she never loved Peter and only married him to feel normal. As far as I am aware What she meant by that was never elaborated on.</p>
-</div>
-<div class="CardItem">
-<a href="/assets/images/wedding/wedding.png"><img src="/assets/images/wedding/wedding.png" class="full-width zoom-in"></a>
-<cite>Filmstrip made up of screenshots from their Wedding Video</cite>
+<blockquote>In later interviews with Lena, she would claim that she never loved Peter and only married him to feel normal. As far as I am aware What she meant by that was never elaborated on.</blockquote>
+<cite>Robcamstone</cite>
 </div></div></div>
 </figure>
 
