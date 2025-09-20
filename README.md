@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1978-09-12-the-press-association-01.png and 1985-09-11-stars-m…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d4304605368a4a20440e2a1f255da168c0ea656a)
-- [Update 1978-05-02-womens-own.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b4e5d45a5aa1d5ffc572d327c5be1b6517239488)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a5e54e2402663b6e8b346852a4c383a5ae7e6b51)
-- [Update 1999-09-07-lena-zavaroni-underwent-neurosurgery-for-mental-dis…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3b2264f86794854cd49174576b1cbc0bf3fbf199)
-- [Update 1974-09-01-jerry-lewis-mda-labor-day-telethon.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/93d74490713752425b89740925777a4f5b92ce67)
+- [Update landscape-placeholder.svg, 1963-11-04-lena-zavaroni.md, and 19…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c804f8ff75c95f26457751abfa54229e2735b2c0)
+- [Update 1987-09-18-blankety-blank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8d333510b40b28a39eea9e3b24a0dcad320f8b17)
+- [Update 1987-09-18-blankety-blank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5cbe06b31a046959432fcf8fbe53f9bca389f3ae)
+- [Update 1987-09-18-blankety-blank.jpg, 1987-09-18-blankety-blank.md, a…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fd3696f8e135d1d634c6da4423bb8ca2417a48ee)
+- [Update 1963-11-04-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fa61e9f5018636e16d511a27c12afb2d87635083)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
