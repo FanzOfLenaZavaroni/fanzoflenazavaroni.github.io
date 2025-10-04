@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d0e0944069f8b6e47fa091da9d421df19b5c6b3a)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/452d56a06d96568c3ce4c8b6bfd9bf7d87fe3494)
 - [Update landscape-placeholder.svg, 1963-11-04-lena-zavaroni.md, and 19…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c804f8ff75c95f26457751abfa54229e2735b2c0)
 - [Update 1987-09-18-blankety-blank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8d333510b40b28a39eea9e3b24a0dcad320f8b17)
 - [Update 1987-09-18-blankety-blank.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5cbe06b31a046959432fcf8fbe53f9bca389f3ae)
-- [Update 1987-09-18-blankety-blank.jpg, 1987-09-18-blankety-blank.md, a…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fd3696f8e135d1d634c6da4423bb8ca2417a48ee)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
