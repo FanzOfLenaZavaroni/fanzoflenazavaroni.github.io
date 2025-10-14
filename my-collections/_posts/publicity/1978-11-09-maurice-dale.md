@@ -1,5 +1,5 @@
 ---
-layout: publicity-photos
+layout: post
 title: Publicity Photos by Maurice Dale &#124; 9 November 1978
 maintitle: Publicity Photos by Maurice Dale
 subtitle: Lena Zavaroni

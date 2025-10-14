@@ -9,8 +9,8 @@ before: "Born On "
 after: " - Died On 1 October 1999 (aged 35 years, 10 months and 27 days)"
 description: Lena Zavaroni was born on 4 November 1963 in Rankin Memorial Hospital, Greenock, Inverclyde, Scotland, United Kingdom to Victor Zavaroni (1939) and Hilda Catherine (Jordan) Zavaroni (c1940-1989).
 post_description: 4 November 1963 - 1 October 1999
-categories: [Biography, OnThisDay4November, OnThisDay1Octorber]
-last_modified_at: 8 June 2025
+categories: [Biography]
+last_modified_at: 14 October 2025
 ---
 
 <figure class="fig3">

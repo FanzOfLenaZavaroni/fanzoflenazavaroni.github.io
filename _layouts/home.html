@@ -2,9 +2,6 @@
 layout: default
 ---
 
-<figure class="fig3">
-<div class="CardLayout CardLayout-Fix">
-  <div class="CardItem">
     <header class="post-header">
       <h1 class="post-title p-name infobox" itemprop="name headline" id="{{ page.maintitle | escape }}">
         <a href="#{{ page.maintitle | escape }}" class="warning">{{ page.maintitle }}</a>
@@ -12,16 +9,10 @@ layout: default
       <h2 class="split">{{ page.subtitle-posts }}</h2>
       <p class="post-meta">{{ page.sub-subtitle-posts }}</p>
     </header>
-  </div>
-</div>
-</figure>
 
 {%- assign posts_by_date = site.posts | group_by_exp: "post", "post.date | date: '%Y-%m-%d'" -%}
 
 {%- for date in posts_by_date -%}
-  <figure class="fig3">
-  <div class="CardLayout CardLayout-Fix">
-    <div class="CardItem">
       <h2 class="date-heading infobox">{{ date.name | date: "%-d %B %Y" }}</h2> <!-- Corrected date format -->
       <ul class="post-list split">
         {%- for post in date.items -%}
@@ -38,7 +29,4 @@ layout: default
         </li>
         {%- endfor -%}
       </ul>
-    </div>
-  </div>
-  </figure>
 {%- endfor -%}

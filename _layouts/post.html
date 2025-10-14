@@ -4,106 +4,89 @@ layout: default
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-<figure class="fig3">
-<div class="CardLayout CardLayout-Fix">
-<div class="CardItem">
-  <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline" id="{{ page.maintitle | escape }}">
-      <a href="#{{ page.maintitle | escape }}" class="warning">{{ page.maintitle }}</a>
-    </h1>
-    <h2 class="split">{{ page.subtitle }}</h2>
-    <p class="post-meta">
-      {%- if page.before -%}
-       <span itemprop="before" itemscope itemtype="http://schema.org/Person">
-         <span class="p-before h-card" itemprop="name">{{ page.before }}</span>
-       </span>
-      {%- endif -%}
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.after -%}
-       <span itemprop="after" itemscope itemtype="http://schema.org/Person">
-         <span class="p-after h-card" itemprop="name">{{ page.after }}</span>
-       </span>
-      {%- endif -%}
-    </p>
-</div>
-</div>
-  </header>
-</figure>
+<header class="post-header">
+<h1 class="post-title p-name" itemprop="name headline" id="{{ page.maintitle | escape }}">
+<a href="#{{ page.maintitle | escape }}" class="warning">{{ page.maintitle }}</a>
+</h1>
+<h2 class="split">{{ page.subtitle }}</h2>
+<p class="post-meta">
+{%- if page.before -%}
+ <span itemprop="before" itemscope itemtype="http://schema.org/Person">
+ <span class="p-before h-card" itemprop="name">{{ page.before }}</span>
+ </span>
+{%- endif -%}
+<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{{ page.date | date: date_format }}
+</time>
+{%- if page.after -%}
+ <span itemprop="after" itemscope itemtype="http://schema.org/Person">
+ <span class="p-after h-card" itemprop="name">{{ page.after }}</span>
+ </span>
+{%- endif -%}
+</p>
+</header>
 
 <div class="post-content e-content" itemprop="articleBody">
-  {{ content }}
+{{ content }}
 </div>
 
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem">
-  <h2 id="categories"><a href="#categories" class="warning">Related Categories</a></h2>
-</div>
+<hr>
+
+<h2 id="categories"><a href="#categories" class="warning">Related Categories</a></h2>
 
 {% assign skip_categories = site.pages | where: "permalink", "/categories/" | first %}
 {% assign skip_list = skip_categories.skip-cats %}
 
 {% if skip_list and skip_list.size > 0 %}
-  <p class="info-message">
-    Some categories are displayed but not linked because they serve specific functions and are excluded from the Categories page.
-  </p>
+<p class="info-message">
+Some categories are displayed but not linked because they serve specific functions and are excluded from the Categories page.
+</p>
 {% endif %}
 
-<div class="CardItem split">
 <span class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  
-  {% for category in categories %}
-    {% assign skip = false %}
-    
-    {% for skip_cat in skip_list %}
-      {% if category contains skip_cat %}
-        {% assign skip = true %}
-      {% endif %}
-    {% endfor %}
-    
-    {% if skip %}
-      {{ category }}
-    {% else %}
-      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category }}</a>
-    {% endif %}
-    
-    {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
+{% if post %}
+{% assign categories = post.categories %}
+{% else %}
+{% assign categories = page.categories %}
+{% endif %}
+
+{% for category in categories %}
+{% assign skip = false %}
+
+{% for skip_cat in skip_list %}
+{% if category contains skip_cat %}
+{% assign skip = true %}
+{% endif %}
+{% endfor %}
+
+{% if skip %}
+{{ category }}
+{% else %}
+<a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category }}</a>
+{% endif %}
+
+{% unless forloop.last %}&nbsp;{% endunless %}
+{% endfor %}
 </span>
-</div>
-</div>
-</figure>
 
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem">
+<hr>
+<br />
+
 <h2 id="comments"><a title="Category=General" href="#comments" class="warning">Comments</a></h2>
-<div class="CardItem split">
 <script src="https://giscus.app/client.js"
-        data-repo="FanzOfLenaZavaroni/fanzoflenazavaroni.github.io"
-        data-repo-id="R_kgDOIf0PVA"
-        data-category="General"
-        data-category-id="DIC_kwDOIf0PVM4CSviz"
-        data-mapping="pathname"
-        data-strict="1"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
+data-repo="FanzOfLenaZavaroni/fanzoflenazavaroni.github.io"
+data-repo-id="R_kgDOIf0PVA"
+data-category="General"
+data-category-id="DIC_kwDOIf0PVM4CSviz"
+data-mapping="pathname"
+data-strict="1"
+data-reactions-enabled="1"
+data-emit-metadata="0"
+data-input-position="bottom"
+data-theme="preferred_color_scheme"
+data-lang="en"
+crossorigin="anonymous"
+async>
 </script>
-</div>
-</div>
-</figure>
-
 </article>
