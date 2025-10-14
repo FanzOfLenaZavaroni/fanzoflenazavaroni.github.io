@@ -1,5 +1,5 @@
 ---
-layout: publicity-photos
+layout: post
 title: Publicity &#124; Photos &#124; Lena at the Madurodam Miniature City &#124; 30 March 1974
 maintitle: Publicity Photos
 subtitle: Lena at the Madurodam Miniature City

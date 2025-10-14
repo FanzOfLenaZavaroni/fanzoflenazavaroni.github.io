@@ -1,5 +1,5 @@
 ---
-layout: publicity-photos
+layout: post
 title: Publicity &#124; Photo &#124; 12 September 1978  &#124; The Press Association &#124; 
 maintitle: The Press Association
 subtitle: Issued a photograph of Lena Zavaroni

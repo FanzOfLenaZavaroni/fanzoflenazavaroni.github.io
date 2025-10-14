@@ -9,8 +9,7 @@ before: "Born On "
 after: " - Died On 1 October 1999 (aged 35 years, 10 months and 27 days)"
 description: A condensed version of Lena Zavaroni’s biography for visitors who may find the full Media Based Biography too lengthy or intense.
 post_description: A shorter, accessible summary of the full Media Based Biography of Lena Zavaroni.
-categories: [Biography, OnThisDay4November, OnThisDay1Octorber]
-author: Robcamstone
+categories: [Biography]
 last_modified_at: 27 June 2025
 ---
 

@@ -4,35 +4,29 @@ layout: default
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-<figure class="fig3">
-<div class="CardLayout CardLayout-Fix">
-<div class="CardItem">
-  <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline" id="{{ page.maintitle | escape }}">
-      <a href="#{{ page.maintitle | escape }}" class="warning">{{ page.maintitle }}</a>
-    </h1>
-    <h2 class="split">{{ page.subtitle }}</h2>
-    <p class="post-meta">
-      {%- if page.before -%}
-       <span itemprop="before" itemscope itemtype="http://schema.org/Person">
-         <span class="p-before h-card" itemprop="name">{{ page.before }}</span>
-       </span>
-      {%- endif -%}
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.after -%}
-       <span itemprop="after" itemscope itemtype="http://schema.org/Person">
-         <span class="p-after h-card" itemprop="name">{{ page.after }}</span>
-       </span>
-      {%- endif -%}
-    </p>
-</div>
-</div>
-  </header>
-</figure>
+<header class="post-header">
+<h1 class="post-title p-name" itemprop="name headline" id="{{ page.maintitle | escape }}">
+<a href="#{{ page.maintitle | escape }}" class="warning">{{ page.maintitle }}</a>
+</h1>
+<h2 class="split">{{ page.subtitle }}</h2>
+<p class="post-meta">
+{%- if page.before -%}
+ <span itemprop="before" itemscope itemtype="http://schema.org/Person">
+ <span class="p-before h-card" itemprop="name">{{ page.before }}</span>
+ </span>
+{%- endif -%}
+<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{{ page.date | date: date_format }}
+</time>
+{%- if page.after -%}
+ <span itemprop="after" itemscope itemtype="http://schema.org/Person">
+ <span class="p-after h-card" itemprop="name">{{ page.after }}</span>
+ </span>
+{%- endif -%}
+</p>
+</header>
 
 <div class="post-content e-content" itemprop="articleBody">
-  {{ content }}
+{{ content }}
 </div>

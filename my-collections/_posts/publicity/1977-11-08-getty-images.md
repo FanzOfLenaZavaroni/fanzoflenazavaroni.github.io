@@ -1,5 +1,5 @@
 ---
-layout: publicity-photos
+layout: post
 title: Publicity &#124; Photo &#124; 8 November 1977  &#124; Evening Standard/Hulton Archive via Getty Images
 maintitle: Evening Standard/Hulton Archive
 subtitle: Publicity Photo
