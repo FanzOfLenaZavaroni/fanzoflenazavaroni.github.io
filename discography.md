@@ -61,6 +61,7 @@ last_modified_at: 7 August 2025
 <li><a href="/discography/studio-albums">Studio Albums</a></li>
 <li><a href="/discography/compilation-albums">Compilation Albums</a></li>
 <li><a href="/discography/singles">Singles</a></li>
+<li><a href="/discography/sound-postcards">sound Postcards</a></li>
 <li><a href="/discography/spoken-words">Spoken Words</a></li>
 <li><a href="/discography/tribute-songs">Tribute Songs</a></li>
 <li><a href="/discography/karaoke">Karaoke</a></li>
@@ -69,7 +70,6 @@ last_modified_at: 7 August 2025
 <ul>
 <li><a href="/discography/podcasts">Podcasts</a></li>
 <li><a href="/discography/sheet-music">Sheet Music</a></li>
-<li><a href="/discography/sound-postcards">sound Postcards</a></li>
 </ul>
 </div></div>
 </figure>
