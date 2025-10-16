@@ -10,51 +10,30 @@ image: /assets/images/sf-lz.jpg
 categories: [ITV, TV&#45;AM, Good-Morning-Britain, OnThisDay17October, Year-1984]
 ---
 
-<figure class="fig3">
-<img src="/assets/images/sf-lz.jpg" class="full-width">
-<figcaption>
-<cite>Lena (on the right) appeared alongside Samantha Fox on the sofa to talk about her comeback from illness.</cite>
-</figcaption>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Presenters</a></h2>
+<ul>
+<li><strong>Presenters:</strong> Anne Diamond</li>
+<li><strong>Presenters:</strong> Nick Owen</li>
+<li><strong>Presenters:</strong> Mike Morris</li>
+<li><strong>Newsreader:</strong> Gordon Honeycomb</li>
+<li><strong>Weather presenter: </strong> Wincey Willis</li>
+<li><strong>Presenter of Daily Exercise Routines</strong> Lizzie Webb</li>
+</ul>
 
-{: .clear}
+<h2 id="infobox2"><a href="#infobox2">Guests</a></h2>
+<ul>
+<li><strong>Singer and Television Hostess:</strong> Lena Zavaroni</li>
+<li><strong>Former Page 3 Model Turned Pop Singer:</strong> Samantha Fox</li>
+<li><strong>Television Presenter, Radio Presenter, Writer and Producer:</strong> Jeremy Beadle</li>
+<li><strong>Footballer:</strong> Mick Channon</li>
+<li><strong>Author, Journalist:</strong> Eve Pollard</li>
+<li><strong>Journalist, Agony Aunt and Author:</strong> Virginia Ironside</li>
+</ul>
 
-<figure class="fig3">
-<h2 id="presenters"><a href="#presenters">Presenters</a></h2>
-<table>
-<tr><th style="width:50%;">Presenters:</th><td style="width:50%;">Anne Diamond</td></tr>
-<tr><th>Presenters:</th><td>Nick Owen</td></tr>
-<tr><th>Presenters:</th><td>Mike Morris</td></tr>
-<tr><th>Newsreader:</th><td>Gordon Honeycomb</td></tr>
-<tr><th>Weather presenter: </th><td>Wincey Willis</td></tr>
-<tr><th>Presenter of Daily Exercise Routines</th><td>Lizzie Webb</td></tr>
-</table>
-</figure>
-
-{: .clear}
-
-<figure class="fig3">
-<h2 id="guests"><a href="#guests">Guests</a></h2>
-<table>
-<tr style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lz"><th style="width:50%;">Singer and Television Hostess:</th><td style="width:50%;">Lena Zavaroni</td></tr>
-<tr><th>Former Page 3 Model Turned Pop Singer:</th><td>Samantha Fox</td></tr>
-<tr><th>Television Presenter, Radio Presenter, Writer and Producer:</th><td>Jeremy Beadle</td></tr>
-<tr><th>Footballer:</th><td>Mick Channon</td></tr>
-<tr><th>Author, Journalist:</th><td>Eve Pollard</td></tr>
-<tr><th>Journalist, Agony Aunt and Author:</th><td>Virginia Ironside</td></tr>
-</table>
-</figure>
-
-{: .clear}
-
-<figure class="fig3">
-<h2 id="production"><a href="#production">Production</a></h2>
-<table>
-<tr><th style="width:50%;">Director:</th><td style="width:50%;">Alan Goway</td></tr>
-<tr><th>Programme Editor:</th><td>Chris Riley</td></tr>
-<tr><th>Editor:</th><td>Peter McHugh</td></tr>
-<tr><th>Production company:</th><td>TV-AM</td></tr>
-</table>
-</figure>
-
-<br />{: .clear}
+<h2 id="infobox3"><a href="#infobox3">Production</a></h2>
+<ul>
+<li><strong>Director:</strong> Alan Goway</li>
+<li><strong>Programme Editor:</strong> Chris Riley</li>
+<li><strong>Editor:</strong> Peter McHugh</li>
+<li><strong>Production company:</strong> TV-AM</li>
+</ul>
