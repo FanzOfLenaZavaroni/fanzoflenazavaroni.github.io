@@ -10,15 +10,18 @@ categories: [BBC-Radio-2, OnThisDay17October, Year-1978]
 ---
 
 <h2 id="contributors"><a href="#contributors">Contributors</a></h2>
+<ul class="col">
+<li><strong>Star/Singer:</strong> Lena Zavaroni</li>
+<li><strong>Comedian:</strong> Bernie Clifton</li>
+<li><strong>Singer:</strong> Jamie Michael Stewart</li>
+<li><strong>Pianist:</strong> Chester Harriott</li>
+<li><strong>Comedian:</strong> Albert Modley</li>
+<li><strong>Conductor:</strong> Brian Fitzgerald</li>
+<li><strong>Producer:</strong> Mike Craig</li>
+<li><strong>Source:</strong> <a href="https://genome.ch.bbc.co.uk/schedules/radio2/1978-10-17#at-22.02">BBC Genome</a></li>
+</ul>
 
-<table id="contributors">
-<tr><th>Star/Singer</th><td>Lena Zavaroni</td></tr>
-<tr><th>Comedian</th><td>Bernie Clifton</td></tr>
-<tr><th>Singer</th><td>Jamie Michael Stewart</td></tr>
-<tr><th>Pianist</th><td>Chester Harriott</td></tr>
-<tr><th>Comedian</th><td>Albert Modley</td></tr>
-<tr><th>Conductor</th><td>Brian Fitzgerald</td></tr>
-<tr><th>Producer</th><td>Mike Craig</td></tr>
-<tr><th>Source</th><td><a href="https://genome.ch.bbc.co.uk/schedules/radio2/1978-10-17#at-22.02">BBC Genome</a></td></tr>
-</table>
-
+<style>
+.col {columns:2;}
+@media screen and (orientation: portrait) {.col {columns:1;}}
+</style>
