@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1980-10-06-an-evening-with-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/34de91492e7000d9773efcd4b3df49d712d4d1bf)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/dd8593ff2e0e8aa35485d18a4df44fbe833aad23)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d0e0944069f8b6e47fa091da9d421df19b5c6b3a)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/452d56a06d96568c3ce4c8b6bfd9bf7d87fe3494)
-- [Update landscape-placeholder.svg, 1963-11-04-lena-zavaroni.md, and 19…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c804f8ff75c95f26457751abfa54229e2735b2c0)
+- [Update 1976-10-19-the-glasgow-herald.md, 1999-10-21-birmingham-evenin…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/51e2cd4e29172d70b26690ef985ae68d44b487e8)
+- [Update 1981-01-10-lena-sues.jpg, the-times-london-england-saturday-oc…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/34fda8d1be376664f0a5b81f3e121a528a316e46)
+- [Update discography.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/06357a7f5698e350d777b307767e39fb3f155212)
+- [Update 2025-10-10-its-behind-you.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6eec857e234dfc0a689b17c2d62d9cbcc3a1afb3)
+- [Update 2025-10-10-its-behind-you.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/82769dfb4a0ce74c244aa7c1fe20c5216a91371b)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
