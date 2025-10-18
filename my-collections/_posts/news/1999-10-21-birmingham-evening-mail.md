@@ -4,7 +4,6 @@ title: Birmingham Evening Mail (England) &#124; 21 October 1999
 maintitle: Birmingham Evening Mail (England)
 subtitle: MY AGONY OVER LENA; Memories Force Best Pal from Home
 description: MY AGONY OVER LENA; Memories Force Best Pal from Home.
-media: Newspaper
 post_description: MY AGONY OVER LENA; Memories Force Best Pal from Home.
 categories: [Newspaper-Birmingham-Evening-Mail, OnThisDay21October]
 ---
@@ -18,4 +17,3 @@ Her GP has given her sleeping tablets to try to help her condition and housing o
 Elly, aged 41, said: "I'm finding it very hard on my own. It's easier when you have family around you to help you get through it...
 
 <cite>[Birmingham Evening Mail (England) via Questia](https://www.questia.com/article/1G1-60213960/my-agony-over-lena-memories-force-best-pal-from-home){: .external-link} Link is broken</cite>
-
