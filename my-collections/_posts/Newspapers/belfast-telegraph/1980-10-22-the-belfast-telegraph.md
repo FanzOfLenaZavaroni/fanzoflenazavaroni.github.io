@@ -10,8 +10,12 @@ categories: [Newspaper-Belfast-Telegraph, OnThisDay22October]
 last_modified_at: 18 October 2023
 ---
 
-<figure class="fig3">
-<a href="/assets/images/newspapers/1980-10-22-the-belfast-telegraph.png"><img src="/assets/images/newspapers/1980-10-22-the-belfast-telegraph.png" class="full-width zoom-in" /></a>
-<cite>The Belfast Telegraph - Page 13</cite>
-</figure>
-
+<h2 id="infobox1><a href="#infobox1>Details Of The Advert</a></h2>
+<h2>NEW VIC THEATRE</h2>
+<p><strong>BELFAST presents</strong></p>
+<p><strong>Wendesday 22nd to Saturday 25 Oct.</strong></p>
+<p><strong>THE DYNAMIC</strong></p>
+<h2>LENA ZAVARONI</h2>
+<p><strong>with NORMAN COLLIER, DAWSON CHANCE,</strong></p>
+<p><strong>BARRY NOLAN ORVHESTRA</strong></p>
+<p>TICKETS: £5.00, £3=4.00, £3.00</p>
