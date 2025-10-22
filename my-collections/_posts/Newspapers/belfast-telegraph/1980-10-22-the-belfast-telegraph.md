@@ -10,7 +10,7 @@ categories: [Newspaper-Belfast-Telegraph, OnThisDay22October]
 last_modified_at: 18 October 2023
 ---
 
-<h2 id="infobox1><a href="#infobox1>Details Of The Advert</a></h2>
+<h2 id="infobox1><a href="#infobox1">Details Of The Advert</a></h2>
 <h2>NEW VIC THEATRE</h2>
 <p><strong>BELFAST presents</strong></p>
 <p><strong>Wendesday 22nd to Saturday 25 Oct.</strong></p>
