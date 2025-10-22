@@ -7,18 +7,13 @@ after: " - 25 October 1980"
 description: Starring Lena Zavaroni with Norman Collier, Dawson Chance and the Barry Holan Orchestra.
 post_description: Lena Zavaroni stars in her own show at the New Vic Theatre, Belfast.
 categories: [Theatres, The-New-Vic-Theatre, Belfast, OnThisDay22October, OnThisDay25October]
-last_modified_at: 23 December 2023
+last_modified_at: 23 October 2025
 ---
 
-<figure class="fig3">
-<table>
-<tr><th>Star / Singer</th><td>Lena Zavaroni</td></tr>
-<tr><th>Comedian</th><td>Norman Collier</td></tr>
-<tr><th>Ventriloquist</th><td>Dawson Chance</td></tr>
-<tr><th>Musicians</th><td>Barry Holan Orchestra</td></tr>
-<tr><th>Cinema Treasures</th><td><a href="http://cinematreasures.org/theaters/18146">New Vic Theatre, Belfast</a></td></tr>
-</table>
-</figure>
-
-<br />{: .clear}
-
+<ul>
+<li><strong>Star / Singer</strong> ena Zavaroni</li>
+<li><strong>Comedian</strong> Norman Collier</li>
+<li><strong>Ventriloquist</strong> Dawson Chance</li>
+<li><strong>Musicians</strong> Barry Holan Orchestra</li>
+<li><strong>Cinema Treasures</strong> <a href="http://cinematreasures.org/theaters/18146">New Vic Theatre, Belfast</a></li>
+</ul>
