@@ -19,10 +19,10 @@ last_modified_at: 25 October 1015
 
 <h2 id="infobox2"><a href="#infobox2">Details</a></h2>
 <p>The Connoisseurs return to discuss the wonders of the British sausage, The Spinners guest star, and Lena Zavaroni performs Something 'Bout Ya Baby I Like.</p>
-<u>
-<ll><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1976-02-11#at-20.15">11 February 1976 BBC One</a></ll>
+<ul>
+<li><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1976-02-11#at-20.15">11 February 1976 BBC One</a></ll>
 <li><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1976-10-25#at-20.10">Repeat 25 October 1976 on BBC Two</a></li>
-</u>
+</ul>
 
 <h2 id="infobox3"><a href="#infobox3">Cast</a></h2>
 <ul>
