@@ -10,7 +10,3 @@ image: /assets/images/aladdin.jpg
 categories: [Thames-News, OnThisDay28October]
 ---
 
-![](/assets/images/aladdin.jpg){: .full-width}
-
-<cite>Lena appears with some of the cast of Aladdin</cite>
-
