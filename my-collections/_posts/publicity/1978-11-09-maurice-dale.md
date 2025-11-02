@@ -12,35 +12,14 @@ categories: [Publicity, OnThisDay9November, Year-1978]
 
 {{ page.description }}
 
+<a href="/2025-07-28-announcement/#infobox1">Media Integrity Over Fandom Misuse</a>
+
 <figure class="fig1">
-<img src="/assets/images/maurice-dale/maurice-dale-01.png" class="full-width" />
+<img src="/assets/images/placeholder/landscape-placeholder.svg" class="full-width" />
 </figure>
 
 <figure class="fig2">
-<img src="/assets/images/maurice-dale/maurice-dale-02.png" class="full-width" />
+<img src="/assets/images/placeholder/landscape-placeholder.svg" class="full-width" />
 </figure>
 
-{: .clear}
-
-<figure class="fig1">
-<img src="/assets/images/maurice-dale/maurice-dale-03.png" class="full-width" />
-</figure>
-
-<figure class="fig2">
-<img src="/assets/images/maurice-dale/maurice-dale-04.jpg" class="full-width" />
-</figure>
-
-{: .clear}
-
-<figure class="fig3">
-<img src="/assets/images/maurice-dale/maurice-dale-05.jpg" style="width;100%;" />
-<cite>All photos &copy; Maurice Dale - 9 November 1978</cite>
-</figure>
-
-<br />{: .clear}
-
-<style>
-.full-width {width:400px; height:355px; object-fit: cover;}
-@media screen and (orientation:portrait) {.full-width {width:100%; height:auto; object-fit: unset;}}
-</style>
-
+<p><strong>Note:</strong> There were more images than the number of placeholder images implies, but it would be a waste of data resources to add more than the two placeholder images.</p>

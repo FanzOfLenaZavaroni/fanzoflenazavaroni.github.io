@@ -17,6 +17,7 @@ categories: [Announcements, OnThisDay28July, Year-2025]
 <p>Many who claim to be fans reduce Lena Zavaroni to a product, ignoring the real person behind the public image and all that she endured.</p>
 <ul>
 <li><a href="/#infobox3">Why Fanz of Lena Zavaroni Switched to a Text-Based Archive</a></li>
+<li><a href="/2025-05-02-announcement">Important Notice About Images and Videos</a></li>
 <li><a href="/discography/podcasts/2021-04-29-two-hundred-percent#infobox7">Facebook: Cancel Culture</a></li>
 <li><a href="/discography/podcasts/2021-04-29-two-hundred-percent#infobox9">Facebook: 13 February 2024</a></li>
 </ul>
