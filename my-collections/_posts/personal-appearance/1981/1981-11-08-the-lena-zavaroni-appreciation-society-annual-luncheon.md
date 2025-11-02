@@ -4,53 +4,20 @@ title: The Lena Zavaroni Appreciation Society Annual Luncheon &#124; 8 November 
 maintitle: The Lena Zavaroni Appreciation Society Annual Luncheon
 subtitle: The Imperial Hotel, Blackpool
 description: Lena attended the first LZAS annual luncheon, attended by over 60 fans and held to celebrate her 18th birthday, where she met members of the society and presented them with signed photos.
-media: Details
 post_description: Annual luncheon, attended by over 60 fans and held to celebrate her 18th birthday, where she met members of the society and presented them with signed photos.
 categories: [Personal-Appearances, OnThisDay8November]
 ---
 
+Shirley Hill took photographs of Lena at the event.
+
+<a href="/2025-07-28-announcement/#infobox1">Media Integrity Over Fandom Misuse</a>
+
 <figure class="fig1">
-<img src="/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-01.jpg" class="full-width">
-<figcaption>
-<strong>Photo from the Event copyright Shirley Hill (1981)</strong>
-</figcaption>
+<img src="/assets/images/placeholder/landscape-placeholder.svg" class="full-width" />
 </figure>
 
 <figure class="fig2">
-<img src="/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-02.jpg" class="full-width">
-<figcaption>
-<strong>Photo from the Event copyright Shirley Hill (1981)</strong>
-</figcaption>
+<img src="/assets/images/placeholder/landscape-placeholder.svg" class="full-width" />
 </figure>
 
-{: .clear}
-
-<figure class="fig1">
-<img src="/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-03.jpg" class="full-width">
-<figcaption>
-<strong>Photo from the Event copyright Shirley Hill (1981)</strong>
-</figcaption>
-</figure>
-
-<figure class="fig2">
-<img src="/assets/images/1981-11-08-the-lena-zavaroni-appreciation-society-annual-luncheon/LZ-04.jpg" class="full-width">
-<figcaption>
-<strong>Photo from the Event copyright Shirley Hill (1981)</strong>
-</figcaption>
-</figure>
-
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
-
+<p><strong>Note:</strong> There were more images than the number of placeholder images implies, but it would be a waste of data resources to add more than the two placeholder images.</p>
