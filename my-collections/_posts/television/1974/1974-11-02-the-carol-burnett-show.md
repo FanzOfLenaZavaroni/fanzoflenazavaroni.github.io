@@ -11,40 +11,15 @@ image: /assets/images/US-TV/1974-11-02-the-carol-burnett-show.jpg
 categories: [US-Television, OnThisDay2November, OnThisDay21April, Year-1974, Year-1974, Year-1974]
 ---
 
-<figure class="fig1">
-<img src="/assets/images/US-TV/1974-11-02-the-carol-burnett-show.jpg" class="full-width">
-<figcaption>
-<strong>Lena Zavaroni and Carol Burnett</strong>
-</figcaption>
-</figure>
+<h2 id="infobox2"><a href="#infobox2">Cast and Crew</a></h2>
+<ul>
+<li>Carol Burnett</li>
+<li>Ernie Anderson</li>
+<li>Harvey Korman</li>
+<li>Vicki Lawrence</li>
+<li>Alan King</li>
+<li>Lena Zavaroni</li>
+<li>Punkin Productions Inc. (1972-1976)</li>
+</ul>
 
-<figure class="fig2">
-<table>
-<tr><th>Cast and Crew</th></tr>
-<tr><td>Carol Burnett</td></tr>
-<tr><td>Ernie Anderson</td></tr>
-<tr><td>Harvey Korman</td></tr>
-<tr><td>Vicki Lawrence</td></tr>
-<tr><td>Alan King</td></tr>
-<tr><td>Lena Zavaroni</td></tr>
-<tr><td>Punkin Productions Inc. (1972-1976)</td></tr>
-</table>
-</figure>
-
-<br />{: .clear}
-
-Guest Lena Zavaroni performs If They Could See Me Now and appears in a short comedy sketch with Carol.
-
-<style>
-.fig1 {float:left; width:48%;}
-figcaption {float:left; width:100%;}
-
-.fig2 {float:right; width:48%;}
-figcaption {float:left; width:100%;}
-
-@media only screen and (max-width: 700px) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:90%; margin-bottom: 10px;}
-}
-</style>
-
+<p>Guest Lena Zavaroni performs If They Could See Me Now and appears in a short comedy sketch with Carol.</p>
