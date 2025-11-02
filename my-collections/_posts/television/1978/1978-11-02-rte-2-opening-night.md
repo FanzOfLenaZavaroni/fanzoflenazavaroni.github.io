@@ -12,18 +12,10 @@ categories: [RTÉ-2, OnThisDay2November, OnThisDay5November, Year-1978]
 last_modified_at: 23 December 2023
 ---
 
-<figure class="fig1">
+<h2 id="infobox2"><a href="#infobox2">Summary</a></h2>
 <blockquote>
 <p>A gala RTÉ 2 opening Show, live from Cork Opera House, starring top international performers and personalties, many of whom will be making regular appearances on the new channel.</p>
 
 <p>Compere Mike Murphy presents THe Chieftains, Gemma Craven, Val Doonican, The George May Dancers, The Irish Ballet Company, The Montfort Singers, John O'Conor, Maureen Potter, Roy Walker, Colm C T Wilkinson and Lena Zavaroni.</p>
 </blockquote>
 <cite><a href="https://www.rte.ie/archives/2013/1031/483860-rt-2-launches-1978">RTÉ 2 Launches 1978</a></cite>
-</figure>
-
-<figure class="fig2">
-<a href="/assets/images/RTÉ/0010e0af-642.jpg"><img src="/assets/images/RTÉ/0010e0af-642.jpg" class="full-width zoom-in"></a>
-</figure>
-
-<br />{: .clear}
-
