@@ -20,4 +20,6 @@ Shirley Hill took photographs of Lena at the event.
 <img src="/assets/images/placeholder/landscape-placeholder.svg" class="full-width" />
 </figure>
 
+<br />{: .clear}
+
 <p><strong>Note:</strong> There were more images than the number of placeholder images implies, but it would be a waste of data resources to add more than the two placeholder images.</p>
