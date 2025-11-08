@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1992-10-29-this-morning .png, 0FFO-1984-OCT31-034.png, and 6 m…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a08e0fd9459ad93be02057677720fd974431b8ab)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d1d72108280e5296e5f495dc398a831f9e880878)
-- [Update aladdin.jpg, 1985-10-26-evening-times-page-11-cropped.png, and…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a3efc5be459dd5b0755eb7d5bcbc94a7e565da2c)
-- [Update 1999-10-26-hello.jpg](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a8997c1a902df1e93ccfedb1e8f94181ed2dddd4)
-- [Fix description formatting and update categories](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/54f9391d4090efc5da0e39cdd113bb1e375c5c53)
+- [Update redirect link for London Psychiatric Clinic post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d25b862cf39c72bb8e76641e684e22e56d110e2c)
+- [Fix note about placeholder images in markdown file](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5404e5bf5899dca6f3e7de698b7d22dec5ea5d3f)
+- [Fix formatting and add clear class to note section](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/75c237e28a403474e3b348de31f6b7f42b81e0ec)
+- [Update LZ-01.jpg, LZ-02.jpg, and 16 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a532cdc2e034aa2c929a894df9b4d393cfaff39f)
+- [Refactor cast and crew section in show post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/93bb1a8f8899be1159d73fc2103bf28fedc3c63f)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
