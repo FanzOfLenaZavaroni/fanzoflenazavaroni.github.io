@@ -229,3 +229,54 @@ height: 100%;
   }
 }
 
+
+/**
+ * Tables
+ */
+table {
+  margin-bottom: $spacing-unit;
+  width: 100%;
+  text-align: $table-text-align;
+  color: $table-text-color;
+  border-collapse: collapse;
+  border: 1px solid $table-border-color;
+
+  tr {
+    &:nth-child(even) {
+      background-color: $table-zebra-color;
+    }
+  }
+
+  th,
+  td {
+    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+  }
+
+  th {
+    background-color: $table-header-bg-color;
+    border: 1px solid $table-header-border;
+  }
+
+  td {
+    border: 1px solid $table-border-color;
+  }
+
+  // Responsive fallback for smaller screens
+  @include media-query($on-laptop) {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch; // smooth swipe on iOS/Android
+    -ms-overflow-style: none;          // hide scrollbar in IE/Edge
+    scrollbar-width: none;             // hide scrollbar in Firefox
+
+    &::-webkit-scrollbar {
+      display: none;                   // hide scrollbar in WebKit browsers
+    }
+
+    th,
+    td {
+      padding: ($spacing-unit / 4) ($spacing-unit / 3); // trim padding, keep font size
+    }
+  }
+}
+
