@@ -262,7 +262,7 @@ table {
   }
 
   // Responsive fallback for smaller screens
-  @include media-query($on-laptop) {
+  @media screen and (orientation: portrait) {
     display: block;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch; // smooth swipe on iOS/Android
