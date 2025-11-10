@@ -1,19 +1,16 @@
-name: Delete old workflow runs
+name: Delete all workflow runs
 
 on:
-  schedule:
-    - cron: '0 0 * * *'   # run daily at midnight UTC
-  workflow_dispatch:       # allow manual trigger
+  workflow_dispatch:   # run manually only
 
 jobs:
   cleanup:
     runs-on: ubuntu-latest
     steps:
-      - name: Delete old workflow runs
+      - name: Delete all runs
         uses: Rubber1Duck/delete-old-workflow-runs@v0.4.0
         with:
           repository: ${{ github.repository }}
-          # 604800 seconds = 7 days. Adjust as needed.
-          older-than-seconds: 604800
+          older-than-seconds: 0   # 0 = delete everything, no age limit
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
