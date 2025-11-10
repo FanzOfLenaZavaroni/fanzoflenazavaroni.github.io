@@ -27,7 +27,6 @@ Part of BBC Two's 'tribute night' for Neil Diamond, the programmed featured arch
 <blockquote>
 <p>At the time of the original broadcast the BBC Channels were still broadcasting in Standard Definition (SD) for high definition (HD) viewers would have to watch BBC HD which was a channel that showed a selection of programmes from across the BBC's' other channels so limited in what was showed.</p>
 <table>
-<tr><th colspan="4">Dates</th></tr>
 <tr><th>Channel</th><th>Launched</th><th>Closed</th><th>Replaced by</th></tr>
 <tr><th>BBC HD</th><td>15/05/2006</td><td>26/03/2013</td><td>BBC Two HD</td></tr>
 <tr><th>BBC One HD</th><td>03/11/2010</td><td>N/A</td><td>N/A</td></tr>
