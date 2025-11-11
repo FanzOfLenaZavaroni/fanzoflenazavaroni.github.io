@@ -10,15 +10,7 @@ image: /assets/images/theatres/1976-11-15-the-royal-variety-performance.jpg
 categories: [Theatres, London-Palladium, BBC-One, OnThisDay15November, Year-1976]
 ---
 
-<figure class="fig1">
-<img src="/assets/images/theatres/1976-11-15-the-royal-variety-performance-01.jpg" class="full-width">
-<figcaption>
-<p>After sixteen years of recorded television broadcasts, in 1976, the Royal Variety Performance was broadcast live on television for the first time, and held in the presence of Her Majesty Queen Elizabeth and the Queen Mother.</p>
-</figcaption>
-<img src="/assets/images/theatres/1976-11-15-the-royal-variety-performance-02.jpg" class="full-width">
-<figcaption>
-<p>Lena peforms "Chim Chim Cher-ee", "When You Wish Upon A Star", "Somewhere Over The Rainbow", and "It's Not Where You Start It's Where You Finish". She then chats with Max Bygraves, who jokes that she looks like the then President-elect, Jimmy Carter.</p>
-</figcaption>
+<figure class="fig3">
 <table>
 <tr><th>BBC Grnome</th></tr>
 <tr><td><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1976-11-15#at-19.50">The Royal Variety Performance - Part 1 at 19.50</a></td></tr>
@@ -28,7 +20,7 @@ categories: [Theatres, London-Palladium, BBC-One, OnThisDay15November, Year-1976
 </table>
 </figure>
 
-<figure class="fig2">
+<figure class="fig3">
 <table>
 <tr><th colspan="2" style="font-size:24px;">Contributors</th></tr>
 <tr><th>Singer</th><td>Shirley Bassey</td></tr>
@@ -53,6 +45,3 @@ categories: [Theatres, London-Palladium, BBC-One, OnThisDay15November, Year-1976
 <tr><th>Television Presentation</th><td>Stewart Morris</td></tr>
 </table>
 </figure>
-
-<br />{: .clear}
-
