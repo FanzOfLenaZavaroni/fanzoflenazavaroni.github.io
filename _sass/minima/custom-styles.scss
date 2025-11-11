@@ -229,10 +229,10 @@ height: 100%;
   }
 }
 
+
 /**
  * Tables
  */
-
 table {
   margin-bottom: $spacing-unit;
   width: 100%;
@@ -262,7 +262,7 @@ table {
   }
 
   // Responsive fallback for smaller screens
-  @include media-query($on-laptop) {
+  @media screen and (orientation: portrait) {
     display: block;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch; // smooth swipe on iOS/Android
@@ -279,4 +279,5 @@ table {
     }
   }
 }
+
 
