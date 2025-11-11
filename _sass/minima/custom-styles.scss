@@ -229,7 +229,6 @@ height: 100%;
   }
 }
 
-
 /**
  * Tables
  */
@@ -261,21 +260,21 @@ table {
     border: 1px solid $table-border-color;
   }
 
-  // Responsive fallback for smaller screens
+  // Responsive fallback for portrait orientation
   @media screen and (orientation: portrait) {
-    display: block;
+    width: 100%;
     overflow-x: auto;
-    -webkit-overflow-scrolling: touch; // smooth swipe on iOS/Android
-    -ms-overflow-style: none;          // hide scrollbar in IE/Edge
-    scrollbar-width: none;             // hide scrollbar in Firefox
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 
     &::-webkit-scrollbar {
-      display: none;                   // hide scrollbar in WebKit browsers
+      display: none;
     }
 
     th,
     td {
-      padding: ($spacing-unit / 4) ($spacing-unit / 3); // trim padding, keep font size
+      padding: ($spacing-unit / 4) ($spacing-unit / 3);
     }
   }
 }
