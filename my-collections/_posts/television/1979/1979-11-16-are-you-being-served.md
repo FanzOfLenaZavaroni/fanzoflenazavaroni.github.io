@@ -6,65 +6,48 @@ subtitle: Episode 7.5 - The Hero
 description: Mrs. Slocombe makes a comment about Lena Zavaroni.
 post_description: Episode 7.5 - The Hero - Mrs. Slocombe makes a comment about Lena Zavaroni.
 image: /assets/images/BBC-PIDs/1920xn/p01tlmqw.jpg
-categories: [BBC-One, "Are-You-Being-Served?", Popular-Culture, OnThisDay16November]
+categories: [BBC-One, Are-You-Being-Served?, Popular-Culture, OnThisDay16November]
 last_modified_at: 15 November 2023
 ---
 
+<h2 id="infobox1"><a href="#infobox1">Popular Culture: The Sitcom makes a short reference about Lena Zavaroni</a></h2>
+<p><strong>Mrs. Slocombe buys her cat some presents including a single by Lena Zavaroni.</strong></p>
+<blockquote>Mrs. Slocombe: And a record of Lena Zavaroni.<br />Miss Brahms: Oh! Is that her favourite.<br />Mrs. Slocombe: No! But It's the only way I can get her to go out when it's raining.</blockquote>
+
 <figure class="fig1">
-<h2 id="screenshot"><a href="#screenshot">Screenshot</a></h2>
-<a href="/assets/images/BBC-PIDs/1920xn/p01tlmqw.jpg"><img src="/assets/images/BBC-PIDs/1920xn/p01tlmqw.jpg" class="full-width zoom-in" /></a>
-<cite>When the Head of Sports Department lets out the secret that Captain Peacock has a boil in a particularly painful spot, Peacock complains to Mr Rumbold. Result - he's volunteered to defend his honour in a boxing match.</cite>
+<h2 id="infobox2"><a href="#infobox2">Cast</a></h2>
+<ul>
+<li><strong>Mr Rumbold:</strong> Nicholas Smith</li>
+<li><strong>Mr Lucas:</strong> Trevor Bannister</li>
+<li><strong>Miss Brahms:</strong> Wendy Richard</li>
+<li><strong>Mr Grace:</strong> Harold Bennett</li>
+<li><strong>Mr Harman:</strong> Arthur English</li>
+<li><strong>Mr Humphries:</strong> John Inman</li>
+<li><strong>Mr Goldberg:</strong> Alfie Bass</li>
+<li><strong>Captain Peacock:</strong> Frank Thornton</li>
+<li><strong>Mrs Slocombe:</strong> Mollie Sugden</li>
+</ul>
 </figure>
 
 <figure class="fig2">
-<h2 id="dailymotion"><a href="#dailymotion">Dailymotion</a></h2>
-<div class="responsive-video"><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x804unp" width="100%" height="100%" allowfullscreen title="Dailymotion Video Player" > </iframe></div></div>
-<cite>Mrs. Slocombe's Cat Tiddles approximately 03:30 into the programme</cite>
+<h2 id="infobox3"><a href="#infobox3">Crew and Sources</a></h2>
+<ul>
+<li><strong>Writer:</strong> Jeremy Lloyd</li>
+<li><strong>Writer:</strong> David Croft</li>
+<li><strong>Producer:</strong> David Croft</li>
+<li><strong>BBC Genome:</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1979-11-16#at-19.00">Are You Being Served? 16 November 1979 at 1900Hrs</a></li>
+<li><strong>Podcast:</strong> <a href="/discography/podcasts/2021-03-05-that-does-suit-madame">That Does Suit Madame, The "Are You Being Served?" Podcast</a></li>
+</ul>
 </figure>
 
 {: .clear}
 
-<figure class="fig3">
-<p><strong>Mrs. Slocombe buys her cat some presents including a single by Lena Zavaroni.</strong></p>
-<blockquote>Mrs. Slocombe: And a record of Lena Zavaaroni.<br />Miss Brahms: Oh! Is that her favourite.<br />Mrs. Slocombe: No! But It's the only way I can get her to go out when it's raining.</blockquote>
-</figure>
+<h2 id="infobox4"><a href="#infobox4">BBC Genome: An example of how the BBC care so little about broadcast history</a></h2>
+<p>The sitcom was broadcast on BBC One, yet due to the poor way the BBC schedules pages are managed, it is made to look as though the show was first broadcast on BBC Two. This demonstrates how little care the BBC takes with its own history. It also makes research unnecessarily difficult for anyone interested in past programmes.</p>
+<p>The problem is simple to fix. The schedules section of the BBC website should only list upcoming broadcasts, rather than sending its content to the Genome Project site via the BBC’s internal API. This would prevent contradictory information about which channel a programme was originally shown on.</p>
+<p>A better solution, given the BBC’s desire to link programmes currently available on iPlayer, would be to ensure that content from the schedules pages is displayed on the related Genome Project page in a separate section. That way, it would be clear that the information relates to current broadcasts, not the original transmission.</p>
 
-{: .clear}
-
-<figure class="fig3">
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-<table>
-<tr><th style="width:30%;">Character</th><th style="width:70%;">Actor</th></tr>
-<tr><td>Mr Rumbold:</td><td>Nicholas Smith</td></tr>
-<tr><td>Mr Lucas:</td><td>Trevor Bannister</td></tr>
-<tr><td>Miss Brahms:</td><td>Wendy Richard</td></tr>
-<tr><td>Mr Grace:</td><td>Harold Bennett</td></tr>
-<tr><td>Mr Harman:</td><td>Arthur English</td></tr>
-<tr><td>Mr Humphries:</td><td>John Inman</td></tr>
-<tr><td>Mr Goldberg:</td><td>Alfie Bass</td></tr>
-<tr><td>Captain Peacock:</td><td>Frank Thornton</td></tr>
-<tr><td>Mrs Slocombe:</td><td>Mollie Sugden</td></tr>
-</table>
-</figure>
-
-{: .clear}
-
-<figure class="fig3">
-<h2 id="crew"><a href="#crew">Crew and Sources</a></h2>
-<table>
-<tr><th colspan="2">Crew</th></tr>
-<tr><td style="width:30%;">Writer:</td><td style="width:70%;">Jeremy Lloyd</td></tr>
-<tr><td>Writer:</td><td>David Croft</td></tr>
-<tr><td>Producer:</td><td>David Croft</td></tr>
-<tr><th colspan="2">Sources</th></tr>
-<tr><td>BBC Genome:</td><td><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1979-11-16#at-19.00">Are You Being Served? 16 November 1979 at 1900Hrs</a></td></tr>
-<tr><td>Podcast:</td><td><a href="/discography/podcasts/2021-03-05-that-does-suit-madame">That Does Suit Madame, The "Are You Being Served?" Podcast</a></td></tr>
-</table>
-</figure>
-
-<br />{: .clear}
-
-<style>
-.responsive-video {padding-top: 0px;}
-</style>
-
+<h2 id="infobox5"><a href="#infobox5">Other examples of how little broadcast history matters to the BBC</a></h2>
+<ul>
+<li><a href="/2010-11-14-sings-neil-diamond/#infobox4">Even the editor of the page is confused</a></li>
+</ul>
