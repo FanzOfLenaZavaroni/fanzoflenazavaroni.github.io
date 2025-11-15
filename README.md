@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update redirect link for London Psychiatric Clinic post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d25b862cf39c72bb8e76641e684e22e56d110e2c)
-- [Fix note about placeholder images in markdown file](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5404e5bf5899dca6f3e7de698b7d22dec5ea5d3f)
-- [Fix formatting and add clear class to note section](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/75c237e28a403474e3b348de31f6b7f42b81e0ec)
-- [Update LZ-01.jpg, LZ-02.jpg, and 16 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a532cdc2e034aa2c929a894df9b4d393cfaff39f)
-- [Refactor cast and crew section in show post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/93bb1a8f8899be1159d73fc2103bf28fedc3c63f)
+- [Update 2021-03-05-that-does-suit-madame.md, 1979-11-16-are-you-being-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/61e77907bfd9b25332dfebbf0e35e06c0a531e35)
+- [Update custom-styles.scss and 1976-11-15-the-royal-variety-performanc…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/318051dfba669b9cfc674dec2c7462b87eb5ee49)
+- [Update custom-styles.scss](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a99deeaba8a2dea92d3643a1564b5cb6fe8c3de5)
+- [Update custom-styles.scss](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8de5d457ea31d815285e7f7c98dc37a4828a9196)
+- [Update custom-styles.scss and 1976-11-15-the-royal-variety-performanc…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ee4ef541d35a1fb9dba2024a6df079b23244d173)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
