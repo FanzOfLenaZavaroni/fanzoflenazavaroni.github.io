@@ -30,15 +30,14 @@ last_modified_at: 2023-09-11T14:28:00+01:00
 <ul>
 <li><strong>Singer - Song:</strong> Lena Zavaroni - Ma! (He's Making Eyes At Me)</li>
 <li>
-<p><strong>Singer - Song:</strong> Drupi - Most likely "Vado Via" (Unconfirmed)</p>
-<p><strong>Additional Notes:</strong> Based on research, the most likely song by Drupi is <em>Vado Via</em> (1973), though this remains <strong>unconfirmed</strong>. 
-Drupi’s real name is <em>Giampiero Anelli</em>. The label "<em>Tadeusz Steigert - Jedlicze</em>" is also currently <strong>unconfirmed</strong>.</p>
+<p><strong>Singer - Song:</strong> Drupi - Vado Via</p>
+<p><strong>Additional Notes:</strong>  Drupi’s real name is Giampiero Anelli.</p>
 </li>
-<li><strong>Label</strong> Tadeusz Steigert - Jedlicze (Unconfirmed)</li>
 <li><strong>Format</strong> 45RPM Double Sided Sound Postcard</li>
 <li><strong>Country</strong> Poland</li>
 <li><strong>Released</strong> Unknown Date</li>
 </ul>
 </div></div>
 </figure>
+{:.clear}<br />
 
