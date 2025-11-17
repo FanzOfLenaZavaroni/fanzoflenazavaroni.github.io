@@ -39,5 +39,5 @@ last_modified_at: 2023-09-11T14:28:00+01:00
 </ul>
 </div></div>
 </figure>
-{:.clear}<br />
 
+<br />{: .clear}
