@@ -32,8 +32,9 @@ categories: [Discography, Sound-Postcards]
 <div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Known Releases Of Sound Postcards Featuring Lena Zavaroni</a></h2>
 <ul>
 <li><a href="/discography/sound-postcards/2023-09-11-demis-roussos-lena-zavaroni">Demis Roussos - When I'm A Kid & lena-zavaroni - Ma! (He's Making Eyes At Me)</a></li>
-<li><a href="/discography/sound-postcards/2023-09-11-lena-zavaroni-drupi">lena-zavaroni - Ma! (He's Making Eyes At Me) & Drupi - Song currently unknown</a></li>
+<li><a href="/discography/sound-postcards/2023-09-11-lena-zavaroni-drupi">lena-zavaroni - Ma! (He's Making Eyes At Me) & Drupi - Vado Via</a></li>
 </ul>
 </div></div>
 </figure>
 
+<br />{: .clear}
