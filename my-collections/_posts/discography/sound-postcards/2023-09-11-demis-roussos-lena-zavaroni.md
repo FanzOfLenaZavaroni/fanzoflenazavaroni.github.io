@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pocztówka Dzwiekowa (Sound Postcard)
-maintitle: Pocztówka Dzwiekowa (Sound Postcard)
+title: Pocztówka dźwiękowa (Sound Postcard)
+maintitle: Pocztówka dźwiękowa (Sound Postcard)
 subtitle: Demis Roussos & Lena Zavaroni
 before: "<strong>Note:</strong> Creation Date of this post is used as the release date unknown "
 description: Demis Roussos & Lena Zavaroni.
@@ -21,18 +21,15 @@ last_modified_at: 2023-09-11T13:40:00+01:00
 
 {: .clear}
 
-<figure class="fig3">
-<table>
-<tr><th style="width:50%">Pocztówka Dzwiekowa (Sound Postcard)</th><td style="width:50%"><a href="/discography/sound-postcards">What are they?</a></td></tr>
-<tr class="split"><th>Singer - Song:</th><td>Demis Roussos - When I'm A Kid'</td></tr>
-<tr><th>Singer - Song:</th><td>Lena Zavaroni - Ma! (He's Making Eyes At Me)</td></tr>
-<tr><th>Label:</th><td>Tadeusz Steigert - Jedlicze: 222z</td></tr>
-<tr><th>Format:</th><td>45RPM Mono Single Sided Sound Postcard</td></tr>
-<tr><th>Country:</th><td>Poland</td></tr>
-<tr><th>Released:</th><td>Unknown Date</td></tr>
-<tr class="split"><td colspan="2">Based on the fact that Demis Roussos's single When I'm A Kid was released in 1973 and Lena Zavaroni's single Ma! (He's Making Eyes At Me') was released in 1974 the most likely year of release would be 1974.</td></tr>
-</table>
-</figure>
+<h2><a href="/discography/sound-postcards">Pocztówka dźwiękowa (Sound Postcard), What are they?</a></h2>
+<ul>
+<li><strong>Singer</strong> Demis Roussos, <strong>Song:</strong> When I'm A Kid</li>
+<li><strong>Singer</strong> Lena Zavaroni, <strong>Song:</strong> Ma! (He's Making Eyes At Me)</li>
+<li><strong>Label</strong> Tadeusz Steigert - Jedlicze: 222z</li>
+<li><strong>Format</strong> 45RPM Single Sided Sound Postcard</li>
+<li><strong>Country</strong> Poland</li>
+<li><strong>Released</strong> Unknown Date</li>
+</ul>
+<p><strong>Additional Notes:</strong> Based on the fact that Demis Roussos's single When I'm A Kid was released in 1973 and Lena Zavaroni's single Ma! (He's Making Eyes At Me') was released in 1974 the most likely year of release would be 1974.</p>
 
 <br />{: .clear}
-
