@@ -41,7 +41,7 @@ Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, A
 <tr><th>On screen participant</th><td>Peter Morrison</td></tr>
 <tr><th>On screen participant</th><td>The John Carmichael Band</td></tr>
 <tr><th>On screen participant</th><td>The New Year Dancers</td></tr>
-<tr style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lz"><th><a href="/1985-11-21-Lenas-pre-recorded-sequence-for-the-new-year-show-is-recorded">Pre-recorded Sequence</a></th><td>Lena Zavaroni performed &quot;Auld Lang Syne&quot;</td></tr>
+<tr><th><a href="/1985-11-21-Lenas-pre-recorded-sequence-for-the-new-year-show-is-recorded">Pre-recorded Sequence</a></th><td>Lena Zavaroni performed &quot;Auld Lang Syne&quot;</td></tr>
 </table>
 </figure>
 
