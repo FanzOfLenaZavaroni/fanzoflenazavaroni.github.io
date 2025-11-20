@@ -21,7 +21,7 @@ categories: [Books, OnThisDay20November, Year-2008]
 <tr><th>ISBN-13</th><td><a class="external-link" href="https://www.google.com/search?q=ISBN+978-0230573284&newwindow=1&sca_esv=9c49312c20cc6857&biw=1920&bih=919&ei=SBYfafDnF_WEhbIPna--2Qo&ved=0ahUKEwjwq4jO6YCRAxV1QkEAHZ2XL6sQ4dUDCBE&uact=5&oq=ISBN+978-0230573284&gs_lp=Egxnd3Mtd2l6LXNlcnAiE0lTQk4gOTc4LTAyMzA1NzMyODQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FSPwQUKsHWKsHcAJ4AJABAJgBkQKgAZECqgEDMi0xuAEDyAEA-AEC-AEBmAIDoAKiAsICCxAAGIAEGLADGKIEmAMAiAYBkAYFkgcFMi4wLjGgB58CsgcDMi0xuAeUAsIHBTAuMi4xyAcL&sclient=gws-wiz-serp">978-0230573284</a></td></tr>
 <tr><th>Formats:</th><td>Hardback</td></tr>
 <tr><th>Publisher:</th><td>Palgrave Macmillan (20/11/2008)</td></tr>
-<tr><th width="40%">Google Books:</th><td><a class="external-link" href="https://books.google.co.uk/books?redir_esc=y&id=UbULAQAAMAAJ&focus=searchwithinvolume&q=Zavaroni">Search: Zavaroni</a></td></tr>
+<tr><th>Google Books:</th><td><a class="external-link" href="https://books.google.co.uk/books?redir_esc=y&id=UbULAQAAMAAJ&focus=searchwithinvolume&q=Zavaroni">Music in Contemporary British Fiction, Search: Zavaroni</a></td></tr>
 </table>
 </figure>
 
