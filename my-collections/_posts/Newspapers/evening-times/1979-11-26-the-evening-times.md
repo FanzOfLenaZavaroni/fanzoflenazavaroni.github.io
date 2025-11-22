@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Evening Times &#124; , 26 November 1979
+title: The Evening Times &#124; 26 November 1979
 maintitle: The Evening Times
 subtitle: A Teddy Tonic For Lena
 description: The Evening Times reported on Lena Zavaroni’s progress in Glasgow Southern General Hospital.
@@ -9,7 +9,6 @@ categories: [Newspaper-Evening-Times-(rebranded-as-the-Glasgow-Times-on-4-Decemb
 last_modified_at: 22 November 2023
 ---
 
-<img src="/assets/images/newspapers/1979-11-26-the-evening-times.jpg" />
+<h2 id="infobox1"><a href="#infobox1">Fair Use Summary</a></h2>
 
-<br />{: .clear}
-
+<p>Teenage singer Lena Zavaroni, aged 16, was admitted to Southern General Hospital last month with stomach pains. While recovering from what the article describes as a mystery illness, she has been keeping busy by sewing teddy bears for the children’s ward. Her manager, Dorothy Solomon, said Lena is feeling better, spending time reading and writing letters, and sounded happy when they spoke on the phone. Doctors have completed tests and expect she will be released soon, though they have not revealed the nature of her illness.</p>
