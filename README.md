@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 2021-03-05-that-does-suit-madame.md, 1979-11-16-are-you-being-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/61e77907bfd9b25332dfebbf0e35e06c0a531e35)
-- [Update custom-styles.scss and 1976-11-15-the-royal-variety-performanc…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/318051dfba669b9cfc674dec2c7462b87eb5ee49)
-- [Update custom-styles.scss](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a99deeaba8a2dea92d3643a1564b5cb6fe8c3de5)
-- [Update custom-styles.scss](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8de5d457ea31d815285e7f7c98dc37a4828a9196)
-- [Update custom-styles.scss and 1976-11-15-the-royal-variety-performanc…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ee4ef541d35a1fb9dba2024a6df079b23244d173)
+- [Update 1979-11-26-the-evening-times.jpg, 1979-11-26-the-evening-times…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c78241da0377751446652cb1904b7f8bbfd56085)
+- [Update 1978-11-25-bruce-forsyths-big-night.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0e452bfa3f35708b6196924e992cd4927db075a7)
+- [Revise descriptions and last modified date](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e2158918fffd845ff32b82a0736b45c34e40c0eb)
+- [Update article format in evening-times.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6d4aefc91838d6efc3dc04feb636b27bc6ba09ab)
+- [Update 1978-11-22-the-herald-scotland.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b474ecc3c67b180bb3f798cf1cf849387bd740e6)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
