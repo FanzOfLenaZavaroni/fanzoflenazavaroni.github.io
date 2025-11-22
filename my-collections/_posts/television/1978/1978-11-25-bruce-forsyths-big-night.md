@@ -11,22 +11,10 @@ categories: [London-Weekend-Television, OnThisDay25November, Year-1978]
 last_modified_at: 22 November 2023
 ---
 
-Lena performs You Keep Me Dancing, before being interviewed by Brucie.
+<p>Lena performs You Keep Me Dancing, before being interviewed by Brucie.</p>
 
-They then perform a duet of Something Extra to close the show.
+<p>They then perform a duet of Something Extra to close the show.</p>
 
-
-<figure class="fig1">
-<img src="/assets/images/ITV/1978-11-25-bruce-forsyths-big-night-01.jpg" class="full-width">
-</figure>
-
-<figure class="fig2">
-<img src="/assets/images/ITV/1978-11-25-bruce-forsyths-big-night-02.jpg" class="full-width">
-</figure>
-
-{: .clear}
-
-<figure class="fig1">
 <table>
 <tr><th colspan="2">Cast</th></tr>
 <tr><th style="width:50%;">Presenter</th><td style="width:50%;">Bruce Forsyth</td></tr>
@@ -41,9 +29,7 @@ They then perform a duet of Something Extra to close the show.
 <tr><th>Vocal accompaniment</th><td>The Third Kind</td></tr>
 <tr><th>Musical accompaniment</th><td>Alyn Ainsworth And His Orchestra</td></tr>
 </table>
-</figure>
 
-<figure class="fig2">
 <table>
 <tr><th colspan="2">Crew</th></tr>
 <tr><th style="width:50%;">Choreography</th><td style="width:50%;">Bryan Rogers</td></tr>
@@ -63,7 +49,4 @@ They then perform a duet of Something Extra to close the show.
 <tr><th>Director</th><td>David Bell</td></tr>
 <tr><th>Production company</th><td>London Weekend Television</td></tr>
 </table>
-</figure>
-
 <br />{: .clear}
-
