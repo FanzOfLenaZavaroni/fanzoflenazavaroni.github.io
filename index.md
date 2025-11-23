@@ -22,7 +22,10 @@ subtitle: This site is dedicated to preserving the truth and legacy of Lena Zava
 <li><a href="1963-11-04-summary-biography-of-lena-zavaroni/"><strong> Summary Of The Media Based Biography of Lena Zavaroni</strong></a></li>
 </ul>
 
-<h2 id="infobox4"><a href="#infobox4">Why Fanz of Lena Zavaroni Switched to a Text-Based Archive</a></h2>
+<h2 id="infobox4"><a href="#infobox4">Archive Philosophy</a></h2>
+<p>Every date connected to Lena Zavaroni matters. Even when no details survive beyond her name and the date, this archive records it. Some posts may therefore appear minimal or use placeholders — this is deliberate. It ensures Lena’s timeline remains complete, while respecting copyright and avoiding misuse of images. Absence is part of the record, and documenting it preserves the integrity of her story.</p>
+
+<h2 id="infobox5"><a href="#infobox5">Why Fanz of Lena Zavaroni Switched to a Text-Based Archive</a></h2>
 <p><strong>Fanz of Lena Zavaroni</strong> is dedicated to portraying Lena as a person—not as a commodity of fame or a gallery subject. This site no longer includes images or videos due to copyright concerns and the misuse of media by other platforms.</p>
 <p>Many websites value appearance over integrity, using watermarked or unauthorized images to draw attention. This site values truth, context, and respect—building meaningful pages based on verified history, firsthand recollections, and thoughtful layout. What started as a limitation has become a strength: pages now carry more depth and clarity than ever before.</p>
 <p>Whether you’re a lifelong fan or newly curious, you’re invited to explore Lena’s life from a place of honesty. Not a fantasy. A legacy.</p>
