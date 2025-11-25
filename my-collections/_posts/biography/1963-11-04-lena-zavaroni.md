@@ -369,9 +369,9 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 </figure>
 
 <figure class="fig3">
-<h2 id="infobox41"c><a href="#infobox41">Inquest</a></h2>
+<h2 id="infobox41"><a href="#infobox41">Inquest</a></h2>
 <p><strong>A judicial inquiry to ascertain the facts relating to an incident, such as a death</strong></p>
-<video src="/assets/media/LENA-ZAVARONI-INQUEST-DUE-TO-END-Archive-Footage-ITN-Source-BSP081299009-0.mp4" width="100%"poster="/assets/images/thumbnails/LENA-ZAVARONI-INQUEST-DUE-TO-END-Archive-Footage-ITN-Source-BSP081299009-0.png" controls="" controlsList="nodownload"></video>
+<video src="/assets/media/LENA-ZAVARONI-INQUEST-DUE-TO-END-Archive-Footage-ITN-Source-BSP081299009-0.mp4" width="100%"  poster="/assets/images/thumbnails/LENA-ZAVARONI-INQUEST-DUE-TO-END-Archive-Footage-ITN-Source-BSP081299009-0.png" controls="" controlsList="nodownload"></video>
 <cite>LENA ZAVARONI INQUEST DUE TO ENDArchive FootageITN Source, 8 December 1999</cite>
 <blockquote>
 <p>An inquest into the death of former child sensation Lena Zavaroni was told about the final weeks of her life today.</p>
