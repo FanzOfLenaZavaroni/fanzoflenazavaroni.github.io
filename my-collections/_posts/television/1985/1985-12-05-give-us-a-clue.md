@@ -24,8 +24,6 @@ last_modified_at: 5 December 2025
 </ul>
 </figure>
 
-{: .clear}
-
 <h2 id="infobox2"><a href="#infobox2">Crew</a></h2>
 <figure class="fig2">
 <ul>
@@ -34,3 +32,5 @@ last_modified_at: 5 December 2025
 <li><strong>Production company</strong>Thames Television</li>
 </ul>
 </figure>
+
+<br />{: .clear}
