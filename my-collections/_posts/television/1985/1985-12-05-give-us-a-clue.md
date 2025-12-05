@@ -10,7 +10,7 @@ last_modified_at: 5 December 2025
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Cast</a></h2>
-<figure class="fig1>
+<figure class="fig1">
 <ul>
 <li><strong>Chairman</strong>Michael Parkinson</li>
 <li><strong>Female Team Captain</strong>Una Stubbs</li>
@@ -25,7 +25,7 @@ last_modified_at: 5 December 2025
 </figure>
 
 <h2 id="infobox2"><a href="#infobox2">Crew</a></h2>
-<figure class="fig1>
+<figure class="fig2">
 <ul>
 <li><strong>Production assistant</strong>Liz Minchin</li>
 <li><strong>Producer & Director</strong>David Clark</li>
