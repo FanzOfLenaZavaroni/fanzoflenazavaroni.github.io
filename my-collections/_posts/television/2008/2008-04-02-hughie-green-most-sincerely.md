@@ -14,24 +14,18 @@ categories: [BBC-Four, Hughie-Green, OnThisDay2April, OnThisDay6December]
 <table style="text-align:center;">
 <tr><th colspan="4">Jump To</th></tr>
 <tr>
-<td style="width:25%;"><a href="#infobox1">Screenshot</a></td>
-<td style="width:25%;"><a href="#infobox2">Summary</a></td>
+<td colspan="2" style="width:50;"><a href="#infobox2">Summary</a></td>
 <td style="width:25%;"><a href="#infobox3">Notes</a></td>
 <td style="width:25%;"><a href="#infobox4">Credits</a></td>
 </tr>
 <tr><th colspan="4">External Links</th></tr>
 <tr>
-<td><a class="external-link" href="https://www.bbc.co.uk/drama/hughiegreenmostsincerely/">BBC Archived Page</a></td>
-<td><a class="external-link" href="https://www.bbc.co.uk/programmes/b009ph5x">BBC Four</a></td>
-<td><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_four/2008-04-02#at-21.00">BBC Genome</a></td>
-<td><a class="external-link" href="https://www.youtube.com/watch?v=QF0DGpECsJA">YouTube</a></td>
+<td style="width:25%;"><a class="external-link" href="https://www.bbc.co.uk/drama/hughiegreenmostsincerely/">BBC Archived Page</a></td>
+<td style="width:25%;"><a class="external-link" href="https://www.bbc.co.uk/programmes/b009ph5x">BBC Four</a></td>
+<td style="width:25%;"><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_four/2008-04-02#at-21.00">BBC Genome</a></td>
+<td style="width:25%;"><a class="external-link" href="https://www.youtube.com/watch?v=QF0DGpECsJA">YouTube</a></td>
 </tr>
 </table>
-</figure>
-
-<figure class="fig3">
-<h2 id="infobox1"><a href="#infobox1">Screenshot</a></h2>
-<a href="/assets/images/BBC-PIDs/1920xn/p01gct1y.jpg"><img src="/assets/images/BBC-PIDs/1920xn/p01gct1y.jpg" class="full-width zoom-in" /></a>
 </figure>
 
 <figure class="fig3">
