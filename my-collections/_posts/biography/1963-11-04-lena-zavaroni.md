@@ -113,7 +113,7 @@ last_modified_at: 14 October 2025
 
 <figure class="fig3">
 <h2 id="infobox14"><a href="#infobox14">7 January 1974 - Article Published 11 December 2009</a></h2>
-<h3 id="infobox14"><a href="#infobox14">John McCready</a></h3>
+<h3 id="infobox14a"><a href="#infobox14a">John McCready</a></h3>
 <p>On Monday 7 January 1974 Lena would make her debut TV appearance on Opportunity Knocks.</p>
 <blockquote>Lena was currently our hottest act, having just completed a five-week run on the TV talent show OPPORTUNITY KNOCKS and now with the charting single and album, "Ma, He's Making Eyes at Me".
 Time goes by and Lena&#8217;s new record album is overdue for delivery and we are in danger of not having the income included in our quarterly sales. AJ and I discuss the situation and I am instructed to inform Phil that he is in breach of contract and that we will take the legal action to have delivery of the recording.</blockquote>
@@ -121,7 +121,7 @@ Time goes by and Lena&#8217;s new record album is overdue for delivery and we ar
 </figure>
 
 <figure class="fig3">
-<h2 id="infobox14a"><a href="#infobox14a">7 January 1974 to When Lena Retired and Any Known Appearances Made After She Retired</a></h2>
+<h2 id="infobox14b"><a href="#infobox14b">7 January 1974 to When Lena Retired and Any Known Appearances Made After She Retired</a></h2>
 <p>For content covering her career for the above time span, check out:</p>
 <ul>
 <li><a href="/posts">Posts</a></li>
@@ -131,8 +131,8 @@ Time goes by and Lena&#8217;s new record album is overdue for delivery and we ar
 </figure>
 
 <figure class="fig3">
-<h2 id="infobox14b"><a href="#infobox14b">24 November 1987</a></h2>
-<h3 id="infobox14c"><a href="#infobox14c">Media Reports</a></h3>
+<h2 id="infobox14c"><a href="#infobox14c">24 November 1987</a></h2>
+<h3 id="infobox14d"><a href="#infobox14d">Media Reports</a></h3>
 <p>Various Newspapers reported that Lena Zavaroni was retiring from showbusiness.</p>
 </figure>
 
