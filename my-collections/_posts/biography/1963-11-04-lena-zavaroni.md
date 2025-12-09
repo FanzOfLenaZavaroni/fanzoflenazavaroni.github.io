@@ -267,7 +267,7 @@ In the first days after the operation she appeared to slowly recover and seemed 
 </ul></ul>
 </blockquote>
 <cite><a class="external-link" href="https://www.mind.org.uk/information-support/drugs-and-treatments/neurosurgery-for-mental-disorder-nmd/consent-to-nmd#TheLawInEnglandAndWales">Consent to NMD | Mind, the mental health charity</a></cite>
-<h3 id="infobox3"><a href="#infobox33">Comment</a></h3>
+<h3 id="infobox33"><a href="#infobox33">Comment</a></h3>
 <blockquote>
 <p>This section of the Mental Health Act seems flawed How can an individual with severe mental heath problems make an informed chose if they are capable of making such a chose then I would argue that they don't need the surgical procedure.</p>
 <p>Lena informing those treating her that she would kill herself if she does not get the NMD is not consect but is as they believed her threat grounds for Lena being Sectioned.</p>
