@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1985-12-05-give-us-a-clue.jpg, the-times-london-england-monday…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/036d3623f647f9c446a0b4419268b5e6dbc483e0)
-- [Update 1978-04-12-record-makers.md and 2008-04-02-hughie-green-most-s…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/58c2f7b3c41e8d01f36cfa6d2b69fe634ca26415)
-- [Update 1985-12-05-give-us-a-clue.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/dc9840354d240acbda790df146f8eae65c7e70d3)
-- [Fix formatting by adding clear class after crew section](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9cba693daa65cd13681aa0f094cff66f740bcf4e)
-- [Add crew section to &#39;Give Us a Clue&#39; post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d8a0e14be4900ce134e1db836ff2f627e0b4336e)
+- [Update lena-zavaronis-christmas-party - 01.jpg, lena-zavaronis-christ…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8113b79fae8bde6c13d1cc3a91340c1ca532e6d4)
+- [Fix hyperlink reference in the Times article](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4fc19b7285f7d81d3064d49951b209ade744fbf8)
+- [Fix heading ID for comment section in biography](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3f92c881aa16ecbb66cc0bcc98fc69a3e2039f45)
+- [Fix hyperlink reference in Times article](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/897c4e9dedfa1a2da2f45a17c456ac70bf21b27c)
+- [Update 1963-11-04-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/24defa9d598e65b7dd397436e763082ea269b066)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
