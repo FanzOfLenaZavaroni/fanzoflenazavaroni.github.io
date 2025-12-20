@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5204107d1e9b32c69c87128b4b7e0c5cc83a951e)
 - [Update lena-zavaronis-christmas-party - 01.jpg, lena-zavaronis-christ…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8113b79fae8bde6c13d1cc3a91340c1ca532e6d4)
 - [Fix hyperlink reference in the Times article](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4fc19b7285f7d81d3064d49951b209ade744fbf8)
 - [Fix heading ID for comment section in biography](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3f92c881aa16ecbb66cc0bcc98fc69a3e2039f45)
 - [Fix hyperlink reference in Times article](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/897c4e9dedfa1a2da2f45a17c456ac70bf21b27c)
-- [Update 1963-11-04-lena-zavaroni.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/24defa9d598e65b7dd397436e763082ea269b066)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
