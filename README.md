@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/50dd38c15624e9b4cd763d9691f57b0bb27e2c28)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5204107d1e9b32c69c87128b4b7e0c5cc83a951e)
-- [Update lena-zavaronis-christmas-party - 01.jpg, lena-zavaronis-christ…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8113b79fae8bde6c13d1cc3a91340c1ca532e6d4)
-- [Fix hyperlink reference in the Times article](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4fc19b7285f7d81d3064d49951b209ade744fbf8)
-- [Fix heading ID for comment section in biography](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3f92c881aa16ecbb66cc0bcc98fc69a3e2039f45)
+- [Update 1975-01-04-11-record-&amp;-radio-mirror.png](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c5cc5247b417c2ab5cec1b10b32719a9d99a6d16)
+- [Update 1975-01-04-radiocorriere.md and 1975-01-04-radiocorriere.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b00995599232efda147404e80832e331d9f89528)
+- [Update 1975-01-04-01-record-&amp;-radio-mirror.png, 1975-01-04-07-record-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/20689f5dc42e7b675650cbe1501b93812593002f)
+- [Update 1975-01-04-radiocorriere-fc.png, 1975-01-04-radiocorriere-page…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8875b3e0e903f0dd78a51aedb17ad5f6f3d26973)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8aff78e8c920089ddd6e4f639b93f6b4781a769b)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
