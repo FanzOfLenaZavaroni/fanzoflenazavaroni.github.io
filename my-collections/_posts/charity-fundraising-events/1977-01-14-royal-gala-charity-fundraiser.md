@@ -9,10 +9,7 @@ post_description: Lena attended the Fundraiser where she was photographed shakin
 categories: [Theatres, Jollees, Fundraising, OnThisDay14January, Year-1977]
 ---
 
-<figure class="fig3">
-<a href="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-Lena-Zavaroni-shaking-hands-with-princess-margaret.png"><img src="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-Lena-Zavaroni-shaking-hands-with-princess-margaret.png" class="full-width zonn-in" /></a>
+<img src="/assets/images/placeholder/landscape-placeholder.png" class="fullwidth" />
 <cite>Lena attended the Fundraiser where she was photographed shaking hands with Princess Margaret</cite>
-</figure>
 
-<br />{: .clear}
-
+<p>Missing photo is intented, See this <a href="/2025-07-28-announcement">announcement</a></p>

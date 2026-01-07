@@ -2,7 +2,7 @@
 layout: post
 title: Temporary Card &#124; 28 July 2025
 maintitle: Temporary Card, I hope!
-subtitle: A card used for posts that are awaiting completion due to exploitative fans
+subtitle: A card used for posts that are awaiting completion or have missing images due to exploitative fans
 description: A card used for posts that are awaiting completion due to exploitative fans.
 post_description: A card used for posts that are awaiting completion due to exploitative fans.
 categories: [Announcements, OnThisDay28July, Year-2025]
