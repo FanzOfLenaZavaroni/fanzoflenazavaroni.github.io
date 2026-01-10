@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1975-01-04-11-record-&amp;-radio-mirror.png](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c5cc5247b417c2ab5cec1b10b32719a9d99a6d16)
-- [Update 1975-01-04-radiocorriere.md and 1975-01-04-radiocorriere.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b00995599232efda147404e80832e331d9f89528)
-- [Update 1975-01-04-01-record-&amp;-radio-mirror.png, 1975-01-04-07-record-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/20689f5dc42e7b675650cbe1501b93812593002f)
-- [Update 1975-01-04-radiocorriere-fc.png, 1975-01-04-radiocorriere-page…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8875b3e0e903f0dd78a51aedb17ad5f6f3d26973)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8aff78e8c920089ddd6e4f639b93f6b4781a769b)
+- [Update 1986-01-16-the-stage-and-television-today.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/75e5b81d1eded1f9c35052231a5510ecc6860245)
+- [Update 2021-01-10-herald-01.jpg, 2021-01-10-herald-02.jpg, and 6 more…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/317500f1078d9f2ecd927dcf5927e8b47b2b293b)
+- [Update last modified date and content structure](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4e30c384a207c50fef4bc034cd07a1b2e1546be4)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f87bd3ffdc6b8ceff3230c2b31895e04cdc11294)
+- [Update 1975-01-04-radiocorriere.md and 1975-01-04-radiocorriere.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/73280bd0c20afbb199da5013cd8c70663ecfeb39)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
