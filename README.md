@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9c80646b904a861c05e974e1acc7b88e78b3b910)
 - [Update 1986-01-16-the-stage-and-television-today.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/75e5b81d1eded1f9c35052231a5510ecc6860245)
 - [Update 2021-01-10-herald-01.jpg, 2021-01-10-herald-02.jpg, and 6 more…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/317500f1078d9f2ecd927dcf5927e8b47b2b293b)
 - [Update last modified date and content structure](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4e30c384a207c50fef4bc034cd07a1b2e1546be4)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f87bd3ffdc6b8ceff3230c2b31895e04cdc11294)
-- [Update 1975-01-04-radiocorriere.md and 1975-01-04-radiocorriere.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/73280bd0c20afbb199da5013cd8c70663ecfeb39)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
