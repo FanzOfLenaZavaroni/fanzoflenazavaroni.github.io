@@ -3,75 +3,12 @@ layout: post
 title: The Stage and Television Today
 maintitle: The Stage and Television Today
 subtitle: ROYAL OCCASIONS
-description: Contained a double-page feature on two Royal charity fundraisers which had been held the previous week. Lena had performed at one of them, held at Jollees in Stoke-on-Trent, and she was photographed shaking hands with Princess Margaret.
-media: ROYAL OCCASIONS
-post_description: Contained a double-page feature on two Royal charity fundraisers which had been held the previous week. Lena had performed at one of them, held at Jollees in Stoke-on-Trent, and she was photographed shaking hands with Princess Margaret.
-image: /assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-front-cover.jpg
+description: Contained a double-page feature on two Royal charity fundraisers which had been held the previous week.
+post_description: Contained a double-page feature on two Royal charity fundraisers which had been held the previous week.
 categories: [The-Stage-and-Television-Today, OnThisDay20January, Year-1977]
 ---
 
-<figure class="fig1">
-<figcaption>
-<h2 id="front-cover">Front Cover</h2>
-</figcaption>
-<a href="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-front-cover.jpg"><img src="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-front-cover.jpg" class="full-width zoom-in"></a>
-</figure>
+{{ page.description }}
 
-<figure class="fig2">
-<figcaption>
-<h2 id="page-10">page 10</h2>
-</figcaption>
-<a href="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-10.jpg"><img src="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-10.jpg" class="full-width zoom-in"></a>
-</figure>
-
-{: .clear}
-
-<figure class="fig1">
-<figcaption>
-<h2 id="page-11">page 11</h2>
-</figcaption>
-<a href="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-11.jpg"><img src="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-11.jpg" class="full-width zoom-in"></a>
-</figure>
-
-<figure class="fig2">
-<figcaption>
-<h2 id="page-12">page 12</h2>
-</figcaption>
-<a href="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-12.jpg"><img src="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-12.jpg" class="full-width zoom-in"></a>
-</figure>
-
-{: .clear}
-
-<figure class="fig1">
-<figcaption>
-<h2 id="page-13">page 13</h2>
-</figcaption>
-<a href="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-13.jpg"><img src="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-page-13.jpg" class="full-width zoom-in"></a>
-</figure>
-
-
-<figure class="fig2">
-<figcaption>
-<h2 id="page-13-cropped">Page 13-cropped</h2>
-</figcaption>
-<a href="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-Lena-Zavaroni-shaking-hands-with-princess-margaret.png"><img src="/assets/images/the-stage-and-television-today/1977-01-20-the-stage-and-television-today-Lena-Zavaroni-shaking-hands-with-princess-margaret.png" class="full-width zoom-in"></a>
-<figcaption>
-<p>Lena Zavaroni Shaking Hands With Princess Margaret</p>
-</figcaption>
-</figure>
-
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
-
+<h2 id="infobox1"><a href="#infobox1">Summary related to the venue at Jollees in Stoke-on-Trent</a></h2>
+<p>The Stage and Television Today featured a series of photographs taken at the end of the Jollees charity show, showing Princess Margaret meeting the performers. From the captions, it is clear that the artists presented to the Princess included Mrs Mills, Hughie Green, Dorothy Solomon, Norman Collier, Lena Zavaroni, Frankie Vaughan and Mike Carter.</p>
