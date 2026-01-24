@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9c80646b904a861c05e974e1acc7b88e78b3b910)
-- [Update 1986-01-16-the-stage-and-television-today.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/75e5b81d1eded1f9c35052231a5510ecc6860245)
-- [Update 2021-01-10-herald-01.jpg, 2021-01-10-herald-02.jpg, and 6 more…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/317500f1078d9f2ecd927dcf5927e8b47b2b293b)
-- [Update last modified date and content structure](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4e30c384a207c50fef4bc034cd07a1b2e1546be4)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f87bd3ffdc6b8ceff3230c2b31895e04cdc11294)
+- [Update 1977-01-20-the-stage-and-television-today.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/31feea19d64928a7fb8482dc326ecee6ac506b02)
+- [Update 1977-01-20-the-stage-and-television-today-front-cover.jpg, 197…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/5553e3b27faa5941afb6835be580dfe642eb0c93)
+- [Update header.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d4684b3b556e5aa6252d99398e72af3a8fd116e1)
+- [Update _config.yml, header.html, and 2026-01-18-announcement.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/14581ac870711cb19c66f83c99fcdb5b97642fb6)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/19ea5ec224b818625cfd7106cc54f43f856f1fc0)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
