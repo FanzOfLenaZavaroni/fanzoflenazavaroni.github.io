@@ -11,9 +11,6 @@ categories: [London-Weekend-Television, Lena-and-Bonnie, Bonnie-Langford, OnThis
 last_modified_at: 23 December 2023
 ---
 
-<h2 id="infobox1" class="infobox"><a href="#infobox1">The Complete Show</a></h2>
-<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/Xb_1Gj5cV8c?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
-
 <h2 id="infobox2" class="infobox"><a href="#infobox2">Details</a></h2>
 
 <p>Lena and Bonnie was recorded on the 17 & 18 January 1978 at the Kent House Studios and was broadcast by London Weekend Television (LWT) on the 26 of March 1978.</p>
@@ -53,8 +50,7 @@ Part 3 of the show opens with Lena & Bonnie performing a reprise of the song Com
 </ul>
 
 <h2 id="infobox11" class="infobox"><a href="#infobox11">Interview With Bonnie Langford</a></h2>
-<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/q5Dw571MQxg?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
-<cite>Wombling Free - Archive Interview: During the interview Bonnie also talks about Lena and Bonnie.</cite>
+<p>An archive interview with Bonnie Langford appears as an extra on the Wombling Free DVD released by Network (catalogue number 7952490). Network has since closed, so the disc is no longer in production. The interview is mainly about the film, with a brief mention of the Lena and Bonnie show.</P>
 
 <h2 id="infobox11" class="infobox"><a href="#infobox11">About Kent House Studio (The London Studios)</a></h2>
 <p>Kent House, also known as The London Studios or LWT Tower, was a 24-storey television complex on London’s South Bank. Built in the early 1970s for London Weekend Television (LWT), it became one of the most advanced colour TV studios in Europe at the time. The complex housed a range of iconic programmes, including The Lena and Bonnie Show, and later served as ITV’s main London base.</p>

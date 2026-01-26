@@ -10,20 +10,4 @@ image: /assets/images/the-stage-and-television-today/1977-01-27-the-stage-and-te
 categories: [The-Stage-and-Television-Today, OnThisDay27January, Year-1977]
 ---
 
-McLeod Holden have plans to hold a number of shows this year (1977) including on Easter Sunday (10 April) a staging of the Lena Zavaroni Show at the New Southport Theatre.
-
-<figure class="fig1">
-<figcaption>
-<h2 id="page-3">page 3 - Light Entertainment Section</h2>
-</figcaption>
-<a href="/assets/images/the-stage-and-television-today/1977-01-27-the-stage-and-television-today-page-03-cropped.jpg"><img src="/assets/images/the-stage-and-television-today/1977-01-27-the-stage-and-television-today-page-03-cropped.jpg" class="full-width zoom-in"></a>
-</figure>
-
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:100%;}
-
-figcaption {float:left; width:100%;}
-</style>
-
+<p>McLeod Holden have plans to hold a number of shows this year (1977) including on Easter Sunday (10 April) a staging of the Lena Zavaroni Show at the New Southport Theatre.</p>

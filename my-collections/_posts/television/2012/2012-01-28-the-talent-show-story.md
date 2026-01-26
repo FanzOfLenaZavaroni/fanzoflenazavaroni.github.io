@@ -4,98 +4,63 @@ title: The Talent Show Story
 maintitle: The Talent Show Story
 subtitle: Episode 4
 description: Episode 4 had a short segment looked at Lena's rise to stardom and subsequent decline.
-media: ITV
 post_description: Episode 4 had a short segment looked at Lena's rise to stardom and subsequent decline.
-image: /assets/images/
-categories: [ITV, OnThisDay28January]
+categories: [ITV-Shiver, ITV-Thames, OnThisDay28January]
 ---
 
-<figure class="fig1" id="lena-Zavaroni-segment">
-<h2>Lena Zavaroni Segment</h2>
-<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/50hgJeHNW58?start=315&rel=0&showinfo=0" frameborder="0" allowfullscreen=""></iframe></div>
-<figcaption>
-<p>Episode 4 has a short segment looked at Lena's rise to stardom and subsequent decline.</p>
-</figcaption>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Cast</a></h2>
 
-{: .clear}
+<ul class="columns2">
+<li>Gary Barlow</li>
+<li>Susan Boyle</li>
+<li>Alexandra Burke</li>
+<li>Nicki Chapman</li>
+<li>Charlotte Church (archive footage)</li>
+<li>Tulisa Contostavlos</li>
+<li>John Kaye Cooper</li>
+<li>Simon Cowell</li>
+<li>Bobby Crush</li>
+<li>Les Dennis</li>
+<li>Siobhan Greene</li>
+<li>Nigel Hall</li>
+<li>Amanda Holden</li>
+<li>Jack the Lad Swing - Themselves (as JLS)</li>
+<li>Bonnie Langford</li>
+<li>Nigel Lythgoe</li>
+<li>Jane McDonald</li>
+<li>Dannii Minogue</li>
+<li>Piers Morgan</li>
+<li>Olly Murs</li>
+<li>Dermot O'Leary</li>
+<li>One Direction</li>
+<li>Neil Reid</li>
+<li>Claudia Rosencrantz</li>
+<li>Kelly Rowland</li>
+<li>Joss Stone (archive footage)</li>
+<li>Connie Talbot (archive footage)</li>
+<li>Gavin Talbot (Father of Connie)</li>
+<li>Sharon Talbot (Mother of Connie)</li>
+<li>Louis Walsh</li>
+<li>Pete Waterman</li>
+<li>Victoria Wood - Narrator (voice)</li>
+<li>Lena Zavaroni (archive footage)</li>
+<li>Victor Zavaroni (Father of Lena)</li>
+</ul>
 
-<figure class="fig2" id="cast">
-<figcaption>
-<h2>Cast</h2>
-</figcaption>
-<table>
-<tr><td>Gary Barlow</td></tr>
-<tr><td>Susan Boyle</td></tr>
-<tr><td>Alexandra Burke</td></tr>
-<tr><td>Nicki Chapman</td></tr>
-<tr><td>Charlotte Church (archive footage)</td></tr>
-<tr><td>Tulisa Contostavlos</td></tr>
-<tr><td>John Kaye Cooper</td></tr>
-<tr><td>Simon Cowell</td></tr>
-<tr><td>Bobby Crush</td></tr>
-<tr><td>Les Dennis</td></tr>
-<tr><td>Siobhan Greene</td></tr>
-<tr><td>Nigel Hall</td></tr>
-<tr><td>Amanda Holden</td></tr>
-<tr><td>Jack the Lad Swing - Themselves (as JLS)</td></tr>
-<tr><td>Bonnie Langford</td></tr>
-<tr><td>Nigel Lythgoe</td></tr>
-<tr><td>Jane McDonald</td></tr>
-<tr><td>Dannii Minogue</td></tr>
-<tr><td>Piers Morgan</td></tr>
-<tr><td>Olly Murs</td></tr>
-<tr><td>Dermot O'Leary</td></tr>
-<tr><td>One Direction</td></tr>
-<tr><td>Neil Reid</td></tr>
-<tr><td>Claudia Rosencrantz</td></tr>
-<tr><td>Kelly Rowland</td></tr>
-<tr><td>Joss Stone (archive footage)</td></tr>
-<tr><td>Connie Talbot (archive footage)</td></tr>
-<tr><td>Gavin Talbot (Father of Connie)</td></tr>
-<tr><td>Sharon Talbot (Mother of Connie)</td></tr>
-<tr><td>Louis Walsh</td></tr>
-<tr><td>Pete Waterman</td></tr>
-<tr><td>Victoria Wood - Narrator (voice)</td></tr>
-<tr style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lz"><td>Lena Zavaroni (archive footage)</td></tr>
-<tr><td>Victor Zavaroni (Father of Lena)</td></tr>
-</table>
-</figure>
 
-<figure class="fig3" id="crew">
-<figcaption>
-<h2>Crew</h2>
-</figcaption>
-<table>
-<tr><th>Director</th><td>Kerry Allison</td></tr>
-<tr><th>Director</th><td>Yvette Lyons</td></tr>
-<tr><th>Producer</th><td>Kerry Allison</td></tr>
-<tr><th>Executive Producer for Talkback Thames</th><td>Richard Holloway</td></tr>
-<tr><th>Producer</th><td>Yvette Lyons</td></tr>
-<tr><th>Series Producer</th><td>Stuart Ramsay</td></tr>
-<tr><th>Executive Producer for Shiver</th><td>Mark Robinson</td></tr>
-<tr><th>Edit producer</th><td>Ben Smith</td></tr>
-<tr><th>Edit producer</th><td>Patrick Talbot</td></tr>
-<tr><th>Production Company</th><td>Shiver</td></tr>
-<tr><th>Production Company</th><td>Talkback Thames</td></tr>
-<tr><th>Distributor</th><td>Independent Television (ITV)</td></tr>
-</table>
-</figure>
+<h2 id="infobox2"><a href="#infobox2">Crew</a></h2>
 
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:100%;}
-
-.fig2 {float:left; width:49%;}
-
-.fig3 {float:right; width:49%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig2, .fig3 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
-
+<ul class="columns2">
+<li><strong>Director</strong> Kerry Allison</li>
+<li><strong>Director</strong> Yvette Lyons</li>
+<li><strong>Producer</strong> Kerry Allison</li>
+<li><strong>Executive Producer for Thames</strong> Richard Holloway</li>
+<li><strong>Producer</strong> Yvette Lyons</li>
+<li><strong>Series Producer</strong> Stuart Ramsay</li>
+<li><strong>Executive Producer for Shiver</strong> Mark Robinson</li>
+<li><strong>Edit producer</strong> Ben Smith</li>
+<li><strong>Edit producer</strong> Patrick Talbot</li>
+<li><strong>Production Company</strong> Shiver</li>
+<li><strong>Production Company</strong> Thames</li>
+<li><strong>Distributor</strong> Independent Television (ITV)</li>
+</ul>
