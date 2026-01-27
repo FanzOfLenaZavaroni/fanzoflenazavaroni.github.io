@@ -59,4 +59,3 @@ last_modified_at: 23 December 2023
 <p>Kent House, also known as The London Studios or LWT Tower, was a 24-storey television complex on London’s South Bank. Built in the early 1970s for London Weekend Television (LWT), it became one of the most advanced colour TV studios in Europe at the time. The complex housed a range of iconic programmes, including The Lena and Bonnie Show, and later served as ITV’s main London base.</p>
 <p>Although ITV initially planned to return after redevelopment, the studios were permanently closed in 2018. The site was sold and is now undergoing demolition and redevelopment.</p>
 <p><a class="external-link" href="https://alondoninheritance.com/london-buildings/three-future-demolitions-and-re-developments">A London Inheritance</a></p>
-
