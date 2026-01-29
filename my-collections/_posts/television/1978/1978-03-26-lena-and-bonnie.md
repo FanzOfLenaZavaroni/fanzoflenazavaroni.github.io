@@ -30,7 +30,7 @@ last_modified_at: 23 December 2023
 <p>Part 3 of the show opens with Lena & Bonnie performing a reprise of the song Compatibility. Bonnie then performs the songs New York, New York & Tomorrow, Lena then performs the songs The Air That I Breathe & Should've Listened To Mama. Lena & Bonnie then reprise the song Compatibility which leads into the final song of the show Razzle Dazzle.</p>
 
 <h2 id="infobox6"><a href="#infobox6">Credits</a></h2>
-<ul>
+<ul class="columns2">
 <li><strong>Starring</strong> Lena Zavaroni</li> 
 <li><strong>Starring</strong> Bonnie Langford</li> 
 <li><strong>Genre</strong> Musical</li> 
