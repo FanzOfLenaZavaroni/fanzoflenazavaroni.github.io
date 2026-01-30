@@ -238,7 +238,6 @@ height: 100%;
   }
 }
 
-
 /**
  * Tables
  */
@@ -269,23 +268,25 @@ table {
   td {
     border: 1px solid $table-border-color;
   }
+}
 
-  // Responsive fallback for smaller screens
+/* Portrait-only behaviour, no extra divs */
 @media screen and (orientation: portrait) {
   table {
-    width: 100%;
-    table-layout: fixed;        // forces equal distribution of columns
-    border-collapse: collapse;
+    display: block;
+    width: auto;              // allow table to be wider than viewport
+    min-width: 100%;          // but never smaller than screen
     overflow-x: auto;
+    overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
   }
 
-  th, td {
+  th,
+  td {
     padding: ($spacing-unit / 4) ($spacing-unit / 3);
-    white-space: normal;        // allow wrapping so cells can fill space
-    word-break: break-word;     // prevent overflow if text is long
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
   }
 }
-}
-
 
