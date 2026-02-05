@@ -10,63 +10,31 @@ categories: [BBC-One, TOTP, OnThisDay14February, Year-1974]
 last_modified_at: 11 January 2024
 ---
 
-<figure class="fig3">
-<p id="youtube-clip">Lena Zavaroni gets to preform on BBC One's Top of the Pops for the first time</p>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Cast</a></h2>
+<ul class="columns2">
+<li><strong>Introduced By</strong> Noel Edmonds</li>
+<li><strong>Singer</strong> Alvin Stardust</li>
+<li><strong>Singer</strong> Lena Zavaroni</li>
+<li><strong>Singer</strong> Hudson Ford</li>
+<li><strong>Band</strong> The Wombles</li>
+<li><strong>Singer</strong> Stevie Wonder</li>
+<li><strong>Pop Group</strong> Paper Lace</li>
+<li><strong>Pop/Rock Group</strong> The Hollies</li>
+<li><strong>Glam Rock Band</strong> Mud</li>
+<li><strong>All-Female Dance Troupe</strong> Pan's People</li>
+<li><strong>Vocal Backing</strong> The Ladybirds</li>
+</ul>
 
-{: .clear}
-
-<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/IHWfmYHK324" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<cite>Lena Zavaroni performing Ma! (He's Making Eyes At Me)</cite>
-
-{: .clear}
-
-<figure class="fig1">
-<figcaption>
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-<table>
-<tr><th>Introduced By</th><td>Noel Edmonds</td></tr>
-<tr><th>Singer</th><td>Alvin Stardust</td></tr>
-<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
-<tr><th>Singer</th><td>Hudson Ford</td></tr>
-<tr><th>Band</th><td>The Wombles</td></tr>
-<tr><th>Singer</th><td>Stevie Wonder</td></tr>
-<tr><th>Pop Group</th><td>Paper Lace</td></tr>
-<tr><th>Pop/Rock Group</th><td>The Hollies</td></tr>
-<tr><th>Glam Rock Band</th><td>Mud</td></tr>
-<tr><th>All-Female Dance Troupe</th><td>Pan's People</td></tr>
-<tr><th>Vocal Backing</th><td>The Ladybirds</td></tr>
-</table>
-</figcaption>
-</figure>
-
-<figure class="fig2">
-<figcaption>
-<h2 id="crew"><a href="#crew">Crew</a></h2>
-<table>
-<tr><th>Producer</th><td>Robin Nash</td></tr>
-<tr><th>Sound</th><td>Richard Chamberlain</td></tr>
-<tr><th>lighting</th><td>Bill Millar</td></tr>
-<tr><th>Orchestra</th><td>Top of the Pops Orchestra</td></tr>
-<tr><th>Musical director</th><td>Johnny Pearson with the Top Of The Pops Orchestra</td></tr>
-<tr><th>Choreography</th><td>Flick Colby</td></tr>
-</table>
-<h2 id="external-website"><a href="#external-website">External Website</a></h2>
-<table>
-<tr><th>BBC Genome</th><td><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1974-02-14#at-19.25">BBC One London, 14 February 1974 &#124; 19.25</a></td></tr>
-</table>
-</figcaption>
-</figure>
-
-{: .clear}
-
-<figure class="fig3">
-<figcaption>
-<h2 id="note"><a href="#note">Note</a></h2>
-</figcaption>
-<p>I had questioned if the YouTube clip is the version recorded for broadcast or if it is a camera rehearsal recording made prior to the broadcast. Thanks to the research done by Loving Lena Zavaroni and his comments <a href="https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/discussions/15#discussioncomment-5496938">here</a> I now think it is save to say it is the version as broadcast.</p>
-<cite>Robcamstone</cite>
-</figure>
-
-<br />{: .clear}
-
+<h2 id="infobox2"><a href="#infobox2">Crew</a></h2>
+<ul class="columns2">
+<li><strong>Producer</strong> Robin Nash</li>
+<li><strong>Sound</strong> Richard Chamberlain</li>
+<li><strong>lighting</strong> Bill Millar</li>
+<li><strong>Orchestra</strong> Top of the Pops Orchestra</li>
+<li><strong>Musical director</strong> Johnny Pearson with the Top Of The Pops Orchestra</li>
+<li><strong>Choreography</strong> Flick Colby</li>
+</ul>
+<h2 id="infobox3"><a href="#infobox3">External Website</a></h2>
+<ul>
+<li><strong>BBC Genome</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1974-02-14#at-19.25">BBC One London, 14 February 1974 &#124; 19.25</a></li>
+</ul>

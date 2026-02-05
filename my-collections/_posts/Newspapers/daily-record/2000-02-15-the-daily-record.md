@@ -8,7 +8,6 @@ post_description: LENA WAS PUT ON DIET AT 10; Star's long battle with anorexia b
 categories: [Newspaper-Daily-Record, Glasgow, Scotland, OnThisDay15February]
 ---
 
-<figure class="fig3">
 <blockquote>
 <p>SHE set out on the path to fame as a healthy, happy 10-year-old with a voice to die for and everything to live for.</p>
 <p>But by the time the world had woken up to Scottish singer Lena Zavaroni's talent, her agent had put her on a diet.</p>
@@ -22,12 +21,6 @@ categories: [Newspaper-Daily-Record, Glasgow, Scotland, OnThisDay15February]
 <p>"But she came from Rothesay, with fish and chips and cans of baked beans and spaghetti, so Dorothy put her on a sort of healthier diet."</p>
 </blockquote>
 <cite>Copy of the article in full here <a class="external-link" href="https://www.thefreelibrary.com/LENA+WAS+PUT+ON+DIET+AT+10%3b+Star%27s+long+battle+with+anorexia+began...-a060874902">The Free Library</a></cite>
-</figure>
 
-<figure class="fig3">
 <p>View this article within the context of this website's biography page on Lena Zavaroni.</p>
-<a href="https://fanzoflenazavaroni.github.io/1963-11-04-lena-zavaroni/#one-life-two-paths">One Life Two Paths</a>
-</figure>
-
-<br />{: .clear}
-
+<a href="https://fanzoflenazavaroni.github.io/1963-11-04-lena-zavaroni/#infobox15">One Life Two Paths</a>
