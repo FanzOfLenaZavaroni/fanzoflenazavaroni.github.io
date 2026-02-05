@@ -2,7 +2,7 @@
 layout: onthisday
 title: On This Day &#124; 4 November &#124; Lena Zavaroni's Birthday
 maintitle: On This Day — 4 November — Lena Zavaroni's Birthday
-subtitle: Some entries are informational only and do not link to a full post when no dedicated article exists
+subtitle: Some entries are informational only and do not link to a full post when there isn’t enough information to create one.
 description: Lena Zavaroni's birthday is celebrated on 4 November. This page includes additional comments and details.
 categories: [On This Day]
 ---
