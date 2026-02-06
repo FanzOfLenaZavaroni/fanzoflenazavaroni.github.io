@@ -20,3 +20,12 @@ last_modified_at: 6 February 2025
 <p>Instead of discussing the new show, the writer used the space to attack talent shows in general. She brought up The Black and White Minstrel Show and Lena Zavaroni, even though neither had any connection to Get Your Act Together. Lena performed for around fourteen years and remains well‑known today, so calling her “hastily forgotten” is false. The Minstrel Show is remembered for different reasons now, but it was a major ratings success in its time and has never disappeared from public memory.</p>
 
 <p>The article misuses both names to create a negative comparison that has nothing to do with Get Your Act Together. It isn’t a review or a preview of the new programme — it is a personal opinion piece using unrelated people and shows to push the writer’s own view.</p>
+
+<h2 id="infobox2"><a href="#infobox2">The writer Wasn’t Comparing Talent Shows At All</a></h2>
+
+<ul>
+<li>The Black and White Minstrel Show → <strong>not a talent show</strong></li>
+<li>Opportunity Knocks (Hughie Green) → <strong>Thames Television (1968–1978)</strong></li>
+<li>Lena Zavaroni → <strong>not a BBC talent‑show product</strong></li>
+<li>The new programme → <strong>not described at all, not even named</strong></li>
+</ul>
