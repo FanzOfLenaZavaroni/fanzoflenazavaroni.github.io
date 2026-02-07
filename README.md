@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1975-02-07-sunday-mirror.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a4c39b1816b73010a75a57c711ed6908927cf8bd)
+- [Update _config.yml, onthisday.md, and sorry.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0991effa55319e2424594d80cfed1850968a777f)
+- [Add scheduled trigger for deleting old workflow runs](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/dfb1833c51a933a6d9d53d0fc62ed573db2b65c9)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/803907455c0671fba5962eecc075734bd18ba1c3)
 - [Update link for On This Day page to revision 5](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a4d52c38774292833f6842a75f8a8bafcfd5fd10)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/faf440ba3adbda9301b18871e72a96ef877d48ab)
-- [Update 1999-02-06-the-scotsman-weekend.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/199254df26ccb1fbc347b9d6419c4e8ed699ec75)
-- [Update 1999-02-06-the-scotsman-weekend.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4f8f43bab9dc49287cea0e66719ad6e604ed1f88)
-- [Update home.html and 1999-02-06-the-scotsman-weekend.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1a66726a3ffbd0de367b5efea4238f0b4150d137)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
