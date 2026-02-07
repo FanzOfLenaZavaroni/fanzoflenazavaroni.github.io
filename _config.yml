@@ -109,6 +109,11 @@ theme: minima
 permalink: /:year-:month-:day-:title/
 future: true
 
+# include files and folders to be part of a site rebuild
+include:
+ - onthisday.md
+ - onthisday
+
 # Plugins
 plugins:
  - jemoji
