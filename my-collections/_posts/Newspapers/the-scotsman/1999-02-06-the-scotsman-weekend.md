@@ -26,6 +26,6 @@ last_modified_at: 6 February 2025
 <ul>
 <li>The Black and White Minstrel Show → <strong>not a talent show</strong></li>
 <li>Opportunity Knocks (Hughie Green) → <strong>Thames Television (1968–1978)</strong></li>
-<li>Lena Zavaroni → <strong>not a BBC talent‑show product</strong></li>
+<li>Lena Zavaroni → <strong>not a BBC talent‑show winner</strong></li>
 <li>The new programme → <strong>not described at all, not even named</strong></li>
 </ul>
