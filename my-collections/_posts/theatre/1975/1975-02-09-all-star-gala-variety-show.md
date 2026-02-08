@@ -3,27 +3,26 @@ layout: post
 title: All Star Gala Variety Show, Wimbledon Theatre &#124; 9 February 1975
 maintitle: All Star Gala Variety Show
 subtitle: Wimbledon Theatre
-description: All star cast.
-post_description: All star cast.
-categories: [Theatres, Wimbledon-Theatre, Wimbledon, OnThisDay9February, Year-1975]
-last_modified_at: 9 February 2024
+description: Wimbledon Theatre.
+post_description: Wimbledon Theatre with a full bill of well-known variety performers.
+categories: [Theatres-Wimbledon-Theatre, Wimbledon, OnThisDay9February, Year-1975]
+last_modified_at: 8 February 2026
 ---
 
-<table style="text-transform:capitalize;">
-<tr id="infobox1"><th>Known As</th><th>Performers</th></tr>
-<tr><th style="width:50%;">English comedian, singer, actor and variety performer</th><td style="width:50%;">Max Bygraves</td></tr>
-<tr><th>English ventriloquist, television entertainer, and writer</th><td>Ray Allan</td></tr>
-<tr><th>English dancer, singer, comedian, actor, television presenter and musician</th><td>Roy Castle</td></tr>
-<tr><th>Irish Pop Group</th><td>The Bachelors</td></tr>
-<tr><th>English Radio Broadcaster And TV Presenter</th><td>Ed Stewart</td></tr>
-<tr><th>British Stage Actor, Variety Entertainer And Comic</th><td>Don Smoothey</td></tr>
-<tr><th>English Actor And stand-up Comedian</th><td>Derek Dene</td></tr>
-<tr><th>Speciality Act (Brother and sister, their act included juggling, hand-balancing and acrobatics)</th><td>Johnny and Suma Lamonte</td></tr>
-<tr><th>English Trombonist And Singer</th><td>Don Lang</td></tr>
-<tr><th>Comedy Actor</th><td>Jan Harding</td></tr>
-<tr><th>English Actor</th><td>Sonny Farrar</td></tr>
-<tr><th>Scottish Singer</th><td><span style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni</span></td></tr>
-</table>
+<h2 id="infobox1"><a href="#infobox1">Turns</a></h2>
+<p>A “Turn” refers to an individual performance or act in a variety show, showcasing different talents and entertainment styles.</p>
 
-<br />{: .clear}
-
+<ul>
+  <li><strong>Max Bygraves</strong> – English Comedian, Singer, Actor And Variety Performer</li>
+  <li><strong>Ray Allan</strong> – English Ventriloquist, Television Entertainer And Writer</li>
+  <li><strong>Roy Castle</strong> – English Dancer, Singer, Comedian, Actor, Television Presenter And Musician</li>
+  <li><strong>The Bachelors</strong> – Irish Pop Group</li>
+  <li><strong>Ed Stewart</strong> – English Radio Broadcaster And TV Presenter</li>
+  <li><strong>Don Smoothey</strong> – British Stage Actor, Variety Entertainer And Comic</li>
+  <li><strong>Derek Dene</strong> – English Actor And Stand-Up Comedian</li>
+  <li><strong>Johnny And Suma Lamonte</strong> – Speciality Act (Brother And Sister; Juggling, Hand-Balancing And Acrobatics)</li>
+  <li><strong>Don Lang</strong> – English Trombonist And Singer</li>
+  <li><strong>Jan Harding</strong> – Comedy Actor</li>
+  <li><strong>Sonny Farrar</strong> – English Actor</li>
+  <li><strong>Lena Zavaroni</strong> – Scottish Singer</li>
+</ul>
