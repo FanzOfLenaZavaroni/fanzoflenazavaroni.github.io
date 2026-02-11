@@ -11,7 +11,7 @@ last_modified_at: 25 October 1015
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Note</a></h2>
-<p>Don't use the current BBC listings for getting details on old programmes. For shows like <em>The Morecambe And Wise Show</em>, the BBC has repeated episodes on different channels and now lists all broadcasts under that repeat channel – even if it wasn’t the original one.</p>
+<p>Don't use the current BBC listings for getting details on old programmes. For shows like The Morecambe And Wise Show, the BBC has repeated episodes on different channels and now lists all broadcasts under that repeat channel – even if it wasn’t the original one.</p>
 <p>That’s why for Episode 9.3, the listing shows it aired on <strong>BBC Two</strong> on <strong>11 February 1976</strong>, which is <strong>wrong</strong>. It was originally broadcast on <strong>BBC One</strong>. Adding “BBC One” next to the date would fix this misleading detail.</p>
 <p>The BBC has left out that crucial fact, so it now looks like the show aired on BBC Two, <strong>it did not</strong>. Just because it’s a listings page doesn’t mean it should misrepresent broadcast history.</p>
 <p>This is yet another example of the BBC showing it doesn’t care about getting its own history right.</p>
