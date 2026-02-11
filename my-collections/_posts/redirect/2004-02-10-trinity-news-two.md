@@ -5,11 +5,11 @@ maintitle: Trinity News Two
 subtitle: Tim Walker Talks To Novelist Andrew O'Hagan
 description: Novelist Andrew O'Hagan talks about how Lena Zavaroni’s life influenced hos novel &quot;Personality&quot;.
 post_description: Novelist Andrew O'Hagan talks about how Lena Zavaroni’s life influenced hos novel &quot;Personality&quot;.
-categories: [Magazines, Trinity-News-Two, Andrew-O'Hagan, OnThisDay10February]
-last_modified_at: 9 February 2026
+categories: [Magazines-Trinity-News-Two, Andrew-O'Hagan, OnThisDay10February]
+last_modified_at: 10 February 2026
 ---
 
-<h2 id="quote"><a href="#quote">Quotes From Page 4</a></h2>
+<h2 id="infobox1"><a href="#infobox1">Quotes</a></h2>
 <blockquote>
 <p>Much of the fuss surrounding the novel’s publication centred round its inspiration, the life of seventies child star Lena Zavaroni, who died in 1999 as an indirect result of her recurrent anorexia.</p>
 <p>I was happy about the way Lena Zavaroni’s life influenced ‘Personality’: if I hadn’t been happy with the connection I could have erased all signs of it from the novel as opposed to making it explicit as I did.</p>
