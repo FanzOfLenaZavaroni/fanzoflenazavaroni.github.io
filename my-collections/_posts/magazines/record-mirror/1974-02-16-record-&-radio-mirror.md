@@ -2,33 +2,41 @@
 layout: post
 title: Record and Radio Mirror &#124; 16 February 1976
 maintitle: Record and Radio Mirror
-subtitle: "Lena's single Ma! (He's Making Eyes At Me) moves up the charts from number 30 to number 16"
-description: "Lena's single Ma! (He's Making Eyes At Me) moves up the charts from number 30 to number 16."
-post_description: "Lena's single Ma! (He's Making Eyes At Me) moves up the charts from number 30 to number 16."
-categories: [Magazines, Record-and-Radio-Mirror, OnThisDay16February, Year-1974]
-last_modified_at: 1 January 2024
+subtitle: Magazine
+description: Page 2 has the chat positions for the Top 50 Singles and Albums plus it comments on Lena in the Chart Chatter side section.
+post_description: Page 2 has the chat positions for The top 50 Singles and Albums plus it comments on Lena in the Chart Chatter section, describing her as an incredible singer given her age.
+categories: [Magazine- Record-and-Radio-Mirror, OnThisDay16February, Year-1974]
+last_modified_at: 11 February 2026
 ---
 
-<figure class="fig1">
-<h2 id="infobox1"><a href="#infobox1">Front Cover</a></h2>
-<a href="/assets/images/magazines/1974-02-16-01-record-&-radio-mirror.png"><img src="/assets/images/magazines/1974-02-16-01-record-&-radio-mirror.png" class="full-width zoom-in" /></a>
-<cite>Record and Radio Mirror - 16 February 1974, <a class="external-link" href="https://www.worldradiohistory.com/UK/Record-Mirror/70s/74/Record-Mirror-1974-02-16.pdf">Page 1 of PDF</a></cite>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Single Chart (The Magazine Lists The Top Fifty, I Have Only Listed The Top Twenty)</a></h2>
 
-<figure class="fig2">
-<h2 id="infobox2"><a href="#infobox2">Page 2</a></h2>
-<a href="/assets/images/magazines/1974-02-16-02-record-&-radio-mirror.png"><img src="/assets/images/magazines/1974-02-16-02-record-&-radio-mirror.png" class="full-width zoom-in" /></a>
-<cite>Lena's single moves up the charts from number 30 to number 16, <a class="external-link" href="https://www.worldradiohistory.com/UK/Record-Mirror/70s/74/Record-Mirror-1974-02-16.pdf#page=02">Page 2 of PDF</a></cite>
-</figure>
+<p>Lena's single Ma! (He's Making Eyes At Me) moves up the charts from number 30 to number 16.</p>
 
-<figure class="fig3">
-<h2 id="infobox3"><a href="#infobox3">Quote</a></h2>
-<p><strong>chart chatter</strong></p>
-<p>MUD face seven days of torment! Suzi Quatro motors her way up at fast speed to two. Lulu is at three. Will they topple Mud. Could it be The Wombles for a number one? Sweet, Andy and Cozy look as if they 've blown it. Chart Chatter was informed by Mud that they do like Teenage Rampage, inspite of rumours and words to the contrary in fiery columns elsewhere.</p>
-<p>Alice Cooper and Marc Bolan continue to climb somewhat slowly. Love Unlimited cause surprise, just one the right way. Foreever now fading. Stevie up two. Heard the album cut yet? Radar Love on the way to being a small chart blip, <span style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni</span> is incredible for a ten-year-old, for a twenty-year-old, she movers up 14. I don't like the song but it's very commercial.'</p>
+<ol>
+<li>Tiger Feet - Mud</li>
+<li>Devil Gate Drive - Suzi Quatro</li>
+<li>The Man Who Sold The World - Lulu</li>
+<li>Teenage Rampage - The Sweet</li>
+<li>Solitaire - Andy Williams</li>
+<li>Dance With The Devil - Cozy Powell</li>
+<li>Wombling Song - Wombles</li>
+<li>Rockin' Roll Baby - The Stylistics</li>
+<li>All Of My Life - Diana Ross</li>
+<li>The Show Must Go On - Leo Sayer</li>
+<li>How Come - Ronnie Lane & Slim Chance</li>
+<li>Teenage Lament '74 - Alice Cooper</li>
+<li>Teenage Dream - Marc Bolan & T.Rex</li>
+<li>Love On A Mountain Top - Robert Knight</li>
+<li>Living For The City - Stevie Wonder</li>
+<li>Ma! (He's Making Eyes At Me) - Lena Zavaroni</li>
+<li>Radar Love - Golden Earring</li>
+<li>Forever - Roy Wood</li>
+<li>Love's Theme - Love Unlimited Orchestra</li>
+<li>You Won't Find Another Fool Like Me Ft. Lyn Paul - The New Seekers</li>
+</ol>
 
+<h2 id="infobox1"><a href="#infobox1">Chart Chatter</a></h2>
 
-</figure>
-
-<br />{: .clear}
-
+<p>Makes the point that Lena no matter her age is an incredible singer and that she had moved up the charts from number 30 to number 16 and while the writer was not keen on the song they could see its commercial value.</p>
+<cite><a class="external-link" href="https://www.worldradiohistory.com/UK/Record-Mirror/70s/74/Record-Mirror-1974-02-16.pdf#page=02">Page 2 of the Record and Radio Mirror PDF</a></cite>
