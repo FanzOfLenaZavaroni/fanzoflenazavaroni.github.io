@@ -36,5 +36,5 @@ last_modified_at: 11 January 2024
 </ul>
 <h2 id="infobox3"><a href="#infobox3">External Website</a></h2>
 <ul>
-<li><strong>BBC Genome</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1974-02-14#at-19.25">BBC One London, 14 February 1974 &#124; 19.25</a></li>
+<li><strong>BBC Genome:</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1974-02-14#at-19.25">BBC One London, 14 February 1974 &#124; 19.25</a></li>
 </ul>
