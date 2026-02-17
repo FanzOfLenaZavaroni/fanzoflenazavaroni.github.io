@@ -51,26 +51,19 @@ last_modified_at: 9 February 2026
 
 </div>
 
-
-
-<h2  id="infobox1"><a href="#infobox1">Recording of the Top 20 section of the broadcast</a></h2>
-<ul>
-<li>Recording not available at this time!</li>
-</ul>
-
-<h2  id="infobox2"><a href="#infobox2">BBC Radio 1</a></h2>
+<h2  id="infobox1"><a href="#infobox1">BBC Radio 1</a></h2>
 <ul>
 <li><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/radio1/england/1974-02-10#at-16.00">Solid Gold Sixty with Tom Browne starts at 16:00hrs</a></li>
 <li>BBC Radio 1's first air date was on 30 September 1967 it was only transmitted on Medium Wave using amplitude modulation it would get an VHF channel that's rollout would start on 1 September 1988, starting with Central Scotland, the Midlands and the north of England.</li>
 </ul>
 
-<h2  id="infobox3"><a href="#infobox3">BBC Radio 2</a></h2>
+<h2  id="infobox2"><a href="#infobox2">BBC Radio 2</a></h2>
 <ul>
 <li><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_radio_two/1974-02-10#at-18.00">The Top Twenty with Tom Browne as Radio 1 starts at 18:00hrs</a></li>
 <li>BBC Radio 2's first air date was on 30 September 1967 it was a replacement for the Light Programme it was transmitter on VHF using frequency modulation in 1973 a subcarrier was added to the transmission which allowed the broadcasting of content in stereo.</li>
 </ul>
 
-<h2  id="infobox4"><a href="#infobox4">UK Official Singles Chart</a></h2>
+<h2  id="infobox3"><a href="#infobox3">UK Official Singles Chart</a></h2>
 <ul>
 <li><a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740203/7501/">3 february 1974 - 9 february 1974</a></li>
 </ul>
@@ -98,14 +91,14 @@ last_modified_at: 9 February 2026
 <li>Love's Theme - Love Unlimited Orchestra</li>
 </ol>
 
-<h2  id="infobox5"><a href="#infobox5">Differences In Dates</a></h2>
+<h2  id="infobox4"><a href="#infobox4">Differences In Dates</a></h2>
 <blockquote>
 <p>As can be seen the BBC seems to broadcast a week behind the dates given by the UK Official Singles Charts.</p>
 <p>I imagine that is because the programme is broadcast on a Sunday and they would not receive the data for the charts until sometime during the week.</p>
 <cite>Robcamstone</cite>
 </blockquote>
 
-<h2  id="infobox6"><a href="#infobox6">Medium Wave (AM) - VHF (FM)</a></h2>
+<h2  id="infobox5"><a href="#infobox5">Medium Wave (AM) - VHF (FM)</a></h2>
 <blockquote>
 <p>
 At the time of broadcast Radio 1 was only available on Medium Wave so when the BBC broadcasted some of its music programmes it also broadcasted them on Radio 2 VHF so that listeners with a VHF Radio could enjoy a higher quality of sound and if the receiver was a stereo one than could enjoy tracks that were made in stereo as they should have been heard.
