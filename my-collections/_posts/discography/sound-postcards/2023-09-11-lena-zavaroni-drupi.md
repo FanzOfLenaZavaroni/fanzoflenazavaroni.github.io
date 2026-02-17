@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: discography
 title: Pocztówka dźwiękowa (Sound Postcard)
 maintitle: Pocztówka dźwiękowa (Sound Postcard)
 subtitle: Lena Zavaroni & Drupi
-before: "<strong>Note:</strong> Creation Date of this post is used as the release date unknown "
+before: Release date unknown
 description: Lena Zavaroni & Drupi.
 post_description: Lena Zavaroni & Drupi.
 categories: [Pocztówka-Dzwiekowa, Sound-Postcard, OnThisDay11September]

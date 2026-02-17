@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: discography
 title: Pocztówka dźwiękowa (Sound Postcard)
 maintitle: Pocztówka dźwiękowa (Sound Postcard)
 subtitle: Demis Roussos & Lena Zavaroni
-before: "<strong>Note:</strong> Creation Date of this post is used as the release date unknown "
+before: Release date unknown
 description: Demis Roussos & Lena Zavaroni.
 post_description: Demis Roussos & Lena Zavaroni.
 categories: [Pocztówka-Dzwiekowa, Sound-Postcard, OnThisDay11September]
@@ -31,5 +31,3 @@ last_modified_at: 2023-09-11T13:40:00+01:00
 <li><strong>Released</strong> Unknown Date</li>
 </ul>
 <p><strong>Additional Notes:</strong> Based on the fact that Demis Roussos's single When I'm A Kid was released in 1973 and Lena Zavaroni's single Ma! (He's Making Eyes At Me') was released in 1974 the most likely year of release would be 1974.</p>
-
-<br />{: .clear}
