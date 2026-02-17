@@ -9,23 +9,40 @@ categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay24February, Year-197
 last_modified_at: 17 March 2024
 ---
 
-<figure class="fig3">
-<table style="text-align:center;">
-<tr><th colspan="3">View Details For Each Episode Featuring Ma! (He’s Making Eyes At Me) By Lena Zavaroni</th></tr>
-<tr><td><a href="/1974-02-10-Solid-Gold-Sixty-with-Tom-Browne/">10 February 1974</a></td><td><a href="/1974-02-17-Solid-Gold-Sixty-with-Tom-Browne/">17 February 1974</a></td><td><a href="/1974-02-24-Solid-Gold-Sixty-with-Tom-Browne/">24 February 1974 &#x2714;</a></td></tr>
+{% assign tb_posts = site.posts 
+    | where_exp: "post", "post.categories contains 'Tom-Browne'" 
+    | sort: "date" %}
 
-<tr><td><a href="/1974-03-03-Solid-Gold-Sixty-with-Tom-Browne/">3 March 1974</a></td><td><a href="/1974-03-10-Solid-Gold-Sixty-with-Tom-Browne/">10 March 1974</a></td><td><a href="/1974-03-17-Solid-Gold-Sixty-with-Tom-Browne/">17 March 1974</a></td></tr>
-<tr><th colspan="3">Tom Browne with The Top Twenty</th></tr>
-<tr><td colspan="3"><a href="/1974-03-24-Top-20-with-Tom-Browne">24 March 1974</a></td></tr>
-</table>
-</figure>
+{% assign index = nil %}
 
-<figure class="fig3">
-<table style="text-align:center;">
-<tr><th colspan="5">Jump To</th></tr>
-<tr><td style="width:20%;"><a href="#infobox1">Recording</a></td><td style="width:20%;"><a href="#infobox2">Solid Gold Sixty</a></td><td style="width:20%;"><a href="#infobox3">Top Twenty</a></td><td style="width:20%;"><a href="#infobox4">Chart & Date</a></td><td style="width:20%;"><a href="#infobox5">AM - FM</a></td></tr>
-</table>
-</figure>
+{% for p in tb_posts %}
+  {% if p.url == page.url %}
+    {% assign index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_index = index | minus: 1 %}
+{% assign next_index = index | plus: 1 %}
+
+{% assign prev = tb_posts[prev_index] %}
+{% assign next = tb_posts[next_index] %}
+
+<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
+
+  {% if prev %}
+    <a href="{{ prev.url }}">« Previous Sunday</a>
+  {% else %}
+    <span style="visibility:hidden;">« Previous Sunday</span>
+  {% endif %}
+
+  {% if next %}
+    <a href="{{ next.url }}">Next Sunday »</a>
+  {% else %}
+    <span style="visibility:hidden;">Next Sunday »</span>
+  {% endif %}
+
+</div>
+
 
 <strong>{{ page.description }}</strong>
 

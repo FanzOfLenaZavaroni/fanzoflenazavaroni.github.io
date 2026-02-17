@@ -9,6 +9,50 @@ categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay10February, Year-197
 last_modified_at: 9 February 2026
 ---
 
+{% assign tb_posts = site.posts 
+    | where_exp: "post", "post.categories contains 'Tom-Browne'" 
+    | sort: "date" %}
+
+{% assign index = nil %}
+
+{% for p in tb_posts %}
+  {% if p.url == page.url %}
+    {% assign index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_index = index | minus: 1 %}
+{% assign next_index = index | plus: 1 %}
+
+{% assign prev = nil %}
+{% assign next = nil %}
+
+{% if prev_index >= 0 %}
+  {% assign prev = tb_posts[prev_index] %}
+{% endif %}
+
+{% if next_index < tb_posts.size %}
+  {% assign next = tb_posts[next_index] %}
+{% endif %}
+
+<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
+
+  {% if prev %}
+    <a href="{{ prev.url }}">« Previous Sunday</a>
+  {% else %}
+    <span style="visibility:hidden;">« Previous Sunday</span>
+  {% endif %}
+
+  {% if next %}
+    <a href="{{ next.url }}">Next Sunday »</a>
+  {% else %}
+    <span style="visibility:hidden;">Next Sunday »</span>
+  {% endif %}
+
+</div>
+
+
+
 <h2  id="infobox1"><a href="#infobox1">Recording of the Top 20 section of the broadcast</a></h2>
 <ul>
 <li>Recording not available at this time!</li>
@@ -22,7 +66,7 @@ last_modified_at: 9 February 2026
 
 <h2  id="infobox3"><a href="#infobox3">BBC Radio 2</a></h2>
 <ul>
-<li><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_radio_two/1974-02-10#at-18.00">Solid Gold Sixty with Tom Browne starts at 18:00hrs</a></li>
+<li><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_radio_two/1974-02-10#at-18.00">The Top Twenty with Tom Browne as Radio 1 starts at 18:00hrs</a></li>
 <li>BBC Radio 2's first air date was on 30 September 1967 it was a replacement for the Light Programme it was transmitter on VHF using frequency modulation in 1973 a subcarrier was added to the transmission which allowed the broadcasting of content in stereo.</li>
 </ul>
 
