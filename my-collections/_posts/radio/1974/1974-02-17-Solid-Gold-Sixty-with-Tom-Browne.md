@@ -9,9 +9,38 @@ categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay17February, Year-197
 last_modified_at: 16 February 2026
 ---
 
+{% assign tb_posts = site.posts
+    | where_exp: "post", "post.categories contains 'Tom-Browne'"
+    | sort: "date" %}
+
+{% assign index = nil %}
+
+{% for p in tb_posts %}
+  {% if p.url == page.url %}
+    {% assign index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_index = index | minus: 1 %}
+{% assign next_index = index | plus: 1 %}
+
+{% assign prev = tb_posts[prev_index] %}
+{% assign next = tb_posts[next_index] %}
+
 <div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
-<a href="/1974-02-10-Solid-Gold-Sixty-with-Tom-Browne">« Previous Sunday</a>
-<a href="/1974-02-24-Solid-Gold-Sixty-with-Tom-Browne">Next Sunday »</a>
+
+  {% if prev %}
+    <a href="{{ prev.url }}">« Previous Sunday</a>
+  {% else %}
+    <span style="visibility:hidden;">« Previous Sunday</span>
+  {% endif %}
+
+  {% if next %}
+    <a href="{{ next.url }}">Next Sunday »</a>
+  {% else %}
+    <span style="visibility:hidden;">Next Sunday »</span>
+  {% endif %}
+
 </div>
 
 <h2  id="infobox1"><a href="#infobox1">Recording of the Top 20 section of the broadcast</a></h2>

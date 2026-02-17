@@ -9,8 +9,8 @@ categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay17March, Year-1974]
 last_modified_at: 17 March 2024
 ---
 
-{% assign tb_posts = site.posts 
-    | where_exp: "post", "post.categories contains 'Tom-Browne'" 
+{% assign tb_posts = site.posts
+    | where_exp: "post", "post.categories contains 'Tom-Browne'"
     | sort: "date" %}
 
 {% assign index = nil %}
@@ -42,7 +42,6 @@ last_modified_at: 17 March 2024
   {% endif %}
 
 </div>
-
 
 <strong>{{ page.description }}</strong>
 

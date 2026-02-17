@@ -9,8 +9,8 @@ categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay24March, Year-1974]
 last_modified_at: 17 March 2024
 ---
 
-{% assign tb_posts = site.posts 
-    | where_exp: "post", "post.categories contains 'Tom-Browne'" 
+{% assign tb_posts = site.posts
+    | where_exp: "post", "post.categories contains 'Tom-Browne'"
     | sort: "date" %}
 
 {% assign index = nil %}
@@ -42,7 +42,6 @@ last_modified_at: 17 March 2024
   {% endif %}
 
 </div>
-
 
 <p>As the BBC dropped the Top 60 it meant this was the last time we would hear Lena's single in their Sunday Charts show as while she would remain in the Top 60 for another 4 weeks her position in the charts would be outside of the Top 20.</p>
 
