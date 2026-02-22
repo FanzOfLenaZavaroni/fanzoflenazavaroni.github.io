@@ -2,49 +2,13 @@
 layout: post
 title: The Stage and Television Today &#124; 22 February 1979
 maintitle: The Stage and Television Today
-subtitle: Light Entertainment News
-description: reported on the Water Rats Gale Charity Night.
-media: Light Entertainment News
-post_description: reported on the Water Rats Gale Charity Night.
-image: /assets/images/the-stage-and-television-today/1979-02-22-the-stage-and-television-today-front-cover.jpg
+subtitle: Water Rats gala charity night
+description: Reported on the Water Rats Gale Charity Night.
+post_description: Reported on the Water Rats Gala Charity Night, which featured performances by several well‑known entertainers.
 categories: [The-Stage-and-Television-Today, OnThisDay22February]
 ---
 
-<figure class="fig1">
-<figcaption>
-<h2 id="front-cover">Front Cover</h2>
-</figcaption>
-<a href="/assets/images/the-stage-and-television-today/1979-02-22-the-stage-and-television-today-front-cover.jpg"><img src="/assets/images/the-stage-and-television-today/1979-02-22-the-stage-and-television-today-front-cover.jpg" class="full-width zoom-in"></a>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Summery</a></h2>
 
-<figure class="fig2">
-<figcaption>
-<h2 id="page-5">page 5</h2>
-</figcaption>
-<a href="/assets/images/the-stage-and-television-today/1979-02-22-the-stage-and-television-today-page-5.jpg"><img src="/assets/images/the-stage-and-television-today/1979-02-22-the-stage-and-television-today-page-5.jpg" class="full-width zoom-in"></a>
-</figure>
-
-{: .clear}
-
-<figure class="fig1">
-<figcaption>
-<h2 id="page-5-cropped">page 5 cropped</h2>
-</figcaption>
-<a href="/assets/images/the-stage-and-television-today/1979-02-22-the-stage-and-television-today-page-5-cropped.jpg"><img src="/assets/images/the-stage-and-television-today/1979-02-22-the-stage-and-television-today-page-5-cropped.jpg" class="full-width zoom-in"></a>
-</figure>
-
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
+<p>The Grand Order of Water Rats held its annual Gala Charity Night at the Kings club in Great Barr, Birmingham, drawing an audience of more than 500 people. Past King Rat Terry Cantor oversaw the event, which featured performances by Roger de Courcy, Lena Zavaroni, and the Bachelors, with Charlie Smithers hosting and Colin Campbell’s expanded orchestra providing musical support. The evening raised £8,000 for charitable causes.</p>
 

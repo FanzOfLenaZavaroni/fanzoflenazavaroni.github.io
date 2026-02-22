@@ -55,15 +55,54 @@ Some categories are displayed but not linked because they serve specific functio
 {% assign skip = false %}
 
 {% for skip_cat in skip_list %}
-{% if category contains skip_cat %}
-{% assign skip = true %}
-{% endif %}
+  {% if category contains skip_cat %}
+    {% assign skip = true %}
+  {% endif %}
 {% endfor %}
 
 {% if skip %}
-{{ category }}
+
+  {% if category contains "OnThisDay" %}
+
+    {% assign day = category | remove: "OnThisDay" %}
+    {% assign day = day | remove: "January" | remove: "February" | remove: "March" | remove: "April" | remove: "May" | remove: "June" | remove: "July" | remove: "August" | remove: "September" | remove: "October" | remove: "November" | remove: "December" | strip %}
+
+    {% assign day_int = day | plus: 0 %}
+    {% if day_int < 10 %}
+      {% assign day = "0" | append: day_int %}
+    {% else %}
+      {% assign day = day_int %}
+    {% endif %}
+
+    {% assign months = "January,February,March,April,May,June,July,August,September,October,November,December" | split: "," %}
+    {% for m in months %}
+      {% if category contains m %}
+        {% assign month_name = m %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign month_numbers = "January:01,February:02,March:03,April:04,May:05,June:06,July:07,August:08,September:09,October:10,November:11,December:12" | split: "," %}
+    {% for pair in month_numbers %}
+      {% assign parts = pair | split: ":" %}
+      {% if parts[0] == month_name %}
+        {% assign month_number = parts[1] %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign otd_url = "/onthisday/" | append: month_number | append: "/" | append: month_number | append: "-" | append: day | append: "/" %}
+
+    <a href="{{ otd_url }}">{{ category }}</a>
+
+  {% else %}
+
+    {{ category }}
+
+  {% endif %}
+
 {% else %}
-<a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category }}</a>
+
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category }}</a>
+
 {% endif %}
 
 {% unless forloop.last %}&nbsp;{% endunless %}
@@ -90,3 +129,4 @@ crossorigin="anonymous"
 async>
 </script>
 </article>
+
