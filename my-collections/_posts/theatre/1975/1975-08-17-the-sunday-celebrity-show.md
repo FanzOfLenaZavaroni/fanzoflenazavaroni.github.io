@@ -6,7 +6,7 @@ subtitle: Winter Gardens, Margate
 after: ", Shows at 6.00pm and 8.30pm"
 description: Lena Zavaroni stars in the show.
 post_description: Lena Zavaroni stars in the show.
-categories: [Theatre-The-Winter-Gardens, Margate, OnThisDay17August, Year-1975]
+categories: [Theatre-The-Winter-Gardens, Margate, OnThisDay17August]
 ---
 
 <figure class="fig3">

@@ -5,7 +5,7 @@ maintitle: The Fulham Chronicle
 subtitle: Contained a Small advert for Lena's show in Hastings.
 description: Small advert for Lena's show in Hastings.
 post_description: Contained a small advert for Lena's show in Hastings.
-categories: [Newspaper-Fulham-Chronicle, OnThisDay20August, Year-1982]
+categories: [Newspaper-Fulham-Chronicle, OnThisDay20August]
 ---
 
 <figure class="fig3">

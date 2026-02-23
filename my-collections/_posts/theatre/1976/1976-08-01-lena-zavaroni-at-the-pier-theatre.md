@@ -5,7 +5,7 @@ maintitle: Lena Zavaroni At The Pier Theatre
 subtitle: Skegness
 description: Starring Lena Zavaroni.
 post_description: One of the support acts burnt his arm during his act and Lena stayed with him until an ambulance came.
-categories: [Theatres, The-Pier-Theatre, OnThisDay1August, Year-1976]
+categories: [Theatres, The-Pier-Theatre, OnThisDay1August]
 ---
 
 <figure class="fig3">

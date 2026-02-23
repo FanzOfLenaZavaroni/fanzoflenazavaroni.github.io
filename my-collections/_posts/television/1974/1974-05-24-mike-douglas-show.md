@@ -5,10 +5,8 @@ title: Mike Douglas Show &#124;24 May 1974
 maintitle: Mike Douglas Show
 subtitle: Episode 13.185
 description: Totie Fields is co-host. Guests are actor Tony Curtis, singer-actress Florence Henderson, 10-year-old Scottish singer Lena Zavaroni, Totie's husband George Johnston, diet book author Dr. Irwin Stillman, and diet patient Alison Libert.
-media: US Television
 post_description: Totie Fields is co-host. Guests are actor Tony Curtis, singer-actress Florence Henderson, 10-year-old Scottish singer Lena Zavaroni, Totie's husband George Johnston, diet book author Dr. Irwin Stillman, and diet patient Alison Libert.
-image: /assets/images/US-TV/mike-douglas-show.jpg
-categories: [US-Television, OnThisDay24May, Year-1974, Year-1974, Year-1974]
+categories: [US-Television, OnThisDay24May]
 ---
 
 <figure class="fig3">

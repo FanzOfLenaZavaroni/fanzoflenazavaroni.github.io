@@ -6,7 +6,7 @@ subtitle: Listening to the Novel
 description: Alongside readings of modern novels (including work by David Mitchell, Zadie Smith, Jackie Kay and Andrew O'Hagan), Gerry Smyth offers an extended theoretical analysis of the relationship between music and fiction, as well as a critical overview of the role played by music in the canon of British fiction since the eighteenth century.
 post_description: Alongside readings of modern novels (including work by David Mitchell, Zadie Smith, Jackie Kay and Andrew O'Hagan), Gerry Smyth offers an extended theoretical analysis of the relationship between music and fiction, as well as a critical overview of the role played by music in the canon of British fiction since the eighteenth century.
 image: /assets/images/books/2008-11-20-music-in-contemporary-british-fiction.jpg
-categories: [Books, OnThisDay20November, Year-2008]
+categories: [Books, OnThisDay20November]
 ---
 
 <figure class="fig1">

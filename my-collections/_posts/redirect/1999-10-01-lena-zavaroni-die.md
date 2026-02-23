@@ -5,7 +5,7 @@ maintitle: Lena Zavaroni Die from Bronchopneumonia
 subtitle:
 description: Die From Bronchopneumonia.
 post_description: Die From Bronchopneumonia.
-categories: [Redirects-To-Media-Based-Biography-Of-Lena-Zavaroni, OnThisDay1October, Year-1999]
+categories: [Redirects-To-Media-Based-Biography-Of-Lena-Zavaroni, OnThisDay1October]
 redirect_to: /1963-11-04-lena-zavaroni/#infobox28
 class: internal-link
 ---

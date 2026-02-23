@@ -6,10 +6,8 @@ title: The Tonight Show &#124; 4 June 1974
 maintitle: The Tonight Show
 subtitle: Starring Johnny Carson
 description: She performs Ma He's Making Eyes At Me and then chats to Johnny, before performing The End Of The World.
-media: US Television
 post_description: Lena Zavaroni performs Ma He's Making Eyes At Me and then chats to Johnny, before performing The End Of The World.
-image: https://img.youtube.com/vi/iG4y6WCY1RA/mqdefault.jpg
-categories: [US-Television, OnThisDay4June, OnThisDay3May, Year-1974, Year-1974, Year-1974]
+categories: [US-Television, OnThisDay4June, OnThisDay3May]
 last_modified_at: 2 May 2025
 ---
 

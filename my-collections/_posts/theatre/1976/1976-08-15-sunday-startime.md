@@ -6,7 +6,7 @@ subtitle: ABC Theatre, Great Yarmouth
 after: ", Two Shows at 6:15pm and 8:35pm."
 description: Starring Lena Zavaroni with Pam Ayres, The Vernons, Barley, Barry Britten and The Johnny Wiltshire Orchestra.
 post_description: Starring Lena Zavaroni with Pam Ayres, The Vernons, Barley, Barry Britten and The Johnny Wiltshire Orchestra.
-categories: [Theatres, Great-Yarmouth, OnThisDay15August, Year-1976]
+categories: [Theatres, Great-Yarmouth, OnThisDay15August]
 ---
 
 <figure class="fig3">

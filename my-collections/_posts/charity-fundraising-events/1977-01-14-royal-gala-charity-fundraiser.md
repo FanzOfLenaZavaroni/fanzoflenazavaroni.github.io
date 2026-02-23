@@ -6,7 +6,7 @@ subtitle: Jollees, Stoke-on-Trent
 description: Lena attended the Fundraiser where she was photographed shaking hands with Princess Margaret.
 media: Jollees, Stoke-on-Trent
 post_description: Lena attended the Fundraiser where she was photographed shaking hands with Princess Margaret.
-categories: [Theatres, Jollees, Fundraising, OnThisDay14January, Year-1977]
+categories: [Theatres, Jollees, Fundraising, OnThisDay14January]
 ---
 
 <img src="/assets/images/placeholder/landscape-placeholder.png" class="fullwidth" />

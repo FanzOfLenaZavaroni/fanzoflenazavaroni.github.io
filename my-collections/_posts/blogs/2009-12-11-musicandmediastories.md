@@ -5,7 +5,7 @@ maintitle: Music And Media Stories
 subtitle: The Wrath of Solomon - Part 1 by John McCready
 description: The Wrath of Solomon by John McCready - Part 1
 post_description: The Wrath of Solomon by John McCready - Part 1
-categories: [Blog-John-McCready, Shel-Talmy, OnThisDay11December, Year-2009]
+categories: [Blog-John-McCready, Shel-Talmy, OnThisDay11December]
 last_modified_at: 7 December 2025
 ---
 

@@ -5,7 +5,7 @@ maintitle: Solid Gold Sixty with Tom Browne
 subtitle: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved up the charts from number 30 to number 16
 description: Solid Gold Sixty The second Week Lena Zavaroni is in the charts.
 post_description: The second Week Lena Zavaroni is in the charts.
-categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay17February, Year-1974]
+categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay17February]
 last_modified_at: 16 February 2026
 ---
 

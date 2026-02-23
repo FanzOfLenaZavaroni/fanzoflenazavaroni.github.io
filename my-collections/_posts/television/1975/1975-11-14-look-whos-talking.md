@@ -5,7 +5,7 @@ maintitle: Look Who's Talking
 subtitle: Border Television
 description: Lena chats to Derek Batey about her life so far, and performs impromptu versions of Ma! He's Making Eyes At Me in Japanese and German.
 post_description: Lena chats to Derek Batey about her life so far, and performs impromptu versions of Ma! He's Making Eyes At Me in Japanese and German.
-categories: [Television-Border-Television, ITV, OnThisDay14November, Year-1975]
+categories: [Television-Border-Television, ITV, OnThisDay14November]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Summary</a></h2>

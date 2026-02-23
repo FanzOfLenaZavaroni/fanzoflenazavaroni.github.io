@@ -6,9 +6,8 @@ after: " And Repeated on 3 March 1985"
 maintitle: It's Not Where You Start ... It's Where You Finish!
 subtitle: Documentary on the stage school where Lena Zavaroni and Bonnie Langford Started
 description: Documentary on the stage school where Lena Zavaroni and Bonnie Langford Started
-media: Tyne Tees Television
 post_description: Documentary on the stage school where Lena Zavaroni and Bonnie Langford Started.
-categories: [Television-Tyne-Tees-Television, Bonnie-Langford, OnThisDay19August, Year-1974, OnThisDay3March]
+categories: [Television-Tyne-Tees-Television, Bonnie-Langford, OnThisDay19August, OnThisDay3March]
 last_modified_at: 2 March 2024
 ---
 

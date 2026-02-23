@@ -5,7 +5,7 @@ maintitle: Variety
 subtitle: Carol Burnett Show Guest Stars Lined Up
 description: Carol Burnett Show Guest Stars Lined Up.
 post_description: Carol Burnett Show Guest Stars Lined Up.
-categories: [Magazine-Variety, OnThisDay22August, Year-1974]
+categories: [Magazine-Variety, OnThisDay22August]
 last_modified_at: 22 August 2025
 ---
 

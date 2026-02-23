@@ -5,7 +5,7 @@ maintitle: The Lena Zavaroni Club Get Together
 subtitle: Torquay
 description: Lena Zavaroni joins members of her fan club at a hotel in Torquay.
 post_description: Lena Zavaroni joins members of her fan club at a hotel in Torquay.
-categories: [Fan-Club, Torquay, OnThisDay23August, Year-1986]
+categories: [Fan-Club, Torquay, OnThisDay23August]
 ---
 
 <figure class="fig3">

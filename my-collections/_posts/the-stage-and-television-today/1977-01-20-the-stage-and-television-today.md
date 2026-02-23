@@ -5,7 +5,7 @@ maintitle: The Stage and Television Today
 subtitle: ROYAL OCCASIONS
 description: Contained a double-page feature on two Royal charity fundraisers which had been held the previous week.
 post_description: Contained a double-page feature on two Royal charity fundraisers which had been held the previous week.
-categories: [The-Stage-and-Television-Today, OnThisDay20January, Year-1977]
+categories: [The-Stage-and-Television-Today, OnThisDay20January]
 ---
 
 {{ page.description }}

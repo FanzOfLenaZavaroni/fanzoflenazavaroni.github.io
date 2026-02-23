@@ -4,10 +4,8 @@ title: Merv Griffin Show &#124; 14 June 1974
 maintitle: Merv Griffin Show
 subtitle: Season 11
 description: Merv's guests are actors Fernando Lamas and James Brolin, child singer Lena Zavaroni and Apollo 15 astronaut Col. James B. Irwin.
-media: US Television
 post_description: Merv's guests are actors Fernando Lamas and James Brolin, child singer Lena Zavaroni and Apollo 15 astronaut Col. James B. Irwin.
-image: /assets/images/US-TV/merv-griffin-show-1a.jpg
-categories: [US-Television, Merv-Griffin-Show, OnThisDay14June, Year-1974, Year-1974, Year-1974]
+categories: [US-Television, Merv-Griffin-Show, OnThisDay14June]
 last_modified_at: 14 June 2025
 ---
 

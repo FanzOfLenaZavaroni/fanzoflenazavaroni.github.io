@@ -5,7 +5,7 @@ maintitle: Sunday Seaside Special
 subtitle: Wellington Pier, Great Yarmouth
 description: Lena Zavaroni stars in her own show at the Wellington Pier, Great Yarmouth.
 post_description: Lena Zavaroni stars in her own show at the Wellington Pier, Great Yarmouth.
-categories: [Entertianment-Great-Yarmouth-Pier-Pavilion, OnThisDay13August, Year-1978]
+categories: [Entertianment-Great-Yarmouth-Pier-Pavilion, OnThisDay13August]
 ---
 
 <figure class="fig3">

@@ -5,7 +5,7 @@ maintitle: Sunday All Star Celebrity Concert
 subtitle: The Winter Gardens, Bournemouth
 description: Starring Lena Zavaroni
 post_description: Starring Lena Zavaroni
-categories: [Theatre-Winter-Gardens, Bournemouth, OnThisDay17September, Year-1978]
+categories: [Theatre-Winter-Gardens, Bournemouth, OnThisDay17September]
 last_modified_at: 17 September 2025
 ---
 

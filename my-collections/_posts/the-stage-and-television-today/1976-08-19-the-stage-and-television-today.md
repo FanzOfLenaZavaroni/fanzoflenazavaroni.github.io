@@ -5,7 +5,7 @@ maintitle: The Stage and Television Today
 subtitle: Featured a number of pages that made reference to Lena Zavaroni.
 description: Featured a number of pages that made reference to Lena Zavaroni.
 post_description: Featured a number of pages that made reference to Lena Zavaroni.
-categories: [The-Stage-and-Television-Today, OnThisDay19August, Year-1976]
+categories: [The-Stage-and-Television-Today, OnThisDay19August]
 ---
 
 <figure class="fig3">

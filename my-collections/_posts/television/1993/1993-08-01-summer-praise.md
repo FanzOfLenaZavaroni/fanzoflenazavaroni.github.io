@@ -7,7 +7,7 @@ before: "Original Broadcast On BBC One "
 after: " And Repeated On BBC Two 2 August 1993"
 description: The Sunday evening religious show features the Firth Of Clyde, and visits Lena's home town of Rothesay. Pam Rhodes chats to Lena about her life and career.
 post_description: The Sunday evening religious show features the Firth Of Clyde, and visits Lena's home town of Rothesay. Pam Rhodes chats to Lena about her life and career.
-categories: [Television-BBC-One, OnThisDay1August, OnThisDay2August, Year-1993]
+categories: [Television-BBC-One, OnThisDay1August, OnThisDay2August]
 last_modified_at: 1 August 2025
 ---
 

@@ -5,7 +5,7 @@ maintitle: Sunday Mirror
 subtitle: Father's Special Day
 description: Father's Special Day
 post_description: Father's Special Day
-categories: [Newspaper-Mirror, OnThisDay18June, Year-1978]
+categories: [Newspaper-Mirror, OnThisDay18June]
 last_modified_at: 15 June 2025
 ---
 
