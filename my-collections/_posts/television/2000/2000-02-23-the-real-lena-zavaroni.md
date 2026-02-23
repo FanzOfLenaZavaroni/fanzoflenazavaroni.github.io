@@ -7,66 +7,39 @@ maintitle: The Real... Lena Zavaroni
 subtitle: Channel 4
 description: Channel 4 documentary charting Lena Zavaroni's career and subsequent illness.
 post_description: Documentary charting Lena Zavaroni's career and subsequent illness.
-image: /assets/images/channel4/2000-02-23-the-real-lena-zavaroni.jpg
 categories: [Channel-4, The-Real..., Going-Nowhere, OnThisDay23February, OnThisDay23January]
-last_modified_at: 19 February
+last_modified_at: 23 February 2026
 ---
 
-<figure class="fig1">
-<figcaption>
-<h2 id="publicity"><a href="#publicity">Publicity Photo</a></h2>
-</figcaption>
-<a href="/assets/images/channel4/2000-02-23-the-real-lena-zavaroni.jpg"><img src="/assets/images/channel4/2000-02-23-the-real-lena-zavaroni.jpg" class="full-width zoom-in"/></a>
-<figcaption>
-<cite>Note the photo used by Channal 4 was taken at the funeral of Hughie Green</cite>
-</figcaption>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Summary</a></h2>
 
-<figure class="fig2">
-<figcaption>
-<h2 id="preview"><a href="#preview">Preview</a></h2>
-<blockquote>
-<p>On 6 January 1974, Hughie Green introduced a ten-year-old redhead from the Isle of Bute to the Opportunity Knocks audience. Overnight, Lena Zavaroni went from Winning the local talent contest to household name Under the guardianship of her agent, the little girl With the big voice left her island home and within a few short months had toured Japan and the US, sang to President Ford, met Frank Sinatra and taken residence on London's swanky Park Lane.</p>
-<p>Separated from her parents at an early age, torn by the pressures of fame - the path to anorexia clearly marked, leading the singer from the height of fame to drawing the dole and her eventual death last year An intimate account of a tragic life comprising interviews with friends and family, peppered With clips of that amazing voice in action, The Real LenaZavaroni is a fascinating insight, and deeply sad.</p>
-</blockquote>
-<cite><a href="https://archive.list.co.uk/the-list/2000-02-17/102">The List - 17 Febuary 2000 - Kelly Apter</a></cite>
-</figcaption>
-</figure>
+<p>The programme profiles singer Lena Zavaroni, who became famous overnight after appearing on Opportunity Knocks in 1974 at age ten. Under the management of her agent, she left her home on the Isle of Bute and quickly entered an intense international schedule, including tours in Japan and the United States, performing for President Ford, meeting Frank Sinatra, and living in London’s Park Lane.</p>
+<p>The documentary highlights how early separation from her family and the pressures of fame contributed to the development of anorexia, tracing her decline from major success to unemployment and ultimately her death. It includes interviews with relatives and friends, along with performance clips.</p>
+<cite><a href="http://backcatalog.list.co.uk.s3-website.eu-west-2.amazonaws.com/the-list/2000-02-17/102/index.html">The List (magazine) – 17 February 2000 – Kelly Apter</a></cite>
 
-{: .clear}
+<h2 id="infobox2"><a href="#infobox22">Cast</a></h2>
 
-<figure class="fig1">
-<figcaption>
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-<table>
-<tr><th>Narrator</th><td>Jenny Agutter</td></tr>
-<tr><th>On screen participant</th><td>Victor Zavaroni</td></tr>
-<tr><th>On screen participant</th><td>Carla Zavaroni</td></tr>
-<tr><th>On screen participant</th><td>Dorothy Solomon</td></tr>
-<tr><th>On screen participant</th><td>Margaret Zavaroni</td></tr>
-<tr><th>On screen participant</th><td>Karen Halliday</td></tr>
-<tr><th>On screen participant</th><td>Jean Ritchie</td></tr>
-<tr><th>On screen participant</th><td>Peggy Claude-Pierre</td></tr>
-</table>
-</figcaption>
-</figure>
+<ul class="columns2">
+<li><strong>Narrator:</strong> Jenny Agutter</li>
+<li><strong>On screen participant:</strong> Victor Zavaroni</li>
+<li><strong>On screen participant:</strong> Carla Zavaroni</li>
+<li><strong>On screen participant:</strong> Dorothy Solomon</li>
+<li><strong>On screen participant:</strong> Margaret Zavaroni</li>
+<li><strong>On screen participant:</strong> Karen Halliday</li>
+<li><strong>On screen participant:</strong> Jean Ritchie</li>
+<li><strong>On screen participant:</strong> Peggy Claude-Pierre</li>
+</ul>
 
-<figure class="fig2">
-<figcaption>
-<h2 id="crew"><a href="#crew">Crew</a></h2>
-<table>
-<tr><th>Production executive</th><td>Christine Mathisen</td></tr>
-<tr><th>Production secretary</th><td>Kate Finn</td></tr>
-<tr><th>Head of production</th><td>Anita Walsh</td></tr>
-<tr><th>Production manager</th><td>Colette Ward</td></tr>
-<tr><th>Researcher</th><td>Daniel Gooding</td></tr>
-<tr><th>Film editor</th><td>Julie Buckland</td></tr>
-<tr><th>Executive producer</th><td>Paula Trafford</td></tr>
-<tr><th>Producer &amp; Director</th><td>John Alexander</td></tr>
-<tr><th>Production company</th><td>Planet Wild for Channel 4 Television</td></tr>
-</table>
-</figcaption>
-</figure>
+<h2 id="infobox3"><a href="#infobox3">Crew</a></h2>
 
-<br />{: .clear}
-
+<ul class="columns2">
+<li><strong>Production executive:</strong> Christine Mathisen</li>
+<li><strong>Production secretary:</strong> Kate Finn</li>
+<li><strong>Head of production:</strong> Anita Walsh</li>
+<li><strong>Production manager:</strong> Colette Ward</li>
+<li><strong>Researcher:</strong> Daniel Gooding</li>
+<li><strong>Film editor:</strong> Julie Buckland</li>
+<li><strong>Executive producer:</strong> Paula Trafford</li>
+<li><strong>Producer &amp; Director:</strong> John Alexander</li>
+<li><strong>Production company:</strong> Planet Wild for Channel 4 Television</li>
+</ul>

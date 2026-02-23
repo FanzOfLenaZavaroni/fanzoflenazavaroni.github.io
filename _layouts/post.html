@@ -38,12 +38,6 @@ layout: default
 {% assign skip_categories = site.pages | where: "permalink", "/categories/" | first %}
 {% assign skip_list = skip_categories.skip-cats %}
 
-{% if skip_list and skip_list.size > 0 %}
-<p class="info-message">
-Some categories are displayed but not linked because they serve specific functions and are excluded from the Categories page.
-</p>
-{% endif %}
-
 <span class="post-categories">
 {% if post %}
 {% assign categories = post.categories %}
