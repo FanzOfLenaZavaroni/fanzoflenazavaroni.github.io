@@ -14,7 +14,7 @@ The following is a list of websites and tips that may help you with your own res
 ### Notes
 * ——: While I don't like watermarking, if the website has not broken copyright law by the use of watermarking, then it may get a link.
 * ——: As you will find, stockphoto websites (No longer part of this list) don't seem to understand the importance of providing details on the photos or putting them into context which is a great shame and where dates and/or details are given you can't take the info at face value and will need to do addtional research to confirm what is given is correct.
-* ——: An addition of a website to this page is not an endorsement of that website and is just here for anyone looking for a starting place to research Lena Zavaroni.
+* ——: An addition of a website to this page or post is not an endorsement of that website and is just here for anyone looking for a starting place to research Lena Zavaroni.
 * ——: Any links that have "<span class="up">&#8592;</span> <span class="red">newly added</span>" at the end simply means that it is a new link added to this page and doesn't reflect the age of the linked website.
 
 * ——: [<strong>45cat.com</strong>](http://www.45cat.com/45_search.php?sq=Lena+Zavaroni&sm=se) - DataBase  of Singles, 45s, 7" records.
