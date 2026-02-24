@@ -10,11 +10,11 @@ categories: [Newspaper-Glasgow-Herald, OnThisDay28February]
 
 <strong>The Glasgow Herald published a short article by Andrew Young on [The Scottish National Record Awards](/1980-02-27-the-scottish-national-record-awards) that had taken place the previous day at The Albany Hotel, Glasgow.</strong>
 
-<h2 id="infobox1"><a href="infobox1">Summary</a></h2>
+<h2 id="infobox1"><a href="#infobox1">Summary</a></h2>
 
 <p>At 16 the Rothesy singer Lena Zavaroni was present to collect her award for "Personality Of The Year", having recently made a recover after spending sometime with a stomach complete in a hospital in Glasgow. Other awards and the personalities that received them were also listed in the paper see list below.<p>
 
-<h2 id="infobox2"><a href="infobox2">Personalities Listed In The Article</a></h2>
+<h2 id="infobox2"><a href="#infobox2">Personalities Listed In The Article</a></h2>
 <p><strong>The running order for the event is unknown but he list follows how the personalities were listed in the paper.</strong></p>
 
 <ul>
