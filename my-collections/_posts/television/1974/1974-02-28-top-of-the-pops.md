@@ -5,54 +5,40 @@ title: Top of the Pops &#124; 28 February 1974
 maintitle: Top of the Pops
 subtitle: Music Chart Television Programme
 description: Lena Zavaroni gets to preform on Top of the Pops for the second time.
-media: BBC One
 post_description: Lena Zavaroni gets to preform on Top of the Pops for the second time.
 categories: [BBC-One, TOTP, OnThisDay28February]
 ---
 
-<figure class="fig3">
-<p>Lena Zavaroni gets to preform on BBC One's Top of the Pops for the second time. I am unable to confirm if this was just a reusing of the recording from her first appearance or if it was an actual second appearance on the show.</p>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Cast</a></h2>
+<ul class="columns2">
+<li><strong>Dave Lee Travis</strong>: Presenter</li>
+<li><strong>Paul McCartney & Wings</strong>: Pop Group</li>
+<li><strong>Bill Haley & His Comets</strong>: Rock and Roll Band</li>
+<li><strong>Hudson-Ford</strong>: Rock Band-Style Duo</li>
+<li><strong>John Christie</strong>: Singer</li>
+<li><strong>Charlie Rich</strong>: Country Music Singer</li>
+<li><strong>The Wombles</strong>: Band</li>
+<li><strong>The New Seekers</strong>: Pop Group</li>
+<li><strong>Paper Lace</strong>: Pop/Rock Band</li>
+<li><strong>Ringo Starr</strong>: Singer</li>
+<li><strong>Lena Zavaroni</strong>: Singer</li>
+<li><strong>Suzi Quatro</strong>: Singer</li>
+<li><strong>David Bowie</strong>: Singer</li>
+</ul>
 
-{: .clear}
+<p><strong>Note:</strong> Lena Zavaroni unconfirmed but more then likely a prerecording of her performance given her young age.</p>
 
-<figure class="fig1">
-<figcaption>
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-<table>
-<tr><th>Introduced By</th><td>Dave Lee Travis</td></tr>
-<tr><th>Pop Group</th><td>Paul McCartney & Wings</td></tr>
-<tr><th>Rock And Roll Band</th><td>Bill Haley & his Comets</td></tr>
-<tr><th>Rock Band-Style Duo</th><td>Hudson-Ford</td></tr>
-<tr><th>Singer</th><td>John Christie</td></tr>
-<tr><th>Country Music Singer</th><td>Charlie Rich</td></tr>
-<tr><th>Band</th><td>The Wombles</td></tr>
-<tr><th>Pop Group</th><td>The New Seekers</td></tr>
-<tr><th>Pop/Rock Band</th><td>Paper Lace</td></tr>
-<tr><th>Singer</th><td>Ringo Starr</td></tr>
-<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
-<tr><th>Singer</th><td>Suzi Quatro</td></tr>
-<tr><th>Singer</th><td>David Bowie</td></tr>
-</table>
-</figcaption>
-</figure>
+<h2 id="infobox2"><a href="#infobox2">Crew</a></h2>
+<ul class="columns2">
+<li><strong>Robin Nash</strong>: Producer</li>
+<li><strong>Richard Chamberlain</strong>: Sound</li>
+<li><strong>Top of the Pops Orchestra</strong>: Orchestra</li>
+<li><strong>Johnny Pearson</strong>: Musical Director</li>
+<li><strong>Flick Colby</strong>: Choreography</li>
+</ul>
 
-<figure class="fig2">
-<figcaption>
-<h2 id="crew"><a href="#crew">Crew</a></h2>
-<table>
-<tr><th>Producer</th><td>Robin Nash</td></tr>
-<tr><th>Sound</th><td>Richard Chamberlain</td></tr>
-<tr><th>Orchestra</th><td>Top of the Pops Orchestra</td></tr>
-<tr><th>Musical director</th><td>Johnny Pearson</td></tr>
-<tr><th>Choreography</th><td>Flick Colby</td></tr>
-</table>
-<h2 id="external-website"><a href="#external-website">External Website</a></h2>
-<table>
-<tr><th>BBC Genome</th><td><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1974-02-28#at-19.25">BBC One London, 28 February 1974 &#124; 19.25</a></td></tr>
-</table>
-</figcaption>
-</figure>
 
-<br />{: .clear}
-
+<h2 id="infobox3"><a href="#infobox3">External Website</a></h2>
+<ul>
+<li><strong>BBC Genome:</strong> <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1974-02-28#at-19.25">BBC One London, 28 February 1974 &#124; 19.25</a></li>
+</ul>
