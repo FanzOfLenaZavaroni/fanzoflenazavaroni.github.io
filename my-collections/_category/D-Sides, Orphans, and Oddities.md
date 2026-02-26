@@ -8,7 +8,7 @@ maintitle: "Category: D-Sides, Orphans, and Oddities"
 <div class="CardLayout">
 <div class="CardItem">
 <ul>
-{% for post in site.categories.D-Sides-Orphans-and-Oddities reversed %}
+{% for post in site.categories.Discography-Podcast-D-Sides-Orphans-and-Oddities reversed %}
 {% if post.url %}
 <li>
 <p><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></p>

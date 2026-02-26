@@ -6,7 +6,7 @@ layout: default
 
 <header class="post-header">
 <h1 class="post-title p-name" itemprop="name headline" id="{{ page.maintitle | escape }}">
-<a href="#{{ page.maintitle | escape }}" class="warning">{{ page.maintitle }}</a>
+<a href="#{{ page.maintitle | escape }}">{{ page.maintitle }}</a>
 </h1>
 <h2 class="split">{{ page.subtitle }}</h2>
 <p class="post-meta">
@@ -33,7 +33,7 @@ layout: default
 
 <hr>
 
-<h2 id="categories"><a href="#categories" class="warning">Related Categories</a></h2>
+<h2 id="categories"><a href="#categories">Related Categories</a></h2>
 
 {% assign skip_categories = site.pages | where: "permalink", "/categories/" | first %}
 {% assign skip_list = skip_categories.skip-cats %}
@@ -106,7 +106,7 @@ layout: default
 <hr>
 <br />
 
-<h2 id="comments"><a title="Category=General" href="#comments" class="warning">Comments</a></h2>
+<h2 id="comments"><a title="Category=General" href="#comments">Comments</a></h2>
 <script src="https://giscus.app/client.js"
 data-repo="FanzOfLenaZavaroni/fanzoflenazavaroni.github.io"
 data-repo-id="R_kgDOIf0PVA"

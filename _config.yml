@@ -47,7 +47,6 @@ header_pages:
    - biographies.md
    - discography.md
    - onthisday.md
-   - byyear.md
    - more.md
 
 collections_dir: my-collections
