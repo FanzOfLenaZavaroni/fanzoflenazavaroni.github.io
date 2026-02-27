@@ -25,7 +25,7 @@ categories: [BBC-Two, Television-The-Bachelors-Show, OnThisDay23March]
 <li><strong>British Racing Driver</strong> <strong>*</strong> Graham Hill</li>
 </ul>
 
-<p><strong>* Note:</strong> For their performance on the show they were introduced as The Hills Brothers, but are not brothers.</p>
+<p><strong>* Note:</strong> For their performance on the show they were introduced as <strong>The Hills Brothers</strong>, but are not brothers.</p>
 
 <h2 id="infobox3"><a href="#infobox3">Cast</a></h2>
 <ul class="columns2">
