@@ -8,6 +8,48 @@ post_description: with The Bachelors, The Vernons and Lena Zavaroni.
 categories: [BBC-Two, Television-The-Bachelors-Show, OnThisDay9March]
 ---
 
+{% assign eps = site.posts
+    | where_exp: "post", "post.categories contains 'Television-The-Bachelors-Show'"
+    | sort: "date" %}
+
+{% assign index = nil %}
+
+{% for p in eps %}
+  {% if p.url == page.url %}
+    {% assign index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_index = index | minus: 1 %}
+{% assign next_index = index | plus: 1 %}
+
+{% assign prev = nil %}
+{% assign next = nil %}
+
+{% if prev_index >= 0 %}
+  {% assign prev = eps[prev_index] %}
+{% endif %}
+
+{% if next_index < eps.size %}
+  {% assign next = eps[next_index] %}
+{% endif %}
+
+<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
+
+  {% if prev %}
+    <a href="{{ prev.url }}">« Previous Episode</a>
+  {% else %}
+    <span style="visibility:hidden;">« Previous Episode</span>
+  {% endif %}
+
+  {% if next %}
+    <a href="{{ next.url }}">Next Episode »</a>
+  {% else %}
+    <span style="visibility:hidden;">Next Episode »</span>
+  {% endif %}
+
+</div>
+
 <h2 id="infobox1"><a href="#infobox1">Summary</a></h2>
 
 <p>Lena performs "My Funny Valentine", sitting on a huge pink rug with a dog called Champers.</p>
