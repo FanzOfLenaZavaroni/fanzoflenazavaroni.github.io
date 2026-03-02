@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Tom Browne with The Top 20 &#124; 24 March 1974
-maintitle: Tom Browne with The Top Twenty
-subtitle: From today the Solid-Gold-Sixty AKA the Top 60 was dropped and only the Top 20 was broadcast by the BBC on Radio 1 Medium Wave & Radio 2 VHF
-description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved down the charts from number 14 to number 17.
-post_description: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved down the charts from number 14 to number 17.
+title: Tom Browne With The Top 20 &#124; 24 March 1974
+maintitle: Tom Browne With The Top Twenty
+subtitle: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved down the charts from number 14 to number 17
+description: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the top 20).
+post_description: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the top 20).
 categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay24March]
-last_modified_at: 17 March 2024
+last_modified_at: 2 March 2026
 ---
 
 {% assign tb_posts = site.posts
@@ -30,15 +30,15 @@ last_modified_at: 17 March 2024
 <div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
 
   {% if prev %}
-    <a href="{{ prev.url }}">« Previous Sunday</a>
+    <a href="{{ prev.url }}">« Previous Episode</a>
   {% else %}
-    <span style="visibility:hidden;">« Previous Sunday</span>
+    <span style="visibility:hidden;">« Previous Episode</span>
   {% endif %}
 
   {% if next %}
-    <a href="{{ next.url }}">Next Sunday »</a>
+    <a href="{{ next.url }}">Next Episode »</a>
   {% else %}
-    <span style="visibility:hidden;">Next Sunday »</span>
+    <span style="visibility:hidden;">Next Episode »</span>
   {% endif %}
 
 </div>
@@ -62,7 +62,7 @@ last_modified_at: 17 March 2024
 <li><a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740317/7501/">17 March 1974 - 23 March 1974</a></li>
 </ul>
 
-<ol>
+<ol class="columns2">
 <li>Billy - Don't Be A Hero - Paper Lace</li>
 <li>The Air That I Breathe - The Hollies</li>
 <li>The Most Beautiful Girl - Charlie Rich</li>

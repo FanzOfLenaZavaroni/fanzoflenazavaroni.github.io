@@ -3,10 +3,10 @@ layout: post
 title: Solid Gold Sixty with Tom Browne &#124; 17 February 1974
 maintitle: Solid Gold Sixty with Tom Browne
 subtitle: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved up the charts from number 30 to number 16
-description: Solid Gold Sixty The second Week Lena Zavaroni is in the charts.
-post_description: The second Week Lena Zavaroni is in the charts.
+description: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the top 20).
+post_description: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the top 20).
 categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay17February]
-last_modified_at: 16 February 2026
+last_modified_at: 2 March 2026
 ---
 
 {% assign tb_posts = site.posts
@@ -30,15 +30,15 @@ last_modified_at: 16 February 2026
 <div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
 
   {% if prev %}
-    <a href="{{ prev.url }}">« Previous Sunday</a>
+    <a href="{{ prev.url }}">« Previous Episode</a>
   {% else %}
-    <span style="visibility:hidden;">« Previous Sunday</span>
+    <span style="visibility:hidden;">« Previous Episode</span>
   {% endif %}
 
   {% if next %}
-    <a href="{{ next.url }}">Next Sunday »</a>
+    <a href="{{ next.url }}">Next Episode »</a>
   {% else %}
-    <span style="visibility:hidden;">Next Sunday »</span>
+    <span style="visibility:hidden;">Next Episode »</span>
   {% endif %}
 
 </div>
@@ -60,7 +60,7 @@ last_modified_at: 16 February 2026
 <li><a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740210/7501/">10 February 1974 - 16 February 1974</a></li>
 </ul>
 
-<ol>
+<ol class="columns2">
 <li>Tiger Feet - Mud</li>
 <li>Devil Gate Drive - Suzi Quatro</li>
 <li>The Man Who Sold The World - Lulu</li>

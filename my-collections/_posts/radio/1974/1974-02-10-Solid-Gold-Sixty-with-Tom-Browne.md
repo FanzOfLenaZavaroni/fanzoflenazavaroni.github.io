@@ -2,11 +2,11 @@
 layout: post
 title: Solid Gold Sixty with Tom Browne &#124; 10 February 1974
 maintitle: Solid Gold Sixty with Tom Browne
-subtitle: Lena Zavaroni’s single Ma! (He’s Making Eyes At Me) enters the charts at number 30.
-description: Solid Gold Sixty from the week Lena Zavaroni entered the charts.
-post_description: Includes the full Top 60 on Radio 1 and the Top 20 that was also broadcast on Radio 2, in the week Lena Zavaroni entered the charts at number 30.
+subtitle: Lena Zavaroni’s single Ma! (He’s Making Eyes At Me) enters the charts at number 30
+description: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the top 20).
+post_description: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the top 20).
 categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay10February]
-last_modified_at: 9 February 2026
+last_modified_at: 2 March 2026
 ---
 
 {% assign tb_posts = site.posts
@@ -38,15 +38,15 @@ last_modified_at: 9 February 2026
 <div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
 
   {% if prev %}
-    <a href="{{ prev.url }}">« Previous Sunday</a>
+    <a href="{{ prev.url }}">« Previous Episode</a>
   {% else %}
-    <span style="visibility:hidden;">« Previous Sunday</span>
+    <span style="visibility:hidden;">« Previous Episode</span>
   {% endif %}
 
   {% if next %}
-    <a href="{{ next.url }}">Next Sunday »</a>
+    <a href="{{ next.url }}">Next Episode »</a>
   {% else %}
-    <span style="visibility:hidden;">Next Sunday »</span>
+    <span style="visibility:hidden;">Next Episode »</span>
   {% endif %}
 
 </div>
@@ -68,7 +68,7 @@ last_modified_at: 9 February 2026
 <li><a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740203/7501/">3 february 1974 - 9 february 1974</a></li>
 </ul>
 
-<ol>
+<ol class="columns2">
 <li>Tiger Feet - Mud</li>
 <li>Teenage Rampage - The Sweet</li>
 <li>Dance With The Devil - Cozy Powell</li>
