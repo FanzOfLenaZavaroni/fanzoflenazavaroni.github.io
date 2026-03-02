@@ -4,47 +4,30 @@ title: The Stage and Television Today &#124; 2 March 1978
 maintitle: The Stage and Television Today
 subtitle: Big bill, longer show for last OK
 description: Featured an article on the final Opportunity Knocks for Thames Television.
-media: Big bill, longer show for last OK
 post_description: Featured an article on the final Opportunity Knocks for Thames Television.
-image: /assets/images/the-stage-and-television-today/1978-03-02-the-stage-and-television-today-front-cover.jpg
 categories: [The-Stage-and-Television-Today, OnThisDay2March]
 ---
 
-<figure class="fig1">
-<figcaption>
-<h2 id="front-cover">Front Cover</h2>
-</figcaption>
-<a href="/assets/images/the-stage-and-television-today/1978-03-02-the-stage-and-television-today-front-cover.jpg"><img src="/assets/images/the-stage-and-television-today/1978-03-02-the-stage-and-television-today-front-cover.jpg" class="full-width zoom-in"></a>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Summary</a></h2>
 
-<figure class="fig2">
-<figcaption>
-<h2 id="page-11">page 11</h2>
-</figcaption>
-<a href="/assets/images/the-stage-and-television-today/1978-03-02-the-stage-and-television-today-page-11.jpg"><img src="/assets/images/the-stage-and-television-today/1978-03-02-the-stage-and-television-today-page-11.jpg" class="full-width zoom-in"></a>
-</figure>
+<p>On 20 March, Hughie Green hosts the final ITV broadcast of Opportunity Knocks!, featuring 14 acts in 50 minutes. This special highlights artists discovered over the show's 16 series who are now TV regulars, plus current viewer winners the Duane Family and Neil Martin.</p>
 
-{: .clear}
-
-<figure class="fig1">
-<figcaption>
-<h2 id="page-11-cropped">page 11 cropped</h2>
-</figcaption>
-<a href="/assets/images/the-stage-and-television-today/1978-03-02-the-stage-and-television-today-page-11-cropped.jpg"><img src="/assets/images/the-stage-and-television-today/1978-03-02-the-stage-and-television-today-page-11-cropped.jpg" class="full-width zoom-in"></a>
-</figure>
-
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
-
+<ul class="columns2">
+<li>Pam Ayres</li>
+<li>Frank Carson</li>
+<li>Freddie Davies</li>
+<li>Les Dawson</li>
+<li>The Duane Family</li>
+<li>Bernie Flint</li>
+<li>Tony Holland</li>
+<li>Mary Hopkin</li>
+<li>Little and Large</li>
+<li>Neil Martin</li>
+<li>Millican and Nesbitt</li>
+<li>Tom O'Connor</li>
+<li>Peters and Lee</li>
+<li>Lena Zavaroni</li>
+<li>Bob Sharples and his orchestra</li>
+<li>Produced by Peter Dulay.</li>
+<li>Directed by Stuart Hall</li>
+</ul>
