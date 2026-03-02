@@ -11,26 +11,22 @@ categories: [Television-Tyne-Tees-Television, Bonnie-Langford, OnThisDay19August
 last_modified_at: 2 March 2024
 ---
 
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem">
+<figure class="fig1">
 <h2 id="infobox1" class="infobox"><a href="#infobox1">Cast</a></h2>
-<div class="CardItem split">
+
 <ul>
 <li>Bonnie Langford</li>
 <li>Lena Zavaroni</li>
 </ul>
-</div></div></div>
 </figure>
 
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem">
+<figure class="fig2">
 <h2 id="infobox2" class="infobox"><a href="#infobox2">Production</a></h2>
-<div class="CardItem split">
+
 <ul>
-<li><strong>Production Company:</strong> Tyne Tees Television:</li>
-<li><strong>Producer:</strong> Tony Kysh:</li>
+<li><strong>Production Company:</strong> Tyne Tees Television</li>
+<li><strong>Producer:</strong> Tony Kysh</li>
 </ul>
-</div></div></div>
 </figure>
+
+<br />{: .clear}

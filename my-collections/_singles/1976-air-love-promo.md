@@ -16,7 +16,7 @@ last_modified_at: 26 November 2023
 <a href="/discography/singles/1977-02-18-air-love">Air Love - Official Release <span style="visibility:hidden;">&#x2714;</span></a>
 </div>
 
-<h2 id="infobox1"><a href="#infobox1">Air Love - Side One</a></h2>
+<h2 id="infobox1"><a href="#infobox1">Side One</a></h2>
 
 <ul>
 <li><strong>Artist:</strong> Lena Zavaroni</li>
@@ -24,14 +24,14 @@ last_modified_at: 26 November 2023
 <li><strong>Composer:</strong> R. Charlebous, G. Pelouin, J. Friddy, Shifrin</li>
 </ul>
 
-<h2 id="infobox2"><a href="#infobox2">Air Love - Side Two</a></h2>
+<h2 id="infobox2"><a href="#infobox2">Side Two</a></h2>
 <ul>
 <li><strong>Artist:</strong> Lena Zavaroni</li>
 <li><strong>Side Two:</strong> Air Love [Mono]</li>
 <li><strong>Composer:</strong> R. Charlebous, G. Pelouin, J. Friddy, Shifrin</li>
 </ul>
 
-<h2 id="infobox3"><a href="#infobox3">Air Love - Details</a></h2>
+<h2 id="infobox3"><a href="#infobox3">Details</a></h2>
 <ul>
 <li><strong>Label:</strong> Ashtree – ASDJ-26453</li>
 <li><strong>Format:</strong> 7" Vinyl, 45 rpm Single</li>

@@ -6,26 +6,16 @@ maintitle: That Does Suit Madame, The "Are You Being Served?" Podcast
 subtitle:  "Episode 45: The Hero"
 description: By Mr. Jeff & Mr. Brandon
 post_description: By Mr. Jeff & Mr. Brandon
-categories: [Discography-Podcast-Popular-Culture, That-Does-Suit-Madame, Are-You-Being-Served?, OnThisDay5March]
+categories: [Discography-Podcast-That-Does-Suit-Madame,Are-You-Being-Served?, Popular-Culture, OnThisDay5March]
 tags: podcasts
 permalink: /discography/podcasts/:name
 ---
 
-<figure class="fig3">
-<table style="text-align:center;">
-<tr><th colspan="3">Jump To</th></tr>
-<tr><td style="width:33.33%;"><a href="#infobox1">Podcast</a></td><td style="width:33.34%;"><a href="#infobox2">Details</a></td><td style="width:33.33%;"><a href="#infobox3">Lena Zavaroni</a></td></tr>
-</table>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Podcast Spoken In English</a></h2>
+<iframe src="https://www.listennotes.com/podcasts/that-does-suit/episode-45-the-hero-hLHUt7VZAka/embed/" height="170px" width="100%" style="width: 1px; min-width: 100%;" loading="lazy" frameborder="0" scrolling="no"></iframe>
 
-<figure class="fig3">
-<table>
-<tr id="infobox1"><th colspan="3">Podcast Spoken In English</th></tr>
-<tr><td colspan="3"><iframe src="https://www.listennotes.com/podcasts/that-does-suit/episode-45-the-hero-hLHUt7VZAka/embed/" height="170px" width="100%" style="width: 1px; min-width: 100%;" loading="lazy" frameborder="0" scrolling="no"></iframe>
-<cite>Episode is currently on Dailymotion <a class="external-link" href="https://dai.ly/x804unp">Are You Being Served S7/E5 'The Hero</a></cite>
-</td></tr>
-<tr id="infobox2" class="split"><th colspan="3">Details of the episode</th></tr>
-<tr><td>
+<h2 id="infobox2"><a href="#infobox2">Details</a></h2>
+
 <ul>
 <li>“They called me ‘Hugger Humphries’”.</li><li>The “Week of Love” social post was a hit online!</li>
 <li>Mr. Brandon loves the Elton John Christmas song; Mr. Jeff disagrees.</li>
@@ -35,7 +25,7 @@ permalink: /discography/podcasts/:name
 <li>Mrs. Slocombe’s pussy comes of age.</li>
 <li>A space/time continuum paradox in AYBS?</li>
 <li>Was Tiddles’ age a secret clue to a parallel timeline conspiracy?</li>
-<li id="infobox3">Who was <span style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni</span> and why did Tiddles not like her? - aproxamitly 13:38 into the podcast.</li>
+<li id="infobox3">Who was <strong>Lena Zavaroni</strong> and why did Tiddles not like her? - aproxamitly 13:38 into the podcast.</li>
 <li>Canadian fried chicken (And hockey jokes).</li>
 <li>Give her the key to the door? A right of passage when one turns 21.</li>
 <li>Capt. Peacock is in a foul mood: Mr. Goldberg knows why.</li>
@@ -60,13 +50,3 @@ permalink: /discography/podcasts/:name
 <li>Flying propeller! Patagonian nose hold! Brazilian elbow jab!</li>
 <li>Mrs. Slocombe saves the day!</li>
 </ul>
-</td></tr>
-</table>
-</figure>
-
-<br />{: .clear}
-
-<style>
-#infobox2 {scroll-margin-top: -3px;}
-</style>
-
