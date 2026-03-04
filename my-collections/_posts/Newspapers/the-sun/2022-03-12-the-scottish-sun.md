@@ -11,13 +11,8 @@ categories: [Newspaper-The-Scottish-Sun, OnThisDay12March, OnThisDay14March]
 last_modified_at: 23 December 2023
 ---
 
-<figure class="fig3">
 <div class="responsive-video"><video width="100%" poster="/assets/media/lena-zavaroni-the-danny-john-jules-kiss.png" controls loop><source src="/assets/media/lena-zavaroni-the-danny-john-jules-kiss.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
-</figure>
-
-{: .clear}
-
-<figure class="fig3">
+<br />
 <blockquote>
 <p>The entertainer, who played Cat in the cult BBC Sci-fi series about a gang of misfits onboard a spacecraft, landed his big break as a dancer for the Scots singing sensation’s seventies telly specials.</p>
 <p>And Danny insists it helped to make him a star in his own right after he planted a peck on the teenager’s cheek during the primetime show.</p>
@@ -30,11 +25,8 @@ last_modified_at: 23 December 2023
 <p>If you watch the clip above you will see that in fact the other dancer was prevented from kissing Lena's other cheek by the movement of her right arm.</p>
 </blockquote>
 <cite>Robcamstone</cite>
+<br />
 <p>“The next day I was walking down the street and my mates are coming up going ‘Dan - you kissed Lena Zavaroni on telly, what the hell man.’’</p>
 <p>“It was the biggest moment to happen in my career at that point. Because things like that didn’t happen on TV in those days.”</p>
 </blockquote>
-<cite><a href="https://www.thescottishsun.co.uk/tvandshowbiz/8564026/red-dwarf-danny-john-jules-glasgow">The Scottish Sun</a></cite>
-</figure>
-
-<br />{: .clear}
-
+<cite>The Scottish Sun</cite>
