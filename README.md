@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1996-02-29-daily-mirror.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3990685558e220855b74e048b2c0d07c1befc4f1)
-- [Update 1996-02-29-leicester-daily-mercury.md and 1996-02-29-daily-mir…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/54338f35ef162d09f36bab3ca3a8bc285e61cf60)
-- [Update 1996-02-29-leicester-daily-mercury.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e11dd2168b50f2fff2e37542d921baa2992d96ba)
-- [Update 1975-02-16-the-bachelors-show.md, 1975-02-23-the-bachelors-sho…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4f98e160665219c37f2a62522d90fb167a3f4e38)
-- [Update 1975-03-23-the-bachelors-show.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/125ab6a3b2343186e526dee984276f8ae5bdd2e8)
+- [Update p0f0bknv.jpg, Pebble-Mill-at-One-ID.jpg, and 10 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f8176cebc6fb6b2e175b982f8f5cc56a16291331)
+- [Update 1982-03-06-titbits-inside.jpg, 1982-03-06-titbits.md, and 6 mo…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7bc05e41d9c29bf6ed2be2a7c9e971bf6efd6621)
+- [Update Lena Zavaroni aged 10 pictured at London Heathrow Airport to c…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4afcc9ea50c4985d3024a0ee2e3b73402725a486)
+- [Update discography.html, p08c0n14.jpg, and 12 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/691f8d4a77add9c85343e12c60c2d35aeb1ebae1)
+- [Update 1978-03-02-the-stage-and-television-today-front-cover.jpg, 197…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b76102f5a6107c71f1701f0b0b2dfce0bc97c8da)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
