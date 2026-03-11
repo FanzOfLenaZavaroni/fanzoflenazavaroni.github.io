@@ -9,10 +9,10 @@ last_modified_at: 11 March 2026
 
 This Page was created on 5 October 2020 and last updated on {{ page.last_modified_at }}. The update was to remove all image-based websites in line with my views, as stated on the homepage.
 
-### Note On Citations:
+<h2 id="infobox1"><a href="#infobox1">Note On Citations</a></h2>
 Some websites no longer give visitors a free choice about cookies. They require you to accept tracking or pay money to refuse it. This goes against the rights that UK and EU law say we should have. Because of this, I no longer link directly to those sites. The citation is still shown so you can search for the article yourself and decide how you want to view it.
 
-### List
+<h2 id="infobox2"><a href="#infobox2">List</a></h2>
 The following is a list of websites and tips that may help you with your own research due to my policy on watermarking and due to trolling some well known websites will not be on this list. Still, as the best research is done yourself, this will not matter, as this page is to help push you in the right direction and is far from an exhaustive list.
 
 * ——: While I don't like watermarking, if the website has not broken copyright law by the use of watermarking, then it may get a link.
@@ -52,7 +52,7 @@ The following is a list of websites and tips that may help you with your own res
 
 {: .clear}
 
-<h2 id="failure"><a href="#failure">System failure</a></h2>
+<h2 id="infobox3"><a href="#infobox3">System failure</a></h2>
 
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/54239649" class="shape"/>Robcamstone (<a class="link" href="https://github.com/FanzOfLenaZavaroni">Fanz Of Lena Zavaroni</a>)</p>
@@ -62,7 +62,7 @@ The following is a list of websites and tips that may help you with your own res
 <p>That is why I have defined them as Orphaned Comments.</p>
 </div>
 
-<h2 id="orphaned"><a href="#orphaned">Orphaned Comment(s)</a></h2>
+<h2 id="infobox4"><a href="#infobox4">Orphaned Comment(s)</a></h2>
 
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/54290841" class="shape"/>From <a class="link" href="https://github.com/StephenMolloy1">Stephen Molloy</a> - Date 14 November 2020 at 12:07:17 GMT</p>
