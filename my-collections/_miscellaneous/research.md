@@ -4,14 +4,17 @@ title: Research &#124; Last Update 10 December 2022
 maintitle: Research
 description: Links and tips on how to do your own research.
 permalink: /:name
-last_modified_at: 15 October 2025
+last_modified_at: 11 March 2026
 ---
 
-This Page was created on 5 October 2020 and last updated on 15 October 2025. The update was to remove all image-based websites in line with my views, as stated on the homepage.
+This Page was created on 5 October 2020 and last updated on {{ page.last_modified_at }}. The update was to remove all image-based websites in line with my views, as stated on the homepage.
 
+### Note On Citations:
+Some websites no longer give visitors a free choice about cookies. They require you to accept tracking or pay money to refuse it. This goes against the rights that UK and EU law say we should have. Because of this, I no longer link directly to those sites. The citation is still shown so you can search for the article yourself and decide how you want to view it.
+
+### List
 The following is a list of websites and tips that may help you with your own research due to my policy on watermarking and due to trolling some well known websites will not be on this list. Still, as the best research is done yourself, this will not matter, as this page is to help push you in the right direction and is far from an exhaustive list.
 
-### Notes
 * ——: While I don't like watermarking, if the website has not broken copyright law by the use of watermarking, then it may get a link.
 * ——: As you will find, stockphoto websites (No longer part of this list) don't seem to understand the importance of providing details on the photos or putting them into context which is a great shame and where dates and/or details are given you can't take the info at face value and will need to do addtional research to confirm what is given is correct.
 * ——: An addition of a website to this page or post is not an endorsement of that website and is just here for anyone looking for a starting place to research Lena Zavaroni.
