@@ -3,7 +3,7 @@ layout: post
 year: 5 March 2021
 title: That Does Suit Madame, The "Are You Being Served?" Podcast &#124; 5 March 2021
 maintitle: That Does Suit Madame, The "Are You Being Served?" Podcast
-subtitle:  "Episode 45: The Hero"
+subtitle: "Episode 45: The Hero"
 description: By Mr. Jeff & Mr. Brandon
 post_description: By Mr. Jeff & Mr. Brandon
 categories: [Discography-Podcast-That-Does-Suit-Madame,Are-You-Being-Served?, Popular-Culture, OnThisDay5March]
@@ -12,6 +12,9 @@ permalink: /discography/podcasts/:name
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Podcast Spoken In English</a></h2>
+
+<p><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/eye-slash.svg#eye-slash"></use></svg> <strong>Explicit Content:</strong> Unknown</p>
+
 <iframe src="https://www.listennotes.com/podcasts/that-does-suit/episode-45-the-hero-hLHUt7VZAka/embed/" height="170px" width="100%" style="width: 1px; min-width: 100%;" loading="lazy" frameborder="0" scrolling="no"></iframe>
 
 <h2 id="infobox2"><a href="#infobox2">Details</a></h2>
