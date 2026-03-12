@@ -14,6 +14,9 @@ last_modified_at: 11 February 2026
 ---
 
 <h2 id="infobox1" class="infobox"><a href="#infobox1">Podcast Spoken In English</a></h2>
+
+<h2 style="color:#ff0000;"><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/icons.svg#ear-slash"></use></svg> <strong>Contains Strong Language:</strong></h2>
+
 <iframe title="Embed Player" width="100%" height="180px" src="https://embed.acast.com/5e6e25fd4e83901b2aa768d1/608a5c38c64da6791b76062c" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
 
 <h2 id="infobox2" class="infobox"><a href="#infobox2">On this week’s Podcast</a></h2>

@@ -13,8 +13,6 @@ permalink: /discography/podcasts/:name
 
 <h2 id="infobox1"><a href="#infobox1">Podcast Spoken In English</a></h2>
 
-<p><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/eye-slash.svg#eye-slash"></use></svg> <strong>Explicit Content:</strong> Unknown</p>
-
 <iframe src="https://www.listennotes.com/podcasts/that-does-suit/episode-45-the-hero-hLHUt7VZAka/embed/" height="170px" width="100%" style="width: 1px; min-width: 100%;" loading="lazy" frameborder="0" scrolling="no"></iframe>
 
 <h2 id="infobox2"><a href="#infobox2">Details</a></h2>
