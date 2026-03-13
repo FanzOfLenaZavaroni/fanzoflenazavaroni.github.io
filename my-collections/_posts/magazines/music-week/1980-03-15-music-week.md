@@ -2,33 +2,26 @@
 layout: post
 title: Music Week &#124; 15 March 1980
 maintitle: Music Week
-subtitle: Magazine
+subtitle: 500 attend Scotstar Awards
 description: "500 attend Scotstar Awards: Lena Zavaroni picks up the Personality of the Year award"
 post_description: "500 attend Scotstar Awards: Lena Zavaroni picks up the Personality of the Year award"
-image: /assets/images/magazines/music-week/1980-03-15-music-week-fc.png
-categories: [Magazines, Music-Week, OnThisDay15March]
+categories: [Magazine-Music-Week, OnThisDay15March]
 last_modified_at: 15 March 2024
 ---
 
-<figure class="fig1">
-<h2 id="infobox1"><a href="#infobox1">Front Cover</a></h2>
-<a href="/assets/images/magazines/music-week/1980-03-15-music-week-fc.png"><img src="/assets/images/magazines/music-week/1980-03-15-music-week-fc.png" class="full-width zoom-in" /></a>
-<cite>Music Week, 1 March 1980<br /><a class="external-link" href="https://www.worldradiohistory.com/UK/Music-Week/1980/Music-Week-1980-03-15.pdf">Page 1 of PDF</a></cite>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Summary</a></h2>
 
-<figure class="fig2">
-<h2 id="infobox2"><a href="#infobox2">Page 42</a></h2>
-<a href="/assets/images/magazines/music-week/1980-03-15-music-week-page-14.png"><img src="/assets/images/magazines/music-week/1980-03-15-music-week-page-14.png" class="full-width zoom-in" /></a>
-<cite>Music Week, 1 March 1980<br /><a class="external-link" href="https://www.worldradiohistory.com/UK/Music-Week/1980/Music-Week-1980-03-15.pdf#page=14">Page 14 of PDF</a></cite>
-</figure>
+<p>The Scotstar Record Awards were held at Glasgow’s Albany Hotel, attracting a large audience and described by the Lord Provost as one of the city’s major social events. Organised by Clyde Factors with support from the record industry, the event was broadcast by Scottish TV and drew visitors from Scotland, the North of England, and London.</p>
 
-<figure class="fig3">
-<h2 id="infobox3"><a href="#infobox3">Quote - Page 14</a></h2>
-<blockquote>
-<p><h2>500 attend Scotstar Awards</h2></p>
-<p>In arriving to collect her Personality of the Year award, Lena Zavaroni was making her first public appearance since her recent illness</p>
-</blockquote>
-</figure>
+<p>The ceremony recognised achievements within the Scottish music scene and reflected the work of those responsible for staging it.</p>
 
-<br />{: .clear}
+<h2 id="infobox2"><a href="#infobox2">People mentioned in the article</a></h2>
+
+<ul>
+  <li><strong>Lena Zavaroni:</strong> Attended to collect the Personality of the Year award, marking her first public appearance since recovering from illness.</li>
+  <li><strong>Isobel Buchanan:</strong> Received an award but was unable to attend due to travelling to Australia to join an opera company.</li>
+  <li><strong>Sunshine / Rod McQueen:</strong> Sunshine were named Best Vocal Group, with Rod McQueen accepting the award and noted as the owner of Highland Studio in Inverness, regarded as the most northerly professional recording facility in the UK.</li>
+  <li><strong>Archie McCulloch:</strong> Served as both presenter and producer of the Scotstar Record Awards show.</li>
+  <li><strong>Douglas Johnston:</strong> Managed administrative duties in his role as general manager of Clyde Factors’ records and tapes division.</li>
+</ul>
 
