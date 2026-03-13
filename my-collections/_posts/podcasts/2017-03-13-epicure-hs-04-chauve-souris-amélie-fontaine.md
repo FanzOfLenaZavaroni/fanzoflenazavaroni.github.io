@@ -10,10 +10,13 @@ permalink: /discography/podcasts/:name
 last_modified_at: 31 December 2023
 ---
 
-<h2 id="infobox1"><a href="#infobox1">Podcast Spoken In French</a></h2>
+<h2><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In French</h2>
 
-<h2 style="color:#FFBF00"><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/icons.svg#ear-slash"></use></svg> <strong>May Contain Strong Language</strong></h2>
-<ul><li>The podcast’s RSS feed is corrupted, so the explicit‑content status is unknown.</li></ul>
+<h2><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/icons.svg#map-location"></use></svg> United States</h2>
+<ul><li>The podcast’s RSS feed is corrupted, so the location used by Listen Notes is questionable.</li></ul>
+
+<h2 style="color:#a9a9a9"><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/icons.svg#ear-slash"></use></svg> May Contain Strong Language</h2>
+<ul><li>The podcast’s RSS feed is corrupted, so the content status is unknown.</li></ul>
 
 <iframe src="https://www.listennotes.com/podcasts/epicureaudio/epicure_hs-04_chauve--EndySN07Tr/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 
@@ -40,4 +43,3 @@ last_modified_at: 31 December 2023
 <li><strong>63:25 min:</strong> How to get involved as citizens</li>
 <li><strong>74:04 mim:</strong> Lena Zavaroni sings "End of the World" on the Tonight Show.</li>
 </ul>
-

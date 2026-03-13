@@ -13,7 +13,9 @@ permalink: /discography/podcasts/:name
 last_modified_at: 11 February 2026
 ---
 
-<h2 id="infobox1" class="infobox"><a href="#infobox1">Podcast Spoken In English</a></h2>
+<h2><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
+
+<h2><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/icons.svg#map-location"></use></svg> United States</h2>
 
 <h2 style="color:#ff0000;"><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/icons.svg#ear-slash"></use></svg> <strong>Contains Strong Language:</strong></h2>
 
