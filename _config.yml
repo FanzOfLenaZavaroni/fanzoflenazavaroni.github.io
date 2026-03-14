@@ -14,8 +14,6 @@ minima:
   date_format: "%-d %B %Y"
   skin: classic
 
-
-
 # generate social links in footer
   social_links:
     # twitter: N/A
