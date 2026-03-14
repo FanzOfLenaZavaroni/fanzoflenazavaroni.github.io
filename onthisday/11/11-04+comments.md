@@ -7,6 +7,12 @@ description: Lena Zavaroni's birthday is celebrated on 4 November. This page inc
 categories: [On This Day]
 ---
 
+<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
+<a href="/onthisday/11/11-03">« Previous Day</a>
+<span style="visibility:hidden;">[ Visit Leap Year February 29 ]</span>
+<a href="/onthisday/11/11-05">Next Day »</a>
+</div>
+<br />
 {% if site.categories.OnThisDay4November == null %}
 <h2>Sorry no known details for today</h2>
 {% else %}
@@ -21,9 +27,3 @@ categories: [On This Day]
 </ul>
 {% endfor %}
 {% endif %}
-<br />
-<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
-<a href="/onthisday/11/11-03">« Previous Day</a>
-<span style="visibility:hidden;">[ Visit Leap Year February 29 ]</span>
-<a href="/onthisday/11/11-05">Next Day »</a>
-</div>

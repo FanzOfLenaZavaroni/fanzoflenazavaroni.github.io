@@ -95,7 +95,7 @@ layout: default
 
 {% else %}
 
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category }}</a>
+  <a href="{{site.baseurl}}/category/{{category|downcase}}">{{ category }}</a>
 
 {% endif %}
 
