@@ -2,26 +2,21 @@
 layout: post
 title: Lena Zavaroni at the London Palladium &#124;16 March 1975
 maintitle: Lena Zavaroni at the London Palladium
-subtitle: Two Shows
-description: PDF of the programme for Lena Zavaroni at the London Palladium.
-media: PDF
-post_description: A programme for Lena Zavaroni at the London Palladium.
-image: /assets/images/theatres/lena-zavaroni-at-the-london-palladium-01.jpg
+subtitle:
+description: A variety programme introduced by Hughie Green.
+post_description: An evening of comedy, music and variety introduced by Hughie Green, featuring a small supporting set of Turns.
 categories: [Theatres, London-Palladium, OnThisDay16March]
 ---
 
-<figure class="fig3">
-<p>At 11 Years 4 Months and 11 Days Lena Zavaroni would become the youngest person to top the bill.</p>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Details</a></h2>
 
-<figure class="fig1">
-<a href="/assets/images/theatres/lena-zavaroni-at-the-london-palladium-01.jpg"><img src="/assets/images/theatres/lena-zavaroni-at-the-london-palladium-01.jpg" class="full-width zoom-in" /></a>
-<cite><a href="/assets/pdf/1975-03-16 - Lena Zavaroni at the London Palladium.pdf">Programme For The Show (PDF)</a></cite>
-</figure>
+<p>Hughie Green personally introduces Lena Zavaroni, who at just 11 years, 4 months and 11 days became the youngest performer ever to top the bill.</p>
 
-<figure class="fig2">
-<a href="/assets/images/theatres/lena-zavaroni-at-the-london-palladium-03.jpg"><img src="/assets/images/theatres/lena-zavaroni-at-the-london-palladium-03.jpg" class="full-width zoom-in" /></a>
-</figure>
-
-<br />{: .clear}
+<p>Also appearing:</p>
+<ul>
+  <li>Frank Carson</li>
+  <li>Brooks Aehron</li>
+  <li>The Vernons</li>
+  <li>Bob Sharples And His Television Orchestra</li>
+</ul>
 
