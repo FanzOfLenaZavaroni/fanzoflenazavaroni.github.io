@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Alle-Sette-Della-Sera"
-maintitle: "Category: Alle-Sette-Della-Sera"
+title: "Category: Alle Sette Della Sera"
+maintitle: "Category: Alle Sette Della Sera"
 ---
 
 <ul>

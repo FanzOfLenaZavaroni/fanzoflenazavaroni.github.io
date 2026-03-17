@@ -1,13 +1,10 @@
 ---
-layout: post-no-comments
+layout: post-no-comments-no-date
 title: "Category: Theatre"
 maintitle: "Category: Theatre"
 excerpt_separator: ""
 ---
 
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem">
 <ul>
 {% assign reversed_posts = site.posts | reverse %}
 {% for post in reversed_posts %}
@@ -21,12 +18,8 @@ excerpt_separator: ""
 
 {% if has_theatre_category %}
 <li>
-<p><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></p>
-<p>{{ post.subtitle }}</p>
+<a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a>
 </li>
 {% endif %}
 {% endfor %}
 </ul>
-</div>
-</div>
-</figure>

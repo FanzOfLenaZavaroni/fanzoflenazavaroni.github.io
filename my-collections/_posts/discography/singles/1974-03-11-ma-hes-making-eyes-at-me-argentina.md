@@ -1,7 +1,7 @@
 ---
 layout: discography
 title: Ma! (El Me Esta Haciendo Ojitos) &#124; Argentina Release
-maintitle: Ma! (El Me Esta Haciendo Ojitos)
+maintitle: Ma! (El Me Esta Haciendo Ojitos), Argentina Release
 subtitle: Lena Zavaroni's debut single - Ma! (He's Making Eyes At Me)
 description: Lena Zavaroni's debut single - Ma! (He's Making Eyes At Me).
 post_description: Lena Zavaroni's debut single - Ma! (He's Making Eyes At Me).

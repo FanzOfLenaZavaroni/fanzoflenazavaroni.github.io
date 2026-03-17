@@ -5,8 +5,7 @@ maintitle: Music Week
 subtitle: Magazine
 description: "Clyde Factors hosts awards: The winners include Lena Zavaroni, Andy Stewart, Isobel Buchanan, Hector Nicol, Tannahill Weavers, Sunshine, Valerie Dunbar, Jimmy Johnstone and his band, Dysart and Dundonald, Currie Brothers and Scotland The What?"
 post_description: "Clyde Factors hosts awards: The winners include Lena Zavaroni, Andy Stewart, Isobel Buchanan, Hector Nicol, Tannahill Weavers, Sunshine, Valerie Dunbar, Jimmy Johnstone and his band, Dysart and Dundonald, Currie Brothers and Scotland The What?"
-image: /assets/images/magazines/music-week/1980-03-01-music-week-fc.png"><img src="/assets/images/magazines/music-week/1980-03-01-music-week-fc.png
-categories: [Magazines, Music-Week, OnThisDay1March]
+categories: [Music-Week, OnThisDay1March]
 last_modified_at: 1 March 2024
 ---
 

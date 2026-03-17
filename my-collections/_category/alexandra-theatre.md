@@ -8,8 +8,7 @@ maintitle: "Category: Alexandra Theatre"
   {% for post in site.categories.Theatre-Alexandra-Theatre reversed %}
     {% if post.url %}
 <li>
-<p><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></p>
-<p>{{ post.subtitle }}</p>
+<a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a>
 </li>
     {% endif %}
   {% endfor %}

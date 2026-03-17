@@ -5,7 +5,7 @@ maintitle: Music Week
 subtitle: 500 attend Scotstar Awards
 description: "500 attend Scotstar Awards: Lena Zavaroni picks up the Personality of the Year award"
 post_description: "500 attend Scotstar Awards: Lena Zavaroni picks up the Personality of the Year award"
-categories: [Magazine-Music-Week, OnThisDay15March]
+categories: [Music-Week, OnThisDay15March]
 last_modified_at: 15 March 2024
 ---
 

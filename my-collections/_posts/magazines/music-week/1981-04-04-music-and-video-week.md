@@ -6,7 +6,7 @@ subtitle: Magazine
 description: Neglected Lena now with worldwide President contract.
 post_description: Neglected Lena now with worldwide President contract.
 image: /assets/images/magazines/music-week/1981-04-04-01-music-week.png
-categories: [Magazines, Music-&-Video-Week, OnThisDay4April]
+categories: [Music-&-Video-Week, OnThisDay4April]
 last_modified_at: 4 April 2024
 ---
 

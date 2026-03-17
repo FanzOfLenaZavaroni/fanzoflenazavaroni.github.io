@@ -6,7 +6,7 @@ subtitle: Magazine
 description: Under the New Singles section Lena's latest single Rose and Rainbows was listed.
 post_description: Under the New Singles section Lena's latest single Rose and Rainbows was listed.
 image: /assets/images/magazines/music-week/1981-04-11-01-music-week.png
-categories: [Magazines, Music-&-Video-Week, OnThisDay11April]
+categories: [Music-&-Video-Week, OnThisDay11April]
 last_modified_at: 11 April 2024
 ---
 

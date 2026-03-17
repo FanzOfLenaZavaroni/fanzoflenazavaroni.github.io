@@ -5,10 +5,9 @@ maintitle: The Sunday Mirror
 subtitle: Goodbye Opportunity Knocks, goodbye Hughie Green, goodbye Clapometer
 description: Goodbye Opportunity Knocks, goodbye Hughie Green, goodbye Clapometer.
 post_description: Goodbye Opportunity Knocks, goodbye Hughie Green, goodbye Clapometer.
-categories: [Newspaper-Mirror, OnThisDay19March]
-last_modified_at: 18 March 2024
+categories: [Sunday-Mirror, OnThisDay19March]
+last_modified_at: 17 March 2026
 ---
-
 
 <p>THE needle on the clapometer never reached 100 for this entertaining bunch.</p>
 <p>They were part of the great supporting cast of Hughie Green's Opportunity Knocks, which ends its 16-year TV run tomorrow.</p>

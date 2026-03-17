@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: ATV-Today"
-maintitle: "Category: ATV-Today"
+title: "Category: ATV Today"
+maintitle: "Category: ATV Today"
 ---
 
 <ul>

@@ -4,9 +4,8 @@ title: Opportunity Knocks &#124; 7 January 1974 &#124; Lena Zavaroni makes her f
 maintitle: Opportunity Knocks
 subtitle: Episode 14.23 
 description: Lena makes her first appearance. She sings Ma! (He's Making Eyes At Me).
-media: Thames Television
 post_description: Lena makes her first appearance. She sings Ma! (He's Making Eyes At Me).
-categories: [Thames-Television, Television-Opportunity-Knocks, Hughie-Green, OnThisDay7January]
+categories: [Thames, Opportunity-Knocks, Hughie-Green, OnThisDay7January]
 last_modified_at: 13 January 2024
 ---
 

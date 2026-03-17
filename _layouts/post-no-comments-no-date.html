@@ -15,7 +15,6 @@ layout: default
  <span class="p-before h-card" itemprop="name">{{ page.before }}</span>
  </span>
 {%- endif -%}
-
 {%- if page.after -%}
  <span itemprop="after" itemscope itemtype="http://schema.org/Person">
  <span class="p-after h-card" itemprop="name">{{ page.after }}</span>
@@ -27,3 +26,6 @@ layout: default
 <div class="post-content e-content" itemprop="articleBody">
 {{ content }}
 </div>
+
+</article>
+

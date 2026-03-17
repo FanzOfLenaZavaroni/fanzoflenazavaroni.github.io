@@ -6,7 +6,7 @@ subtitle: Magazine
 description: The magazine carried a full page advertisement for Lena's debut single Ma! (He's Making Eyes At Me).
 media: The magazine
 post_description: Carried a full page advertisement for Lena's debut single Ma! (He's Making Eyes At Me).
-categories: [Magazines, Music-Week, OnThisDay26January]
+categories: [Music-Week, OnThisDay26January]
 last_modified_at: 27 January 2026
 ---
 

@@ -5,7 +5,7 @@ maintitle: Music & Video Week
 subtitle: Magazine
 description: Lena Zavaroni has been signed to President on an exclusive, worldwide contract.
 post_description: Lena Zavaroni has been signed to President on an exclusive, worldwide contract.
-categories: [Magazines, Music-&-Video-Week, OnThisDay28March]
+categories: [Music-&-Video-Week, OnThisDay28March]
 last_modified_at: 28 March 2024
 ---
 
