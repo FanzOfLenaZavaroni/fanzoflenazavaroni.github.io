@@ -78,12 +78,12 @@ The following Sections list websites and tips that may help you with your own re
 <li><a class="external-link" href="https://infoweb.newsbank.com/apps/news/results?p=UKNB&fld-base-0=alltext&sort=YMD_date%3AD&maxresults=20&val-base-0=Lena%20Zavaroni">Newsbank: Lena Zavaroni</a></li>
 </ul>
 
-<h2 id="infobox10"><a href="#infobox10">scholarly literature</a></h2>
+<h2 id="infobox10"><a href="#infobox10">Scholarly Literature</a></h2>
 
 <ul>
-<li><a class="external-link" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Lena+Zavaroni">Google Scholar: Lena Zavaroni</a></li>
+<li><a class="external-link" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Lena+Zavaroni">Google Scholar: Lena Zavaroni</a> <span class="up">&#8592;</span> <span class="red">newly added</span></li> 
 <li><a class="external-link" href="https://openalex.org/works?search.title_and_abstract=Lena+Zavaroni&page=1&sort=relevance_score:desc">OpenAlex: Lena Zavaroni</a></li>
-<li><a class="external-link" href="https://www.semanticscholar.org/search?q=%22Lena%20Zavaroni%22&sort=relevance">Semantic Scholar: Lena Zavaroni</a></li>
+<li><a class="external-link" href="https://www.semanticscholar.org/search?q=%22Lena%20Zavaroni%22&sort=relevance">Semantic Scholar: Lena Zavaroni</a> <span class="up">&#8592;</span> <span class="red">newly added</span></li>
 </ul>
 <p><strong>Note:</strong> Semantic Scholar needs you to quote a search like "Lena Zavaroni" or it will list unrelated content, and while that is true of must searches on any website/search engine it is very much the case with Semantic Scholar.</p>
 
