@@ -70,7 +70,7 @@ last_modified_at: 21 February 2024
 <li><a href="/discography/singles/1978-03-17-i-shouldve-listened-to-mama-uk">1978 &#8212; UK Release</a></li>
 <li><a href="/discography/singles/1978-i-shouldve-listened-to-mama-france">1978 &#8212; France Release</a></li>
 <li><a href="/discography/singles/1978-i-shouldve-listened-to-mama-germany">1978 &#8212; Germany Release</a></li>
-<li><a href="/discography/singles/1979-i-shouldve-listened-to-mama-netherlands">1979 &#8212; Netherlands Release</a></li>
+<li><a href="/discography/singles/1979-05-19-i-shouldve-listened-to-mama-netherlands">1979 &#8212; Netherlands Release</a></li>
 </ul>
 
 <strong>Jump Down Jimmy</strong>

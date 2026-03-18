@@ -11,16 +11,48 @@ categories: [Thames, Opportunity-Knocks, Hughie-Green, OnThisDay30December]
 last_modified_at: 29 December 2023
 ---
 
-<table>
-<tr align="center"><th colspan="3">Jump To:</th></tr>
-<tr align="center">
-<td style="width:33.33%;"><a href="#infobox1">Photo - Cast</a></td>
-<td style="width:33.34%;"><a href="#infobox2">Crew</a></td>
-<td style="width:33.33%;"><a href="#infobox3">Summary</a></td>
-</tr>
-</table>
+{% assign tb_posts = site.posts
+    | where_exp: "post", "post.categories contains 'Opportunity-Knocks'"
+    | sort: "date" %}
 
-<figure class="fig3">
+{% assign index = nil %}
+
+{% for p in tb_posts %}
+  {% if p.url == page.url %}
+    {% assign index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_index = index | minus: 1 %}
+{% assign next_index = index | plus: 1 %}
+
+{% assign prev = nil %}
+{% assign next = nil %}
+
+{% if prev_index >= 0 %}
+  {% assign prev = tb_posts[prev_index] %}
+{% endif %}
+
+{% if next_index < tb_posts.size %}
+  {% assign next = tb_posts[next_index] %}
+{% endif %}
+
+<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
+
+  {% if prev %}
+    <a href="{{ prev.url }}">« Previous Episode</a>
+  {% else %}
+    <span style="visibility:hidden;">« Previous Episode</span>
+  {% endif %}
+
+  {% if next %}
+    <a href="{{ next.url }}">Next Episode »</a>
+  {% else %}
+    <span style="visibility:hidden;">Next Episode »</span>
+  {% endif %}
+
+</div>
+
 <table>
 <tr id="infobox1"><th>Photo</th><th>Cast</th></tr>
 <tr><th rowspan="16" class="top" style="width:50%;"><a href="/assets/images/ITV/1974-12-31-ok.jpg"><img src="/assets/images/ITV/1974-12-31-ok.jpg" class="full-width zoom-in" /></a><br /><cite>The 1973 winners Millican & Nesbitt present the award to Lena Zavaroni</cite></th></tr>

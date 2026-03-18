@@ -10,72 +10,86 @@ categories: [Thames, Opportunity-Knocks, Hughie-Green, Les-Dawson, OnThisDay20Ma
 last_modified_at: 13 January 2024
 ---
 
-<figure class="fig3">
-<div class="responsive-video">
-<iframe width="480px" height="360px" src="https://www.youtube.com/embed/dgdObwe1AtU?rel=0&showinfo=1" frameborder="0" allowfullscreen></iframe>
+{% assign tb_posts = site.posts
+    | where_exp: "post", "post.categories contains 'Opportunity-Knocks'"
+    | sort: "date" %}
+
+{% assign index = nil %}
+
+{% for p in tb_posts %}
+  {% if p.url == page.url %}
+    {% assign index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_index = index | minus: 1 %}
+{% assign next_index = index | plus: 1 %}
+
+{% assign prev = nil %}
+{% assign next = nil %}
+
+{% if prev_index >= 0 %}
+  {% assign prev = tb_posts[prev_index] %}
+{% endif %}
+
+{% if next_index < tb_posts.size %}
+  {% assign next = tb_posts[next_index] %}
+{% endif %}
+
+<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
+
+  {% if prev %}
+    <a href="{{ prev.url }}">« Previous Episode</a>
+  {% else %}
+    <span style="visibility:hidden;">« Previous Episode</span>
+  {% endif %}
+
+  {% if next %}
+    <a href="{{ next.url }}">Next Episode »</a>
+  {% else %}
+    <span style="visibility:hidden;">Next Episode »</span>
+  {% endif %}
+
 </div>
-</figure>
 
-{: .clear}
+<h2 id="infobox1"><a href="#infobox1">Cast</a></h2>
 
-<figure class="fig1">
-<table>
-<tr><th colspan="2" id="tables">Cast</th></tr>
-<tr><th>Host</th><td>Hughie Green</td></tr>
-<tr><th>Comedian</th><td>Les Dawson</td></tr>
-<tr><th>Singers</th><td>Peters and Lee</td></tr>
-<tr><th>Comedian</th><td>Tom O'connor</td></tr>
-<tr style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lz"><th>Singer</th><td>Lena Zavaroni</td></tr>
-<tr><th>Comedian</th><td>Frank Carson</td></tr>
-<tr><th>Comedy Double Act</th><td>Little and Large (comprising straight man Syd Little and comic Eddie Large)</td></tr>
-<tr><th>Folk Singer</th><td>Mary Hopkin</td></tr>
-<tr><th>Poetress</th><td>Pam Ayres</td></tr>
-<tr><th>Comedian / Samuel Tweet</th><td>Freddie Davies</td></tr>
-<tr><th>Singer</th><td>Berni Flint</td></tr>
-<tr><th>Singers / Group</th><td>Duane Family</td></tr>
-<tr><th>Singer</th><td>Neil Martin</td></tr>
-<tr><th>Vocal Duo</th><td>Millican &amp; Nesbitt (comprising Alan Millican and Tom Nesbitt)</td></tr>
-<tr><th>Musical Muscle Man</th><td>Tony Holland</td></tr>
-</table>
-</figure>
+<ul>
+<li><strong>Host:</strong> Hughie Green</li>
+<li><strong>Comedian:</strong> Les Dawson</li>
+<li><strong>Singers:</strong> Peters and Lee</li>
+<li><strong>Comedian:</strong> Tom O'connor</li>
+<li><strong>Singer:</strong> Lena Zavaroni</li>
+<li><strong>Comedian:</strong> Frank Carson</li>
+<li><strong>Comedy Double Act:</strong> Little and Large (comprising straight man Syd Little and comic Eddie Large)</li>
+<li><strong>Folk Singer:</strong> Mary Hopkin</li>
+<li><strong>Poetress:</strong> Pam Ayres</li>
+<li><strong>Comedian / Samuel Tweet:</strong> Freddie Davies</li>
+<li><strong>Singer:</strong> Berni Flint</li>
+<li><strong>Singers / Group:</strong> Duane Family</li>
+<li><strong>Singer:</strong> Neil Martin</li>
+<li><strong>Vocal Duo:</strong> Millican &amp; Nesbitt (comprising Alan Millican and Tom Nesbitt)</li>
+<li><strong>Musical Muscle Man:</strong> Tony Holland</li>
+</ul>
 
-<figure class="fig2">
-<table>
-<tr><th colspan="2">Crew</th></tr>
-<tr><th>Music</th><td>Bob Sharples</td></tr>
-<tr><th>Sound supervisor</th><td>Arthur Duff</td></tr>
-<tr><th>Vision controller</th><td>Alan Fowler</td></tr>
-<tr><th>Vision mixer</th><td>Nick Bigsby</td></tr>
-<tr><th>Lighting director</th><td>Bill Lee</td></tr>
-<tr><th>Graphic designer</th><td>Lester Halhed</td></tr>
-<tr><th>Designer</th><td>Michael Minas</td></tr>
-<tr><th>Senior cameraman</th><td>Mike Baldock</td></tr>
-<tr><th>Floor manager</th><td>John Lynton</td></tr>
-<tr><th>Floor manager</th><td>Stuart Orme</td></tr>
-<tr><th>Studio supervisor</th><td>John Eveleigh</td></tr>
-<tr><th>Director</th><td>Stuart Hall</td></tr>
-<tr><th>Production assistant</th><td>Bridget Moore</td></tr>
-<tr><th>Programme Associate</th><td>Doris Barry</td></tr>
-<tr><th>Programme Associate:</th><td>Len Marten</td></tr>
-<tr><th>Producer</th><td>Peter Dulay</td></tr>
-<tr><th>Production Company</th><td>Thames Television</td></tr>
-</table>
-</figure>
+<h2 id="infobox2"><a href="#infobox2">Crew</a></h2>
 
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
-
+<ul>
+<li><strong>Music:</strong> Bob Sharples</li>
+<li><strong>Sound supervisor:</strong> Arthur Duff</li>
+<li><strong>Vision controller:</strong> Alan Fowler</li>
+<li><strong>Vision mixer:</strong> Nick Bigsby</li>
+<li><strong>Lighting director:</strong> Bill Lee</li>
+<li><strong>Graphic designer:</strong> Lester Halhed</li>
+<li><strong>Designer:</strong> Michael Minas</li>
+<li><strong>Senior cameraman:</strong> Mike Baldock</li>
+<li><strong>Floor manager:</strong> John Lynton</li>
+<li><strong>Floor manager:</strong> Stuart Orme</li>
+<li><strong>Studio supervisor:</strong> John Eveleigh</li>
+<li><strong>Director:</strong> Stuart Hall</li>
+<li><strong>Production assistant:</strong> Bridget Moore</li>
+<li><strong>Programme Associate:</strong> Doris Barry</li>
+<li><strong>Programme Associate::</strong> Len Marten</li>
+<li><strong>Producer:</strong> Peter Dulay</li>
+<li><strong>Production Company:</strong> Thames Television</li>
+</ul>

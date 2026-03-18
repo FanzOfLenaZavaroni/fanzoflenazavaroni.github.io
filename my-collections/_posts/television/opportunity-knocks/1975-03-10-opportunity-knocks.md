@@ -8,6 +8,48 @@ post_description: International edition of the talent show featuring performers 
 categories: [Opportunity-Knocks, OnThisDay10March]
 ---
 
+{% assign tb_posts = site.posts
+    | where_exp: "post", "post.categories contains 'Opportunity-Knocks'"
+    | sort: "date" %}
+
+{% assign index = nil %}
+
+{% for p in tb_posts %}
+  {% if p.url == page.url %}
+    {% assign index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_index = index | minus: 1 %}
+{% assign next_index = index | plus: 1 %}
+
+{% assign prev = nil %}
+{% assign next = nil %}
+
+{% if prev_index >= 0 %}
+  {% assign prev = tb_posts[prev_index] %}
+{% endif %}
+
+{% if next_index < tb_posts.size %}
+  {% assign next = tb_posts[next_index] %}
+{% endif %}
+
+<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
+
+  {% if prev %}
+    <a href="{{ prev.url }}">« Previous Episode</a>
+  {% else %}
+    <span style="visibility:hidden;">« Previous Episode</span>
+  {% endif %}
+
+  {% if next %}
+    <a href="{{ next.url }}">Next Episode »</a>
+  {% else %}
+    <span style="visibility:hidden;">Next Episode »</span>
+  {% endif %}
+
+</div>
+
 <h2 id="infobox1"><a href="#infobox1">Details</a></h2>
 
 <p>In this international edition of Opportunity Knocks, the programme was broadcast under different titles depending on the broadcaster: Opportunity Knocks on Scottish Television (STV) and Thames, and Kies uw ster (Choose Your Star) on Nederland II. Performers from Britain, the Netherlands, and Norway compete for the title of international winner, chosen by the public through a postal vote.</p>
@@ -27,5 +69,13 @@ categories: [Opportunity-Knocks, OnThisDay10March]
   <li><strong>Lucifer:</strong> Popgroep (Pop Group) representing The Netherlands</li>
   <li><strong>Ronnie Lutam:</strong> 10‑year‑old singer representing The Netherlands</li>
   <li><strong>Svenn Erik Fjeldberg:</strong> norsk sanger (Norwegian singer) representing Norway</li>
+</ul>
+
+<h2 id="infobox3"><a href="#infobox3">Known Results</a></h2>
+
+<ul>
+  <li><strong>1st place:</strong> Ronnie Lutam (Netherlands)</li>
+  <li><strong>2nd place:</strong> Unknown</li>
+  <li><strong>3rd place:</strong> Lena Zavaroni (Great Britain)</li>
 </ul>
 

@@ -8,7 +8,13 @@ post_description: Various Newspapers report on Opportunity Knocks which is going
 categories: [Newspaper-Evening-Times, Newspaper-Glasgow-Herald, Newspaper-Kent Evening Post, Newspaper-Limburger-Courier, OnThisDay10March]
 ---
 
-<h2 id="infobox1"><a href="#infobox1">Evening Times</a></h2>
+<h2 id="infobox1"><a href="#infobox1">Notes on Country Naming</a></h2>
+
+<p>British newspapers of the period commonly used “Holland” as an informal shorthand for the entire country, even though Holland is only one region within the Netherlands. This was normal usage in the UK press and not a reflection of the official country name.</p>
+
+<p>International publications, including Dutch sources, used the correct formal name “the Netherlands,” which is why the terminology differs between the UK and non‑UK reporting. Similar editorial variations also appear with terms like “Britain” and “Great Britain,” depending on each newspaper’s style.</p>
+
+<h2 id="infobox2"><a href="#infobox2">Evening Times</a></h2>
 <ul>
 <li>Scottish Television (STV)</li>
 <li>Britain, Norway, and Holland team up for a special "Opportunity Knocks" on STV at 6.45, when viewers from the three countries will be able to vote for a special- international winner.</li>
@@ -16,20 +22,20 @@ categories: [Newspaper-Evening-Times, Newspaper-Glasgow-Herald, Newspaper-Kent E
 <li>The paper also references her appearance on <a href="/1975-03-09-the-bachelors-show">The Bachelors Show</a>.</li>
 </ul>
 
-<h2 id="infobox2"><a href="#infobox2">Glasgow Herald</a></h2>
+<h2 id="infobox3"><a href="#infobox3">Glasgow Herald</a></h2>
 <ul>
 <li>Scottish Television (STV)</li>
 <li>6.45 Opportunity Knocks!</li>
 <li>Hughie spreads his wings and. makes it a three country contest with Holland and Norway competing against Britain, represented by Lena Zavaroni. the 11-year-old from Rothesay, along with ballet dancers Carole Hill and Juan Sanchez.</li>
 </ul>
 
-<h2 id="infobox3"><a href="#infobox3">Kent Evening Post</a></h2>
+<h2 id="infobox4"><a href="#infobox4">Kent Evening Post</a></h2>
 <ul>
 <li>Thames</li>
 <li>6.40 OPPORTUNITY KNOCKS! with Hughie Green "Opportunity Knocks" goes continental! From Great Britain: Lena Zavaroni, Carole Hill, Juan Sanchez. From Holland: Lucifer, Ronnie. From Norway: Svenn Erik Fjeldberg. Bob Sharples and his orchestra.</li>
 </ul>
 
-<h2 id="infobox4"><a href="#infobox4">Limburger Courier</a></h2>
+<h2 id="infobox5"><a href="#infobox5">Limburger Courier</a></h2>
 
 <ul>
 <li>Nederland II</li>
@@ -43,7 +49,7 @@ categories: [Newspaper-Evening-Times, Newspaper-Glasgow-Herald, Newspaper-Kent E
 <li>19.25 Choose Your Star — Show programme in which a number of young European stars compete against each other in an international contest between Great Britain, the Netherlands, and Norway.</li>
 </ul>
 
-<h2 id="infobox5"><a href="#infobox5">Het Vrije Volk (The Free People)</a></h2>
+<h2 id="infobox6"><a href="#infobox6">Het Vrije Volk (The Free People)</a></h2>
 
 <p>
 Publiek kan jong talent gaan kiezen. (Van onze radio- en tv-redactie) HILVERSUM - Tegelijk met de kijkers in Engeland en Noorwegen kan het Nederlandse televisiepubliek op maandagavond 10 maart bepalen welke zanger, zangeres of groep winnaar wordt van het beroemde Engelse jong-talent-programma „Opportunity Knox". Dit programma, dat in Nederland onder de titel „Kies uw ster" door de TROS wordt uitgezonden, komt in alle drie de landen gelijktijdig op het scherm. Nederland wordt vertegenwoordigd door de veelbelovende popgroep Lucifer, Engeland door het elfjarige sterretje Lena Zavaroni. De zangers Carole Hill en Juan Sanchez behoren ook tot de kanshebbers. Het publiek kan via een briefkaart zijn favoriete keus kenbaar maken. Deze Nederlandse uitzending van Opportunity Knox, dat in het Londense Royal Theatre wordt opgenomen en wordt gepresenteerd door Hughie Green, is voorlopig eenmalig. Of de TROS het programma vaker gaat overnemen, hangt af van eventuele Nederlandse deelname in de toekomst.
