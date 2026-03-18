@@ -77,13 +77,10 @@ figcaption {float:left; width:100%; margin-bottom: 10px;}
 }
 
 /*  set lists to 2 columns  */
-.columns2 {
-  columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;
-}
-
+.columns2 { columns: 2; -webkit-columns: 2; -moz-columns: 2; }
+.columns2 li { break-inside: avoid; -webkit-column-break-inside: avoid; page-break-inside: avoid; }
 @media (orientation: portrait) { .columns2 { columns: unset; } }
+
 
 /* Add a strip of the color cyan */
 .blue-split {border-top: solid 5px #4B90B1;}
