@@ -93,6 +93,7 @@ defaults:
       post_description: "Details unavailable at this time."
       subtitle-posts: Currently, only content with a full date is listed in this section
       sub-subtitle-posts: Content without a full date is listed under dedicated sections of this Website.
+      class: undefined
 
 # Feed Settings: excerpt_only: true or false
 feed:

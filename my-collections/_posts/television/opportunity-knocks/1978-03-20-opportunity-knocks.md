@@ -54,7 +54,7 @@ last_modified_at: 13 January 2024
 
 <h2 id="infobox1"><a href="#infobox1">Cast</a></h2>
 
-<ul>
+<ul class="columns2">
 <li><strong>Host:</strong> Hughie Green</li>
 <li><strong>Comedian:</strong> Les Dawson</li>
 <li><strong>Singers:</strong> Peters and Lee</li>
@@ -74,7 +74,7 @@ last_modified_at: 13 January 2024
 
 <h2 id="infobox2"><a href="#infobox2">Crew</a></h2>
 
-<ul>
+<ul class="columns2">
 <li><strong>Music:</strong> Bob Sharples</li>
 <li><strong>Sound supervisor:</strong> Arthur Duff</li>
 <li><strong>Vision controller:</strong> Alan Fowler</li>
