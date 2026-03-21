@@ -9,7 +9,7 @@ categories: [BBC Two, The Bachelors Show, OnThisDay2March]
 ---
 
 {% assign eps = site.posts
-    | where_exp: "post", "post.categories contains 'Television-The-Bachelors-Show'"
+    | where_exp: "post", "post.categories contains 'The Bachelors Show'"
     | sort: "date" %}
 
 {% assign index = nil %}
