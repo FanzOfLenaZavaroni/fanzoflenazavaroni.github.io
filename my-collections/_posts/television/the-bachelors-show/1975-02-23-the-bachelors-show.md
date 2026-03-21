@@ -5,7 +5,7 @@ maintitle: The Bachelors Show
 subtitle: Epiosde 2
 description:  23 February 1975 - with The Bachelors, The Vernons and Lena Zavaroni.
 post_description: with The Bachelors, The Vernons and Lena Zavaroni.
-categories: [BBC-Two, Television-The-Bachelors-Show, OnThisDay23February]
+categories: [BBC Two, The Bachelors Show, OnThisDay23February]
 ---
 
 {% assign eps = site.posts

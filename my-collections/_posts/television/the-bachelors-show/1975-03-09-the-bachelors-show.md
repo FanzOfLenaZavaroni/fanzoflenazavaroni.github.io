@@ -5,7 +5,7 @@ maintitle: The Bachelors Show
 subtitle: Epiosde 4
 description:  9 March 1975 - with The Bachelors, The Vernons and Lena Zavaroni.
 post_description: with The Bachelors, The Vernons and Lena Zavaroni.
-categories: [BBC-Two, Television-The-Bachelors-Show, OnThisDay9March]
+categories: [BBC Two, The Bachelors Show, OnThisDay9March]
 ---
 
 {% assign eps = site.posts

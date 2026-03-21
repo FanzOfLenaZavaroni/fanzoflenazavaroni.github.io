@@ -5,7 +5,7 @@ maintitle: The Bachelors Show
 subtitle: Epiosde 1
 description:  16 February 1975 - with The Bachelors, The Vernons and Lena Zavaroni.
 post_description: with The Bachelors, The Vernons and Lena Zavaroni.
-categories: [BBC-Two, Television-The-Bachelors-Show, OnThisDay16February]
+categories: [BBC Two, The Bachelors Show, OnThisDay16February]
 ---
 
 {% assign eps = site.posts

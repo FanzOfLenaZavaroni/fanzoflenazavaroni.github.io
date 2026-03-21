@@ -5,7 +5,7 @@ maintitle: The Bachelors Show
 subtitle: Epiosde 6
 description:  16 March 1975 - with The Bachelors, The Vernons and Lena Zavaroni.
 post_description: with The Bachelors, The Vernons and Lena Zavaroni.
-categories: [BBC-Two, Television-The-Bachelors-Show, OnThisDay23March]
+categories: [BBC Two, The Bachelors Show, OnThisDay23March]
 ---
 
 {% assign eps = site.posts
