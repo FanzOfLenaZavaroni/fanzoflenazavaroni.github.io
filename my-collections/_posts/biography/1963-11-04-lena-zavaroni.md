@@ -159,7 +159,7 @@ I've got to wear all these silly costumes and try and get into them and be with 
 <cite>Robcamstone</cite>
 
 <h2 id="infobox25"><a href="#infobox25">3 November 1996</a></h2>
-<p>Lena take an overdose of anti-depressants which she had secretly been squirreling away at The Montreux clinic.</p>
+<p>Lena took an overdose of anti-depressants which she had secretly been squirreling away at The Montreux clinic.</p>
 <p>She was found asleep the following afternoon by Gay Pankhurst, a care worker.</p>
 
 <h2 id="infobox26"><a href="#infobox26">Electroconvulsive Therapy (ECT)</a></h2>

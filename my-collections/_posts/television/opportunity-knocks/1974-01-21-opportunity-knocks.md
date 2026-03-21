@@ -6,13 +6,11 @@ subtitle: Episode 14.25
 description: Lena makes her third appearance after winning the viewers votes for the second time.
 media: Thames Television
 post_description: Lena makes her third appearance after winning the viewers votes for the second time.
-categories: [Thames, Opportunity-Knocks, Hughie-Green, OnThisDay21January]
+categories: [Thames, Opportunity Knocks, Hughie-Green, OnThisDay21January]
 last_modified_at: 13 January 2024
 ---
 
-{% assign tb_posts = site.posts
-    | where_exp: "post", "post.categories contains 'Opportunity-Knocks'"
-    | sort: "date" %}
+{% assign tb_posts = site.categories["Opportunity Knocks"] | sort: "date" %}
 
 {% assign index = nil %}
 

@@ -6,13 +6,11 @@ subtitle: Final broadcast of the much loved show
 description: Final broadcast of the much loved show that was the starting block for so many stars.
 post_description: Final broadcast of the much loved show that was the starting block for so many stars.
 image: /assets/images/ITV/gettyimages-544761065-612x612.jpg
-categories: [Thames, Opportunity-Knocks, Hughie-Green, Les-Dawson, OnThisDay20March]
+categories: [Thames, Opportunity Knocks, Hughie-Green, Les-Dawson, OnThisDay20March]
 last_modified_at: 13 January 2024
 ---
 
-{% assign tb_posts = site.posts
-    | where_exp: "post", "post.categories contains 'Opportunity-Knocks'"
-    | sort: "date" %}
+{% assign tb_posts = site.categories["Opportunity Knocks"] | sort: "date" %}
 
 {% assign index = nil %}
 

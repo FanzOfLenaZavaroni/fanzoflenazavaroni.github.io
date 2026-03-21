@@ -7,13 +7,11 @@ description: Lena performs If My Friends Could See Me Now, then at the end of th
 media: Thames Television
 post_description: Lena performs If My Friends Could See Me Now, then at the end of the show, she receives the Variety Club Award for 1974, and then joins the rest of the cast in a rendition of Land Of Hope And Glory.
 image: /assets/images/ITV/1974-12-31-ok.jpg
-categories: [Thames, Opportunity-Knocks, Hughie-Green, OnThisDay30December]
+categories: [Thames, Opportunity Knocks, Hughie-Green, OnThisDay30December]
 last_modified_at: 29 December 2023
 ---
 
-{% assign tb_posts = site.posts
-    | where_exp: "post", "post.categories contains 'Opportunity-Knocks'"
-    | sort: "date" %}
+{% assign tb_posts = site.categories["Opportunity Knocks"] | sort: "date" %}
 
 {% assign index = nil %}
 

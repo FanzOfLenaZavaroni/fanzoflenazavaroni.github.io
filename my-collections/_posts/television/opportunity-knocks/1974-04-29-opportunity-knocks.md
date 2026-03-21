@@ -5,13 +5,11 @@ maintitle: Opportunity Knocks
 subtitle: All Winners Show
 description: Lena appeared in the Opportunity Knocks All Winners Show.
 post_description: Lena appeared in the Opportunity Knocks All Winners Show.
-categories: [Thames, Opportunity-Knocks, Hughie-Green, OnThisDay29April]
+categories: [Thames, Opportunity Knocks, Hughie-Green, OnThisDay29April]
 last_modified_at: 13 January 2024
 ---
 
-{% assign tb_posts = site.posts
-    | where_exp: "post", "post.categories contains 'Opportunity-Knocks'"
-    | sort: "date" %}
+{% assign tb_posts = site.categories["Opportunity Knocks"] | sort: "date" %}
 
 {% assign index = nil %}
 

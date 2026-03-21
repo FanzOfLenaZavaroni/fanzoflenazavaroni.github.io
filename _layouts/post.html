@@ -95,7 +95,7 @@ layout: default
 
 {% else %}
 
-  <a href="{{site.baseurl}}/category/{{category|downcase}}">{{ category }}</a>
+<a href="{{ site.baseurl }}/category/{{ category | downcase | replace: ' ', '-' }}">{{ category }}</a>
 
 {% endif %}
 

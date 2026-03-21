@@ -6,13 +6,11 @@ subtitle: Episode 14.24
 description: Lena makes her second appearance after winning the viewers votes for the first time. She sings Take Me Home, Country Roads.
 media: Thames Television
 post_description: Lena makes her second appearance after winning the viewers votes for the first time. She sings Take Me Home, Country Roads.
-categories: [Thames, Opportunity-Knocks, Hughie-Green, OnThisDay14January]
+categories: [Thames, Opportunity Knocks, Hughie-Green, OnThisDay14January]
 last_modified_at: 13 January 2024
 ---
 
-{% assign tb_posts = site.posts
-    | where_exp: "post", "post.categories contains 'Opportunity-Knocks'"
-    | sort: "date" %}
+{% assign tb_posts = site.categories["Opportunity Knocks"] | sort: "date" %}
 
 {% assign index = nil %}
 
@@ -51,6 +49,7 @@ last_modified_at: 13 January 2024
   {% endif %}
 
 </div>
+
 
 With Gladys Bennett, Jacqui Edwards, The Nicky Papas Duo, The Mike Price Set, Keith Manifold
 

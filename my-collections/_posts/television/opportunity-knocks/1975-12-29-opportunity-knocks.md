@@ -6,13 +6,11 @@ subtitle: Variety Club Award Show (1975)
 description: Lena appears as last year's winner, to present the award to the 1975 recipient, The Frank Jennings Syndicate.
 media: Thames Television
 post_description: Lena appears as last year's winner, to present the award to the 1975 recipient, The Frank Jennings Syndicate.
-categories: [Thames, Opportunity-Knocks, Hughie-Green, OnThisDay29December]
+categories: [Thames, Opportunity Knocks, Hughie-Green, OnThisDay29December]
 last_modified_at: 13 January 2024
 ---
 
-{% assign tb_posts = site.posts
-    | where_exp: "post", "post.categories contains 'Opportunity-Knocks'"
-    | sort: "date" %}
+{% assign tb_posts = site.categories["Opportunity Knocks"] | sort: "date" %}
 
 {% assign index = nil %}
 

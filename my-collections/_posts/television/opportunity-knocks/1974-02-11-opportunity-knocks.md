@@ -6,13 +6,11 @@ subtitle: Episode 14.28
 description: Lena makes her fifth and final appearance as a contestant after winning the viewers votes for the fourth time.
 media: Thames Television
 post_description: Lena makes her fifth and final appearance as a contestant after winning the viewers votes for the fourth time.
-categories: [Thames, Opportunity-Knocks, Hughie-Green, OnThisDay11February]
+categories: [Thames, Opportunity Knocks, Hughie-Green, OnThisDay11February]
 last_modified_at: 13 January 2024
 ---
 
-{% assign tb_posts = site.posts
-    | where_exp: "post", "post.categories contains 'Opportunity-Knocks'"
-    | sort: "date" %}
+{% assign tb_posts = site.categories["Opportunity Knocks"] | sort: "date" %}
 
 {% assign index = nil %}
 
