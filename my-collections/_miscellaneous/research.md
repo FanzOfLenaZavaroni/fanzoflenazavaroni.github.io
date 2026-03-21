@@ -15,10 +15,12 @@ This Page was created on 5 October 2020 and last updated on {{ page.last_modifie
 <h2 id="infobox2"><a href="#infobox2">Sections</a></h2>
 The following Sections list websites and tips that may help you with your own research due to my policy on watermarking and due to trolling some well known websites will not be on this list. Still, as the best research is done yourself, this will not matter, as this page is to help push you in the right direction and is far from an exhaustive list.
 
-* While I don't like watermarking, if the website has not broken copyright law by the use of watermarking, then it may get a link.
-* As you will find, stockphoto websites (No longer part of this list) don't seem to understand the importance of providing details on the photos or putting them into context which is a great shame and where dates and/or details are given you can't take the info at face value and will need to do addtional research to confirm what is given is correct.
-* An addition of a website to this page or post is not an endorsement of that website and is just here for anyone looking for a starting place to research Lena Zavaroni.
-* Any links that have "<span class="up">&#8592;</span> <span class="red">newly added</span>" at the end simply means that it is a new link added to this page and doesn't reflect the age of the linked website.
+<ul>
+<li>While I don't like watermarking, if the website has not broken copyright law by the use of watermarking, then it may get a link.</li>
+<li>As you will find, stockphoto websites (No longer part of this list) don't seem to understand the importance of providing details on the photos or putting them into context which is a great shame and where dates and/or details are given you can't take the info at face value and will need to do addtional research to confirm what is given is correct.</li>
+<li>An addition of a website to this page or post is not an endorsement of that website and is just here for anyone looking for a starting place to research Lena Zavaroni.</li>
+<li>Any links that have "<span class="up">&#8592;</span> <span class="red">newly added</span>" at the end simply means that it is a new link added to this page and doesn't reflect the age of the linked website.</li>
+</ul>
 
 <h2 id="infobox3"><a href="#infobox3">45cat</a></h2>
 
@@ -97,12 +99,14 @@ The following Sections list websites and tips that may help you with your own re
 <p>The British Film Institute (BFI) redesigned its website during 2024 and 2025.</p>
 <p>As part of this update:</p>
 
-* All content is now loaded dynamically into a single Search URL.
-* Individual pages no longer have unique addresses.
-* Deep linking no longer works.
-* Search engines cannot index the content.
-* The Wayback Machine cannot archive the pages.
-* Site-specific search (for example, <code>site:bfi.org.uk keywords</code>) will not return results.
+<ul>
+<li>All content is now loaded dynamically into a single Search URL.</li>
+<li>Individual pages no longer have unique addresses.</li>
+<li>Deep linking no longer works.</li>
+<li>Search engines cannot index the content.</li>
+<li>The Wayback Machine cannot archive the pages.</li>
+<li>Site-specific search (for example, <code>site:bfi.org.uk keywords</code>) will not return results.</li>
+</ul>
 
 <p>Because of this, older BFI links that once worked may now fail without warning.</p>
 
