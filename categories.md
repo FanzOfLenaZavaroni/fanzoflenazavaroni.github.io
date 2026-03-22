@@ -8,11 +8,10 @@ skip-cats: OnThisDay
 ---
 
 <ul>
-{% for cat in site.my-collections %}
-  {% if cat.path contains '/_category/' %}
-    <li>
-      <a href="{{ cat.url }}">{{ cat.data.title | default: cat.basename }}</a>
-    </li>
+{% for file in site.static_files %}
+  {% if file.path contains '/my-collections/_category/' and file.extname == '.md' %}
+    {% assign name = file.name | replace: '.md', '' %}
+    <li><a href="/category/{{ name }}/">{{ name }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
