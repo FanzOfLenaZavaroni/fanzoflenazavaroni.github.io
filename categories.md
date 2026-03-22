@@ -8,9 +8,9 @@ skip-cats: OnThisDay
 ---
 
 <ul>
-{% for file in site.static_files %}
-  {% if file.path contains '/my-collections/_category/' and file.extname == '.md' %}
-    {% assign name = file.name | replace: '.md', '' %}
+{% for page in site.pages %}
+  {% if page.path contains '/_category/' %}
+    {% assign name = page.basename %}
     <li><a href="/category/{{ name }}/">{{ name }}</a></li>
   {% endif %}
 {% endfor %}
