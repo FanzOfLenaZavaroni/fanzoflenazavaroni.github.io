@@ -4,7 +4,7 @@ title: Categories
 maintitle: Categories
 subtitle: "Categories that aren’t displayed on posts are listed here."
 permalink: /categories/
-add-cats: [Biography Of Lena Zavaroni, Cash Box, Record and Radio Mirror, Record-Mirror, Wordpress]
+add-cats: [Biography Of Lena Zavaroni, Cash Box, Record and Radio Mirror, Wordpress]
 ---
 
 <div id="archives">
