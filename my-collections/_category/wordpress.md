@@ -1,11 +1,11 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Discography Singles"
-maintitle: "Category: Discography Singles"
+title: "Category: Wordpress"
+maintitle: "Category: Wordpress"
 ---
 
-<ul>
-{% for post in site.categories.Discography-Singles reversed %}
+<ul class="columns2">
+{% for post in site.categories.Wordpress reversed %}
 {% if post.url %}
 <li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></li>
 {% endif %}
