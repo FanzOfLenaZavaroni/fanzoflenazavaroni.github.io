@@ -37,14 +37,20 @@ The following Sections list websites and tips that may help you with your own re
 <li><a class="external-link" href="https://www.45cat.com/vinyl/ab_search.php?sq=Lena+Zavaroni">45worlds: Vinyl Albums</a></li>
 </ul>
 
-<h2 id="infobox4"><a href="#infobox4">Internet Archive</a></h2>
+<h2 id="infobox4"><a href="#infobox4">Database</a></h2>
+<p>To login click on Public Library then search for your Libarary and once found slect it then user your Library Card Number and Password so you can use the  Gale Databases</p>
+<ul>
+<li><a class="external-link" href="https://galeapps.gale.com/apps/auth">galeapps.gale.com</a></li>
+</ul>
+
+<h2 id="infobox5"><a href="#infobox5">Internet Archive</a></h2>
 
 <p>Selecting different Search options: metadata, text contents, TV news captions, radio transcripts or archived websites, the content you get will change.</p>
 <ul>
 <li><a class="external-link" href="https://archive.org/search.php?query=Lena%20Zavaroni">Internet Archive: Lena Zavaroni</a></li>
 </ul>
 
-<h2 id="infobox5"><a href="#infobox5">Internet Archive's Wayback Machine</a></h2>
+<h2 id="infobox6"><a href="#infobox6">Internet Archive's Wayback Machine</a></h2>
 <p>The Wayback Machine lets you view old or deleted websites by typing in the URL of a website not all websites will have been archive and the archives may be limited to the text but for research the text will be of more value than any out of context image.</P>
 <p><strong>Note:</strong> Some pages may seem to be blank, but if you press Control and A or whatever the combination of keyboard keys is for your OS to select all, you will then see the text. The reason for this is that the original website had a background image with white text, but the Wayback Machine has not archived the background image, and so the page has ended up with white text on a white background. <a href="https://web.archive.org/web/20140410193639/http://www.cchr-london.org/lena-zavaroni/">example</a> - looks blank, but if you select all, you can see the text.</p>
 
@@ -58,21 +64,21 @@ The following Sections list websites and tips that may help you with your own re
 <li><a class="external-link" href="https://web.archive.org/web/20200224224451/http://www.drsallybaker.com/uncategorized/the-discovery-of-a-whole-new-galaxy">The Discovery Of A Whole New Galaxy…</a></li>
 </ul>
 
-<h2 id="infobox6"><a href="#infobox6">Magazine</a></h2>
+<h2 id="infobox7"><a href="#infobox7">Magazine</a></h2>
 
 <ul>
 <li><a class="external-link" href="https://www.worldradiohistory.com">World Radio History: Large number of TV and Radio Magazines and Broadcasters' yearbooks as PDFs</a></li>
 </ul>
 
-<h2 id="infobox7"><a href="#infobox7">Newspaper</a></h2>
+<h2 id="infobox8"><a href="#infobox8">Newspaper</a></h2>
 
-<h3 id="infobox8"><a href="#infobox8">The Free Library</a></h3>
+<h3 id="infobox9"><a href="#infobox9">The Free Library</a></h3>
 
 <ul>
 <li><a class="external-link" href="https://www.thefreelibrary.com/_/search/Search.aspx?SearchBy=0&q=lena+zavaroni&Search=Search">The Free Library: Lena Zavaroni</a></li>
 </ul>
 
-<h3 id="infobox9"><a href="#infobox9">Newsbank</a></h3>
+<h3 id="infobox10"><a href="#infobox10">Newsbank</a></h3>
 
 <p>You will need to log into Newsbank to get anything out of it. In the UK, you can use your Library Name and Library Card ID Number to log in.</p>
 <p>When on the logging page click on "No username and password? Click here for additional log in options." you then can use your Library Details to log in.</p>
@@ -80,8 +86,8 @@ The following Sections list websites and tips that may help you with your own re
 <li><a class="external-link" href="https://infoweb.newsbank.com/apps/news/results?p=UKNB&fld-base-0=alltext&sort=YMD_date%3AD&maxresults=20&val-base-0=Lena%20Zavaroni">Newsbank: Lena Zavaroni</a></li>
 </ul>
 
-<h2 id="infobox10"><a href="#infobox10">Scholarly Literature</a></h2>
-
+<h2 id="infobox11"><a href="#infobox11">Scholarly Literature</a></h2>
+/
 <ul>
 <li><a class="external-link" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Lena+Zavaroni">Google Scholar: Lena Zavaroni</a></li> 
 <li><a class="external-link" href="https://openalex.org/works?search.title_and_abstract=Lena+Zavaroni&page=1&sort=relevance_score:desc">OpenAlex: Lena Zavaroni</a> <span class="up">&#8592;</span> <span class="red">newly added</span></li>
@@ -89,12 +95,12 @@ The following Sections list websites and tips that may help you with your own re
 </ul>
 <p><strong>Note:</strong> Semantic Scholar needs you to quote a search like "Lena Zavaroni" or it will list unrelated content, and while that is true of must searches on any website/search engine it is very much the case with Semantic Scholar.</p>
 
-<h2 id="infobox11"><a href="#infobox11">Site Search</a></h2>
+<h2 id="infobox12"><a href="#infobox12">Site Search</a></h2>
 <p>To search a specific website for specific keywords use the following: <code>site: URL Keyword(s)</code>
 <p>Example: <a class="external-link" href="https://noai.duckduckgo.com/?q=site%3Ahttps%3A%2F%2Ffanzoflenazavaroni.github.io%2F+BBC+Radio&ia=web">site:https://fanzoflenazavaroni.github.io/ BBC Radio 3</a></p>
 <p><strong>Note:</strong> You have to enter the site: search in the browser's search bar to use the search engine of you choice as a link can only be made to a specific search engine, the example link is using <a class="external-link" href="https://noai.duckduckgo.com">https://noai.duckduckgo.com</a></p>
 
-<h2 id="infobox12"><a href="#infobox12">BFI Website Issue</a></h2>
+<h2 id="infobox13"><a href="#infobox13">BFI Website Issue</a></h2>
 
 <p>The British Film Institute (BFI) redesigned its website during 2024 and 2025.</p>
 <p>As part of this update:</p>
@@ -111,7 +117,7 @@ The following Sections list websites and tips that may help you with your own re
 <p>Because of this, older BFI links that once worked may now fail without warning.</p>
 
 
-<h2 id="infobox13"><a href="#infobox13">System failure</a></h2>
+<h2 id="infobox14"><a href="#infobox14">System failure</a></h2>
 
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/54239649" class="shape"/>Robcamstone (<a class="link" href="https://github.com/FanzOfLenaZavaroni">Fanz Of Lena Zavaroni</a>)</p>
@@ -121,7 +127,7 @@ The following Sections list websites and tips that may help you with your own re
 <p>That is why I have defined them as Orphaned Comments.</p>
 </div>
 
-<h2 id="infobox14"><a href="#infobox14">Orphaned Comment(s)</a></h2>
+<h2 id="infobox15"><a href="#infobox15">Orphaned Comment(s)</a></h2>
 
 <div class="discussions">
 <p><img src="https://avatars.githubusercontent.com/u/54290841" class="shape"/>From <a class="link" href="https://github.com/StephenMolloy1">Stephen Molloy</a> - Date 14 November 2020 at 12:07:17 GMT</p>
