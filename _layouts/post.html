@@ -35,9 +35,6 @@ layout: default
 
 <h2 id="categories"><a href="#categories">Related Categories</a></h2>
 
-{% assign skip_categories = site.pages | where: "permalink", "/categories/" | first %}
-{% assign skip_list = skip_categories.skip-cats %}
-
 <span class="post-categories">
 {% if post %}
 {% assign categories = post.categories %}
@@ -46,15 +43,6 @@ layout: default
 {% endif %}
 
 {% for category in categories %}
-{% assign skip = false %}
-
-{% for skip_cat in skip_list %}
-  {% if category contains skip_cat %}
-    {% assign skip = true %}
-  {% endif %}
-{% endfor %}
-
-{% if skip %}
 
   {% if category contains "OnThisDay" %}
 
@@ -89,17 +77,11 @@ layout: default
 
   {% else %}
 
-    {{ category }}
+    <a href="{{ site.baseurl }}/category/{{ category | downcase | replace: ' ', '-' }}">{{ category }}</a>
 
   {% endif %}
 
-{% else %}
-
-<a href="{{ site.baseurl }}/category/{{ category | downcase | replace: ' ', '-' }}">{{ category }}</a>
-
-{% endif %}
-
-{% unless forloop.last %}&nbsp;{% endunless %}
+  {% unless forloop.last %}&nbsp;{% endunless %}
 {% endfor %}
 </span>
 
@@ -126,4 +108,3 @@ crossorigin="anonymous"
 async>
 </script>
 </article>
-

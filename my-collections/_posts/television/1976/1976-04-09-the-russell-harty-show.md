@@ -3,48 +3,33 @@ layout: post
 title: The Russell Harty Show
 maintitle: The Russell Harty Show
 subtitle: London Weekend Television (LWT)
+before: Recorded on
+after: and broadcast on 9 April 1976
 description: Recorded on 25 March 1976 and broadcast on 9 April 1976
-media: London Weekend Television (LWT)
 post_description: Recorded on 25 March 1976 and broadcast on 9 April 1976
-image: https://img.youtube.com/vi/DgDqWWRSVoo/hqdefault.jpg
 categories: [London-Weekend-Television, OnThisDay25March, OnThisDay9April]
-last_modified_at: 22 November 2023
+last_modified_at: 22 March 2026
 ---
 
-<table>
-<tr align="center">
-<th colspan="3">Jump To:</th>
-</tr>
-<tr align="center">
-<td style="33%"><a href="#summary">Summary</a></td>
-<td style="34%"><a href="#cast">Cast</a></td>
-<td style="33%"><a href="#crew">Crew</a></td>
-</tr>
-</table>
+<h2 id="infobox1"><a href="#infobox1">Summary</a></h2>
 
-### Summary
-Lena's episode of the Russell Harty Show was recorded on 25 March 1976 and broadcast on 9 April 1976.
+<p>Lena sang "Some Of These Days" before being interviewed.</p>
 
-Lena sang "Some Of These Days" before being interviewed.
+<h2 id="infobox2"><a href="#infobox2">Cast</a></h2>
 
-<div class="responsive-video">
-<iframe width="640px" height="480px" src="https://www.youtube.com/embed/DgDqWWRSVoo?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe>
-</div>
+<ul>
+<li><strong>Host:</strong> Russell Harty</li>
+<li><strong>Guest:</strong> Helen Mirren</li>
+<li><strong>Guest:</strong> Edna Everage</li>
+<li><strong>Guest:</strong> Lena Zavaroni</li>
+</ul>
 
-### Cast
-<table>
-<tr><th>Host</th><td>Russell Harty</td></tr>
-<tr><th>Guest</th><td>Helen Mirren</td></tr>
-<tr><th>Guest</th><td>Edna Everage</td></tr>
-<tr><th>Guest</th><td>Lena Zavaroni</td></tr>
-</table>
+<h2 id="infobox3"><a href="#infobox3">Crew</a></h2>
 
-### Crew
-<table>
-<tr><th>Director</th><td>Mike Mansfield</td></tr>
-<tr><th>Producer</th><td>Nicholas Barrett</td></tr>
-<tr><th>Production Team</th><td>Paul Flattery</td></tr>
-<tr><th>Production Team</th><td>Janette Carn</td></tr>
-<tr><th>Production Company</th><td>London Weekend Television (LWT)</td></tr>
-</table>
-
+<ul>
+<li><strong>Director:</strong> Mike Mansfield</li>
+<li><strong>Producer:</strong> Nicholas Barrett</li>
+<li><strong>Production Team:</strong> Paul Flattery</li>
+<li><strong>Production Team:</strong> Janette Carn</li>
+<li><strong>Production Company:</strong> London Weekend Television (LWT)</li>
+</ul>

@@ -5,7 +5,7 @@ maintitle: "Category: Discography Singles"
 ---
 
 <ul>
-{% for post in site.categories.Discography-Singles reversed %}
+{% for post in site.categories["Discography Singles"] reversed %}
 {% if post.url %}
 <li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></li>
 {% endif %}

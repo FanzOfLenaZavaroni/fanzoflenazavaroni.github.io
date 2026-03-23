@@ -3,27 +3,20 @@ layout: discography
 title: Some Of These Days &#124; Germany Release
 maintitle: Some Of These Days
 subtitle: Germany Release on the Intercord record label
+year: 1976
 description: Germany Release on the Intercord record label.
 post_description: Germany Release on the Intercord record label.
-image: /assets/images/singles/lena-zavaroni-some-of-these-days-side-a.jpg
 categories: [Discography-Singles]
 permalink: /discography/singles/:name
 last_modified_at: 20 March 2024
 ---
 
-<figure class="fig3">
-<table style="text-align:center;">
-<tr><th colspan="3">View Details For Know Releases</th></tr>
-<tr><td style="width:33.33%;"><a href="/discography/singles/1976-03-26-some-of-these-days-uk">UK</a></td><td style="width:33.34%;"><a href="/discography/singles/1976-some-of-these-days-germany">Germany &#x2714;</a></td><td style="width:33.33%;"><a href="/discography/singles/1976-some-of-these-days-poland">Poland</a></td></tr>
-</table>
-</figure>
-
-<figure class="fig3">
-<table style="text-align:center;">
-<tr><th colspan="3">Jump To</th></tr>
-<tr><td style="width:33.33%;"><a href="#infobox1">A Side</a></td><td style="width:33.34%;"><a href="#infobox2">B Side</a></td><td style="width:33.33%;"><a href="#infobox3">Details</a></td></tr>
-</table>
-</figure>
+<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
+<a href="1976-03-26-some-of-these-days-uk">UK Release »</a>
+<span><strong>German Release</strong></span>
+<a href="1976-some-of-these-days-poland">Poland Release »</a>
+</div>
+<br />
 
 <figure class="fig3">
 <table>
