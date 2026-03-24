@@ -5,7 +5,7 @@ maintitle: The Stage and Television Today
 subtitle: A Short Summary Based On The Stage and Television Today's Article Related To Lena Zavaroni
 description: Lena Zavaroni captivates Cardiff with her dynamic return to live performance.
 post_description: A glowing review of Lena Zavaroni’s headline appearance at Cardiff's New Theatre, showcasing her star power and vocal artistry.
-categories: [The-Stage-and-Television-Today, OnThisDay26June]
+categories: [The Stage and Television Today, OnThisDay26June]
 ---
 
 <figure class="fig3">

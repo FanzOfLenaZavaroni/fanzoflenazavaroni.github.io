@@ -5,7 +5,7 @@ maintitle: The Stage and Television Today
 subtitle: Water Rats gala charity night
 description: Reported on the Water Rats Gale Charity Night.
 post_description: Reported on the Water Rats Gala Charity Night, which featured performances by several well‑known entertainers.
-categories: [The-Stage-and-Television-Today, OnThisDay22February]
+categories: [The Stage and Television Today, OnThisDay22February]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Summery</a></h2>

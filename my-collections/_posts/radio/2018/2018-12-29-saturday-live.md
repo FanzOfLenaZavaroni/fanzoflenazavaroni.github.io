@@ -6,7 +6,7 @@ subtitle: Gabrielle and the inheritance tracks of Brian Conley
 description: The programme references Lena at 00:03:20 and again at 00:41:50.
 post_description: The programme references Lena at 00:03:20 and again at 00:41:50.
 image: /assets/images/BBC-PIDs/p06w8v30-768x432.jpg
-categories: [BBC-Radio-4, Gabrielle, Brian-Conley, OnThisDay29December]
+categories: [BBC Radio 4, Gabrielle, Brian Conley, OnThisDay29December]
 ---
 
 <table>

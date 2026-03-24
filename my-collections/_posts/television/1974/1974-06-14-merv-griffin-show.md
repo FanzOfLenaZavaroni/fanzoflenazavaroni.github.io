@@ -5,7 +5,7 @@ maintitle: Merv Griffin Show
 subtitle: Season 11
 description: Merv's guests are actors Fernando Lamas and James Brolin, child singer Lena Zavaroni and Apollo 15 astronaut Col. James B. Irwin.
 post_description: Merv's guests are actors Fernando Lamas and James Brolin, child singer Lena Zavaroni and Apollo 15 astronaut Col. James B. Irwin.
-categories: [US-Television, Merv-Griffin-Show, OnThisDay14June]
+categories: [US Television, Merv Griffin Show, OnThisDay14June]
 last_modified_at: 14 June 2025
 ---
 

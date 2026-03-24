@@ -5,7 +5,7 @@ maintitle: Record Business
 subtitle: Magazine
 description: "Page 18: New Singles — Lena Zavaroni Hold Tight (Want Some Sea Food, Mama)."
 post_description: "Page 18: New Singles — Lena Zavaroni Hold Tight (Want Some Sea Food, Mama)."
-categories: [Magazines, record-business, OnThisDay17May]
+categories: [Magazines, record business, OnThisDay17May]
 last_modified_at: 17 May 2024
 ---
 

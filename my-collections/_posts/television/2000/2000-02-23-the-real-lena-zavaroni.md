@@ -7,7 +7,7 @@ maintitle: The Real... Lena Zavaroni
 subtitle: Channel 4
 description: Channel 4 documentary charting Lena Zavaroni's career and subsequent illness.
 post_description: Documentary charting Lena Zavaroni's career and subsequent illness.
-categories: [Channel-4, The-Real..., Going-Nowhere, OnThisDay23February, OnThisDay23January]
+categories: [Channel 4, The Real..., Going Nowhere, OnThisDay23February, OnThisDay23January]
 last_modified_at: 23 February 2026
 ---
 

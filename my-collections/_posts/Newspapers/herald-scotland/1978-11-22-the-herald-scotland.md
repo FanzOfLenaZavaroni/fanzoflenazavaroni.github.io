@@ -5,5 +5,5 @@ maintitle: The Herald Scotland
 subtitle: Published an article with the tag line "Lena and Lulu coming home to top the bill".
 description: Published an article with the tag line "Lena and Lulu coming home to top the bill".
 post_description: Published an article with the tag line "Lena and Lulu coming home to top the bill".
-categories: [Newspaper-Herald-Scotland, OnThisDay22November]
+categories: [Newspaper Herald Scotland, OnThisDay22November]
 ---

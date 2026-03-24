@@ -7,7 +7,7 @@ after: "  In SD On BBC Four - First HD broadcast Was On 6 December 2008 On BBC H
 subtitle: Trevor Eve stars in a drama about the secret life of Opportunity Knocks and Double Your Money presenter Hughie Green, based on the inside story from his family, friends and peers.
 description: Trevor Eve stars in a drama about the secret life of Opportunity Knocks and Double Your Money presenter Hughie Green, based on the inside story from his family, friends and peers.
 post_description: Trevor Eve stars in a drama about the secret life of Opportunity Knocks and Double Your Money presenter Hughie Green, based on the inside story from his family, friends and peers.
-categories: [BBC-Four, Hughie-Green, OnThisDay2April, OnThisDay6December]
+categories: [BBC Four, Hughie Green, OnThisDay2April, OnThisDay6December]
 ---
 
 <figure class="fig3">

@@ -5,7 +5,7 @@ maintitle: Limburgs Dagblad
 subtitle: Dutch Newspaper
 description: "Lists  Ontmoeting met Cindy en Bert on which Lena Zavaroni is one of the guests."
 post_description: "Lists  Ontmoeting met Cindy en Bert on which Lena Zavaroni is one of the guests."
-categories: [Dutch-Newspaper, Limburgs-Dagblad, Meeting-with-Cindy-and-Bert, OnThisDay10March]
+categories: [Dutch Newspaper, Limburgs Dagblad, Meeting with Cindy and Bert, OnThisDay10March]
 last_modified_at: 2 March 2026
 ---
 

@@ -7,7 +7,7 @@ maintitle: The Tonight Show
 subtitle: Starring Johnny Carson
 description: She performs Ma He's Making Eyes At Me and then chats to Johnny, before performing The End Of The World.
 post_description: Lena Zavaroni performs Ma He's Making Eyes At Me and then chats to Johnny, before performing The End Of The World.
-categories: [US-Television, OnThisDay4June, OnThisDay3May]
+categories: [US Television, OnThisDay4June, OnThisDay3May]
 last_modified_at: 2 May 2025
 ---
 

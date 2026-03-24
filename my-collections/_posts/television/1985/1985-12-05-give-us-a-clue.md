@@ -5,7 +5,7 @@ maintitle: Give us a Clue
 subtitle: Thames Television
 description: Lena takes part in a game of charades, and mimes the film &quot;A Big Hand For The Little Lady&quot;.
 post_description: Lena takes part in a game of charades, and mimes the film &quot;A Big Hand For The Little Lady&quot;.
-categories: [Thames-Television, OnThisDay5December]
+categories: [Thames Television, OnThisDay5December]
 last_modified_at: 5 December 2025
 ---
 

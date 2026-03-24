@@ -5,7 +5,7 @@ maintitle: The Scotsman
 subtitle: Weekend Magazine
 description: Beatrice Colin on Ronan Keating’s new TV role in The Scotsman Weekend Magazine.
 post_description: An article by Beatrice Colin, published in The Scotsman’s Weekend Magazine, presenting Ronan Keating’s new television role in relation to earlier BBC entertainment formats, including references to Hughie Green, The Black and White Minstrel Show, and Lena Zavaroni.
-categories: [Magazine, The-Scotsman, OnThisDay6February]
+categories: [Magazine, The Scotsman, OnThisDay6February]
 last_modified_at: 6 February 2025
 ---
 

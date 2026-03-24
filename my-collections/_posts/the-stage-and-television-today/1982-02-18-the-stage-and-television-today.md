@@ -5,7 +5,7 @@ maintitle: The Stage and Television Today
 subtitle: Newspaper
 description: Advertisement - OFFICIAL LENA ZAVARONI APPRECIATION SOCIETY S.A.E. for details 75 Highfield Rd. Blackpool. Lanes. CATHOLIC STAGE GUILD Membership details contact
 post_description: OFFICIAL LENA ZAVARONI APPRECIATION SOCIETY S.A.E. for details 75 Highfield Rd. Blackpool. Lanes. CATHOLIC STAGE GUILD.
-categories: [The-Stage-and-Television-Today, OnThisDay18February]
+categories: [The Stage and Television Today, OnThisDay18February]
 onthisdaylink: false
 ---
 

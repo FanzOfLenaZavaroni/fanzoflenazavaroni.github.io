@@ -5,7 +5,7 @@ maintitle: Blankety Blank
 subtitle: Episode 10.1
 description: Lena Zavaroni was one of the Panellist on Blankety Blank.
 post_description: Lena Zavaroni was one of the Panellist on Blankety Blank.
-categories: [BBC-One, Les-Dawson, OnThisDay18September]
+categories: [BBC One, Les Dawson, OnThisDay18September]
 ---
 
 <figure class="fig3">

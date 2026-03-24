@@ -6,7 +6,7 @@ permalink: /category/national-theatre-(olivier-theatre)/
 ---
 
 <ul>
-{% for post in site.categories["National-Theatre-(Olivier-Theatre)"] reversed %}
+{% for post in site.categories["National Theatre (Olivier Theatre)"] reversed %}
 {% if post.url %}
 <li>
 <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a>

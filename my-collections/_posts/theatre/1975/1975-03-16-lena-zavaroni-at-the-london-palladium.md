@@ -5,7 +5,7 @@ maintitle: Lena Zavaroni at the London Palladium
 subtitle:
 description: A variety programme introduced by Hughie Green.
 post_description: An evening of comedy, music and variety introduced by Hughie Green, featuring a small supporting set of Turns.
-categories: [Theatres, London-Palladium, OnThisDay16March]
+categories: [Theatres, London Palladium, OnThisDay16March]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Details</a></h2>

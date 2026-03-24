@@ -6,7 +6,7 @@ subtitle:  At The Adelphi Theatre
 after: " - 31 March 1989"
 description: Starting Bonnie Langford As Sally and David Schofield as Bill Snibson.
 post_description: Starting Bonnie Langford As Sally and David Schofield as Bill Snibson.
-categories: [Theatre-The-Adelphi-Theatre, Me-And-My-Girl, Bonnie-Langford, David-Schofield, OnThisDay1April]
+categories: [The Adelphi Theatre, Me And My Girl, Bonnie Langford, David Schofield, OnThisDay1April]
 last_modified_at: 18 January 2024
 ---
 

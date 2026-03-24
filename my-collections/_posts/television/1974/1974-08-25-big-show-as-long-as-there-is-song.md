@@ -5,7 +5,7 @@ maintitle: "Big Show: As Long As There Is Song"
 subtitle: A music program that aired on NHK General Television from 7 April 1974 to 20 March 1979
 description: Lena Zavaroni appears on Japanese television performing a selection of songs, including a Japanese-language version of her debut hit.
 post_description: Lena Zavaroni appears on Japanese television performing a selection of songs, including a Japanese-language version of her debut hit.
-categories: [NHK, Television-Big-Show, OnThisDay25August]
+categories: [NHK, Television Big Show, OnThisDay25August]
 last_modified_at: 7 August 2025
 ---
 

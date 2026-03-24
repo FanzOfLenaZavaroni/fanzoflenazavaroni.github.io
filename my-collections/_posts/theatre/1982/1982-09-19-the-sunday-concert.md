@@ -5,7 +5,7 @@ maintitle: The Sunday Concert In New Brighton
 subtitle: Lena retired from the show during the first song, due to illness, and the rest of the show was cancelled
 description: Lena retired from the show during the first song, due to illness, and the rest of the show was cancelled.
 post_description: Lena retired from the show during the first song, due to illness, and the rest of the show was cancelled.
-categories: [Theatres, New-Brighton, OnThisDay19September]
+categories: [Theatres, New Brighton, OnThisDay19September]
 ---
 
 <figure class="fig3">

@@ -5,7 +5,7 @@ maintitle: Opportunity Knocks
 subtitle: All Winners Show
 description: Lena appeared in the Opportunity Knocks All Winners Show.
 post_description: Lena appeared in the Opportunity Knocks All Winners Show.
-categories: [Thames, Opportunity Knocks, Hughie-Green, OnThisDay29April]
+categories: [Thames, Opportunity Knocks, Hughie Green, OnThisDay29April]
 last_modified_at: 13 January 2024
 ---
 

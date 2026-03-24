@@ -5,7 +5,7 @@ maintitle: Orphaned Comments
 subtitle: Cjones85
 description: Cjones85
 post_description: Cjones85
-categories: [Orphaned-Comments, OnThisDay1October]
+categories: [Orphaned Comments, OnThisDay1October]
 ---
 
 <div class="discussions">

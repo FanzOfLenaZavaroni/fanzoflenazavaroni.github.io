@@ -6,22 +6,22 @@ subtitle: Featured an article reporting that Lena was considering taking driving
 description: Article contained a photo of Lena performing.
 media: Newspaper
 post_description: Featured an article reporting that Lena was considering taking driving lessons, having been offered a free course by a local driving school.
-image: /assets/images/the-stage-and-television-today/1985-10-03-the-stage-and-television-today-fc.png
-categories: [The-Stage-and-Television-Today, OnThisDay3October]
+image: /assets/images/The Stage and Television Today/1985-10-03-The Stage and Television Today-fc.png
+categories: [The Stage and Television Today, OnThisDay3October]
 ---
 
 <figure class="fig1">
 <figcaption>
 <h2 id="front-cover"><a href="#front-cover">Front Cover</a></h2>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1985-10-03-the-stage-and-television-today-fc.png"><img src="/assets/images/the-stage-and-television-today/1985-10-03-the-stage-and-television-today-fc.png" class="full-width zoom-in"></a>
+<a href="/assets/images/The Stage and Television Today/1985-10-03-The Stage and Television Today-fc.png"><img src="/assets/images/The Stage and Television Today/1985-10-03-The Stage and Television Today-fc.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
 <h2 id="page-5"><a href="#page-5">Page 5</a></h2>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1985-10-03-the-stage-and-television-today-page-05.png"><img src="/assets/images/the-stage-and-television-today/1985-10-03-the-stage-and-television-today-page-05.png" class="full-width zoom-in"></a>
+<a href="/assets/images/The Stage and Television Today/1985-10-03-The Stage and Television Today-page-05.png"><img src="/assets/images/The Stage and Television Today/1985-10-03-The Stage and Television Today-page-05.png" class="full-width zoom-in"></a>
 </figure>
 
 {: .clear}
@@ -30,7 +30,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay3October]
 <figcaption>
 <h2 id="page-6"><a href="#page-6">Page 6</a></h2>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1985-10-03-the-stage-and-television-today-page-06.png"><img src="/assets/images/the-stage-and-television-today/1985-10-03-the-stage-and-television-today-page-06.png" class="full-width zoom-in"></a>
+<a href="/assets/images/The Stage and Television Today/1985-10-03-The Stage and Television Today-page-06.png"><img src="/assets/images/The Stage and Television Today/1985-10-03-The Stage and Television Today-page-06.png" class="full-width zoom-in"></a>
 </figure>
 
 <br />{: .clear}

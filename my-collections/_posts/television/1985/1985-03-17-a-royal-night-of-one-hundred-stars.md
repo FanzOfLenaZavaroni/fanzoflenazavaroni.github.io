@@ -7,7 +7,7 @@ maintitle: A Royal Night of One Hundred Stars
 subtitle: National Theatre (Olivier Theatre), London
 description: Recorded at the National Theatre (Olivier Theatre), London on 17 March 1985 for Broadcast by London Weekend Television (LWT) on 31 March 1985.
 post_description: Recorded on 17 March 1985 for Broadcast by London Weekend Television (LWT) on 31 March 1985.
-categories: [National-Theatre-(Olivier-Theatre), London-Weekend-Television, OnThisDay17March, OnThisDay31March]
+categories: [National Theatre (Olivier Theatre), London Weekend Television, OnThisDay17March, OnThisDay31March]
 ---
 
 <h2 id="infobox2"><a href="#infobox2">Cast</a></h2>

@@ -5,7 +5,7 @@ maintitle: The Lucy Meacock Show
 subtitle: Afternoon chat show.
 description: Lena appears as a guest.
 post_description: Lena appears as a guest.
-categories: [Television-Granada-Television, OnThisDay2March]
+categories: [Television Granada Television, OnThisDay2March]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Details</a></h2>

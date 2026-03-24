@@ -7,7 +7,7 @@ after: " on Nederland 1 at 19:45 <br />United Kingdom's Broadcasts 6 September 1
 subtitle: Winner Of The Silver Award At The 1978 Golden Sea Swallow Festival
 description: The show was chosen for the 1978 Golden Sea Swallow Festival in Knokke, Belgium, where it won the silver award.
 post_description: The show was chosen for the 1978 Golden Sea Swallow Festival in Knokke, Belgium, where it won the silver award.
-categories: [BBC-One, Dougie-Squires, OnThisDay11August, OnThisDay6September]
+categories: [BBC One, Dougie Squires, OnThisDay11August, OnThisDay6September]
 ---
 
 <figure class="fig3">

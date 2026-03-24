@@ -6,22 +6,22 @@ subtitle: Lena comes back to a big time ball
 description: SINGER Lena Zavaroni has been confirmed as one of the stars of Cannon and Ball's summer season show at the Blackpool Opera House.
 media: Lena comes back to a big time ball
 post_description: SINGER Lena Zavaroni has been confirmed as one of the stars of Cannon and Ball's summer season show at the Blackpool Opera House.
-image: /assets/images/the-stage-and-television-today/1985-04-04-the-stage-front-cover.png
-categories: [The-Stage-and-Television-Today, OnThisDay4April]
+image: /assets/images/The Stage and Television Today/1985-04-04-the-stage-front-cover.png
+categories: [The Stage and Television Today, OnThisDay4April]
 ---
 
 <figure class="fig1">
 <figcaption>
 <h2 id="front-cover">Front Cover</h2>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1985-04-04-the-stage-front-cover.png"><img src="/assets/images/the-stage-and-television-today/1985-04-04-the-stage-front-cover.png" class="full-width zoom-in"></a>
+<a href="/assets/images/The Stage and Television Today/1985-04-04-the-stage-front-cover.png"><img src="/assets/images/The Stage and Television Today/1985-04-04-the-stage-front-cover.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
 <h2 id="page-3">Page 3</h2>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1985-04-04-the-stage-page-3.png"><img src="/assets/images/the-stage-and-television-today/1985-04-04-the-stage-page-3.png" class="full-width zoom-in"></a>
+<a href="/assets/images/The Stage and Television Today/1985-04-04-the-stage-page-3.png"><img src="/assets/images/The Stage and Television Today/1985-04-04-the-stage-page-3.png" class="full-width zoom-in"></a>
 </figure>
 
 {: .clear}
@@ -30,7 +30,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay4April]
 <figcaption>
 <h2 id="page-3-cropped">Page 3 - Cropped</h2>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1985-04-04-the-stage-page-3-cropped.png"><img src="/assets/images/the-stage-and-television-today/1985-04-04-the-stage-page-3-cropped.png" class="full-width zoom-in"></a>
+<a href="/assets/images/The Stage and Television Today/1985-04-04-the-stage-page-3-cropped.png"><img src="/assets/images/The Stage and Television Today/1985-04-04-the-stage-page-3-cropped.png" class="full-width zoom-in"></a>
 </figure>
 
 <br />{: .clear}

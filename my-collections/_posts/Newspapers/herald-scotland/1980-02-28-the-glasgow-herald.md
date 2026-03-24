@@ -4,7 +4,7 @@ title: The Glasgow Herald &#124; 28 February 1980
 maintitle: The Glasgow Herald
 description: Published a short article on The Scottish National Record Awards that had taken place the previous day.
 post_description: Lena the top personality - a short article on The Scottish National Record Awards that had taken place the previous day.
-categories: [Newspaper-Glasgow-Herald, OnThisDay28February]
+categories: [Newspaper Glasgow Herald, OnThisDay28February]
 ---
 
 <strong>The Glasgow Herald published a short article by Andrew Young on [The Scottish National Record Awards](/1980-02-27-the-scottish-national-record-awards) that had taken place the previous day at The Albany Hotel, Glasgow.</strong>

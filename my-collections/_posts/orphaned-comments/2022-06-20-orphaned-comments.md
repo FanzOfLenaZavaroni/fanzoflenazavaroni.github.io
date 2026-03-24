@@ -6,7 +6,7 @@ subtitle:
 before: " Recreation of comment left on the"
 description: This comment relates to The Lena Zavaroni Show dated 11 September 1982
 post_description: This comment relates to The Lena Zavaroni Show dated 11 September 1982
-categories: [Orphaned-Comments, OnThisDay20June]
+categories: [Orphaned Comments, OnThisDay20June]
 last_modified_at: 23 December 2023
 ---
 

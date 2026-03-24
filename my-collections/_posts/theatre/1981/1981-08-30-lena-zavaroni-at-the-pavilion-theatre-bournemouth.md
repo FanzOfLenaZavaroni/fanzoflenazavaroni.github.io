@@ -5,7 +5,7 @@ maintitle: Sunday All Star Celebrity Concerts
 subtitle: Starring Lena Zavaroni At The Pavilion Theatre, Bournemouth
 description: Starring Lena Zavaroni At The Pavilion Theatre, Bournemouth.
 post_description: Starring Lena Zavaroni.
-categories: [Theatres-Pavilion-Theatre, Bournemouth, OnThisDay30August]
+categories: [Theatres Pavilion Theatre, Bournemouth, OnThisDay30August]
 ---
 
 <figure class="fig3">

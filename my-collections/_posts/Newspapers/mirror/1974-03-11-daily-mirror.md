@@ -5,7 +5,7 @@ maintitle: Daily Mirror
 subtitle: Ma .. those movie men are making eyes at me
 description: Ma .. those movie men are making eyes at me.
 post_description: Ma .. those movie men are making eyes at me
-categories: [Newspaper-Daily-Mirror, OnThisDay11March]
+categories: [Newspaper Daily Mirror, OnThisDay11March]
 last_modified_at: 11 March 2026
 ---
 

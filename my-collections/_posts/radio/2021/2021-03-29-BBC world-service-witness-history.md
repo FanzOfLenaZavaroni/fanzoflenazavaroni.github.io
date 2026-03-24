@@ -5,7 +5,7 @@ maintitle: BBC world service - Witness History
 subtitle: Anorexia Nervosa
 description: Anorexia Nervosa.
 post_description: Anorexia Nervosa.
-categories: [BBC-World-Service, OnThisDay29March]
+categories: [BBC World Service, OnThisDay29March]
 ---
 
 <figure class="fig3">

@@ -5,7 +5,7 @@ maintitle: The Press
 subtitle: Opportunity Knocks
 description: Various Newspapers report on Opportunity Knocks which is going to take on a three country contest Between Britain, Holland and Norway.
 post_description: Various Newspapers report on Opportunity Knocks which is going to take on a three country contest Between Britain, Holland and Norway.
-categories: [Newspaper-Evening-Times, Newspaper-Glasgow-Herald, Newspaper-Kent Evening Post, Newspaper-Limburger-Courier, OnThisDay10March]
+categories: [Newspaper Evening Times, Newspaper Glasgow Herald, Newspaper Kent Evening Post, Newspaper Limburger Courier, OnThisDay10March]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Notes on Country Naming</a></h2>

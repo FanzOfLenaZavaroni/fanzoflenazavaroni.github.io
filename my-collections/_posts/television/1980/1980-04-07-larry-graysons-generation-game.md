@@ -6,7 +6,7 @@ subtitle: Special Easter edition of the show
 description: Special Easter edition of the show.
 post_description: Special Easter edition of the show.
 image: /assets/images/BBC/larry-graysons-generation-game.jpg
-categories: [BBC-One, Larry-Grayson, OnThisDay7April]
+categories: [BBC One, Larry Grayson, OnThisDay7April]
 ---
 
 <table>

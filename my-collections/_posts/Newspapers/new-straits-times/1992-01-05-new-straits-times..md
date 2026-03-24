@@ -5,7 +5,7 @@ maintitle: New Straits Times
 subtitle: Starving themselves sick
 description: Starving themselves sick
 post_description: Starving themselves sick
-categories: [Newspaper-New-Straits-Times, OnThisDay5January]
+categories: [Newspaper New Straits Times, OnThisDay5January]
 last_modified_at: 5 January 2025
 ---
 

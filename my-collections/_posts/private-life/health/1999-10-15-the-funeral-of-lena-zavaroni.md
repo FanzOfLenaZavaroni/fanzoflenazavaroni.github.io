@@ -5,7 +5,7 @@ maintitle: The Funeral of Lena Zavaroni
 subtitle: The service took place at The Roman Catholic Church of St Augustine, Presbytery, High Street, Hoddesdon, Herts, EN11 8DS
 description: The service took place at The Roman Catholic Church of St Augustine, Presbytery, High Street, Hoddesdon, Herts, EN11 8DS.
 post_description: The service took place at The Roman Catholic Church of St Augustine, Presbytery, High Street, Hoddesdon, Herts, EN11 8DS.
-categories: [Private-Life-Funeral, OnThisDay15October]
+categories: [Private Life Funeral, OnThisDay15October]
 ---
 
 <figure class="fig3">

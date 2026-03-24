@@ -6,7 +6,7 @@ subtitle: Charity fundraising Telethon for the Muscular Dystrophy Association
 after: " - 2 September 1974"
 description: Charity fundraising Telethon for the Muscular Dystrophy Association.
 post_description: Charity fundraising Telethon for the Muscular Dystrophy Association.
-categories: [US-Television, Fundraising, OnThisDay1September, OnThisDay2September]
+categories: [US Television, Fundraising, OnThisDay1September, OnThisDay2September]
 last_modified_at: 1 September 2025
 ---
 

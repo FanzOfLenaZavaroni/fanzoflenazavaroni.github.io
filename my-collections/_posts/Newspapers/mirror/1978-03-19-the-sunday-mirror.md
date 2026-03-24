@@ -5,7 +5,7 @@ maintitle: The Sunday Mirror
 subtitle: Goodbye Opportunity Knocks, goodbye Hughie Green, goodbye Clapometer
 description: Goodbye Opportunity Knocks, goodbye Hughie Green, goodbye Clapometer.
 post_description: Goodbye Opportunity Knocks, goodbye Hughie Green, goodbye Clapometer.
-categories: [Sunday-Mirror, OnThisDay19March]
+categories: [Sunday Mirror, OnThisDay19March]
 last_modified_at: 17 March 2026
 ---
 

@@ -6,7 +6,7 @@ subtitle: Lena Zavaroni
 description: Lena Zavaroni
 post_description: Lena Zavaroni
 image: /assets/images/locations/2222751_f901cdd4.jpg
-categories: [Theatres, White-Rock-Pavilion, Hastings, OnThisDay2August]
+categories: [Theatres, White Rock Pavilion, Hastings, OnThisDay2August]
 last_modified_at: 1 August 2025
 ---
 

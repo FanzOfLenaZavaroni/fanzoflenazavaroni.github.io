@@ -5,7 +5,7 @@ maintitle: The Scottish National Record Awards
 subtitle: The Albany Hotel, Glasgow
 description: Lena collected the &quot;personality of the year&quot; award at The Albany Hotel, Glasgow.
 post_description: Lena collected the &quot;personality of the year&quot; award at The Albany Hotel, Glasgow.
-categories: [Awards, The-Albany-Hotel, Glasgow, OnThisDay27February]
+categories: [Awards, The Albany Hotel, Glasgow, OnThisDay27February]
 onthisdaylink: false
 ---
 

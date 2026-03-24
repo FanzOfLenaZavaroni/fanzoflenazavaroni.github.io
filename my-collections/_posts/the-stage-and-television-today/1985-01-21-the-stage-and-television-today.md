@@ -5,7 +5,7 @@ maintitle: The Stage and Television Today
 subtitle: Page 24 - Trend towards live audiences
 description: Reports that Jimmy Cricket is to host a new TV show called And There’s More
 post_description: Reports that Jimmy Cricket is to host a new TV show called And There’s More, it will feature a number of guest appearances.
-categories: [The-Stage-and-Television-Today, OnThisDay21February]
+categories: [The Stage and Television Today, OnThisDay21February]
 last_modified_at: 21 February 2026
 ---
 

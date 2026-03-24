@@ -6,22 +6,22 @@ subtitle: Feature on the Italia Conti stage school end of term production
 description: Contained a feature on the Italia Conti stage school end of term production. It also featured a photo of Lena Zavaroni and Bonnie Langford, onstage with the rest of the cast.
 media: Feature on the Italia Conti stage school end of term production
 post_description: Contained a feature on the Italia Conti stage school end of term production. It also featured a photo of Lena Zavaroni and Bonnie Langford, onstage with the rest of the cast.
-image: /assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-front-cover.png
-categories: [The-Stage-and-Television-Today, Bonnie-Langford, OnThisDay6April]
+image: /assets/images/The Stage and Television Today/1978-04-06-The Stage and Television Today-front-cover.png
+categories: [The Stage and Television Today, Bonnie Langford, OnThisDay6April]
 ---
 
 <figure class="fig1">
 <figcaption>
 <h2 id="front-cover">Front Cover</h2>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-front-cover.png"><img src="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-front-cover.png" class="full-width zoom-in"></a>
+<a href="/assets/images/The Stage and Television Today/1978-04-06-The Stage and Television Today-front-cover.png"><img src="/assets/images/The Stage and Television Today/1978-04-06-The Stage and Television Today-front-cover.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
 <h2 id="page-6">Page 6</h2>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-6.png"><img src="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-6.png" class="full-width zoom-in"></a>
+<a href="/assets/images/The Stage and Television Today/1978-04-06-The Stage and Television Today-page-6.png"><img src="/assets/images/The Stage and Television Today/1978-04-06-The Stage and Television Today-page-6.png" class="full-width zoom-in"></a>
 </figure>
 
 {: .clear}
@@ -30,7 +30,7 @@ categories: [The-Stage-and-Television-Today, Bonnie-Langford, OnThisDay6April]
 <figcaption>
 <h2 id="page-14">Page 14</h2>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-14.png"><img src="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-14.png" class="full-width zoom-in"></a>
+<a href="/assets/images/The Stage and Television Today/1978-04-06-The Stage and Television Today-page-14.png"><img src="/assets/images/The Stage and Television Today/1978-04-06-The Stage and Television Today-page-14.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
@@ -49,7 +49,7 @@ categories: [The-Stage-and-Television-Today, Bonnie-Langford, OnThisDay6April]
 <figcaption>
 <h2 id="page-6-cropped">Page 6 - Cropped</h2>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-6-cropped.png"><img src="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-6-cropped.png" class="full-width zoom-in"></a>
+<a href="/assets/images/The Stage and Television Today/1978-04-06-The Stage and Television Today-page-6-cropped.png"><img src="/assets/images/The Stage and Television Today/1978-04-06-The Stage and Television Today-page-6-cropped.png" class="full-width zoom-in"></a>
 </figure>
 
 
@@ -57,7 +57,7 @@ categories: [The-Stage-and-Television-Today, Bonnie-Langford, OnThisDay6April]
 <figcaption>
 <h2 id="page-14-cropped">Page 14 - Cropped</h2>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-14-cropped.png"><img src="/assets/images/the-stage-and-television-today/1978-04-06-the-stage-and-television-today-page-14-cropped.png" class="full-width zoom-in"></a>
+<a href="/assets/images/The Stage and Television Today/1978-04-06-The Stage and Television Today-page-14-cropped.png"><img src="/assets/images/The Stage and Television Today/1978-04-06-The Stage and Television Today-page-14-cropped.png" class="full-width zoom-in"></a>
 </figure>
 
 <br />{: .clear}

@@ -6,7 +6,7 @@ subtitle: Cliffs Pavilion, Southend
 after: " - 17 July 1982"
 description: Starring Lena Zavaroni for three nights 15, 16 & 17 July 1982 at 6.15pm and 8.45pm
 post_description: Starring Lena Zavaroni for three nights.
-categories: [Theatres, Cliffs-Pavilion, Southend, OnThisDay15July, OnThisDay17July]
+categories: [Theatres, Cliffs Pavilion, Southend, OnThisDay15July, OnThisDay17July]
 last_modified_at: 13 july 2025
 ---
 

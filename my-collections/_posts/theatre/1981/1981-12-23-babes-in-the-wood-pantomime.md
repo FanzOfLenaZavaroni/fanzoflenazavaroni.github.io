@@ -6,7 +6,7 @@ maintitle: Babes In The Wood Pantomime
 subtitle: Alexandra Theatre, Birmingham
 description: Starring Lena Zavaroni as Maid Marion
 post_description: Starring Lena Zavaroni as Maid Marion.
-categories: [Theatre-Alexandra-Theatre, Birmingham, OnThisDay23December]
+categories: [Theatre Alexandra Theatre, Birmingham, OnThisDay23December]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Cast, Crew and Article Link</a></h2>

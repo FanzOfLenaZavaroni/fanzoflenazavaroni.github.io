@@ -6,7 +6,7 @@ maintitle: Mike Douglas Show
 subtitle: Episode 13.185
 description: Totie Fields is co-host. Guests are actor Tony Curtis, singer-actress Florence Henderson, 10-year-old Scottish singer Lena Zavaroni, Totie's husband George Johnston, diet book author Dr. Irwin Stillman, and diet patient Alison Libert.
 post_description: Totie Fields is co-host. Guests are actor Tony Curtis, singer-actress Florence Henderson, 10-year-old Scottish singer Lena Zavaroni, Totie's husband George Johnston, diet book author Dr. Irwin Stillman, and diet patient Alison Libert.
-categories: [US-Television, OnThisDay24May]
+categories: [US Television, OnThisDay24May]
 ---
 
 <figure class="fig3">

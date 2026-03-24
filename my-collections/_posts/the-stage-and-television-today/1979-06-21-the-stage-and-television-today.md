@@ -5,7 +5,7 @@ maintitle: The Stage and Television Today
 subtitle: JICTAR audience ratings produced by AGB, featuring Lena Zavaroni among the programmes
 description: JICTAR ratings compiled by AGB from June 1979, with Lena Zavaroni and Music among the listed shows
 post_description: Audience ratings compiled by AGB for JICTAR, highlighting Lena Zavaroni’s television presence during the week of 4–10 June 1979
-categories: [The-Stage-and-Television-Today, OnThisDay21June]
+categories: [The Stage and Television Today, OnThisDay21June]
 ---
 
 <figure class="fig3">

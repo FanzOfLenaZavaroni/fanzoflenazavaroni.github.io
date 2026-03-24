@@ -5,7 +5,7 @@ maintitle: All Star Gala Variety Show
 subtitle: Wimbledon Theatre
 description: Wimbledon Theatre.
 post_description: Wimbledon Theatre with a full bill of well-known variety performers.
-categories: [Theatres-Wimbledon-Theatre, Wimbledon, OnThisDay9February]
+categories: [Theatres Wimbledon Theatre, Wimbledon, OnThisDay9February]
 last_modified_at: 8 February 2026
 ---
 

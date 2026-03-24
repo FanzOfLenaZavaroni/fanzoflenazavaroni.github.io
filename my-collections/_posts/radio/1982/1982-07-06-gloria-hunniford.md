@@ -5,7 +5,7 @@ maintitle: Gloria Hunniford On BBC Radio 2
 subtitle: with Guest Lena Zavaroni
 description: With Guest Lena Zavaroni
 post_description: With Guest Lena Zavaroni
-categories: [BBC-Radio-2, Gloria-Hunniford, OnThisDay6July]
+categories: [BBC Radio 2, Gloria Hunniford, OnThisDay6July]
 last_modified_at: 4 July 2025
 ---
 

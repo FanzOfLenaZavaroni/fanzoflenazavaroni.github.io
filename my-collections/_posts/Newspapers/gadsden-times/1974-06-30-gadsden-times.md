@@ -5,7 +5,7 @@ maintitle: The Gadsden Times
 subtitle:
 description: A profile of Lena Zavaroni, the 10-year-old Scottish singing sensation, during her U.S. tour in 1974.
 post_description: A profile of Lena Zavaroni, the 10-year-old Scottish singing sensation, during her U.S. tour in 1974.
-categories: [Newspaper-GadsdenTimes, OnThisDay30June]
+categories: [Newspaper GadsdenTimes, OnThisDay30June]
 last_modified_at: 27 June 2025
 ---
 

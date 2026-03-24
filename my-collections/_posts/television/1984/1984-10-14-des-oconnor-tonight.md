@@ -9,7 +9,7 @@ description: Lena Zavaroni returns from a two year break to perform a live versi
 media: Thames Television
 post_description: Filmed at Thames Television Studios in London, England.
 image: /assets/images/newspapers/0FFO-1984-OCT16-035.png
-categories: [Television-Thames-Television, Des-O'Connor, OnThisDay14October, OnThisDay16October]
+categories: [Television Thames Television, Des O'Connor, OnThisDay14October, OnThisDay16October]
 ---
 
 <figure class="fig3">

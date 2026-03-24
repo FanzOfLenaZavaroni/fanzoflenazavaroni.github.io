@@ -6,7 +6,7 @@ subtitle: Scottish Television
 description: The pre-recorded sequence is used on the live show at 13 minutes to midnight.
 post_description: The pre-recorded sequence is used on the live show at 13 minutes to midnight.
 image: /assets/images/STV/Auld.jpg
-categories: [Television-Scottish-Television-(STV), OnThisDay21November]
+categories: [Television Scottish Television (STV), OnThisDay21November]
 last_modified_at: 20 November 2025
 ---
 

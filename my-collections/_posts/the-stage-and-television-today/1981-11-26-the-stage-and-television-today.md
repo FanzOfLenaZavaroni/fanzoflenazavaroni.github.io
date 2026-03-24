@@ -5,7 +5,7 @@ maintitle: The Stage and Television Today
 subtitle: News In Brief - Lena Zavaroni
 description: Article on the first annual luncheon of the Lena Zavaroni Appreciation Society at The Imperial Hotel, Blackpool.
 post_description: Article on the first annual luncheon of the Lena Zavaroni Appreciation Society at The Imperial Hotel, Blackpool.
-categories: [The-Stage-and-Television-Today, OnThisDay26November]
+categories: [The Stage and Television Today, OnThisDay26November]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Fair Use Summary</a></h2>

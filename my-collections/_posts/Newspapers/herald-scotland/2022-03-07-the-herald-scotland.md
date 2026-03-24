@@ -7,7 +7,7 @@ maintitle: The Herald Scotland
 subtitle: Published an article with the tag line "Who killed Lena Zavaroni? The life and death of a child star".
 description: Published an article with the tag line "Who killed Lena Zavaroni? The life and death of a child star".
 post_description: Published an article with the tag line "Who killed Lena Zavaroni? The life and death of a child star".
-categories: [Newspaper-Herald-Scotland, OnThisDay7March]
+categories: [Newspaper Herald Scotland, OnThisDay7March]
 last_modified_at: 4 March 2026
 ---
 

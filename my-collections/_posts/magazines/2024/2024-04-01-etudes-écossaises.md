@@ -6,7 +6,7 @@ subtitle: Journal - Issue No 23
 description: "Illness beyond the Scottish National Imaginary: Anorexia and Scots-Italian Historical Trauma in Andrew O’Hagan’s Personality."
 post_description: "Illness beyond the Scottish National Imaginary: Anorexia and Scots-Italian Historical Trauma in Andrew O’Hagan’s Personality."
 image: /assets/images/journals/2024-04-01-etudes-écossaises.png
-categories: [Journals, Études-Écossaises, Andrew-O'Hagan, Anorexia, Historical-Trauma, Scottish-Italian, OnThisDay1April]
+categories: [Journals, Études Écossaises, Andrew O'Hagan, Anorexia, Historical Trauma, Scottish Italian, OnThisDay1April]
 last_modified_at: 31 March 2024
 ---
 

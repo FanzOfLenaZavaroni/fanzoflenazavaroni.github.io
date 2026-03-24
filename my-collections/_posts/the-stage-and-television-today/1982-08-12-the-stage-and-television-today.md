@@ -6,22 +6,22 @@ subtitle: Featured a full page colour advertisement from the White Rock Pavilion
 description: Featured a full page colour advertisement from the White Rock Pavilion, thanking Lena and all of the other acts who appeared in the summer season shows that year. The advertisement contained a large colour photo of Lena in her stage costume.
 media: Newspaper
 post_description: Featured a full page colour advertisement from the White Rock Pavilion, thanking Lena and all of the other acts who appeared in the summer season shows that year. The advertisement contained a large colour photo of Lena in her stage costume.
-image: /assets/images/the-stage-and-television-today/1982-08-12-the-stage-and-television-today-fc.png
-categories: [The-Stage-and-Television-Today, OnThisDay12August]
+image: /assets/images/The Stage and Television Today/1982-08-12-The Stage and Television Today-fc.png
+categories: [The Stage and Television Today, OnThisDay12August]
 ---
 
 <figure class="fig1">
 <figcaption>
 <h2 id="front-cover"><a href="#front-cover">Front Cover</a></h2>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1982-08-12-the-stage-and-television-today-fc.png"><img src="/assets/images/the-stage-and-television-today/1982-08-12-the-stage-and-television-today-fc.png" class="full-width zoom-in"></a>
+<a href="/assets/images/The Stage and Television Today/1982-08-12-The Stage and Television Today-fc.png"><img src="/assets/images/The Stage and Television Today/1982-08-12-The Stage and Television Today-fc.png" class="full-width zoom-in"></a>
 </figure>
 
 <figure class="fig2">
 <figcaption>
 <h2 id="back-cover"><a href="#back-cover">Back Cover</a></h2>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1982-08-12-the-stage-and-television-today-colour.png"><img src="/assets/images/the-stage-and-television-today/1982-08-12-the-stage-and-television-today-colour.png" class="full-width zoom-in"></a>
+<a href="/assets/images/The Stage and Television Today/1982-08-12-The Stage and Television Today-colour.png"><img src="/assets/images/The Stage and Television Today/1982-08-12-The Stage and Television Today-colour.png" class="full-width zoom-in"></a>
 </figure>
 
 {: .clear}
@@ -30,7 +30,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay12August]
 <figcaption>
 <h2 id="page-82"><a href="#page-82">Page 82</a></h2>
 </figcaption>
-<a href="/assets/images/the-stage-and-television-today/1982-08-12-the-stage-and-television-today-B&W.png"><img src="/assets/images/the-stage-and-television-today/1982-08-12-the-stage-and-television-today-B&W.png" class="full-width zoom-in"></a>
+<a href="/assets/images/The Stage and Television Today/1982-08-12-The Stage and Television Today-B&W.png"><img src="/assets/images/The Stage and Television Today/1982-08-12-The Stage and Television Today-B&W.png" class="full-width zoom-in"></a>
 <figcaption>
 <cite>The section of the page related to Lena Zavaroni.</cite>
 <br />

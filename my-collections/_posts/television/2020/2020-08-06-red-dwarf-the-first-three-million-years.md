@@ -6,7 +6,7 @@ subtitle: The First Three Million Years
 description: The First Three Million Years - In episode 1 of the documentary a short clip of Lena Zavaroni is shown.
 post_description: The First Three Million Years - In episode 1 of the documentary a short clip of Lena Zavaroni is shown.
 image: /assets/images/dave/2020-08-06-red-dwarf-the-first-three-million-years.jpg
-categories: [Dave, Red-Dwarf, OnThisDay6August]
+categories: [Dave, Red Dwarf, OnThisDay6August]
 last_modified_at: 4 August 2023
 ---
 

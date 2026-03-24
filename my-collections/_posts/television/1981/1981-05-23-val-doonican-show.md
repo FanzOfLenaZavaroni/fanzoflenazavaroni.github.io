@@ -6,7 +6,7 @@ subtitle: Episode 5.7
 description: Starring Val Doonican with special guests Lena Zavaroni Keith Harris with Orville and introducing Canadian Brass, The Saturday Singers featuring Tracey Miller.
 post_description: Starring Val Doonican with special guests Lena Zavaroni Keith Harris with Orville and introducing Canadian Brass, The Saturday Singers featuring Tracey Miller.
 image: /assets/images/BBC/1981-05-23-the-val-doonican-music-show.png
-categories: [BBC-One, OnThisDay23May]
+categories: [BBC One, OnThisDay23May]
 ---
 
 <figure class="fig3">

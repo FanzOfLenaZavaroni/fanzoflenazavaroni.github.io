@@ -6,7 +6,7 @@ subtitle: Spa Theatre, Bridlington
 after: " - 8 September 1979"
 description: The Spa Theatre, Bridlington.
 post_description: The Spa Theatre, Bridlington.
-categories: [Theatre-Spa-Theatre, Bridlington, The-Lena-Zavaroni-Show, OnThisDay5July, OnThisDay8September]
+categories: [Theatre Spa Theatre, Bridlington, The Lena Zavaroni Show, OnThisDay5July, OnThisDay8September]
 last_modified_at: 8 July 2024
 ---
 

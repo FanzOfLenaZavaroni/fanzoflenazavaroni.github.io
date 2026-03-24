@@ -5,7 +5,7 @@ maintitle: Last Will And Testament
 subtitle: Lena Zavaroni completed, signed and had her will witnessed
 description: Lena Zavaroni completed, signed and had her will witnessed.
 post_description: Lena Zavaroni completed, signed and had her will witnessed.
-categories: [Public-Records, Will-And-Probate, OnThisDay19August]
+categories: [Public Records, Will And Probate, OnThisDay19August]
 ---
 
 <figure class="fig3">

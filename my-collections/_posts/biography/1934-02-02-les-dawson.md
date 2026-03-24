@@ -11,7 +11,7 @@ description: Les Dawson was an English comedian, actor, writer, and presenter, w
 post_description: He was an English comedian, actor, writer, and presenter, who is best remembered for his deadpan style.
 image: /assets/images/on-this-day/les-dawson.webp
 image-caption: Les Dawson
-categories: [Biography, Les-Dawson, OnThisDay2February, OnThisDay10June]
+categories: [Biography, Les Dawson, OnThisDay2February, OnThisDay10June]
 last_modified_at: 23 December 2023
 ---
 

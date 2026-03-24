@@ -11,7 +11,7 @@ description: Harold Fielding was one of Britain’s foremost theatrical producer
 post_description: 4 December 1916 - 27 September 2003
 image: /assets/images/harold-fielding.jpg
 image-caption: Harold Fielding
-categories: [Biography, Harold-Fielding, OnThisDay4December, OnThisDay27September]
+categories: [Biography, Harold Fielding, OnThisDay4December, OnThisDay27September]
 author: Robcamstone
 last_modified_at: 23 December 2023
 ---

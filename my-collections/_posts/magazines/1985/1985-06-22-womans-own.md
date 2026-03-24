@@ -5,7 +5,7 @@ maintitle: Woman's Own
 subtitle:
 description: An inspiring look at Lena Zavaroni’s strength and recovery—shared in her own words in a 1985 Woman’s Own interview.
 post_description: An inspiring look at Lena Zavaroni’s strength and recovery—shared in her own words in a 1985 Woman’s Own interview.
-categories: [Magazines, Woman's-Own, OnThisDay22June]
+categories: [Magazines, Woman's Own, OnThisDay22June]
 ---
 
 <figure class="fig3">

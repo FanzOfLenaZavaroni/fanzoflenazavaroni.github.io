@@ -6,7 +6,7 @@ subtitle: Lena Zavaroni & Drupi
 before: Release date unknown
 description: Lena Zavaroni & Drupi.
 post_description: Lena Zavaroni & Drupi.
-categories: [Pocztówka-Dzwiekowa, Sound-Postcard, OnThisDay11September]
+categories: [Pocztówka Dzwiekowa, Sound Postcard, OnThisDay11September]
 permalink: /discography/sound-postcards/:name
 last_modified_at: 2023-09-11T14:28:00+01:00
 ---

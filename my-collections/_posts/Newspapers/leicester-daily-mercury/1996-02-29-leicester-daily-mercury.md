@@ -5,7 +5,7 @@ maintitle: Leicester Daily Mercury
 subtitle: Lena Zavaroni In Popular Culture
 description: Curiously the gist of the Derby chants centred on Walshie being fat, which seems a harsh indictment coming from anyone other than Lena Zavaroni.
 post_description: Curiously the gist of the Derby chants centred on Walshie being fat, which seems a harsh indictment coming from anyone other than Lena Zavaroni.
-categories: [Newspaper-Leicester Daily-Mercury, Popular-Culture, OnThisDay29February]
+categories: [Newspaper Leicester Daily Mercury, Popular Culture, OnThisDay29February]
 last_modified_at: 28 February 2026
 ---
 

@@ -7,7 +7,7 @@ after: " - Repeated On 21 April 1987"
 subtitle: Season 8, Episode 7
 description: Lena Zavaroni was one of the guest on the show.
 post_description: Lena Zavaroni was one of the guest on the show.
-categories: [US-Television, OnThisDay2November, OnThisDay21April]
+categories: [US Television, OnThisDay2November, OnThisDay21April]
 ---
 
 <h2 id="infobox2"><a href="#infobox2">Cast and Crew</a></h2>

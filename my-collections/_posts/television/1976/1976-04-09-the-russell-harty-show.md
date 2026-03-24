@@ -7,7 +7,7 @@ before: Recorded on
 after: and broadcast on 9 April 1976
 description: Recorded on 25 March 1976 and broadcast on 9 April 1976
 post_description: Recorded on 25 March 1976 and broadcast on 9 April 1976
-categories: [London-Weekend-Television, OnThisDay25March, OnThisDay9April]
+categories: [London Weekend Television, OnThisDay25March, OnThisDay9April]
 last_modified_at: 22 March 2026
 ---
 

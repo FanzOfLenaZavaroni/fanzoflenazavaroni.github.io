@@ -6,7 +6,7 @@ subtitle: "Guests: Edward Woodward and Gerard Kenny"
 description: This week's guests are Edward Woodward and Gerard Kenny.
 post_description: This week's guests are Edward Woodward and Gerard Kenny.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
-categories: [BBC-One, Lena-Zavaroni-and-Music, Dougie-Squires, OnThisDay6June]
+categories: [BBC One, Lena Zavaroni and Music, Dougie Squires, OnThisDay6June]
 last_modified_at: 26 November 2023
 ---
 

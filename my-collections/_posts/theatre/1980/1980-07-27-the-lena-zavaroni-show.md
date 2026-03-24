@@ -5,7 +5,7 @@ maintitle: Summer Spectacular
 subtitle:  Festival Of Holiday Entertainment 1980
 description: Staring Lena Zavaroni with Paul Levant Tommor Pupperts, Chris Hocking Band, Dave Arnold
 post_description: Staring Lena Zavaroni with Paul Levant Tommor Pupperts, Chris Hocking Band, Dave Arnold
-categories: [Entertainment-Minehead-Summer-Festival, Minehead, OnThisDay27July]
+categories: [Entertainment Minehead Summer Festival, Minehead, OnThisDay27July]
 last_modified_at: 27 July 2925
 ---
 

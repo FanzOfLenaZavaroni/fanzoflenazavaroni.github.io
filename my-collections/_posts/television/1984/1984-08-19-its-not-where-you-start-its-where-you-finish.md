@@ -7,7 +7,7 @@ maintitle: It's Not Where You Start ... It's Where You Finish!
 subtitle: Documentary on the stage school where Lena Zavaroni and Bonnie Langford Started
 description: Documentary on the stage school where Lena Zavaroni and Bonnie Langford Started
 post_description: Documentary on the stage school where Lena Zavaroni and Bonnie Langford Started.
-categories: [Television-Tyne-Tees-Television, Bonnie-Langford, OnThisDay19August, OnThisDay3March]
+categories: [Tyne Tees Television, Bonnie Langford, OnThisDay19August, OnThisDay3March]
 last_modified_at: 2 March 2024
 ---
 

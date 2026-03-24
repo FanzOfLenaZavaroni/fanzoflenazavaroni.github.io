@@ -5,7 +5,7 @@ maintitle: The Sunday Concert At The Winter Gardens, Margate
 subtitle: Starring Lena Zavaroni and Pam Ayres
 description: Starring Lena Zavaroni and Pam Ayres.
 post_description: Lena Zavaroni and Pam Ayres.
-categories: [Theatres, Winter-Gardens, Margate, The-Lena-Zavaroni-Show, OnThisDay29August]
+categories: [Theatres, Winter Gardens, Margate, The Lena Zavaroni Show, OnThisDay29August]
 ---
 
 <figure class="fig3">

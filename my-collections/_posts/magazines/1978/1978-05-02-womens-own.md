@@ -5,7 +5,7 @@ maintitle: Women's Own
 subtitle: Magazine
 description: After all the problems and heartache, Lena Zavaroni is happy, in love &#8212; and eating heartily again!
 post_description: After all the problems and heartache, Lena Zavaroni is happy, in love &#8212; and eating heartily again!
-categories: [Magazine-Women's-Own, OnThisDay2May]
+categories: [Magazine Women's Own, OnThisDay2May]
 ---
 
 <figure class="fig3">

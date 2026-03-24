@@ -5,7 +5,7 @@ maintitle: Pocztówka Dźwiękowa
 subtitle: Featuring Lena Zavaroni.
 description: Featuring Lena Zavaroni.
 post_description: Featuring Lena Zavaroni.
-categories: [Discography, Sound-Postcards]
+categories: [Discography, Sound Postcards]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Pocztówka dźwiękowa</a></h2>

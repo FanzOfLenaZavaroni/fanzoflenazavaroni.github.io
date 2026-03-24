@@ -5,7 +5,7 @@ maintitle: "Hughie Green: The Rise & Fall of Mr Saturday Night"
 subtitle: The story of one of the most successful and ruthless personalities in the history of British TV. From the creation of the modern talent show to the revelation he fathered Paula Yates, a look at the life and career of Hughie Green.
 description: The story of one of the most successful and ruthless personalities in the history of British TV. From the creation of the modern talent show to the revelation he fathered Paula Yates, a look at the life and career of Hughie Green.
 post_description: The story of one of the most successful and ruthless personalities in the history of British TV. From the creation of the modern talent show to the revelation he fathered Paula Yates, a look at the life and career of Hughie Green.
-categories: [Channel-5, Hughie-Green, Bonnie-Langford, OnThisDay11March]
+categories: [Channel 5, Hughie Green, Bonnie Langford, OnThisDay11March]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">The programme is available on My5 until 31 December 2027</a></h2>

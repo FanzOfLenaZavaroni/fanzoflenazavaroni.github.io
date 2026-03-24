@@ -5,7 +5,7 @@ maintitle: The Stage and Television Today
 subtitle: Big bill, longer show for last OK
 description: Featured an article on the final Opportunity Knocks for Thames Television.
 post_description: Featured an article on the final Opportunity Knocks for Thames Television.
-categories: [The-Stage-and-Television-Today, OnThisDay2March]
+categories: [The Stage and Television Today, OnThisDay2March]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Summary</a></h2>

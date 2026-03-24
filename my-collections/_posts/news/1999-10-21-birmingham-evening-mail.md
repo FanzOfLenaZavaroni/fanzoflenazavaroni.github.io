@@ -5,7 +5,7 @@ maintitle: Birmingham Evening Mail (England)
 subtitle: MY AGONY OVER LENA; Memories Force Best Pal from Home
 description: MY AGONY OVER LENA; Memories Force Best Pal from Home.
 post_description: MY AGONY OVER LENA; Memories Force Best Pal from Home.
-categories: [Newspaper-Birmingham-Evening-Mail, OnThisDay21October]
+categories: [Newspaper Birmingham Evening Mail, OnThisDay21October]
 ---
 
 > LENA Zavaroni's best friend has been staying in cheap hotels across Birmingham since the tragic singer's death because she cannot bear to face her memories at home.

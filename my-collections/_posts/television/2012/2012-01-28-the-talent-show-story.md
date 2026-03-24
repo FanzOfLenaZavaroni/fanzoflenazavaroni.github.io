@@ -5,7 +5,7 @@ maintitle: The Talent Show Story
 subtitle: Episode 4
 description: Episode 4 had a short segment looked at Lena's rise to stardom and subsequent decline.
 post_description: Episode 4 had a short segment looked at Lena's rise to stardom and subsequent decline.
-categories: [ITV-Shiver, ITV-Thames, OnThisDay28January]
+categories: [ITV Shiver, ITV Thames, OnThisDay28January]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Cast</a></h2>

@@ -5,7 +5,7 @@ maintitle: Tom Browne With The Top Twenty
 subtitle: Lena Zavaroni's single Ma! (He’s Making Eyes At Me) moved down the charts from number 14 to number 17
 description: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the top 20).
 post_description: BBC Radio 1 Medium Wave (BBC Radio 2 VHF joined the programme for the top 20).
-categories: [BBC-Radio-1, BBC-Radio-2, Tom-Browne, OnThisDay24March]
+categories: [BBC Radio 1, BBC Radio 2, Tom Browne, OnThisDay24March]
 last_modified_at: 2 March 2026
 ---
 

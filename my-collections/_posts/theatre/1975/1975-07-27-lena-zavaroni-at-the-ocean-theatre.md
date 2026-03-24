@@ -5,7 +5,7 @@ maintitle: The Ocean Theatre, Clacton Pier, Claton-on-sea
 subtitle: Starring Lena Zavaroni
 description: Starring Lena Zavaroni
 post_description: Starring Lena Zavaroni
-categories: [Theatre-The-Ocean-Theatre, OnThisDay27July]
+categories: [Theatre The Ocean Theatre, OnThisDay27July]
 last_modified_at: 27 July 2925
 ---
 

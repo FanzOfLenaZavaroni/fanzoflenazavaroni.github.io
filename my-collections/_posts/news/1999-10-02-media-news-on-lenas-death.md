@@ -5,7 +5,7 @@ maintitle: The Media Reports On The Death Of Lena Zavaroni Started
 subtitle: It would be impossible to list every report made by the media so I have only added a few.
 description: It would be impossible to list every report made by the media so I have only added a few.
 post_description: It would be impossible to list every report made by the media so I have only added a few.
-categories: [BBC-News-UK, BBC-News-Entertainment, OnThisDay2October]
+categories: [BBC News UK, BBC News Entertainment, OnThisDay2October]
 ---
 
 ### 2 October 1999

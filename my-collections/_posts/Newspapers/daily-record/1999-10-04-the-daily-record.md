@@ -6,7 +6,7 @@ subtitle: Lena Was Going to Be a Bride Again
 description: Lena Was Going to Be a Bride Again.
 media: Newspaper
 post_description: Lena Was Going to Be a Bride Again.
-categories: [Newspaper-Daily-Record, Glasgow, Scotland, OnThisDay4October]
+categories: [Newspaper Daily Record, Glasgow, Scotland, OnThisDay4October]
 ---
 
 <figure class="fig3">

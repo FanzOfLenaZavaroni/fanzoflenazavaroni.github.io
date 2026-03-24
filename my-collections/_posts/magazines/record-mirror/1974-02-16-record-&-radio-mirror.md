@@ -5,7 +5,7 @@ maintitle: Record and Radio Mirror
 subtitle: Magazine
 description: Page 2 has the chat positions for the Top 50 Singles and Albums plus it comments on Lena in the Chart Chatter side section.
 post_description: Page 2 has the chat positions for The top 50 Singles and Albums plus it comments on Lena in the Chart Chatter section, describing her as an incredible singer given her age.
-categories: [Magazine- Record-and-Radio-Mirror, OnThisDay16February]
+categories: [Magazine  Record and Radio Mirror, OnThisDay16February]
 last_modified_at: 11 February 2026
 ---
 

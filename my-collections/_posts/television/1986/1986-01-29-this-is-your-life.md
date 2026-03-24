@@ -5,7 +5,7 @@ maintitle: This Is Your Life
 subtitle: "Guest of Honour: Bonnie Langford"
 description: Lena Zavaroni appears on the show to pay tribute to Bonnie Langford, and they reminisce about working together. A short clip of their TV show &quot;Lena and Bonnie&quot; is shown.
 post_description: Lena Zavaroni appears on the show to pay tribute to Bonnie Langford, and they reminisce about working together. A short clip of their TV show &quot;Lena and Bonnie&quot; is shown.
-categories: [Granada-Television, Bonnie-Langford, OnThisDay29January]
+categories: [Granada Television, Bonnie Langford, OnThisDay29January]
 last_modified_at: 26 January 20246
 ---
 

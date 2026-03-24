@@ -6,8 +6,7 @@ subtitle: Star Awards 1981
 description: Noel Edmonds hosts a star-studded show together with John Craven, Keith Chegwin and Maggie Philbm. Find out who's won the Eric awards for the favourite man and favourite lady on TV.
 media: BBC One
 post_description: Noel Edmonds hosts a star-studded show together with John Craven, Keith Chegwin and Maggie Philbm. Find out who's won the Eric awards for the favourite man and favourite lady on TV.
-image: http://img.youtube.com/vi/4eHuH65qEX4/hqdefault.jpg
-categories: [BBC-One, Multi-Coloured-Swap-Shop, OnThisDay17April]
+categories: [BBC One, Multi Coloured Swap Shop, OnThisDay17April]
 ---
 
 <table>

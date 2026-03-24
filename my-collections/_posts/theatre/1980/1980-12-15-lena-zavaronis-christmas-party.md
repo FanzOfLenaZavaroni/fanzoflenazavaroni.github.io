@@ -5,7 +5,7 @@ maintitle: Lena Zavaroni's Christmas Party
 subtitle: Edinburgh Playhouse, Edinburgh
 description: Edinburgh Playhouse, Edinburgh (15 December 1980 for three weeks).
 post_description: Edinburgh Playhouse, Edinburgh (15 December 1980 for three weeks).
-categories: [Theatres, Edinburgh-Playhouse, Edinburgh, OnThisDay15December]
+categories: [Theatres, Edinburgh Playhouse, Edinburgh, OnThisDay15December]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Turns</a></h2>

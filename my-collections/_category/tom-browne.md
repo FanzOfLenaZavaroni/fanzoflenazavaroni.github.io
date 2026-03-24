@@ -5,7 +5,7 @@ maintitle: "Category: Tom Browne"
 ---
 
 <ul>
-{% for post in site.categories.Tom-Browne reversed %}
+{% for post in site.categories["Tom Browne"] reversed %}
 {% if post.url %}
 <li>
 <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a>

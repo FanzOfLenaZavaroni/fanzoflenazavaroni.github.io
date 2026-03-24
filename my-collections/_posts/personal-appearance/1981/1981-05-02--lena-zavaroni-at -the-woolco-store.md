@@ -5,7 +5,7 @@ maintitle: Lena signed copies of Roses & Rainbows at the Woolco store, Hatfield
 subtitle: The Hemel Hempstead Echo photographed her signing the plaster cast of eight year old Donna Jerome from St Albans.
 description: The Hemel Hempstead Echo photographed her signing the plaster cast of eight year old Donna Jerome from St Albans.
 post_description: The Hemel Hempstead Echo photographed her signing the plaster cast of eight year old Donna Jerome from St Albans.
-categories: [Personal-Appearances, OnThisDay2May]
+categories: [Personal Appearances, OnThisDay2May]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Roses And Rainbows</a></h2>

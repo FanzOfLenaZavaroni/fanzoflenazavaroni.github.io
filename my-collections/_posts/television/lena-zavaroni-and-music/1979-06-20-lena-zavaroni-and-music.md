@@ -6,7 +6,7 @@ subtitle: "Guests: Michel Legrand, Wayne Sleep and Berni Flint"
 description: This week's guests are Michel Legrand, Wayne Sleep and Berni Flint.
 post_description: This week's guests are Michel Legrand, Wayne Sleep and Berni Flint.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
-categories: [BBC-One, Lena-Zavaroni-and-Music, Dougie-Squires, OnThisDay20June]
+categories: [BBC One, Lena Zavaroni and Music, Dougie Squires, OnThisDay20June]
 last_modified_at: 26 November 2023
 ---
 

@@ -5,7 +5,7 @@ maintitle: The Birthday Show
 subtitle: 21 Years Of Variety From Thames Television
 description: Edward Woodward looks back at 21 years of Thames Television through a montage of old clips. An excerpt of Lena singing I Should Have Listened To Mama from the final episode of Opportunity Knocks is shown.
 post_description: Edward Woodward looks back at 21 years of Thames Television through a montage of old clips. An excerpt of Lena singing I Should Have Listened To Mama from the final episode of Opportunity Knocks is shown.
-categories: [Television-Thames-Television, OnThisDay27July]
+categories: [Television Thames Television, OnThisDay27July]
 last_modified_at: 26 July 2025
 ---
 

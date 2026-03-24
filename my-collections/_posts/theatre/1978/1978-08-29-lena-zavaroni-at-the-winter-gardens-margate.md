@@ -5,7 +5,7 @@ maintitle: The Winter Gardens, Margate
 subtitle: Starring Lena Zavaroni
 description: Starring Lena Zavaroni.
 post_description: Starring Lena Zavaroni.
-categories: [Theatres, Winter-Gardens, Margate, The-Lena-Zavaroni-Show, OnThisDay29August]
+categories: [Theatres, Winter Gardens, Margate, The Lena Zavaroni Show, OnThisDay29August]
 ---
 
 <figure class="fig3">

@@ -5,7 +5,7 @@ maintitle: Media Integrity Over Fandom Misuse
 subtitle: Images were removed due to repeated content theft, supported by fan sites that disregard ethical boundaries.
 description: Images were removed due to repeated content theft, supported by fan sites that disregard ethical boundaries.
 post_description: Images were removed due to repeated content theft, supported by fan sites that disregard ethical boundaries.
-categories: [Announcements, Media-Integrity]
+categories: [Announcements, Media Integrity]
 ---
 
 <p>Many who claim to be fans reduce Lena Zavaroni to a product, ignoring the real person behind the public image and all that she endured.</p>

@@ -6,7 +6,7 @@ subtitle: France Release on the newly formed Jonathan Label
 year: 1978
 description:
 post_description:
-categories: [Discography-Singles, Mike-Hurst]
+categories: [Discography Singles, Mike Hurst]
 last_modified_at: 17 March 2026
 ---
 

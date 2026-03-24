@@ -6,7 +6,7 @@ subtitle: Starring Lena Zavaroni
 after: " at 6.10pm and 8.30pm"
 description: Starring Lena Zavaroni.
 post_description: Starring Lena Zavaroni.
-categories: [Theatres, Winter-Gardens, Bournemouth, The-Lena-Zavaroni-Show, OnThisDay31August]
+categories: [Theatres, Winter Gardens, Bournemouth, The Lena Zavaroni Show, OnThisDay31August]
 ---
 
 <figure class="fig3">

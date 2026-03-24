@@ -7,7 +7,7 @@ before: "Recorded On "
 after: " for broadcast on 25 July 1981"
 description: Lena presents the show and performs Roses And Rainbows and covers Bobby Darin’s Multiplication.
 post_description: Lena presents the show and performs Roses And Rainbows and covers Bobby Darin’s Multiplication.
-categories: [BBC-One, Summertime-Special, Brighton, OnThisDay10July, OnThisDay25July]
+categories: [BBC One, Summertime Special, Brighton, OnThisDay10July, OnThisDay25July]
 last_modified_at: 23 December 2023
 ---
 

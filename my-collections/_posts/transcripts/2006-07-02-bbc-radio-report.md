@@ -5,7 +5,7 @@ maintitle: Julian Worricker
 subtitle: Including after 11.00 the Five Live Report Mind Games - Scientology versus Psychiatry
 description: This morning the Five Live Report goes undercover to investigate how, from the London bombings to Ground Zero, Volunteer Ministers from Scientology travel the world providing what they claim is effective help in times of peril. a reference is made to lobotomy performed on Lena Zavaroni.
 post_description: This morning the Five Live Report goes undercover to investigate how, from the London bombings to Ground Zero, Volunteer Ministers from Scientology travel the world providing what they claim is effective help in times of peril. a reference is made to lobotomy performed on Lena Zavaroni.
-categories: [BBC-Radio-5, Transcripts, Deleted-Online-Articles, OnThisDay2July]
+categories: [BBC Radio 5, Transcripts, Deleted Online Articles, OnThisDay2July]
 last_modified_at: 1 July 2025
 ---
 

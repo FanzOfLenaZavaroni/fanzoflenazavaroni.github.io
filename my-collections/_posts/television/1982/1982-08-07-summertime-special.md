@@ -5,7 +5,7 @@ maintitle: Summertime Special - Eastbourne
 subtitle: Episode 2.3
 description: Lena Zavaroni is the presenter for the show as well as preforming in the show.
 post_description: Lena Zavaroni is the presenter for the show as well as preforming in the show.
-categories: [BBC-One, OnThisDay7August]
+categories: [BBC One, OnThisDay7August]
 ---
 
 <figure class="fig3">

@@ -6,7 +6,7 @@ subtitle: Germany Release on the Intercord record label
 year: 1976
 description: Germany Release on the Intercord record label.
 post_description: Germany Release on the Intercord record label.
-categories: [Discography-Singles]
+categories: [Discography Singles]
 permalink: /discography/singles/:name
 last_modified_at: 20 March 2024
 ---

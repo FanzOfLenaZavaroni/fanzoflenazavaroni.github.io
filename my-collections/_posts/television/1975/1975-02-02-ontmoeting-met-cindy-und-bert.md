@@ -7,7 +7,7 @@ before: Original Broadcast
 after: ", Repeat Broadcast 10 March 1976"
 description: "Guests: Donna Hightower, Lena Zavaroni, Freddy Breck and Anderen."
 post_description: "Guests: Donna Hightower, Lena Zavaroni, Freddy Breck and Anderen."
-categories: [German-TV, Meeting-with-Cindy-and-Bert, OnThisDay2February, OnThisDay10March]
+categories: [German TV, Meeting with Cindy and Bert, OnThisDay2February, OnThisDay10March]
 last_modified_at: 2 March 2026
 ---
 

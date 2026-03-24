@@ -6,7 +6,7 @@ maintitle: "BBC Radio 4: Book of the Week"
 subtitle: Broken Greek, by Pete Paphides
 description: An autobiographical story of chip shops and pop songs from music journalist Pete Paphides.
 post_description: An autobiographical story of chip shops and pop songs from music journalist Pete Paphides.
-categories: [BBC-Radio-4, OnThisDay4May, OnThisDay9May]
+categories: [BBC Radio 4, OnThisDay4May, OnThisDay9May]
 ---
 
 <h2 id="infobox"><a href="#infobox">Details</a></h2>

@@ -5,7 +5,7 @@ maintitle: The Media Reports On The Inquest Into The Death Of Lena Zavaroni
 subtitle: 
 description: Currently an article from the BBC and one by The Independent Television News (ITN).
 post_description: Currently an article from the BBC and one by The Independent Television News (ITN).
-categories: [BBC-News-UK, BBC-News-Entertainment, OnThisDay8December]
+categories: [BBC News UK, BBC News Entertainment, OnThisDay8December]
 last_modified_at: 28 November 2023
 ---
 

@@ -7,7 +7,7 @@ before: "Opening Night "
 after: " - 13 September 1986 Closing Night"
 description: Lena Zavaroni co-starred with comedian Jimmy Cricket in a Summer Season variety show at The Princess Theatre, Torquay.
 post_description: Lena Zavaroni co-starred with comedian Jimmy Cricket in a Summer Season variety show at The Princess Theatre, Torquay.
-categories: [Theatre-Princess-Theatre, Torquay, OnThisDay5July, OnThisDay13September]
+categories: [Theatre Princess Theatre, Torquay, OnThisDay5July, OnThisDay13September]
 last_modified_at: 19 July 2025
 ---
 

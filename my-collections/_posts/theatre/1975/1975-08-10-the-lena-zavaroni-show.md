@@ -5,7 +5,7 @@ maintitle: Lena Zavaroni at The Festival Theatre
 subtitle: Paignton
 description: Lena Zavaroni at The Festival Theatre, Paignton.
 post_description: Details Currently Unknown.
-categories: [Theatre-Festival-Theatre, Paignton, OnThisDay10August]
+categories: [Theatre Festival Theatre, Paignton, OnThisDay10August]
 last_modified_at: 7 August 2025
 ---
 

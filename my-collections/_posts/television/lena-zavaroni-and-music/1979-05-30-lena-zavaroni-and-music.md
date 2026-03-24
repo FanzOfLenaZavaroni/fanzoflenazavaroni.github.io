@@ -6,7 +6,7 @@ subtitle: "Guests: Grace Kennedy, Adrian Hedley, Guy Kent and Johnny Hutch and t
 description: This week's guests are Grace Kennedy, Adrian Hedley, Guy Kent and Johnny Hutch and the Comedy Hollywood .
 post_description: This week's guests are Grace Kennedy, Adrian Hedley, Guy Kent and Johnny Hutch and the Comedy Hollywood .
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
-categories: [BBC-One, Lena-Zavaroni-and-Music, Dougie-Squires, OnThisDay30May]
+categories: [BBC One, Lena Zavaroni and Music, Dougie Squires, OnThisDay30May]
 last_modified_at: 26 November 2023
 ---
 

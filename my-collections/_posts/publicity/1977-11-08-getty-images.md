@@ -6,7 +6,7 @@ subtitle: Publicity Photo
 description: Scottish singer Lena Zavaroni (1963-1999) posed in London on 22nd July 1977. (Photo by United News/Popperfoto via Getty Images). As always the stock photos have no details of any value, It's so disappointing that the stories behind the photos are lost because for some unknown Reason the media agencies seem to think the stories are unimportant.
 post_description: Scottish singer Lena Zavaroni (1963-1999) posed in London on 22nd July 1977. (Photo by United News/Popperfoto via Getty Images). As always the stock photos have no details of any value, It's so disappointing that the stories behind the photos are lost because for some unknown Reason the media agencies seem to think the stories are unimportant.
 image: /assets/images/publicity/1977-11-08-getty-images-200x200.png
-categories: [Publicity-Evening-Standard, OnThisDay8November]
+categories: [Publicity Evening Standard, OnThisDay8November]
 ---
 
 <a id='-LwCCPTdRh11HnBFVj8Deg' class='gie-single' href='https://www.gettyimages.com/detail/957728796' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'-LwCCPTdRh11HnBFVj8Deg',sig:'_t_wCR0fc7EsrzOmk7ORalvex-I2EhLvTNaCPaOh3o8=',w:'594px',h:'393px',items:'957728796',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>

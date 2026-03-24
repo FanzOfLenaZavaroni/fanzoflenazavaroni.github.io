@@ -7,7 +7,7 @@ before: "Recorded On "
 after: " for broadcast on BBC Radio 2 on the 2 October 1976"
 description: Recorded on 1 October 1976 for broadcast on BBC Radio 2 on the 2 October 1976.
 post_description: The Grosse Sendesaal, West Berlin.
-categories: [BBC-Radio-2, OnThisDay1October, OnThisDay2October]
+categories: [BBC Radio 2, OnThisDay1October, OnThisDay2October]
 last_modified_at: 10 August 2025
 ---
 

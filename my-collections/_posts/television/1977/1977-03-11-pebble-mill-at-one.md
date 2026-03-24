@@ -5,7 +5,7 @@ maintitle: Pebble Mill at One
 subtitle: BBC One
 description: Guests Lena Zavaroni, Dorothy Solomon, Gerry Cottle, Betty Cottle and Captain Universe.
 post_description: Guests Lena Zavaroni, Dorothy Solomon, Gerry Cottle, Betty Cottle and Captain Universe.
-categories: [BBC-One, OnThisDay11March]
+categories: [BBC One, OnThisDay11March]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Details</a></h2>

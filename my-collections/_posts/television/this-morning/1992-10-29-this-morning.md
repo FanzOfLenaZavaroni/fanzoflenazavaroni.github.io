@@ -5,7 +5,7 @@ maintitle: This Morning, Granada Television
 subtitle: Lena talks about her previous anorexia and her clinical depression.
 description: Lena talked about her previous anorexia and her clinical depression.
 post_description: Lena talked about her previous anorexia and her clinical depression.
-categories: [Television=Granada-Television, OnThisDay29October]
+categories: [Television=Granada Television, OnThisDay29October]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Cast</a></h2>

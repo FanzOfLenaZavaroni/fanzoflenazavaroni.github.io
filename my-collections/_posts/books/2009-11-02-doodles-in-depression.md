@@ -7,7 +7,7 @@ before: "Kindle release date "
 after: ", Apple Books release date 11 June 2011 and it's most likey Google Play's release date as well"
 description: Lorna Naomi Murray's book Doodles in Depression - An Anecdotal Text is published she makes referance to Lena Zavaroni.
 post_description: Lorna Naomi Murray's an anecdotal text is published she makes referance to Lena Zavaroni.
-categories: [Books-Lorna-Naomi-Murray, OnThisDay2November, OnThisDay11June]
+categories: [Books Lorna Naomi Murray, OnThisDay2November, OnThisDay11June]
 last_modified_at: 2 November 2025
 ---
 

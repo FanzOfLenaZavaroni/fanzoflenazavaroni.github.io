@@ -5,7 +5,7 @@ maintitle: I Should've Listened To Mama, Netherlands Release
 subtitle: Netherlands Release on the Scramble Label
 description: 
 post_description: 
-categories: [Discography Singles, Mike-Hurst]
+categories: [Discography Singles, Mike Hurst]
 permalink: /discography/singles/:name
 last_modified_at: 17 March 2026
 ---

@@ -4,7 +4,7 @@ title: My 70's TV Childhood &#124; 3 June 2025
 maintitle: My 70's TV Childhood
 description: Opportunity Knocks!
 post_description: Opportunity Knocks!
-categories: [Discography-Podcast-My-70's-TV-Childhood, OnThisDay3 June 2025]
+categories: [Discography Podcast My 70's TV Childhood, OnThisDay3 June 2025]
 tags: podcasts
 permalink: /discography/podcasts/:name
 last_modified_at: 14 August 2025

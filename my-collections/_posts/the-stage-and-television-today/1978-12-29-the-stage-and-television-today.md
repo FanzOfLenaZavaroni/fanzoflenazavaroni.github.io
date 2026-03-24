@@ -5,12 +5,12 @@ maintitle: The Stage and Television Today
 subtitle: Star billing for Lena at Spa summer show.
 description: Star billing for Lena at Spa summer show.
 post_description: Star billing for Lena at Spa summer show.
-image: /assets/images/the-stage-and-television-today/1978-12-29-the-stage-and-television-today-front-Cover.jpg
-categories: [The-Stage-and-Television-Today, OnThisDay29December]
+image: /assets/images/The Stage and Television Today/1978-12-29-The Stage and Television Today-front-Cover.jpg
+categories: [The Stage and Television Today, OnThisDay29December]
 ---
 
 <figure class="fig1">
-<a href="/assets/images/the-stage-and-television-today/1978-12-29-the-stage-and-television-today-front-Cover.jpg"><img src="/assets/images/the-stage-and-television-today/1978-12-29-the-stage-and-television-today-front-Cover.jpg" class="full-width zoom-in"/></a>
+<a href="/assets/images/The Stage and Television Today/1978-12-29-The Stage and Television Today-front-Cover.jpg"><img src="/assets/images/The Stage and Television Today/1978-12-29-The Stage and Television Today-front-Cover.jpg" class="full-width zoom-in"/></a>
 <figcaption>
 <strong>Front Cover</strong>
 <p></p>
@@ -18,7 +18,7 @@ categories: [The-Stage-and-Television-Today, OnThisDay29December]
 </figure>
 
 <figure class="fig2">
-<a href="/assets/images/the-stage-and-television-today/1978-12-29-the-stage-and-television-today-03-cropped.jpg"><img src="/assets/images/the-stage-and-television-today/1978-12-29-the-stage-and-television-today-03.jpg" class="full-width zoom-in"/></a>
+<a href="/assets/images/The Stage and Television Today/1978-12-29-The Stage and Television Today-03-cropped.jpg"><img src="/assets/images/The Stage and Television Today/1978-12-29-The Stage and Television Today-03.jpg" class="full-width zoom-in"/></a>
 <figcaption>
 <strong>Page 3</strong>
 </figcaption>

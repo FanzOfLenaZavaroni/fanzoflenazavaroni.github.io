@@ -9,7 +9,7 @@ description: 1932 - 21 May  2023
 post_description: 1932 - 21 May  2023
 image: /assets/images/newspapers/dougie-squires.jpg
 image-caption: Dougie Squires
-categories: [Biography, Dougie-Squires, OnThisDay23May]
+categories: [Biography, Dougie Squires, OnThisDay23May]
 last_modified_at: 31 January 2024
 ---
 

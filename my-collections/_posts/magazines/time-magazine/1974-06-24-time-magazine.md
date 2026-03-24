@@ -5,7 +5,7 @@ maintitle: Time
 subtitle: A Short Summary Based On The Time's Article About Lena
 description: A short item about Lena appears in Time magazine’s “People” section.
 post_description: A short item about Lena appears in Time magazine’s “People” section.
-categories: [Magazine-Time, OnThisDay24June]
+categories: [Magazine Time, OnThisDay24June]
 last_modified_at: 24 June 2025
 ---
 
