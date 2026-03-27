@@ -5,6 +5,7 @@ title: "Pioneer LaserKaraoke: Vol.302 [WKL-302]"
 maintitle: "LaserKaraoke: Vol.302 [WKL-302]"
 subtitle:  Video Sing Along
 description: Video Sing Along
+categories: [Discography Karaoke]
 last_modified_at: 15 June 2023
 ---
 

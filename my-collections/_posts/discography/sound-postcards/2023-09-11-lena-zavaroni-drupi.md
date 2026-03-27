@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Pocztówka dźwiękowa (Sound Postcard)
-maintitle: Pocztówka dźwiękowa (Sound Postcard)
-subtitle: Lena Zavaroni & Drupi
+title: Lena Zavaroni & Drupi
+maintitle: Lena Zavaroni & Drupi
+subtitle: Pocztówka dźwiękowa (Sound Postcard)
 before: Release date unknown
 description: Lena Zavaroni & Drupi.
 post_description: Lena Zavaroni & Drupi.
-categories: [Pocztówka Dzwiekowa, Sound Postcard, OnThisDay11September]
+categories: [Pocztówka Dzwiekowa, Discography Sound Postcards, OnThisDay11September]
 permalink: /discography/sound-postcards/:name
 last_modified_at: 2023-09-11T14:28:00+01:00
 ---

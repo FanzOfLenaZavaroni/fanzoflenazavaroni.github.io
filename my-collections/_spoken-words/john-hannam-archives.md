@@ -1,21 +1,13 @@
 ---
-layout: post
-year: 2010
+layout: discography
 last_modified_at: 15 June 2023
 title: John Hannam Archives Volume 1
 maintitle: John Hannam Archives Volume 1
 subtitle: Spoken Words - 2010
-image: /assets/images/spoken-words/John_hannam.jpg
+categories: [Discography Spoken Words]
 ---
 
-<figure class="fig1">
-<img src="/assets/images/spoken-words/John_hannam.jpg" class="full-width"/>
-<figcaption>
-<cite>CD Cover</cite>
-</figcaption>
-</figure>
-
-<figure class="fig2">
+<figure class="fig3">
 <figcaption>
 <table>
 <tr><th colspan="2" class="h2">Tracks</th></tr>

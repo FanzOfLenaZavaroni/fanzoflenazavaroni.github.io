@@ -5,7 +5,7 @@ title: Alle 13 Goed! Deel 7 De Hits Van Nu! &#124; 8 Track Cartridge
 maintitle: Alle 13 Goed! Deel 7 De Hits Van Nu!
 subtitle: Compilation Album
 description: "Alle 13 Goed! Deel 7 is part 7 of a large number of albums released under the title Alle 13 Goed! (en: All 13 Good!) released by Philips in the Netherlands."
-image: /assets/images/albums/1974-various-artists-alle-13-goed-deel-7-de-hits-van-nu-6-ab-8t-fc.jpg
+categories: [Discography Compilation Albums]
 last_modified_at: 8 February 2024
 ---
 

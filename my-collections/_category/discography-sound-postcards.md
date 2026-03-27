@@ -1,11 +1,11 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: BBC One"
-maintitle: "Category: BBC One"
+title: "Category: Discography Sound Postcards"
+maintitle: "Category: Discography Sound Postcards"
 ---
 
 <ul>
-{% for post in site.categories["BBC One"] reversed %}
+{% for post in site.categories["Discography Sound Postcards"] reversed %}
 {% if post.url %}
 <li>
 <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a>
