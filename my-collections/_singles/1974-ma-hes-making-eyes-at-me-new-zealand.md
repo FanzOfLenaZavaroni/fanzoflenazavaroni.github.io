@@ -1,7 +1,7 @@
 ---
 layout: discography
 title: Ma! (He's Making Eyes At Me) &#124; New Zealand Release
-maintitle: Ma! (He's Making Eyes At Me)
+maintitle: Ma! (He's Making Eyes At Me), New Zealand Release
 subtitle: Lena Zavaroni's debut single
 description: Ma! (He's Making Eyes At Me) is the debut single released by Lena Zavaroni.
 post_description: Ma! (He's Making Eyes At Me) is the debut single released by Lena Zavaroni.

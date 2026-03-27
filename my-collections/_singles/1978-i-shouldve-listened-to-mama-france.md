@@ -1,7 +1,7 @@
 ---
 layout: discography
 title: I Should've Listened To Mama
-maintitle: I Should've Listened To Mama
+maintitle: I Should've Listened To Mama, France Release
 subtitle: France Release on the newly formed Jonathan Label
 year: 1978
 description:

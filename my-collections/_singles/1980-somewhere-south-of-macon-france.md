@@ -1,9 +1,7 @@
 ---
 layout: discography
 title: Somewhere South Of Macon &#124; France Release
-maintitle: Somewhere South Of Macon
-subtitle: France Release
-more: 1980
+maintitle: Somewhere South Of Macon, France Release
 description: This is the twelveth single by Lena Zavaroni
 post_description: This is the twelveth single by Lena Zavaroni
 image: /assets/images/singles/lena-zavaroni-somewhere-south-of-macon-president.jpg
