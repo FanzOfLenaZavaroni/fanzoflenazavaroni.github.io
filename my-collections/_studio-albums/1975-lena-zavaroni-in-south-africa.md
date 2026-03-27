@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: 1975
 last_modified_at: 15 June 2023
 title: Lena Zavaroni in South Africa

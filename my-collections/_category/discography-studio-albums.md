@@ -1,11 +1,11 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Discography Singles"
-maintitle: "Category: Discography Singles"
+title: "Category: Discography Studio Albums"
+maintitle: "Category: Discography Studio Albums"
 ---
 
-{% assign full_dates = site.posts | where: "categories", "Discography Singles" %}
-{% assign partial_dates = site.singles %}
+{% assign full_dates = site.posts | where: "categories", "Discography Studio Albums" %}
+{% assign partial_dates = site.studio-albums %}
 {% assign all_items = full_dates | concat: partial_dates %}
 
 {% assign list_full = "" | split: "," %}

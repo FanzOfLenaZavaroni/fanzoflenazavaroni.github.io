@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 more: 1974
 title: Music Music Music
 maintitle: Music Music Music

@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Podcasts
 maintitle: Podcasts
 subtitle: Referencing Lena Zavaroni

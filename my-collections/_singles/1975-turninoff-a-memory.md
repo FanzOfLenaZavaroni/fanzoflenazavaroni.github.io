@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 more: 1975
 title: Turnin' Off A Memory
 maintitle: Turnin' Off A Memory

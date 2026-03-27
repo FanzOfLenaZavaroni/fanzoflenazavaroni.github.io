@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: 1991
 title: "Pioneer LaserKaraoke: Vol.302 [WKL-302]"
 maintitle: "LaserKaraoke: Vol.302 [WKL-302]"

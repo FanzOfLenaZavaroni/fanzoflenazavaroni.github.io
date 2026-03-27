@@ -1,13 +1,11 @@
 ---
 layout: discography
 title: Smile &#124; Sheet Music
-maintitle: Sheet Music
-subtitle: Smile
+maintitle: Smile
+subtitle: Sheet Music
 description: Smile
-media: Sheet Music
 post_description: Smile
-image: /assets/images/Sheetmusic/lena-zavaroni---sheet-music---smile-01.jpg
-categories: [Discography, Sheet Music]
+categories: [Discography Sheet Music]
 last_modified_at: 27 February 2024
 ---
 

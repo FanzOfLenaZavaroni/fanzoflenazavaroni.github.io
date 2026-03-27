@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 more: November 1980
 title: Will He Kiss Me Tonight
 maintitle: Will He Kiss Me Tonight

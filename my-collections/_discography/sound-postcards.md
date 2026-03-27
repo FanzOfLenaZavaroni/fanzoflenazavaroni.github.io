@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: "Pocztówka Dźwiękowa &#124; Date Posted: 11 September 2023"
 maintitle: Pocztówka Dźwiękowa
 subtitle: Featuring Lena Zavaroni.

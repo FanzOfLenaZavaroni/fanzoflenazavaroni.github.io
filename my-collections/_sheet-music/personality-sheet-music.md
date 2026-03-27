@@ -1,12 +1,11 @@
 ---
 layout: discography
 title: Personality &#124; Sheet Music
-maintitle: Sheet Music
-subtitle: Personality
+maintitle: Personality
+subtitle: Sheet Music
 description: Personality
 post_description: Personality
-image: /assets/images/Sheetmusic/lena-zavaroni---sheet-music---personality-01.jpg
-categories: [Discography, Sheet Music]
+categories: [Discography Sheet Music]
 last_modified_at: 27 February 2024
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Ma! (He's Making Eyes At Me) &#124; Japanese Version  &#124; 25 July 1974
 maintitle: Ma! (He's Making Eyes At Me), Japanese Version
 subtitle: Lena Zavaroni's Japanese-Language Version of Her debut single

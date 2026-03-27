@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: 1977
 title: HITS OF BBC AND ALASKA REC 1
 maintitle: HITS OF BBC AND ALASKA REC 1

@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: 1974
 title: Lena Zavaroni - Star For Millions
 maintitle: Lena Zavaroni - Star For Millions

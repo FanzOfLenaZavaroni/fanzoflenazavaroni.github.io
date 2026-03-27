@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Compilation Albums
 maintitle: Compilation Albums
 subtitle: List of Compilation Albums related to Lena Zavaroni.

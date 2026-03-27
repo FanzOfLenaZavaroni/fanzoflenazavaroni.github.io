@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Some Of These Days &#124; Germany Release
 maintitle: Some Of These Days, Germany Release
 subtitle: Germany Release on the Intercord record label

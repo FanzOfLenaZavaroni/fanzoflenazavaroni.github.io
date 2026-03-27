@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Pocztówka dźwiękowa (Sound Postcard)
 maintitle: Pocztówka dźwiękowa (Sound Postcard)
 subtitle: Demis Roussos & Lena Zavaroni

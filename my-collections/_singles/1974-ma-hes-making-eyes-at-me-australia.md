@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Ma! (He's Making Eyes At Me) &#124; Australia Release
 maintitle: Ma! (He's Making Eyes At Me), Australia Release
 subtitle: Lena Zavaroni's debut single

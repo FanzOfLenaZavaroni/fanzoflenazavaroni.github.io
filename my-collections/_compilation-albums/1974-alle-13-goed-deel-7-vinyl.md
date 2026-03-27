@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 before: 1974
 title: Alle 13 Goed! Deel 7 De Hits Van Nu! &#124; 12" Vinyl 33⅓ Album
 maintitle: Alle 13 Goed! Deel 7 De Hits Van Nu!

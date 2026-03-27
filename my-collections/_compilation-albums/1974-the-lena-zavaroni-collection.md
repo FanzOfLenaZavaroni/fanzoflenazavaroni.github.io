@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: 1974
 title: The Lena Zavaroni Collection
 maintitle: The Lena Zavaroni Collection

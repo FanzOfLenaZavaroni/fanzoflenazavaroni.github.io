@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Spoken Words
 maintitle: Spoken Words
 subtitle: List of Spoken Words related to Lena Zavaroni.

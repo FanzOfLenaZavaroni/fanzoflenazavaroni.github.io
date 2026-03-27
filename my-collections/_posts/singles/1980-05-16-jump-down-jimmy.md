@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: 16 May 1980
 title: Jump Down Jimmy
 maintitle: Jump Down Jimmy

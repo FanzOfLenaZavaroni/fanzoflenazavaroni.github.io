@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Ma! (He's Making Eyes At Me)
 maintitle: Ma! (He's Making Eyes At Me)
 subtitle: Studio Album - Released In The UK On 8-Track Cartridge

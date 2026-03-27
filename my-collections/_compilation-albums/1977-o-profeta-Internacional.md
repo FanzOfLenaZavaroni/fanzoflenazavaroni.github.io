@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: 1977
 title: O Profeta - Internacional
 maintitle: O Profeta - Internacional

@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: 1976
 title: 20 Golden Stars & Hits
 maintitle: 20 Golden Stars & Hits

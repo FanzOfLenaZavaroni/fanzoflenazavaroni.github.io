@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: 1974
 title: RUIDOS vol 6
 maintitle: RUIDOS vol 6

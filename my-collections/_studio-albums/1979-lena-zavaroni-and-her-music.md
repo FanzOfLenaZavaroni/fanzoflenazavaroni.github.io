@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Lena Zavaroni And Her Music
 maintitle: Lena Zavaroni And Her Music
 subtitle: Studio Album

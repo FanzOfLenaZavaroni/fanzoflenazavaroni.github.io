@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: 1974
 title: Opportunity Knocks Winners
 maintitle: Opportunity Knocks Winners

@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: April 1978
 last_modified_at: 15 June 2023
 title: Songs Are Such Good Things

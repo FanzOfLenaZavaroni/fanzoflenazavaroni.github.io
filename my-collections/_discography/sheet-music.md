@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Sheet Music
 maintitle: Sheet Music
 subtitle: List of Sheet Music related to Lena Zavaroni.

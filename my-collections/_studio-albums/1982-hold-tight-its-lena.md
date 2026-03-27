@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 last_modified_at: 15 June 2023
 title: Hold Tight, It's Lena
 maintitle: Hold Tight, It's Lena

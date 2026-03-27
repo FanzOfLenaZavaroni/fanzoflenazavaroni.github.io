@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: April 1974
 title: Ma! (He's Making Eyes At Me)
 maintitle: Ma! (He's Making Eyes At Me)

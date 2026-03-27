@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Tribute Songs
 maintitle: Tribute Songs
 subtitle: List of Tribute Songs related to Lena Zavaroni.

@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Some Of These Days &#124; Poland Release
 maintitle: Some Of These Days, Poland Release
 subtitle: Poland Release on the Polskie Nagrania „Muza” record label

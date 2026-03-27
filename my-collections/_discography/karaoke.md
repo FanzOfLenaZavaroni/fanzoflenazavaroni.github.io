@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Karaoke
 maintitle: Karaoke
 subtitle: List of Karaoke Albums related to Lena Zavaroni.

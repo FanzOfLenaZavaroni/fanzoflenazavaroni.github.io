@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Air Love &#124; Promo Release
 maintitle: Air Love, Promo Release
 subtitle: Promo Release

@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: March 1977
 last_modified_at: 15 June 2023
 title: Presenting Lena Zavaroni

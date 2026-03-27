@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Somewhere South Of Macon &#124; France Release
 maintitle: Somewhere South Of Macon, France Release
 description: This is the twelveth single by Lena Zavaroni

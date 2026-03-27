@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Studio Album
 maintitle: Studio Album
 subtitle: List of Studio Albums recorded by Lena Zavaroni.

@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Ma! (He's Making Eyes At Me)
 maintitle: Ma! (He's Making Eyes At Me)
 subtitle: Studio Album - Re-Released In The UK On 12" Vinyl, 33⅓ Album

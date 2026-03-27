@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: 1978
 title: Gala Performance
 maintitle: Gala Performance

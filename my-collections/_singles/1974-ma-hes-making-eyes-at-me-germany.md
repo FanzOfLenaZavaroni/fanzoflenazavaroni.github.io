@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Ma! (He's Making Eyes At Me) &#124; Germany Release
 maintitle: Ma! (He's Making Eyes At Me), Germany Release
 subtitle: Lena Zavaroni's debut single

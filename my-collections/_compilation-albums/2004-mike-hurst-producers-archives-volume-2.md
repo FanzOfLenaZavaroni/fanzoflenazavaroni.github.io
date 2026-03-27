@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 year: 2004
 title: Mike Hurst - Producers Archives Volume 2 1965-1984
 maintitle: Mike Hurst - Producers Archives Volume 2 1965-1984

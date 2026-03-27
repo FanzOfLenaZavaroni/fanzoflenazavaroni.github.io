@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: post
 title: Singles
 maintitle: Singles
 subtitle: List of Singles by to Lena Zavaroni.
