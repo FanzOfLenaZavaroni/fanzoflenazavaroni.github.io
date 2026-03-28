@@ -6,37 +6,33 @@ maintitle: Only A Cover Song
 subtitle: Episode 203 - Scots Do The Beatles
 description: Episode 203 - Scots Do The Beatles
 post_description: Episode 203 - Scots Do The Beatles
-categories: [Discography Podcasts, Only A Cover Song, OnThisDay30March]
+categories: [Discography Podcasts, OnThisDay30March]
 tags: podcasts
 permalink: /discography/podcasts/:name
 ---
 
-<figure class="fig3">
-<table>
-<tr id="infobox1"><th colspan="3">Podcast Spoken In English</th></tr>
-<tr><th style="width:25%;" class="top"><img src="/assets/images/podcasts/Only-A-Cover-Song-Episode-203-Scots-Do-The-Beatles.jpg" class="full-width" /></th>
-<td style="width:75%;">
-<audio id="player" src="/assets/media/podcast/Only-A-Cover-Song-Episode-203-Scots-Do-The-Beatles.mp3" type="audio/mpeg"><p>Your browser doesn't support HTML5 audio. Here is a <a href="/assets/media/podcast/Only-A-Cover-Song-Episode-203-Scots-Do-The-Beatles.mp3">link to the audio</a> instead.</p></audio>
-<div><button onclick="document.getElementById('player').play()">Play</button><button onclick="document.getElementById('player').play(); document.getElementById('player').currentTime = 4275;">Jump To Lena Zavaroni Singing Penny Lane</button><button onclick="document.getElementById('player').pause()">Pause</button><button onclick="document.getElementById('player').pause(); document.getElementById('player').currentTime = 0;">Stop</button><button onclick="document.getElementById('player').volume += 0.1">Vol +</button><button onclick="document.getElementById('player').volume -= 0.1">Vol -</button></div>
-</td></tr>
-<tr id="infobox2" class="split"><th>Singers</th><th>Songs</th></tr>
-<tr><th>Load Control</th><td>Scotland</td></tr>
-<tr><th>Texas</th><td>Revolution</td></tr>
-<tr><th>Travis</th><td>Give Me Some Truth</td></tr>
-<tr><th>Susan Boyle</th><td> Mull of Kintyre</td></tr>
-<tr><th>Trembling Bells</th><td>Wah Wah</td></tr>
-<tr><th>The Rezillos</th><td>I Wanna Be Your Man</td></tr>
-<tr><th>Howlin' Wolf</th><td>I Ain't Superstitious</td></tr>
-<tr><th>Barbara Dickson</th><td>With A Little Help From My Friends</td></tr>
-<tr><th>Stone The Crows</th><td>Fool On the Hill</td></tr>
-<tr><th>Julienne Taylor</th><td>Here There And Everywhere</td></tr>
-<tr><th>Junior Campbell</th><td>Drive My Car</td></tr>
-<tr><th>Cream</th><td>Passing The Time</td></tr>
-<tr><th>Jack Bruce</th><td>Eleanor Rigby</td></tr>
-<tr><th>Teenage Fanclub</th><td>The Ballad of John and Yoko</td></tr>
-<tr id="infobox3" style="outline: 4px dashed darkorange; outline-offset: -4px;"><th>Lena Zavaroni</th><td>Penny Lane</td></tr>
-</table>
-</figure>
+<h2><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
 
-<br />{: .clear}
+<h2><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/icons.svg#map-location"></use></svg> United States</h2>
 
+<iframe src="https://www.listennotes.com/podcasts/only-a-cover-songs/only-a-cover-song-episode-HSvO7BfVrI6/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
+
+<h2 id="infobox1"><a href="#infobox1">Details</a></h2>
+
+<ul>
+<li><strong>Load Control:</strong> Scotland</li>
+<li><strong>Texas:</strong> Revolution</li>
+<li><strong>Travis:</strong> Give Me Some Truth</li>
+<li><strong>Susan Boyle:</strong>  Mull of Kintyre</li>
+<li><strong>Trembling Bells:</strong> Wah Wah</li>
+<li><strong>The Rezillos:</strong> I Wanna Be Your Man</li>
+<li><strong>Howlin' Wolf:</strong> I Ain't Superstitious</li>
+<li><strong>Barbara Dickson:</strong> With A Little Help From My Friends</li>
+<li><strong>Stone The Crows:</strong> Fool On the Hill</li>
+<li><strong>Julienne Taylor:</strong> Here There And Everywhere</li>
+<li><strong>Junior Campbell:</strong> Drive My Car</li>
+<li><strong>Cream:</strong> Passing The Time</li>
+<li><strong>Jack Bruce:</strong> Eleanor Rigby</li>
+<li><strong>Teenage Fanclub:</strong> The Ballad of John and Yoko</li>
+<li><strong>Lena Zavaroni:</strong> Penny Lane</li>
+</ul>
