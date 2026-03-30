@@ -12,52 +12,36 @@ last_modified_at: 18 January 2024
 
 <p class="post-meta adjust">Above dates based on details from <a class="external-link" href="https://www.dresscircle.co.uk/shows/me-and-my-girl/adelphi-theatre-london#:~:text=Bonnie%20Langford,31/03/89">Dress Circle</a></p>
 
-<figure class="fig3">
-<table>
-<tr id="infobox1"><th>Programme Cover</th><th>Performer</th><th>Character</th></tr>
-<tr>
-<th rowspan="13" class="top" style="width:50%;"><a href="/assets/images/theatres/1988-04-01-me-and-my-girl-programme-fc.jpg"><img src="/assets/images/theatres/1988-04-01-me-and-my-girl-programme-fc.jpg" class="full-width zoom-in" /></a></th>
-</tr>
-<tr><th style="width:25%;"><a href="#infobox2">Bonnie Langford</a></th> <td>Sally</td></tr>
-<tr><th>David Schofield</th><td>Bill Snibson</td></tr>
-<tr><th>sheila Mathews</th><td>The Duchess</td></tr>
-<tr><th>Graham Seed</th><td>The Hon. Gerald</td></tr>
-<tr><th>Roy Macready</th><td>unknown</td></tr>
-<tr><th>Tracy Collier</th><td>unknown</td></tr>
-<tr><th>Jeremy Hawk</th><td>unknown</td></tr>
-<tr><th>Patrick Cargill</th><td>unknown</td></tr>
-<tr><th>Douglas Anderson</th><td>unknown</td></tr>
-<tr><th>Joyce Blane</th><td>unknown</td></tr>
-<tr><th>Marie Lorraine</th><td>unknown</td></tr>
-<tr><th>Robert Wilson</th><td>unknown</td></tr>
-</table>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Cast</a></h2>
 
-<figure class="fig3">
-<table>
-<tr id="infobox2"><th>Bonnie Langford Programme Details</th><th colspan="2">Production</th></tr>
-<tr>
-<th rowspan="13" class="top" style="width:50%;"><a href="/assets/images/theatres/1988-04-01-me-and-my-girl-programme-bl.jpg"><img src="/assets/images/theatres/1988-04-01-me-and-my-girl-programme-bl.jpg" class="full-width zoom-in" /></a><cite>In 1978, at the tender age of thirteen, she teamed up with  <span style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni</span> to make the top-rated TV special <a href="/1978-03-26-lena-and-bonnie/">Lena and Bonnie</a>.</cite></th>
-</tr>
-<tr><th style="width:25%;">Book and Lyrics</th> <td>L. Arthur Rose & Douglas Furber</td></tr>
-<tr><th>Music</th><td>Noel Gay</td></tr>
-<tr><th>Book Revised</th><td>Stephen Fry</td></tr>
-<tr><th>Contribution To Revisions</th><td>Mike Ockrent</td></tr>
-<tr><th>Set Design</th><td>Martin Johns</td></tr>
-<tr><th>Costume Designs</th><td>Ann Curtis</td></tr>
-<tr><th>Lighting Design</th><td>Chris Ellis</td></tr>
-<tr><th>Production Musical Director</th><td>Chris Walker</td></tr>
-<tr><th>Musical Director</th><td>Anthony Bowles</td></tr>
-<tr><th>Sound Design</th><td>Rick Clarke</td></tr>
-<tr><th>Executive Producer</th><td>David Aukin</td></tr>
-<tr><th>Choreography</th><td>Gillian Gregory</td></tr>
-</table>
-</figure>
+<ul>
+<li><strong>Bonnie Langford:</strong> Sally</li>
+<li><strong>David Schofield:</strong> Bill Snibson</li>
+<li><strong>sheila Mathews:</strong> The Duchess</li>
+<li><strong>Graham Seed:</strong> The Hon. Gerald</li>
+<li><strong>Roy Macready:</strong> unknown</li>
+<li><strong>Tracy Collier:</strong> unknown</li>
+<li><strong>Jeremy Hawk:</strong> unknown</li>
+<li><strong>Patrick Cargill:</strong> unknown</li>
+<li><strong>Douglas Anderson:</strong> unknown</li>
+<li><strong>Joyce Blane:</strong> unknown</li>
+<li><strong>Marie Lorraine:</strong> unknown</li>
+<li><strong>Robert Wilson:</strong> unknown</li>
+</ul>
 
-<br />{: .clear}
+<h2 id="infobox2"><a href="#infobox2">Production</a></h2>
 
-<style>
-.adjust {position:relative; top:-30px;}
-#infobox2 {scroll-margin-top: -3px;}
-</style>
-
+<ul>
+<li><strong>Book and Lyrics:</strong> L. Arthur Rose & Douglas Furber</li>
+<li><strong>Music:</strong> Noel Gay</li>
+<li><strong>Book Revised:</strong> Stephen Fry</li>
+<li><strong>Contribution To Revisions:</strong> Mike Ockrent</li>
+<li><strong>Set Design:</strong> Martin Johns</li>
+<li><strong>Costume Designs:</strong> Ann Curtis</li>
+<li><strong>Lighting Design:</strong> Chris Ellis</li>
+<li><strong>Production Musical Director:</strong> Chris Walker</li>
+<li><strong>Musical Director:</strong> Anthony Bowles</li>
+<li><strong>Sound Design:</strong> Rick Clarke</li>
+<li><strong>Executive Producer:</strong> David Aukin</li>
+<li><strong>Choreography:</strong> Gillian Gregory</li>
+</ul>
