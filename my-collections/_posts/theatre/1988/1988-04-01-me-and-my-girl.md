@@ -12,9 +12,11 @@ last_modified_at: 18 January 2024
 
 <p class="post-meta adjust">Above dates based on details from <a class="external-link" href="https://www.dresscircle.co.uk/shows/me-and-my-girl/adelphi-theatre-london#:~:text=Bonnie%20Langford,31/03/89">Dress Circle</a></p>
 
+<p>The programme’s biography for Bonnie Langford includes a reference to her appearance with Lena Zavaroni in the television special <a href="/1978-03-26-lena-and-bonnie">Lena and Bonnie</a>.</p>
+
 <h2 id="infobox1"><a href="#infobox1">Cast</a></h2>
 
-<ul>
+<ul class="columns2">
 <li><strong>Bonnie Langford:</strong> Sally</li>
 <li><strong>David Schofield:</strong> Bill Snibson</li>
 <li><strong>sheila Mathews:</strong> The Duchess</li>
@@ -31,7 +33,7 @@ last_modified_at: 18 January 2024
 
 <h2 id="infobox2"><a href="#infobox2">Production</a></h2>
 
-<ul>
+<ul class="columns2">
 <li><strong>Book and Lyrics:</strong> L. Arthur Rose & Douglas Furber</li>
 <li><strong>Music:</strong> Noel Gay</li>
 <li><strong>Book Revised:</strong> Stephen Fry</li>

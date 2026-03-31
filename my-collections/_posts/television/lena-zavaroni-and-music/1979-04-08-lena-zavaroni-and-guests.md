@@ -4,40 +4,10 @@ title: Lena Zavaroni and Guests &#124; 8 April 1979
 maintitle: Lena Zavaroni and Guests
 subtitle: BBC Television Centre
 description: Believed to be a recording for an episode of Lena Zavaroni and Music.
-post_description: Lena Zavaroni and Guests.
-image: /assets/images/BBC/ticket-1979-04-08.jpg
+post_description: Believed to be a recording for an episode of Lena Zavaroni and Music.
 categories: [BBC Television Centre, Lena Zavaroni and Music, Dougie Squires, OnThisDay8April]
-last_modified_at: 26 November 2023
+last_modified_at: 31 March 2026
+onthisdaylink: false
 ---
 
-<figure class="fig1">
-<div class="CardLayout CardLayout-Height1">
-<div class="CardItem">
-<h2 id="infobox1" class="infobox"><a href="#infobox1">Front Of The Ticket</a></h2>
-<div class="CardItem split">
-<a href="/assets/images/BBC/ticket-1979-04-08.jpg"><img src="/assets/images/BBC/ticket-1979-04-08.jpg" class="full-width zoom-in" /></a>
-<p></p>
-<cite>This image is reproduced under UK fair dealing provisions for the purpose of non-commercial research and historical documentation.</cite>
-</div></div></div>
-</figure>
-
-<figure class="fig2">
-<div class="CardLayout CardLayout-Height1">
-<div class="CardItem">
-<h2 id="infobox2" class="infobox"><a href="#infobox2">Back Of The Ticket</a></h2>
-<div class="CardItem split">
-<a href="/assets/images/BBC/ticket-1979-04-01-08-back.jpg"><img src="/assets/images/BBC/ticket-1979-04-01-08-back.jpg" class="full-width zoom-in" /></a>
-<p></p>
-<cite>Map and audience guidelines from the reverse side of the ticket. Included under UK fair dealing provisions for historical documentation.</cite>
-<div class="CardItem">
-<ul>
-<li><strong>Category:</strong> <a href="/category/lena-zavaroni-and-music">Lena Zavaroni and Music</a></li>
-</ul>
-</div></div></div></div>
-</figure>
-
-<style>
-.CardLayout-Height1 {height:815.95px;}
-@media screen and (orientation:portrait) {.CardLayout-Height1 {height: unset;}}
-</style>
-
+<p>{{ page.post_description }}</p>
