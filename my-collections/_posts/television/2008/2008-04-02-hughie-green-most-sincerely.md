@@ -10,84 +10,61 @@ post_description: Trevor Eve stars in a drama about the secret life of Opportuni
 categories: [BBC Four, Hughie Green, OnThisDay2April, OnThisDay6December]
 ---
 
-<figure class="fig3">
-<table style="text-align:center;">
-<tr><th colspan="4">Jump To</th></tr>
-<tr>
-<td colspan="2" style="width:50;"><a href="#infobox2">Summary</a></td>
-<td style="width:25%;"><a href="#infobox3">Notes</a></td>
-<td style="width:25%;"><a href="#infobox4">Credits</a></td>
-</tr>
-<tr><th colspan="4">External Links</th></tr>
-<tr>
-<td style="width:25%;"><a class="external-link" href="https://www.bbc.co.uk/drama/hughiegreenmostsincerely/">BBC Archived Page</a></td>
-<td style="width:25%;"><a class="external-link" href="https://www.bbc.co.uk/programmes/b009ph5x">BBC Four</a></td>
-<td style="width:25%;"><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_four/2008-04-02#at-21.00">BBC Genome</a></td>
-<td style="width:25%;"><a class="external-link" href="https://www.youtube.com/watch?v=QF0DGpECsJA">YouTube</a></td>
-</tr>
-</table>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Summary</a></h2>
 
-<figure class="fig3">
-<h2 id="infobox2"><a href="#infobox2">Summary</a></h2>
 <p>Drama about the secret life of Opportunity Knocks and Double Your Money presenter Hughie Green, based on the inside story from his family, friends and peers.</p>
 <p> It tells of the destructive power of success and celebrity from Green's earliest days as a child star, and explores what family and fatherhood meant to this iconic character, who harboured an explosive secret that would rock the entertainment world after his death in 1997.</p>
-</figure>
 
-<figure class="fig3">
-<h2 id="infobox3"><a href="#infobox3">Notes</a></h2>
-<blockquote>
+<h2 id="infobox2"><a href="#infobox2">Notes</a></h2>
+
 <p>At the time of the original broadcast the BBC Channels were still broadcasting in Standard Definition (SD) for high definition (HD) viewers would have to watch BBC HD which was a channel that showed a selection of programmes from across the BBC's' other channels so limited in what was showed.</p>
-<table>
-<tr><th colspan="4">Dates</th></tr>
-<tr><th>Channel</th><th>Launched</th><th>Closed</th><th>Replaced by</th></tr>
-<tr><th>BBC HD</th><td>15/05/2006</td><td>26/03/2013</td><td>BBC Two HD</td></tr>
-<tr><th>BBC One HD</th><td>03/11/2010</td><td>N/A</td><td>N/A</td></tr>
-<tr><th>BBC Two HD</th><td>26/03/2013</td><td>N/A</td><td>N/A</td></tr>
-<tr><th>BBC Three HD</th><td>10/12/2013</td><td>16/02/2016</td><td>BBC Three<br />(streaming service)</td></tr>
-<tr><th>BBC Three<br />(streaming service)</th><td>16/02/2016</td><td>01/02/2022</td><td>BBC Three HD</td></tr>
-<tr><th>BBC Three HD Relaunched</th><td>01/02/2022</td><td>N/A</td><td>N/A</td></tr>
-<tr><th>BBC Four HD</th><td>10/12/2013</td><td>N/A</td><td>N/A</td></tr>
-</table>
+
+<ul>
+<li><strong>BBC HD Launched:</strong> 15/05/2006</li>
+<li><strong>BBC HD Closed:</strong> 26/03/2013</li>
+<li><strong>BBC HD Replaced By:</strong> BBC Two HD</li>
+<li><strong>BBC One HD Launched:</strong> 03/11/2010</li>
+<li><strong>BBC Two HD Launched:</strong> 26/03/2013</li>
+<li><strong>BBC Three HD Launched:</strong> 10/12/2013</li>
+<li><strong>BBC Three HD Closed:</strong> 16/02/2016</li>
+<li><strong>BBC Three HD Replaced By:</strong> BBC Three (streaming service)</li>
+<li><strong>BBC Three (streaming service) Launched:</strong> 16/02/2016</li>
+<li><strong>BBC Three (streaming service) Closed:</strong> 01/02/2022</li>
+<li><strong>BBC Three (streaming service) Replaced By:</strong> BBC Three HD</li>
+<li><strong>BBC Three HD Relaunched:</strong> 01/02/2022</li>
+<li><strong>BBC Four HD Launched:</strong> 10/12/2013</li>
+</ul>
+
 <p>Hughie Green, Most Sincerely would get it's first HD broadcast on <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_hd/2008-12-06#at-21.00">6 December 2008</a>.</p>
-</blockquote>
-<cite>Robcamstone</cite>
-</figure>
 
-<figure class="fig3">
-<figcaption>
-<h2 id="infobox4"><a href="#infobox4">Credits</a></h2>
-<table>
-<tr><th>Narrator</th><td>Jenny Agutter</td></tr>
-<tr><th>Hughie Green</th><td>Trevor Eve</td></tr>
-<tr><th>Jess Yates</th><td>Mark Benton</td></tr>
-<tr><th>Elaine Yates</th><td>Emma Stansfield</td></tr>
-<tr><th>Elaine Yates</th><td>Kim Thomson</td></tr>
-<tr><th>Noel Botham</th><td>Danny Webb</td></tr>
-<tr><th>Vic Hallums</th><td>Nick Dunning</td></tr>
-<tr><th>Director</th><td>Daniel Percival</td></tr>
-<tr><th>Major Green</th><td>Ian Cairns</td></tr>
-<tr><th>Writer</th><td>Tony Basgallop</td></tr>
-<tr><th>Young Housewife</th><td>Victoria Pugh</td></tr>
-<tr><th>Female Fan</th><td>Mared Swain</td></tr>
-<tr><th>Mrs Carr</th><td>Kate Williams</td></tr>
-<tr><th>Young Christopher</th><td>Christopher Gillman-Wells</td></tr>
-<tr><th>Young Linda</th><td>Megan Convery</td></tr>
-<tr><th>Ordinary Housewife</th><td>Vicky Ogden</td></tr>
-<tr><th>Male Contestant</th><td>George Potts</td></tr>
-<tr><th>TV Executive</th><td>Will Thorp</td></tr>
-<tr style="outline: 4px dashed darkorange; outline-offset: -4px;"><th>Lena Zavaroni</th><td>Taet Chesterton</td></tr>
-<tr><th>Jeremy Isaacs</th><td>Jasper Jacob</td></tr>
-<tr><th>Receptionist</th><td>Olivia Darnley</td></tr>
-<tr><th>Mr Reed</th><td>Glynne Steele</td></tr>
-<tr><th>June Laverick</th><td>Julia Ford</td></tr>
-<tr><th>Linda Green</th><td>Deborah Cornelius</td></tr>
-<tr><th>Christopher Green</th><td>Tim Wallers</td></tr>
-<tr><th>Dr Halshaw</th><td>John Warnaby</td></tr>
-<tr><th>Producer</th><td>Ben Evans</td></tr>
-</table>
-</figcaption>
-</figure>
+<h2 id="infobox3"><a href="#infobox3">Credits</a></h2>
 
-<br />{: .clear}
-
+<ul class="columns2">
+<li><strong>Narrator:</strong> Jenny Agutter</li>
+<li><strong>Hughie Green:</strong> Trevor Eve</li>
+<li><strong>Jess Yates:</strong> Mark Benton</li>
+<li><strong>Elaine Yates:</strong> Emma Stansfield</li>
+<li><strong>Elaine Yates:</strong> Kim Thomson</li>
+<li><strong>Noel Botham:</strong> Danny Webb</li>
+<li><strong>Vic Hallums:</strong> Nick Dunning</li>
+<li><strong>Director:</strong> Daniel Percival</li>
+<li><strong>Major Green:</strong> Ian Cairns</li>
+<li><strong>Writer:</strong> Tony Basgallop</li>
+<li><strong>Young Housewife:</strong> Victoria Pugh</li>
+<li><strong>Female Fan:</strong> Mared Swain</li>
+<li><strong>Mrs Carr:</strong> Kate Williams</li>
+<li><strong>Young Christopher:</strong> Christopher Gillman-Wells</li>
+<li><strong>Young Linda:</strong> Megan Convery</li>
+<li><strong>Ordinary Housewife:</strong> Vicky Ogden</li>
+<li><strong>Male Contestant:</strong> George Potts</li>
+<li><strong>TV Executive:</strong> Will Thorp</li>
+<li><strong>Lena Zavaroni:</strong> Taet Chesterton</li>
+<li><strong>Jeremy Isaacs:</strong> Jasper Jacob</li>
+<li><strong>Receptionist:</strong> Olivia Darnley</li>
+<li><strong>Mr Reed:</strong> Glynne Steele</li>
+<li><strong>June Laverick:</strong> Julia Ford</li>
+<li><strong>Linda Green:</strong> Deborah Cornelius</li>
+<li><strong>Christopher Green:</strong> Tim Wallers</li>
+<li><strong>Dr Halshaw:</strong> John Warnaby</li>
+<li><strong>Producer:</strong> Ben Evans</li>
+</ul>

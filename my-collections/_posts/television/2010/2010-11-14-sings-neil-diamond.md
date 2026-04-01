@@ -14,7 +14,6 @@ last_modified_at: 30 March 2026
 <p>A compilation from the BBC archive of performances featuring songs written by, or associated with, Neil Diamond. Featuring Lulu, UB40, Vince Hill, Robert Wyatt, Gladys Knight, Urge Overkill, Lena Zavaroni, The Hollies and a duet by Neil Diamond and Shirley Bassey.</p>
 <cite><a class="external-link" href="https://www.bbc.co.uk/programmes/b00vzzsy">BBC PID: b00vzzsy</a></cite>
 
-
 <h2 id="infobox1"><a href="#infobox1">Notes</a></h2>
 
 <p>At the time of the original broadcast the BBC Channels were still broadcasting in Standard Definition (SD) for high definition (HD) viewers would have to watch BBC HD which was a channel that showed a selection of programmes from across the BBC's' other channels so limited in what was showed.</p>
