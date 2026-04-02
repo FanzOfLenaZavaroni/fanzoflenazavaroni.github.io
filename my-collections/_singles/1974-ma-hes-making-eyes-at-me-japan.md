@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: discography
 title: Ma! (He's Making Eyes At Me) &#124; Japan Release
-maintitle: Ma! (He's Making Eyes At Me), Japan Release (English Version)
+maintitle: Ma! (He's Making Eyes At Me)
+extra: ", Japan Release (English Version)"
 subtitle: Lena Zavaroni's debut single
+year: 1974
 description: Ma! (He's Making Eyes At Me) is the debut single released by Lena Zavaroni.
 post_description: Ma! (He's Making Eyes At Me) is the debut single released by Lena Zavaroni.
 categories: [Discography Singles]

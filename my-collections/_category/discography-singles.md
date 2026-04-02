@@ -43,7 +43,7 @@ maintitle: "Category: Discography Singles"
     {% endif %}
   {% endif %}
 
-  {% capture entry %}{{ prefix }}|{{ item.url }}|{{ item.maintitle }}{% endcapture %}
+  {% capture entry %}{{ prefix }}|{{ item.url }}|{{ item.maintitle }}|{{ item.extra }}{% endcapture %}
 
   {% if group == "full" %}
     {% assign list_full = list_full | push: entry %}
@@ -67,7 +67,11 @@ maintitle: "Category: Discography Singles"
   <ul>
   {% for entry in list_full %}
     {% assign data = entry | split: "|" %}
-    <li><a href="{{ data[1] | relative_url }}">{{ data[0] }} — {{ data[2] }}</a></li>
+    <li>
+      <a href="{{ data[1] | relative_url }}">
+        {{ data[0] }} — {{ data[2] }}{{ data[3] }}
+      </a>
+    </li>
   {% endfor %}
   </ul>
 {% endif %}
@@ -79,7 +83,11 @@ maintitle: "Category: Discography Singles"
   <ul>
   {% for entry in list_year_month %}
     {% assign data = entry | split: "|" %}
-    <li><a href="{{ data[1] | relative_url }}">{{ data[0] }}-00 — {{ data[2] }}</a></li>
+    <li>
+      <a href="{{ data[1] | relative_url }}">
+        {{ data[0] }}-00 — {{ data[2] }}{{ data[3] }}
+      </a>
+    </li>
   {% endfor %}
   </ul>
 {% endif %}
@@ -91,7 +99,11 @@ maintitle: "Category: Discography Singles"
   <ul>
   {% for entry in list_year_only %}
     {% assign data = entry | split: "|" %}
-    <li><a href="{{ data[1] | relative_url }}">{{ data[0] }}-00-00 — {{ data[2] }}</a></li>
+    <li>
+      <a href="{{ data[1] | relative_url }}">
+        {{ data[0] }}-00-00 — {{ data[2] }}{{ data[3] }}
+      </a>
+    </li>
   {% endfor %}
   </ul>
 {% endif %}

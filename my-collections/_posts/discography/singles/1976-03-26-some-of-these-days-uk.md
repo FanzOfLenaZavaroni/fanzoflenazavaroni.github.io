@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: discography
 title: Some Of These Days &#124; UK Release
 maintitle: Some Of These Days
+extra: ", UK Release"
 subtitle: Lena Zavaroni's Sixth Single
 description: Some Of These Days is the sixth single released by Lena Zavaroni.
 post_description: Some Of These Days is the sixth single released by Lena Zavaroni.

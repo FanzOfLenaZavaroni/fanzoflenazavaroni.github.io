@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: discography
 title: Somewhere South Of Macon
 maintitle: Somewhere South Of Macon
+extra: ", UK Promo Release"
 subtitle: Promo Release
 description: This promo single would go on to become the twelveth UK single released by Lena Zavaroni.
 post_description: This promo single would go on to become the twelveth UK single released by Lena Zavaroni.

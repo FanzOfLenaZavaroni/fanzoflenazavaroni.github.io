@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: discography
 title: Hold Tight (Want Some Sea Food, Mama)
 maintitle: Hold Tight (Want Some Sea Food, Mama)
+extra: ", UK Release"
 subtitle: Lena Zavaroni's Thirteenth Single
 description: This is the thirteenth single by Lena Zavaroni.
 post_description: This is the thirteenth single by Lena Zavaroni.

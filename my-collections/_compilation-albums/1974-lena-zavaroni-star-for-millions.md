@@ -4,8 +4,8 @@ year: 1974
 title: Lena Zavaroni - Star For Millions
 maintitle: Lena Zavaroni - Star For Millions
 subtitle: Compilation Album
+extra: UK, 33⅓ Album
 description: As well as 10 tracks taken from her fist 2 albums it also included the A and B sides of her second single (You've Got) Personality plus it had a short biograph of Lena Zavaroni along with some photos.
-image: /assets/images/albums/LZ-Star-For-Millions-Front.jpg
 last_modified_at: 15 June 2023
 ---
 

@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: discography
 title: I Should've Listened To Mama
-maintitle: I Should've Listened To Mama, Germany Release
+maintitle: I Should've Listened To Mama
+extra: ", German Release"
 subtitle: Germany Release on the Polydor Label
 year: 1978
 description:

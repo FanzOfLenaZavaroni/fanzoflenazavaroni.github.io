@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: discography
 title: You're Breaking My Heart
 maintitle: You're Breaking My Heart
+extra: ", UK Release"
 subtitle: Lena Zavaroni's Fouth Single
 description: This is the Fouth single by Lena Zavaroni.
 post_description: This is the Fouth single by Lena Zavaroni.

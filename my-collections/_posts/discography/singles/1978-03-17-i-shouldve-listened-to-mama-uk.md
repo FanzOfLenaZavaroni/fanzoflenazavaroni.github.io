@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: discography
 title: I Should've Listened To Mama, UK Release
-maintitle: I Should've Listened To Mama, UK Release
+maintitle: I Should've Listened To Mama
+extra: ", UK Release"
 subtitle: Lena Zavaroni's Eighth
 description: Eighth single by Lena Zavaroni
 post_description: Eighth single by Lena Zavaroni

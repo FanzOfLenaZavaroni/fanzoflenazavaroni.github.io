@@ -1,13 +1,13 @@
 ---
-layout: post
+layout: discography
 year: April 1978
-last_modified_at: 15 June 2023
 title: Songs Are Such Good Things
 maintitle: Songs Are Such Good Things
+extra: ", UK Release"
 subtitle: Studio Album
-description: 
-image: /assets/images/albums/Songs-Are-Such-Good-Things.jpeg
+year: 1978
 categories: [Discography Studio Albums]
+last_modified_at: 15 June 2023
 ---
 
 <figure class="fig1">

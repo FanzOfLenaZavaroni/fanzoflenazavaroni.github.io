@@ -52,8 +52,9 @@ last_modified_at: 20 March 2026
 <h3 id="infobox9"><a href="#infobox9">Conflicting Reports on Lena’s Discovery</a></h3>
 <p>There is no single, verified version of how Lena was discovered. Different sources offer varying accounts, often contradicting one another.</p>
 <ul>
-<li>The <a class="external-link" href="https://www.express.co.uk/entertainment/theatre/1780852/Lena-Zavaroni-opportunity-knock-hughie-green">Express (14 June 2023 Updated 15 June 2023)</a>: In an article by Richard Barber it is stated that Tommy Scott was walking past the chippie when he heard Lena singing.</li>
+<li>The magazine <a href="/1974-04-03-joepie">Joepie</a> in its April 1974 editon claims that during a performance in a local pub, Lena was discovered by manager Philip Solomon.</li>
 <li>The Lowell Sun (22 July 1974): A US newspaper article described Lena Zavaroni as being discovered while singing in a bingo parlour, highlighting her powerful voice and the immediate interest from the record industry.</li>
+<li>The <a class="external-link" href="https://www.express.co.uk/entertainment/theatre/1780852/Lena-Zavaroni-opportunity-knock-hughie-green">Express (14 June 2023 Updated 15 June 2023)</a>: In an article by Richard Barber it is stated that Tommy Scott was walking past the chippie when he heard Lena singing.</li>
 </ul>
 <h3 id="infobox10"><a href="#infobox10">UK and US Versions</a></h3>
 <p>If we put the UK versions down to editorial errors and that the commonly known version is true, then what about the US version that is clearly different?</p>

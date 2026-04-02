@@ -1,11 +1,11 @@
 ---
 layout: post
-year: 1974
 title: If My Friends Could See Me Now
 maintitle: If My Friends Could See Me Now
+extra: ", Finland Cassette Tape Release"
 subtitle: Studio Album - Released In Finland On Cassette Tape
-description: 
-image: /assets/images/albums/2UKc.jpg
+year: 1976
+categories: [Discography Studio Albums]
 last_modified_at: 17 November 2023
 ---
 

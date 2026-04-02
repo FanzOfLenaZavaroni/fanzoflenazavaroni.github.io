@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: discography
 year: 16 May 1980
 title: Jump Down Jimmy
 maintitle: Jump Down Jimmy
+extra: ", UK Release"
 subtitle: Lena Zavaroni's Nineth Single
 description: This is the Nineth single by Lena Zavaroni.
 media: 7" Vinyl, 45 rpm Single

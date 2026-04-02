@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: discography
 title: Ma! (He's Making Eyes At Me)
 maintitle: Ma! (He's Making Eyes At Me)
+extra: ", UK 8-Track Cartridge Release"
 subtitle: Studio Album - Released In The UK On 8-Track Cartridge
-categories: [Discography Studio 8 Track]
+year: 1974
+categories: [Discography Studio Albums]
 last_modified_at: 17 November 2023
 ---
 

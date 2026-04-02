@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: discography
 more: 1974
 title: Music Music Music
 maintitle: Music Music Music
+extra: ", German Release"
 subtitle: Lena Zavaroni's Third Single
+year: 1974
 description: This is the Third single by Lena Zavaroni
 media: 7" Vinyl, 45 rpm Single
 post_description: This is the Third single by Lena Zavaroni

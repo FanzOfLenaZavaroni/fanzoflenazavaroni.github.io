@@ -1,9 +1,10 @@
 ---
-layout: post
-more: November 1980
+layout: discography
 title: Will He Kiss Me Tonight
 maintitle: Will He Kiss Me Tonight
+extra: ", UK Release"
 subtitle: Lena Zavaroni's Tenth Single
+year: 1980
 b-side: Dream Come True
 description: This is the tenth single by Lena Zavaroni.
 categories: [Discography Singles, David Goodman]

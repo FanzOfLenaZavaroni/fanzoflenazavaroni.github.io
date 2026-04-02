@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: discography
 title: Roses And Rainbows
 maintitle: Roses And Rainbows
+extra: ", UK Release"
 subtitle: Lena Zavaroni's Eleventh UK Single
 description: This is the eleventh single by Lena Zavaroni.
 post_description: This is the eleventh single by Lena Zavaroni.

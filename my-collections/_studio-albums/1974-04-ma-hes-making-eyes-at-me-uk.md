@@ -1,9 +1,10 @@
 ---
-layout: post
-year: April 1974
+layout: discography
 title: Ma! (He's Making Eyes At Me)
 maintitle: Ma! (He's Making Eyes At Me)
+extra: ", UK Release"
 subtitle: Discography-Studio-Album - Released In The UK On 12" Vinyl, 33⅓ Album
+year: April 1974
 categories: [Discography Studio Albums]
 last_modified_at: 10 November 2023
 ---

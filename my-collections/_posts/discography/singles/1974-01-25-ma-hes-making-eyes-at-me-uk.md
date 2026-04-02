@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: discography
 title: Ma! (He's Making Eyes At Me) &#124; UK Release
-maintitle: Ma! (He's Making Eyes At Me), UK Release
+maintitle: Ma! (He's Making Eyes At Me)
+extra: ", UK Release"
 subtitle: Lena Zavaroni's debut single was released shortly after her third appearance on Opportunity Knocks
 description: Ma! (He's Making Eyes At Me) is the debut single released by Lena Zavaroni.
 post_description: Ma! (He's Making Eyes At Me) is the debut single released by Lena Zavaroni.

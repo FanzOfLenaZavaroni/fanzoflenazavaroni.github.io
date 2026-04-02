@@ -4,9 +4,9 @@ year: March 1977
 last_modified_at: 15 June 2023
 title: Presenting Lena Zavaroni
 maintitle: Presenting Lena Zavaroni
+extra: ", UK Release"
 subtitle: Studio Album
-description: 
-image: /assets/images/albums/Presenting-Lena-Zavaroni.jpeg
+year: 1977
 categories: [Discography Studio Albums]
 ---
 

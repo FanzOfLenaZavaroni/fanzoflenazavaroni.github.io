@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: discography
 title: Air Love &#124; Promo Release
 maintitle: Air Love, Promo Release
+extra: ", USA Release"
 subtitle: Promo Release
 year: 1976
 description: Promo release of what would become Lena Zavaroni's seventh single.

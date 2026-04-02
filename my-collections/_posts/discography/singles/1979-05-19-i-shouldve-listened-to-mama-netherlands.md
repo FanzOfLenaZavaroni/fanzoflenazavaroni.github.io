@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: discography
 title: I Should've Listened To Mama, Netherlands Release
-maintitle: I Should've Listened To Mama, Netherlands Release
+maintitle: I Should've Listened To Mama
+extra: ", Netherlands Release"
 subtitle: Netherlands Release on the Scramble Label
 description: 
 post_description: 

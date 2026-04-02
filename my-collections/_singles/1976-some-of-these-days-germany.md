@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: discography
 title: Some Of These Days &#124; Germany Release
-maintitle: Some Of These Days, Germany Release
+maintitle: Some Of These Days
+extra: ", German Release"
 subtitle: Germany Release on the Intercord record label
 year: 1976
 description: Germany Release on the Intercord record label.

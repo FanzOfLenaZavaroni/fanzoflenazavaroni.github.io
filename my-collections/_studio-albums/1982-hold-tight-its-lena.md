@@ -3,8 +3,9 @@ layout: post
 last_modified_at: 15 June 2023
 title: Hold Tight, It's Lena
 maintitle: Hold Tight, It's Lena
+extra: ", UK Release"
 subtitle: Studio Album
-image: /assets/images/albums/Hold-Tight-Its-Lena.jpg
+year: 1982
 categories: [Discography Studio Albums]
 ---
 

@@ -2,9 +2,9 @@
 layout: post
 title: Lena Zavaroni And Her Music
 maintitle: Lena Zavaroni And Her Music
+extra: ", UK Release"
 subtitle: Studio Album
-description: 
-image: /assets/images/albums/lena-zavaroni-and-her-music.jpg
+year: 1979
 categories: [Discography Studio Albums]
 last_modified_at: 25 March 2024
 ---

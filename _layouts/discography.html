@@ -6,28 +6,33 @@ layout: default
 
 <header class="post-header">
 <h1 class="post-title p-name" itemprop="name headline" id="{{ page.maintitle | escape }}">
-<a href="#{{ page.maintitle | escape }}" class="warning">{{ page.maintitle }}</a>
+  <a href="#{{ page.maintitle | escape }}" class="warning">{{ page.maintitle }}</a>
 </h1>
 <h2>{{ page.subtitle }}</h2>
 
 <p class="post-meta">
 
 {%- if page.before -%}
- <span itemprop="before" itemscope itemtype="http://schema.org/Person">
-   <span class="p-before h-card" itemprop="name">{{ page.before }}</span>
- </span>
+  <span itemprop="before" itemscope itemtype="http://schema.org/Person">
+    <span class="p-before h-card" itemprop="name">{{ page.before }}</span>
+  </span>
 {%- endif -%}
 
-{% if page.year %}
+{%- if page.year -%}
   <time class="dt-published" datetime="{{ page.year }}" itemprop="datePublished">
     {{ page.year }}
   </time>
-{% endif %}
+{%- elsif page.date -%}
+  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {{ page.date | date: date_format }}
+  </time>
+{%- endif -%}
 
 {%- if page.after -%}
- <span itemprop="after" itemscope itemtype="http://schema.org/Person">
-   <span class="p-after h-card" itemprop="name">{{ page.after }}</span>
- </span>
+  <span itemprop="after" itemscope itemtype="http://schema.org/Person">
+    <span class="p-after h-card" itemprop="name">{{ page.after }}</span>
+  </span>
 {%- endif -%}
 
 </p>
@@ -44,9 +49,9 @@ layout: default
 
 <span class="post-categories">
 {% if post %}
-{% assign categories = post.categories %}
+  {% assign categories = post.categories %}
 {% else %}
-{% assign categories = page.categories %}
+  {% assign categories = page.categories %}
 {% endif %}
 
 {% for category in categories %}
@@ -115,3 +120,4 @@ crossorigin="anonymous"
 async>
 </script>
 </article>
+
