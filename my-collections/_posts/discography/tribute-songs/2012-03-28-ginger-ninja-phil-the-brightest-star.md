@@ -2,6 +2,7 @@
 layout: post
 year: 28 March 2012
 title: The Brightest Star (The Ballad of a Child Star) by the Ginger Ninja Phil
+prefix: "Ginger Ninja Phil - "
 maintitle: The Brightest Star (The Ballad of a Child Star)
 subtitle: Ginger Ninja Phil
 description: A wonderful Tribute to Lena Zavaroni with Thanks to Ginger Ninja Phil for uploading and putting his recording into the public domain on 28 March 2012.

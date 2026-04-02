@@ -9,7 +9,7 @@ subtitle: List of Tribute Songs related to Lena Zavaroni
 {% for post in site.categories["Discography Tribute Songs"] reversed %}
 {% if post.url %}
 <li>
-<a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a>
+<a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.prefix }}{{ post.maintitle }}{{ post.suffix }}</a>
 </li>
 {% endif %}
 {% endfor %}
