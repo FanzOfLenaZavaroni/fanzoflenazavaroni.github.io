@@ -2,10 +2,11 @@
 layout: post
 title: pink & tina &#124; 29 June 1974
 maintitle: pink & tina
+suffix: ", Lena Zavaroni’s Early Rise"
 subtitle: The Magazine carried a short article about Lena Zavaroni.
 description: There was a short article about Lena  Zavaroni in the magazine.
 post_description: carried a short article about Lena Zavaroni.
-categories: [Magazines pink & tina, OnThisDay29June]
+categories: [Magazines, OnThisDay29June]
 last_modified_at: 29 June 2025
 ---
 

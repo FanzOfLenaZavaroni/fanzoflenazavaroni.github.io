@@ -1,14 +1,14 @@
 ---
 layout: post
-last_modified_at: 15 June 2023
-title: The Sunday Times Magazine &#124; 12 May 1974
-maintitle: The Sunday Times Magazine
+title: Sunday Times Magazine &#124; 12 May 1974
+maintitle: Sunday Times Magazine
+suffix: ", SWINGING ON A STAR"
 subtitle: Supplement
 description: Published a profile of Lena Zavaroni.
 media: Published
 post_description: A profile of Lena Zavaroni.
-image: /assets/images/magazines/the-sunday-times-magazine-12-may-1974-cover.jpg
-categories: [Supplement, Sunday Times Magazine, OnThisDay12May]
+categories: [Magazines, Sunday Times, OnThisDay12May]
+last_modified_at: 3 April 2026
 ---
 
 
