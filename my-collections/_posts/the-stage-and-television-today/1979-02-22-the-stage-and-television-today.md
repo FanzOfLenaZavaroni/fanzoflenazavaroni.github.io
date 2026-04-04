@@ -2,6 +2,7 @@
 layout: post
 title: The Stage and Television Today &#124; 22 February 1979
 maintitle: The Stage and Television Today
+suffix: ": Water Rats gala charity night"
 subtitle: Water Rats gala charity night
 description: Reported on the Water Rats Gale Charity Night.
 post_description: Reported on the Water Rats Gala Charity Night, which featured performances by several well‑known entertainers.

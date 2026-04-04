@@ -2,6 +2,7 @@
 layout: post
 title: Billboard &#124; 30 March 1974
 maintitle: Billboard
+suffix: ": London Section + Hits of the World"
 subtitle: Newspaper
 description: page 90 has an article about capital radio's music schedule, page 107 has the Hits of the World charts.
 post_description: page 90 has an article about capital radio's music schedule, page 107 has the Hits of the World charts.

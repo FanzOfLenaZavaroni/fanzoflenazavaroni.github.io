@@ -8,7 +8,7 @@ maintitle: "Category: The Stage and Television Today"
 {% for post in site.categories["The Stage and Television Today"] reversed %}
 {% if post.url %}
 <li>
-<a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a>
+<a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}{{ post.suffix }}</a>
 </li>
 {% endif %}
 {% endfor %}

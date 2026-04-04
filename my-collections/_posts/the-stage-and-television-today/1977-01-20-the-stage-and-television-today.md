@@ -2,6 +2,7 @@
 layout: post
 title: The Stage and Television Today
 maintitle: The Stage and Television Today
+suffix: ": ROYAL OCCASIONS"
 subtitle: ROYAL OCCASIONS
 description: Contained a double-page feature on two Royal charity fundraisers which had been held the previous week.
 post_description: Contained a double-page feature on two Royal charity fundraisers which had been held the previous week.

@@ -2,7 +2,7 @@
 layout: post
 title: The Stage and Television Today &#124; 29 June 1978
 maintitle: The Stage and Television Today
-subtitle:
+suffix: ': Review of the BBC One variety show "Lennie & Jerry"'
 description: A review of the BBC One variety show "Lennie & Jerry" aired on 24 June 1978, featuring a return performance by Che and Ray and a standout appearance from Lena Zavaroni.
 post_description: Commentary on Lennie Bennett and Jerry Stevens' 1978 BBC One show, noting its mix of originality and convention, with a memorable guest performance by Lena Zavaroni.
 categories: [The Stage and Television Today, OnThisDay29June]

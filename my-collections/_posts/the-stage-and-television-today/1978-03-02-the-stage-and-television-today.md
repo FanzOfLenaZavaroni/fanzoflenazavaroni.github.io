@@ -2,6 +2,7 @@
 layout: post
 title: The Stage and Television Today &#124; 2 March 1978
 maintitle: The Stage and Television Today
+suffix: ": Big bill, longer show for last OK"
 subtitle: Big bill, longer show for last OK
 description: Featured an article on the final Opportunity Knocks for Thames Television.
 post_description: Featured an article on the final Opportunity Knocks for Thames Television.

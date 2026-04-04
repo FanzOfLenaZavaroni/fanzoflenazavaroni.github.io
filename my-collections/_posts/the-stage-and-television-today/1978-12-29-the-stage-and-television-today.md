@@ -2,6 +2,7 @@
 layout: post
 title: The Stage and Television Today &#124; 29 December 1978
 maintitle: The Stage and Television Today
+suffix: ": Star billing for Lena at Spa summer show"
 subtitle: Star billing for Lena at Spa summer show.
 description: Star billing for Lena at Spa summer show.
 post_description: Star billing for Lena at Spa summer show.

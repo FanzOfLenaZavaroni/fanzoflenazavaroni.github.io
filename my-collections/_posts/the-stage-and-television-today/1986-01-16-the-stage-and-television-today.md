@@ -2,6 +2,7 @@
 layout: post
 title: The Stage and Television Today
 maintitle: The Stage and Television Today
+suffix: ": CHRISMAS SHOWS"
 subtitle: CHRISMAS SHOWS
 description: Contained a 16 page review of all the pantomimes and seasonal productions around the country.
 post_description: 16 page review of all the pantomimes and seasonal productions around the country.

@@ -2,6 +2,7 @@
 layout: post
 title: The Stage and Television Today &#124; 21 February 1985
 maintitle: The Stage and Television Today
+suffix: ": Jimmy Cricket's TV show called \"And There’s More\""
 subtitle: Page 24 - Trend towards live audiences
 description: Reports that Jimmy Cricket is to host a new TV show called And There’s More
 post_description: Reports that Jimmy Cricket is to host a new TV show called And There’s More, it will feature a number of guest appearances.

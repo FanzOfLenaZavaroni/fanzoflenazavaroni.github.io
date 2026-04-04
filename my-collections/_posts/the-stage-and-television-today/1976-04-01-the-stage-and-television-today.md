@@ -2,6 +2,7 @@
 layout: post
 title: The Stage and Television Today &#124; 1 April 1976
 maintitle: The Stage and Television Today
+suffix: ": Discs on Release"
 subtitle: Discs on Release
 description: List of singles and albums released during previous month.
 post_description: List of singles and albums released during previous month.

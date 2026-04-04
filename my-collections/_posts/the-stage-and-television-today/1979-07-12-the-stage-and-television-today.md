@@ -2,6 +2,7 @@
 layout: post
 title: The Stage and Television Today &#124; 12 July 1979
 maintitle: The Stage and Television Today
+suffix: ": Lena Zavaroni Opens at Bridlington Spa Theatre"
 subtitle: Lena Zavaroni Opens at Bridlington Spa Theatre
 description: Lena Zavaroni begins a nine-week summer season at Bridlington Spa Theatre, with commentary on child stage laws.
 post_description: Lena Zavaroni opens her longest stage run to date at Bridlington Spa Theatre, while her agent calls for reform of child performance laws.

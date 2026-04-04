@@ -2,6 +2,7 @@
 layout: post
 title: The Stage and Television Today &#124; 3 July 1975
 maintitle: The Stage and Television Today
+suffix: ": Entertaining Old Timer"
 subtitle: Short article about stars topping the bill at the Blackpool Opera House for its current season.
 description: Short article about stars topping the bill at the Blackpool Opera House for its current season.
 post_description: Short article about stars topping the bill at the Blackpool Opera House for its current season.

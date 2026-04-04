@@ -2,11 +2,10 @@
 layout: post
 title: The Stage and Television Today &#124; 3 October 1985
 maintitle: The Stage and Television Today
+suffix: ": Lena was considering taking driving lessons"
 subtitle: Featured an article reporting that Lena was considering taking driving lessons, having been offered a free course by a local driving school.
 description: Article contained a photo of Lena performing.
-media: Newspaper
 post_description: Featured an article reporting that Lena was considering taking driving lessons, having been offered a free course by a local driving school.
-image: /assets/images/The Stage and Television Today/1985-10-03-The Stage and Television Today-fc.png
 categories: [The Stage and Television Today, OnThisDay3October]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: The Stage and Television Today
 maintitle: The Stage and Television Today
+suffix: ": The White Rock Pavilion thanks Lena and other acts"
 subtitle: Featured a full page colour advertisement from the White Rock Pavilion, thanking Lena and all of the other acts who appeared in the summer season shows that year.
 description: Featured a full page colour advertisement from the White Rock Pavilion, thanking Lena and all of the other acts who appeared in the summer season shows that year. The advertisement contained a large colour photo of Lena in her stage costume.
 media: Newspaper

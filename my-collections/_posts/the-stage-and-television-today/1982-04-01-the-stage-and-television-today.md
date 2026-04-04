@@ -2,6 +2,7 @@
 layout: post
 title: The Stage and Television Today &#124; 1 April 1982
 maintitle: The Stage and Television Today
+suffix: ": 'Parrot-face' turns comedy promoter"
 subtitle: "'Parrot-face' turns comedy promoter"
 description: "Featured an article about Freddie “Parrot Face” Davies."
 post_description: "Featured an article about Freddie “Parrot Face” Davies move into independent promotion."

@@ -2,11 +2,10 @@
 layout: post
 title: The Stage and Television Today &#124; 28 September 1978
 maintitle: The Stage and Television Today
-subtitle: Lena was mentioned several times in the newspaper
-description: Lena was mentioned several times in the newspaper,
-media: Newspaper
-post_description: Lena was mentioned several times in the newspaper.
-image: /assets/images/The Stage and Television Today/1978-09-28-The Stage and Television Today-fc.png
+suffix: ": Lena was mentioned several times"
+subtitle: Lena was mentioned several times
+description: Lena was mentioned several times.
+post_description: Lena was mentioned several times.
 categories: [The Stage and Television Today, OnThisDay28September]
 ---
 
