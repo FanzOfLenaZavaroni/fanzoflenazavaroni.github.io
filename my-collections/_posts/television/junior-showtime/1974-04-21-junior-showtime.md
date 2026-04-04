@@ -2,74 +2,32 @@
 layout: post
 title: Junior Showtime &#124; 21 April 1974
 maintitle: Junior Showtime
-subtitle: Lena Zavaroni's third appearance
 description: Presenters - Mark Curry, Glyn Poole, Roy Rolland as Old Mother Riley, Lena Zavaroni.
-media: Yorkshire Television
 post_description: Presenters - Mark Curry, Glyn Poole, Roy Rolland as Old Mother Riley, Lena Zavaroni.
-image: /assets/images/YTV/1974-junior-showtime.jpg
 categories: [Yorkshire Television, Junior Showtime, OnThisDay21April]
-last_modified_at: 19 May 2024
+last_modified_at: 4 April 2026
 ---
 
-<table>
-<tr align="center">
-<th>Jump To:</th>
-<td><a href="#infobox1">Programme ID</a></td>
-<td><a href="#infobox2">Newspaper</a></td>
-<td><a href="#infobox3">Cast</a></td>
-<td><a href="#infobox4">Crew</a></td>
-</tr>
-</table>
+<h2 id="infobox1"><a href="#infobox1">Cast</a></h2>
 
+<ul class="columns2">
+<li><strong>Presenter:</strong> Mark Curry</li>
+<li><strong>Presenter:</strong> Glyn Poole</li>
+<li><strong>Manager:</strong> David Davenport</li>
+<li><strong>Doorman:</strong> Walter Harper</li>
+<li><strong>On screen participan:</strong> Junior Showtime Ballet</li>
+<li><strong>On screen participan:</strong> Bobby Bennett</li>
+<li><strong>On screen participan:</strong> Roy Rolland</li>
+<li><strong>On screen participan:</strong> The Junior Showtime Dancers</li>
+<li><strong>On screen participan:</strong> The New Generation Of Junior Showtime Singers And Dancers</li>
+<li><strong>Puppeteer::</strong> Roger Stevenson</li>
+<li><strong>Guest Singer:</strong> Lena Zavaroni</li>
+</ul>
 
-<figure class="fig1">
-<figcaption>
-<h2 id="infobox1"><a href="#infobox1">Programme ID</a></h2>
-</figcaption>
-<img src="/assets/images/YTV/1974-junior-showtime.jpg" class="full-width" />
-</figure>
+<h2 id="infobox2"><a href="#infobox2">Crew</a></h2>
 
-<figure class="fig2">
-<figcaption>
-<h2 id="infobox2"><a href="#infobox2">Newspaper</a></h2>
-</figcaption>
-<a href="/assets/images/newspapers/0FFO-1974-APR20-008.jpeg"><img src="/assets/images/newspapers/0FFO-1974-APR20-008.jpeg" class="full-width zoom-in" /></a>
-<figcaption>
-<cite>The Times London, England, Saturday, 20 April 1974</cite>
-</figcaption>
-</figure>
-
-{: .clear}
-
-<figure class="fig3">
-<figcaption>
-<h2 id="infobox3"><a href="#infobox3">Cast</a></h2>
-</figcaption>
-<table>
-<tr><th style="width:50%;">Presenter</th><td>Mark Curry</td></tr>
-<tr><th>Presenter</th><td>Glyn Poole</td></tr>
-<tr><th>Manager</th><td>David Davenport</td></tr>
-<tr><th>Doorman</th><td>Walter Harper</td></tr>
-<tr><th>On screen participan</th><td>Junior Showtime Ballet</td></tr>
-<tr><th>On screen participan</th><td>Bobby Bennett</td></tr>
-<tr><th>On screen participan</th><td>Roy Rolland</td></tr>
-<tr><th>On screen participan</th><td>The Junior Showtime Dancers</td></tr>
-<tr><th>On screen participan</th><td>The New Generation Of Junior Showtime Singers And Dancers</td></tr>
-<tr><th>Puppeteer:</th><td>Roger Stevenson</td></tr>
-<tr><th>Guest Singer</th><td>Lena Zavaroni</td></tr>
-</table>
-</figure>
-
-<figure class="fig3">
-<figcaption>
-<h2 id="infobox4"><a href="#infobox4">Crew</a></h2>
-</figcaption>
-<table>
-<tr><th style="width:50%;">Sketches:</th><td>Denis Gifford</td></tr>
-<tr><th>Director:</th><td>Roger Cheveley</td></tr>
-<tr><th>Director:</th><td>Len Lurcuck</td></tr>
-</table>
-</figure>
-
-<br />{: .clear}
-
+<ul class="columns2">
+<li><strong>Sketches::</strong> Denis Gifford</li>
+<li><strong>Director::</strong> Roger Cheveley</li>
+<li><strong>Director::</strong> Len Lurcuck</li>
+</ul>

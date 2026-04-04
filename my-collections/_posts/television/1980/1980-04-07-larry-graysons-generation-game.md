@@ -9,93 +9,42 @@ image: /assets/images/BBC/larry-graysons-generation-game.jpg
 categories: [BBC One, Larry Grayson, OnThisDay7April]
 ---
 
-<table>
-<tr align="center">
-<th colspan="4">Jump To:</th>
-<th>Exteral Link:</th>
-</tr>
-<tr align="center">
-<td><a href="#programme-id">Programme ID</a></td>
-<td><a href="#youtube">YouTube</a></td>
-<td><a href="#cast">Cast</a></td>
-<td><a href="#crew">Crew</a></td>
-<td><a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1980-04-07#at-18.25">BBC Genome</a></td>
-</tr>
-</table>
+<h2 id="infobox1"><a href="#infobox1">Cast</a></h2>
 
-<figure class="fig1">
-<figcaption>
-<h2 id="programme-id">Programme ID</h2>
-</figcaption>
-<img src="/assets/images/BBC/larry-graysons-generation-game.jpg" class="full-width" />
-<figcaption>
-<cite>Lena appeared disguised as a mermaid, in a game of guess the celebrity.</cite>
-</figcaption>
-</figure>
+<p>Lena appeared disguised as a mermaid, in a game of guess the celebrity.</p>
 
-<figure class="fig2">
-<h2 id="youtube">Youtube</h2>
-<div class="responsive-video"><iframe width="640" height="480" src="https://www.youtube.com/embed/gzGwTbn41g4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-</figure>
+<ul class="columns2">
+<li><strong>Presenter:</strong> Larry Grayson</li>
+<li><strong>Presenter:</strong> Isla St.Clair</li>
+<li><strong>Guest:</strong> Lena Zavaroni</li>
+<li><strong>Guest:</strong> Acker Bilk</li>
+<li><strong>Guest:</strong> David Hamilton</li>
+<li><strong>Guests:</strong> Little & Large</li>
+<li><strong>Guest:</strong> Katie Boyle</li>
+<li><strong>Guest:</strong> Terry Scott</li>
+<li><strong>Guest:</strong> Christopher Timothy</li>
+<li><strong>Guest:</strong> Bernie Winters</li>
+<li><strong>Guest:</strong> Jimmy Waterflood</li>
+<li><strong>Guest:</strong> Jo Gray</li>
+<li><strong>Guest:</strong> Ron Smedley</li>
+<li><strong>Guest:</strong> Bob Parker</li>
+<li><strong>Guests:</strong> The Blue Mountain Square Dancers</li>
+<li><strong>Musical backing:</strong> Ronnie Hazelhurst And His Orchestra</li>
+</ul>
 
-{: .clear}
+<h2 id="infobox2"><a href="#infobox2">Crew</a></h2>
 
-<figure class="fig1">
-<figcaption>
-<h2 id="cast">Cast</h2>
-</figcaption>
-<table class="striped">
-<tr><th>Presenter:</th> <td>Larry Grayson</td></tr>
-<tr><th>Presenter:</th> <td>Isla St.Clair</td></tr>
-<tr><th>Guest:</th> <td>Lena Zavaroni</td></tr>
-<tr><th>Guest:</th> <td>Acker Bilk</td></tr>
-<tr><th>Guest:</th> <td>David Hamilton</td></tr>
-<tr><th>Guests:</th> <td>Little & Large</td></tr>
-<tr><th>Guest:</th> <td>Katie Boyle</td></tr>
-<tr><th>Guest:</th> <td>Terry Scott</td></tr>
-<tr><th>Guest:</th> <td>Christopher Timothy</td></tr>
-<tr><th>Guest:</th> <td>Bernie Winters</td></tr>
-<tr><th>Guest:</th> <td>Jimmy Waterflood</td></tr>
-<tr><th>Guest:</th> <td>Jo Gray</td></tr>
-<tr><th>Guest:</th> <td>Ron Smedley</td></tr>
-<tr><th>Guest:</th> <td>Bob Parker</td></tr>
-<tr><th>Guests:</th> <td>The Blue Mountain Square Dancers</td></tr>
-<tr><th>Musical backing:</th> <td>Ronnie Hazelhurst And His Orchestra</td></tr>
-</table>
-</figure>
+<ul class="columns2">
+<li><strong>Programme associate:</strong> Tony Hawes</li>
+<li><strong>Production team:</strong> Priscilla Hoadley</li>
+<li><strong>Production Team:</strong> Annie Ogden</li>
+<li><strong>Sound:</strong> Laurie Taylor</li>
+<li><strong>Lighting:</strong> Fred Wright</li>
+<li><strong>Production assistant:</strong> David Taylor</li>
+<li><strong>Designer:</strong> Bob Cove</li>
+<li><strong>Director:</strong> K. Paul Jackson</li>
+<li><strong>Producer:</strong> Alan Boyd</li>
+<li><strong>Production company:</strong> BBC Television</li>
+</ul>
 
-<figure class="fig2">
-<figcaption>
-<h2 id="crew">Crew</h2>
-</figcaption>
-<table class="striped">
-<tr><th>Programme associate:</th> <td>Tony Hawes</td></tr>
-<tr><th>Production team:</th> <td>Priscilla Hoadley</td></tr>
-<tr><th>Production Team:</th> <td>Annie Ogden</td></tr>
-<tr><th>Sound:</th> <td>Laurie Taylor</td></tr>
-<tr><th>Lighting:</th> <td>Fred Wright</td></tr>
-<tr><th>Production assistant:</th> <td>David Taylor</td></tr>
-<tr><th>Designer:</th> <td>Bob Cove</td></tr>
-<tr><th>Director:</th> <td>K. Paul Jackson</td></tr>
-<tr><th>Producer:</th> <td>Alan Boyd</td></tr>
-<tr><th>Production company:</th> <td>BBC Television</td></tr>
-</table>
-</figure>
-
-<br />{: .clear}
-
-<style>
-.fig1 {float:left; width:49%;}
-
-.fig2 {float:right; width:49%;}
-
-.fig3 {float:right; width:100%;}
-
-figcaption {float:left; width:100%;}
-
-@media screen and (orientation:portrait) {
-.fig1, .fig2 {float:left; width:100%;}
-figcaption {float:left; width:100%; margin-bottom: 10px;}
-}
-</style>
-
+<p><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1980-04-07#at-18.25">BBC Gnome</a></p>
