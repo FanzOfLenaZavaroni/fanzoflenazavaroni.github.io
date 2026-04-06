@@ -2,6 +2,7 @@
 layout: post
 title: Ma! (He's Making Eyes At Me)
 maintitle: Ma! (He's Making Eyes At Me)
+sortorder: 1
 extra: ", UK Re-Release"
 subtitle: Studio Album - Re-Released In The UK On 12" Vinyl, 33⅓ Album
 year: 1976

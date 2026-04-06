@@ -2,6 +2,7 @@
 layout: discography
 title: If My Friends Could See Me Now
 maintitle: If My Friends Could See Me Now
+sortorder: 1
 extra: ", UK Cassette Tape Release"
 subtitle: Studio Album - Released In The UK On Cassette Tape
 year: 1975

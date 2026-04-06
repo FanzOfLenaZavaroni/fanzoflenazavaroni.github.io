@@ -43,7 +43,7 @@ maintitle: "Category: Discography Studio Albums"
     {% endif %}
   {% endif %}
 
-  {% capture entry %}{{ prefix }}|{{ item.url }}|{{ item.maintitle }}|{{ item.extra }}{% endcapture %}
+  {% capture entry %}{{ prefix }}|{{ item.url }}|{{ item.maintitle }}|{{ item.extra }}|{{ item.sortorder }}{% endcapture %}
 
   {% if group == "full" %}
     {% assign list_full = list_full | push: entry %}
@@ -56,7 +56,6 @@ maintitle: "Category: Discography Studio Albums"
 
 {% assign list_full = list_full | sort %}
 {% assign list_year_month = list_year_month | sort %}
-{% assign list_year_only = list_year_only | sort %}
 
 {% assign box_index = 0 %}
 
@@ -96,8 +95,26 @@ maintitle: "Category: Discography Studio Albums"
   {% assign box_index = box_index | plus: 1 %}
   {% assign box_id = 'infobox' | append: box_index %}
   <h2 id="{{ box_id }}"><a href="#{{ box_id }}">Year Only</a></h2>
-  <ul>
+
+  {% assign sorted_year_only = "" | split: "," %}
+
   {% for entry in list_year_only %}
+    {% assign data = entry | split: "|" %}
+    {% assign year = data[0] %}
+    {% assign sortorder = data[4] | default: 999999999 %}
+
+    {% capture sortable %}
+      {{ year | plus: 0 }}-{{ sortorder | plus: 0 }}|{{ entry }}
+    {% endcapture %}
+
+    {% assign sorted_year_only = sorted_year_only | push: sortable %}
+  {% endfor %}
+
+  {% assign sorted_year_only = sorted_year_only | sort %}
+
+  <ul>
+  {% for sortable in sorted_year_only %}
+    {% assign entry = sortable | split: "|" | slice: 1, 10 | join: "|" %}
     {% assign data = entry | split: "|" %}
     <li>
       <a href="{{ data[1] | relative_url }}">

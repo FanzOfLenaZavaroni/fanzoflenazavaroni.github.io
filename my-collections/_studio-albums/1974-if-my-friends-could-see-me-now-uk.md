@@ -2,6 +2,7 @@
 layout: discography
 title: If My Friends Could See Me Now
 maintitle: If My Friends Could See Me Now
+sortorder: 3
 extra: ", UK Release"
 subtitle: Studio Album - Released In The UK On 12" Vinyl, 33⅓ Album
 year: 1974

@@ -2,6 +2,7 @@
 layout: discography
 title: Ma! (He's Making Eyes At Me)
 maintitle: Ma! (He's Making Eyes At Me)
+sortorder: 1
 extra: ", UK Cassette Tape Release"
 subtitle: Studio Album - Released In The UK On Cassette Tape
 year: 1974
