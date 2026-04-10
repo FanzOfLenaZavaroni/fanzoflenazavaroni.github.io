@@ -2,7 +2,7 @@
 layout: post
 title: 'Record "Popswop" Mirror &#124; 1 March 1975'
 maintitle: 'Record "Popswop" Mirror'
-suffix: ", Sssh.."
+suffix: ": Sssh.."
 subtitle: Magazine
 description: besides  we always said Lena Zavaroni could take Shirley Temple for a ride (any time).
 post_description: besides we always said Lena Zavaroni could take Shirley Temple for a ride (any time).

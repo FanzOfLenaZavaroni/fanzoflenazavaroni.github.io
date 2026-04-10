@@ -2,7 +2,7 @@
 layout: post
 title: Woman's Own &#124; 22 June 1985
 maintitle: Woman's Own
-suffix: ", interview with Lena Zavaroni"
+suffix: ": interview with Lena Zavaroni"
 subtitle:
 description: An inspiring look at Lena Zavaroni’s strength and recovery—shared in her own words in a 1985 Woman’s Own interview.
 post_description: An inspiring look at Lena Zavaroni’s strength and recovery—shared in her own words in a 1985 Woman’s Own interview.

@@ -2,7 +2,7 @@
 layout: post
 title: Record Mirror & Disc &#124; 10 April 1976
 maintitle: Record Mirror & Disc
-suffix: ", LOOK FOR..."
+suffix: ": LOOK FOR..."
 subtitle: Magazine
 description: London Weekend TV, Friday, April 9; Russell Harty's guests are Edna Everidge, Helen Mirren. Lena Zavaroni.
 post_description: London Weekend TV, Friday, April 9; Russell Harty's guests are Edna Everidge, Helen Mirren. Lena Zavaroni.

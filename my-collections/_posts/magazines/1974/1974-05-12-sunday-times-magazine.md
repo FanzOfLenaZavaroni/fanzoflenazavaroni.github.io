@@ -2,7 +2,7 @@
 layout: post
 title: Sunday Times Magazine &#124; 12 May 1974
 maintitle: Sunday Times Magazine
-suffix: ", SWINGING ON A STAR"
+suffix: ": SWINGING ON A STAR"
 subtitle: Supplement
 description: Published a profile of Lena Zavaroni.
 media: Published

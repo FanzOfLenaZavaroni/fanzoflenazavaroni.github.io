@@ -2,7 +2,7 @@
 layout: post
 title: Record and Radio Mirror &#124; 2 February 1976
 maintitle: Record and Radio Mirror
-suffix: ", Singles UK"
+suffix: ": Singles UK"
 subtitle: Magazine
 description: "LENA ZAVARONI: Ma! (He's Making Eyes At Me) (Philips. 6006 3671). Ten-year-old girl who is a regular winner on Opportunity Knocks."
 post_description: "LENA ZAVARONI: Ma! (He's Making Eyes At Me) (Philips. 6006 3671). Ten-year-old girl who is a regular winner on Opportunity Knocks."

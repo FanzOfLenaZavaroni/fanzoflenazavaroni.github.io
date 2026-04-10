@@ -2,7 +2,7 @@
 layout: post
 title: Variety &#124; 22 August 1974
 maintitle: Variety
-suffix: ", MUSIC-NITERIES"
+suffix: ": MUSIC-NITERIES"
 subtitle: Carol Burnett Show Guest Stars Lined Up
 description: Carol Burnett Show Guest Stars Lined Up.
 post_description: Carol Burnett Show Guest Stars Lined Up.

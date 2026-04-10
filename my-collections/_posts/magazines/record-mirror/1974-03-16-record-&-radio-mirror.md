@@ -2,7 +2,7 @@
 layout: post
 title: Record and Radio Mirror &#124; 16 March 1974
 maintitle: Record and Radio Mirror
-suffix: ", Top Fifty"
+suffix: ": Top Fifty"
 subtitle: "Lena's single Ma! (He's Making Eyes At Me) moves down the charts from number 13 to number 14"
 description: "Lena's single Ma! (He's Making Eyes At Me) moves down the charts from number 13 to number 14"
 post_description: "Lena's single Ma! (He's Making Eyes At Me) moves down the charts from number 13 to number 14"

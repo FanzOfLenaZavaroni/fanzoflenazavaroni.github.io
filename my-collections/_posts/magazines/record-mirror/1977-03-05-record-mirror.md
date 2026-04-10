@@ -2,7 +2,7 @@
 layout: post
 title: Record Mirror &#124; 5 March 1977
 maintitle: Record Mirror
-suffix: ", THE REST"
+suffix: ": THE REST"
 subtitle: Magazine
 description: "LENA ZAVARONI 'Air lave' (Galaxy GY114)"
 post_description: "LENA ZAVARONI 'Air lave' (Galaxy GY114)"

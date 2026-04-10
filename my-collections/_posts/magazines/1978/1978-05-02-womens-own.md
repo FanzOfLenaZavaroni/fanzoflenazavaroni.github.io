@@ -2,7 +2,7 @@
 layout: post
 title: Women's Own &#124; 2 May 1978
 maintitle: Women's Own
-suffix: ", Lena Zavaroni is happy, in love and eating heartily again!"
+suffix: ": Lena Zavaroni is happy, in love and eating heartily again!"
 subtitle: Magazine
 description: After all the problems and heartache, Lena Zavaroni is happy, in love &#8212; and eating heartily again!
 post_description: After all the problems and heartache, Lena Zavaroni is happy, in love &#8212; and eating heartily again!

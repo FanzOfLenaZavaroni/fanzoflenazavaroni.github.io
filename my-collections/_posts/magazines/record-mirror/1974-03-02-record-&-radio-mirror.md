@@ -2,7 +2,7 @@
 layout: post
 title: Record and Radio Mirror &#124; 2 March 1976
 maintitle: Record and Radio Mirror
-suffix: ", Top Fifty + Meet Lena the human dynamo"
+suffix: ": Top Fifty + Meet Lena the human dynamo"
 subtitle: "Lena's single Ma! (He's Making Eyes At Me) moves up the charts from number 13 to number 10"
 description: "Lena's single Ma! (He's Making Eyes At Me) moves up the charts from number 13 to number 10"
 post_description: "Lena's single Ma! (He's Making Eyes At Me) moves up the charts from number 13 to number 10"

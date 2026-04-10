@@ -2,7 +2,7 @@
 layout: post
 title: Record and Radio Mirror &#124; 16 February 1976
 maintitle: Record and Radio Mirror
-suffix: ", Top Fifty"
+suffix: ": Top Fifty"
 subtitle: Magazine
 description: Page 2 has the chat positions for the Top 50 Singles and Albums plus it comments on Lena in the Chart Chatter side section.
 post_description: Page 2 has the chat positions for The top 50 Singles and Albums plus it comments on Lena in the Chart Chatter section, describing her as an incredible singer given her age.

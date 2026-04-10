@@ -3,7 +3,7 @@ layout: post
 after: " - 25 May 1979 Published On The 17 May 1979"
 title: Radio Times &#124; 19 May
 maintitle: Radio Times
-suffix: ", featured a two page article on Lena Zavaroni and Music"
+suffix: ": Featured a two page article on Lena Zavaroni and Music"
 subtitle: TV Guide
 description: Two page article, behind the scenes at the filming of Lena's first series for the BBC, Lena Zavaroni and Music.
 media: Details

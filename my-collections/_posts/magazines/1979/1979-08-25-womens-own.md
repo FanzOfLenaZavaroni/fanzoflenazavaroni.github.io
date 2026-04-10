@@ -2,7 +2,7 @@
 layout: post
 title: Women's Own &#124; 25 August 1979
 maintitle: Women's Own
-suffix: ", Other People And Their Scents"
+suffix: ": Other People And Their Scents"
 subtitle: Magazine
 description: Women's Own featured an article in which Lena was asked about her favourite perfume.
 post_description: Featured an article in which Lena was asked about her favourite perfume.

@@ -5,8 +5,7 @@ maintitle: Scottish Women
 subtitle: Lena took part in a discussion on the price of fame.
 description: Lena took part in a discussion on the price of fame.
 post_description: Lena took part in a discussion on the price of fame.
-image: /assets/images/Media-Logos/bfi_logo_transp.png
-categories: [Scottish Television (STV), OnThisDay31May]
+categories: [Scottish Television, OnThisDay31May]
 last_modified_at: 22 November 2023
 ---
 

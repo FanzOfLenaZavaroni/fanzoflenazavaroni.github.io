@@ -5,8 +5,7 @@ maintitle: Lena's Pre-recorded Sequence For The New Year Show Is Recorded
 subtitle: Scottish Television
 description: The pre-recorded sequence is used on the live show at 13 minutes to midnight.
 post_description: The pre-recorded sequence is used on the live show at 13 minutes to midnight.
-image: /assets/images/STV/Auld.jpg
-categories: [Television Scottish Television (STV), OnThisDay21November]
+categories: [Scottish Television, OnThisDay21November]
 last_modified_at: 20 November 2025
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: pink & tina &#124; 29 June 1974
 maintitle: pink & tina
-suffix: ", Lena Zavaroni’s Early Rise"
+suffix: ": Lena Zavaroni’s Early Rise"
 subtitle: The Magazine carried a short article about Lena Zavaroni.
 description: There was a short article about Lena  Zavaroni in the magazine.
 post_description: carried a short article about Lena Zavaroni.

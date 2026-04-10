@@ -2,7 +2,7 @@
 layout: post
 title: Radiocorriere &#124; 4 January 1975
 maintitle: Radiocorriere
-suffix: ", Alle sette della sera (At Seven in the Evening)"
+suffix: ": Alle sette della sera (At Seven in the Evening)"
 subtitle: Italian TV & Radio Listings Magazine
 description: In its listings for Wednesday 8 January at 7pm is the programme &quot;AT SEVEN IN THE EVENING&quot; its film of the evening was about Lena Zavaroni.
 post_description: In its listings for Wednesday 8 January at 7pm is the programme &quot;AT SEVEN IN THE EVENING&quot; its film of the evening was about Lena Zavaroni.

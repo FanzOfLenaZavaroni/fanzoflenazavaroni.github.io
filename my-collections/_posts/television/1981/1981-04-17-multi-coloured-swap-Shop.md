@@ -3,89 +3,60 @@ layout: post
 title: Multi Coloured Swap Shop &#124; 17 April 1981
 maintitle: Multi Coloured Swap Shop
 subtitle: Star Awards 1981
-description: Noel Edmonds hosts a star-studded show together with John Craven, Keith Chegwin and Maggie Philbm. Find out who's won the Eric awards for the favourite man and favourite lady on TV.
-media: BBC One
-post_description: Noel Edmonds hosts a star-studded show together with John Craven, Keith Chegwin and Maggie Philbm. Find out who's won the Eric awards for the favourite man and favourite lady on TV.
-categories: [BBC One, Multi Coloured Swap Shop, OnThisDay17April]
+description: Noel Edmonds hosts a star-studded show together with John Craven, Keith Chegwin and Maggie Philbin. Find out who's won the Eric awards for the favourite man and favourite lady on TV.
+post_description: Noel Edmonds hosts a star-studded show together with John Craven, Keith Chegwin and Maggie Philbin. Find out who's won the Eric awards for the favourite man and favourite lady on TV.
+categories: [BBC One, OnThisDay17April]
 ---
 
-<table>
-<tr align="center">
-<th>Jump To:</th>
-<td><a href="#youtube">Youtube</a></td>
-<td><a href="#summary">Summary</a></td>
-<td><a href="#awards">Awards</a></td>
-<td><a href="#brown-sauce">Brown Sauce</a></td>
-<td><a href="#wikipedia">Wikipedia</a></td>
-</tr>
-<tr align="center">
-<th>External Links:</th>
-<td colspan="3"><a href="https://genome.ch.bbc.co.uk/2cdaf69eeff74dc6b324747c7b71ca33">BBC Genome</a></td>
-<td colspan="2"><a href="https://en.wikipedia.org/wiki/Brown_Sauce_(band)">Wikipedia</a></td>
-</tr>
-</table>
+<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
+<a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1981-04-17#at-16.40">BBC Genome</a>
+<a href="#infobox1">Summary</a>
+<a href="#infobox2">Awards</a>
+<a href="#infobox3">TOTP</a>
+<a href="#infobox4">Wikipedia</a>
+</div>
+<br />
+<h2 id="infobox1"><a href="#infobox1">Summary</a></h2>
 
-### Youtube
-<div class="responsive-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/cnCH4lNoy3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p>Noel Edmonds hosts a star-studded show together with John Craven, Keith Chegwin and Maggie Philbin. Find out who's won the Eric awards for the favourite man and favourite lady on TV./
+<p>Join Noel's guests, the celebrities and the stars at the presentation ceremony and see if all the voters agree with you! And see an extraordinary once-only performance by Brown Sauce.
 
-### Summary
-> Noel Edmonds hosts a star-studded show together with John Craven, Keith Chegwin and Maggie Philbm. Find out who's won the Eric awards for the favourite man and favourite lady on TV.
->
-> Join Noel's guests, the celebrities and the stars at the presentation ceremony and see if all the voters agree with you! And see an extraordinary once-only performance by Brown Sauce.
+<h2 id="infobox2"><a href="#infobox2">Awards</a></h2>
 
-### Awards
-<table>
-<tr>
-<th>Favourite Pop Star?</th>
-<td>Adam Ant</td>
-</tr>
+<dl>
+<dt>Favourite Pop Star?</dt>
+<dd>Adam Ant</dd>
 
-<tr>
-<th>Favourite Man on TV?</th>
-<td>John Cleese (He was presented the award by Lena Zavaroni.)</td>
-</tr>
+<dt>Favourite Man on TV?</dt>
+<dd>John Cleese (He was presented the award by Lena Zavaroni)</dd>
 
-<tr>
-<th>Favourite Lady on TV?</th>
-<td>Barbara Woodhouse</td>
-</tr>
+<dt>Favourite Lady on TV?</dt>
+<dd>Barbara Woodhouse</dd>
 
-<tr>
-<th>Favourite Pop Group?</th>
-<td>The Police</td>
-</tr>
+<dt>Favourite Pop Group?</dt>
+<dd>The Police</dd>
 
-<tr>
-<th>Favourite Programme?</th>
-<td>Grange Hill</td>
-</tr>
+<dt>Favourite Programme?</dt>
+<dd>Grange Hill</dd>
 
-<tr>
-<th>Funniest TV Show?</th>
-<td>The Little and Large Show</td>
-</tr>
+<dt>Funniest TV Show?</dt>
+<dd>The Little and Large Show</dd>
 
-<tr>
-<th>Top Expert?</th>
-<td>David Bellamy</td>
-</tr>
-</table>
+<dt>Top Expert?</dt>
+<dd>David Bellamy</dd>
+</dl>
 
-### Brown Sauce
-> <div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/4eHuH65qEX4?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
->
-> In fact Brown Sauce also performed on TOTP.
->
-> Good quality rare video recorded from Top Of The Pos 1981. Keith Chegwin (Cheggers) on Guitar Maggie on Bass (his wife) and Noel Edmonds on Drums. Brown Sauce was a pop band, made up of presenters from the television programme, Multi-Coloured Swap Shop. These were Keith Chegwin, Maggie Philbin and Noel Edmonds. They formed for a one-off single in late 1981 called "I Wanna Be a Winner". After that became a hit, they released another in 1982, but failed to make an impact.
+<h2 id="infobox3"><a href="#infobox3">TOTP</a></h2>
 
-<cite>[memorylane1980s](https://youtu.be/4eHuH65qEX4)</cite>
+<p>In fact Brown Sauce also performed on TOTP.
 
-### Wikipedia
-> The trio had been presenting the Saturday morning programme Multi-Coloured Swap Shop together since 1978. In late 1981 they decided to release a single as a novelty one-off. The song "I Wanna Be a Winner" was written by B. A. Robertson and became a surprise hit, reaching #15 in the UK Singles Chart in January 1982. The song remained on the UK chart for 12 weeks. The group also recorded a vide. The song referenced many famous names of the time such as Diana, Princess of Wales, Barbara Woodhouse and Kevin Keegan. The song was mainly performed by Chegwin and Philbin who jointly shared lead vocals. Neither Philbin or Edmonds had any musical background, although Chegwin had performed in bands in the early 1970s. The video depicted Chegwin and Philbin playing guitars and Edmonds playing drums, although they did not play these instruments on the recording.
->
-> The b-side of the single was "Hello Hello" - the theme music of the TV programme. Due to the success of the single, a follow-up was released called "Spring Has Sprung" in March 1982 under a new name, The Saucers (this time without Edmonds). This failed to enter the charts and the group went no further. This was also the month that the TV show itself ended, with Chegwin and Philbin performing "Spring Has Sprung" on the last edition.
->
-> During an interview at Live 8 in 2005, Edmonds made mention of the group saying that they scored a Top 20 hit and performed on Top of the Pops.
+<cite><a class="external-link" href="https://www.youtube.com/watch?v=4eHuH65qEX4">YouTube: memorylane1980s, Brown Sauce</a></cite>
 
-<cite>[Wikipedia](https://en.wikipedia.org/wiki/Brown_Sauce_(band))</cite>
+<h2 id="infobox4"><a href="#infobox4">Wikipedia</a></h2>
+
+<p>The trio had been presenting the Saturday morning programme Multi-Coloured Swap Shop together since 1978. In late 1981 they decided to release a single as a novelty one-off. The song "I Wanna Be a Winner" was written by B. A. Robertson and became a surprise hit, reaching #15 in the UK Singles Chart in January 1982. The song remained on the UK chart for 12 weeks. The group also recorded a video. The song referenced many famous names of the time such as Diana, Princess of Wales, Barbara Woodhouse and Kevin Keegan. The song was mainly performed by Chegwin and Philbin who jointly shared lead vocals. Neither Philbin or Edmonds had any musical background, although Chegwin had performed in bands in the early 1970s. The video depicted Chegwin and Philbin playing guitars and Edmonds playing drums, although they did not play these instruments on the recording.
+<p>The b-side of the single was "Hello Hello" - the theme music of the TV programme. Due to the success of the single, a follow-up was released called "Spring Has Sprung" in March 1982 under a new name, The Saucers (this time without Edmonds). This failed to enter the charts and the group went no further. This was also the month that the TV show itself ended, with Chegwin and Philbin performing "Spring Has Sprung" on the last edition.
+<p>During an interview at Live 8 in 2005, Edmonds made mention of the group saying that they scored a Top 20 hit and performed on Top of the Pops.
+
+<cite><a class="external-link" href="https://en.wikipedia.org/wiki/Brown_Sauce_(band)">Wikipedia: Brown Sauce</a></cite>
 
