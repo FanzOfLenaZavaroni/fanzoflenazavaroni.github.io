@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 0FFO-1974-JUN15-010-cropped.jpeg, 1974-junior-showtime.jpg, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d81f41e8b99c25525f984bb09c1d74e6f6313e25)
-- [Update billboard.md, the-stage-and-television-today.md, and 38 more f…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e52921aef82c90168c49d82f27dac299ca7e289b)
-- [Update 1981-04-02-totp.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a24c53c1e7e84b62d2f3f0b5084e890de8374ad9)
-- [Update magazines.md, titbits.md, and 38 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/65902a2390ee2057762d052e8717eac6a72d8b7d)
-- [Update discography-tribute-songs.md and 2012-03-28-ginger-ninja-phil-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/7ebf5bed83e91d893ec7067099f76be707c93fe7)
+- [Update lena-zavaroni-image-copyright-bbc.jpg, 1979-05-19-radiotimes-0…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/009788703c1c1e4988acd2344421af8d23a11dcb)
+- [Fix template variable from &#39;post.title&#39; to &#39;page.title&#39;](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/043ffd46466921f2d2e1af299a562d55c003d6de)
+- [Update scottish-television.md, 1974-04-13-billboard.md, and 49 more f…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/77271c02ae04e71f3bac00c878242d48d249323a)
+- [Update 404.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/dc8bdc92a28a4466cc1bbec1e53a70b533376ab5)
+- [Update discography-studio-albums.md, new-theatre-southport.md, and 12…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4fb1ff5c45acd67050826d17b0afebf47021ccb7)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
