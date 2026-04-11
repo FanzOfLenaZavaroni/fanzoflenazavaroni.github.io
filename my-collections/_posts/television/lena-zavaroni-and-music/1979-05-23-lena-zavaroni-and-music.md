@@ -5,25 +5,56 @@ maintitle: Lena Zavaroni and Music - Episode 1
 subtitle: "Guests: Elaine Stritch, Wayne Sleep and George Chisholm"
 description: This week's guests are Elaine Stritch, Wayne Sleep and George Chisholm.
 post_description: This week's guests are Elaine Stritch, Wayne Sleep and George Chisholm.
-image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
 categories: [BBC One, Lena Zavaroni and Music, Dougie Squires, OnThisDay23May]
-last_modified_at: 26 November 2023
+last_modified_at: 11 April 2026
 ---
 
-<figure class="fig1">
-<div class="CardLayout CardLayout-Height1">
-<div class="CardItem">
-<h2 id="infobox1" class="infobox"><a href="#infobox1">BBC Publicity Photo</a></h2>
-<div class="CardItem split">
-<img src="/assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg" class="full-width" />
-</div></div></div>
-</figure>
+{% assign tb_posts = site.posts
+    | where_exp: "post", "post.categories contains 'Lena Zavaroni and Music'"
+    | sort: "date" %}
 
-<figure class="fig2">
-<div class="CardLayout CardLayout-Height1">
-<div class="CardItem">
-<h2 id="infobox2" class="infobox"><a href="#infobox2">Set List</a></h2>
-<div class="CardItem split">
+{% assign index = nil %}
+
+{% for p in tb_posts %}
+  {% if p.url == page.url %}
+    {% assign index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_index = index | minus: 1 %}
+{% assign next_index = index | plus: 1 %}
+
+{% assign prev = nil %}
+{% assign next = nil %}
+
+{% if prev_index >= 0 %}
+  {% assign prev = tb_posts[prev_index] %}
+{% endif %}
+
+{% if next_index < tb_posts.size %}
+  {% assign next = tb_posts[next_index] %}
+{% endif %}
+
+<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
+
+  {% if prev %}
+    <a href="{{ prev.url }}">« Previous Episode</a>
+  {% else %}
+    <span style="visibility:hidden;">« Previous Episode</span>
+  {% endif %}
+
+  <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1979-05-23#at-19.00">BBC Genome: Series 1, Episode 1</a>
+
+  {% if next %}
+    <a href="{{ next.url }}">Next Episode »</a>
+  {% else %}
+    <span style="visibility:hidden;">Next Episode »</span>
+  {% endif %}
+
+</div>
+
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Set List</a></h2>
+
 <ul>
 <li>Music Was My First Love (Lena)</li>
 <li>A clog dance to the music of Violinski (Wayne Sleep)</li>
@@ -33,14 +64,9 @@ last_modified_at: 26 November 2023
 <li>All That Jazz (The Ace Eight with Lena, Elaine Stritch, Wayne Sleep and George Chisholm.)</li>
 <li>Thank You For The Music (Lena)</li>
 </ul>
-</div></div></div>
-</figure>
 
-<figure class="fig1">
-<div class="CardLayout CardLayout-Height2">
-<div class="CardItem">
-<h2 id="infobox3" class="infobox"><a href="#infobox3">Cast</a></h2>
-<div class="CardItem split">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Cast</a></h2>
+
 <ul>
 <li><strong>Hostess and Signer:</strong> Lena Zavaroni</li>
 <li><strong>Special guest:</strong> Elaine Stritch</li>
@@ -49,20 +75,9 @@ last_modified_at: 26 November 2023
 <li><strong>Musicians:</strong> Violinski</li>
 <li><strong>Dancers:</strong> The Ace Eight</li>
 </ul>
-</div>
-<div class="CardItem"><h2 id="infobox4" class="infobox"><a href="#infobox4">Links</a></h2>
-<ul>
-<li><strong>Category:</strong> <a href="/category/lena-zavaroni-and-music">Lena Zavaroni and Music</a></li>
-<li><strong>BBC Genome:</strong> <a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1979-05-23#at-19.00">Series 1, Episode 1</a></li>
-</ul>
-</div></div></div>
-</figure>
 
-<figure class="fig2">
-<div class="CardLayout CardLayout-Height2">
-<div class="CardItem">
-<h2 id="infobox5" class="infobox"><a href="#infobox5">Crew</a></h2>
-<div class="CardItem split">
+<h2 id="infobox3" class="infobox"><a href="#infobox3">Crew</a></h2>
+
 <ul>
 <li><strong>Orchestra:</strong> Alyn Ainsworth and his Orchestra</li>
 <li><strong>Musical Director:</strong> Alyn Ainsworth</li>
@@ -74,11 +89,4 @@ last_modified_at: 26 November 2023
 <li><strong>Designer:</strong> Nigel Curzon</li>
 <li><strong>Production</strong> David G. Hillier</li>
 </ul>
-</div></div></div>
-</figure>
 
-<style>
-.CardLayout-Height1 {height:396.5px;}
-.CardLayout-Height2 {height:425px;}
-@media screen and (orientation:portrait) {.CardLayout-Height1, .CardLayout-Height2 {height: unset;}}
-</style>

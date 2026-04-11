@@ -12,7 +12,7 @@ last_modified_at: 5 December 2025
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Summary</a></h2>
-<p>Today's guest Lena Zavaroni sings all the songs from her album <a href="/discography/studio-albums/1977-presenting-lena-zavaroni">Presenting Lena Zavaroni</a> including her single <a href="/discography/singles/1977-02-18-air-love">Air Love</a> which is also on the album.</p>
+<p>Today's guest Lena Zavaroni sings all the songs from her album <a href="/discography/studio-albums/1977-03-presenting-lena-zavaroni">Presenting Lena Zavaroni</a> including her single <a href="/discography/singles/1977-02-18-air-love">Air Love</a> which is also on the album.</p>
 
 <h2 id="infobox2"><a href="#infobox2">Crew</a></h2>
 <ul>

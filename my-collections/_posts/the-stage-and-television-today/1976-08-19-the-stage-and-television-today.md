@@ -6,7 +6,7 @@ suffix: ": Lena Zavaroni was featured on numerous pages"
 subtitle: Featured a number of pages that made reference to Lena Zavaroni.
 description: Featured a number of pages that made reference to Lena Zavaroni.
 post_description: Featured a number of pages that made reference to Lena Zavaroni.
-categories: [The Stage and Television Today, OnThisDay19August]
+categories: [The Stage and Television Today, Blackpool Opera House, OnThisDay19August]
 ---
 
 <figure class="fig3">
