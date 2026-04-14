@@ -10,20 +10,12 @@ permalink: /discography/podcasts/:name
 last_modified_at: 14 August 2025
 ---
 
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem">
-<h2 id="infobox1" class="infobox"><a href="#infobox1">Podcast Spoken In English</a></h2>
-<div class="CardItem split">
-<iframe src="https://www.listennotes.com/podcasts/my-70s-tv-childhood/opportunity-knocks-kOsgclmxIJM/embed/" height="170px" width="100%" style="width: 1px; min-width: 100%;" loading="lazy" frameborder="0" scrolling="no"></iframe>
-</div></div></div>
-</figure>
+<h2><svg class="icon" viewBox="0 0 512 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
 
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem">
+<iframe src="https://www.listennotes.com/podcasts/my-70s-tv-childhood/opportunity-knocks-kOsgclmxIJM/embed/" height="170px" width="100%" style="width: 1px; min-width: 100%;" loading="lazy" frameborder="0" scrolling="no"></iframe>
+
 <h2 id="infobox2" class="infobox"><a href="#infobox2">ABOUT THIS EPISODE</a></h2>
-<div class="CardItem split">
+
 <blockquote>
 <p>This week, I take a nostalgic journey through one of the most iconic talent shows of the 1970s – "Opportunity Knocks!" While watching modern talent competitions like "Britain's Got Talent" and "The Masked Singer," I found myself reminiscing about Monday evenings in the 70s when families across Britain would gather around their televisions to watch aspiring performers compete for fame on Hughie Green's legendary show.</p>
 <p>"Opportunity Knocks" was a true British institution that began on BBC radio in 1949 before finding its true home on ITV in 1964. By the 1970s, it had become appointment viewing for millions, including my family. The format was refreshingly simple – a variety of acts would perform, the studio audience would show their appreciation via the famous "clapometer," and viewers at home would vote by sending in postcards (yes, actual postcards!) to determine the winner.</p>
@@ -33,5 +25,3 @@ last_modified_at: 14 August 2025
 <p>But perhaps more fascinating are those who didn't win but went on to greater things – Les Dawson, Su Pollard (who famously lost to a singing dog!), Freddie Starr, and Paul Daniels. And who could forget the truly odd acts that somehow captured the public's imagination, from singing nuns to spoon players?</p>
 <p>As the 70s progressed, "Opportunity Knocks" faced competition from the more modern "New Faces," which introduced celebrity judges and scoring systems – pointing the way toward today's talent show formats. But for those of us who grew up in the 70s, nothing quite captures the innocent charm of talent shows like Hughie Green and his clapometer.</p>
 </blockquote>
-</div></div></div>
-</figure>

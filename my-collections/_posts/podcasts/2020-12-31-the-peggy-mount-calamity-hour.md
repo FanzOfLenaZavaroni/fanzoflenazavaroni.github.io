@@ -11,16 +11,10 @@ permalink: /discography/podcasts/:name
 last_modified_at: 30 December 2023
 ---
 
-<figure class="fig3">
-<table style="text-align:center;">
-<tr><th colspan="2">Jump To</th><th>Source</th></tr>
-<tr><td style="width:33.33%;"><a href="#infobox1">Podcast</a></td><td style="width:33.34%;"><a href="#infobox2">Summary</a></td><td style="width:33.33%;"><a class="external-link" href="https://iporlemedia.podbean.com/e/the-70s-stop-herethe-new-year-show">podbean</a></td></tr>
-</table>
-</figure>
+<h2><svg class="icon" viewBox="0 0 512 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="2">Podcast Spoken Language: English</th></tr>
 <tr>
 <th style="width:20%;" class="top"><img src="/assets/images/Parental_Advisory_Strong_Language_2002.png" class="full-width" /></th>
 <td style="width:80%;"><iframe title="The 70s Stop Here/The New Year Show" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=ybsd8-f63e1e-pb&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=&rtl=0&logo_link=&btn-skin=12&size=150"></iframe>

@@ -12,16 +12,10 @@ permalink: /discography/podcasts/:name
 last_modified_at: 31 December 2023
 ---
 
-<figure class="fig3">
-<table style="text-align:center;">
-<tr><th colspan="2">Jump To</th></tr>
-<tr><td style="width:50%;"><a href="#infobox1">Podcast</a></td><td style="width:50%;"><a href="#infobox2">Description</a></td></tr>
-</table>
-</figure>
+<h2><svg class="icon" viewBox="0 0 512 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
 
 <figure class="fig3">
 <table>
-<tr id="infobox1"><th colspan="2">Podcast Spoken Language: English</th></tr>
 <tr>
 <th style="width:25%;" class="top"><img src="/assets/images/podcasts/PFA.jpg" class="full-width" /></th>
 <td style="width:75%;">

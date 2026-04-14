@@ -12,17 +12,12 @@ permalink: /discography/podcasts/:name
 last_modified_at: 8 August 2024
 ---
 
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Spoken Language: English</a></h2></div>
-<div class="CardItem split">
+<h2><svg class="icon" viewBox="0 0 512 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
+
 <p><span style="color: #ff0000; font-weight: bold;">EMBED NO MORE:</span> The former podcast <strong>D-Sides, Orphans, and Oddities</strong> has transitioned to an audio stream. Episodes are now removed after two weeks, eliminating the archive and tracklisting features. As a result, specific episodes—including those featuring Lena Zavaroni—can no longer be identified. Past podcast details remain on the related pages, but with embedded content removed, as the original embed feature is no longer functional. Since the stream does not offer tracklistings, new episodes will not be added to this website.</p>
 <p>Current source for details of this episode: <a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/bay-city-rollers-paul-sbw07qlUBrG/">ListenNotes</a></p>
 <p>D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs: <a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities/">WHUP Radio 104.7 FM</a></p>
 <p>Category: <a href="/category/d-sides-orphans-and-oddities">D-Sides, Orphans, and Oddities</a></p>
-</div>
-</div>
-</figure>
 
 <figure class="fig3">
 <div class="CardLayout">

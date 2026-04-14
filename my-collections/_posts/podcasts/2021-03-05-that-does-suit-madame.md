@@ -11,9 +11,7 @@ tags: podcasts
 permalink: /discography/podcasts/:name
 ---
 
-<h2><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
-
-<h2><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/icons.svg#map-location"></use></svg> United States</h2>
+<h2><svg class="icon" viewBox="0 0 512 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
 
 <iframe src="https://www.listennotes.com/podcasts/that-does-suit/episode-45-the-hero-hLHUt7VZAka/embed/" height="170px" width="100%" style="width: 1px; min-width: 100%;" loading="lazy" frameborder="0" scrolling="no"></iframe>
 

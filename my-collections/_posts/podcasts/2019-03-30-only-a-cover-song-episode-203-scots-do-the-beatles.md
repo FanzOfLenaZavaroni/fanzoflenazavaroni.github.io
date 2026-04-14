@@ -9,11 +9,10 @@ post_description: Episode 203 - Scots Do The Beatles
 categories: [Discography Podcasts, OnThisDay30March]
 tags: podcasts
 permalink: /discography/podcasts/:name
+last_modified_at: 13 April 2026
 ---
 
-<h2><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
-
-<h2><svg class="icon" viewBox="0 0 640 512"><use href="/assets/icons/icons.svg#map-location"></use></svg> United States</h2>
+<h2><svg class="icon" viewBox="0 0 512 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
 
 <iframe src="https://www.listennotes.com/podcasts/only-a-cover-songs/only-a-cover-song-episode-HSvO7BfVrI6/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 

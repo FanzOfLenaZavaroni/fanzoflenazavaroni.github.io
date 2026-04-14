@@ -11,14 +11,11 @@ permalink: /discography/podcasts/:name
 last_modified_at: 30 December 2023
 ---
 
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Podcast Spoken In English</a></h2>
+<h2><svg class="icon" viewBox="0 0 512 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
+
 <p class="post-meta">With thanks to Loving Lena Zavaroni for the post that lead me to Kate O'Sullivan & this podcast.</p>
 <div class="CardItem split">
 <iframe src="https://www.listennotes.com/podcasts/making-an-impression/kate-osullivan-xgPhjOI9Mv8/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
-</div></div></div>
-</figure>
 
 <figure class="fig3">
 <div class="CardLayout">
