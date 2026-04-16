@@ -4,14 +4,6 @@
 /*  fix page content bottom margin for use with cards  */
 .post-content {margin-bottom: 0px;}
 
-/*  cite  */
-cite {
-color: $brand-color;
-font-size: 1rem;
-display: block;
-margin-top: 5px;
-}
-
 // Override heading sizes
 h1 {
   font-size: 2rem !important;
@@ -293,4 +285,14 @@ table {
 
 /* Set icon size to the size of the related tag */
 .icon {height: 1em; vertical-align: -0.125em; fill: currentColor;}
+
+
+blockquote {
+  color: #333333;
+  border-left-color: #333333;
+  font-size: 1rem;
+}
+
+/*  cite  */
+cite {color: #333333;}
 
