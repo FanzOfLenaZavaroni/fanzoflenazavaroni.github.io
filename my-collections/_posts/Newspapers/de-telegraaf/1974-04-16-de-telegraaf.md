@@ -2,6 +2,7 @@
 layout: post
 title: De Telegraaf (The Telegraph Dutch Newspaper) &#124; 16 April 1974
 maintitle: De Telegraaf (The Telegraph Dutch Newspaper)
+suffix: "Lena, 10 jaar en al een ster"
 subtitle: Lena, 10 jaar en al een ster (Lena, 10 years old and already a star)
 description: Article covering Lena's introduction to the Dutch Public.
 post_description: Article covering Lena's introduction to the Dutch Public, and views on child performers.
