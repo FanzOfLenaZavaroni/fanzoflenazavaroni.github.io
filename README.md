@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update lena-zavaroni-image-copyright-bbc.jpg, 1979-05-19-radiotimes-0…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/009788703c1c1e4988acd2344421af8d23a11dcb)
-- [Fix template variable from &#39;post.title&#39; to &#39;page.title&#39;](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/043ffd46466921f2d2e1af299a562d55c003d6de)
-- [Update scottish-television.md, 1974-04-13-billboard.md, and 49 more f…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/77271c02ae04e71f3bac00c878242d48d249323a)
-- [Update 404.html](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/dc8bdc92a28a4466cc1bbec1e53a70b533376ab5)
-- [Update discography-studio-albums.md, new-theatre-southport.md, and 12…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4fb1ff5c45acd67050826d17b0afebf47021ccb7)
+- [Update 2015-04-20-daily-express.md and 1974-04-20-record-&amp;-radio-mirr…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/283a554c2fe6e531fec8f583790647dd10bcb988)
+- [Update de-telegraaf.md, dutch.md, and 7 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d210e28de94d6289de29b451b3ed31afe8117491)
+- [Update custom-styles.scss and 1974-04-16-de-telegraaf.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/835cbec2a1233366e97ebb25da5335b5cc0d7ffe)
+- [Update custom-styles.scss, icons.svg, and 22 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/c7c76c6b5fe13d8f65b72af8fc5308d1137e8787)
+- [Update categories.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/120ae7dfaee8472dcdd618a3e5c74a16aced2293)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
