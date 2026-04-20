@@ -4,7 +4,7 @@ title: Irish Independent &#124; 14 March 2007
 maintitle: Irish Independent
 description: Too much, too soon?
 post_description: Too much, too soon?
-categories: [Newspaper Irish Independent, OnThisDay14March]
+categories: [Newspaper-Irish Independent, OnThisDay14March]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Quote</a></h2>

@@ -5,7 +5,7 @@ maintitle: The People
 subtitle:
 description: A revealing feature on the Kray twins’ lives behind bars—routine, rehabilitation, and rare moments of nostalgia.
 post_description: A revealing feature on the Kray twins’ lives behind bars—routine, rehabilitation, and rare moments of nostalgia.
-categories: [Newspaper People, OnThisDay30June]
+categories: [Newspaper-People, OnThisDay30June]
 last_modified_at: 27 June 2025
 ---
 

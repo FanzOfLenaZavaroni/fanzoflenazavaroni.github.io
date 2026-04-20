@@ -6,7 +6,7 @@ suffix: ": London Section + Hits of the World"
 subtitle: Newspaper
 description: page 90 has an article about capital radio's music schedule, page 107 has the Hits of the World charts.
 post_description: page 90 has an article about capital radio's music schedule, page 107 has the Hits of the World charts.
-categories: [Billboard, OnThisDay30March]
+categories: [Newspaper-Billboard, OnThisDay30March]
 last_modified_at: 28 March 2026
 ---
 

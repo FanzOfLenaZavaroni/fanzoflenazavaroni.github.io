@@ -6,7 +6,7 @@ subtitle: Published extracts from the last letters that Lena Zavaroni sent to he
 description: Published extracts from the last letters that Lena Zavaroni sent to her best friend Elly Dalziel.
 media: Details
 post_description: Published extracts from the last letters that Lena Zavaroni sent to her best friend Elly Dalziel.
-categories: [Newspaper Mirror, OnThisDay27October]
+categories: [Newspaper-Mirror, OnThisDay27October]
 ---
 
 <p><strong>LENA'S DIARY OF DESPAIR; Star's tragic letters to pal tell of suicide bid</strong></p>

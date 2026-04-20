@@ -44,6 +44,11 @@ layout: default
 
 {% for category in categories %}
 
+  {%- comment -%}
+  ---------------------------------------------------------
+  TYPE 1: OnThisDay-* categories (your existing logic)
+  ---------------------------------------------------------
+  {%- endcomment -%}
   {% if category contains "OnThisDay" %}
 
     {% assign day = category | remove: "OnThisDay" %}
@@ -75,6 +80,23 @@ layout: default
 
     <a href="{{ otd_url }}">{{ category }}</a>
 
+
+  {%- comment -%}
+  ---------------------------------------------------------
+  TYPE 2: Newspaper-* categories (your new logic)
+  ---------------------------------------------------------
+  {%- endcomment -%}
+  {% elsif category contains "Newspaper-" %}
+
+    {% assign paper = category | remove: "Newspaper-" %}
+    <a href="/category/newspapers#{{ paper | slugify }}">{{ paper }}</a>
+
+
+  {%- comment -%}
+  ---------------------------------------------------------
+  TYPE 3: Default categories (your existing fallback)
+  ---------------------------------------------------------
+  {%- endcomment -%}
   {% else %}
 
     <a href="{{ site.baseurl }}/category/{{ category | downcase | replace: ' ', '-' }}">{{ category }}</a>
@@ -108,3 +130,4 @@ crossorigin="anonymous"
 async>
 </script>
 </article>
+

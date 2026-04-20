@@ -4,10 +4,8 @@ title: The Sunday Mirror &#124; Reported on the investigation into the Montreux 
 maintitle: The Sunday Mirror
 subtitle: Reported on the investigation into the Montreux Clinic and the abuse of Resident One
 description: Reported on the investigation into the Montreux Clinic and the abuse of Resident One
-media: Newspaper
 post_description: Reported on the investigation into the Montreux Clinic and the abuse of Resident One
-image: /assets/images/newspapers/0FFO-1999-1009-0082.jpeg
-categories: [Newspaper Mirror, OnThisDay10October]
+categories: [Newspaper-Mirror, OnThisDay10October]
 ---
 
 <h2 style="font-weight: bold; color:#ff0000;">Article Warning</h2>

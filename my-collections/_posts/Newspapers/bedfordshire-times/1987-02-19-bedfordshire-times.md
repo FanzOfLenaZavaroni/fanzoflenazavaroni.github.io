@@ -5,7 +5,7 @@ maintitle: Bedfordshire Times
 subtitle: Newspaper
 description: Lena and Peter Wiltshire announce plans to marry.
 post_description: Singer Lena and Bedford local Peter Wiltshire plan an August wedding after a brief romance.
-categories: [Newspaper Bedfordshire Times, OnThisDay19February]
+categories: [Newspaper-Bedfordshire Times, OnThisDay19February]
 last_modified_at: 12 February 2026
 ---
 

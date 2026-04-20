@@ -7,7 +7,7 @@ description: published an article with the tag line "The historic Scots venue th
 media: Details
 post_description: Published an article with the tag line "The historic Scots venue that remains shut after six years and a delayed £15m refurb".
 image: /assets/images/locations/Pavilon323432.jpg
-categories: [Newspaper Herald Scotland, Rothesay Pavilion, OnThisDay29September]
+categories: [Newspaper-Herald Scotland, Rothesay Pavilion, OnThisDay29September]
 ---
 
 <figure class="fig3">

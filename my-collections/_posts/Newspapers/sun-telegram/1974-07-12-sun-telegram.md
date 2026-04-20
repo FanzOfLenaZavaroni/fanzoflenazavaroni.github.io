@@ -5,7 +5,7 @@ maintitle: The Sun Telegram
 subtitle: Lena Zavaroni Returns for Tonight Show Performance
 description: Lena Zavaroni prepares to appear once again on the Tonight Show, following her recent tour in Tokyo.
 post_description: The young Scottish singer gains recognition and returns to American television after impressing Johnny Carson.
-categories: [Newspaper SunTelegram, OnThisDay12July]
+categories: [Newspaper-SunTelegram, OnThisDay12July]
 last_modified_at: 12 July 2025
 ---
 

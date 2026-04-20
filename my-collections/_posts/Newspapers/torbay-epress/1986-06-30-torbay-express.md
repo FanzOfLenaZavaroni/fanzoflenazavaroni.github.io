@@ -5,7 +5,7 @@ maintitle: Torbay Express and South Devon Echo
 subtitle:
 description: A reference to Lena Zavaroni's return to the stage in 1986, co-starring in a summer variety show in Torquay.
 post_description: A reference to Lena Zavaroni's return to the stage in 1986, co-starring in a summer variety show in Torquay.
-categories: [Newspaper TorbayExpress, OnThisDay30June]
+categories: [Newspaper-TorbayExpress, OnThisDay30June]
 last_modified_at: 27 June 2025
 ---
 

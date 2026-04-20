@@ -5,7 +5,7 @@ maintitle: Sandwell Evening Mail
 subtitle:
 description: Lena Zavaroni is briefly mentioned in a health article on anorexia nervosa, alongside Karen Carpenter.
 post_description: Lena Zavaroni is briefly mentioned in a health article on anorexia nervosa, alongside Karen Carpenter.
-categories: [Newspaper Sandwell Evening Mail, OnThisDay9July]
+categories: [Newspaper-Sandwell Evening Mail, OnThisDay9July]
 ---
 
 <figure class="fig3">

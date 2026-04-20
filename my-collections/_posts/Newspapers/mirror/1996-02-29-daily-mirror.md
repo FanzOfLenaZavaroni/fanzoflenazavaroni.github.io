@@ -5,7 +5,7 @@ maintitle: Daily Mirror
 subtitle: Lena Zavaroni In Popular Culture
 description: Lena Zavaroni In Popular Culture.
 post_description: Lena Zavaroni In Popular Culture.
-categories: [Newspaper Mirror, Popular Culture, OnThisDay29February]
+categories: [Newspaper-Mirror, Popular Culture, OnThisDay29February]
 last_modified_at: 28 February 2026
 ---
 

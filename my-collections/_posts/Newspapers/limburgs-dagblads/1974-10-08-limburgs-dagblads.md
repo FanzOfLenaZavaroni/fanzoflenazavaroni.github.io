@@ -6,7 +6,7 @@ suffix: ": Report on artists that performed at the Grugahalle"
 subtitle: Dutch Newspaper
 description: The RTL festival in pictures section report on artists that performed at the Grugahalle, Essen with Lena Zavaroni being one of the artists.
 post_description: The RTL festival in pictures section report on artists that performed at the Grugahalle, Essen with Lena Zavaroni being one of the artists.
-categories: [Newspapers, Dutch, Limburgs Dagblad, OnThisDay8October]
+categories: [Newspaper-Limburgs Dagblad, Dutch, OnThisDay8October]
 last_modified_at: 29 January 2024
 ---
 

@@ -6,7 +6,7 @@ suffix: "Lena, 10 jaar en al een ster"
 subtitle: Lena, 10 jaar en al een ster (Lena, 10 years old and already a star)
 description: Article covering Lena's introduction to the Dutch Public.
 post_description: Article covering Lena's introduction to the Dutch Public, and views on child performers.
-categories: [De Telegraaf, Dutch, OnThisDay16April]
+categories: [Newspaper-De Telegraaf, Dutch, OnThisDay16April]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Details On The Article</a></h2>

@@ -5,7 +5,7 @@ maintitle: Glasgow Herald
 subtitle: The lone star
 description: The lone star
 post_description: The lone star
-categories: [Newspaper Glasgow Herald, OnThisDay18June]
+categories: [Newspaper-Glasgow Herald, OnThisDay18June]
 last_modified_at: 15 June 2025
 ---
 

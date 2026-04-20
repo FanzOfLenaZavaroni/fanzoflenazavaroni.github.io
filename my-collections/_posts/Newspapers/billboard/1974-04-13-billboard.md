@@ -6,7 +6,7 @@ suffix: ": BRUSSELS, COPENHAGEN, BRITAIN"
 subtitle: Newspaper
 description: Lena Zavaroni - Brussels, Copenhagen and Britain.
 post_description: Lena Zavaroni - Brussels, Copenhagen and Britain.
-categories: [Billboard, OnThisDay13April]
+categories: [Newspaper-Billboard, OnThisDay13April]
 last_modified_at: 6 April 2024
 ---
 

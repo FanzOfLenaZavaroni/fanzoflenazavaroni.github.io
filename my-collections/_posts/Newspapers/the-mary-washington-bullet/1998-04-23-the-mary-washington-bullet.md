@@ -5,8 +5,7 @@ maintitle: The Mary Washington Bullet
 subtitle: Lena Zavaroni’s Album. Ma! (He’s Making Eyes At Me)
 description: Mentioned Lena Zavaroni’s Album. Ma! (He’s Making Eyes At Me).
 post_description: Mentioned Lena Zavaroni’s Album. Ma! (He’s Making Eyes At Me).
-image: /assets/images/newspapers/Bullet-Fredericksburg_VA_vol-71_1998-04-23_0001.jpg
-categories: [Newspaper The Mary Washington Bullet, OnThisDay23April]
+categories: [Newspaper-The Mary Washington Bullet, OnThisDay23April]
 ---
 
 <figure class="fig1">

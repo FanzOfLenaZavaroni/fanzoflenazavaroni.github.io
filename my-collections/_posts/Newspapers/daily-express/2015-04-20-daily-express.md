@@ -6,7 +6,7 @@ subtitle: Family of child star Lena Zavaroni call for ban on anorexia websites.
 description: Family of child star Lena Zavaroni call for ban on anorexia websites.
 media: Newspaper
 post_description: Family of child star Lena Zavaroni call for ban on anorexia websites.
-categories: [Newspaper, Daily Express, OnThisDay20April]
+categories: [Newspaper-Daily Express, OnThisDay20April]
 ---
 
 <p><strong>Note:</strong> The photo of Margaret Zavaroni used in the article was lifted from her Facebook Page by the Daily Express, which implies a phone call instead of a face to face interview.</p>
