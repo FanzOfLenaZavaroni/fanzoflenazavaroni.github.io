@@ -6,7 +6,7 @@ suffix: ": Alle sette della sera (At Seven in the Evening)"
 subtitle: Italian TV & Radio Listings Magazine
 description: In its listings for Wednesday 8 January at 7pm is the programme &quot;AT SEVEN IN THE EVENING&quot; its film of the evening was about Lena Zavaroni.
 post_description: In its listings for Wednesday 8 January at 7pm is the programme &quot;AT SEVEN IN THE EVENING&quot; its film of the evening was about Lena Zavaroni.
-categories: [Magazines, OnThisDay4January]
+categories: [Magazine-Radiocorriere, OnThisDay4January]
 last_modified_at: 4 January 2025
 ---
 

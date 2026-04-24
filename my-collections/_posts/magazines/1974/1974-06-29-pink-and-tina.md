@@ -6,7 +6,7 @@ suffix: ": Lena Zavaroni’s Early Rise"
 subtitle: The Magazine carried a short article about Lena Zavaroni.
 description: There was a short article about Lena  Zavaroni in the magazine.
 post_description: carried a short article about Lena Zavaroni.
-categories: [Magazines, OnThisDay29June]
+categories: [Magazine-pink & tina, OnThisDay29June]
 last_modified_at: 29 June 2025
 ---
 

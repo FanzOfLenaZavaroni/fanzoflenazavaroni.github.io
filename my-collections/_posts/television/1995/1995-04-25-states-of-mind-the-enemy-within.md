@@ -9,22 +9,18 @@ post_description: The Princess of Wales, Elton John and Lena Zavaroni have all h
 categories: [BBC Two, OnThisDay25April]
 ---
 
-### Synopsis
-> The Princess of Wales, Elton John and Lena Zavaroni have all had eating disorders. Anorexia and bulimia - the condition in which sufferers binge then purge themselves either by vomiting or using laxatives - are both on the increase.
->
->Tonight, as part of the BBC's mental health season, children's TV presenter Michaela Strachan tells Professor Anthony Clare about her teenage anorexia.
->
-> Michaela recalls her first day at dance school, when her teacher told members of the group that they were either "too fat" or "too thin". From then on, she found that she could survive on less and less food and, eventually, discovered she wasn't hungry.
->
-> After returning from a tour in Canada, her family saw she was markedly thinner, and were alerted to how serious the problem had become.
+<h2 id="infobox1"><a href="#infobox1">Synopsis</a></h2>
 
-<cite>[BBC Genome](https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1995-04-25#at-19.10)</cite>
+<p>The Princess of Wales, Elton John and Lena Zavaroni have all had eating disorders. Anorexia and bulimia - the condition in which sufferers binge then purge themselves either by vomiting or using laxatives - are both on the increase.</p>
+<p>Tonight, as part of the BBC's mental health season, children's TV presenter Michaela Strachan tells Professor Anthony Clare about her teenage anorexia.</p>
+<p>Michaela recalls her first day at dance school, when her teacher told members of the group that they were either "too fat" or "too thin". From then on, she found that she could survive on less and less food and, eventually, discovered she wasn't hungry.</p>
+<p>After returning from a tour in Canada, her family saw she was markedly thinner, and were alerted to how serious the problem had become.</p>
 
-### Cast
-<table>
-<tr><th>Interviewee:</th><td>Michaela Strachan</td></tr>
-<tr><th>Interviewer:</th><td>Professor Anthony Clare</td></tr>
-</table>
+<cite><a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/bbctwo/england/1995-04-25#at-19.10">BBC Genome</a></cite>
 
-<br />{: .clear}
+<h2 id="infobox2"><a href="#infobox2">Cast</a></h2>
 
+<ul>
+<li><strong>Interviewee:</strong> Michaela Strachan</li>
+<li><strong>Interviewer:</strong> Professor Anthony Clare</li>
+</ul>

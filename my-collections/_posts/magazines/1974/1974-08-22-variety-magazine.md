@@ -6,7 +6,7 @@ suffix: ": MUSIC-NITERIES"
 subtitle: Carol Burnett Show Guest Stars Lined Up
 description: Carol Burnett Show Guest Stars Lined Up.
 post_description: Carol Burnett Show Guest Stars Lined Up.
-categories: [Magazines, OnThisDay22August]
+categories: [Magazine-Variety,  OnThisDay22August]
 last_modified_at: 3 April 2026
 ---
 

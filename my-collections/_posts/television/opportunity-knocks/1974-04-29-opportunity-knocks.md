@@ -48,6 +48,6 @@ last_modified_at: 13 January 2024
   {% endif %}
 
 </div>
-
-Lena appeared in the Opportunity Knocks All Winners Show.
+<br />
+<p>Lena appeared in the Opportunity Knocks All Winners Show.</p>
 

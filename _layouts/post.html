@@ -83,7 +83,7 @@ layout: default
 
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 2: Newspaper-* categories (your new logic)
+  TYPE 2: Newspaper-* categories
   ---------------------------------------------------------
   {%- endcomment -%}
   {% elsif category contains "Newspaper-" %}
@@ -94,7 +94,18 @@ layout: default
 
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 3: Default categories (your existing fallback)
+  TYPE 3: Magazine-* categories
+  ---------------------------------------------------------
+  {%- endcomment -%}
+  {% elsif category contains "Magazine-" %}
+
+    {% assign mag = category | remove: "Magazine-" %}
+    <a href="/category/magazines#{{ mag | slugify }}">{{ mag }}</a>
+
+
+  {%- comment -%}
+  ---------------------------------------------------------
+  TYPE 4: Default categories (fallback)
   ---------------------------------------------------------
   {%- endcomment -%}
   {% else %}

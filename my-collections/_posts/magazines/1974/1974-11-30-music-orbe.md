@@ -6,7 +6,7 @@ suffix: ": Featured an article about Lena Zavaroni"
 subtitle: Mexican magazine
 description: Featured an article about Lena Zavaroni it contained two black and white photos, one of which shows Lena wearing a sombrero.
 post_description: Featured an article about Lena Zavaroni it contained two black and white photos, one of which shows Lena wearing a sombrero.
-categories: [Magazines, OnThisDay30November]
+categories: [Magazine-Music Orbe, OnThisDay30November]
 ---
 
 Featured an article about Lena Zavaroni it contained two black and white photos, one of which shows Lena wearing a sombrero.

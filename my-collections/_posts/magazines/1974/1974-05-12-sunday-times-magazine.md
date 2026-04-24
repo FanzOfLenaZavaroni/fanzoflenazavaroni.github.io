@@ -7,7 +7,7 @@ subtitle: Supplement
 description: Published a profile of Lena Zavaroni.
 media: Published
 post_description: A profile of Lena Zavaroni.
-categories: [Magazines, Sunday Times, OnThisDay12May]
+categories: [Magazine-Sunday Times Supplement, OnThisDay12May]
 last_modified_at: 3 April 2026
 ---
 
