@@ -6,7 +6,7 @@ suffix: ": interview with Lena Zavaroni"
 subtitle:
 description: An inspiring look at Lena Zavaroni’s strength and recovery—shared in her own words in a 1985 Woman’s Own interview.
 post_description: An inspiring look at Lena Zavaroni’s strength and recovery—shared in her own words in a 1985 Woman’s Own interview.
-categories: [Magazines, Woman's Own, OnThisDay22June]
+categories: [Magazine-Woman's Own, OnThisDay22June]
 ---
 
 <h2 id="infobox1" class="infobox"><a href="#infobox1">Interview Summary</a></h2>

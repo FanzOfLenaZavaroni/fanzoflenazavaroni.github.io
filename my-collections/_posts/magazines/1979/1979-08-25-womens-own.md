@@ -6,7 +6,7 @@ suffix: ": Other People And Their Scents"
 subtitle: Magazine
 description: Women's Own featured an article in which Lena was asked about her favourite perfume.
 post_description: Featured an article in which Lena was asked about her favourite perfume.
-categories: [Magazines, OnThisDay25August]
+categories: [Magazine-Women's Own OnThisDay25August]
 ---
 
 <figure class="fig3">

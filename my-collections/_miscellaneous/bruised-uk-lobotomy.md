@@ -4,7 +4,6 @@ author: Date of Article unknown
 title: Bruised UK &copy; 2006
 maintitle: Bruised UK
 description: making waves just one drop - Lobotomy - Knowledge is power sadly in the mental health system the power is usually one-sided We aim to change this"
-image: /assets/images/newspapers/2008-01-13-the-observer-elizabeth-day.png
 ---
 
 <figure class="fig3">

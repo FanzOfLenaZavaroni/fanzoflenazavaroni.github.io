@@ -5,7 +5,7 @@ maintitle: Music Week
 subtitle: Magazine
 description: PHIL SOLOMON'S Galaxy label has signed a distribution deal with CBS after two and a half years with President.
 post_description: PHIL SOLOMON'S Galaxy label, which includes such names as Lena Zavaroni. comedian Frank Carson and Irish singer Danny Doyle on its artist rosier, has signed a distribution deal with CBS after two and a half years with President.
-categories: [Music Week, OnThisDay25February]
+categories: [Magazine-Music Week, OnThisDay25February]
 last_modified_at: 24 February 2026
 ---
 

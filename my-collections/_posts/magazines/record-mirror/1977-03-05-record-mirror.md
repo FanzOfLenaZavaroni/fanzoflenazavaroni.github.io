@@ -6,7 +6,7 @@ suffix: ": THE REST"
 subtitle: Magazine
 description: "LENA ZAVARONI 'Air lave' (Galaxy GY114)"
 post_description: "LENA ZAVARONI 'Air lave' (Galaxy GY114)"
-categories: [Magazines, Record Mirror, OnThisDay5March]
+categories: [Magazine-Record Mirror, OnThisDay5March]
 last_modified_at: 1 January 2024
 ---
 

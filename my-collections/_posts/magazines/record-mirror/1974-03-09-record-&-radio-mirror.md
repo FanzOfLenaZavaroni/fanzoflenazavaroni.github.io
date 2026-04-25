@@ -6,7 +6,7 @@ suffix: ": Top Fifty"
 subtitle: "Lena's single Ma! (He's Making Eyes At Me) moves down the charts from number 10 to number 13"
 description: "Lena's single Ma! (He's Making Eyes At Me) moves down the charts from number 10 to number 13"
 post_description: "Lena's single Ma! (He's Making Eyes At Me) moves down the charts from number 10 to number 13"
-categories: [Magazines, Record and Radio Mirror, OnThisDay9March]
+categories: [Magazine-Record and Radio Mirror, OnThisDay9March]
 last_modified_at: 4 March 2026
 ---
 

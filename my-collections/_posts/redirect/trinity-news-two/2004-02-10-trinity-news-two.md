@@ -5,7 +5,7 @@ maintitle: Trinity News Two
 subtitle: Tim Walker Talks To Novelist Andrew O'Hagan
 description: Novelist Andrew O'Hagan talks about how Lena Zavaroni’s life influenced hos novel &quot;Personality&quot;.
 post_description: Novelist Andrew O'Hagan talks about how Lena Zavaroni’s life influenced hos novel &quot;Personality&quot;.
-categories: [Magazines Trinity News Two, Andrew O'Hagan, OnThisDay10February]
+categories: [Magazine-Trinity News Two, Andrew O'Hagan, OnThisDay10February]
 last_modified_at: 10 February 2026
 ---
 
