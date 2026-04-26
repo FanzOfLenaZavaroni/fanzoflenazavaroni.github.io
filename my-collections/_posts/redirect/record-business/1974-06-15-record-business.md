@@ -2,6 +2,7 @@
 layout: post
 title: Record Business &#124; 15 June 1974
 maintitle: Record Business
+suffix: ": Bubbling Under"
 subtitle: Magazine
 description: "This link will redirect you to the PDF on worldradiohistory.com Once your viewing the PDF search for &quot;zavaroni&quot;"
 post_description: "This link will redirect you to the PDF on worldradiohistory.com Once your viewing the PDF search for &quot;zavaroni&quot;"
