@@ -8,7 +8,7 @@ maintitle: "Category: Redirects To PDF"
 {% for post in site.categories["Redirects To PDF"] reversed %}
 {% if post.url %}
 <li>
-<a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a>
+<a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}{{ post.suffix }}</a>
 </li>
 {% endif %}
 {% endfor %}
