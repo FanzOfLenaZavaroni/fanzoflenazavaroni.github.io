@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: discography
 title: If My Friends Could See Me Now
 maintitle: If My Friends Could See Me Now
 extra: ", UK CD Re-Release Of The Original Recording"

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Discography Karaoke"
-maintitle: "Category: Discography Karaoke"
+title: "Discography: Karaoke"
+maintitle: "Discography: Karaoke"
 ---
 
 {% assign items = site.karaoke | where: "categories", "Discography Karaoke" %}

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Discography Singles"
-maintitle: "Category: Discography Singles"
+title: "Discography: Singles"
+maintitle: "Discography: Singles"
 ---
 
 {% assign full_dates = site.posts | where: "categories", "Discography Singles" %}

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Discography Compilation Albums"
-maintitle: "Category: Discography Compilation Albums"
+title: "Discography: Compilation Albums"
+maintitle: "Discography: Compilation Albums"
 ---
 
 {% assign full_dates = site.posts | where: "categories", "Discography Compilation Albums" %}

@@ -3,6 +3,7 @@ layout: discography
 title: Personality &#124; Sheet Music
 maintitle: Personality
 subtitle: Sheet Music
+year: Dates unknown
 description: Personality
 post_description: Personality
 categories: [Discography Sheet Music]

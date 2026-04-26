@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Discography Sound Postcards"
-maintitle: "Category: Discography Sound Postcards"
+title: "Discography: Sound Postcards"
+maintitle: "Discography: Sound Postcards"
 ---
 
 <ul>

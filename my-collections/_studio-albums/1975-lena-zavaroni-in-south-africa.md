@@ -1,13 +1,13 @@
 ---
 layout: discography
-last_modified_at: 15 June 2023
 title: Lena Zavaroni in South Africa
 maintitle: Lena Zavaroni in South Africa
 suffix: ", South Africa Release"
 subtitle: Studio Album
 year: 1975
 description: While in South Africa Lena Zavaroni record an album. It was released in South Africa by the Record and Tape Company in 1975 to coincided with her trip to South Africa.
-categories: [Discography Studio Albums]
+categories: [Discography Studio Albums, OnThisDay28April, OnThisDay29April]
+last_modified_at: 26 April 2026
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Details</a></h2>
@@ -15,7 +15,7 @@ categories: [Discography Studio Albums]
 <ul class="columns2">
 <li><strong>Artist:</strong> Lena Zavaroni</li> 
 <li><strong>Title:</strong> Lena Zavaroni In South Africa</li> 
-<li><strong>Label::</strong> Record and Tape Company – RTL 4074</li> 
+<li><strong>Label::</strong> Record and Tape Company – <a class="external-link" href="https://www.45cat.com/vinyl/album/rtl4074">RTL 4074</a></li> 
 <li><strong>Format::</strong> 12" Vinyl, 33⅓ Album</li> 
 <li><strong>Country::</strong> South Africa</li> 
 <li><strong>Released::</strong> 1975</li> 

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Discography Sheet Music"
-maintitle: "Category: Discography Sheet Music"
+title: "Discography: Sheet Music"
+maintitle: "Discography: Sheet Music"
 subtitle: Dates unknown
 ---
 

@@ -3,6 +3,7 @@ layout: discography
 title: Smile &#124; Sheet Music
 maintitle: Smile
 subtitle: Sheet Music
+year: Date unknown
 description: Smile
 post_description: Smile
 categories: [Discography Sheet Music]

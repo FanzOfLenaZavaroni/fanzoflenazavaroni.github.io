@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Discography Spoken Words"
-maintitle: "Category: Discography Spoken Words"
+title: "Discography: Spoken Words"
+maintitle: "Discography: Spoken Words"
 ---
 
 {% assign items = site.spoken-words | where: "categories", "Discography Spoken Words" %}

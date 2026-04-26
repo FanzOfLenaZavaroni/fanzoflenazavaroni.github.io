@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Discography Studio Albums"
-maintitle: "Category: Discography Studio Albums"
+title: "Discography: Studio Albums"
+maintitle: "Discography: Studio Albums"
 ---
 
 {% assign full_dates = site.posts | where: "categories", "Discography Studio Albums" %}

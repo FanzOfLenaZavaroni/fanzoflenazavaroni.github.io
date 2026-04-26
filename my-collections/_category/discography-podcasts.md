@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Discography Podcasts"
-maintitle: "Category: Discography Podcasts"
+title: "Discography: Podcasts"
+maintitle: "Discography: Podcasts"
 ---
 
 <ul>
