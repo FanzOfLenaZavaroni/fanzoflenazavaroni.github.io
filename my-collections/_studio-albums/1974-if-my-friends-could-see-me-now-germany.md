@@ -2,7 +2,7 @@
 layout: discography
 title: If My Friends Could See Me Now
 maintitle: If My Friends Could See Me Now
-extra: ", German Release"
+suffix: ", German Release"
 subtitle: Studio Album - Released In German On 12" Vinyl, 33⅓ Album
 year: 1974
 categories: [Discography Studio Albums]

@@ -3,7 +3,7 @@ layout: discography
 year: April 1978
 title: Songs Are Such Good Things
 maintitle: Songs Are Such Good Things
-extra: ", UK Release"
+suffix: ", UK Release"
 subtitle: Studio Album
 year: 1978
 categories: [Discography Studio Albums]

@@ -43,7 +43,7 @@ maintitle: "Category: Discography Studio Albums"
     {% endif %}
   {% endif %}
 
-  {% capture entry %}{{ prefix }}|{{ item.url }}|{{ item.maintitle }}|{{ item.extra }}|{{ item.sortorder }}{% endcapture %}
+  {% capture entry %}{{ prefix }}|{{ item.url }}|{{ item.maintitle }}|{{ item.suffix }}|{{ item.sortorder }}{% endcapture %}
 
   {% if group == "full" %}
     {% assign list_full = list_full | push: entry %}

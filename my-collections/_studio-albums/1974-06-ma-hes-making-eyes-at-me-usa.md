@@ -2,7 +2,7 @@
 layout: discography
 title: Ma! (He's Making Eyes At Me)
 maintitle: Ma! (He's Making Eyes At Me)
-extra: ", USA Release"
+suffix: ", USA Release"
 subtitle: Studio Album - Released In The USA On 12" Vinyl, 33⅓ Album
 year: June 1974
 categories: [Discography Studio Albums]

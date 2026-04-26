@@ -2,7 +2,7 @@
 layout: discography
 title: If My Friends Could See Me Now
 maintitle: If My Friends Could See Me Now
-extra: ", Australia Release"
+suffix: ", Australia Release"
 subtitle: Studio Album - Released In Australia On 12" Vinyl, 33⅓ Album
 year: April 1974
 categories: [Discography Studio Albums]

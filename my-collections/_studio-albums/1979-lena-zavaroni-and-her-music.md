@@ -2,7 +2,7 @@
 layout: post
 title: Lena Zavaroni And Her Music
 maintitle: Lena Zavaroni And Her Music
-extra: ", UK Release"
+suffix: ", UK Release"
 subtitle: Studio Album
 year: 1979
 categories: [Discography Studio Albums]
