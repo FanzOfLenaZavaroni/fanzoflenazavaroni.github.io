@@ -1,11 +1,11 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Fundraising"
-maintitle: "Category: Fundraising"
+title: "Category: BBC Radio 4"
+maintitle: "Category: BBC Radio 4"
 ---
 
 <ul>
-{% for post in site.categories.Fundraising reversed %}
+{% for post in site.categories["BBC Radio 4"] reversed %}
 {% if post.url %}
 <li>
 <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a>

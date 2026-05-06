@@ -6,7 +6,7 @@ maintitle: The Spring Show
 subtitle: The Pavilion Theatre, Bournemouth
 description: Lena Zavaroni - The Pavilion Theatre, Bournemouth (25-29 March 1975)
 post_description: Staring Lena Zavaroni (25 - 29 March 1975)
-categories: [Pavilion Theatre, Bournemouth, OnThisDay25March]
+categories: ["Theatre-Pavilion Theatre, Bournemouth", OnThisDay25March]
 last_modified_at: 22 March 2026
 onthisdaylink: false
 ---

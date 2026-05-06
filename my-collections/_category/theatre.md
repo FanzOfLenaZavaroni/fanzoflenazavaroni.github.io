@@ -1,25 +1,29 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Theatre"
-maintitle: "Category: Theatre"
-excerpt_separator: ""
+title: "Category: Theatres"
+maintitle: "Category: Theatres"
 ---
 
-<ul>
-{% assign reversed_posts = site.posts | reverse %}
-{% for post in reversed_posts %}
-{% assign has_theatre_category = false %}
-
-{% for category in post.categories %}
-{% if category contains "Theatre-" %}
-{% assign has_theatre_category = true %}
-{% endif %}
+{% assign show_names = "" | split: "" %}
+{% for cat in site.categories %}
+  {% if cat[0] contains "Theatre-" %}
+    {% assign show_names = show_names | push: cat[0] %}
+  {% endif %}
 {% endfor %}
 
-{% if has_theatre_category %}
-<li>
-<a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a>
-</li>
-{% endif %}
+{% assign sorted_show_names = show_names | sort_natural %}
+
+{% for name in sorted_show_names %}
+  {% assign Show = name | split: "Theatre-" | last %}
+  <h2 id="{{ Show | slugify }}"><a href="#{{ Show | slugify }}">{{ Show }}</a></h2>
+  
+  <ul>
+    {% assign category_posts = site.categories[name] | sort: "date" %}
+    {% for post in category_posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}{{ post.suffix }}</a>
+      </li>
+    {% endfor %}
+  </ul>
 {% endfor %}
-</ul>
+

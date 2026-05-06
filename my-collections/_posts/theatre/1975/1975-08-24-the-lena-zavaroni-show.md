@@ -5,7 +5,7 @@ maintitle: The Lena Zavaroni Show
 subtitle: New Theatre Southport
 description: Starring Lena Zavaroni at The Southport Theatre, Southport.
 post_description: Starring Lena Zavaroni at The Southport Theatre, Southport.
-categories: [New Theatre Southport, The Lena Zavaroni Show, OnThisDay24August]
+categories: ["Theatre-New Theatre, Southport", OnThisDay24August]
 onthisdaylink: false
 ---
 

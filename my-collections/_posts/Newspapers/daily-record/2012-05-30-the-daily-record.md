@@ -13,7 +13,7 @@ last_modified_at: 23 December 2023
 <figure class="fig3">
 <div class="CardLayout">
 <div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">The following Photo and tagline was used as part of their article</a></h2></div>
-<div class="CardItem split"><img src="/assets/images/theatres/queen-eddzabreth-iis-silver-jubilee-celebrations-03.jpg" class="full-width" /></div>
+<div class="CardItem split"><img src="Image Is Intented To Be Missing" alt="Image Is Intented To Be Missing" class="full-width" /></div>
 <div class="CardItem"><cite>The Queen in 1973 meeting stars Sydney Devine, Lena Zavaroni, Allan Stewart, Frankie Howerd (at back), David Soul and Dolly Parton. <a class="external-link" href="https://www.dailyrecord.co.uk/news/scottish-news/gallery-scots-were-just-as-keen-878545#:~:text=The%20Queen%20in%201973%20meeting%20stars%20Sydney%20Devine%2C%20Lena%20Zavaroni%2C%20Allan%20Stewart%2C%20Frankie%20Howerd%20(at%20back)%2C%20David%20Soul%20and%20Dolly%20Parton">The Daily Record</a></cite></div>
 </div>
 </figure>

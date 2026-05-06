@@ -105,7 +105,18 @@ layout: default
 
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 4: Default categories (fallback)
+  TYPE 4: Theatre-* categories
+  ---------------------------------------------------------
+  {%- endcomment -%}
+  {% elsif category contains "Theatre-" %}
+
+    {% assign show = category | remove: "Theatre-" %}
+    <a href="/category/theatre#{{ show | slugify }}">{{ show }}</a>
+
+
+  {%- comment -%}
+  ---------------------------------------------------------
+  TYPE 5: Default categories (fallback)
   ---------------------------------------------------------
   {%- endcomment -%}
   {% else %}

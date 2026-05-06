@@ -5,8 +5,7 @@ maintitle: The Futurist Theatre, Scarborough
 subtitle: Starring Lena Zavaroni
 description: Lena Zavaroni At The Futurist Theatre, Scarborough
 post_description: Starring Lena Zavaroni.
-image: /assets/images/locations/the-futurist-theatre.jpg
-categories: [Theatre Futurist Theatre, OnThisDay18July]
+categories: ["Theatre-Futurist Theatre, Scarborough", OnThisDay18July]
 ---
 
 <figure class="fig3">

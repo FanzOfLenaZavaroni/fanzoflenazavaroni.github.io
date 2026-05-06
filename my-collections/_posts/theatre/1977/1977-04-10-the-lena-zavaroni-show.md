@@ -5,7 +5,7 @@ maintitle: The Lena Zavaroni Show
 subtitle: New Theatre Southport
 description: Songs included Say, Has Anybody Seen My Sweet Gypsy Rose and Pinch Me Am I Dreaming.
 post_description: Songs included Say, Has Anybody Seen My Sweet Gypsy Rose and Pinch Me Am I Dreaming.
-categories: [New Theatre Southport, OnThisDay10April]
+categories: ["Theatre-New Theatre, Southport", OnThisDay10April]
 ---
 
 <p>{{ page.post_description }}</p>
