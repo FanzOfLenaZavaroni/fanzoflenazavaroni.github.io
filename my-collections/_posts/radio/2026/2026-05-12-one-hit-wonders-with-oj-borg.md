@@ -11,7 +11,7 @@ last_modified_at: 16 May 2026
 ---
 
 <div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
-<a class="external-link" href="https://www.bbc.co.uk/schedules/p00fzl8v/2026/05/11#:~:text=LATE-,00%3A00,-OJ%20Borg">BBC Radio 2, Schedule</a>
+<a class="external-link" href="https://www.bbc.co.uk/schedules/p00fzl8v/2026/05/11#:~:text=Massive%20honours%20list.-,02%3A30,-One%20Hit%20Wonders">BBC Radio 2, Schedule</a>
 <a class="external-link" href="https://www.bbc.co.uk/programmes/m002vw3v">BBC Radio 2, PID: m002vw3v</a>
 <a class="external-link" href="https://www.bbc.co.uk/programmes/m002vw3v">BBC Sounds</a>
 </div>
