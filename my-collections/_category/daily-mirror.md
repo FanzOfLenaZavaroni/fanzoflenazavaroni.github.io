@@ -5,10 +5,10 @@ maintitle: "Category: Daily Mirror"
 ---
 
 <ul>
-{% for post in site.categories.Daily-Mirror reversed %}
+{% for post in site.categories["Daily Mirror"] reversed %}
 {% if post.url %}
 <li>
-<a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a>
+<a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}{{ post.suffix }}</a>
 </li>
 {% endif %}
 {% endfor %}

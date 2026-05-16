@@ -5,21 +5,20 @@ maintitle: SOS charity variety show
 subtitle: Theatre Royal, Nottingham
 description: If anybody has information on this Event please add or let me know and I will add it for you or if you were lucky enough to be there then please consider sharing your stories/memories with us. All information is of value and helps to keep the memories we have of Lena Zavaroni alive.
 post_description: If anybody has information on this Event please add or let me know and I will add it for you or if you were lucky enough to be there then please consider sharing your stories/memories with us. All information is of value and helps to keep the memories we have of Lena Zavaroni alive.
-categories: [Theatres, Theatre Royal, Nottingham, Fundraising, OnThisDay14May]
+categories: [Theatre-Theatre Royal - Nottingham, Fundraising, OnThisDay14May]
 ---
 
-There are a number of charities with the leters SOS as part of their name so at this time it's not clear which of the charities was being represented.
-
-I had thought it was the following charity <a href="https://www.sos-childrensvillages.org/who-we-are/history">SOS Children's Villages</a> but a post by Loving Lena Zavaroni suggests that it must be another charity.
+<p>There are a number of charities with the leters SOS as part of their name so at this time it's not clear which of the charities was being represented.</p>
 
 <h2 id="infobox1"><a href="#infobox1">Performers</a></h2>
-<table>
-<tr><th style="width:50%;">Australian Entertainer</th><td style="width:50%;">Rolf Harris</td></tr>
-<tr><th>Scottish Singer</th><td>Lena Zavaroni</td></tr>
-<tr><th>English Ventriloquist</th><td>Ray Allan</td></tr>
-<tr><th>Ventriloquist's Dummy</th><td>Lord Charles</td></tr>
-<tr><th>English Actor</th><td>Clive Dunn</td></tr>
-<tr><th>Impressionist</th><td>Karen Kay</td></tr>
-<tr><th>Magician</th><td>John Wade</td></tr>
-</table>
+
+<ul>
+<li><strong>Australian Entertainer:</strong> Rolf Harris</li>
+<li><strong>Scottish Singer:</strong> Lena Zavaroni</li>
+<li><strong>English Ventriloquist:</strong> Ray Allan</li>
+<li><strong>Ventriloquist's Dummy:</strong> Lord Charles</li>
+<li><strong>English Actor:</strong> Clive Dunn</li>
+<li><strong>Impressionist:</strong> Karen Kay</li>
+<li><strong>Magician:</strong> John Wade</li>
+</ul>
 
