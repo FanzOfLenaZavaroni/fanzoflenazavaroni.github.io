@@ -16,7 +16,7 @@ last_modified_at: 16 May 2026
 <a class="external-link" href="https://www.bbc.co.uk/programmes/m002vw3v">BBC Sounds</a>
 </div>
 
-<h2 id="infobox1"><a href="#infobox1">Details and Track Details</a></h2>
+<h2 id="infobox1"><a href="#infobox1">Details and Tracks</a></h2>
 
 <pre>{% include_relative /2026-05-12-one-hit-wonders-with-oj-borg-tracks.txt %}</pre>
 
