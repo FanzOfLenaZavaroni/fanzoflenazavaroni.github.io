@@ -10,49 +10,36 @@ post_description: An all-star spectacular variety show filmed at the King's Thea
 categories: ["Theatre-King's Theatre, Glasgow", Scottish Television, OnThisDay17May, OnThisDay22May]
 ---
 
- <table>
-<tr align="center">
-<th colspan="4">Jump To:</th>
-</tr>
-<tr align="center">
-<td><a href="#summary">Summary</a></td>
-<td><a href="#tv-listing">TV Listing</a></td>
-<td><a href="#cast">Cast</a></td>
-<td><a href="#crew">Crew</a></td>
-</tr>
-</table>
+<h2 id="infobox1"><a href="#infobox1">Summary</a></h2>
 
-### Summary
-An all-star spectacular variety show filmed at the King's Theatre in Glasgow, as part of Queen Elizabreth II's Silver Jubilee celebrations.
+<p>An all-star spectacular variety show filmed at the King's Theatre in Glasgow, as part of Queen Elizabreth II's Silver Jubilee celebrations.</p>
+<p>Lena sings Whole World In His Hands, Pinch Me Am I Dreaming and Razzle Dazzle accompanied on stage by dancers.</p>
 
-Lena sings Whole World In His Hands, Pinch Me Am I Dreaming and Razzle Dazzle accompanied on stage by dancers.
+<h2 id="infobox2"><a href="#infobox2">Cast</a></h2>
 
-### TV Listing
-![](/assets/images/STV/1977-05-17-the-royal-show-listing.jpg)
+<ul>
+<li><strong>On screen performer:</strong> Lena Zavaroni</li>
+<li><strong>On screen performer:</strong> David Soul</li>
+<li><strong>On screen performer:</strong> Dolly Parton</li>
+<li><strong>On screen performer:</strong> The Jacksons</li>
+<li><strong>On screen performer:</strong> Shari Lewis And lamb Chop</li>
+<li><strong>On screen performer:</strong> Eric Sykes</li>
+<li><strong>On screen performer:</strong> Hattie Jacques</li>
+<li><strong>On screen performer:</strong> Sydney Devine</li>
+<li><strong>On screen performer:</strong> Allan Stewart</li>
+<li><strong>On screen performer:</strong> Bryan Taylor</li>
+<li><strong>On screen performer:</strong> Christian</li>
+<li><strong>On screen performer:</strong> Marie Gordon Price</li>
+<li><strong>On screen performer:</strong> Phil Clarke Jnr</li>
+<li><strong>On screen performer:</strong> Brian Rogers Dancers</li>
+<li><strong>Musical accompaniment:</strong> The Alyn Ainsworth Orchestra</li>
+</ul>
 
-### Cast
-<table>
-<tr><th style="width:30%;">On screen performer: </th><td style="width:70%;">Lena Zavaroni</td></tr>
-<tr><th>On screen performer: </th><td>David Soul</td></tr>
-<tr><th>On screen performer: </th><td>Dolly Parton</td></tr>
-<tr><th>On screen performer: </th><td>The Jacksons</td></tr>
-<tr><th>On screen performer: </th><td>Shari Lewis And lamb Chop</td></tr>
-<tr><th>On screen performer: </th><td>Eric Sykes</td></tr>
-<tr><th>On screen performer: </th><td>Hattie Jacques</td></tr>
-<tr><th>On screen performer: </th><td>Sydney Devine</td></tr>
-<tr><th>On screen performer: </th><td>Allan Stewart</td></tr>
-<tr><th>On screen performer: </th><td>Bryan Taylor</td></tr>
-<tr><th>On screen performer: </th><td>Christian</td></tr>
-<tr><th>On screen performer: </th><td>Marie Gordon Price</td></tr>
-<tr><th>On screen performer: </th><td>Phil Clarke Jnr</td></tr>
-<tr><th>On screen performer: </th><td>Brian Rogers Dancers</td></tr>
-<tr><th>Musical accompaniment:</th><td>The Alyn Ainsworth Orchestra</td></tr>
-</table>
+<h2 id="infobox3"><a href="#infobox3">Crew</a></h2>
 
-### Crew
-<table>
-<tr><th style="width:30%;">Director:</th><td style="width:70%;">Chris Allen</td></tr>
-<tr><th>Producer:</th><td>David Bell</td></tr>
-<tr><th>Production Company:</th><td>Scottish Television</td></tr>
-</table>
+<ul>
+<li><strong>Director:</strong> Chris Allen</li>
+<li><strong>Producer:</strong> David Bell</li>
+<li><strong>Production Company:</strong> Scottish Television</li>
+</ul>
 

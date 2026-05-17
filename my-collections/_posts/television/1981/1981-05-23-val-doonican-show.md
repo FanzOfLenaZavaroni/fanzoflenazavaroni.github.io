@@ -9,57 +9,31 @@ image: /assets/images/BBC/1981-05-23-the-val-doonican-music-show.png
 categories: [BBC One, OnThisDay23May]
 ---
 
-<figure class="fig3">
-<a href="#infobox1"><button class="width"><big>Screenshot</big></button></a>
-<a href="#infobox2"><button class="width"><big>Summary</big></button></a>
-<a href="#infobox3"><button class="width"><big>Cast</big></button></a>
-<a href="#infobox4"><button class="width"><big>Crew</big></button></a>
-<a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1981-05-23#at-20.10"><button class="width"><big>BBC Genome</big> 🔗</button></a>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Summary</a></h2>
 
-{: .clear}
-
-<figure class="fig1">
-<h2 id="infobox1"><a href="#infobox1">Screenshot</a></h2>
-<img src="/assets/images/BBC/1981-05-23-the-val-doonican-music-show.png" class="full-width" />
-</figure>
-
-<figure class="fig2">
-<figcaption>
-<h2 id="infobox2"><a href="#infobox2">Summary</a></h2>
-</figcaption>
 <p>Entertainment for all the family live from the Television Theatre in London.</p>
 <p>Starring Val Doonican Special guests Lena Zavaroni Keith Harris with Orville and introducing Canadian Brass, The Saturday Singers featuring Tracey Miller.</p>
 <p>Lena sings &quot;Roses And Rainbows&quot;, then joins Val for a short medley of songs with a rainy theme.</p>
-</figure>
 
-{: .clear}
+<h2 id="infobox2"><a href="#infobox2">Cast</a></h2>
 
-<figure class="fig1">
-<h2 id="infobox3"><a href="#infobox3">Cast</a></h2>
-<p><strong>Presenter:</strong> Val Doonican</p> 
-<p><strong>Special guest:</strong> Lena Zavaroni</p> 
-<p><strong>Special guest:</strong> Keith Harris</p> 
-<p><strong>Special guests:</strong> Canadian Brass</p> 
-<p><strong>Special guests:</strong> The Saturday Singers featuring Tracey Miller</p> 
-</figure>
+<ul class="columns2">
+<li><strong>Presenter:</strong> Val Doonican</li>
+<li><strong>Special guest:</strong> Lena Zavaroni</li>
+<li><strong>Special guest:</strong> Keith Harris</li>
+<li><strong>Special guests:</strong> Canadian Brass</li>
+<li><strong>Special guests:</strong> The Saturday Singers featuring Tracey Miller</li>
+</ul>
 
-<figure class="fig2">
-<h2 id="infobox4"><a href="#infobox4">Crew</a></h2>
-<p><strong>Musical director:</strong> Ronnie Hazelhurst</p> 
-<p><strong>Production assistant:</strong> Jackie Tyler</p> 
-<p><strong>Production manager:</strong> Mike Pearce</p> 
-<p><strong>Sound:</strong> Keith Gunn</p> 
-<p><strong>Lighting:</strong> Ken MacGregor</p> 
-<p><strong>Design:</strong> Martin Collins</p> 
-<p><strong>Producer:</strong> Yvonne Littlewood</p> 
-<p><strong>Production company:</strong> BBC Television</p> 
-</figure>
+<h2 id="infobox3"><a href="#infobox3">Crew</a></h2>
 
-<br />{: .clear}
-
-<style>
-.width {width:19%; height:40px;}
-@media (orientation: portrait) {.width {width:100%; height:50px;}}
-</style>
-
+<ul class="columns2">
+<li><strong>Musical director:</strong> Ronnie Hazelhurst</li>
+<li><strong>Production assistant:</strong> Jackie Tyler</li>
+<li><strong>Production manager:</strong> Mike Pearce</li>
+<li><strong>Sound:</strong> Keith Gunn</li>
+<li><strong>Lighting:</strong> Ken MacGregor</li>
+<li><strong>Design:</strong> Martin Collins</li>
+<li><strong>Producer:</strong> Yvonne Littlewood</li>
+<li><strong>Production company:</strong> BBC Television</li>
+</ul>

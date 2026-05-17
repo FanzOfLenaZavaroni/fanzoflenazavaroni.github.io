@@ -1,11 +1,11 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Dougie Squires"
-maintitle: "Category: Dougie Squires"
+title: "Category: D Sides Orphans and Oddities"
+maintitle: "Category: D Sides Orphans and Oddities"
 ---
 
 <ul>
-{% for post in site.categories["Dougie Squires"] reversed %}
+{% for post in site.categories["D Sides Orphans and Oddities"] reversed %}
 {% if post.url %}
 <li>
 <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a>

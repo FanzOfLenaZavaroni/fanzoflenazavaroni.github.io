@@ -5,7 +5,7 @@ maintitle: D-Sides, Orphans, and Oddities
 subtitle: WHUP Radio 104.7 FM &copy; Hillsborough Community Media
 description: The Les Humphries Singers Tribute!!!
 post_description: The Les Humphries Singers Tribute!!!
-categories: [WHUP Radio 104.7 FM, Discography Podcasts, D Sides Orphans and Oddities, OnThisDay23May]
+categories: [Discography Podcasts, D Sides Orphans and Oddities, OnThisDay23May]
 tags: podcasts
 permalink: /discography/podcasts/:name
 last_modified_at: 14 Jube 2025
@@ -13,20 +13,20 @@ last_modified_at: 14 Jube 2025
 
 <h2><svg class="icon" viewBox="0 0 512 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
 
-<p><span style="color: #ff0000; font-weight: bold;">EMBED NO MORE:</span> The former podcast <strong>D-Sides, Orphans, and Oddities</strong> has transitioned to an audio stream. Episodes are now removed after two weeks, eliminating the archive and tracklisting features. As a result, specific episodes—including those featuring Lena Zavaroni—can no longer be identified. Past podcast details remain on the related pages, but with embedded content removed, as the original embed feature is no longer functional. Since the stream does not offer tracklistings, new episodes will not be added to this website.</p>
+<div class="podcast-card">
+<strong>D-Sides, Orphans, and Oddities</strong>
+<p>Has transitioned from a podcast to an audio stream. Episodes are now removed after two weeks, eliminating the archive and tracklisting features. As a result, specific episodes—including those featuring Lena Zavaroni—can no longer be identified. Past podcast details remain on the related pages, but with embedded content removed, as the original embed feature is no longer functional. Since the stream does not offer tracklistings, new episodes will not be added to this website.</p>
 <p>Current source for details of this episode: <a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/the-les-humphries-singers-w4Qe9_qXjy2/">ListenNotes</a></p>
 <p>D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs: <a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities/">WHUP Radio 104.7 FM</a></p>
-<p>Category: <a href="/category/d-sides-orphans-and-oddities">D-Sides, Orphans, and Oddities</a></p>
+</div>
 
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">The Les Humphries Singers Tribute!!!</a></h2></div>
-<div class="CardItem split">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">The Les Humphries Singers Tribute!!!</a></h2>
+
 <p>Rose Tattoo - We Can’t Be Beaten (1982) Sounds like AC/DC, no? Same producers. I love Rose Tattoo. I have discovered lots of good stuff doing this show. I like this band</p>
 <p>Andy Williams - Age of Aquarius/Let The Sun Shine In (1969) As I said, Andy tied EVERYTHING. He refused to be tied down.</p>
 <p>Billy Paul - Let ‘Em In (1976) A cover of the almost concurrent original by Paul McCartney and Wings. Only this version features references to black heroes and well-known newsmakers.</p>
 <p>Dean Martin - By The Time I Get To Phoenix (1968)</p>
-<p>Elton John - Goal Diggers (1977) Wikipedia:</p>
+<p><a class="external-link" href="https://en.wikipedia.org/wiki/The_Goaldiggers_Song">Elton John - Goal Diggers (1977)</a> Wikipedia:</p>
 <blockquote>
 <p>"The Goaldiggers Song" is a charity single by Elton John, released in 1977. The song is written for the Goaldigger's charity to provide playing fields in under-privileged areas. At the time in 1977, Elton John was living reclused in London; the only time he would go out was to go see his football team Watford F.C. play. The single never charted anywhere, as it was a limited charity release-only 500 copies were pressed, approximately half of which were signed by Elton. It was available for a cost of five UK pounds by mail-order only and featured Elton and a number of other British celebrities including Jimmy Hill and Eric Morecombe in conversation on the B-side. The tapes were destroyed after the pressing, so no other official copies of the recording exist.</p>
 <p>The song is written, composed and performed solely by Elton John; the song features only his piano and multi-tracked vocals. The actual disc does not contain writing or production credits, and since the release of the single, it hasn't appeared on any album or been reissued in any format.</p></blockquote>
@@ -54,11 +54,17 @@ last_modified_at: 14 Jube 2025
 <p>Norman Luboff Singers - I’m Ready (1965)</p>
 <p>The Archies - Betty (1969)</p>
 <p>Chuck Berry - Havana Moon (1979 Version)</p>
-<p id="infobox3"><strong>Lena Zavaroni - Help Me Make It Through The Night (1974)</strong> at approximately 1:47:04 into the podcast</p>
+<p>Lena Zavaroni - Help Me Make It Through The Night (1974)</p>
 <p>Lawrence Welk and His Orchestra - The “In” Crowd (1965)</p>
 <p>Pat Boone - U.F.O. (1975)</p>
 <p>Scott Walker - Joanna (1970)</p>
-</div>
-</div>
-</figure>
 
+<style>
+.podcast-card {
+border: 1px solid #ddd;
+border-radius: 6px;
+padding: 12px;
+margin: 20px 0;
+background: #fafafa;
+}
+</style>

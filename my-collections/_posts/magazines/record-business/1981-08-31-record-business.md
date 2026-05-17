@@ -2,6 +2,7 @@
 layout: post
 title: Record Business &#124; 31 August 1974
 maintitle: Record Business
+suffix: ": PUBLISHING"
 subtitle: Magazine
 description: The Music Publishers Association and Radio-2 have announced the line-up for their prestigious concert to be held at the Royal Albert Hall on 5 October to celebrate the MPA's Centenary Year.
 post_description: The Music Publishers Association and Radio-2 have announced the line-up for their prestigious concert to be held at the Royal Albert Hall on 5 October to celebrate the MPA's Centenary Year.
