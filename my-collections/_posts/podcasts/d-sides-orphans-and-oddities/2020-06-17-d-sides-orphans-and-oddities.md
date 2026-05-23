@@ -13,15 +13,15 @@ last_modified_at: 8 August 2024
 
 <h2><svg class="icon" viewBox="0 0 512 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
 
-<p><span style="color: #ff0000; font-weight: bold;">EMBED NO MORE:</span> The former podcast <strong>D-Sides, Orphans, and Oddities</strong> has transitioned to an audio stream. Episodes are now removed after two weeks, eliminating the archive and tracklisting features. As a result, specific episodes—including those featuring Lena Zavaroni—can no longer be identified. Past podcast details remain on the related pages, but with embedded content removed, as the original embed feature is no longer functional. Since the stream does not offer tracklistings, new episodes will not be added to this website.</p>
+<div class="podcast-card">
+<strong>D-Sides, Orphans, and Oddities</strong>
+<p>Has transitioned from a podcast to an audio stream. Episodes are now removed after two weeks, eliminating the archive and tracklisting features. As a result, specific episodes—including those featuring Lena Zavaroni—can no longer be identified. Past podcast details remain on the related pages, but with embedded content removed, as the original embed feature is no longer functional. Since the stream does not offer tracklistings, new episodes will not be added to this website.</p>
 <p>Current source for details of this episode: <a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/steely-dan-outtakes-are-et528kvrJ1M">ListenNotes</a></p>
-<p>D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs: <a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities/">WHUP Radio 104.7 FM</a></p>
-<p>Category: <a href="/category/d-sides-orphans-and-oddities">D-Sides, Orphans, and Oddities</a></p>
+<p>D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs: <a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities">WHUP Radio 104.7 FM</a></p>
+</div>
 
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Steely Dan outtakes are better than your favorite band's greatest hits. Fight me</a></h2></div>
-<div class="CardItem split">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Steely Dan outtakes are better than your favorite band's greatest hits. Fight me</a></h2>
+
 <p>Steely Dan - Kind Spirit (1980) Outtake from the Gaucho sessions.</p>
 <p>Steely Dan - Were You Blind That Day? (1980) Ibid. Became "Third World Man".</p>
 <p>Steely Dan - The Bear (1980) Ibid.</p>
@@ -45,7 +45,14 @@ last_modified_at: 8 August 2024
 <p>David Frye - The Dick Nixon Show (1971) A good article about a very Vaughn Meader-like character in American showbiz.</p>
 <p>A fake interview with Dwight Eisenhower. Very funny. (Maybe 1965?)</p>
 <p>Eric Burdon & War - A Day In The Life (1968)</p>
-</div>
-</div>
-</figure>
+
+<style>
+.podcast-card {
+border: 1px solid #ddd;
+border-radius: 6px;
+padding: 12px;
+margin: 20px 0;
+background: #fafafa;
+}
+</style>
 

@@ -16,8 +16,8 @@ last_modified_at: 14 Jube 2025
 <div class="podcast-card">
 <strong>D-Sides, Orphans, and Oddities</strong>
 <p>Has transitioned from a podcast to an audio stream. Episodes are now removed after two weeks, eliminating the archive and tracklisting features. As a result, specific episodes—including those featuring Lena Zavaroni—can no longer be identified. Past podcast details remain on the related pages, but with embedded content removed, as the original embed feature is no longer functional. Since the stream does not offer tracklistings, new episodes will not be added to this website.</p>
-<p>Current source for details of this episode: <a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/the-les-humphries-singers-w4Qe9_qXjy2/">ListenNotes</a></p>
-<p>D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs: <a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities/">WHUP Radio 104.7 FM</a></p>
+<p>Current source for details of this episode: <a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/the-les-humphries-singers-w4Qe9_qXjy2">ListenNotes</a></p>
+<p>D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs: <a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities">WHUP Radio 104.7 FM</a></p>
 </div>
 
 <h2 id="infobox2" class="infobox"><a href="#infobox2">The Les Humphries Singers Tribute!!!</a></h2>

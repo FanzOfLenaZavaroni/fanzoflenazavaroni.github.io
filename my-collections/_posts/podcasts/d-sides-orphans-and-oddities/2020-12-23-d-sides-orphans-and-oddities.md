@@ -14,15 +14,16 @@ last_modified_at: 8 August 2024
 
 <h2><svg class="icon" viewBox="0 0 512 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
 
-<p><span style="color: #ff0000; font-weight: bold;">EMBED NO MORE:</span> The former podcast <strong>D-Sides, Orphans, and Oddities</strong> has transitioned to an audio stream. Episodes are now removed after two weeks, eliminating the archive and tracklisting features. As a result, specific episodes—including those featuring Lena Zavaroni—can no longer be identified. Past podcast details remain on the related pages, but with embedded content removed, as the original embed feature is no longer functional. Since the stream does not offer tracklistings, new episodes will not be added to this website.</p>
-<p>Current source for details of this episode: <a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/bay-city-rollers-paul-sbw07qlUBrG/">ListenNotes</a></p>
-<p>D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs: <a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities/">WHUP Radio 104.7 FM</a></p>
-<p>Category: <a href="/category/d-sides-orphans-and-oddities">D-Sides, Orphans, and Oddities</a></p>
+<div class="podcast-card">
+<strong>D-Sides, Orphans, and Oddities</strong>
+<p>Has transitioned from a podcast to an audio stream. Episodes are now removed after two weeks, eliminating the archive and tracklisting features. As a result, specific episodes—including those featuring Lena Zavaroni—can no longer be identified. Past podcast details remain on the related pages, but with embedded content removed, as the original embed feature is no longer functional. Since the stream does not offer tracklistings, new episodes will not be added to this website.</p>
+<p>Current source for details of this episode: <a class="external-link" href="https://www.listennotes.com/podcasts/d-sides-orphans/bay-city-rollers-paul-sbw07qlUBrG">ListenNotes</a></p>
+<p>D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs: <a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities">WHUP Radio 104.7 FM</a></p>
+</div>
 
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself</a></h2></div>
-<div class="CardItem split">
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Bay City Rollers, Paul McCartney, Rufus, and Vaughn Meader rarities. It really sells itself</a></h2>
+<p style="color: #666;">The following tracklist and commentary are preserved from the original podcast distribution log for historical archival purposes.</p>
+
 <p>“Boy, is Vaughn Meader fucked.” - Lenny Bruce, Nov. 22, 1963</p>
 <p>"When you're down, it's a long way up. When you're up, it's a long way down. It's all the same thing. No new tale to tell." - Love and Rockets</p>
 <p>REO Speedwagon - Ridin' The Storm Out (studio version) (1973) I played this song over and over in my High School cool-kids band Second Age, having never heard this studio version, sung by not Kevin Cronin. Not nearly as exciting.</p>
@@ -70,7 +71,14 @@ last_modified_at: 8 August 2024
 <p>Nazz - Wonder Who's Loving Her Now (1967)</p>
 <p>The Vapors - Prisoners (1979)</p>
 <p>The Quick - Ain't Nothin' Gonna Stop Me (1969)</p>
-</div>
-</div>
-</figure>
+
+<style>
+.podcast-card {
+border: 1px solid #ddd;
+border-radius: 6px;
+padding: 12px;
+margin: 20px 0;
+background: #fafafa;
+}
+</style>
 

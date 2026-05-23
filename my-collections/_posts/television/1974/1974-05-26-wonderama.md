@@ -10,36 +10,14 @@ categories: [US Television, OnThisDay26May]
 last_modified_at: 26 December 2023
 ---
 
-<figure class="fig3">
-<h2 id="infobox1"><a href="#infobox1">A version of the theme as no clips of Lena are available</a></h2>
-<div class="CardLayout">
-<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/akMucPDNjos?rel=0&showinfo=1" frameborder="0" allowfullscreen></iframe></div>
-</div>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Details</a></h2>
+<p>From 1967-77, Wonderama was the most popular children's show on television with its record high ratings and a seven year waiting list for tickets. It was a Sunday morning ritual for 70% of all TV viewers.</p>
+<cite><a class="external-link" href="http://wonderamashow.blogspot.co.uk">Blogger</a></cite>
 
-<figure class="fig1">
-<h2 id="infobox2"><a href="#infobox2">Cast</a></h2>
-<div class="CardLayout">
-    <div class="CardItem"><strong>Presenter:</strong> Bob McAllister</div>
-    <div class="CardItem"><strong>Singer:</strong> Lena Zavaroni performs Music, Music, Music.</div>
-</div>
-</figure>
+<h2 id="infobox2"><a href="#infobox2">Cast Known For This Episode</a></h2>
 
-<figure class="fig2">
-<h2 id="infobox3"><a href="#infobox3">Links</a></h2>
-<div class="CardLayout blogger-card">
-    <div class="CardItem">
 <ul>
-<li><a class="external-link" href="http://wonderamashow.blogspot.co.uk">Blogger</a></li>
+<li><strong>Presenter:</strong> Bob McAllister</li>
+<li><strong>Singer:</strong> Lena Zavaroni performs Music, Music, Music.</li>
 </ul>
-</div>
-</div>
-</figure>
-
-<br />{: .clear}
-
-<style>
-.blogger-card {height: 144px}
-@media screen and (orientation:portrait) {.blogger-card {height: unset;}}
-</style>
 
