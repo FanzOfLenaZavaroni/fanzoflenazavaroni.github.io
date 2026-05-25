@@ -87,7 +87,7 @@ last_modified_at: 30 March 2026
 <p>Emma Nesbitt, BBC Enquiries Team, 13 March 2019</p>
 </div>
 
-<br />{:.clear}
+<br />{: .clear}
 
 <h2 id="infobox6"><a href="#infobox6">Note</a></h2>
 <p>...Sings Neil Diamond was scheduled for a broadcast on BBC Four on the 23 March 2019 at 00:30 but the broadcast never went ahead why I don't know. When the BBC pulls a broadcast it just updates the TV listings for the day and does not indicate that a programme had been pulled or the reason why.</p>
