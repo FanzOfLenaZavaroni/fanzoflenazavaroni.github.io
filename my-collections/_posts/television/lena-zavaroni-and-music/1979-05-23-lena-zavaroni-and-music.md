@@ -5,7 +5,7 @@ maintitle: Lena Zavaroni and Music - Episode 1
 subtitle: "Guests: Elaine Stritch, Wayne Sleep and George Chisholm"
 description: This week's guests are Elaine Stritch, Wayne Sleep and George Chisholm.
 post_description: This week's guests are Elaine Stritch, Wayne Sleep and George Chisholm.
-categories: [BBC One, Lena Zavaroni and Music, Dougie Squires, OnThisDay23May]
+categories: [Television-BBC One, Lena Zavaroni and Music, Dougie Squires, OnThisDay23May]
 last_modified_at: 11 April 2026
 ---
 

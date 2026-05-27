@@ -6,7 +6,7 @@ subtitle: Episode 5.3
 after: " Shown on London Weekend Television (LWT) as well as other UK broadcasters - 12 June 1976 Shown on Scottish TV (STV) it was a Granada Television Production"
 description: Turns - Pete Price, The Dooley Family, Pat Mills, Tony Monoply, Rob Murray and Lena Zavaroni
 post_description: Turns - Pete Price, The Dooley Family, Pat Mills, Tony Monoply, Rob Murray and Lena Zavaroni
-categories: [Granada Television, London Weekend Television, OnThisDay29May, OnThisDay12June]
+categories: [Television-Granada Television, Television-London Weekend Television (LWT), OnThisDay29May, OnThisDay12June]
 last_modified_at: 25 March 2026
 ---
 <h2 id="infobox1"><a href="#infobox1">Cast</a></h2>

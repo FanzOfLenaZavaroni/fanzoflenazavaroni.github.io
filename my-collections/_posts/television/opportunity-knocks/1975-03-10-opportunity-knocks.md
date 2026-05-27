@@ -5,7 +5,7 @@ maintitle: Opportunity Knocks
 subtitle: Kies uw ster (Choose Your Star)
 description: International edition of the talent show.
 post_description: International edition of the talent show featuring performers from Britain, the Netherlands, and Norway competing for a public vote.
-categories: [Opportunity Knocks, OnThisDay10March]
+categories: [Television-Scottish Television (STV), Television-Thames, Television-Nederland II, Opportunity Knocks, OnThisDay10March]
 ---
 
 {% assign tb_posts = site.categories["Opportunity Knocks"] | sort: "date" %}

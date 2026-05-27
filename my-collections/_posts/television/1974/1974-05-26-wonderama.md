@@ -6,8 +6,8 @@ maintitle: Wonderama
 subtitle: The Bob McAllister Years
 description: Broadcast in United States on Channel 11 at 8am Lena Zavaroni made a guest appearance on this episode singing Music, Music, Music.
 post_description: Broadcast in United States on Channel 11 at 8am Lena Zavaroni made a guest appearance on this episode singing Music, Music, Music.
-categories: [US Television, OnThisDay26May]
-last_modified_at: 26 December 2023
+categories: [Television-US Television, OnThisDay26May]
+last_modified_at: 26 May 2026
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Details</a></h2>

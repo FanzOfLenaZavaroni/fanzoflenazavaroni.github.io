@@ -6,7 +6,7 @@ subtitle: "Guests: Helen Gelzer, Adrian Hedley and Johnny Hutch and The Herculea
 description: This week's guests are Helen Gelzer, Adrian Hedley and Johnny Hutch and The Herculeans.
 post_description: This week's guests are Helen Gelzer, Adrian Hedley and Johnny Hutch and The Herculeans.
 image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
-categories: [BBC One, Lena Zavaroni and Music, Dougie Squires, OnThisDay13June]
+categories: [Television-BBC One, Lena Zavaroni and Music, Dougie Squires, OnThisDay13June]
 last_modified_at: 26 November 2023
 ---
 

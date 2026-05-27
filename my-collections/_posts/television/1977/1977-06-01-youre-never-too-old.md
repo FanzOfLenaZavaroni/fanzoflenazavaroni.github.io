@@ -4,10 +4,8 @@ title: You're Never Too Old &#124; 1 June 1977
 maintitle: You're Never Too Old
 subtitle: One Off Special
 description: Lena celebrates her birthday as a pensioner in a comedy sketch.
-media: ATV
 post_description: Lena celebrates her birthday as a pensioner in a comedy sketch.
-image: /assets/images/ITV/youre-never-too-old.jpg
-categories: [Associated Television (ATV), OnThisDay1June]
+categories: [Television-Associated Television (ATV), OnThisDay1June]
 ---
 
 <figure class="fig3">

@@ -5,7 +5,7 @@ maintitle: Lena Zavaroni and Guests
 subtitle: BBC Television Centre
 description: Believed to be a recording for an episode of Lena Zavaroni and Music.
 post_description: Believed to be a recording for an episode of Lena Zavaroni and Music.
-categories: [BBC Television Centre, Lena Zavaroni and Music, Dougie Squires, OnThisDay8April]
+categories: [Television-BBC Television Centre, Lena Zavaroni and Music, Dougie Squires, OnThisDay8April]
 last_modified_at: 31 March 2026
 onthisdaylink: false
 ---

@@ -4,7 +4,7 @@ title: Junior Showtime &#124; 7 April 1974
 maintitle: Junior Showtime
 description: Mark Curry, Glyn Poole and Lena Zavaroni.
 post_description: Mark Curry, Glyn Poole and Lena Zavaroni.
-categories: [Yorkshire Television, Junior Showtime, OnThisDay7April]
+categories: [Television-Yorkshire Television, Junior Showtime, OnThisDay7April]
 last_modified_at: 4 April 2026
 ---
 

@@ -5,7 +5,7 @@ maintitle: Junior Showtime
 subtitle: Lena Zavaroni makes an appearance on the show.
 description: Presenters - Mark Curry, Glyn Poole, Roy Rolland as Old Mother Riley, Lena Zavaroni.
 post_description: Presenters - Mark Curry, Glyn Poole, Roy Rolland as Old Mother Riley, Lena Zavaroni.
-categories: [Yorkshire Television, Junior Showtime, OnThisDay12May]
+categories: [Television-Yorkshire Television, Junior Showtime, OnThisDay12May]
 last_modified_at: 4 April 2026
 ---
 

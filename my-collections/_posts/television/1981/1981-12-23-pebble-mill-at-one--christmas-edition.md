@@ -5,8 +5,7 @@ maintitle: Pebble Mill at One
 subtitle: Christmas Edition
 description: Lena joins a wide line up of celebrities to chat about their plans for Christmas and the following year. Lena talks about her part in the Babes In The Wood pantomime.
 post_description: Lena joins a wide line up of celebrities to chat about their plans for Christmas and the following year. Lena talks about her part in the Babes In The Wood pantomime.
-image: /assets/images/BBC/
-categories: [BBC One, OnThisDay23December]
+categories: [Television-BBC One, OnThisDay23December]
 ---
 
 Lena joins a wide line up of celebrities to chat about their plans for Christmas and the following year.
@@ -43,7 +42,7 @@ Lena talks about her part in the Babes In The Wood pantomime.
 
 ### Related Websites
 <span class="post-categories">
-[BBC Genome](https://genome.ch.bbc.co.uk/schedules/bbcone/london/1981-12-23#at-13.00)
+[Television-BBC Genome](https://genome.ch.bbc.co.uk/schedules/bbcone/london/1981-12-23#at-13.00)
 &nbsp;
 [Fanz of Lena Zavaroni (Mapping Lena Zavaroni’s life)](https://www.google.com/maps/d/u/0/viewer?mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&ll=52.45050000000002%2C-1.9132999999999356&z=19)
 </span>

@@ -116,7 +116,18 @@ layout: default
 
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 5: Default categories (fallback)
+  TYPE 5: Television-* categories
+  ---------------------------------------------------------
+  {%- endcomment -%}
+  {% elsif category contains "Television-" %}
+
+    {% assign Tele = category | remove: "Television-" %}
+    <a href="/category/television#{{ Tele | slugify }}">{{ Tele }}</a>
+
+
+  {%- comment -%}
+  ---------------------------------------------------------
+  TYPE 6: Default categories (fallback)
   ---------------------------------------------------------
   {%- endcomment -%}
   {% else %}

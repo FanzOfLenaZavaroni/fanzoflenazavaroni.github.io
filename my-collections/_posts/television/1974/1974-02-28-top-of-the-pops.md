@@ -1,12 +1,12 @@
 ---
 layout: post
-last_modified_at: 15 June 2023
 title: Top of the Pops &#124; 28 February 1974
 maintitle: Top of the Pops
 subtitle: Music Chart Television Programme
 description: Lena Zavaroni gets to preform on Top of the Pops for the second time.
 post_description: Lena Zavaroni gets to preform on Top of the Pops for the second time.
-categories: [BBC One, TOTP, OnThisDay28February]
+categories: [Television-BBC One, TOTP, OnThisDay28February]
+last_modified_at: 26 May 2026
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Cast</a></h2>

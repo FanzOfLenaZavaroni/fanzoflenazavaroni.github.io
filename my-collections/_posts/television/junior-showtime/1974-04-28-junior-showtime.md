@@ -5,7 +5,7 @@ maintitle: Junior Showtime
 description: Presenters - Mark Curry, Glyn Poole, Roy Rolland as Old Mother Riley, Lena Zavaroni.
 media: Yorkshire Television
 post_description: Presenters - Mark Curry, Glyn Poole, Roy Rolland as Old Mother Riley, Lena Zavaroni.
-categories: [Yorkshire Television, Junior Showtime, OnThisDay28April]
+categories: [Television-Yorkshire Television, Junior Showtime, OnThisDay28April]
 last_modified_at: 4 April 2026
 ---
 

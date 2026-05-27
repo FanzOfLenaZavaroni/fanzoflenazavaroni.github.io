@@ -5,7 +5,7 @@ maintitle: Junior Showtime
 subtitle: Episode 8.7
 description: "Todays cast: Mark Curry, Glyn Poole, David Davenport, Roy Rolland, The New Generation Of Junior Showtime Singers And Dancers, Lena Zavaroni, Norman Collier."
 post_description: "Todays cast: Mark Curry, Glyn Poole, David Davenport, Roy Rolland, The New Generation Of Junior Showtime Singers And Dancers, Lena Zavaroni, Norman Collier."
-categories: [Yorkshire Television, Junior Showtime, OnThisDay19May]
+categories: [Television-Yorkshire Television, Junior Showtime, OnThisDay19May]
 last_modified_at: 4 April 2026
 ---
 

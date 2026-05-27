@@ -7,7 +7,7 @@ maintitle: ...Sings Neil Diamond
 subtitle: BBC Two
 description: Part of BBC Two's 'tribute night' for Neil Diamond, the programmed featured archive clips of famous artists performing his songs.
 post_description: Part of BBC Two's 'tribute night' for Neil Diamond, the programmed featured archive clips of famous artists performing his songs.
-categories: [BBC Two, BBC Four, OnThisDay14November, OnThisDay1April]
+categories: [Television-BBC Two, Television-BBC Four, OnThisDay14November, OnThisDay1April]
 last_modified_at: 30 March 2026
 ---
 

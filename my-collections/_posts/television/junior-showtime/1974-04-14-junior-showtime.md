@@ -4,7 +4,7 @@ title: Junior Showtime &#124; 14 April 1974
 maintitle: Junior Showtime
 description: Mark Curry, Glyn Poole, Roy Rolland, David Davenport, Lena Zavaroni, The New Generation, The Junior Showtime Dancers, puppeteer Roger Stevenson with Daisy Duck, Mister Ebeneezer and Rodney Allen Rippy.
 post_description: Mark Curry, Glyn Poole, Roy Rolland, David Davenport, Lena Zavaroni, The New Generation, The Junior Showtime Dancers, puppeteer Roger Stevenson with Daisy Duck, Mister Ebeneezer and Rodney Allen Rippy.
-categories: [Yorkshire Television, Junior Showtime, OnThisDay14April]
+categories: [Television-Yorkshire Television, Junior Showtime, OnThisDay14April]
 last_modified_at: 4 April 2026
 ---
 

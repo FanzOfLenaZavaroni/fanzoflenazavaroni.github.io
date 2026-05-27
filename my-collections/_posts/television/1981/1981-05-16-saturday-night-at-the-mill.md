@@ -5,7 +5,7 @@ maintitle: Saturday Night At The Mill
 subtitle: BBC One
 description: 16 May 1981 - Lena Zavaroni performed and was interviewed on the programme.
 post_description: Lena Zavaroni performed and was interviewed on the programme.
-categories: [BBC One, OnThisDay16May]
+categories: [Television-BBC One, OnThisDay16May]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Summary</a></h2>
