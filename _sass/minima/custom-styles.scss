@@ -296,3 +296,13 @@ blockquote {
 /*  cite  */
 cite {color: #333333;}
 
+/* Blink text when jumping to an anchor link target */
+@keyframes text-blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+:target a {
+  animation: text-blink 0.4s ease-in-out 3;
+}
