@@ -53,7 +53,7 @@ last_modified_at: 11 April 2026
 
 </div>
 
-<h2 id="infobox1" class="infobox"><a href="#infobox1">Set List</a></h2>
+<h2 id="infobox1"><a href="#infobox1">Set List</a></h2>
 
 <ul>
 <li>Music Was My First Love (Lena)</li>
@@ -65,7 +65,7 @@ last_modified_at: 11 April 2026
 <li>Thank You For The Music (Lena)</li>
 </ul>
 
-<h2 id="infobox2" class="infobox"><a href="#infobox2">Cast</a></h2>
+<h2 id="infobox2"><a href="#infobox2">Cast</a></h2>
 
 <ul>
 <li><strong>Hostess and Signer:</strong> Lena Zavaroni</li>
@@ -76,7 +76,7 @@ last_modified_at: 11 April 2026
 <li><strong>Dancers:</strong> The Ace Eight</li>
 </ul>
 
-<h2 id="infobox3" class="infobox"><a href="#infobox3">Crew</a></h2>
+<h2 id="infobox3"><a href="#infobox3">Crew</a></h2>
 
 <ul>
 <li><strong>Orchestra:</strong> Alyn Ainsworth and his Orchestra</li>

@@ -11,7 +11,8 @@ permalink: /discography/tribute-songs/:name
 last_modified_at: 30 May 2025
 ---
 
-<h2 id="infobox1"><a href="#infobox1">Track Listing</a></h2>
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Track Listing</a></h2>
+<p><strong>Track 9 is obviously the tribute to Lena Zavaroni.</strong></p>
 <ol>
 <li>Back When the Music Had Soul</li>
 <li>Here's to the Songwriters</li>
@@ -26,9 +27,10 @@ last_modified_at: 30 May 2025
 <li>Shangri-la Is Here</li>
 </ol>
 
-<h2 id="infobox2"><a href="#infobox2">Date ?</a></h2>
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Date ?</a></h2>
 <ul>
 <li><strong>31 December 2008:</strong> <a class="external-link" href="https://www.last.fm/music/Jimmy+Scott/A+Songwriter%27s+Notebook">last.fm</a></li>
 <li><strong>1 January 2009:</strong> <a class="external-link" href="https://www.amazon.co.uk/Songwriters-Notebook-Jimmy-Scott/dp/B002F17FNC">amazon.co.uk</a></li>
 <li><strong>5 June 2009:</strong> <a class="external-link" href="https://www.allmusic.com/album/release/a-songwriters-notebook-mr0002292754">allmusic</a></li>
 </ul>
+

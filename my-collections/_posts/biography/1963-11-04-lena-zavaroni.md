@@ -72,10 +72,10 @@ last_modified_at: 20 March 2026
 
 <h2 id="infobox12"><a href="#infobox12">One Life, Two Paths</a></h2>
 <ul>
-<li> ——: The beginning of two paths—one leading to stardom, the other to anorexia and depression.</li>
-<li> ——: Lena moved to London to live with her managers, Dorothy and Phil Solomon.</li>
-<li> ——: She had to adjust to a new way of life, discovering lifts, traffic lights, and learning about napkins for the first time.</li>
-<li> ——: One of the first things Lena’s agent did was put her on a diet.</li>
+<li>The beginning of two paths—one leading to stardom, the other to anorexia and depression.</li>
+<li>Lena moved to London to live with her managers, Dorothy and Phil Solomon.</li>
+<li>She had to adjust to a new way of life, discovering lifts, traffic lights, and learning about napkins for the first time.</li>
+<li>One of the first things Lena’s agent did was put her on a diet.</li>
 </ul>
 
 <h2 id="infobox13"><a href="#infobox13">7 January 1974 - Article Published 11 December 2009</a></h2>
@@ -184,10 +184,10 @@ In the first days after the operation she appeared to slowly recover and seemed 
 <h2 id="infobox30"><a href="#infobox30">Neurosurgery for Mental Disorder (Modern stereotactic psychosurgery)</a></h2>
 <p>Has four types of procedures:</p>
 <ul>
-<li> ——: Anterior Cingulotomy</li>
-<li> ——: Subcaudate Tractotomy</li>
-<li> ——: Limbic Leucotomy (aka Lobotomy)</li>
-<li> ——: Anterior Capsulotomy</li>
+<li>Anterior Cingulotomy</li>
+<li>Subcaudate Tractotomy</li>
+<li>Limbic Leucotomy (aka Lobotomy)</li>
+<li>Anterior Capsulotomy</li>
 </ul>
 
 <h2 id="infobox31"><a href="#infobox31">Anterior Capsulotomy</a></h2>
@@ -198,13 +198,13 @@ In the first days after the operation she appeared to slowly recover and seemed 
 <blockquote>
 <p>Neurosurgery for Mental Disorder is covered by section 57 of the Mental Health Act 1983, which covers all patients, whether voluntary or detained under another section of the Act (sectioned). Under section 57, neurosurgery can be given only if all three of the following requirements are met:</p>
 <ul>
-<li> ——: You consent to the treatment.</li>
-<li> ——: second opinion appointed doctor (SOAD) and two other people appointed by the Care Quality Commission in England or the Healthcare Inspectorate of Wales certify that you have the capacity to consent and have done so.</li>
-<li> ——: The SOAD also certifies that it is appropriate for you to receive the treatment.</li>
-<li> ——: Your consent must be given free from undue pressure and with sufficient knowledge of the purpose, likelihood of success, risks and alternatives of the treatment.</li>
-<li> ——: Could it ever be performed without my consent?</li>
+<li>You consent to the treatment.</li>
+<li>second opinion appointed doctor (SOAD) and two other people appointed by the Care Quality Commission in England or the Healthcare Inspectorate of Wales certify that you have the capacity to consent and have done so.</li>
+<li>The SOAD also certifies that it is appropriate for you to receive the treatment.</li>
+<li>Your consent must be given free from undue pressure and with sufficient knowledge of the purpose, likelihood of success, risks and alternatives of the treatment.</li>
+<li>Could it ever be performed without my consent?</li>
 <ul>
-<li> ——: No. In England and Wales, NMD cannot be performed without your consent, even if you lack the capacity to consent. The Mental Capacity Act may not be used to authorise a treatment which comes under section 57 of the Mental Health Act.</li>
+<li>No. In England and Wales, NMD cannot be performed without your consent, even if you lack the capacity to consent. The Mental Capacity Act may not be used to authorise a treatment which comes under section 57 of the Mental Health Act.</li>
 </ul></ul>
 </blockquote>
 <cite><a class="external-link" href="https://www.mind.org.uk/information-support/drugs-and-treatments/neurosurgery-for-mental-disorder-nmd/consent-to-nmd#TheLawInEnglandAndWales">Consent to NMD | Mind, the mental health charity</a></cite>
@@ -225,12 +225,12 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 
 <h2 id="infobox35"><a href="#infobox35">Bronchopneumonia</a></h2>
 <ul>
-<li> ——: There are many different types of bacteria and viruses that can lead to Pneumonia.</li>
-<li> ——: Good hygiene and a healthy lifestyle can help prevent Pneumonia.</li>
-<li> ——: Pneumoniacan lead to complications, some of which can be fatal, depending on the health and age of the patient. These include:</li>
-<li> ——: Respiratory failure (when the lungs cannot take in enough oxygen) due to the air sacs filling with fluid.</li>
-<li> ——: lung abscesses.</li>
-<li> ——: blood poisoning (septicaemia).</li>
+<li>There are many different types of bacteria and viruses that can lead to Pneumonia.</li>
+<li>Good hygiene and a healthy lifestyle can help prevent Pneumonia.</li>
+<li>Pneumoniacan lead to complications, some of which can be fatal, depending on the health and age of the patient. These include:</li>
+<li>Respiratory failure (when the lungs cannot take in enough oxygen) due to the air sacs filling with fluid.</li>
+<li>lung abscesses.</li>
+<li>blood poisoning (septicaemia).</li>
 </ul>
 <blockquote>
 <p>Sadly we know her lifestyle was less then healthy and people with anorexia nervosa are more likely to get Pneumonia , but Lena Zavaroni was in a hospital that should have had very good hygiene.</p>
@@ -266,15 +266,15 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <h2 id="infobox40"><a href="#infobox40">All we can say is there is a lot of unknowns</a></h2>
 <blockquote>
 <ul>
-<li> ——: How did Lena Zavaroni contract Bronchopneumoniawhile in a hospital?</li>
-<li> ——: How was the hospital treating the Bronchopneumonia.</li>
-<li> ——: Did the coroner ask way the surgical procedure Neurosurgery for Mental Disorder (NMD) was done considering the weight of Lena Zavaroni?</li>
-<li> ——: Did the coroner ask if the hospital considered what if any were the dangers of post-operative infection and how they planed to deal with such an outcome?</li>
-<li> ——: Did the coroner request an autopsy?</li>
-<li> ——: Did the coroner look at her brain and see where the holes and cuts were made for the NMD or did the coroner just look into the effects of the Bronchopneumoniaon her lungs?</li>
-<li> ——: How independent was the coroner from the staff at the hospital?</li>
-<li> ——: How much focus was given to the long term mental health of Lena Zavaroni and the effects of the abuse she had received throughout her live?</li>
-<li> ——: Why has there never been a full investigation into the life and death of Lena Zavaroni?</li>
+<li>How did Lena Zavaroni contract Bronchopneumoniawhile in a hospital?</li>
+<li>How was the hospital treating the Bronchopneumonia.</li>
+<li>Did the coroner ask way the surgical procedure Neurosurgery for Mental Disorder (NMD) was done considering the weight of Lena Zavaroni?</li>
+<li>Did the coroner ask if the hospital considered what if any were the dangers of post-operative infection and how they planed to deal with such an outcome?</li>
+<li>Did the coroner request an autopsy?</li>
+<li>Did the coroner look at her brain and see where the holes and cuts were made for the NMD or did the coroner just look into the effects of the Bronchopneumoniaon her lungs?</li>
+<li>How independent was the coroner from the staff at the hospital?</li>
+<li>How much focus was given to the long term mental health of Lena Zavaroni and the effects of the abuse she had received throughout her live?</li>
+<li>Why has there never been a full investigation into the life and death of Lena Zavaroni?</li>
 </ul>
 </blockquote>
 <cite>Robcamstone</cite>
@@ -290,13 +290,13 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <h2 id="infobox42"><a href="#infobox42">List Of The So Called Natural Causes</a></h2>
 <blockquote>
 <ul>
-<li> ——: So It is perfectly natural to believe that a patient with severe depression can make an informed choice.</li>
-<li> ——: So It is perfectly natural to be thin and extremely under weight.</li>
-<li> ——: So It is perfectly natural to not find out the root cause of the depression and treat that, but instead just isolate parts of the brain.</li>
-<li> ——: So It is perfectly natural to have sections of your brain isolated from each other that are normally connected together.</li>
-<li> ——: So It is perfectly natural to contract Bronchopneumonia within the sterile environment of the hospital.</li>
-<li> ——: So It is perfectly natural to blame your dead patient for the poor medical decisions you made as her medical practitioner.</li>
-<li> ——: So It is perfectly natural to use an umbrella term (Neurosurgery for Mental Disorder) instead of naming the precise procedure carried out.</li>
+<li>So It is perfectly natural to believe that a patient with severe depression can make an informed choice.</li>
+<li>So It is perfectly natural to be thin and extremely under weight.</li>
+<li>So It is perfectly natural to not find out the root cause of the depression and treat that, but instead just isolate parts of the brain.</li>
+<li>So It is perfectly natural to have sections of your brain isolated from each other that are normally connected together.</li>
+<li>So It is perfectly natural to contract Bronchopneumonia within the sterile environment of the hospital.</li>
+<li>So It is perfectly natural to blame your dead patient for the poor medical decisions you made as her medical practitioner.</li>
+<li>So It is perfectly natural to use an umbrella term (Neurosurgery for Mental Disorder) instead of naming the precise procedure carried out.</li>
 </ul>
 <p>If as her doctor claimed she had made it clear that she would again try to take her life and he believed she would. Why was she not SECTIONED under the related part of the mental health act of 1983? and that also proves she was not in a state of mine to make an informed choice.</p>
 <p>It should be noted that the Neurosurgery for Mental Disorder she under went would not have been able to be carried out if Lena had been SECTIONED.</p>

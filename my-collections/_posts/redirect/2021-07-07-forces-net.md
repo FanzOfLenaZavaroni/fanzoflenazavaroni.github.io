@@ -2,6 +2,7 @@
 layout: post
 title: forces.net &#124; 7 July 2021
 maintitle: forces.net
+suffix: ": The Making Of Stars"
 subtitle: "From Vera Lynn To David Beckham: A Brief History Of Forces Entertainment"
 description: "The Making Of Stars: Revered entertainers such as Bob Monkhouse, Tony Hancock, Benny Hill, Harry Secombe, Ken Dodd, Ann Shelton, Jimmy Tarbuck, Paul Daniels and Debbie McGee, Jasper Carrott, Lena Zavaroni, Joe Pasquale, Roy Hudd and Sam Fox, to name but a few."
 post_description: "The Making Of Stars: Revered entertainers such as Bob Monkhouse, Tony Hancock, Benny Hill, Harry Secombe, Ken Dodd, Ann Shelton, Jimmy Tarbuck, Paul Daniels and Debbie McGee, Jasper Carrott, Lena Zavaroni, Joe Pasquale, Roy Hudd and Sam Fox, to name but a few."

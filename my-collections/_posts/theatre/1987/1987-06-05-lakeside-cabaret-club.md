@@ -6,32 +6,13 @@ maintitle: Lakeside Cabaret Club
 subtitle: Lena Zavaroni Plus Full Supporting Programme
 description: Lena Zavaroni Plus Full Supporting Programme.
 post_description: Lena Zavaroni Plus Full Supporting Programme.
-image: /assets/images/Media-Logos/OnThizDay.jpg
-categories: [Theatres, The Lena Zavaroni Show, OnThisDay5June, OnThisDay6June]
-last_modified_at: 5 June 2025
+categories: [Theatre-Lakeside Cabaret Club, OnThisDay5June, OnThisDay6June]
+last_modified_at: 1 June 2026
 ---
 
-<figure class="fig1">
-<div class="CardLayout CardLayout-Height1">
-<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Advertisement</a></h2></div>
-<div class="CardItem split">
-<a href="/assets/images/theatres/1987-06-05-lakeside-cabaret-club.png"><img src="/assets/images/theatres/1987-06-05-lakeside-cabaret-club.png" class="full-width zoom-in" /></a>
-<cite>The Lakeside Cabaret Club, Frimley Green, Surrey. The Reading Evening Post carried an advertisement for the show.</cite>
-</div>
-</div>
-</figure>
+<h2 id="infobox1"><a href="#infobox1">Details</a></h2>
 
-<figure class="fig2">
-<div class="CardLayout CardLayout-Height1">
-<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Details</a></h2></div>
-<div class="CardItem split">
-<blockquote>One of  her songs was "The Greatest Love Of All". She wore the same dress as on <a href="/1984-10-16-des-oconnor-tonight">Des O'Connor Tonight</a> in 1984. The Grudkos came over from south Africa to see her.</blockquote>
-<cite>Source: Loving Lena Zavaroni</cite>
-</div>
-</div>
-</figure>
+<p>One of  her songs was "The Greatest Love Of All".</p>
+<p>She wore the same dress as on <a href="/1984-10-14-des-oconnor-tonight">Des O'Connor Tonight</a> in 1984.</p>
+<p>The Grudkos came over from south Africa to see her.</p>
 
-<style>
-.CardLayout-Height1 {height:661.467px;}
-@media screen and (orientation:portrait) {.CardLayout-Height1 {height: unset;}}
-</style>
