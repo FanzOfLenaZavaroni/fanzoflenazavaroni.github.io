@@ -10,7 +10,7 @@ last_modified_at: 2 March 2026
 ---
 
 {% assign tb_posts = site.posts
-    | where_exp: "post", "post.categories contains 'Tom-Browne'"
+    | where_exp: "post", "post.categories contains 'Tom Browne'"
     | sort: "date" %}
 
 {% assign index = nil %}

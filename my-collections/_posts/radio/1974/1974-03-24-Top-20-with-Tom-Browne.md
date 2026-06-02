@@ -10,7 +10,7 @@ last_modified_at: 2 March 2026
 ---
 
 {% assign tb_posts = site.posts
-    | where_exp: "post", "post.categories contains 'Tom-Browne'"
+    | where_exp: "post", "post.categories contains 'Tom Browne'"
     | sort: "date" %}
 
 {% assign index = nil %}
@@ -42,6 +42,8 @@ last_modified_at: 2 March 2026
   {% endif %}
 
 </div>
+
+<br />
 
 <p>As the BBC dropped the Top 60 it meant this was the last time we would hear Lena's single in their Sunday Charts show as while she would remain in the Top 60 for another 4 weeks her position in the charts would be outside of the Top 20.</p>
 
