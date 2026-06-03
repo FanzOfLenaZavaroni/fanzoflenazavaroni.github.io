@@ -16,9 +16,9 @@ last_modified_at: 5 December 2025
 <p>In this all star spectacular concert to mark the end of International Year Of Youth, Lena performs Barry Manilow's "All The Time", followed by a cover of the Donna Summer hit "She Works Hard For The Money".</p>
 <p>Backstage, after the end of the concert, she shakes hands with Queen Elizabeth II, who was in attendance.</p>
 
-<figure class="fig1">
+
 <h2 id="infobox2"><a href="#infobox2">Cast</a></h2>
-<ul>
+<ul class="columns2">
 <li>Cilla Black</li>
 <li>Chris Bonington</li>
 <li>Rory Bremner</li>
@@ -49,11 +49,9 @@ last_modified_at: 5 December 2025
 <li>Voice of John Dunn</li>
 <li>A-ha</li>
 </ul>
-</figure>
 
-<figure class="fig2">
 <h2 id="infobox3"><a href="#infobox3">Crew</a></h2>
-<ul>
+<ul class="columns2">
 <li><strong>Choreography:</strong> Brian Rogers</li>
 <li><strong>Music Director:</strong> Robert Hartley</li>
 <li><strong>Director:</strong> Graham Wetherell</li>
@@ -62,6 +60,4 @@ last_modified_at: 5 December 2025
 <li><strong>Production Company:</strong> Yorkshire Television</li>
 <li><strong>Transmission Company:</strong> Thames Television</li>
 </ul>
-</figure>
 
-<br />{: .clear}

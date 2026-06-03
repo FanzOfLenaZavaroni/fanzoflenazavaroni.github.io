@@ -4,10 +4,10 @@ title: My 70's TV Childhood &#124; 3 June 2025
 maintitle: My 70's TV Childhood
 description: Opportunity Knocks!
 post_description: Opportunity Knocks!
-categories: [Discography Podcasts, OnThisDay3 June 2025]
+categories: [Discography Podcasts, OnThisDay3June]
 tags: podcasts
 permalink: /discography/podcasts/:name
-last_modified_at: 14 August 2025
+last_modified_at: 3 June 2026
 ---
 
 <h2><svg class="icon" viewBox="0 0 512 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>

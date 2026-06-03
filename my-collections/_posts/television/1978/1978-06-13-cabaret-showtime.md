@@ -12,7 +12,7 @@ categories: [Television-BBC One, OnThisDay13June]
 <p>In this episode of the programme recorded at the Civic Centre, Motherwell, Jimmy Logan introduces his special guest Lena Zavaronl also featuring The New Seekers, Danny Street, Andy Cameron and Alex Welsh and His Band.</p>
 
 <h2 id="infobox2"><a href="#infobox2">Cast</a></h2>
-<ul>
+<ul class="columns2">
 <li><strong>Presenter:</strong> Jimmy Logan</li>
 <li><strong>Special Guest:</strong> Lena Zavaroni</li>
 <li><strong>Guest:</strong> Danny Street</li>
@@ -22,7 +22,7 @@ categories: [Television-BBC One, OnThisDay13June]
 </ul>
 
 <h2 id="infobox3"><a href="#infobox3">Crew</a></h2>
-<ul>
+<ul class="columns2">
 <li><strong>Band:</strong> Brian Fahey and the Scottish Radio' Orchestra</li>
 <li><strong>Band Leader:</strong> Ian Tyre</li>
 <li><strong>Script:</strong> Gary Chambers</li>
