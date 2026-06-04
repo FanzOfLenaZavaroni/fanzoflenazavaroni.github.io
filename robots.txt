@@ -1,3 +1,2 @@
 User-agent: *
 Sitemap: https://fanzoflenazavaroni.github.io/sitemap.xml
-Sitemap: https://fanzoflenazavaroni.github.io/video-sitemap.xml
