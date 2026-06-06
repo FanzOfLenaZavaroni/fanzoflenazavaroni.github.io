@@ -57,7 +57,7 @@ last_modified_at: 2 June 2026
 
 <h2 id="infobox1"><a href="#infobox1">Details</a></h2>
 <p>The Official Singles Chart site lists the page as having the Top 100, this is not the case for historical chart listings it only covers the Top 50.</p>
-<p>After this date the single I am sure (my personal view) would still be in the Top 100 chats for a few weeks, but as currently I have not been able to find any sources this for now this will be the final chart listed for her single "(You've Got) Personality".</p>
+<p>After this date the single I am sure (my personal view) would still be in the Top 100 chats for a few weeks, but as currently I have not been able to find any sources, this for now will be the final chart listed for her single "(You've Got) Personality".</p>
 <ul>
 <li>{{ page.post_description }}</li>
 <li>Official Singles Chart: <a class="extrenal-link" href="https://www.officialcharts.com/charts/singles-chart/19740609/7501/#:~:text=40-,PERSONALITY,-LENA%20ZAVARONI">9 June 1974 - 15 June 1974</a></li>
