@@ -8,26 +8,6 @@ post_description: Lena chats on the BBC Radio show presented by Ed Stewart.
 categories: [BBC Radio 1, BBC Radio 2, Junior Choice, OnThisDay14June]
 ---
 
-<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
-<a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_radio_one/1975-06-14#at-8.06">BBC Genome: BBC Radio 1</a>
-<a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_radio_two/1975-06-14#at-8.06">BBC Genome: BBC Radio 2</a>
-</div>
-<br />
-{% if site.categories.OnThisDay1January == null %}
-<h2>Sorry no known details for today</h2>
-{% else %}
-{% for post in site.categories.OnThisDay1January reversed %}
-<strong>{{ post.before }}{{ post.date | date: "%e %B %Y" }}{{ post.after }}</strong>
-<ul>
-{% if post.onthisdaylink == false %}
-    <li><strong>{{ post.maintitle }}</strong> - {{ post.post_description }}</li>
-{% else %}
-    <li><a class="{{ post.class }}" href="{{ post.url }}"><strong>{{ post.maintitle }}</strong> - {{ post.post_description }}</a></li>
-{% endif %}
-</ul>
-{% endfor %}
-{% endif %}
-
 <h2 id="infobox1" class="infobox"><a href="#infobox1">Summary</a></h2>
 <blockquote>
 <p>Lena chats on the BBC Radio show presented by Ed Stewart.</p>
