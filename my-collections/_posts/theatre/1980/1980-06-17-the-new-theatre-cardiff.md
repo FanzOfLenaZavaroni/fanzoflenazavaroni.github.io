@@ -5,8 +5,7 @@ maintitle: New Theatre, Cardiff
 subtitle: The Treorchy Male Choir In Concert with Y Triban and Lena Zavaroni.
 description: The Treorchy Male Choir In Concert with Y Triban and Lena Zavaroni.
 post_description: The Treorchy Male Choir In Concert with Y Triban and Lena Zavaroni.
-images: /assets/images/locations/new-theatre-cardiff.jpg
-categories: [Theatres, New Theatre Cardiff, OnThisDay17June]
+categories: ["Theatre-New Theatre, Cardiff", OnThisDay17June]
 ---
 
 <h2 id="infobox1" class="infobox"><a href="#infobox1">Performers</a></h2>
