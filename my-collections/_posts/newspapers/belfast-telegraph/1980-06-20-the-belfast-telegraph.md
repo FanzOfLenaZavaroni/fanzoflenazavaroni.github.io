@@ -6,23 +6,10 @@ subtitle: "Page: 16 - Villa Marina, Douglas, advertised it’s upcoming summer c
 description: "Page: 16 - Villa Marina, Douglas, advertised it’s upcoming summer concerts."
 post_description: "Page: 16 - Villa Marina, Douglas, advertised it’s upcoming summer concerts."
 categories: ["Theatre-The Villa Marina, Douglas, Isle Of Man", Newspaper-Belfast Telegraph, OnThisDay20June]
-last_modified_at: 20 June 2025
+last_modified_at: 13 June 2026
 ---
 
-<figure class="fig3">
-<div class="CardLayout CardLayout-Height1">
-<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Flickr</a></h2></div>
-<div class="CardItem split">
-<a href="https://www.flickr.com/photos/brighton/3826412639"><img src="https://live.staticflickr.com/3552/3826412639_c8e5809d00_z.jpg" class="full-width " /></a>
-<cite>The Isle of Man's entertainment history reached a milestone in 2004 with the opening of the newly refurbished Villa Marina and Gardens.</cite>
-</div></div>
-</figure>
-
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem">
 <h2 id="infobox2" class="infobox"><a href="#infobox2">Coming to the Isle of Man this year? Then visit the VILLA MARINA DOUGLAS &#8212; where the Stars are always shining bright!</a></h2>
-<div class="CardItem split">
 <p style="font-size: 1.5rem !important;">Star Shows: July and August</p>
 <dl>
 <dt id="infobox2"><a href="#infobox2">JULY:</a></dt>
@@ -57,6 +44,4 @@ last_modified_at: 20 June 2025
 <dd><strong>Resident Big Band:</strong> KEN MACKINTOSH AND HIS BAND</dd> 
 <dd><strong>Cabaret and Dancing in the Garden Room every night.</strong></dd> 
 </dl>
-</div></div></div>
-</figure>
 
