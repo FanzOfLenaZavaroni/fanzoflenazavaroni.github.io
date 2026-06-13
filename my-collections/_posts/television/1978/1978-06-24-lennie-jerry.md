@@ -4,34 +4,25 @@ title: Lennie And Jerry &#124; 24 June 1978
 maintitle: Lennie And Jerry
 subtitle: Episode 1.2
 description: Lennie Bennett and Jerry Stevens with guests Lena Zavaroni, Frediani (the world's fastest juggler) and (the Boogie-Woogie duo) Che and Ray.
-media: BBC One
 post_description: Lennie Bennett and Jerry Stevens with guests Lena Zavaroni, Frediani (the world's fastest juggler) and (the Boogie-Woogie duo) Che and Ray.
-image: /assets/images/BBC/1978-06-24-lennie-and-jerry-01.jpg
-categories: [Television-BBC One, Lennie And Jerry, OnThisDay24June]
+categories: [Television-BBC One, OnThisDay24June]
 ---
 
-<figure class="fig1">
-<div class="CardLayout CardLayout-Height1">
-<div class="CardItem"><h2 id="infobox1" class="infobox"><a href="#infobox1">Cast</a></h2>
-<div class="CardItem split">
-<ul>
+<h2 id="infobox1" class="infobox"><a href="#infobox1">Cast</a></h2>
+<ul class="columns2">
 <li><strong>Comedian & Presenter:</strong> Lennie Bennett</li>
 <li><strong>Comedian & Presenter:</strong> Jerry Stevens</li>
 <li><strong>Singer</strong> Lena Zavaroni</li>
 <li><strong>World's Fastest Juggler:</strong> Nino Frediani</li>
-<li>
-<p><strong>Pianists:</strong> Che And Ray</p>
-<p>Che and Ray — a Swiss Boogie-Woogie duo made up of Jean-Marc Peyer as "Che" and Raymond Fein as "Ray"</p>
-</li>
+<li class="custom-bullet"><strong>Pianists:</strong> Che And Ray</li>
 </ul>
-</div></div></div>
-</figure>
 
-<figure class="fig2">
-<div class="CardLayout CardLayout-Height1">
-<div class="CardItem"><h2 id="infobox2" class="infobox"><a href="#infobox2">Cast</a></h2>
-<div class="CardItem split">
 <ul>
+<li class="custom-bullet">Che and Ray - a Swiss Boogie-Woogie duo made up of Jean-Marc Peyer as "Che" and Raymond Fein as "Ray"</li>
+</ul>
+
+<h2 id="infobox2" class="infobox"><a href="#infobox2">Cast</a></h2>
+<ul class="columns2">
 <li><strong>Music:</strong> Alyn Ainsworth And His Orchestra</li>
 <li><strong>Scripts by:</strong> Brad Ashton</li>
 <li><strong>Scripts by:</strong> Peter Spence</li>
@@ -47,11 +38,7 @@ categories: [Television-BBC One, Lennie And Jerry, OnThisDay24June]
 <li><strong>Produced By:</strong> Ernest Maxin</li>
 <li><strong>Production Company:</strong> BBC Television</li>
 </ul>
-</div></div></div>
-</figure>
 
 <style>
-.CardLayout-Height1 {height:486px;}
-@media screen and (orientation:portrait) {.CardLayout-Height1 {height: unset;}}
+li.custom-bullet::marker {color: #ff0000;}
 </style>
-
