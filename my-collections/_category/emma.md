@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
 title: "Category: emma"
-maintitle: "Category: Anorexia"
+maintitle: "Category: emma"
 ---
 
 <ul>
