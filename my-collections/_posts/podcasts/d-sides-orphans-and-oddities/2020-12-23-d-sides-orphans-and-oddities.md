@@ -64,7 +64,7 @@ last_modified_at: 8 August 2024
 <p>Bay City Rollers - Alright (1971)</p>
 <p>Clarence Carter - Light My Fire (1969) With Duane Allman of The Allman Joys on guitar.</p>
 <p>Frank Zappa - Public Service Announcement (1968)</p>
-<p><strong>Lena Zavaroni - Jump Down Jimmy (1980) You know her story. Don't you? She suffered from the same affliction as Karen Carpenter</strong> at</p>
+<p>Lena Zavaroni - Jump Down Jimmy (1980) You know her story. Don't you? She suffered from the same affliction as Karen Carpenter.</p>
 <p>Suburban 9 to 5 - Walk Away (1968)</p>
 <p>Martin & Finley - Long Life And Success To The Farmer (1972)</p>
 <p>Milkwood - Makeshift Pawn (1972) Would evolve into The Cars.</p>
