@@ -4,15 +4,15 @@ title: Official Singles Chart &#124; 26 May 1974
 maintitle: Official Singles Chart
 suffix: ": (You've Got) Personality, Position 50"
 subtitle: (You've Got) Personality
-after: " 1 June 1974"
+after: " - 1 June 1974"
 description: (You've Got) Personality enters the Charts at number 50.
 post_description: (You've Got) Personality enters the Charts at number 50.
-categories: [Personality, OnThisDay26May]
+categories: [Official Singles Chart, OnThisDay26May]
 last_modified_at: 2 June 2026
 ---
 
 {% assign tb_posts = site.posts
-    | where_exp: "post", "post.categories contains 'Personality'"
+    | where_exp: "post", "post.categories contains 'Official Singles Chart'"
     | sort: "date" %}
 
 {% assign index = nil %}
@@ -59,6 +59,6 @@ last_modified_at: 2 June 2026
 <p>The Official Singles Chart site lists the page as having the Top 100, this is not the case for historical chart listings it only covers the Top 50.</p>
 <ul>
 <li>{{ page.post_description }}</li>
-<li>Official Singles Chart: <a class="extrenal-link" href="https://www.officialcharts.com/charts/singles-chart/19740526/7501/#:~:text=Number-,50,-NEW">26 May 1974 - 1 June 1974</a></li>
+<li>Official Singles Chart: <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740526/7501/#:~:text=Number-,50,-NEW">26 May 1974 - 1 June 1974</a></li>
 </ul>
 

@@ -7,12 +7,12 @@ subtitle: (You've Got) Personality
 after: " - 15 June 1974"
 description: (You've Got) Personality moves up the charts to number 40.
 post_description: (You've Got) Personality moves up the charts to number 40.
-categories: [Personality, OnThisDay9June]
+categories: [Official Singles Chart, OnThisDay9June]
 last_modified_at: 2 June 2026
 ---
 
 {% assign tb_posts = site.posts
-    | where_exp: "post", "post.categories contains 'Personality'"
+    | where_exp: "post", "post.categories contains 'Official Singles Chart'"
     | sort: "date" %}
 
 {% assign index = nil %}
@@ -60,6 +60,6 @@ last_modified_at: 2 June 2026
 <p>After this date the single I am sure (my personal view) would still be in the Top 100 chats for a few weeks, but as currently I have not been able to find any sources, this for now will be the final chart listed for her single "(You've Got) Personality".</p>
 <ul>
 <li>{{ page.post_description }}</li>
-<li>Official Singles Chart: <a class="extrenal-link" href="https://www.officialcharts.com/charts/singles-chart/19740609/7501/#:~:text=40-,PERSONALITY,-LENA%20ZAVARONI">9 June 1974 - 15 June 1974</a></li>
+<li>Official Singles Chart: <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740609/7501/#:~:text=40-,PERSONALITY,-LENA%20ZAVARONI">9 June 1974 - 15 June 1974</a></li>
 </ul>
 

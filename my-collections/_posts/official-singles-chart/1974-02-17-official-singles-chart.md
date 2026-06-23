@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Official Singles Chart &#124; 2 June 1974
+title: Official Singles Chart &#124; 17 February 1974
 maintitle: Official Singles Chart
-suffix: ": (You've Got) Personality, Position 33"
-subtitle: (You've Got) Personality
-after: " - 8 June 1974"
-description: (You've Got) Personality moves up the charts to number 33.
-post_description: (You've Got) Personality moves up the charts to number 33.
-categories: [Official Singles Chart, OnThisDay2June]
-last_modified_at: 2 June 2026
+suffix: ": Ma! (He's Making Eyes At Me), Position 13"
+subtitle: Ma! (He's Making Eyes At Me)
+after: " - 23 February 1974"
+description: Ma! (He's Making Eyes At Me) moves up the charts to number 13.
+post_description: Ma! (He's Making Eyes At Me) moves up the charts to number 13.
+categories: [Official Singles Chart, OnThisDay17February]
+last_modified_at: 23 June 2026
 ---
 
 {% assign tb_posts = site.posts
@@ -45,7 +45,7 @@ last_modified_at: 2 June 2026
     <span style="visibility:hidden;">« Previous Episode</span>
   {% endif %}
 
-  <a href="/discography/singles/1974-05-24-personality-uk">(You've Got) Personality, Single</a>
+  <a href="/discography/singles/1974-01-25-ma-hes-making-eyes-at-me-uk">Ma! (He's Making Eyes At Me), Single</a>
 
   {% if next %}
     <a href="{{ next.url }}">Next Episode »</a>
@@ -59,6 +59,6 @@ last_modified_at: 2 June 2026
 <p>The Official Singles Chart site lists the page as having the Top 100, this is not the case for historical chart listings it only covers the Top 50.</p>
 <ul>
 <li>{{ page.post_description }}</li>
-<li>Official Singles Chart: <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740602/7501/#:~:text=Weeks%3A%209-,Number,33,-PERSONALITY">2 June 1974 - 8 June 1974</a></li>
+<li>Official Singles Chart: <a class="external-link" href="https://www.officialcharts.com/charts/singles-chart/19740217/7501/#:~:text=EYES%20AT%20ME)-,LENA%20ZAVARONI,-LW%3A%2016">17 February 1974 - 23 February 1974</a></li>
 </ul>
 
