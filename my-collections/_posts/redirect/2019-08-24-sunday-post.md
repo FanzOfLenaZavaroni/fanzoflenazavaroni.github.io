@@ -2,10 +2,11 @@
 layout: post
 title: Sunday Post &#124; 24 August 2019
 maintitle: Sunday Post
+suffix: ": Bonnie Langford showbusiness memories"
 subtitle: Bonnie Langford has a lifetime – literally – of showbusiness memories
 description: Bonnie Langford has a lifetime – literally – of showbusiness memories.
 post_description: Bonnie Langford has a lifetime – literally – of showbusiness memories.
-categories: [Sunday Post, Bonnie Langford, OnThisDay24August]
+categories: [Newspaper-Sunday Post, Bonnie Langford, OnThisDay24August]
 redirect_to: https://www.sundaypost.com/fp/try-to-keep-those-that-you-love-around-you-bonnie-langford-has-some-advice-for-would-be-entertainers/
 class: external-link
 ---

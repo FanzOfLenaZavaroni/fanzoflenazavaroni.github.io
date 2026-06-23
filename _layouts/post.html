@@ -89,7 +89,7 @@ layout: default
   {% elsif category contains "Newspaper-" %}
 
     {% assign paper = category | remove: "Newspaper-" %}
-    <a href="/category/newspapers#{{ paper | slugify }}">{{ paper }}</a>
+    <a href="/category/newspaper#{{ paper | slugify }}">{{ paper }}</a>
 
 
   {%- comment -%}
