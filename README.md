@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update post.html, categories.md, and 7 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9ad930f1bbdc88d652f56d301010e42cda61e4ba)
+- [Update official-singles-chart.md, pavilion-theatre.md, and 16 more fi…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8fcbc273b88747b208419825678ce4e774a2a093)
+- [Update 1979-06-21-the-stage-and-television-today.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f46914193698e5cca61b26c201d45d71ee13128e)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/329073f5caffc22e179729594411e4892ac71bfc)
 - [Correct formatting for Lena Zavaroni entry](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8029dfa315746ac9f1f32dc2b5167183779cc7c7)
-- [Update podcast entry for Lena Zavaroni](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d812663bfb48a529c2a220459dd1db5083814f81)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/593710e4bd2bf909672eb7b4a7367d63b60c1858)
-- [Update 1978-06-24-lennie-jerry.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ea371b9c53a4dcf19e6cf3fb2f1624db6ef33b05)
-- [Update emma.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/466d4d904e774adc02cda2567e096f0addc7ae55)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
