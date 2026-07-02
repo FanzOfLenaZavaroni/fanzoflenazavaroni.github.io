@@ -4,7 +4,6 @@ title: Citizens Commission on Human Rights &#124;5 October 2011
 maintitle: Citizens Commission on Human Rights
 subtitle: London
 description: Reports of Lena Zavaroni’s death, described as one of natural causes, is littered with failures and nebulous explanations about the treatment she received during the years leading up to her death. Many give mere justifications why the treatments did not work and emphasise the “huge problems faced in attempting to treat her illness.”
-media: Online Article
 post_description: Reports of Lena Zavaroni’s death, described as one of natural causes, is littered with failures and nebulous explanations about the treatment she received during the years leading up to her death. Many give mere justifications why the treatments did not work and emphasise the “huge problems faced in attempting to treat her illness.”
 categories: [Deleted Online Articles, OnThisDay5October]
 ---

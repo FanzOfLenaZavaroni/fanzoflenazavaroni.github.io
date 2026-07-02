@@ -2,10 +2,11 @@
 layout: post
 title: The Sunday Mirror &#124; , 30 January 2000
 maintitle: The Sunday Mirror
+suffix: ": Ray was besotted with my Lena..."
 subtitle: Ray was besotted with my Lena... but he was never any more than her friend; Father says her will proves she never planned to marry singer
 description: Ray was besotted with my Lena... but he was never any more than her friend; Father says her will proves she never planned to marry singer.
 post_description: Ray was besotted with my Lena... but he was never any more than her friend; Father says her will proves she never planned to marry singer.
-categories: [Newspaper-Mirror, OnThisDay30January]
+categories: [Newspaper-Sunday Mirror, OnThisDay30January]
 ---
 
 <figure class="fig3">

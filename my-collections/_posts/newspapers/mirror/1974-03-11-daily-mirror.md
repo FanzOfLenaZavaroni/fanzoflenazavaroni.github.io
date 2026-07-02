@@ -2,6 +2,7 @@
 layout: post
 title: Daily Mirror &#124; 11 March 1974
 maintitle: Daily Mirror
+suffix: ": Ma .. those movie men are making eyes at me"
 subtitle: Ma .. those movie men are making eyes at me
 description: Ma .. those movie men are making eyes at me.
 post_description: Ma .. those movie men are making eyes at me

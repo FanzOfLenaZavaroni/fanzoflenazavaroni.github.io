@@ -3,7 +3,6 @@ layout: post
 title: Daily Record (Glasgow, Scotland) &#124; 6 March 1998
 maintitle: Daily Record (Glasgow, Scotland)
 description: Former Scots child star Lena Zavaroni was forced to flee a blaze which destroyed her home.
-media: Newspaper
 post_description: Former Scots child star Lena Zavaroni was forced to flee a blaze which destroyed her home.
 categories: [Newspaper Daily Record, Glasgow, Scotland, OnThisDay6March]
 ---

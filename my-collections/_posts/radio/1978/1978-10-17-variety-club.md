@@ -4,7 +4,6 @@ title: Variety Club &#124; 17 October 1978
 maintitle: Variety Club
 subtitle: "BBC Radio 2: Martin Dale invites you to Join the audience at the BBC Variety Club in Manchester for an hour's cabaret"
 description: Martin Dale invites you to Join the audience at the BBC Variety Club in Manchester for an hour's cabaret.
-media: BBC Radio 2
 post_description: Martin Dale invites you to Join the audience at the BBC Variety Club in Manchester for an hour's cabaret.
 categories: [BBC Radio 2, OnThisDay17October]
 ---

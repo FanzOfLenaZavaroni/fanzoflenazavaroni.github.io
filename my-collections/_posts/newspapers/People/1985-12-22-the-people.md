@@ -2,6 +2,7 @@
 layout: post
 title: The People &#124; 22 December 1985
 maintitle: The People
+suffix: ": LENA BROKE NEWS OF HER DAD'S LOVER" 
 subtitle: ﻿LENA BROKE NEWS OF HER DAD'S LOVER By HUGH FARMER
 description: THE heartbreaking secret that singing star Lena Zavaroni nursed all last summer was revealed by her mother yesterday.
 post_description: THE heartbreaking secret that singing star Lena Zavaroni nursed all last summer was revealed by her mother yesterday.

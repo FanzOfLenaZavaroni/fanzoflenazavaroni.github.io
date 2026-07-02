@@ -4,9 +4,7 @@ title: Stars Midnight Spectacular &#124; 5 September
 maintitle: Stars Midnight Spectacular
 subtitle: Festival Theatre, Paignton
 description: Charity variety show to raise funds for the Entertainment Artists Benevolent Fund, the Stars Organisation For Spastics (SOS) and other local charities.
-media: Details
 post_description: Charity variety show to raise funds for the Entertainment Artists Benevolent Fund, the Stars Organisation For Spastics (SOS) and other local charities.
-image: /assets/images/theatres/
 categories: [Theatres, Festival Theatre, Paignton, Fundraising, OnThisDay5September]
 ---
 

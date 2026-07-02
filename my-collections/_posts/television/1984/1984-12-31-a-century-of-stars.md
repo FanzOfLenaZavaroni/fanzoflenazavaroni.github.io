@@ -4,9 +4,7 @@ title: A Century of Stars &#124; The Story of the Grand Order of Water Rats &#12
 maintitle: A Century of Stars
 subtitle: The Story of the Grand Order of Water Rats
 description: A short clip of Lena singing &quot;Help Me Make It Through The Night&quot; live, is included in this 90 minute documentary about the Grand Order Of Water Rats.
-media: Granada Television
 post_description: A short clip of Lena singing &quot;Help Me Make It Through The Night&quot; live, is included in this 90 minute documentary about the Grand Order Of Water Rats.
-image: /assets/images/Channel4/Grand%20Order%20of%20Water%20Rats.png
 categories: [Television-Granada Television, Les Dawson, OnThisDay31December]
 last_modified_at: 29 December 2023
 ---

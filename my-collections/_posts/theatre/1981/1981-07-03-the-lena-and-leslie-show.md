@@ -5,7 +5,6 @@ maintitle: The Lena and Leslie Show
 subtitle: Gloucester Hall, Fort Regent, St Helier, Jersey
 after: " one show at 20:30 and on the 4 July two shows at 19:00 and 21:30"
 description: Two nights of entertainment at Gloucester Hall in Fort Regent featuring the Lena and Leslie Show, with performances by Lena Zavaroni, Leslie Crowther and the Gary Lloyd Orchestra.
-media: Gloucester Hall, Fort Regent, St Helier, Jersey
 post_description: featuring Lena Zavaroni, Leslie Crowther and the Gary Lloyd Orchestra.
 categories: ["Theatre-Gloucester Hall, Fort Regent, St Helier, Jersey", OnThisDay3July, OnThisDay4July]
 last_modified_at: 30 June 2026

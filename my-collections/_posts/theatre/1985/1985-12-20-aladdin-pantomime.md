@@ -5,9 +5,7 @@ title: Aladdin Pantomime
 maintitle: Aladdin Pantomime
 subtitle: The Wimbledon Theatre, London
 description: Lena Zavaroni stars as the Princess.
-media: Wimbledon Theatre
 post_description: Lena Zavaroni stars as the Princess.
-image: /assets/images/theatres/flyer-aladdin-01.jpg
 categories: [Theatres, Wimbledon Theatre, OnThisDay20December]
 ---
 

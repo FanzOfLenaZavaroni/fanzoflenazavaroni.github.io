@@ -4,7 +4,6 @@ title: Caring Online &#124; 4 October 1999
 maintitle: Caring Online
 subtitle: Eating Disorders
 description: Zavaroni Operation Was Not A New Technique.
-media: Online Website
 post_description: Zavaroni Operation Was Not A New Technique.
 categories: [Deleted Online Articles, OnThisDay4October]
 ---

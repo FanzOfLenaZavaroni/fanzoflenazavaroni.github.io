@@ -4,9 +4,7 @@ title: The Royal Variety Performance &#124; 15 November 1976
 maintitle: The Royal Variety Performance
 subtitle: The London Palladium
 description: After sixteen years of recorded television broadcasts, in 1976, the Royal Variety Performance was broadcast live on television for the first time, and held in the presence of Her Majesty Queen Elizabeth and the Queen Mother.
-media: Theatre and BBC One
 post_description: After sixteen years of recorded television broadcasts, in 1976, the Royal Variety Performance was broadcast live on television for the first time, and held in the presence of Her Majesty Queen Elizabeth and the Queen Mother.
-image: /assets/images/theatres/1976-11-15-the-royal-variety-performance.jpg
 categories: [Theatre-London Palladium, BBC One, OnThisDay15November]
 ---
 

@@ -4,9 +4,7 @@ title: Stars Midnight Spectacular &#124; 11 September 1985
 maintitle: Stars Midnight Spectacular
 subtitle: The Opera House, Blackpool
 description: Charity variety show to raise funds for the Entertainment Artists Benevolent Fund and Blackpool Service Clubs Association.
-media: Details
 post_description: Charity variety show to raise funds for the Entertainment Artists Benevolent Fund and Blackpool Service Clubs Association.
-image: /assets/images/theatres/1985-09-11-stars-midnight-spectacular-lz-200x200.png
 categories: [Theatre-Blackpool Opera House, Fundraising, OnThisDay11September]
 ---
 

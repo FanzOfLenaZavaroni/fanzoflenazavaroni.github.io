@@ -2,6 +2,7 @@
 layout: post
 title: The People &#124; 16 March 1975
 maintitle: The People
+suffix: ": Lena has 'divi' for Vernons"
 subtitle: Pick of the Day
 description: Lena has 'divi' for Vernons
 post_description: Lena has 'divi' for Vernons

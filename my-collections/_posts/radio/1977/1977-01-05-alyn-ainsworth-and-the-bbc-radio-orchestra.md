@@ -4,7 +4,6 @@ title: Alyn Ainsworth and the BBC Radio Orchestra
 maintitle: Alyn Ainsworth and the BBC Radio Orchestra
 subtitle: BBC Radio 2
 description: with Lena Zavaroni, The Mike Sammes Singers and Allan Stewart.
-media: BBC Radio 2
 post_description: with Lena Zavaroni, The Mike Sammes Singers and Allan Stewart.
 categories: [BBC Radio 2, OnThisDay5January]
 ---

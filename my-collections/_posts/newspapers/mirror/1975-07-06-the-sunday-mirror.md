@@ -2,10 +2,11 @@
 layout: post
 title: The Sunday Mirror &#124; 6 July 1975
 maintitle: The Sunday Mirror
+suffix: ": Pals, I'm Making Eyes At You Now"
 subtitle: Pals, I'm Making Eyes At You Now
 description: Published an artilce on Lena Zavaroni's return to the Rothesay Pavilion along with a photo of Lena and her South Africa friend Susie Heckler.
 post_description: Published an artilce on Lena Zavaroni's return to the Rothesay Pavilion along with a photo of Lena and her South Africa friend Susie Heckler.
-categories: [Newspaper-Mirror, OnThisDay6July]
+categories: [Newspaper-Sunday Mirror, OnThisDay6July]
 ---
 
 <figure class="fig3">

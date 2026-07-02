@@ -5,9 +5,7 @@ maintitle: Lena Zavaroni At The White Rock Pavilion, Hastings
 subtitle: With David Harrison, Bobby Bragg, Joan Hide, International magical entertainers Brian Miller & Audrey, Gordon Turner.
 media: Hastings
 description: With David Harrison, Bobby Bragg, Joan Hide, International magical entertainers Brian Miller & Audrey, Gordon Turner.
-media: Hastings
 post_description: With David Harrison, Bobby Bragg, Joan Hide, International magical entertainers Brian Miller & Audrey, Gordon Turner.
-image: /assets/images/theatres/1978-07-02-the-lena-zavaroni-show-01.jpg
 categories: ["Theatre-White Rock Pavilion, Hastings", OnThisDay2July]
 last_modified_at: 30 June 2026
 ---

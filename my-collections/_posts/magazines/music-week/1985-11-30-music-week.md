@@ -4,7 +4,6 @@ title: Music Week &#124; 30 November 1985
 maintitle: Music Week
 subtitle: Magazine
 description: Youthful celebration - NIK KERSHAW, Five Star, the National Youth Jazz Orchestra and Lena Zavaroni.
-media: The magazine
 post_description: Youthful celebration - NIK KERSHAW, Five Star, the National Youth Jazz Orchestra and Lena Zavaroni.
 categories: [Magazine-Music Week, OnThisDay30November]
 last_modified_at: 1 January 2024

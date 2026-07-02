@@ -4,7 +4,6 @@ title: News Letter &#124; 4 October 1999
 maintitle: News Letter
 subtitle: Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return
 description: Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return.
-media: Newspaper
 post_description: Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return.
 categories: [Newspaper The News Letter, OnThisDay4October]
 ---

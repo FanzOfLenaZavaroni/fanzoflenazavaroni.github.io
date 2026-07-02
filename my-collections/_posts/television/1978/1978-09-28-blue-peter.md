@@ -4,9 +4,7 @@ title: Blue Peter &#124; 28 September 1978
 maintitle: Blue Peter
 subtitle: Lena performed Speedy Gonzales live in the studio, and was then interviewed by the three presenters.
 description: Lena performed Speedy Gonzales live in the studio, and was then interviewed by the three presenters.
-media: BBC One
 post_description: Lena performed Speedy Gonzales live in the studio, and was then interviewed by the three presenters.
-image: /assets/images/BBC/1978-09-28-blue-peter.jpg
 categories: [Television-BBC One, OnThisDay28September]
 ---
 

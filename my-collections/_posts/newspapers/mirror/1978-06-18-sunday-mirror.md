@@ -2,10 +2,11 @@
 layout: post
 title: Sunday Mirror &#124; 18 June 1978
 maintitle: Sunday Mirror
+suffix: ": Father's Special Day"
 subtitle: Father's Special Day
 description: Father's Special Day
 post_description: Father's Special Day
-categories: [Newspaper-Mirror, OnThisDay18June]
+categories: [Newspaper-Sunday Mirror, OnThisDay18June]
 last_modified_at: 15 June 2025
 ---
 

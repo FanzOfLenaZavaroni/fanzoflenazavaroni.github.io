@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Sunday Mail (Glasgow, Scotland) &#124; 27 May 2001
-maintitle: Sunday Mail (Glasgow, Scotland)
+title: "The Free Library: Sunday Mail (Glasgow, Scotland) &#124; 27 May 2001"
+maintitle: "The Free Library: Sunday Mail (Glasgow, Scotland)"
 subtitle: I'm so glad to be home. I only wish Lena was here; TRAGIC STAR'S DAD RETURNS TO ROTHESAY AFTER 21 YEARS
 description: I'm so glad to be home. I only wish Lena was here; TRAGIC STAR'S DAD RETURNS TO ROTHESAY AFTER 21 YEARS
-media: Newspaper
 post_description: I'm so glad to be home. I only wish Lena was here; TRAGIC STAR'S DAD RETURNS TO ROTHESAY AFTER 21 YEARS
-categories: [Newspaper-Sunday Mail, OnThisDay27May]
+categories: ["Newspaper-Free Library: Sunday Mail", OnThisDay27May]
 ---
 
 <figure class="fig3">

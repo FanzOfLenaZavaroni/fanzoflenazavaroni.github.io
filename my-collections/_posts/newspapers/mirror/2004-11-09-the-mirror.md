@@ -1,12 +1,12 @@
 ---
 layout: post
-title: The Mirror Website &#124; 9 November 2004
-maintitle: The Mirror Website
+title: "The Free Library: Daily Mirror &#124; 9 November 2004"
+maintitle: "The Free Library: Daily Mirror"
+suffix: ": Stealing in the Limelight; Why Do Rich and Famous Go Shoplifting?"
 subtitle:  "Stealing in the Limelight; Why Do Rich and Famous Go Shoplifting?"
 description: "Stealing in the Limelight; Why Do Rich and Famous Go Shoplifting?"
-Media: Newspaper
 post_description: "Stealing in the Limelight; Why Do Rich and Famous Go Shoplifting?"
-categories: [Newspaper-Mirror, OnThisDay9November]
+categories: ["Newspaper-Free Library: Daily Mirror", OnThisDay9November]
 ---
 
 <cite><a href="https://www.thefreelibrary.com/Stealing+IN+THE+limelight%3b+WHY+DO+RICH+AND+FAMOUS+GO+SHOPLIFTING%3f-a0124315955">The Free Library</a></cite>

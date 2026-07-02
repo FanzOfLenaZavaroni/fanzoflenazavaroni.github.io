@@ -2,6 +2,7 @@
 layout: post
 title: The People &#124; 17 December 1989
 maintitle: The People
+suffix: ": AS HER MUM DIES"
 subtitle: ﻿AS HER MUM DIES
 description: SINGER Lena Zavaroni faced double heartache last night as she arrived in Scotland for the funeral of her mother.
 post_description: SINGER Lena Zavaroni faced double heartache last night as she arrived in Scotland for the funeral of her mother.

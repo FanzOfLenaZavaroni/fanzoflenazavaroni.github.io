@@ -4,9 +4,7 @@ title: Ulster Television News &#124; 20 October 1980
 maintitle: Ulster Television News
 subtitle: Reported on Lena Zavaroni’s arrival at Belfast airport to perform live in the city
 description: Reported on Lena Zavaroni’s arrival at Belfast airport to perform live in the city.
-media: Details
 post_description: Reported on Lena Zavaroni’s arrival at Belfast airport to perform live in the city.
-image: /assets/images/theatres/lena-signs-autographs-at-belfast-airport-in-1980.jpg
 categories: [Ulster Television News, OnThisDay20October]
 published: false
 ---

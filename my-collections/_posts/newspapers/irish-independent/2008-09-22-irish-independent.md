@@ -4,7 +4,6 @@ title: Irish Independent &#124; 22 September 2008
 maintitle: Irish Independent
 subtitle: Article on Fujiya And Miyagi  makes reference to their song <a href="/discography/tribute-songs/2008-09-01-fujiyaand-miyagi-knickerbocker">Knickerbocker</a> and the line &quot;I saw the ghost of Lena Zavaroni&quot;
 description: "Article on Fujiya And Miyagi  makes reference to their song Knickerbocker and the line &quot;I saw the ghost of Lena Zavaroni&quot;."
-media: Newspaper
 post_description: "Article on Fujiya And Miyagi  makes reference to their song Knickerbocker and the line &quot;I saw the ghost of Lena Zavaroni&quot;."
 categories: [Newspaper-Irish Independent, OnThisDay22September]
 ---

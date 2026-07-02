@@ -4,9 +4,7 @@ title: Good Morning Britain &#124; 17 October 1984
 maintitle: Good Morning Britain
 subtitle: "ITV: TV-AM's Main Breakfast Television Show"
 description: Lena appeared alongside Samantha Fox on the sofa to talk about her comeback from illness.
-media: Details
 post_description: Lena appeared alongside Samantha Fox on the sofa to talk about her comeback from illness.
-image: /assets/images/sf-lz.jpg
 categories: [Television-Independent Television (ITV), TV&#45;AM, Good Morning Britain, OnThisDay17October]
 ---
 

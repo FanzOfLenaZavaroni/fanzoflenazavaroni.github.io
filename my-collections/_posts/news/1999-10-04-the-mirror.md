@@ -4,7 +4,6 @@ title: The Mirror &#124; 4 October 1999
 maintitle: The Mirror
 subtitle: THIS IS SO UNJUST; Lena's Love Tells of Her Final Meal and How She Had Bravely Battled Wasting Disease
 description: THIS IS SO UNJUST; Lena's Love Tells of Her Final Meal and How She Had Bravely Battled Wasting Disease.
-media: Newspaper
 post_description: THIS IS SO UNJUST; Lena's Love Tells of Her Final Meal and How She Had Bravely Battled Wasting Disease.
 categories: [Newspaper Mirror, OnThisDay4October]
 ---

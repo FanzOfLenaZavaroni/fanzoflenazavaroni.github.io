@@ -4,7 +4,6 @@ title: Daily Record &#124; 4 October 1999
 maintitle: Daily Record
 subtitle: Lena Was Going to Be a Bride Again
 description: Lena Was Going to Be a Bride Again.
-media: Newspaper
 post_description: Lena Was Going to Be a Bride Again.
 categories: [Newspaper-Daily Record, Glasgow, Scotland, OnThisDay4October]
 ---

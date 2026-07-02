@@ -1,12 +1,11 @@
 ---
 layout: post
-title: The Mirror Website published an interview by Ellie Dalziel &#124; 3 October 1999
-maintitle: The Mirror Website published an interview by Ellie Dalziel
+title: "The Free Library: Daily Mirror published an interview by Ellie Dalziel &#124; 3 October 1999"
+maintitle: "The Free Library: Daily Mirror published an interview by Ellie Dalziel"
 subtitle:  I HAVEN’T EATEN FOR 6 YEARS BUT LENA WANTED ME TO STAY ALIVE AND HELP OTHER VICTIMS.
 description: The Mirror Website published an interview by Ellie Dalziel
-Media: The Mirror Website published an interview by Ellie Dalziel
 post_description: I HAVEN’T EATEN FOR 6 YEARS BUT LENA WANTED ME TO STAY ALIVE AND HELP OTHER VICTIMS.
-categories: [Newspaper-Mirror, OnThisDay3October]
+categories: ["Newspaper-Free Library: Daily Mirror", OnThisDay3October]
 ---
 
 SEVEN years ago this week, former child star Lena Zavaroni lost her tragic fight with anorexia.

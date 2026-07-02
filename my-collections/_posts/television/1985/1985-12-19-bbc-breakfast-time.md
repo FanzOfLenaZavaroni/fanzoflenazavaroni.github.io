@@ -4,9 +4,7 @@ title: BBC Breakfast Time &#124; 19 December 1085
 maintitle: BBC Breakfast Time
 subtitle: BBC One
 description: Lena appears on the sofa to chat to Frank Bough and Debbie Greenwood about her plans for the future.
-media: BBC One
 post_description: Lena appears on the sofa to chat to Frank Bough and Debbie Greenwood about her plans for the future.
-image: /assets/images/BBC/Breakfast Time.jpg
 categories: [Television-BBC One, OnThisDay19December]
 ---
 

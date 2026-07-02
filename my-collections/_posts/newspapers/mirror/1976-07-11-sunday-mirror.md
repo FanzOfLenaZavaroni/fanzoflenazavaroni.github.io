@@ -2,10 +2,11 @@
 layout: post
 title: Sunday Mirror &#124; 11 July 1976
 maintitle: Sunday Mirror
+suffix: ": The Grand Prix Night of the Stars"
 subtitle: The Grand Prix Night of the Stars
 description: Article on The Grand Prix Night of the Stars scheduled for broadcast on 15 july 1976.
 post_description: Article on The Grand Prix Night of the Stars scheduled for broadcast on 15 july 1976.
-categories: [Newspaper-Mirror, OnThisDay11July]
+categories: [Newspaper-Sunday Mirror, OnThisDay11July]
 last_modified_at: 11 July 2025
 ---
 

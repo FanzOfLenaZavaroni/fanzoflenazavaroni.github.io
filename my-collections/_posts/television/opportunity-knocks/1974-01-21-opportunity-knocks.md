@@ -4,7 +4,6 @@ title: Opportunity Knocks &#124; 21 January 1974 &#124; Lena Zavaroni makes her 
 maintitle: Opportunity Knocks
 subtitle: Episode 14.25
 description: Lena makes her third appearance after winning the viewers votes for the second time.
-media: Thames Television
 post_description: Lena makes her third appearance after winning the viewers votes for the second time.
 categories: [Television-Thames, Opportunity Knocks, Hughie Green, OnThisDay21January]
 last_modified_at: 13 January 2024

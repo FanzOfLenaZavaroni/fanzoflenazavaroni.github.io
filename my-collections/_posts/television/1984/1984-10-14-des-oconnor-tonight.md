@@ -5,7 +5,6 @@ maintitle: Des O'Connor Tonight
 before: "Recorded on "
 after: ", Broadcast On 16 October 1984"
 description: Lena Zavaroni returns from a two year break to perform a live version of Memory. Des then interviews her about her previous health problems and her hopes for the future.
-media: Thames Television
 post_description: Filmed at Thames Television Studios in London, England.
 categories: [Television-Thames Television, Des O'Connor, OnThisDay14October, OnThisDay16October]
 ---

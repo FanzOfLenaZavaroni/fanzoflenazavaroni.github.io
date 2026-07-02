@@ -5,9 +5,7 @@ maintitle: The Stage and Television Today
 suffix: ": Lena Zavaroni was featured on numerous pages"
 subtitle: It made reference to Lena Zavaroni on pages 4, 13, 21, 24, 26 & 27
 description: It made reference to Lena Zavaroni on pages 4, 13, 21, 24, 26 & 27.
-media: Newspaper
 post_description: It made reference to Lena Zavaroni on pages 4, 13, 21, 24, 26 & 27.
-image: /assets/images/The Stage and Television Today/1976-11-18-The Stage and Television Today-01.jpg
 categories: [The Stage and Television Today, OnThisDay18November]
 ---
 

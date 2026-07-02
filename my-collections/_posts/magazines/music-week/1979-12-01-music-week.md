@@ -4,7 +4,6 @@ title: Music Week &#124; 1 December 1979
 maintitle: Music Week
 subtitle: Magazine
 description: Airplay Action listed the promo release of Somewhere South Of Macon by Lena Zavaroni at the bottom of page 22.
-media: The magazine
 post_description: Airplay Action listed the promo release of Somewhere South Of Macon by Lena Zavaroni at the bottom of page 22.
 categories: [Magazine-Music Week, OnThisDay1December]
 last_modified_at: 1 January 2024

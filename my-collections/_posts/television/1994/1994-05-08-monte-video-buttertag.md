@@ -4,7 +4,6 @@ title: Monte Video
 maintitle: Monte Video
 subtitle: Buttertag
 description: The broadcast included archive footage of ABBA, Cher and Lena Zavaroni.
-media: Television
 post_description: The broadcast included archive footage of ABBA, Cher and Lena Zavaroni.
 categories: [Television-Österreichischer Rundfunk (ORF), OnThisDay8May]
 ---

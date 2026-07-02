@@ -6,9 +6,7 @@ title: Lena Zavaroni At The BBC Manchester Variety Club &#124; 6 October 1981 &#
 maintitle: Lena Zavaroni At The BBC Manchester Variety Club
 subtitle: Broadcast On BBC Radio 2
 description: Lena Zavaroni at the BBC Manchester Variety Club for BBC Radio 2.
-media: Details
 post_description: Broadcast on BBC Radio 2 with a repeated on 11 May 1982.
-image: /assets/images/
 categories: [BBC Radio 2, OnThisDay6October, OnThisDay11May]
 last_modified_at: 6 May 2024
 ---

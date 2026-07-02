@@ -4,9 +4,7 @@ title: Bruce Forsyth's Big Night &#124; 25 November 1978
 maintitle: Bruce Forsyth's Big Night
 subtitle: London Weekend Television
 description: Lena performs You Keep Me Dancing, before being interviewed by Brucie. They then perform a duet on Something Extra to close the show.
-media: Details
 post_description: Lena performs You Keep Me Dancing, before being interviewed by Brucie. They then perform a duet on Something Extra to close the show.
-image: /assets/images/ITV/1978-11-25-bruce-forsyths-big-night.jpg
 categories: [Television-London Weekend Television (LWT), OnThisDay25November]
 last_modified_at: 22 November 2023
 ---

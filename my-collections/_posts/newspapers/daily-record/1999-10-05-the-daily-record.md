@@ -4,7 +4,6 @@ title: Daily Record &#124; 5 October 1999
 maintitle: Daily Record
 subtitle: Obsessed Fan Preyed On My Poor Lena.
 description: Obsessed Fan Preyed On My Poor Lena.
-media: Newspaper
 post_description: Obsessed Fan Preyed On My Poor Lena.
 categories: [Newspaper-Daily Record, Glasgow, Scotland, OnThisDay5October]
 ---

@@ -4,7 +4,6 @@ title: The Lena Zavaroni Show &#124; 2 October 1978
 maintitle: The Lena Zavaroni Show
 subtitle: The London Palladium
 description: Lena Zavaroni stars in her own show at The Palladium, London for one week.
-media: Theatre
 post_description: Lena Zavaroni stars in her own show at The Palladium, London for one week.
 categories: [Theatre-The London Palladium, London, The Lena Zavaroni Show, OnThisDay2October]
 ---

@@ -4,9 +4,8 @@ title: The Media Reports On The Funeral Of Lena Zavaroni &#124; 16 October 1999
 maintitle: The Media Reports On The Funeral Of Lena Zavaroni
 subtitle: Various articles covering the Funeral.
 description: Various articles covering the Funeral.
-media: Details
 post_description: Various articles covering the Funeral.
-categories: [Funerals, Newspaper-Daily Record, OnThisDay16October]
+categories: [Funerals, "Newspaper-Free Library: Daily Record", OnThisDay16October]
 ---
 
 <h2 id="daily-mirror"><a href="#daily-mirror">Daily Mirror</a></h2>

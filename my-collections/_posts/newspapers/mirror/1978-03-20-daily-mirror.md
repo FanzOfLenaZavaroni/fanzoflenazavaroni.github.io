@@ -2,6 +2,7 @@
 layout: post
 title: Daily Mirror &#124; 20 March 1978
 maintitle: Daily Mirror
+suffix: ": OPPORTUNITY KNOCK-OUT!"
 subtitle: OPPORTUNITY KNOCK-OUT!
 description: The Daily Mirror had a full page article about the final episode of Opportunity Knocks.
 post_description: The Daily Mirror had a full page article about the final episode of Opportunity Knocks.

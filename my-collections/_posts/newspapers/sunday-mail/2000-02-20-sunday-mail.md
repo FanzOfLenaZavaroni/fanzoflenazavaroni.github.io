@@ -4,10 +4,8 @@ title: The Sunday Mail &#124; 20 February 2000
 maintitle: The Sunday Mail
 subtitle: Preview of The Real Lena Zavaroni
 description: 20 February 2000 - The Sunday Mail (Glasgow, Scotland) Preview of The Real Lena Zavaroni.
-media: Newspaper
 post_description: The Sunday Mail (Glasgow, Scotland) Preview of The Real Lena Zavaroni.
-image: /assets/images/BBC/
-categories: [Newspaper-Sunday Mail, Going Nowhere, OnThisDay20February]
+categories: ["Newspaper-Free Library: Sunday Mail", Going Nowhere, OnThisDay20February]
 ---
 
 ### Real tragedy behind the little girl with the big voice; tvpreview.

@@ -4,7 +4,6 @@ title: The Lena Zavaroni Show &#124; 21 October 1975
 maintitle: The Lena Zavaroni Show
 subtitle: Glasgow Apollo
 description: Lena Zavaroni stars in her own show at the Glasgow Apollo.
-media: Details
 post_description: Lena Zavaroni stars in her own show at the Glasgow Apollo.
 categories: [Theatre-Glasgow Apollo, OnThisDay21October]
 ---

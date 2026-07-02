@@ -4,7 +4,6 @@ title: Woman's Realm &#124; 2 Febuary 1994
 maintitle: Woman's Realm
 subtitle: Magazine
 description: One page article criticising Lena for being open about her problems and for seeking pity.
-media: Magazine
 post_description: One page article criticising Lena for being open about her problems and for seeking pity.
 categories: [Magazine-Woman's Realm, OnThisDay2Febuary]
 ---

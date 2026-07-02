@@ -4,7 +4,6 @@ title: Lena Zavaroni At The Congress Theatre, Eastbourne &#124; 13 July 1975
 maintitle: The Congress Theatre, Eastbourne
 subtitle: Starring Lena Zavaroni
 description: Starring Lena Zavaroni
-media: The Congress Theatre, Eastbourne
 post_description: Starring Lena Zavaroni
 image: /assets/images/theatres/1975-07-13-congress-theatre-eastbourne.jpg
 categories: ["Theatre-Congress Theatre, Eastbourne", OnThisDay13July]

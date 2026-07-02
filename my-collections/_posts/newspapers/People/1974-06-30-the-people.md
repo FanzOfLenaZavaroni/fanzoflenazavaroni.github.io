@@ -2,7 +2,8 @@
 layout: post
 title: The People &#124; 30 June 1974
 maintitle: The People
-subtitle:
+suffix: ": A revealing feature on the Kray twins"
+subtitle: A revealing feature on the Kray twins
 description: A revealing feature on the Kray twins’ lives behind bars—routine, rehabilitation, and rare moments of nostalgia.
 post_description: A revealing feature on the Kray twins’ lives behind bars—routine, rehabilitation, and rare moments of nostalgia.
 categories: [Newspaper-People, OnThisDay30June]

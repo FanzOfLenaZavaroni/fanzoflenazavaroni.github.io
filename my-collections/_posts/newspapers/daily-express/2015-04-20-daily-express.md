@@ -4,7 +4,6 @@ title: Daily Express &#124; 20 April 2015
 maintitle: Daily Express
 subtitle: Family of child star Lena Zavaroni call for ban on anorexia websites.
 description: Family of child star Lena Zavaroni call for ban on anorexia websites.
-media: Newspaper
 post_description: Family of child star Lena Zavaroni call for ban on anorexia websites.
 categories: [Newspaper-Daily Express, OnThisDay20April]
 ---

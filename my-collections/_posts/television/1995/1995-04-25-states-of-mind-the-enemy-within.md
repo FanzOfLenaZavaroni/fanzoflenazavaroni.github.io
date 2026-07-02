@@ -4,7 +4,6 @@ title: "States of Mind: The Enemy Within &#124; 25 April 1995"
 maintitle: "States of Mind: The Enemy Within"
 subtitle: BBC Two
 description: The Princess of Wales, Elton John and Lena Zavaroni have all had eating disorders. Anorexia and bulimia - the condition in which sufferers binge then purge themselves either by vomiting or using laxatives - are both on the increase.
-media: BBC Two
 post_description: The Princess of Wales, Elton John and Lena Zavaroni have all had eating disorders. Anorexia and bulimia - the condition in which sufferers binge then purge themselves either by vomiting or using laxatives - are both on the increase.
 categories: [Television-BBC Two, OnThisDay25April]
 ---

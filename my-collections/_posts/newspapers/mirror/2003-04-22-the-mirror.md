@@ -1,11 +1,12 @@
 ---
 layout: post
-title: The Mirror Website &#124; 22 April 2003
-maintitle: The Mirror Website
+title: "Free Library: Daily Mirror &#124; 22 April 2003"
+maintitle: "Free Library: Daily Mirror"
+suffix: ": THE family of Lena Zavaroni have accused an author of cashing in on the late singer's memory"
 subtitle: The Scurra
 description: THE family of Lena Zavaroni have accused an author of cashing in on the late singer's memory, I learn.
 post_description: THE family of Lena Zavaroni have accused an author of cashing in on the late singer's memory, I learn.
-categories: [Newspaper-Mirror, Andrew O'Hagan, OnThisDay22April]
+categories: ["Newspaper-Free Library: Daily Mirror", Andrew O'Hagan, OnThisDay22April]
 ---
 
 <blockquote>

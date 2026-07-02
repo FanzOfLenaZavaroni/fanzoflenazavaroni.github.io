@@ -2,10 +2,11 @@
 layout: post
 title: Daily Mirror &#124; 29 February 1996
 maintitle: Daily Mirror
+suffix: ": Lena Zavaroni In Popular Culture"
 subtitle: Lena Zavaroni In Popular Culture
 description: Lena Zavaroni In Popular Culture.
 post_description: Lena Zavaroni In Popular Culture.
-categories: [Newspaper-Mirror, Popular Culture, OnThisDay29February]
+categories: [Newspaper-Daily Mirror, Popular Culture, OnThisDay29February]
 last_modified_at: 28 February 2026
 ---
 

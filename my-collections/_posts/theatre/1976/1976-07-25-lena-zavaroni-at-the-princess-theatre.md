@@ -4,7 +4,6 @@ title: Lena Zavaroni At The The Princess Theatre &#124; 25 July 1976
 maintitle: Lena Zavaroni At The The Princess Theatre
 subtitle: Torquay
 description: The Princess Theatre, Torquay starring Lena Zavaroni.
-media: Starring
 post_description: Lena Zavaroni.
 image: /assets/images/locations/geograph-4489556-by-Jaggery.jpg
 categories: ["Theatre-Princess Theatre, Torquay", OnThisDay25July]

@@ -2,10 +2,11 @@
 layout: post
 title: The Sunday Mirror &#124; 25 June 1978
 maintitle: The Sunday Mirror
+suffix: ": Lena Zavaroni – Growing Up"
 subtitle: A Short Summary Based On The Sunday Mirror's Article
 description: A brief article in the Sunday Mirror reflects on Lena Zavaroni's recovery and growing confidence.
 post_description: A brief article in the Sunday Mirror reflects on Lena Zavaroni's recovery and growing confidence.
-categories: [Newspaper-Mirror, OnThisDay25June]
+categories: [Newspaper-Sunday Mirror, OnThisDay25June]
 last_modified_at: 24 June 2025
 ---
 

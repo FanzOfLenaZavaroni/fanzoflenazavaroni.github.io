@@ -5,8 +5,6 @@ maintitle: Turnin' Off A Memory
 extra: ", UK Release"
 subtitle: Single by The Zavaronis
 year: 1975
-description: 
-media: 7" Vinyl, 45 rpm Single
 categories: [Discography, Singles]
 last_modified_at: 15 June 2023
 ---

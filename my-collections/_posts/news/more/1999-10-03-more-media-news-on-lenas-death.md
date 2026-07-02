@@ -4,7 +4,6 @@ title: More media reactions related to the death of Lena Zavaroni &#124; 3 Octob
 maintitle: More media reactions related to the death of Lena Zavaroni
 subtitle: Rest In Peace
 description: More media reactions related to the death of Lena Zavaroni
-media: Various Media Articles
 post_description: A list of just some of the articles published on this day.
 categories: [BBC News UK, BBC News Entertainment, OnThisDay3October]
 ---

@@ -4,9 +4,7 @@ title: Publicity &#124; Photo &#124; 12 September 1978  &#124; The Press Associa
 maintitle: The Press Association
 subtitle: Issued a photograph of Lena Zavaroni
 description: The Press Association issued a photograph of Lena Zavaroni.
-media: Details
 post_description: Issued a photograph of Lena Zavaroni.
-image: /assets/images/publicity/1978-09-12-the-press-association-01.png 
 categories: [Publicity, The Press Association, OnThisDay12September]
 ---
 

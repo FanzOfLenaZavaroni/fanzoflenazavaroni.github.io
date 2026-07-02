@@ -6,7 +6,6 @@ maintitle: Jump Down Jimmy
 extra: ", UK Release"
 subtitle: Lena Zavaroni's Nineth Single
 description: This is the Nineth single by Lena Zavaroni.
-media: 7" Vinyl, 45 rpm Single
 post_description: This is the Nineth single by Lena Zavaroni.
 categories: [Discography Singles, OnThisDay16May]
 permalink: /discography/singles/:name

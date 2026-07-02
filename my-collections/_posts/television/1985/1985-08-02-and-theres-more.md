@@ -4,9 +4,7 @@ title: And There's More &#124; 2 August 1985
 maintitle: And There's More
 subtitle: Hosted by the comedian Jimmy Cricket
 description: Lena performs I Am What I Am on the comedy show, hosted by the comedian Jimmy Cricket.
-media: Central Television
 post_description: Lena performs I Am What I Am on the comedy show, hosted by the comedian Jimmy Cricket.
-image: /assets/images/ITV/1985-08-02-and-theres-more.jpg
 categories: [Television-Central Television, OnThisDay2August]
 last_modified_at: 22 July 2023
 ---
