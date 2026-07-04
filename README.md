@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 1978-09-28-blue-peter.jpg, Breakfast Time.jpg, and 201 more fi…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0b93e35bca1d3b639503e701968532f9939dc535)
+- [Update 1978-07-02-the-lena-zavaroni-show-01.jpg, blackpool-opera-hous…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4a6e2840d7f56335d8977a0ea6f40079d4bf6fd5)
+- [Fix categories formatting in theatre post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8e0f6d77677778ef0e9272ffaf5449ea97e74304)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e46824eecb8e4cbdb531d6f4fda72e2334fe9990)
 - [Update post.html, categories.md, and 7 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9ad930f1bbdc88d652f56d301010e42cda61e4ba)
-- [Update official-singles-chart.md, pavilion-theatre.md, and 16 more fi…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8fcbc273b88747b208419825678ce4e774a2a093)
-- [Update 1979-06-21-the-stage-and-television-today.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f46914193698e5cca61b26c201d45d71ee13128e)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/329073f5caffc22e179729594411e4892ac71bfc)
-- [Correct formatting for Lena Zavaroni entry](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8029dfa315746ac9f1f32dc2b5167183779cc7c7)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
