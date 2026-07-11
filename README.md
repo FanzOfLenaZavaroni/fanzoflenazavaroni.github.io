@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1978-09-28-blue-peter.jpg, Breakfast Time.jpg, and 201 more fi…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/0b93e35bca1d3b639503e701968532f9939dc535)
-- [Update 1978-07-02-the-lena-zavaroni-show-01.jpg, blackpool-opera-hous…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4a6e2840d7f56335d8977a0ea6f40079d4bf6fd5)
-- [Fix categories formatting in theatre post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8e0f6d77677778ef0e9272ffaf5449ea97e74304)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e46824eecb8e4cbdb531d6f4fda72e2334fe9990)
-- [Update post.html, categories.md, and 7 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9ad930f1bbdc88d652f56d301010e42cda61e4ba)
+- [Update ma-hes-making-eyes-at-me-japanese-back-cover.jpg, ma-hes-makin…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1e9ca74844ff85f8c04104dbcbdabf236bc3f60f)
+- [Update 1976-07-15-the-grand-prix-night-of-the-stars.jpg, 1975-07-16-e…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e0b9eaf91b804a0db8a9aa8f1af6ef687620d844)
+- [Update 1998-07-06-ruby.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e487f813cac08d55005c09e4e7aa80c935f8a381)
+- [Update 1998-07-06-ruby.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f8484c6f5e70a1cbcdf8789b996b15f92bcf513e)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bbb86cd27bc33babf30e82ebbde3d8d37106db6f)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
