@@ -2,6 +2,7 @@
 layout: post
 title: The Lena Zavaroni Club Get Together &#124; 23 September 1984
 maintitle: The Lena Zavaroni Club Get Together
+suffix: Currently the London Hotel used is unknown
 subtitle: Unknown London Hotel
 description: Members of the Lena Zavaroni Club have an afternoon 'get together', where Lena is the guest of honour. She chats to fans and signs autographs.
 post_description: Members of the Lena Zavaroni Club have an afternoon 'get together', where Lena is the guest of honour. She chats to fans and signs autographs.

@@ -2,6 +2,7 @@
 layout: post
 title: Basildon History &#124; 26 July 1978
 maintitle: Basildon History
+suffix: 'Lena Zavaroni appeared at the Tesco Extra store to promote her new album "Songs Are Such Good Things" and sign autographs'
 subtitle: Tesco Extra
 description: Scottish singer and television child star Lena Zavaroni appeared at the store on this day to promote her new album Songs Are Such Good Things and sign autographs.
 post_description: Scottish singer and television child star Lena Zavaroni appeared at the store on this day to promote her new album Songs Are Such Good Things and sign autographs.

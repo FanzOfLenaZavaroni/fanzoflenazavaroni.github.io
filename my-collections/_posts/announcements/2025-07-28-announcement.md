@@ -15,3 +15,4 @@ categories: [Announcements, Media Integrity]
 </ul>
 
 <p>True fans know better, and we can only hope in the long term the fake fans lose their negative hold on the fandom.</p>
+

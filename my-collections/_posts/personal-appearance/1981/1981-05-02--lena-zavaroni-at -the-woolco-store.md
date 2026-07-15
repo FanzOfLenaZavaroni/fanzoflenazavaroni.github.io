@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Lena signed copies of Roses & Rainbows at the Woolco store, Hatfield &#124; 2 May 1981
-maintitle: Lena signed copies of Roses & Rainbows at the Woolco store, Hatfield
-subtitle: The Hemel Hempstead Echo photographed her signing the plaster cast of eight year old Donna Jerome from St Albans.
+title: Woolco store, Hatfield &#124; 2 May 1981
+maintitle: Woolco store, Hatfield
+suffix: Lena signed copies of Roses & Rainbows
+subtitle: Lena signed copies of Roses & Rainbows.
 description: The Hemel Hempstead Echo photographed her signing the plaster cast of eight year old Donna Jerome from St Albans.
 post_description: The Hemel Hempstead Echo photographed her signing the plaster cast of eight year old Donna Jerome from St Albans.
 categories: [Personal Appearances, OnThisDay2May]
@@ -18,6 +19,7 @@ Lena's then new sing was released on 3 April 1981 for more details visit my disc
 <h2 id="infobox3"><a href="#infobox3">Lena’s Visit Helped Both Her Single and the Store</a></h2>
 <blockquote>
 <p>I am sure this personal appearance by Lena Zavaroni at the store not only helped with the promotion of her single but also brought the Woolco store to the attention of the wider public. The event benefited both Lena and the store.</p>
+<p>The Hemel Hempstead Echo photographed her signing the plaster cast of eight year old Donna Jerome from St Albans.</p>
 <p>The photo of Lena signing the plaster cast of eight-year-old Donna Jerome must also have contributed to that promotion.</p>
 </blockquote>
 <cite>Robcamstone, 2 May 2025</cite>

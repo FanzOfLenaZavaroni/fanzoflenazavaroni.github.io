@@ -2,6 +2,7 @@
 layout: post
 title: Hornsea Carnival
 maintitle: Hornsea Carnival
+suffix: Lena Zavaroni made a personal appearance at the carnival
 subtitle: Hornsea, East Yorkshire
 description: Lena Zavaroni made a personal appearance at the carnival. She declared the Carnival open, then stayed for a short time to meet her fans and the public.
 post_description: Lena Zavaroni made a personal appearance at the carnival.
