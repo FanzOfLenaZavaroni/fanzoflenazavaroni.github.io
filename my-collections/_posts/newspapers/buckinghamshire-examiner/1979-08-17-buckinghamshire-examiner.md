@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The Buckinghamshire Examiner &#124; 17 August 1979
-maintitle: The Buckinghamshire Examiner
+title: Buckinghamshire Examiner &#124; 17 August 1979
+maintitle: Buckinghamshire Examiner
 subtitle: AKA Bucks Examiner
 description: Dee Anne aims for the top
 post_description: Dee Anne aims for the top
-categories: [Newspaper-Times, OnThisDay17August]
+categories: [Newspaper-Buckinghamshire Examiner, OnThisDay17August]
 last_modified_at: 17 August 2023
 ---
 
