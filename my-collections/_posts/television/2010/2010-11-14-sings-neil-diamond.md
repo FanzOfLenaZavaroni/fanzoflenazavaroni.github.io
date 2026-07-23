@@ -12,26 +12,19 @@ last_modified_at: 30 March 2026
 ---
 
 <p>A compilation from the BBC archive of performances featuring songs written by, or associated with, Neil Diamond. Featuring Lulu, UB40, Vince Hill, Robert Wyatt, Gladys Knight, Urge Overkill, Lena Zavaroni, The Hollies and a duet by Neil Diamond and Shirley Bassey.</p>
-<cite><a class="external-link" href="https://www.bbc.co.uk/programmes/b00vzzsy">BBC PID: b00vzzsy</a></cite>
-
-<h2 id="infobox1"><a href="#infobox1">Notes</a></h2>
-
-<p>At the time of the original broadcast the BBC Channels were still broadcasting in Standard Definition (SD) for high definition (HD) viewers would have to watch BBC HD which was a channel that showed a selection of programmes from across the BBC's' other channels so limited in what was showed.</p>
-
 <ul>
-<li><strong>BBC HD Launched:</strong> 15/05/2006, <strong>Closed:</strong> 26/03/2013, <strong>Replaced By:</strong> BBC Two HD</li>
-<li><strong>BBC One HD Launched:</strong> 03/11/2010, <strong>Closed:</strong> N/A, <strong>Replaced By:</strong> N/A</li>
-<li><strong>BBC Two HD:</strong> 26/03/2013, <strong>Closed:</strong> N/A, <strong>Replaced By:</strong> N/A</li>
-<li><strong>BBC Three HD:</strong> 10/12/2013, <strong>Closed:</strong> 16/02/2016, <strong>Replaced By:</strong> BBC Three (streaming service)</li>
-<li><strong>BBC Three (streaming service):</strong> 16/02/2016, <strong>Closed:</strong> 01/02/2022, <strong>Replaced By:</strong> BBC Three HD</li>
-<li><strong>BBC Three HD Relaunched:</strong> 01/02/2022, <strong>Closed:</strong> N/A, <strong>Replaced By:</strong> N/A</li>
-<li><strong>BBC Four HD:</strong> 10/12/2013, <strong>Closed:</strong> N/A, <strong>Replaced By:</strong> N/A</li>
+<li><a class="external-link" href="https://www.bbc.co.uk/schedules/p00fzl97/2010/11/13">Schedule for the oringal broadcast date</a></li>
+<li><a class="external-link" href="https://www.bbc.co.uk/programmes/b00vzzsy">BBC PID: b00vzzsy</a></li>
+<li><a class="external-link" href="https://genome.ch.bbc.co.uk/b00vzzsy">BBC Genome: b00vzzsy</a></li>
 </ul>
+<p>As you can see now to make archive research much harder then it already was the BBC Genome Project is now switching some content to using the PID identifiers instead of the date and time so making it much hard to get reliable dates and times for the reason you will see below as to it being only on BBC Two Northern Ireland I am not convinced that was the case, but as I only got the BBC data which is questionable I can only it add it to that category for now.</p>
 
-<h2 id="infobox2"><a href="#infobox2">Even the editor of the page for ...Sings Neil Diamond is confused</a></h2>
+<h2 id="infobox2"><a href="#infobox2">Even the editors of the page for ...Sings Neil Diamond is confused</a></h2>
 
-<p>...Sings Neil Diamond may have got it's first HD broadcast on 19 November 2016 (unable to confirm as even to this day the BBC broadcasts SD content on its HD channels, Yes it's currently on BBC iPlayer in HD but it may just be upscaled from SD): <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_four/2016-11-19#at-0.50">BBC Genome</a> / <a class="external-link" href="https://www.bbc.co.uk/schedules/p00fzl6b/2016/11/19">BBC Listing Page</a> and just to confuse the issue the BBC Page for ...Sings Neil Diamond gives the date as the 20th so even the editor of the page is confused by how the BBC lists it's programmes as they ignore the fact that the date changes as midnight.</p>
-<p>In the world as we know it the programme was broadcast on the 20 November 2016 but in the BBC listings it is listed under the 19 November 2016 but whoever edited this page used the real world date that does not work on the BBC website as if you go to the 20 November 2016 to look for ...Sings Neil Diamond you will not find it there you have to go to the day before. This is also true of a number of other dates and programmes so if you are researching content always remember to check the day before in the BBC listings.</p>
+<p>...Sings Neil Diamond got it's first broadcast on 14 November 2010 but shows up on the schedules page for 13 November 2010, so even the editors of the page is confused by how the BBC lists it's programmes as the BBC ignore the fact that the date changes as midnight and so the schedules page gives the date as 14 November 2010, but if you go to that date in the schedules it will be missing and you have to go to the day before.</p>
+<p>It is also true for the repeat on 20 November 2016 to see it in the BBC schedules page you have to go to the day before so the 19 November 2016 and mostly is the same for all the other late night repeats as the BBC as do many broadcasters ignore real world time and act as if the date does not change until sometime in the middle of the night.</p>
+<p>As that is true of many other dates and programmes, if you are researching content always remember to check the day before in the BBC listings.</p>
+<p>When it gets shown on BBC Four HD or any of the BBC's HD channels it still looks like the SD version which is something the BBC does, but is not transparent about that SD content is still show on in the SD format on what is meant to be HD channels and may at best just had the content recoded to 1080p which does not make it HD or FHD.</p>
 
 <cite>Robcamstone</cite>
 
@@ -91,6 +84,8 @@ last_modified_at: 30 March 2026
 
 <h2 id="infobox6"><a href="#infobox6">Note</a></h2>
 <p>...Sings Neil Diamond was scheduled for a broadcast on BBC Four on the 23 March 2019 at 00:30 but the broadcast never went ahead why I don't know. When the BBC pulls a broadcast it just updates the TV listings for the day and does not indicate that a programme had been pulled or the reason why.</p>
+<p>It was that scheduled date that triggered me to contact the BBC and the remove of the broadcast was not even brought up in the email reply.</p>
+<p>if you check the schedules pages for 24 March 2019 you will see that ...Sings Neil Diamond was replaced by David Cassidy: The Last Session in the schedule for the 24 March 2019 but unless like me you saw ...Sings Neil Diamond listed you will not know it was replaced and as I made clear by now its programme page show it as the 25 March 2019.</p>
 
 <style>
 .fig4 {float:left; border: solid #dddfe2 1px; padding: 10px;}
