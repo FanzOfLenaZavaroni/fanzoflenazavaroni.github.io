@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1974-07-17-nieuwsblad..md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ec0451d62376e41ebf2bd0d963884b6924c40c82)
-- [Update post.html, comic.md, and 41 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bffe51850ac7454458e2755b64753687950db2af)
-- [Update 1975-07-19-music-week.md and 1976-07-15-the-grand-prix-night-o…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3231863f330c3a498d05408a0734d5ed7a8235a1)
-- [Update 1976-07-18-lena-zavaroni-at-the-futurist-theatre.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/095982b86b0411ee7bb9c60ef6cd25a3920575c1)
-- [Update 1976-07-15-the-grand-prix-night-of-the-stars.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/61f831a3e8684be2f1e524dc320e5a7aa6f36420)
+- [Update theatre.md and 1975-07-27-lena-zavaroni-at-the-ocean-theatre.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a0361d6a1bca7cfc54a0c745111fa64e1acfe073)
+- [Update 2010-11-14-sings-neil-diamond.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/760de6f081561fca73a421d70b13d0d81000b992)
+- [Update 1979-07-23-lena-zavaroni-and-music-bbc-one-wales.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/bca54638cd467382bc4c33f4e6aec004a3ed2e62)
+- [Update titles in The Times newspaper post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b43821c0a3cdffd53ffba581bc53c36c850ba6d0)
+- [Update titles in The Times newspaper post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/33e359815cc065705c0431fa280a03b497ded4e0)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
