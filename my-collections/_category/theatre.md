@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Theatres"
-maintitle: "Category: Theatres"
+title: "Category: Theatres and Entertainment Venues"
+maintitle: "Category: Theatres and Entertainment Venues"
 ---
 
 {% assign show_names = "" | split: "" %}
