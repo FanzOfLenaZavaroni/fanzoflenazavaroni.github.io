@@ -2,10 +2,11 @@
 layout: post
 title: BBC Press Information &#124; 31 July 1993 - 6 August 1993
 maintitle: BBC Press Information
+suffix: Singer Lena Zavaroni joins Pam Rhodes for SUMMER PRAISE
 subtitle: Detailed programme information for most BBC TV programmes in the 31st week of 1993 on BBC1 and BBC2.
 description: Detailed programme information for most BBC TV programmes in the 31st week of 1993 on BBC1 and BBC2.
 post_description: Detailed programme information for most BBC TV programmes in the 31st week of 1993 on BBC1 and BBC2.
-categories: [Magazine-BBC Press Information, OnThisDay31July]
+categories: [BBC Press Information, OnThisDay31July]
 last_modified_at: 15 March 2024
 ---
 

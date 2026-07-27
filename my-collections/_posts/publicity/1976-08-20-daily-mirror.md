@@ -6,7 +6,7 @@ suffix: ": Photographs of Lena Zavaroni at Rothesay Acadamy"
 subtitle: Publicity Photos
 description: The Daily Mirror took photographs of Lena at Rothesay Acadamy, she only lasted one term as a group of pupils were nasty to her, doing things like spitting on her cutlery.
 post_description: The Daily Mirror took photographs of Lena at Rothesay Acadamy, she only lasted one term as a group of pupils were nasty to her, doing things like spitting on her cutlery.
-categories: [Newspaper-Daily Mirror, OnThisDay20August]
+categories: [Publicity, Newspaper-Daily Mirror, OnThisDay20August]
 ---
 
 <figure class="fig3">
