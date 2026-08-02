@@ -1,10 +1,10 @@
 ---
 layout: post-no-comments
-title: Research &#124; Last Update 10 December 2022
+title: Research &#124; Last Update 2 August 2026
 maintitle: Research
 description: Links and tips on how to do your own research.
 permalink: /:name
-last_modified_at: 19 March 2026
+last_modified_at: 2 August 2026
 ---
 
 This Page was created on 5 October 2020 and last updated on {{ page.last_modified_at }} to reorganise the sections and refresh outdated links.
