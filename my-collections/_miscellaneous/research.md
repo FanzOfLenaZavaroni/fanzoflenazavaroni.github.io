@@ -118,7 +118,7 @@ The following Sections list websites and tips that may help you with your own re
 
 
 <h2 id="infobox14"><a href="#infobox14">The British Newspaper Archive</a></h2>
-<p>Changes to how the On THis Day system works on The British Newspaper Archive means you now how to sign up and subscribe just to see its on this day newspapers in full making the On THis Day section of the site pointless for the casual vistor so I have removed its links and details on how to use the On This Day feature as now it is a paid only sevice.</p>
+<p>Changes to how the On This Day system works on The British Newspaper Archive means you now how to sign up and subscribe to see its On This Day newspapers in full making the On This Day section of the site pointless for the casual vistor so I have removed its links and details on how to use the On This Day feature as now it is a paid only sevice.</p>
 
 <style>
 .up {position: relative; top: -0.1em;}
