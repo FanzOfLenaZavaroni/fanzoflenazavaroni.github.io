@@ -87,7 +87,7 @@ The following Sections list websites and tips that may help you with your own re
 </ul>
 
 <h2 id="infobox11"><a href="#infobox11">Scholarly Literature</a></h2>
-/
+
 <ul>
 <li><a class="external-link" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Lena+Zavaroni">Google Scholar: Lena Zavaroni</a></li> 
 <li><a class="external-link" href="https://openalex.org/works?search.title_and_abstract=Lena+Zavaroni&page=1&sort=relevance_score:desc">OpenAlex: Lena Zavaroni</a> <span class="up">&#8592;</span> <span class="red">newly added</span></li>
