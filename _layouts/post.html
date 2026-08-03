@@ -138,7 +138,28 @@ layout: default
 
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 7: Default categories (fallback)
+  TYPE 7: Comic-* categories
+  ---------------------------------------------------------
+  {%- endcomment -%}
+  {% elsif category contains "Comic-" %}
+
+    {% assign Com = category | remove: "Comic-" %}
+    <a href="/category/comic#{{ Com | slugify }}">{{ Com }}</a>
+
+
+ {%- comment -%}
+  ---------------------------------------------------------
+  TYPE 8: The Real... categories
+  ---------------------------------------------------------
+  {%- endcomment -%}
+  {% elsif category == "The Real..." %}
+
+    <a href="/category/{{ category | slugify }}">{{ category }}</a>
+
+
+  {%- comment -%}
+  ---------------------------------------------------------
+  TYPE 9: Default categories (fallback)
   ---------------------------------------------------------
   {%- endcomment -%}
   {% else %}
