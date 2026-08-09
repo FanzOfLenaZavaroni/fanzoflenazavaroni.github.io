@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Lena Zavaroni At The Futurist Theatre, Scarborough &#124; 7 September 1975
-maintitle: The Futurist Theatre, Scarborough
+title: Futurist Theatre, Scarborough &#124; 7 September 1975
+maintitle: Futurist Theatre, Scarborough
+suffix: ": Starring Lena Zavaroni"
 subtitle: Starring Lena Zavaroni
-description: Lena Zavaroni At The Futurist Theatre, Scarborough
-post_description: Details Unknown.
+description: Starring Lena Zavaroni
+post_description: Starring Lena Zavaroni
 categories: ["Theatre-Futurist Theatre, Scarborough", OnThisDay7September]
 ---
+
 <h2 id="infobox1" class="infobox"><a href="#infobox1">Futurist Theatre</a></h2>
 
 <blockquote><p>The site of the Futurist has been used for entertainment since 1903.</p></blockquote>

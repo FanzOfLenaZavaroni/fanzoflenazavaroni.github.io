@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Lena Zavaroni At The Futurist Theatre, Scarborough &#124; 31 July 1976
-maintitle: The Futurist Theatre, Scarborough
+title: Futurist Theatre, Scarborough &#124; 31 July 1976
+maintitle: Futurist Theatre, Scarborough
+suffix: ": Starring Lena Zavaroni"
 subtitle: Starring Lena Zavaroni
 description: Lena Zavaroni At The Futurist Theatre, Scarborough
 post_description: Starring Lena Zavaroni.
-categories: ["Theatre-Futurist Theatre, Scarborough"]
+categories: ["Theatre-Futurist Theatre, Scarborough", OnThisDay31July]
 ---
 
 <figure class="fig3">
