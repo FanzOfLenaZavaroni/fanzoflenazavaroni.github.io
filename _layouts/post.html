@@ -156,10 +156,18 @@ layout: default
 
     <a href="/category/{{ category | slugify }}">{{ category }}</a>
 
+{%- comment -%}
+---------------------------------------------------------
+TYPE 9: The Stage and Television Today (with Year Anchor)
+---------------------------------------------------------
+{%- endcomment -%}
+{% elsif category == "The Stage and Television Today" %}
+  <a href="/category/{{ category | slugify }}#{{ page.date | date: '%Y' }}">{{ category }}</a>
+
 
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 9: Default categories (fallback)
+  TYPE 10: Default categories (fallback)
   ---------------------------------------------------------
   {%- endcomment -%}
   {% else %}
