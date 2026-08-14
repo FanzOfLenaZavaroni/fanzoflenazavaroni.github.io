@@ -4,12 +4,29 @@ title: "Category: BBC Radio 1"
 maintitle: "Category: BBC Radio 1"
 ---
 
-<ul>
-{% for post in site.categories["BBC Radio 1"] reversed %}
-{% if post.url %}
-<li>
-<a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a>
-</li>
-{% endif %}
+{% assign posts = site.categories["BBC Radio 1"] | sort: "date" %}
+{% assign years = "" | split: "" %}
+
+{% for post in posts %}
+  {% assign y = post.date | date: "%Y" %}
+  {% unless years contains y %}
+    {% assign years = years | push: y %}
+  {% endunless %}
 {% endfor %}
-</ul>
+
+{% assign sorted_years = years | sort %}
+
+{% for year in sorted_years %}
+  <h2 id="{{ year }}"><a href="#{{ year }}">{{ year }}</a></h2>
+  <ul>
+    {% for post in posts %}
+      {% assign post_year = post.date | date: "%Y" %}
+      {% if post_year == year %}
+        <li>
+          <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}{{ post.suffix }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endfor %}
+
