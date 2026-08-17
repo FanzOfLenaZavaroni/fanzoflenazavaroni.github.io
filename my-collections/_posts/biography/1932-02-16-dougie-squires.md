@@ -2,15 +2,14 @@
 layout: post
 title: Biography &#124; Dougie Squires
 maintitle: Dougie Squires
-born: 1932
+born: 1932-02-16
 died: 2023-05-21
-before: "Born: circa 1932 - Died: "
-description: 1932 - 21 May  2023
-post_description: 1932 - 21 May  2023
-image: /assets/images/newspapers/dougie-squires.jpg
-image-caption: Dougie Squires
+before: "Born: "
+after: " - Died: 21 May  2023"
+description: 16 February 1932 - 21 May  2023
+post_description: 16 February 1932 - 21 May  2023
 categories: [Biography, Dougie Squires, OnThisDay23May]
-last_modified_at: 31 January 2024
+last_modified_at: 18 August 2026
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Details</a></h2>
