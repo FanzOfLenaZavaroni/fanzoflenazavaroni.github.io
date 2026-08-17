@@ -15,7 +15,7 @@ last_modified_at: 18 August 2026
 <h2 id="infobox1"><a href="#infobox1">Details</a></h2>
 
 <p><strong>Birth name:</strong> Dougie William Squires</p>
-<p><strong>Born:</strong> 1932</p>
+<p><strong>Born:</strong> 16 February 1932</p>
 <p><strong>Origin:</strong> Woking, Surrey, England</p>
 <p><strong>Died:</strong> 21 May 2023 (aged 91)</p>
 <p><strong>Occupation:</strong> Choreographer</p>
