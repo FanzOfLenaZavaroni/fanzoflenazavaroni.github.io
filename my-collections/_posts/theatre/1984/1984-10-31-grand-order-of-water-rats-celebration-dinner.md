@@ -2,11 +2,11 @@
 layout: post
 title: Grand Order Of Water Rats Celebration Dinner &#124;31 October 1984
 maintitle: Grand Order Of Water Rats Celebration Dinner
-suffix: Lena Zavaroni was one of the guests
+suffix: ", Royal Lancaster Hotel, London, Lena Zavaroni was one of the guests"
 subtitle: The Royal Lancaster Hotel, London
 description: Event held in the prescence of HRH Prince Philip to celebrate the history of the Grand Order Of Water Rats showbusiness charity.
 post_description: Event held in the prescence of HRH Prince Philip to celebrate the history of the Grand Order Of Water Rats showbusiness charity.
-categories: [Personal Appearances, Royal Lancaster Hotel, London, OnThisDay31October]
+categories: ["Personal Appearances-Royal Lancaster Hotel, London", OnThisDay31October]
 ---
 
 <p>Event held in the prescence of HRH Prince Philip to celebrate the history of the Grand Order Of Water Rats showbusiness charity.</p>

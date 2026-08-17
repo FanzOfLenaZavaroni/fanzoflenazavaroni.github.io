@@ -147,9 +147,20 @@ layout: default
     <a href="/category/comic#{{ Com | slugify }}">{{ Com }}</a>
 
 
+  {%- comment -%}
+  ---------------------------------------------------------
+  TYPE 8: Personal Appearances-* categories
+  ---------------------------------------------------------
+  {%- endcomment -%}
+  {% elsif category contains "Personal Appearances-" %}
+
+    {% assign Pers = category | remove: "Personal Appearances-" %}
+    <a href="/category/personal-appearances#{{ Pers | slugify }}">{{ Pers }}</a>
+
+
  {%- comment -%}
   ---------------------------------------------------------
-  TYPE 8: The Real... categories
+  TYPE 9: The Real... categories
   ---------------------------------------------------------
   {%- endcomment -%}
   {% elsif category == "The Real..." %}
@@ -158,7 +169,7 @@ layout: default
 
 {%- comment -%}
 ---------------------------------------------------------
-TYPE 9: The Stage and Television Today (with Year Anchor)
+TYPE 10: The Stage and Television Today (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}
 {% elsif category == "The Stage and Television Today" %}
@@ -167,7 +178,7 @@ TYPE 9: The Stage and Television Today (with Year Anchor)
 
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 10: Default categories (fallback)
+  TYPE 11: Default categories (fallback)
   ---------------------------------------------------------
   {%- endcomment -%}
   {% else %}

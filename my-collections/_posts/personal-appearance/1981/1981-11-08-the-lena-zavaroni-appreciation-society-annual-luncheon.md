@@ -2,11 +2,11 @@
 layout: post
 title: The Lena Zavaroni Appreciation Society Annual Luncheon &#124; 8 November 1981
 maintitle: The Lena Zavaroni Appreciation Society Annual Luncheon
-suffix: Attended by over 60 fans and held to celebrate her 18th birthday
+suffix: ", Attended by over 60 fans and held to celebrate her 18th birthday"
 subtitle: The Imperial Hotel, Blackpool
 description: Lena attended the first LZAS annual luncheon, attended by over 60 fans and held to celebrate her 18th birthday, where she met members of the society and presented them with signed photos.
 post_description: Annual luncheon, attended by over 60 fans and held to celebrate her 18th birthday, where she met members of the society and presented them with signed photos.
-categories: [Personal Appearances, OnThisDay8November]
+categories: ["Personal Appearances-Imperial Hotel, Blackpool", OnThisDay8November]
 ---
 
 Shirley Hill took photographs of Lena at the event.

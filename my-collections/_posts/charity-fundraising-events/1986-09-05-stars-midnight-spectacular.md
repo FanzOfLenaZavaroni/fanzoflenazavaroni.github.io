@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Stars Midnight Spectacular &#124; 5 September
+title: Stars Midnight Spectacular &#124; 5 September 1986
 maintitle: Stars Midnight Spectacular
 subtitle: Festival Theatre, Paignton
 description: Charity variety show to raise funds for the Entertainment Artists Benevolent Fund, the Stars Organisation For Spastics (SOS) and other local charities.
 post_description: Charity variety show to raise funds for the Entertainment Artists Benevolent Fund, the Stars Organisation For Spastics (SOS) and other local charities.
-categories: [Theatres, Festival Theatre, Paignton, Fundraising, OnThisDay5September]
+categories: ["Theatre-Festival Theatre, Paignton", Fundraising, OnThisDay5September]
 ---
 
 <strong style="Color:#ff0000;">Article Warning:</strong> Sadly needed for a Personal Appearance that at the time would not have needed one, but time and the ignorance of humankind has made a single word within the charity's name taboo.
@@ -13,23 +13,23 @@ categories: [Theatres, Festival Theatre, Paignton, Fundraising, OnThisDay5Septem
 **Charity variety show to raise funds for the Entertainment Artists Benevolent Fund, the Stars Organisation For Spastics (SOS) <sup>[<a href="#spastic">1</a>]</sup>, and other local charities**
 
 <h2 id="performers"><a href="#performers">Performers</a></h2>
-<table>
-<tr><th>Scottish Singer And Television Show Hostess:</th><td>Lena Zavaroni</td></tr>
-<tr><th>Irish Singer:</th><td>Dana</td></tr>
-<tr><th>English Cabaret Artist:</th><td>Al Dean</td></tr>
-<tr><th>United Kingdom Male–Female Pop Group:</th><td>The Dooleys</td></tr>
-<tr><th>Comdy Acrobats:</th><td>The Halfwits</td></tr>
-<tr><th>Dance Troupe:</th><td>Nicky Hinkley Dancers</td></tr>
-<tr><th>British Comedy Double Act:</th><td>Little & Large</td></tr>
-<tr><th>American Illusionist And Entertainer:</th><td>John Lenahan</td></tr>
-<tr><th>? The Comedy Showband:</th><td>Black Onyx</td></tr>
-<tr><th>Dance Troupe:</th><td>Brian Rogers Dancers</td></tr>
-<tr><th>? American Film And Television Actor:</th><td>Gordon Scott</td></tr>
-<tr><th>Irish Comedian:</th><td>Jimmy Cricket</td></tr>
-<tr><th>English Comedian And Television Presenter:</th><td>Larry Grayson</td></tr>
-<tr><th>Stage Direction And Production:</th><td>Derek Smith</td></tr>
-<tr><td colspan="2"><blockquote>Where there is a leading Question mark it means that I have been unable to confirm that bit of information but what is given is believed to be the most likely detail about the individual that is correctly named.</blockquote><cite>Robcamstone</cite></td></tr>
-</table>
+<ul>
+<li><strong>Scottish Singer And Television Show Hostess:</strong> Lena Zavaroni</li>
+<li><strong>Irish Singer:</strong> Dana</li>
+<li><strong>English Cabaret Artist:</strong> Al Dean</li>
+<li><strong>United Kingdom Male–Female Pop Group:</strong> The Dooleys</li>
+<li><strong>Comdy Acrobats:</strong> The Halfwits</li>
+<li><strong>Dance Troupe:</strong> Nicky Hinkley Dancers</li>
+<li><strong>British Comedy Double Act:</strong> Little & Large</li>
+<li><strong>American Illusionist And Entertainer:</strong> John Lenahan</li>
+<li><strong>? The Comedy Showband:</strong> Black Onyx</li>
+<li><strong>Dance Troupe:</strong> Brian Rogers Dancers</li>
+<li><strong>? American Film And Television Actor:</strong> Gordon Scott</li>
+<li><strong>Irish Comedian:</strong> Jimmy Cricket</li>
+<li><strong>English Comedian And Television Presenter:</strong> Larry Grayson</li>
+<li><strong>Stage Direction And Production:</strong> Derek Smith</li>
+</ul>
+<blockquote>Where there is a leading Question mark it means that I have been unable to confirm that bit of information but what is given is believed to be the most likely detail about the individual that is correctly named.</blockquote><cite>Robcamstone</cite>
 
 <h2 id="spastic"><a href="#spastic">Spastic</a></h2>
 > Derived via Latin from the Greek spastikos ("drawing in", "tugging" or "shaking uncontrolably"), the word spastic refers to an alteration in muscle tone affected by the medical condition spasticity, which is seen in spastic diplegia and many other forms of cerebral palsy and also in terms such as "spastic colon".

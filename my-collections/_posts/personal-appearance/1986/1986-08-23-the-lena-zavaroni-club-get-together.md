@@ -5,14 +5,9 @@ maintitle: The Lena Zavaroni Club Get Together
 subtitle: Torquay
 description: Lena Zavaroni joins members of her fan club at a hotel in Torquay.
 post_description: Lena Zavaroni joins members of her fan club at a hotel in Torquay.
-categories: [Fan Club, Torquay, OnThisDay23August]
+categories: ["Personal Appearances-Torquay Hotel", OnThisDay23August]
 ---
 
-<figure class="fig3">
-<div class="CardLayout">
-<div class="CardItem">
-<h2 id="infobox1" class="infobox"><a href="#infobox1">Details</a></h2>
-<div class="CardItem split">
+<h2 id="infobox1"><a href="#infobox1">Details</a></h2>
 <p>Lena met members of her fan club at the Sceptre Lodge Hotel, during her Summer Season at the <a href="/1986-07-05-holiday-startime">Princess Theatre</a>, Torquay, she also posed for photographs the photographer was Mike Houston.</p>
-</div></div></div>
-</figure>
+

@@ -2,11 +2,11 @@
 layout: post
 title: Woolco store, Hatfield &#124; 2 May 1981
 maintitle: Woolco store, Hatfield
-suffix: Lena signed copies of Roses & Rainbows
+suffix: ", Lena signed copies of Roses & Rainbows"
 subtitle: Lena signed copies of Roses & Rainbows.
 description: The Hemel Hempstead Echo photographed her signing the plaster cast of eight year old Donna Jerome from St Albans.
 post_description: The Hemel Hempstead Echo photographed her signing the plaster cast of eight year old Donna Jerome from St Albans.
-categories: [Personal Appearances, OnThisDay2May]
+categories: ["Personal Appearances-Woolco store, Hatfield", OnThisDay2May]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Roses And Rainbows</a></h2>
