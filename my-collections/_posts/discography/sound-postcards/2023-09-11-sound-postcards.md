@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Pocztówka Dźwiękowa &#124; Date Posted: 11 September 2023"
-maintitle: Pocztówka Dźwiękowa
-subtitle: Featuring Lena Zavaroni.
+title: "Pocztówka dźwiękowa (Sound Postcard) &#124; Date Posted: 11 September 2023"
+maintitle: Pocztówka dźwiękowa (Sound Postcard)
+suffix: ", What are they?"
+subtitle: What are they?
 description: Featuring Lena Zavaroni.
 post_description: Featuring Lena Zavaroni.
-categories: [Discography, Sound Postcards]
+categories: [Pocztówka Dzwiekowa, Discography Sound Postcards, OnThisDay11September]
+last_modified_at: 18 August 1016
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Pocztówka dźwiękowa</a></h2>

@@ -135,21 +135,9 @@ layout: default
     {% assign Com = category | remove: "Comic-" %}
     <a href="/category/comic#{{ Com | slugify }}">{{ Com }}</a>
 
-
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 7: Comic-* categories
-  ---------------------------------------------------------
-  {%- endcomment -%}
-  {% elsif category contains "Comic-" %}
-
-    {% assign Com = category | remove: "Comic-" %}
-    <a href="/category/comic#{{ Com | slugify }}">{{ Com }}</a>
-
-
-  {%- comment -%}
-  ---------------------------------------------------------
-  TYPE 8: Personal Appearances-* categories
+  TYPE 7: Personal Appearances-* categories
   ---------------------------------------------------------
   {%- endcomment -%}
   {% elsif category contains "Personal Appearances-" %}
@@ -160,7 +148,7 @@ layout: default
 
  {%- comment -%}
   ---------------------------------------------------------
-  TYPE 9: The Real... categories
+  TYPE 8: The Real... categories
   ---------------------------------------------------------
   {%- endcomment -%}
   {% elsif category == "The Real..." %}
@@ -169,16 +157,15 @@ layout: default
 
 {%- comment -%}
 ---------------------------------------------------------
-TYPE 10: The Stage and Television Today (with Year Anchor)
+TYPE 9: The Stage and Television Today (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}
 {% elsif category == "The Stage and Television Today" %}
   <a href="/category/{{ category | slugify }}#{{ page.date | date: '%Y' }}">{{ category }}</a>
 
-
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 11: Default categories (fallback)
+  TYPE 10: Default categories (fallback)
   ---------------------------------------------------------
   {%- endcomment -%}
   {% else %}

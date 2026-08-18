@@ -3,25 +3,25 @@ layout: post
 title: Demis Roussos & Lena Zavaroni
 maintitle: Demis Roussos & Lena Zavaroni
 subtitle: Pocztówka dźwiękowa (Sound Postcard)
-before: Release date unknown
+before: "Release date unknown, Date used is post's creation Date:"
 description: Demis Roussos & Lena Zavaroni.
 post_description: Demis Roussos & Lena Zavaroni.
 categories: [Pocztówka Dzwiekowa, Discography Sound Postcards, OnThisDay11September]
 permalink: /discography/sound-postcards/:name
-last_modified_at: 2023-09-11T13:40:00+01:00
+last_modified_at: 18 August 1016
 ---
 
-<figure class="fig1">
+<div class="fig1">
 <a href="/assets/images/discography/demis-roussos-lena-zavaroni-01.jpg"><img src="/assets/images/discography/demis-roussos-lena-zavaroni-01.jpg" class="full-width zoom-in" /></a>
-</figure>
+</div>
 
-<figure class="fig2">
+<div class="fig2">
 <a href="/assets/images/discography/demis-roussos-lena-zavaroni-02.jpg"><img src="/assets/images/discography/demis-roussos-lena-zavaroni-02.jpg" class="full-width zoom-in" /></a>
-</figure>
+</div>
 
 {: .clear}
 
-<h2><a href="/discography/sound-postcards">Pocztówka dźwiękowa (Sound Postcard), What are they?</a></h2>
+<h2><a href="/2023-09-11-sound-postcards">Pocztówka dźwiękowa (Sound Postcard), What are they?</a></h2>
 <ul>
 <li><strong>Singer</strong> Demis Roussos, <strong>Song:</strong> When I'm A Kid</li>
 <li><strong>Singer</strong> Lena Zavaroni, <strong>Song:</strong> Ma! (He's Making Eyes At Me)</li>
@@ -31,3 +31,5 @@ last_modified_at: 2023-09-11T13:40:00+01:00
 <li><strong>Released</strong> Unknown Date</li>
 </ul>
 <p><strong>Additional Notes:</strong> Based on the fact that Demis Roussos's single When I'm A Kid was released in 1973 and Lena Zavaroni's single Ma! (He's Making Eyes At Me') was released in 1974 the most likely year of release would be 1974.</p>
+
+<br />{: .clear}

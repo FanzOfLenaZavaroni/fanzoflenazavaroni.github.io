@@ -3,25 +3,25 @@ layout: post
 title: Lena Zavaroni & Drupi
 maintitle: Lena Zavaroni & Drupi
 subtitle: Pocztówka dźwiękowa (Sound Postcard)
-before: Release date unknown
+before: "Release date unknown, Date used is post's creation Date:"
 description: Lena Zavaroni & Drupi.
 post_description: Lena Zavaroni & Drupi.
 categories: [Pocztówka Dzwiekowa, Discography Sound Postcards, OnThisDay11September]
 permalink: /discography/sound-postcards/:name
-last_modified_at: 2023-09-11T14:28:00+01:00
+last_modified_at: 18 August 1016
 ---
 
-<figure class="fig1">
+<div class="fig1">
 <a href="/assets/images/discography/lena-zavaroni-drupi-01.jpeg"><img src="/assets/images/discography/lena-zavaroni-drupi-01.jpeg" class="full-width zoom-in" /></a>
-</figure>
+</div>
 
-<figure class="fig2">
+<div class="fig2">
 <a href="/assets/images/discography/lena-zavaroni-drupi-02.jpeg"><img src="/assets/images/discography/lena-zavaroni-drupi-02.jpeg" class="full-width zoom-in" /></a>
-</figure>
+</div>
 
 {: .clear}
 
-<h2><a href="/discography/sound-postcards">Pocztówka dźwiękowa (Sound Postcard), What are they?</a></h2>
+<h2><a href="/2023-09-11-sound-postcards">Pocztówka dźwiękowa (Sound Postcard), What are they?</a></h2>
 <ul>
 <li><strong>Singer</strong> Lena Zavaroni, <strong>Song:</strong> Ma! (He's Making Eyes At Me)</li>
 <li><strong>Singer</strong> Drupi, <strong>Song:</strong> Vado Via</li>
