@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Tom Browne"
-maintitle: "Category: Tom Browne"
+title: Tom Browne
+maintitle: Tom Browne
 ---
 
 <ul>

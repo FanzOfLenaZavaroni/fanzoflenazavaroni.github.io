@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Dutch"
-maintitle: "Category: Dutch"
+title: Dutch
+maintitle: Dutch
 ---
 
 <ul>

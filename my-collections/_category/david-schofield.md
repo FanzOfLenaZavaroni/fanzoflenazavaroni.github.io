@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: David Schofield"
-maintitle: "Category: David Schofield"
+title: David Schofield
+maintitle: David Schofield
 ---
 
 <ul>

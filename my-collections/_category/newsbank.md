@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: NewsBank"
-maintitle: "Category: NewsBank"
+title: NewsBank
+maintitle: NewsBank
 ---
 
 <ul>

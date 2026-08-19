@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Official Singles Chart"
-maintitle: "Category: Official Singles Chart"
+title: Official Singles Chart
+maintitle: Official Singles Chart
 ---
 
 <ul>

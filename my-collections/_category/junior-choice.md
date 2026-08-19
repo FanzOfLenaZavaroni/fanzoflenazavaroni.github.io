@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Junior Choice"
-maintitle: "Category: Junior Choice"
+title: Junior Choice
+maintitle: Junior Choice
 ---
 
 <ul>

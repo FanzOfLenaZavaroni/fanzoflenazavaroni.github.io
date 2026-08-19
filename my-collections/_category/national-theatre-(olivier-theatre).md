@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: National Theatre (Olivier Theatre)"
-maintitle: "Category: National Theatre (Olivier Theatre)"
+title: National Theatre (Olivier Theatre)
+maintitle: National Theatre (Olivier Theatre)
 permalink: /category/national-theatre-(olivier-theatre)/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Music & Video Week"
-maintitle: "Category: Music & Video Week"
+title: Music & Video Week
+maintitle: Music & Video Week
 permalink: /category/music-&-video-week/
 ---
 

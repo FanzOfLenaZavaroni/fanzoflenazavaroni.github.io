@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Hughie Green"
-maintitle: "Category: Hughie Green"
+title: Hughie Green
+maintitle: Hughie Green
 ---
 
 <ul>

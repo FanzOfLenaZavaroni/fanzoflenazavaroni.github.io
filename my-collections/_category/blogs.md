@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Blogs"
-maintitle: "Category: Blogs"
+title: Blogs
+maintitle: Blogs
 ---
 
 <ul>

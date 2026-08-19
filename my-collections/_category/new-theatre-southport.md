@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: New Theatre Southport"
-maintitle: "Category: New Theatre Southport"
+title: New Theatre Southport
+maintitle: New Theatre Southport
 ---
 
 <ul>

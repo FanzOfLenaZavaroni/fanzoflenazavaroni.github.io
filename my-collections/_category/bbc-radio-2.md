@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: BBC Radio 2"
-maintitle: "Category: BBC Radio 2"
+title: BBC Radio 2
+maintitle: BBC Radio 2
 ---
 
 {% assign posts = site.categories["BBC Radio 2"] | sort: "date" %}

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Magazines"
-maintitle: "Category: Magazines"
+title: Magazines
+maintitle: Magazines
 ---
 
 {% assign mag_names = "" | split: "" %}

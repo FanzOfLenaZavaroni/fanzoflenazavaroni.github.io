@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Poetry"
-maintitle: "Category: Poetry"
+title: Poetry
+maintitle: Poetry
 ---
 
 <ul>

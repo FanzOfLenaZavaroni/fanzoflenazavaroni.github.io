@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Torbay"
-maintitle: "Category: Torbay"
+title: Torbay
+maintitle: Torbay
 ---
 
 <ul>

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Lena Series 2"
-maintitle: "Category: Lena Series 2"
+title: Lena Series 2
+maintitle: Lena Series 2
 ---
 
 <ul>

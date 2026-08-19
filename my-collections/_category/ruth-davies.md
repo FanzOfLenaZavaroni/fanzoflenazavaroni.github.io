@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Ruth Davies"
-maintitle: "Category: Ruth Davies"
+title: Ruth Davies
+maintitle: Ruth Davies
 ---
 
 <ul>

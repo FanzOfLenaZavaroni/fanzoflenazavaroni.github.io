@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Popular Culture"
-maintitle: "Category: Popular Culture"
+title: Popular Culture
+maintitle: Popular Culture
 ---
 
 <ul>

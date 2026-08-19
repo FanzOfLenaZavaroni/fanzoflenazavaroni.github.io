@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Redirects To External Website"
-maintitle: "Category: Redirects To External Website"
+title: Redirects To External Website
+maintitle: Redirects To External Website
 ---
 
 <ul>

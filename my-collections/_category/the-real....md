@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category:  The Real..."
-maintitle: "Category:  The Real..."
+title: The Real...
+maintitle: The Real...
 ---
 
 <ul>

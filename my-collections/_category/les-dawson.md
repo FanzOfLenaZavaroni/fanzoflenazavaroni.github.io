@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Les Dawson"
-maintitle: "Category: Les Dawson"
+title: Les Dawson
+maintitle: Les Dawson
 ---
 
 <ul>

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Lena Zavaroni and Music"
-maintitle: "Category: Lena Zavaroni and Music"
+title: Lena Zavaroni and Music
+maintitle: Lena Zavaroni and Music
 ---
 
 <ul>

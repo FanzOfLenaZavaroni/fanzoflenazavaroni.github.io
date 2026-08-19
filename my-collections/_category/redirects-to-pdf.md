@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Redirects To PDF"
-maintitle: "Category: Redirects To PDF"
+title: Redirects To PDF
+maintitle: Redirects To PDF
 ---
 
 <ul>

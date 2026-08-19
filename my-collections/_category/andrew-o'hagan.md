@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Andrew O'Hagan"
-maintitle: "Category: Andrew O'Hagan"
+title: Andrew O'Hagan
+maintitle: Andrew O'Hagan
 permalink: /category/andrew-o'hagan/
 ---
 

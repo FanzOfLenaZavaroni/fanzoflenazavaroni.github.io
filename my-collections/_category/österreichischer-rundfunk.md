@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Österreichischer Rundfunk"
-maintitle: "Category: Österreichischer Rundfunk"
+title: Österreichischer Rundfunk
+maintitle: Österreichischer Rundfunk
 subtitle: Austrian Broadcasting Corporation
 ---
 

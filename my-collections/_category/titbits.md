@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Titbits"
-maintitle: "Category: Titbits"
+title: Titbits
+maintitle: Titbits
 ---
 
 <ul>

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Funerals"
-maintitle: "Category: Funerals"
+title: Funerals
+maintitle: Funerals
 ---
 
 <ul>

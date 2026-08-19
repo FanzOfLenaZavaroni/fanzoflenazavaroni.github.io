@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: The Stage and Television Today"
-maintitle: "Category: The Stage and Television Today"
+title: The Stage and Television Today
+maintitle: The Stage and Television Today
 ---
 
 {% assign posts = site.categories["The Stage and Television Today"] | sort: "date" %}

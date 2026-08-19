@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: TOTP"
-maintitle: "Category: TOTP"
+title: TOTP
+maintitle: TOTP
 ---
 
 <ul>

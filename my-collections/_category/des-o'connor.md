@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Des O'Connor"
-maintitle: "Category: Des O'Connor"
+title: Des O'Connor
+maintitle: Des O'Connor
 permalink: /category/des-o'connor
 ---
 

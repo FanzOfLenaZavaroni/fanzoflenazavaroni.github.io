@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Our Show"
-maintitle: "Category: Our Show"
+title: Our Show
+maintitle: Our Show
 ---
 
 <ul>

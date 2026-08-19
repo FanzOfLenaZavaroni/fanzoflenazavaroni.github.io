@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: D Sides Orphans and Oddities"
-maintitle: "Category: D Sides Orphans and Oddities"
+title: D Sides Orphans and Oddities
+maintitle: D Sides Orphans and Oddities
 ---
 
 <ul>

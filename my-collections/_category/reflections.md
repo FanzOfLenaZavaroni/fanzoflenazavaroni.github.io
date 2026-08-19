@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Reflections"
-maintitle: "Category: Reflections"
+title: Reflections
+maintitle: Reflections
 ---
 
 <ul>

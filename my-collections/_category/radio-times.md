@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Radio Times"
-maintitle: "Category: Radio Times"
+title: Radio Times
+maintitle: Radio Times
 ---
 
 <ul>

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Notices"
-maintitle: "Category: Notices"
+title: Notices
+maintitle: Notices
 ---
 
 <ul>

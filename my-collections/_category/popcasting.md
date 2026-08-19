@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Popcasting"
-maintitle: "Category: Popcasting"
+title: Popcasting
+maintitle: Popcasting
 ---
 
 <ul>

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Newspapers"
-maintitle: "Category: Newspapers"
+title: Newspapers
+maintitle: Newspapers
 ---
 
 {% assign paper_names = "" | split: "" %}

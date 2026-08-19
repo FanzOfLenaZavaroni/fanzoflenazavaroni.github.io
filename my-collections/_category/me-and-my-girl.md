@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Me And My Girl"
-maintitle: "Category: Me And My Girl"
+title: Me And My Girl
+maintitle: Me And My Girl
 ---
 
 <ul>

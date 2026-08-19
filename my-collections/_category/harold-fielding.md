@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Harold Fielding"
-maintitle: "Category: Harold Fielding"
+title: Harold Fielding
+maintitle: Harold Fielding
 ---
 
 <ul>

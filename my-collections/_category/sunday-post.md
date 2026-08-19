@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Sunday Post"
-maintitle: "Category: Sunday Post"
+title: Sunday Post
+maintitle: Sunday Post
 ---
 
 <ul>

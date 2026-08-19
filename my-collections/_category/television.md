@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Television"
-maintitle: "Category: Television"
+title: Television
+maintitle: Television
 ---
 
 {% assign show_names = "" | split: "" %}

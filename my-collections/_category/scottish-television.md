@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Scottish Television"
-maintitle: "Category: Scottish Television"
+title: Scottish Television
+maintitle: Scottish Television
 ---
 
 <ul>

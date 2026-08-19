@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Dougie Squires"
-maintitle: "Category: Dougie Squires"
+title: Dougie Squires
+maintitle: Dougie Squires
 ---
 
 {% assign posts = site.categories["Dougie Squires"] | sort: "date" %}

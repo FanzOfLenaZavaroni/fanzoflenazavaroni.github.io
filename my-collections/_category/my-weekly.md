@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: My Weekly"
-maintitle: "Category: My Weekly"
+title: My Weekly
+maintitle: My Weekly
 ---
 
 <ul>

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Biography"
-maintitle: "Category: Biography"
+title: Biography
+maintitle: Biography
 ---
 
 <ul>

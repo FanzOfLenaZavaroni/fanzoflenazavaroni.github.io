@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Hastings"
-maintitle: "Category: Hastings"
+title: Hastings
+maintitle: Hastings
 ---
 
 <ul>

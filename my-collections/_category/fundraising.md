@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Fundraising"
-maintitle: "Category: Fundraising"
+title: Fundraising
+maintitle: Fundraising
 ---
 
 <ul>

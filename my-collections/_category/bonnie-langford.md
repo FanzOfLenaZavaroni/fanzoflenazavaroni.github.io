@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Bonnie Langford"
-maintitle: "Category: Bonnie Langford"
+title: Bonnie Langford
+maintitle: Bonnie Langford
 ---
 
 <ul>

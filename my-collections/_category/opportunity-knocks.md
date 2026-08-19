@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Opportunity Knocks"
-maintitle: "Category: Opportunity Knocks"
+title: Opportunity Knocks
+maintitle: Opportunity Knocks
 ---
 
 <ul>

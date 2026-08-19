@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Billboard"
-maintitle: "Category: Billboard"
+title: Billboard
+maintitle: Billboard
 ---
 
 <ul>

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Music Week"
-maintitle: "Category: Music Week"
+title: Music Week
+maintitle: Music Week
 ---
 
 <ul>

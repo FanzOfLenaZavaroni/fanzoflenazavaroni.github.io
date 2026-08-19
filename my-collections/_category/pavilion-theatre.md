@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Pavilion Theatre"
-maintitle: "Category: Pavilion Theatre"
+title: Pavilion Theatre
+maintitle: Pavilion Theatre
 ---
 
 <ul>

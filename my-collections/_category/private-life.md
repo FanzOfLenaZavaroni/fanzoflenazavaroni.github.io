@@ -1,10 +1,10 @@
 ---
 layout: post-no-comments-no-date
-title: BBC World Service
-maintitle: BBC World Service
+title: "Private Life"
+maintitle: "Private Life"
 ---
 
-{% assign posts = site.categories["BBC World Service"] | sort: "date" %}
+{% assign posts = site.categories["Private Life"] | sort: "date" %}
 {% assign years = "" | split: "" %}
 
 {% for post in posts %}
@@ -29,3 +29,4 @@ maintitle: BBC World Service
     {% endfor %}
   </ul>
 {% endfor %}
+

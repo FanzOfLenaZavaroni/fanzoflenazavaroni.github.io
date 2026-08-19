@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Sunday Mirror"
-maintitle: "Category: Sunday Mirror"
+title: Sunday Mirror
+maintitle: Sunday Mirror
 ---
 
 <ul>

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Woman's Own"
-maintitle: "Category: Woman's Own"
+title: Woman's Own
+maintitle: Woman's Own
 permalink: /category/woman's-own/
 ---
 

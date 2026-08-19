@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Lena and Bonnie"
-maintitle: "Category: Lena and Bonnie"
+title: Lena and Bonnie
+maintitle: Lena and Bonnie
 ---
 
 <ul>

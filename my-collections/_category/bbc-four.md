@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: BBC Four"
-maintitle: "Category: BBC Four"
+title: BBC Four
+maintitle: BBC Four
 ---
 
 <ul>

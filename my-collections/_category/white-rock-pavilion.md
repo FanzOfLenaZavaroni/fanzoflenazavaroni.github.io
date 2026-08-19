@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: White Rock Pavilion"
-maintitle: "Category: White Rock Pavilion"
+title: White Rock Pavilion
+maintitle: White Rock Pavilion
 ---
 
 <ul>

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: New Theatre Cardiff"
-maintitle: "Category: New Theatre Cardiff"
+title: New Theatre Cardiff
+maintitle: New Theatre Cardiff
 ---
 
 <ul>

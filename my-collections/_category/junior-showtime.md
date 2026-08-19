@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Junior Showtime"
-maintitle: "Category: Junior Showtime"
+title: Junior Showtime
+maintitle: Junior Showtime
 ---
 
 <ul>

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Wordpress"
-maintitle: "Category: Wordpress"
+title: Wordpress
+maintitle: Wordpress
 ---
 
 <ul class="columns2">

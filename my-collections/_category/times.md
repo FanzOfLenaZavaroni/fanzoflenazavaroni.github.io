@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Times"
-maintitle: "Category: Times"
+title: Times
+maintitle: Times
 ---
 
 <ul>

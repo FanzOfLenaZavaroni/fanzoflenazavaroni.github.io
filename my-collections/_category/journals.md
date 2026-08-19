@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Journals"
-maintitle: "Category: Journals"
+title: Journals
+maintitle: Journals
 ---
 
 <ul>

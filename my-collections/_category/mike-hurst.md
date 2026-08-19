@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Mike Hurst"
-maintitle: "Category: Mike Hurst"
+title: Mike Hurst
+maintitle: Mike Hurst
 ---
 
 <ul>

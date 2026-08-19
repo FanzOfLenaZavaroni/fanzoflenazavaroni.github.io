@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: The Bachelors Show"
-maintitle: "Category: The Bachelors Show"
+title: The Bachelors Show
+maintitle: The Bachelors Show
 ---
 
 <ul>

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Gloria Hunniford"
-maintitle: "Category: Gloria Hunniford"
+title: Gloria Hunniford
+maintitle: Gloria Hunniford
 ---
 
 <ul>

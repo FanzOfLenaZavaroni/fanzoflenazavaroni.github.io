@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Hi! Summer"
-maintitle: "Category: Hi! Summer"
+title: Hi! Summer
+maintitle: Hi! Summer
 permalink: /category/hi!-summer/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: York Press"
-maintitle: "Category: York Press"
+title: York Press
+maintitle: York Press
 ---
 
 <ul>

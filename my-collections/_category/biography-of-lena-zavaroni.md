@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Biography Of Lena Zavaroni"
-maintitle: "Category: Biography Of Lena Zavaroni"
+title: Biography Of Lena Zavaroni
+maintitle: Biography Of Lena Zavaroni
 ---
 
 <ul>

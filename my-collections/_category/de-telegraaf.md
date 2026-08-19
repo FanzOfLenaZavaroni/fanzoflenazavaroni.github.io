@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: De Telegraaf"
-maintitle: "Category: De Telegraaf"
+title: De Telegraaf
+maintitle: De Telegraaf
 ---
 
 <ul>

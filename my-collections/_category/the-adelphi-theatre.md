@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: The Adelphi Theatre"
-maintitle: "Category: The Adelphi Theatre"
+title: The Adelphi Theatre
+maintitle: The Adelphi Theatre
 ---
 
 <ul>

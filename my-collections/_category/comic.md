@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: Comics"
-maintitle: "Category: Comics"
+title: Comics
+maintitle: Comics
 ---
 
 {% assign Com_names = "" | split: "" %}
@@ -21,7 +21,11 @@ maintitle: "Category: Comics"
     {% assign category_posts = site.categories[name] | sort: "date" %}
     {% for post in category_posts %}
       <li>
-        <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}{{ post.suffix }}</a>
+        {%- if post.onthisdaylink == false -%}
+          {{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}{{ post.suffix }}
+        {%- else -%}
+          <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}{{ post.suffix }}</a>
+        {%- endif -%}
       </li>
     {% endfor %}
   </ul>

@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: "Category: BBC Press Information"
-maintitle: "Category: BBC Press Information"
+title: BBC Press Information
+maintitle: BBC Press Information
 ---
 
 <ul>
