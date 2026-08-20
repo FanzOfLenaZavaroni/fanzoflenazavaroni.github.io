@@ -5,13 +5,13 @@ maintitle: "Big Show: As Long As There Is Song"
 subtitle: A music program that aired on NHK General Television from 7 April 1974 to 20 March 1979
 description: Lena Zavaroni appears on Japanese television performing a selection of songs, including a Japanese-language version of her debut hit.
 post_description: Lena Zavaroni appears on Japanese television performing a selection of songs, including a Japanese-language version of her debut hit.
-categories: [Television-NHK, Big Show, OnThisDay25August]
-last_modified_at: 7 August 2025
+categories: ["Television-日本放送協会, Nippon Hōsō Kyōkai (NHK)", OnThisDay25August]
+last_modified_at: 20 August 2026
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Japanese TV Appearance</a></h2>
 
-<p>Lena Zavaroni appeared as a guest performer on the Japanese television variety show Big Show: As Long As There Is Song (「ビッグショー 歌のある限り」), broadcast by NHK. The headlined act for the episode was Japanese pop star Kenji Sawada (沢田研二), one of the most prominent solo artists of the era. The programme followed a one-man show format, with guest performers occasionally featured alongside the main act.</p>
+<p>Lena Zavaroni appeared as a guest performer on the Japanese television variety show Big Show: As Long As There Is Song (「ビッグショー 歌のある限り」), broadcast by <a class="external-link" href="https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%94%BE%E9%80%81%E5%8D%94%E4%BC%9A">NHK</a>. The headlined act for the episode was Japanese pop star Kenji Sawada (沢田研二), one of the most prominent solo artists of the era. The programme followed a one-man show format, with guest performers occasionally featured alongside the main act.</p>
 <p>During the broadcast Lena performed a Japanese-language version of “Ma! (He’s Making Eyes At Me)” along with two other songs. A Japanese-language single had already been released on 25 July 1974, by Philips, following a recording session held on 10 July 1974. This places the single’s release before the television appearance. The performance highlights Lena’s versatility as a young international performer engaging with audiences beyond the English-speaking world.</p>
 <p>The full set of songs performed by Lena during the broadcast included:</p>
 <ul>
