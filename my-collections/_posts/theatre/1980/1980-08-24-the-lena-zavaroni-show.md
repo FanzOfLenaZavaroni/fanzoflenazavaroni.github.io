@@ -3,8 +3,8 @@ layout: post
 title: The Lena Zavaroni Show &#124; The Drake Theatre, Plymouth &#124; 24 August
 maintitle: The Lena Zavaroni Show - The Drake Theatre, Plymouth
 subtitle: Songs included Even Now, I Can't Live Without You, Jump Down Jimmy and La Zavaroni
-description: Starring Lena Zavaroni at The Drake Theatre, Plymouth.
-post_description: Starring Lena Zavaroni at The Drake Theatre, Plymouth.
+description: Starring Lena Zavaroni.
+post_description: Starring Lena Zavaroni.
 categories: ["Theatre-Drake Theatre, Plymouth", OnThisDay24August]
 onthisdaylink: false
 ---
