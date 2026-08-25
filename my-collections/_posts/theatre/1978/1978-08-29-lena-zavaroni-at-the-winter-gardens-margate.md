@@ -6,9 +6,6 @@ subtitle: Starring Lena Zavaroni
 description: Starring Lena Zavaroni.
 post_description: Starring Lena Zavaroni.
 categories: ["Theatre-Winter Gardens, Margate", OnThisDay29August]
+onthisdaylink: false
 ---
-
-<h2 id="infobox1" class="infobox"><a href="#infobox1">Margate: The Winter Gardens</a></h2>
-
-<p>The Winter Gardens, comprising a pavilion, concert hall and amphitheatre, were constructed under the control of Margate Town Council and the Chamber of Commerce and claim to be the first large scale municipal built and operated public entertainment facilities in the country. Finding a site proved a problem until a decision was made to construct the building in an artificial hollow on Fort Green. The structure had to be no higher than ground level because of restrictive covenants and rights of light secured by the surrounding houses along Fort Crescent overlooking the green. The building, which cost £26,000, was opened to the public on 3 August 1911.</p>
 
