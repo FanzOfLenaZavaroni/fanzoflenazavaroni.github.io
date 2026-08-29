@@ -2,10 +2,10 @@
 layout: post
 title: Seaside Special &#124; 30 August
 maintitle: Seaside Special
-subtitle: Torbay
-description: An outside broadcast from the BBC1 Big Top which this week visits Torbay. Starring Roy Hudd, Keith Harris, Tessie O'Shea, Lena Zavaroni, Derek Dene, Jon Britain, Tony Blackburn and featuring NEW EDITION.
+subtitle: Big Top of Gerry Cottle's Circus, Torbay
+description: An outside broadcast from the BBC One Big Top which this week visits Torbay. Starring Roy Hudd, Keith Harris, Tessie O'Shea, Lena Zavaroni, Derek Dene, Jon Britain, Tony Blackburn and featuring NEW EDITION.
 post_description: An outside broadcast from the BBC1 Big Top which this week visits Torbay. Starring Roy Hudd, Keith Harris, Tessie O'Shea, Lena Zavaroni, Derek Dene, Jon Britain, Tony Blackburn and featuring NEW EDITION.
-categories: ["Theatre-Big Top, Torbay", Television-BBC One, OnThisDay30August]
+categories: ["Theatre-Big Top of Gerry Cottle's Circus, Torbay", Television-BBC One, OnThisDay30August]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Summary</a></h2>
@@ -20,7 +20,7 @@ categories: ["Theatre-Big Top, Torbay", Television-BBC One, OnThisDay30August]
 <li><strong>Scottish singer:</strong> Lena Zavaroni</li>
 <li><strong>English Actor:</strong> Derek Dene</li>
 <li><strong>English Ventriloquist:</strong> Keith Harris</li>
-<li><strong>? Singer:</strong> Jon Britain</li>
+<li><strong>Singer:</strong> Jon Britain</li>
 <li><strong>English disc jockey, Singer and TV Presenter:</strong> Tony Blackburn</li>
 <li><strong>Dance Troupe:</strong> New Edition</li>
 </ul>
