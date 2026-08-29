@@ -1,10 +1,10 @@
 ---
 layout: post-no-comments-no-date
-title: Publicity
-maintitle: Publicity
+title: Andrew O'Hagan
+maintitle: Andrew O'Hagan
 ---
 
-{% assign posts = site.categories["Publicity"] %}
+{% assign posts = site.categories["Andrew O'Hagan"] %}
 {% assign years = "" | split: "" %}
 
 {% for post in posts %}

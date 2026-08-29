@@ -173,7 +173,15 @@ TYPE 10: Harold Fielding (with Year Anchor)
 
 {%- comment -%}
 ---------------------------------------------------------
-TYPE 11: Hughie Green (with Year Anchor)
+TYPE 11: Publicity (with Year Anchor)
+---------------------------------------------------------
+{%- endcomment -%}
+{% elsif category == "Publicity" %}
+  <a href="/category/{{ category | slugify }}#{{ page.date | date: '%Y' }}">{{ category }}</a>
+
+{%- comment -%}
+---------------------------------------------------------
+TYPE 12: Hughie Green (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}
 {% elsif category == "Hughie Green" %}
@@ -181,7 +189,7 @@ TYPE 11: Hughie Green (with Year Anchor)
 
 {%- comment -%}
 ---------------------------------------------------------
-TYPE 12: Dougie Squires (with Year Anchor)
+TYPE 13: Dougie Squires (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}
 {% elsif category == "Dougie Squires" %}
@@ -189,7 +197,7 @@ TYPE 12: Dougie Squires (with Year Anchor)
 
 {%- comment -%}
 ---------------------------------------------------------
-TYPE 13: Les Dawson (with Year Anchor)
+TYPE 14: Les Dawson (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}
 {% elsif category == "Les Dawson" %}
@@ -197,15 +205,23 @@ TYPE 13: Les Dawson (with Year Anchor)
 
 {%- comment -%}
 ---------------------------------------------------------
-TYPE 14: Bonnie Langford (with Year Anchor)
+TYPE 15: Bonnie Langford (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}
 {% elsif category == "Bonnie Langford" %}
   <a href="/category/{{ category | slugify }}#{{ page.date | date: '%Y' }}">{{ category }}</a>
 
+{%- comment -%}
+---------------------------------------------------------
+TYPE 16: Andrew O'Hagan (with Year Anchor)
+---------------------------------------------------------
+{%- endcomment -%}
+{% elsif category == "Andrew O'Hagan" %}
+  <a href="/category/{{ category | slugify }}#{{ page.date | date: '%Y' }}">{{ category }}</a>
+
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 15: Default categories (fallback)
+  TYPE 17: Default categories (fallback)
   ---------------------------------------------------------
   {%- endcomment -%}
   {% else %}
