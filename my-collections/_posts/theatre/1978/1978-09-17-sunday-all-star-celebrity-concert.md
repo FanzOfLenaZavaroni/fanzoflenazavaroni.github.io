@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Sunday All Star Celebrity Concert &#124; 17 September 1978
-maintitle: Sunday All Star Celebrity Concert
-subtitle: The Winter Gardens, Bournemouth
+title: Winter Gardens, Bournemouth &#124; 17 September 1978
+maintitle: Winter Gardens, Bournemouth
+subtitle: Sunday All Star Celebrity Concert
 description: Starring Lena Zavaroni
 post_description: Starring Lena Zavaroni
 categories: ["Theatre-Winter Gardens, Bournemouth", OnThisDay17September]
-last_modified_at: 15 July 2026
+last_modified_at: 4 September 2026
 ---
 
 <h2 id="infobox1" class="infobox"><a href="#infobox1">Turns</a></h2>
@@ -24,5 +24,5 @@ last_modified_at: 15 July 2026
 
 <h2 id="infobox2" class="infobox"><a href="#infobox2">Note</a></h2>
 <p>While I have not been able to confirm the type of show at this time, given the type of performer Lena's managers had set Lena up to be, the use of variety show and referring to the performers as Turns seems like the best fit at this time, but visitors to this website should treat such details as unconfirmed.</p>
-<p>Where there is a leading Question mark it means that I have been unable to confirm that bit of information but what is given is believed to be the most likely detail about the individual(s) that are correctly named.</p>
+<p>Where there is a leading question mark, it means that I have been unable to confirm that bit of information but what is given is believed to be the most likely detail about the individual(s) that are correctly named.</p>
 
