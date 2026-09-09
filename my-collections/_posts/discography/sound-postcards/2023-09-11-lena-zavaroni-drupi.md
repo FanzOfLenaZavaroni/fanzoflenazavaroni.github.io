@@ -4,6 +4,7 @@ title: Lena Zavaroni & Drupi
 maintitle: Lena Zavaroni & Drupi
 subtitle: Pocztówka dźwiękowa (Sound Postcard)
 before: "Release date unknown, Date used is post's creation Date:"
+date: 2023-09-11 10:00:00 
 description: Lena Zavaroni & Drupi.
 post_description: Lena Zavaroni & Drupi.
 categories: [Pocztówka Dzwiekowa, Discography Sound Postcards, OnThisDay11September]

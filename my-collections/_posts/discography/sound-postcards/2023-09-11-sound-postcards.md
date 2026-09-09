@@ -4,9 +4,11 @@ title: "Pocztówka dźwiękowa (Sound Postcard) &#124; Date Posted: 11 September
 maintitle: Pocztówka dźwiękowa (Sound Postcard)
 suffix: ", What are they?"
 subtitle: What are they?
+date: 2023-09-11 09:00:00
 description: Featuring Lena Zavaroni.
 post_description: Featuring Lena Zavaroni.
 categories: [Pocztówka Dzwiekowa, Discography Sound Postcards, OnThisDay11September]
+
 last_modified_at: 18 August 1016
 ---
 

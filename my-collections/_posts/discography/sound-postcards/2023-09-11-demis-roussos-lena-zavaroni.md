@@ -4,6 +4,7 @@ title: Demis Roussos & Lena Zavaroni
 maintitle: Demis Roussos & Lena Zavaroni
 subtitle: Pocztówka dźwiękowa (Sound Postcard)
 before: "Release date unknown, Date used is post's creation Date:"
+date: 2023-09-11 10:00:00
 description: Demis Roussos & Lena Zavaroni.
 post_description: Demis Roussos & Lena Zavaroni.
 categories: [Pocztówka Dzwiekowa, Discography Sound Postcards, OnThisDay11September]
