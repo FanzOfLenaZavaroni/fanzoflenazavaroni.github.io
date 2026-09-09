@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Pocztówka dźwiękowa (Sound Postcard) &#124; Date Posted: 11 September 2023"
-maintitle: Pocztówka dźwiękowa (Sound Postcard)
-suffix: ", What are they?"
-subtitle: What are they?
+title: "Czym są pocztówki dźwiękowe? &#124; Date Posted: 11 September 2023"
+maintitle: Czym są pocztówki dźwiękowe?
+suffix: " What are Sound Postcard?"
+subtitle: What are Sound Postcard?
 date: 2023-09-11 09:00:00
-description: Featuring Lena Zavaroni.
-post_description: Featuring Lena Zavaroni.
+description: What are Sound Postcard?
+post_description: What are Sound Postcard?
 categories: [Pocztówka Dzwiekowa, Discography Sound Postcards, OnThisDay11September]
 
 last_modified_at: 18 August 1016
@@ -32,4 +32,3 @@ last_modified_at: 18 August 1016
 <li><a href="/discography/sound-postcards/2023-09-11-lena-zavaroni-drupi">lena-zavaroni - Ma! (He's Making Eyes At Me) & Drupi - Vado Via</a></li>
 </ul>
 
-<br />{: .clear}
