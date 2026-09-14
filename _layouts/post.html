@@ -46,7 +46,7 @@ layout: default
 
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 1: OnThisDay-* categories (your existing logic)
+  OnThisDay-* categories (your existing logic)
   ---------------------------------------------------------
   {%- endcomment -%}
   {% if category contains "OnThisDay" %}
@@ -83,7 +83,7 @@ layout: default
 
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 2: Newspaper-* categories
+  Newspaper-* categories
   ---------------------------------------------------------
   {%- endcomment -%}
   {% elsif category contains "Newspaper-" %}
@@ -94,7 +94,7 @@ layout: default
 
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 3: Magazine-* categories
+  Magazine-* categories
   ---------------------------------------------------------
   {%- endcomment -%}
   {% elsif category contains "Magazine-" %}
@@ -105,7 +105,7 @@ layout: default
 
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 4: Theatre-* categories
+  Theatre-* categories
   ---------------------------------------------------------
   {%- endcomment -%}
   {% elsif category contains "Theatre-" %}
@@ -116,7 +116,7 @@ layout: default
 
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 5: Television-* categories
+  Television-* categories
   ---------------------------------------------------------
   {%- endcomment -%}
   {% elsif category contains "Television-" %}
@@ -127,7 +127,7 @@ layout: default
 
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 6: Comic-* categories
+  Comic-* categories
   ---------------------------------------------------------
   {%- endcomment -%}
   {% elsif category contains "Comic-" %}
@@ -137,7 +137,7 @@ layout: default
 
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 7: Personal Appearances-* categories
+  Personal Appearances-* categories
   ---------------------------------------------------------
   {%- endcomment -%}
   {% elsif category contains "Personal Appearances-" %}
@@ -148,7 +148,7 @@ layout: default
 
  {%- comment -%}
   ---------------------------------------------------------
-  TYPE 8: The Real... categories
+  The Real... categories
   ---------------------------------------------------------
   {%- endcomment -%}
   {% elsif category == "The Real..." %}
@@ -157,7 +157,7 @@ layout: default
 
 {%- comment -%}
 ---------------------------------------------------------
-TYPE 9: The Stage and Television Today (with Year Anchor)
+The Stage and Television Today (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}
 {% elsif category == "The Stage and Television Today" %}
@@ -165,7 +165,7 @@ TYPE 9: The Stage and Television Today (with Year Anchor)
 
 {%- comment -%}
 ---------------------------------------------------------
-TYPE 10: Harold Fielding (with Year Anchor)
+Harold Fielding (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}
 {% elsif category == "Harold Fielding" %}
@@ -173,7 +173,7 @@ TYPE 10: Harold Fielding (with Year Anchor)
 
 {%- comment -%}
 ---------------------------------------------------------
-TYPE 11: Publicity (with Year Anchor)
+Publicity (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}
 {% elsif category == "Publicity" %}
@@ -181,7 +181,15 @@ TYPE 11: Publicity (with Year Anchor)
 
 {%- comment -%}
 ---------------------------------------------------------
-TYPE 12: Hughie Green (with Year Anchor)
+Books (with Year Anchor)
+---------------------------------------------------------
+{%- endcomment -%}
+{% elsif category == "Books" %}
+  <a href="/category/{{ category | slugify }}#{{ page.date | date: '%Y' }}">{{ category }}</a>
+
+{%- comment -%}
+---------------------------------------------------------
+Hughie Green (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}
 {% elsif category == "Hughie Green" %}
@@ -189,7 +197,7 @@ TYPE 12: Hughie Green (with Year Anchor)
 
 {%- comment -%}
 ---------------------------------------------------------
-TYPE 13: Dougie Squires (with Year Anchor)
+Dougie Squires (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}
 {% elsif category == "Dougie Squires" %}
@@ -197,7 +205,7 @@ TYPE 13: Dougie Squires (with Year Anchor)
 
 {%- comment -%}
 ---------------------------------------------------------
-TYPE 14: Les Dawson (with Year Anchor)
+Les Dawson (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}
 {% elsif category == "Les Dawson" %}
@@ -205,7 +213,7 @@ TYPE 14: Les Dawson (with Year Anchor)
 
 {%- comment -%}
 ---------------------------------------------------------
-TYPE 15: Bonnie Langford (with Year Anchor)
+Bonnie Langford (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}
 {% elsif category == "Bonnie Langford" %}
@@ -213,7 +221,7 @@ TYPE 15: Bonnie Langford (with Year Anchor)
 
 {%- comment -%}
 ---------------------------------------------------------
-TYPE 16: Andrew O'Hagan (with Year Anchor)
+Andrew O'Hagan (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}
 {% elsif category == "Andrew O'Hagan" %}
@@ -221,7 +229,7 @@ TYPE 16: Andrew O'Hagan (with Year Anchor)
 
   {%- comment -%}
   ---------------------------------------------------------
-  TYPE 17: Default categories (fallback)
+  Default categories (fallback)
   ---------------------------------------------------------
   {%- endcomment -%}
   {% else %}
