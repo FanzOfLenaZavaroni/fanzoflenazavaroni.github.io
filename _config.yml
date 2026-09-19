@@ -53,36 +53,51 @@ collections:
    year:
     output: true
     permalink: /year/:name
+
    category:
     output: true
     permalink: /category/:name
+
    discography:
     output: true
     permalink: /discography/:name
+
+   juke-box-records:
+      output: true
+      permalink: /discography/juke-box/:name
+
    studio-albums:
       output: true
       permalink: /discography/studio-albums/:name
+
    compilation-albums:
       output: true
       permalink: /discography/compilation-albums/:name
+
    publicity:
       output: true
       permalink: /publicity/:name
+
    singles:
       output: true
       permalink: /discography/singles/:name
+
    spoken-words:
       output: true
       permalink: /discography/spoken-words/:name
+
    sheet-music:
          output: true
          permalink: /discography/sheet-music/:name
+
    tribute-songs:
       output: true
       permalink: /discography/tribute-songs/:name
+
    karaoke:
       output: true
       permalink: /discography/karaoke/:name
+
    miscellaneous:
       output: true
       permalink: /miscellaneous/:name
