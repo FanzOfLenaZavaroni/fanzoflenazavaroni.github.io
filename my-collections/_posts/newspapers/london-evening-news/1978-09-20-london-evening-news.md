@@ -11,8 +11,8 @@ last_modified_at: 20 September 2026
 ---
 
 <figure class="fig1">
-<h2><strong>PALLADIUM</strong>, 01-437 7373. Book Now<br />October 2nd for one week only</h2>
-
+<p><strong>PALLADIUM</strong>, 01-437 7373. Book Now</p>
+<p>October 2nd for one week only</p>
 <p><strong>IN ONE GREAT SHOW</strong></p>
 <p><strong>LENA ZAVARONI</strong></p>
 <p><strong>& Her Dancers & The Third Kind</strong></p>
@@ -25,6 +25,8 @@ last_modified_at: 20 September 2026
 <style>
 .fig1 {
   width: 60%;
+  padding:10px;
+  font-size: clamp(20px, 18px + 0.5cqi, 24px);
   text-align: center;
   box-sizing: border-box;
   position: relative; 
@@ -61,4 +63,5 @@ last_modified_at: 20 September 2026
 figcaption {float:left; width:100%; margin-bottom: 10px;}
 }
 </style>
+
 
