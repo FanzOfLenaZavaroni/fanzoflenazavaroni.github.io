@@ -7,9 +7,8 @@ subtitle: Promo Release
 year: 1976
 description: Promo release of what would become Lena Zavaroni's seventh single.
 post_description: Promo release of what would become Lena Zavaroni's seventh single.
-categories: [Discography Promotional Discs, OnThisDay18February]
-permalink: /discography/singles/:name
-last_modified_at: 26 November 2023
+categories: [Discography Promotional Discs]
+last_modified_at: 20 September 2026
 ---
 
 <div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
