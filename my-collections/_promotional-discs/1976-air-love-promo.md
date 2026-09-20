@@ -12,7 +12,7 @@ last_modified_at: 20 September 2026
 ---
 
 <div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
-<a href="/discography/singles/1976-air-love-promo">Air Love - Promo &#x2714;</a>
+<a href="/discography/promotional-discs/1976-air-love-promo">Air Love - Promo &#x2714;</a>
 <a href="/discography/singles/1977-02-18-air-love">Air Love - Official Release <span style="visibility:hidden;">&#x2714;</span></a>
 </div>
 
