@@ -18,7 +18,7 @@ last_modified_at: 26 November 2023
 <li><strong>Side One:</strong> (You've Got) Personality [Stereo]</li>
 <li><strong>Producer:</strong> Tommy Scott</li>
 <li><strong>Musical Director:</strong> Tom Parker</li>
-<li><strong>Label:</strong> Ashtree – AS 278 (6006 391.1)</li>
+<li><strong>Label:</strong> Philips – AS 278 (6006 391.1)</li>
 <li><strong>Country:</strong> Italy</li>
 </ul>
 
