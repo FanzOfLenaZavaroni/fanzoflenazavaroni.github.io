@@ -26,7 +26,7 @@ last_modified_at: 20 September 2026
 .fig1 {
   width: 60%;
   padding:10px;
-  font-size: clamp(20px, 18px + 0.5cqi, 24px);
+  font-size: clamp(18px, 16px + 0.5cqi, 24px);
   text-align: center;
   box-sizing: border-box;
   position: relative; 
