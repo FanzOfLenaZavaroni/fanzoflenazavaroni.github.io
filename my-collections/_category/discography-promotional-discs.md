@@ -1,11 +1,11 @@
 ---
 layout: post-no-comments-no-date
-title: "Discography: Juke Box Records"
-maintitle: "Discography: Juke Box Records"
+title: "Discography: Promotional Discs"
+maintitle: "Discography: Promotional Discs"
 ---
 
-{% assign full_dates = site.posts | where: "categories", "Discography Juke Box Records" %}
-{% assign partial_dates = site.juke-box-records %}
+{% assign full_dates = site.posts | where: "categories", "Discography Promotional Disc" %}
+{% assign partial_dates = site.promotional-discs %}
 {% assign all_items = full_dates | concat: partial_dates %}
 
 {% assign list_full = "" | split: "," %}

@@ -1,13 +1,13 @@
 ---
 layout: discography
-title: (You've Got) Personality &#124; Juke Box Release
+title: (You've Got) Personality &#124; Promotional Disc
 maintitle: (You've Got) Personality
 extra: ", Italy Release"
-subtitle: Juke Box Release
+subtitle: Disco Promozionale (Promotional Disc)
 year: 1974
 description: "Side 1: Lena Zavaroni, Side 2: Gary Shearston"
 post_description: "Side 1: Lena Zavaroni, Side 2: Gary Shearston"
-categories: [Discography Juke Box Records]
+categories: [Discography Promotional Discs]
 last_modified_at: 26 November 2023
 ---
 
@@ -33,3 +33,4 @@ last_modified_at: 26 November 2023
 </ul>
 
 <p><strong>Note:</strong> The Famous Charisma Label made use of the famous illustration of the Mad Hatter by Sir John Tenniel for Lewis Carroll’s Alice's Adventures in Wonderland as they were public domain when Charisma Records decided to use the image.</p>
+

@@ -62,9 +62,9 @@ collections:
     output: true
     permalink: /discography/:name
 
-   juke-box-records:
+   promotional-discs:
       output: true
-      permalink: /discography/juke-box/:name
+      permalink: /discography/promotional-discs/:name
 
    studio-albums:
       output: true

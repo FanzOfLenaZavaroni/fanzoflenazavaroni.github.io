@@ -9,10 +9,10 @@ last_modified_at: 8 Februaty 2026
 <figure class="fig1">
 <h2 id="infobox1"><a href="#infobox1">Discography</a></h2>
 <ul>
-<li><a href="/category/discography-juke-box-records">Juke Box Records</a></li>
 <li><a href="/category/discography-studio-albums">Studio Albums</a></li>
 <li><a href="/category/discography-compilation-albums">Compilation Albums</a></li>
 <li><a href="/category/discography-singles">Singles</a></li>
+<li><a href="/category/discography-promotional-discs">Promotional Discs</a></li>
 <li><a href="/category/discography-sound-postcards">sound Postcards</a></li>
 <li><a href="/category/discography-spoken-words">Spoken Words</a></li>
 <li><a href="/category/discography-tribute-songs">Tribute Songs</a></li>
