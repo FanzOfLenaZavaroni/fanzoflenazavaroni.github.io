@@ -181,6 +181,14 @@ Publicity (with Year Anchor)
 
 {%- comment -%}
 ---------------------------------------------------------
+Fundraising (with Year Anchor)
+---------------------------------------------------------
+{%- endcomment -%}
+{% elsif category == "Fundraising" %}
+  <a href="/category/{{ category | slugify }}#{{ page.date | date: '%Y' }}">{{ category }}</a>
+
+{%- comment -%}
+---------------------------------------------------------
 Books (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}

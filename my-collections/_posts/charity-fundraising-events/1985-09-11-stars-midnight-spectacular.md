@@ -8,32 +8,28 @@ post_description: Charity variety show to raise funds for the Entertainment Arti
 categories: [Theatre-Blackpool Opera House, Fundraising, OnThisDay11September]
 ---
 
-### Details
+<h2 id="infobox1"><a href="#infobox1">Details</a></h2>
 Charity variety show to raise funds for the Entertainment Artists Benevolent Fund and Blackpool Service Clubs Association.
 
 The Show was sponsored by The Daily Mirror.
 
-> [![](/assets/images/theatres/1985-09-11-stars-midnight-spectacular-lz.jpg){: .half-width}{: .zoom-in}](/assets/images/theatres/1985-09-11-stars-midnight-spectacular-lz.jpg)
-
-<cite>Photo of Lena Zavaroni from the Programme</cite>
-
-### Performers Included
-<table>
-<tr><td>Cannon and Ball (from the Opera House)</td></tr>
-<tr><td>Lena Zavaroni (from the Opera House)</td></tr>
-<tr><td>Dustin Gee and Less Dennis (from the North Pier)</td></tr>
-<tr><td>Leslie Crowther (from the Grand Theatre)</td></tr>
-<tr><td>Gary Wilmot (from the Grand Theatre)</td></tr>
-<tr><td>Derek Batey (from Mr and Mrs Show Central Pier)</td></tr>
-<tr><td>Black Lace (from the Central Pier)</td></tr>
-<tr><td>Candlewick Green (Ray Cornell's Dream Girls)</td></tr>
-<tr><td>Norman Barrett and his Budgies (from the Tower Circus)</td></tr>
-<tr><td>Billy Fontayne (from the Talk of the Coast)</td></tr>
-<tr><td>Johnny Casson (from the Talk of the Coast)</td></tr>
-<tr><td>Terry King (from Stars of Clubland and Cabaret)</td></tr>
-<tr><td>Damion Silver (from Stars of Clubland and Cabaret)</td></tr>
-<tr><td>Jean Bennett (from Stars of Clubland and Cabaret)</td></tr>
-<tr><td>The Midnite Matinee Orchestra (Under the direction of Ernie Dunstall)</td></tr>
-<tr><td>Phil Kelsall (at the Mighty Wurlitzer Organ)</td></tr>
-</table>
+<h2 id="infobox2"><a href="#infobox2">Performers Included</a></h2>
+<ul>
+<li>Cannon and Ball (from the Opera House)</li>
+<li>Lena Zavaroni (from the Opera House)</li>
+<li>Dustin Gee and Less Dennis (from the North Pier)</li>
+<li>Leslie Crowther (from the Grand Theatre)</li>
+<li>Gary Wilmot (from the Grand Theatre)</li>
+<li>Derek Batey (from Mr and Mrs Show Central Pier)</li>
+<li>Black Lace (from the Central Pier)</li>
+<li>Candlewick Green (Ray Cornell's Dream Girls)</li>
+<li>Norman Barrett and his Budgies (from the Tower Circus)</li>
+<li>Billy Fontayne (from the Talk of the Coast)</li>
+<li>Johnny Casson (from the Talk of the Coast)</li>
+<li>Terry King (from Stars of Clubland and Cabaret)</li>
+<li>Damion Silver (from Stars of Clubland and Cabaret)</li>
+<li>Jean Bennett (from Stars of Clubland and Cabaret)</li>
+<li>The Midnite Matinee Orchestra (Under the direction of Ernie Dunstall)</li>
+<li>Phil Kelsall (at the Mighty Wurlitzer Organ)</li>
+</ul>
 

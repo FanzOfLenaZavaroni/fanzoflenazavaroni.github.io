@@ -11,33 +11,7 @@ permalink: /discography/singles/:name
 last_modified_at: 10 July 2025
 ---
 
-<figure class="fig1">
-<div class="CardLayout">
-<div class="CardItem">
-<h2 id="infobox1" class="infobox"><a href="#infobox1">Side 1</a></h2>
-<div class="CardItem split">
-<a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-argentina-side-1.png">
-<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-argentina-side-1.png" class="full-width zoom-in" alt="Argentina Side 1 Label for the Single Ma! (El Me Esta Haciendo Ojitos) Philips - 6006 367" />
-</a>
-</div></div></div>
-</figure>
-
-<figure class="fig2">
-<div class="CardLayout">
-<div class="CardItem">
-<h2 id="infobox2" class="infobox"><a href="#infobox2">Side 2</a></h2>
-<div class="CardItem split">
-<a href="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-argentina-side-2.png">
-<img src="/assets/images/singles/ma-hes-making-eyes-at-me/ma-hes-making-eyes-at-me-argentina-side-2.png" class="full-width zoom-in" alt="Argentina Side 2 Label for the Single Ma! (El Me Esta Haciendo Ojitos) Philips - 6006 367" />
-</a>
-</div></div></div>
-</figure>
-
-<figure class="fig1">
-<div class="CardLayout CardLayout-Height1">
-<div class="CardItem">
-<h2 id="infobox3" class="infobox"><a href="#infobox3">Side 1 Details</a></h2>
-<div class="CardItem split">
+<h2 id="infobox1"><a href="#infobox1">Side 1 Details</a></h2>
 <ul>
   <li><strong>Artist:</strong> Lena Zavaroni</li>
   <li><strong>Track:</strong> Ma! (El Me Esta Haciendo Ojitos)</li>
@@ -46,14 +20,9 @@ last_modified_at: 10 July 2025
   <li><strong>Producer:</strong> Tommy Scott</li>
   <li><strong>Arranger:</strong> Tom Parker</li>
 </ul>
-</div></div></div>
-</figure>
 
-<figure class="fig2">
-<div class="CardLayout CardLayout-Height1">
-<div class="CardItem">
-<h2 id="infobox4" class="infobox"><a href="#infobox4">Side 2 Details</a></h2>
-<div class="CardItem split">
+<h2 id="infobox2"><a href="#infobox2">Side 2 Details</a></h2>
+
 <ul>
   <li><strong>Artist:</strong> Lena Zavaroni</li>
   <li><strong>Track:</strong> Arrulla Tu Nena Con Una Melodia De Dixie</li>
@@ -63,14 +32,9 @@ last_modified_at: 10 July 2025
   <li><strong>Producer:</strong> Tommy Scott</li>
   <li><strong>Arranger:</strong> Tom Parker</li>
 </ul>
-</div></div></div>
-</figure>
 
-<figure class="fig5">
-<div class="CardLayout">
-<div class="CardItem">
-<h2 id="infobox5" class="infobox"><a href="#infobox5">Release Details</a></h2>
-<div class="CardItem split">
+<h2 id="infobox3"><a href="#infobox3">Release Details</a></h2>
+
 <ul>
   <li><strong>Label:</strong> Philips – 6006 367</li>
   <li><strong>Format:</strong> 7" Vinyl, 33⅓ rpm Mono Single</li>
@@ -78,19 +42,9 @@ last_modified_at: 10 July 2025
   <li><strong>Released:</strong> 11 March 1974</li>
   <li><strong>45Cat:</strong> <a class="external-link" href="http://www.45cat.com/record/6006367ar">6006367ar</a></li>
 </ul>
-</div></div></div>
-</figure>
 
-<figure class="fig7">
-<div class="CardLayout">
-<div class="CardItem">
-<h2 id="infobox6" class="infobox"><a href="#infobox6">Regional Format Insight</a></h2>
-<div class="CardItem split">
+
+<h2 id="infobox4"><a href="#infobox4">Regional Format Insight</a></h2>
+
 <p>Philips issued Lena Zavaroni’s debut single in Argentina using a localized title—“El Me Está Haciendo Ojitos”—but retained her original English-language performance on both sides. Uniquely, this pressing plays at <strong>33⅓ rpm</strong> and in <strong>mono</strong>, a format commonly used in Argentina during the 1970s. Unlike the 45 rpm stereo singles released elsewhere, Argentine record labels favored LP-speed singles to suit local playback equipment and mastering practices. This version reflects how international music was adapted to meet regional norms in format and presentation.</p>
-</div></div></div>
-</figure>
 
-<style>
-.CardLayout-Height1 {height: 338.5px;}
-@media screen and (orientation:portrait) {.CardLayout-Height1 {height: unset;}}
-</style>
