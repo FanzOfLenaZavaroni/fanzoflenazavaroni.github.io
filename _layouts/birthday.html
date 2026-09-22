@@ -8,9 +8,8 @@
 <body>
 
 <article>
-
   <header class="post-header">
-    <h1 id="showMe" class="center-text">
+    <h1 class="center-text custom-spacing">
       <a href="/onthisday/11/11-04+comments">Link to the standard <span class="break-line">"On This Day" <span class="break-line">page for the 4 November</span></a>
     </h1>
   </header>
@@ -19,28 +18,15 @@
     {{ content }}
   </div>
 </article>
-  </body>
+</body>
 </html>
 
 <style>
-.center-text {text-align: center;}
-
-#showMe {
-  animation: cssAnimation 0s 8s forwards;
-  visibility: hidden;
-}
-
-@keyframes cssAnimation {
-  to   { visibility: visible; }
-}
-
-/* Portrait rule to split the text and keep it perfectly centered */
+.center-text { text-align: center; }
+.custom-spacing { margin-top: 50px; }
 @media screen and (orientation: portrait) {
-.center-text {font-size: 24px !important;}
-  .break-line {
-    display: block;
-    margin-top: 0;
-  }
+  .center-text { font-size: 24px !important; }
+  .break-line { display: block; margin-top: 0; }
 }
 </style>
 
