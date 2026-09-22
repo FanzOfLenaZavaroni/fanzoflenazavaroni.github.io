@@ -9,7 +9,12 @@ categories: [On This Day]
 
 <div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
 <a href="/onthisday/11/11-03">« Previous Day</a>
-<span style="visibility:hidden;">[ Visit Leap Year February 29 ]</span>
+<div style="position: relative; display: inline-block;">
+  <span style="position: absolute; width: 100%; left: 0; text-align: center;">
+    <a href="/onthisday/11/11-04">[ Happy Birthday Lena ]</a>
+  </span>
+  <span style="visibility:hidden;">[ Visit Leap Year February 29 ]</span>
+</div>
 <a href="/onthisday/11/11-05">Next Day »</a>
 </div>
 <br />

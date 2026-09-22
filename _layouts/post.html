@@ -46,7 +46,7 @@ layout: default
 
   {%- comment -%}
   ---------------------------------------------------------
-  OnThisDay-* categories (your existing logic)
+  OnThisDay-* categories
   ---------------------------------------------------------
   {%- endcomment -%}
   {% if category contains "OnThisDay" %}
@@ -76,9 +76,14 @@ layout: default
       {% endif %}
     {% endfor %}
 
-    {% assign otd_url = "/onthisday/" | append: month_number | append: "/" | append: month_number | append: "-" | append: day | append: "/" %}
+    {% if month_number == "11" and day == "04" %}
+      {% assign otd_url = "/onthisday/11/11-04+comments/" %}
+    {% else %}
+      {% assign otd_url = "/onthisday/" | append: month_number | append: "/" | append: month_number | append: "-" | append: day | append: "/" %}
+    {% endif %}
 
     <a href="{{ otd_url }}">{{ category }}</a>
+
 
 
   {%- comment -%}
