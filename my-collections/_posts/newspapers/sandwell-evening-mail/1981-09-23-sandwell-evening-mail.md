@@ -2,6 +2,7 @@
 layout: post
 title: Sandwell Evening Mail &#124; 23 September 1981
 maintitle: Sandwell Evening Mail
+suffix: ': Advert for the "Babes In The Wood" pantomime.'
 subtitle: XMAS PARTY BOOKINGS
 description: 'Advert for the "Babes In The Wood" pantomime.'
 post_description: 'Advert for the "Babes In The Wood" pantomime.'
