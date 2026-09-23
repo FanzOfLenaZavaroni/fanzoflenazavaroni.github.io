@@ -1,13 +1,13 @@
 ---
 layout: post
-title: London Evening News &#124; 20 September 1978
+title: London Evening News &#124; 23 September 1978
 maintitle: London Evening News
 suffix: ": Contained an advert for Lena Zavaroni at the London Palladium"
 subtitle: Contained an advert for Lena Zavaroni at the London Palladium.
 description: Contained an advert for Lena Zavaroni at the London Palladium.
 post_description: Contained an advert for Lena Zavaroni at the London Palladium.
-categories: [Newspaper-London Evening News, OnThisDay20September]
-last_modified_at: 20 September 2026
+categories: [Newspaper-London Evening News, OnThisDay23September]
+last_modified_at: 23 September 2026
 ---
 
 <figure class="fig1">
@@ -15,7 +15,7 @@ last_modified_at: 20 September 2026
 <p>October 2nd for one week only</p>
 <p><strong>IN ONE GREAT SHOW</strong></p>
 <p><strong>LENA ZAVARONI</strong></p>
-<p><strong>& Her Dancers & The Third Kind</strong></p>
+<p>& Her Singers & Brian Rogers Dancers</p>
 <p><strong>RONNIE DUKES &</strong></p>
 <p><strong>RICKI LEE & Family</strong></p>
 </figure>
