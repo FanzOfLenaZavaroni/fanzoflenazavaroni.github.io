@@ -3,8 +3,8 @@ layout: post
 title: Sandwell Evening Mail &#124; 23 September 1981
 maintitle: Sandwell Evening Mail
 subtitle: XMAS PARTY BOOKINGS
-description: 
-post_description: 
+description: 'Advert for the "Babes In The Wood" pantomime.'
+post_description: 'Advert for the "Babes In The Wood" pantomime.'
 categories: [Newspaper-Sandwell Evening Mail, OnThisDay23September]
 ---
 
