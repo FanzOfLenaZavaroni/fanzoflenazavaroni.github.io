@@ -11,5 +11,5 @@ last_modified_at: 24 September 2026
 ---
 
 <p>We very much regret that owing to indisposition LENA ZAVARONI is unable to appear this week.</p>
-<p>However we are delighted to present The beautiful international singing star <a class="external-link" href="https://www.45cat.com/artist/iris-williams">IRIS WILLIAMS</a> (with such hits as "He Was Beautiful", etc.) with special guests <a class="external-link" href="https://www.45cat.com/artist/fiddlygig">FIDDLYGIG</a>.</p>
+<p>However we are delighted to present The beautiful international singing star IRIS WILLIAMS (with such hits as "He Was Beautiful", etc.) with special guestsFIDDLYGIG.</p>
 
