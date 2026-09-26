@@ -10,4 +10,4 @@ categories: [Theatre-Falkirk Town Hall, OnThisDay26September]
 ---
 
 <p>The management at the Falkirk venue had heard what had happened the previous week at <a href="/1982-09-19-the-sunday-concert">New Brighton</a> and would not allow Lena to perform and cancelled the show.</p>
-<p>What is unknown is why and how Lena got to the venue to try and perform, given she had been ordered by her Doctors to take a break for 6 weeks.</p>
+<p>What is unknown is why and how Lena got to the venue to try and perform, given she had been ordered by her Doctors to take a break for 6 weeks, was she on her own in where even she was starying at the time or were there other around her that shoudl have tried to talk her out of going.</p>
