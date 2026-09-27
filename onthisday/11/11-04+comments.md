@@ -1,7 +1,7 @@
 ---
 layout: onthisday
 title: On This Day &#124; 4 November &#124; Lena Zavaroni's Birthday
-maintitle: On This Day — 4 November — Lena Zavaroni's Birthday
+maintitle: "On This Day:  4 November"
 subtitle: Some entries are informational only and do not link to a full post when there isn’t enough information to create one.
 description: Lena Zavaroni's birthday is celebrated on 4 November. This page includes additional comments and details.
 categories: [On This Day]
@@ -22,7 +22,9 @@ categories: [On This Day]
 <h2>Sorry no known details for today</h2>
 {% else %}
 {% for post in site.categories.OnThisDay4November reversed %}
-<strong>{{ post.before }}{{ post.date | date: "%e %B %Y" }}{{ post.after }}</strong>
+{% unless post.before contains '<span id="age' %}<strong>{{ post.before }}</strong>{% endunless %}
+<strong>{{ post.date | date: "%e %B %Y" }}</strong>
+{% unless post.after contains '<span id="age' %}<strong>{{ post.after }}</strong>{% endunless %}
 <ul>
 {% if post.onthisdaylink == false %}
     <li><strong>{{ post.maintitle }}</strong> - {{ post.post_description }}</li>

@@ -27,7 +27,7 @@ last_modified_at: 20 March 2026
 <h2 id="infobox4"><a href="#infobox4">Zavaroni's Fish and Chip Shop</a></h2>
 <p>Victor and Hilda Zavaroni owned and operated a fish and chip shop in Rothesay. One of the known Zavaroni outlets was located at 12 E. Princes Street, but further confirmation is needed to verify if this was their specific location.</p>
 
-<h2 id="infobox5"><a href="#infobox5">4 November 1963</a></h2>
+<h2 id="infobox5"><a href="#infobox5">4 November 1963 (<span id="age1"></span> ago)</a></h2>
 <p>Lena Hilda Zavaroni was born on 4 November 1963 at Rankin Memorial Hospital, Greenock, Inverclyde, Scotland, United Kingdom to Victor Zavaroni (December 1939) and Hilda Catherine (Jordan) Zavaroni (7 January 1941-December 1989).</p>
 
 <h2 id="infobox6"><a href="#infobox6">Early Life</a></h2>
@@ -240,7 +240,7 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 </blockquote>
 <cite>Robcamstone</cite>
 
-<h2 id="infobox36"><a href="#infobox36">Death</a></h2>
+<h2 id="infobox36"><a href="#infobox36">Death (<span id="age2"></span> ago)</a></h2>
 <p>Prior to her death Lena was admitted to University Hospital of Wales Cardiff for a psychosurgical operation that was described as "pioneering" and "keyhole surgery to partially interrupt the nerve pathways that control emotions".</p>
 <p>The operation took place on 7 September 1999. After the operation she contracted Pneumonia and her weight drop to less than five stone (70 lb, 32 kg), just three weeks later she was dead.</p>
 <p>On Lena's <a href="/1999-12-15-death-certificate/">death certificate <sup><i class="fa fa-link" aria-hidden="true"></i></sup></a> it states she died from Bronchopneumoniaon 1 October 1999.</p>
@@ -303,3 +303,8 @@ Lena died of a chest infection two weeks after the operation. She weighed just 4
 <p>Died from natural causes, I don't think so.</p>
 </blockquote>
 <cite>Robcamstone</cite>
+
+<script> var dob = '{{ page.born | date: "%Y%m%d" }}'; var year = Number(dob.substr(0, 4)); var month = Number(dob.substr(4, 2)) - 1; var day = Number(dob.substr(6, 2)); var today = new Date(); var age1 = today.getFullYear() - year; var ageM = today.getMonth() - month; var ageD = today.getDate() - day; if (ageD < 0) { ageM--; ageD += new Date(today.getFullYear(), today.getMonth(), 0).getDate(); } if (ageM < 0) { age1--; ageM += 12; } document.getElementById("age1").innerHTML=age1 + " years, " + ageM + " months, and " + ageD + " days"; </script>
+
+<script> var dob = '{{ page.died | date: "%Y%m%d" }}'; var year = Number(dob.substr(0, 4)); var month = Number(dob.substr(4, 2)) - 1; var day = Number(dob.substr(6, 2)); var today = new Date(); var age2 = today.getFullYear() - year; var ageM = today.getMonth() - month; var ageD = today.getDate() - day; if (ageD < 0) { ageM--; ageD += new Date(today.getFullYear(), today.getMonth(), 0).getDate(); } if (ageM < 0) { age2--; ageM += 12; } document.getElementById("age2").innerHTML=age2 + " years, " + ageM + " months, and " + ageD + " days"; </script>
+
