@@ -91,7 +91,7 @@ layout: default
   {%- endcomment -%}
   {% elsif category contains "Online-" %}
 
-    {% assign web = category | remove: "Online" %}
+    {% assign web = category | remove: "Online-" %}
     <a href="/category/online#{{ web | slugify }}">{{ web }}</a>
 
   {%- comment -%}
