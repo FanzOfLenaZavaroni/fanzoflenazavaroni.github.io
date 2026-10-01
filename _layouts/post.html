@@ -86,13 +86,13 @@ layout: default
 
 {%- comment -%}
   ---------------------------------------------------------
-  BBC News-* categories
+  Online-* categories
   ---------------------------------------------------------
   {%- endcomment -%}
-  {% elsif category contains "BBC News-" %}
+  {% elsif category contains "Online-" %}
 
-    {% assign bbcnews = category | remove: "BBC News" %}
-    <a href="/category/bbc-news#{{ bbcnews | slugify }}">{{ bbcnews }}</a>
+    {% assign web = category | remove: "Online" %}
+    <a href="/category/online#{{ web | slugify }}">{{ web }}</a>
 
   {%- comment -%}
   ---------------------------------------------------------
