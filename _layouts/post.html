@@ -84,7 +84,15 @@ layout: default
 
     <a href="{{ otd_url }}">{{ category }}</a>
 
+{%- comment -%}
+  ---------------------------------------------------------
+  BBC News-* categories
+  ---------------------------------------------------------
+  {%- endcomment -%}
+  {% elsif category contains "BBC News-" %}
 
+    {% assign bbcnews = category | remove: "BBC News" %}
+    <a href="/category/bbc-news#{{ bbcnews | slugify }}">{{ bbcnews }}</a>
 
   {%- comment -%}
   ---------------------------------------------------------
