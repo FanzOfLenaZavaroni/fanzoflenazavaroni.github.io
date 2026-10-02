@@ -14,7 +14,7 @@ categories: [BBC News, Newspaper-Daily Mail, Newspaper-Mirror, Newspaper-Belfast
 <li><strong>BBC News Wales: </strong> <a class="external-link" href="http://news.bbc.co.uk/1/hi/wales/463655.stm">Star dies following brain surgery</a></li>
 <li><strong>Daily Record: </strong> <a href="/1999-10-04-the-daily-record">Lena Was Going to Be a Bride Again</a></li>
 <li><strong>Mirror: </strong> <a href="/1999-10-04-the-mirror">THIS IS SO UNJUST; Lena’s Love Tells of Her Final Meal and How She Had Bravely Battled Wasting Disease</a></li>
-<li><strong>Belfast Newsletter: </strong> <a href="/1999-10-04-The-News-Letter">Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return</a></li>
+<li><strong>Belfast Newsletter: </strong> <a href="/1999-10-04-belfast-newsletter">Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return</a></li>
 <li><strong>The Scottish early evening news: </strong> <a href="/1963-11-04-lena-zavaroni#infobox41">featured a report on the opening of Lena's inquest at Cardiff Coroner's court</a></li>
 </ul>
 
