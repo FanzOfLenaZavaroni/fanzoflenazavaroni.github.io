@@ -4,18 +4,24 @@ title: Websites
 maintitle: Websites
 ---
 
-{% assign paper_names = "" | split: "" %}
+---
+layout: post-no-comments-no-date
+title: Websites
+maintitle: Websites
+---
+
+{% assign web_names = "" | split: "" %}
 {% for cat in site.categories %}
-  {% if cat[0] contains "web-" %}
-    {% assign paper_names = paper_names | push: cat[0] %}
+  {% if cat[0] contains "Online-" %}
+    {% assign web_names = web_names | push: cat[0] %}
   {% endif %}
 {% endfor %}
 
-{% assign sorted_paper_names = paper_names | sort_natural %}
+{% assign sorted_web_names = web_names | sort_natural %}
 
-{% for name in sorted_paper_names %}
-  {% assign paper = name | split: "web-" | last %}
-  <h2 id="{{ paper | slugify }}"><a href="#{{ paper | slugify }}">{{ paper }}</a></h2>
+{% for name in sorted_web_names %}
+  {% assign web = name | split: "Online-" | last %}
+  <h2 id="{{ web | slugify }}"><a href="#{{ web | slugify }}">{{ web }}</a></h2>
   
   <ul>
     {% assign category_posts = site.categories[name] | sort: "date" %}
