@@ -2,6 +2,7 @@
 layout: post
 title: Billboard &#124; 17 February 1979
 maintitle: Billboard
+suffix: ": Ibgui Launches Twin Labels with plans to produce Lena Zavaroni on one of them"
 subtitle: Newspaper
 description: Ibgui Launches Twin Labels with plans to produce Lena Zavaroni on one of them.
 post_description: Ibgui Launches Twin Labels with plans to produce Lena Zavaroni on one of them.

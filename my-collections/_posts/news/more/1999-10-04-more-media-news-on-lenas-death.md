@@ -5,17 +5,22 @@ maintitle: The media blitz on the death of Lena Zavaroni continues
 subtitle: 
 description: The media blitz on the death of Lena Zavaroni continues
 post_description: A list of just some of the articles published on this day.
-categories: [BBC News Wales, Newspaper Daily Mail, Newspaper Mirror, News Letter Belfast, London, Northern Ireland, OnThisDay4October]
+categories: [BBC News, Newspaper-Daily Mail, Newspaper-Mirror, Newspaper-Belfast Newsletter, OnThisDay4October]
 ---
 
-**The media blitz on the death of Lena Zavaroni continues:**
-   * —— (BBC News Wales). [Star dies following brain surgery](http://news.bbc.co.uk/1/hi/wales/463655.stm)
-   * —— (The Daily Record) [Lena Was Going to Be a Bride Again](/1999-10-04-the-daily-record)
-   * —— (The Mirror - London, England). [THIS IS SO UNJUST; Lena’s Love Tells of Her Final Meal and How She Had Bravely Battled Wasting Disease](/1999-10-04-the-mirror)
-   * —— (The News Letter - Belfast, Northern Ireland). [Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return](/1999-10-04-The-News-Letter)
-   *The Scottish early evening news programme featured a report on the opening of [Lena's inquest](/1963-11-04-lena-zavaroni#inquest) at Cardiff Coroner's court.
+<h2 in="infobox1"><a href="infobox1">The media blitz on the death of Lena Zavaroni continues</a></h2>
 
-### Note
-> The above list is just an example as there would have been many media reports about Lena Zavaroni following her recent death.
+<ul>
+<li><strong>BBC News Wales: </strong> <a class="external-link" href="http://news.bbc.co.uk/1/hi/wales/463655.stm">Star dies following brain surgery</a></li>
+<li><strong>Daily Record: </strong> <a href="/1999-10-04-the-daily-record">Lena Was Going to Be a Bride Again</a></li>
+<li><strong>Mirror: </strong> <a href="/1999-10-04-the-mirror">THIS IS SO UNJUST; Lena’s Love Tells of Her Final Meal and How She Had Bravely Battled Wasting Disease</a></li>
+<li><strong>Belfast Newsletter: </strong> <a href="/1999-10-04-The-News-Letter">Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return</a></li>
+<li><strong>The Scottish early evening news: </strong> <a href="/1963-11-04-lena-zavaroni#infobox41">featured a report on the opening of Lena's inquest at Cardiff Coroner's court</a></li>
+</ul>
+
+<h2 in="infobox1"><a href="infobox1">Note</a></h2>
+
+<p>The above list is just an example as there would have been many media reports about Lena Zavaroni following her recent death.</p>
 
 <cite>Robcamstone</cite>
+

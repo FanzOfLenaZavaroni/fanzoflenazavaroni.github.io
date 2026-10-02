@@ -1,11 +1,12 @@
 ---
 layout: post
-title: News Letter &#124; 4 October 1999
-maintitle: News Letter
+title: Belfast Newsletter &#124; 4 October 1999
+maintitle: Belfast Newsletter
+suffix: ": Comeback Dreams of a Tragic Singer"
 subtitle: Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return
 description: Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return.
 post_description: Comeback Dreams of a Tragic Singer; Battling Lena Had Hopes of Return.
-categories: [Newspaper The News Letter, OnThisDay4October]
+categories: [Newspaper-Belfast Newsletter, OnThisDay4October]
 ---
 
 ### Article excerpt

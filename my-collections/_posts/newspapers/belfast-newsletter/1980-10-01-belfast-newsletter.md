@@ -2,9 +2,10 @@
 layout: post
 title: Belfast Newsletter &#124; 1 October 1980
 maintitle: Belfast Newsletter
-subtitle: Contained  an advert for show at The New Vic Theatre, Belfast starring Lena Zavaroni
-description: Contained  an advert for a show at The New Vic Theatre, Belfast starring Lena Zavaroni.
-post_description: Contained  an advert for a show at The New Vic Theatre, Belfast starring Lena Zavaroni.
+suffix: ": advert for Lena Zavaroni at the New Vic Theatre, Belfast"
+subtitle: Contained  an advert for show at the New Vic Theatre, Belfast starring Lena Zavaroni
+description: Contained  an advert for a show at the New Vic Theatre, Belfast starring Lena Zavaroni.
+post_description: Contained  an advert for a show at the New Vic Theatre, Belfast starring Lena Zavaroni.
 image: /assets/images/newspapers/1980-10-1-the-belfast-telegraph.png
 categories: [Newspaper-Belfast Newsletter, OnThisDay1October]
 last_modified_at: 1 October 2026

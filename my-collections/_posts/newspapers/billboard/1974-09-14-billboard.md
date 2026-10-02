@@ -2,6 +2,7 @@
 layout: post
 title: Billboard &#124; 14 September 1974
 maintitle: Billboard
+suffix: ": had a couple of articles that referenced Lena Zavaroni"
 subtitle: Newspaper
 description: Billboard Newspaper had a couple of articles that referenced Lena Zavaroni.
 post_description: had a couple of articles that referenced Lena Zavaroni.
