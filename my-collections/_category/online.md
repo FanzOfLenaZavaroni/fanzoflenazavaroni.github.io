@@ -4,12 +4,6 @@ title: Websites
 maintitle: Websites
 ---
 
----
-layout: post-no-comments-no-date
-title: Websites
-maintitle: Websites
----
-
 {% assign web_names = "" | split: "" %}
 {% for cat in site.categories %}
   {% if cat[0] contains "Online-" %}
