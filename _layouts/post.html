@@ -84,15 +84,7 @@ layout: default
 
     <a href="{{ otd_url }}">{{ category }}</a>
 
-  {%- comment -%}
-  ---------------------------------------------------------
-  Online-* categories
-  ---------------------------------------------------------
-  {%- endcomment -%}
-  {% elsif category contains "Online-" %}
 
-    {% assign web = category | remove: "Online-" %}
-    <a href="/category/online#{{ web | slugify }}">{{ web }}</a>
 
   {%- comment -%}
   ---------------------------------------------------------

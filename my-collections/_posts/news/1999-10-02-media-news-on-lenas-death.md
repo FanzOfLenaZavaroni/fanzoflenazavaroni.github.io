@@ -7,7 +7,7 @@ after: ' (<span id="age1"></span> ago)'
 published: 1999-10-02
 description: It would be impossible to list every report made by the media so I have only added a few.
 post_description: It would be impossible to list every report made by the media so I have only added a few.
-categories: [Online-BBC News UK, Online-BBC News Entertainment, OnThisDay2October]
+categories: [BBC News UK, BBC News Entertainment, OnThisDay2October]
 ---
 
 <ul>
