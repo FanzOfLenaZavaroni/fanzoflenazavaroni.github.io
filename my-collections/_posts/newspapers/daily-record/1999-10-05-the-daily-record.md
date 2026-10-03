@@ -2,10 +2,11 @@
 layout: post
 title: Daily Record &#124; 5 October 1999
 maintitle: Daily Record
+suffix: ": Obsessed Fan Preyed On My Poor Lena"
 subtitle: Obsessed Fan Preyed On My Poor Lena.
 description: Obsessed Fan Preyed On My Poor Lena.
 post_description: Obsessed Fan Preyed On My Poor Lena.
-categories: [Newspaper-Daily Record, Glasgow, Scotland, OnThisDay5October]
+categories: [Newspaper-Daily Record, OnThisDay5October]
 ---
 
 ### OBSESSED FAN PREYED ON MY POOR LENA; FAMILY FURY: Tragic Star's Father Hits out after Friend Claims He Proposed to Her

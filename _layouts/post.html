@@ -84,8 +84,6 @@ layout: default
 
     <a href="{{ otd_url }}">{{ category }}</a>
 
-
-
   {%- comment -%}
   ---------------------------------------------------------
   Newspaper-* categories
@@ -198,6 +196,22 @@ Books (with Year Anchor)
 ---------------------------------------------------------
 {%- endcomment -%}
 {% elsif category == "Books" %}
+  <a href="/category/{{ category | slugify }}#{{ page.date | date: '%Y' }}">{{ category }}</a>
+
+{%- comment -%}
+---------------------------------------------------------
+Deleted Online Articles (with Year Anchor)
+---------------------------------------------------------
+{%- endcomment -%}
+{% elsif category == "Deleted Online Articles" %}
+  <a href="/category/{{ category | slugify }}#{{ page.date | date: '%Y' }}">{{ category }}</a>
+
+{%- comment -%}
+---------------------------------------------------------
+BBC News (with Year Anchor)
+---------------------------------------------------------
+{%- endcomment -%}
+{% elsif category == "BBC News" %}
   <a href="/category/{{ category | slugify }}#{{ page.date | date: '%Y' }}">{{ category }}</a>
 
 {%- comment -%}
