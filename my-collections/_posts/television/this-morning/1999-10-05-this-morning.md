@@ -10,18 +10,18 @@ categories: [Television-Granada Television, OnThisDay5October]
 
 The show contained a discussion on eating disorders following Lena Zavaroni's death a few days earlier, with former Coronation Street actor Adam Rickitt (who suffered from bulimia) and advice from Raj Persaud. The illness was also the subject of a phone in later on in the programme.
 
-### Cast
-<table>
-<tr><th style="width:50%;">Presenter:</th><td style="width:50%;">Richard Madeley</td></tr>
-<tr><th>Presenter:</th><td>Judy Finnigan</td></tr>
-<tr><th>Guest:</th><td>Adam Rickitt</td></tr>
-<tr><th>Guest:</th><td>Nicky Clarke</td></tr>
-<tr><th>Guest:</th><td>Martin Kemp</td></tr>
-<tr><th>Guest:</th><td>Joe Absolom</td></tr>
-</table>
+<h2 id="infobox1"><a href="#infobox1">Cast</a></h2>
+<ul>
+<li><strong>Presenter:</strong> Richard Madeley</li>
+<li><strong>Presenter:</strong> Judy Finnigan</li>
+<li><strong>Guest:</strong> Adam Rickitt</li>
+<li><strong>Guest:</strong> Nicky Clarke</li>
+<li><strong>Guest:</strong> Martin Kemp</li>
+<li><strong>Guest:</strong> Joe Absolom</li>
+</ul>
 
-### Crew
-<table>
-<tr><th style="width:50%;">Production company:</th><td style="width:50%;">Granada Television</td></tr>
-</table>
+<h2 id="infobox2"><a href="#infobox2">Crew</a></h2>
+<ul>
+<li><strong>Production company:</strong> Granada Television</li>
+</ul>
 
