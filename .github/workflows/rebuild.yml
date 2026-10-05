@@ -3,13 +3,18 @@ name: Manual Site Rebuild
 on:
   workflow_dispatch:
 
+# This block grants the action explicit permission to trigger the built-in builder
+permissions:
+  pages: write
+  contents: read
+
 jobs:
   trigger-builtin-build:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger Built-In Page Builder
+      - name: Request Native GitHub Rebuild
         run: |
-          curl -X POST \
+          curl -f -X POST \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
             -H "Accept: application/vnd.github.v3+json" \
-            https://github.com{{ github.repository }}/pages/builds
+            https://api.github.com/repos/${{ github.repository }}/pages/builds
