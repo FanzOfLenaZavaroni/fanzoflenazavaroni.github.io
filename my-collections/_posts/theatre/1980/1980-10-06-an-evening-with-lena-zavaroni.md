@@ -23,5 +23,5 @@ last_modified_at: 11 October 2025
 <li><strong>Comedian:</strong> Clem Dane</li>
 <li><strong>Specialty Act:</strong> The Birdman (Paul Derek)</li>
 </ul>
-<p><strong>Note:</strong>  While I have not been able to confirm the type of show at this time, given the type of performer Lena's managers had set Lena up to be, the use of variety show and referring to the performers as Turns seems like the best fit at this time, but visitors to this website should treat such details as unconfirmed.</p>
+<p><strong>Note:</strong>  While I have not been able to confirm the type of show at this time, given the type of performer Lena's managers had set Lena up to be, the use of variety show and referring to the performers as Turns seems like the best fit at this time, but visitors to this website should treat such details as unconfirmed, at this time am also unable to confrim the performance order of each Turn.</p>
 
