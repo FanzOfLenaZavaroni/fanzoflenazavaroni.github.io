@@ -1,7 +1,7 @@
 ---
 layout: post-no-comments-no-date
-title: Theatres and Entertainment Venues
-maintitle: Theatres and Entertainment Venues
+title: Theatres, Entertainment Venues And Related Promotional And Event Material
+maintitle: Theatres, Entertainment Venues And Related Promotional And Event Material
 ---
 
 {% assign show_names = "" | split: "" %}
