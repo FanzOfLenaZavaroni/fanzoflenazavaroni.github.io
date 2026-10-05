@@ -2,10 +2,10 @@
 layout: post
 title: "Cyril Critchlow Collection, Collection Dates: 1860-1990 &#124; 29 April 2021"
 maintitle: "Cyril Critchlow Collection, Collection Dates: 1860-1990"
-suffix: ": is held in the History Centre on the first floor of Blackpool Central Library on Queen Street"
+suffix: ": Held in the History Centre on the first floor of Blackpool Central Library on Queen Street"
 subtitle: Includes promotional and event material from Lena Zavaroni's Blackpool performances
-description: is held in the History Centre on the first floor of Blackpool Central Library on Queen Street.
-post_description: is held in the History Centre on the first floor of Blackpool Central Library on Queen Street.
+description: Held in the History Centre on the first floor of Blackpool Central Library on Queen Street.
+post_description: Held in the History Centre on the first floor of Blackpool Central Library on Queen Street.
 categories: [Theatre-Blackpool Central Library, OnThisDay29April]
 last_modified_at: 5 October 2026
 ---
