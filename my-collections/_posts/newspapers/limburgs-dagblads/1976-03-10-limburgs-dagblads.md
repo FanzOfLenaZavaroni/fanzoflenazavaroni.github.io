@@ -2,10 +2,11 @@
 layout: post
 title: Limburgs Dagblad &#124; 10 March 1976
 maintitle: Limburgs Dagblad
+suffix: ": Lists  Ontmoeting met Cindy en Bert, Lena Zavaroni is one of the guests"
 subtitle: Dutch Newspaper
 description: "Lists  Ontmoeting met Cindy en Bert on which Lena Zavaroni is one of the guests."
 post_description: "Lists  Ontmoeting met Cindy en Bert on which Lena Zavaroni is one of the guests."
-categories: [Newspaper-Limburgs Dagblad, Dutch, Meeting with Cindy and Bert, OnThisDay10March]
+categories: ["Newspaper-Limburgs Dagblad, Dutch", Meeting with Cindy and Bert, OnThisDay10March]
 last_modified_at: 2 March 2026
 ---
 
