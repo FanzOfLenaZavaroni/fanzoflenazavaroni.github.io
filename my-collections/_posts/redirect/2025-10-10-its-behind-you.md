@@ -13,7 +13,7 @@ last_modified_at: 20 October 2025
 <blockquote>
 <p>The luxury of an eight piece orchestra! We rehearsed at Alford House- which had a large open fireplace at that time, and I remember chatting at  lunchtimes with Lena Zavaroni who was rehearsing another panto there. This hugely talented young performer sadly died nine years later. A great loss to the profession.</p>
 </blockquote>
-<cite><a class="external-link" href="https://www.its-behind-you.com/NigelPantomimeHistory.html#:~:text=I%20remember%20chatting%20at%20%C2%A0lunchtimes%20with%20Lena%20Zavaroni%20who%20was%20rehearsing%20another%20panto%20there.">its-behind-you.com</a> <span class="arrow-up">←</span> if your browser supports it will jump you to the the quote on Lena zavaroni</cite>
+<cite><a class="external-link" href="https://www.its-behind-you.com/NigelPantomimeHistory.html#:~:text=I%20remember%20chatting%20at%20%C2%A0lunchtimes%20with%20Lena%20Zavaroni%20who%20was%20rehearsing%20another%20panto%20there.">its-behind-you.com</a> <span class="arrow-up">←</span> if your browser supports it will jump you to the quote on Lena zavaroni</cite>
 
 <h2 id="infobox2"><a href="#infobox2">Notes</a></h2>
 
