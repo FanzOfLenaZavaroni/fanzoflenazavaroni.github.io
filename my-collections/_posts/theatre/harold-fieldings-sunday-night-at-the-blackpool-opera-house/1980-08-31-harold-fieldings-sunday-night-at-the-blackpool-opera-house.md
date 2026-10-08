@@ -21,7 +21,7 @@ last_modified_at: 31 August 2025
 
 <h2 id="infobox3" class="infobox"><a href="#infobox3">Turns</a></h2>
 
-<p>A "Turn" refers to an individual performance or act in a variety show, showcasing different talents and entertainment styles. The order of the Turns is unknown as if any performed after the interval but before Lena, given she was the headline act.</p>
+<p>A "Turn" refers to an individual performance or act in a variety show, showcasing different talents and entertainment styles. The order of the Turns is unknown, and it is also unknown whether any of them performed after the interval but before Lena, since she was the headline act.</p>
 
 <ul>
 <li><strong>Actor And Comedian:</strong> Don MaClean.</li>
