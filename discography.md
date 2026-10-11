@@ -1,9 +1,9 @@
 ---
 layout: post-no-comments
-title: Discography+
-maintitle: Discography+
+title: Discography Plus
+maintitle: Discography Plus
 subtitle: As well as Records, CDs and Digital Audio, this section lists Podcasts, Sheet Music and Sound Postcards
-last_modified_at: 12 Octorber 2026
+last_modified_at: 12 October 2026
 ---
 
 <figure class="fig1">
