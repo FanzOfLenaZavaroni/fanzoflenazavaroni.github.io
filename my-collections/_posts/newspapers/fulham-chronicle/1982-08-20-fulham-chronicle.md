@@ -2,13 +2,14 @@
 layout: post
 title: Fulham Chronicle &#124; 20 August 1982
 maintitle: Fulham Chronicle
+suffix: ": Contained a Small advert for The Lena Zavaroni Show"
 subtitle: Contained a Small advert for Lena's show in Hastings.
-description: Small advert for Lena's show in Hastings.
-post_description: Contained a small advert for Lena's show in Hastings.
+description: Contained a Small advert for The Lena Zavaroni Show.
+post_description: Contained a Small advert for The Lena Zavaroni Show.
 categories: [Newspaper-Fulham Chronicle, OnThisDay20August]
 ---
 
 <h2 id="infobox1" class="infobox"><a href="#infobox1">Link To The Related Show</a></h2>
 
-<p><a href="/1982-08-03-the-lena-zavaroni-show">The Lena Zavaroni Show at the White Rock Pavilion, Hastings</a></p>
-<p>Opening Night 3 August 1982 - 4 September 1982 Closing Night</p>
+<p><a href="/1982-08-03-the-lena-zavaroni-show">The Lena Zavaroni Show at the White Rock Pavilion, Hastings, Opening Night 3 August 1982 - 4 September 1982 Closing Night</a></p>
+

@@ -6,7 +6,7 @@ maintitle: Aladdin Pantomime
 subtitle: The Wimbledon Theatre, London
 description: Lena Zavaroni stars as the Princess.
 post_description: Lena Zavaroni stars as the Princess.
-categories: [Theatres, Wimbledon Theatre, OnThisDay20December]
+categories: ["Theatre-Wimbledon Theatre, London", OnThisDay20December]
 ---
 
 <figure class="fig1">
