@@ -8,34 +8,41 @@ post_description: After sixteen years of recorded television broadcasts, in 1976
 categories: [Theatre-London Palladium, BBC One, OnThisDay15November]
 ---
 
-<table>
-<tr><th>BBC Grnome</th></tr>
-<tr><td><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1976-11-15#at-19.50">The Royal Variety Performance - Part 1 at 19.50</a></td></tr>
-<tr><td><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1976-11-15#at-21.40">The Royal Variety Performance - Part 2 at 21.40</a></td></tr>
-<tr><th>Royal Variety Charity</th></tr>
-<tr><td><a href="http://www.royalvarietycharity.org/royal-variety-performance/archive/detail/1976-london-palladium">1976, London Palladium</a></td></tr>
-</table>
+<h2 id="infobox1"><a href="#infobox1">BBC Grnome, BBC One</a></h2>
 
-<table>
-<tr><th colspan="2">Contributors</th></tr>
-<tr><th>Singer</th><td>Shirley Bassey</td></tr>
-<tr><th>Singer</th><td>Gilbert Becaud</td></tr>
-<tr><th>Entertainer</th><td>Max Bygraves</td></tr>
-<tr><th>Entertainer</th><td>Dawson Chance</td></tr>
-<tr><th>Ventriloquist</th><td>Roger de Courcey</td></tr>
-<tr><th>Dancers</th><td>The Dance Theatre of Harlem</td></tr>
-<tr><th>Comedian</th><td>Wayne King</td></tr>
-<tr><th>Comedian</th><td>Tom O'Connor</td></tr>
-<tr><th>Musicians</th><td>Los Reales del Paraguay</td></tr>
-<tr><th>Impressionist</th><td>Mike Yarwood</td></tr>
-<tr><th>Singer</th><td>Lena Zavaroni</td></tr>
-<tr><th>Musicians</th><td>The London Palladium Orchestra</td></tr>
-<tr><th>Conductor</th><td>Gordon Rose</td></tr>
-<tr><th>Commentary</th><td>Ray Moore</td></tr>
-<tr><th>Stage production presented by</th><td>Lord Delfont</td></tr>
-<tr><th>In association with</th><td>Reg Swinson, MBE</td></tr>
-<tr><th>Lighting</th><td>Tommy Thomas</td></tr>
-<tr><th>Sound</th><td>Chris Holcombe</td></tr>
-<tr><th>Staged by</th><td>Robert Nesbitt</td></tr>
-<tr><th>Television Presentation</th><td>Stewart Morris</td></tr>
-</table>
+<ul>
+<li><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1976-11-15#at-19.50">The Royal Variety Performance - Part 1 at 19.50</a></li>
+<li><a href="https://genome.ch.bbc.co.uk/schedules/bbcone/london/1976-11-15#at-21.40">The Royal Variety Performance - Part 2 at 21.40</a></li>
+</ul>
+
+<h2 id="infobox2"><a href="#infobox2">Royal Variety Charity</a></h2>
+
+<ul>
+<li><a href="http://www.royalvarietycharity.org/royal-variety-performance/archive/detail/1976-london-palladium">1976, London Palladium</a></li>
+</ul>
+
+<h2 id="infobox3"><a href="#infobox3">Contributors</a></h2>
+
+<ul class="columns2">
+<li><strong>Singer:</strong> Shirley Bassey</li>
+<li><strong>Singer:</strong> Gilbert Becaud</li>
+<li><strong>Entertainer:</strong> Max Bygraves</li>
+<li><strong>Entertainer:</strong> Dawson Chance</li>
+<li><strong>Ventriloquist:</strong> Roger de Courcey</li>
+<li><strong>Dancers:</strong> The Dance Theatre of Harlem</li>
+<li><strong>Comedian:</strong> Wayne King</li>
+<li><strong>Comedian:</strong> Tom O'Connor</li>
+<li><strong>Musicians:</strong> Los Reales del Paraguay</li>
+<li><strong>Impressionist:</strong> Mike Yarwood</li>
+<li><strong>Singer:</strong> Lena Zavaroni</li>
+<li><strong>Musicians:</strong> The London Palladium Orchestra</li>
+<li><strong>Conductor:</strong> Gordon Rose</li>
+<li><strong>Commentary:</strong> Ray Moore</li>
+<li><strong>Stage production presented by:</strong> Lord Delfont</li>
+<li><strong>In association with:</strong> Reg Swinson, MBE</li>
+<li><strong>Lighting:</strong> Tommy Thomas</li>
+<li><strong>Sound:</strong> Chris Holcombe</li>
+<li><strong>Staged by:</strong> Robert Nesbitt</li>
+<li><strong>Television Presentation:</strong> Stewart Morris</li>
+</ul>
+
