@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 2025-10-10-its-behind-you.md and 2025-10-10-its-behind-you.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/113463b4582329a13732903181b3eb8c10cc580c)
-- [Clarify description of &#39;Turn&#39; in performance](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/86c880d5c1722ea7adb6648f09e574f654d29cbc)
-- [Update performance details and contract information](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/4924ccc8e38deefbb391140e3b97d0942d414685)
-- [Fix punctuation in tribute song descriptions](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/3f269455cff390126c35df7afe65ab5c8f2201e5)
-- [Refactor theatre post with updated performance details](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/01f9ea463273c2833954ed5858021316eccce0ae)
+- [Update post.html, 1984-10-17-tv-am-good-morning-britain.md, and 2 mor…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8255ed1a1cec8ebf0179ed80179b1064c652ca16)
+- [Update venue details for Lena Zavaroni Show post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/53ab7cb7dc92f3c4ebe5fb60c0b6d5a5b52e9d06)
+- [Update custom-styles.scss, 1977-08-13-tvtimes.md, and 5 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f5c1933244fae12bbeff38bfc35eb11887fcbf6c)
+- [Update pioneer-laserkaraoke-vol-302.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fb0e9604bedd680c761d9be9cd1980ff7e1bd765)
+- [Update discography.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ce06add01290da066fbc671779660099d69b7a1f)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
