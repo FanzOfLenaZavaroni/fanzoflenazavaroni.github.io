@@ -13,6 +13,7 @@ last_modified_at: 22 July 2023
 
 <h2 id="infobox1" class="infobox"><a href="#infobox1">Turns</a></h2>
 <p>A "Turn" refers to an individual performance or act in a variety show, showcasing different talents and entertainment styles.</p>
+
 <ul>
 <li>The Maurice Merry Orchestra</li>
 <li>Your Host Terry Denton Introduces</li>
@@ -21,6 +22,7 @@ last_modified_at: 22 July 2023
 <li>Turnstyle (From the Marti Caine Show)</li></ul>
 
 <h2 id="infobox2" class="infobox"><a href="#infobox2">Interval</a></h2>
+
 <ul>
 <li>Terry Denton introduces the Star of the Show <strong>Lena Zavaroni</strong>.</li>
 </ul>

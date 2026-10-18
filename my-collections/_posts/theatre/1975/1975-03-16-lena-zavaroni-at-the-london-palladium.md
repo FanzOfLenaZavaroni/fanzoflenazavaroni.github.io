@@ -16,7 +16,7 @@ categories: [Theatre-London Palladium, OnThisDay16March]
 <ul>
   <li>Frank Carson</li>
   <li>Brooks Aehron</li>
-  <li>The Vernons</li>
+  <li>The Vernons (Corinne Reed, Patsy Snell and Jackie Evans)</li>
   <li>Bob Sharples And His Television Orchestra</li>
 </ul>
 
