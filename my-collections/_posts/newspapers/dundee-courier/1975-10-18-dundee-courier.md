@@ -18,5 +18,5 @@ last_modified_at: 18 October 2026
 
 <p>it cover that she came form a family of singers including her parents and five uncles.</p>
 
-<p>it also covered her first two singles and that she had met Frank Sinatra with the key pony being but loosed in the article that she was due to make her Dundee debut at the <a href="/1975-10-22-caird-hall">Caird Hall</a> on 22 October</p>
+<p>it also covered her first two singles and that she had met Frank Sinatra with the Main point of the article being but loosed in that she was due to make her Dundee debut at the <a href="/1975-10-22-caird-hall">Caird Hall</a> on 22 October 1975</p>
 
