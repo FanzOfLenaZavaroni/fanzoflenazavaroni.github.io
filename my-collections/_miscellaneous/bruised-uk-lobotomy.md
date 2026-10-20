@@ -4,35 +4,20 @@ author: Date of Article unknown
 title: Bruised UK &copy; 2006
 maintitle: Bruised UK
 description: making waves just one drop - Lobotomy - Knowledge is power sadly in the mental health system the power is usually one-sided We aim to change this"
+published: false
 ---
 
-<figure class="fig3">
 <a href="/assets/images/newspapers/2008-01-13-the-observer-elizabeth-day.png"><img src="/assets/images/newspapers/2008-01-13-the-observer-elizabeth-day.png" class="full-width zoom-in"></a>
 <cite>Note: As the <a class="external-link" href="https://bruiseduk.webs.com/lobotomy.htm">Website</a> has expired I have reproduce the article in full below</cite>
-</figure>
 
-<br />{: .clear}
-<hr>
-<br />{: .clear}
-
-<figure class="fig3">
 <a class="external-link" href="http://observer.guardian.co.uk/review/story/0,,2239724,00.html">He was bad, so they put an ice pick in his brain...</a>
-</figure>
 
-<br />{: .clear}
-
-<figure class="fig3">
 <p><strong>Elizabeth Day</strong></p>
 <p><strong>Sunday January 13, 2008</strong></p>
 <p><strong><a class="external-link" href="https://www.theguardian.com/profile/elizabethday">The Observer</a></strong></p>
-</figure>
 
-{: .clear}
-
-<figure class="fig3">
-<figcaption>
 <h2 id="lobotomy"><a href="#lobotomy">making waves just one drop - Lobotomy</a></h2>
-</figcaption>
+
 <p>When Howard Dully met the man who was to change his life for ever, he was not sure what to make of him. He was 11 at the time and paid little attention to the mysterious adult world that surrounded him, to the decisions taken without his knowledge or to the profound impact that Dr Walter Freeman would have on his pre-adolescent existence. Instead, with a child's eye, he noticed the small physical quirks - the round-rimmed glasses, the dapper suit, the well-trimmed goatee. 'It made him look a little like a beatnik,' Dully says. 'He was warm, personable and easy to get along with. Was I fearful? No. I had no idea what he was going to do with me.'</p>
 
 <p>Dully was a withdrawn boy who liked riding his bicycle and playing chess. He occasionally fought with his brother, disobeyed his parents and stole sweets from the kitchen cupboards. He had a weekly paper round and was saving up to buy a record player. According to Dr Freeman's meticulous records, Dully was 62 inches tall and weighed 6½ stone. He was an average child, perhaps a little unruly but nothing that would strike one as exceptional for a boy of his age.</p>
@@ -110,10 +95,8 @@ description: making waves just one drop - Lobotomy - Knowledge is power sadly in
 <p>It is impossible to say how Dully's life would have panned out if he had not walked into Walter Freeman's office one long-ago autumn day. Perhaps it would, like Frank says, have been incalculably worse or perhaps it would have carried on much the same. But it could have been better, too, and the true sadness is that Howard Dully will never be able to find out one way or the other.</p>
 </figure>
 
-<figure class="fig3">
-<figcaption>
 <h2 id="mind-boggling"><a href="#mind-boggling">Mind-boggling: a history of lobotomy</a></h2>
-</figcaption>
+
 <p><strong>1890:</strong> German scientist Friederich Golz experiments with removing the temporal lobe from dogs and reports a calming effect.</p>
 <p><strong>1892:</strong> Gottlieb Burkhardt, a Swiss physician, performs a similar operation on six schizophrenic patients. Four exhibited altered behaviour. Two died.</p>
 <p><strong>1936:</strong> Portuguese neuropsychiatrist Antonio Egas Moniz develops the leukotomy, but advises using the operation only as a last resort.</p>
@@ -122,27 +105,17 @@ description: making waves just one drop - Lobotomy - Knowledge is power sadly in
 <p><strong>1954:</strong> Antipsychotic drug Thorazine licensed for the treatment of schizophrenia, causing the lobotomy gradually to fall out of favour.</p>
 <p><strong>1960-70:</strong> Lobotomies come under scrutiny by sociologists who consider it a tool for 'psycho-civilising' society. They were banned in Germany, Japan and the Soviet Union. Limited psychosurgery for extreme medical cases is still practised in the UK, Finland, India, Sweden, Belgium and Spain.</p>
 <ul><li>Howard Dully's autobiography, My Lobotomy, co-written with journalist Charles Fleming, was published in the UK on the 6 March 2008.</li></ul>
-</figure>
 
-{: .clear}
-
-<figure class="fig3">
-<figcaption>
 <h2 id="magazine"><a href="#magazine">The Sunday Times Magazine</a></h2>
-</figcaption>
+
 <p>The Sunday Times<span style="float:right;">19 February 2006</span></p>
 <p><strong>Note:</strong> On the orignal website there was an image at this point, with the next line of text a description of the image.</p>
 <cite>Dr Walter Freeman performs a lobotomy in America in 1949 by driving an ice pick into the patient's eye socket</cite>
 <br />
 <p>Investigation</p>
-</figure>
 
-{: .clear}
-
-<figure class="fig3">
-<figcaption>
 <h2 id="mental-cruelty"><a href="#mental-cruelty">Mental cruelty</a></h2>
-</figcaption>
+
 <p><strong>The lobotomy is deemed one of the worst crimes in medical history. But a modern form of it is still practised in Britain - and may soon be performed without the patient's consent. By Christine Toomey and Steven Young</strong></p>
 <p>The flashbacks come late at night. First comes the recollection of intense physical pain, as if the bones in his arms are being snapped like twigs. Then he hears the voice of the neurosurgeon applying an electric current to metal pins implanted in the tissue of his brain. "How do you feel, Derek?" the surgeon Arthur E Wall asks, while peering into Derek Hutchinson's eyes to see if his pupils have yet dilated with fear.</p>
 
@@ -221,14 +194,9 @@ description: making waves just one drop - Lobotomy - Knowledge is power sadly in
 <p>"If nothing else, I want people to understand what these bastards did to me, and thousands of others, so nothing like this is ever allowed to happen again," he says, clutching the steering wheel until his knuckles go white. "What they did was not treatment - it was torture."</p>
 
 <p>Steven Young is consultant neurosurgeon at the Beaumont hospital in Dublin</p>
-</figure>
 
-{: .clear}
-
-<figure class="fig3">
-<figcaption>
 <h2 id="surgery"><a href="#surgery">THE ORIGINS OF MIND-ALTERING SURGERY</a></h2>
-</figcaption>
+
 <p>Egas Moniz could have afforded to rest on his laurels by the time he attended the Second World Congress of Neurology in London in 1935. The 61-year-old professor of neurology, and dean of Lisbon's Medical School, had already gained an international reputation for pioneering cerebral angiography - a radiological technique for mapping brain vessels. But Moniz was disappointed that this had not won him the Nobel prize. So when he heard two Yale neurologists speak at the London congress about experimental brain research on two chimpanzees called Clyde and Becky, observing how Becky's temper tantrums subsided after surgery, he would go on to pioneer - and relentlessly promote - a procedure that eventually won him the coveted Nobel prize.</p>
 
 <p>The procedure was the lobotomy. Back in Lisbon he ordered that a human brain be brought to him from a morgue, and thrusted a pen through the cortex several times until he was satisfied he knew the approximate angle and depth that would best detach the frontal lobes. He performed the operation on a former prostitute, who afterwards was unable to give her age or say where she was. She was returned to an asylum, never to be seen by him again.</p>
@@ -245,14 +213,8 @@ description: making waves just one drop - Lobotomy - Knowledge is power sadly in
 
 <p>Despite growing unease, more refined procedures such as cingulotomies were developed and the modern era of psychosurgery was born. Such procedures remain controversial and have been banned in Germany, Japan and a number of US states. They are still practised in the UK, Finland, India, Sweden, Belgium and Spain.</p>
 
-</figure>
-
-{: .clear}
-
-<figure class="fig3">
-<figcaption>
 <h2 id="benefits"><a href="#benefits">First proof of the benefits of lobotomy</a></h2>
-</figcaption>
+
 <p>New survey supports drastic neurosurgery</p>
 <p>By Sarah-Kate Templeton, Health Editor</p>
 
@@ -285,10 +247,4 @@ description: making waves just one drop - Lobotomy - Knowledge is power sadly in
 <p>He adds: Perhaps most importantly, psychosurgery is based on a flawed and impoverished vision of the relationship between brain tissue and psychological disorder. It is unlikely that any psychiatric problem can be located in one so-called abnormal' brain region.</p>
 
 <p>12 October 2003</p>
-</figure>
 
-<br />{: .clear}
-
-<style>
-.dt-published {display: none;}
-</style>
