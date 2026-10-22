@@ -4,7 +4,7 @@ title: Categories
 maintitle: Categories
 subtitle: "Categories for posts that are redirected to external sites or have plain text in the On This Day section or other reasons why you will not normal see them."
 permalink: /categories/
-add-cats: [Biography Of Lena Zavaroni, Books, Magazines#Cash Box, Magazines#Jackie, Magazines#Music & Video Week, Magazines#record business, Magazines#Record and Radio Mirror, Magazine#TVTimes, Redirects To External Website, Redirects To PDF, The Stage and Television Today, Theatre#Grand Theatre Leeds, Newspaper#Sunday Post, Newspaper#Belfast Telegraph, Wordpress, Television#Thames News]
+add-cats: [Biography Of Lena Zavaroni, Books, Magazines#Cash Box, Magazines#Jackie, Magazines#Music & Video Week, Magazines#record business, Magazines#Record and Radio Mirror, Magazines#TVTimes, Redirects To External Website, Redirects To PDF, The Stage and Television Today, Theatre#Grand Theatre Leeds, Newspaper#Sunday Post, Newspaper#Belfast Telegraph, Wordpress, Television#Thames News]
 ---
 
 {% assign real = site.categories | map: "first" %}
