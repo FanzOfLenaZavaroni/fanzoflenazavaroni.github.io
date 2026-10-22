@@ -6,5 +6,6 @@ subtitle: Lena Zavaroni makes a guest appearance on the variety show.
 description: Lena Zavaroni makes a guest appearance on the variety show.
 post_description: Lena Zavaroni makes a guest appearance on the variety show.
 categories: [Television-Scottish Television (STV), OnThisDay27October]
+onthisdaylink: false
 ---
 
