@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: discography
 year: 1974
 title: Opportunity Knocks Winners
 maintitle: Opportunity Knocks Winners
 subtitle: Compilation Album
 description: To say I'm knocked out that this LP has been produced would be the understatement of the year. It not only presents some of Britain's greatest stars, but to say "thank you" to the Thames Televion Production Team who in fourteen years have auditioned over 100,000 performers to find them. It's also a tribute to the viewers of Britain whose votes brought deserved fame to each of the artists'. who I hope you will enjoy on this record. "I mean it really folks!
-image: /assets/images/albums/various-opportunity-knocks-winners-vinyl-record.jpeg
+categories: [Discography Compilation Albums]
 last_modified_at: 15 June 2023
 ---
 

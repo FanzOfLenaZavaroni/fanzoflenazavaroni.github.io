@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: discography
 year: 1978
 title: Gala Performance
 maintitle: Gala Performance
 subtitle: Compilation Album
 description: This album had a pressing limit of 250,000
-image: /assets/images/albums/1978-various-artists-gala-performance-ab-fc.jpg
+categories: [Discography Compilation Albums]
 last_modified_at: 15 June 2023
 ---
 

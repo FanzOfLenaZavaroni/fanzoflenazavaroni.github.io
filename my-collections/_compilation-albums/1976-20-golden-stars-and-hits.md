@@ -1,11 +1,10 @@
 ---
-layout: post
+layout: discography
 year: 1976
-title: 20 Golden Stars & Hits
-maintitle: 20 Golden Stars & Hits
+title: 20 Golden Stars & Hits, 12" Vinyl 33⅓ Album
+maintitle: 20 Golden Stars & Hits, 12" Vinyl 33⅓ Album
 subtitle: Compilation Album
-description: 
-image: /assets/images/albums/1976-various-artists-20-golden-stars-hits-ab-fc.jpg
+categories: [Discography Compilation Albums]
 last_modified_at: 15 June 2023
 ---
 

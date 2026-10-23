@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: discography
 title: "Mike Hurst: In My Time – Recordings, Productions and Songs 1962-1985, 4CD Box Set"
 maintitle: "Mike Hurst: In My Time – Recordings, Productions and Songs 1962-1985, 4CD Box Set"
 subtitle: Compilation Album
 description: A 4CD collection of the work of songwriter, singer and producer Mike Hurst who worked with internationally renowned stars such as Cat Stevens, Dusty Springfield, The Spencer Davis Group, The Move, Shakin’ Stevens, Cilla Black, Colin Blunstone, PP Arnold, The Nolan Sisters, Chris Farlowe and Showaddywaddy.
 post_description: A 4CD collection of the work of songwriter, singer and producer Mike Hurst who worked with internationally renowned stars such as Cat Stevens, Dusty Springfield, The Spencer Davis Group, The Move, Shakin’ Stevens, Cilla Black, Colin Blunstone, PP Arnold, The Nolan Sisters, Chris Farlowe and Showaddywaddy.
 image: /assets/images/albums/Mike-Hurst-In-My-Time.jpg
-categories: [Discography Compilation Albums, Mike Hurst, OnThisDay15October]
+categories: [Discography Compilation Albums, OnThisDay15October]
 permalink: /discography/compilation-albums/:name
 last_modified_at: 21 January 2024
 ---

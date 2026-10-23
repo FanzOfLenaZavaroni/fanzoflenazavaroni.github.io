@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: discography
 year: 2004
 title: Mike Hurst - Producers Archives Volume 2 1965-1984
 maintitle: Mike Hurst - Producers Archives Volume 2 1965-1984
 subtitle: Compilation Album
 description: A Compilation of artists produced by Mike Hurst over the years.
-image: /assets/images/albums/Mike-Hurst-Producers-Archives-Volume-2-1965-1984.jpg
+categories: [Discography Compilation Albums]
 last_modified_at: 21 January 2024
 ---
 

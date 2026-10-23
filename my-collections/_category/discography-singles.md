@@ -69,7 +69,7 @@ maintitle: "Discography: Singles"
     {% assign data = entry | split: "|" %}
     <li>
       <a href="{{ data[1] | relative_url }}">
-        {{ data[0] }} — {{ data[2] }}{{ data[3] }}
+        {{ data[0] }} - {{ data[2] }}{{ data[3] }}
       </a>
     </li>
   {% endfor %}
@@ -85,7 +85,7 @@ maintitle: "Discography: Singles"
     {% assign data = entry | split: "|" %}
     <li>
       <a href="{{ data[1] | relative_url }}">
-        {{ data[0] }}-00 — {{ data[2] }}{{ data[3] }}
+        {{ data[0] }}-00 - {{ data[2] }}{{ data[3] }}
       </a>
     </li>
   {% endfor %}
@@ -101,7 +101,7 @@ maintitle: "Discography: Singles"
     {% assign data = entry | split: "|" %}
     <li>
       <a href="{{ data[1] | relative_url }}">
-        {{ data[0] }}-00-00 — {{ data[2] }}{{ data[3] }}
+        {{ data[0] }}-00-00 - {{ data[2] }}{{ data[3] }}
       </a>
     </li>
   {% endfor %}

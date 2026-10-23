@@ -67,7 +67,7 @@ maintitle: "Discography: Compilation Albums"
   <ul>
   {% for entry in list_full %}
     {% assign data = entry | split: "|" %}
-    <li><a href="{{ data[1] | relative_url }}">{{ data[0] }} — {{ data[2] }}</a></li>
+    <li><a href="{{ data[1] | relative_url }}">{{ data[0] }} - {{ data[2] }}</a></li>
   {% endfor %}
   </ul>
 {% endif %}
@@ -79,7 +79,7 @@ maintitle: "Discography: Compilation Albums"
   <ul>
   {% for entry in list_year_month %}
     {% assign data = entry | split: "|" %}
-    <li><a href="{{ data[1] | relative_url }}">{{ data[0] }}-00 — {{ data[2] }}</a></li>
+    <li><a href="{{ data[1] | relative_url }}">{{ data[0] }}-00 - {{ data[2] }}</a></li>
   {% endfor %}
   </ul>
 {% endif %}
@@ -91,7 +91,7 @@ maintitle: "Discography: Compilation Albums"
   <ul>
   {% for entry in list_year_only %}
     {% assign data = entry | split: "|" %}
-    <li><a href="{{ data[1] | relative_url }}">{{ data[0] }}-00-00 — {{ data[2] }}</a></li>
+    <li><a href="{{ data[1] | relative_url }}">{{ data[0] }}-00-00 - {{ data[2] }}</a></li>
   {% endfor %}
   </ul>
 {% endif %}

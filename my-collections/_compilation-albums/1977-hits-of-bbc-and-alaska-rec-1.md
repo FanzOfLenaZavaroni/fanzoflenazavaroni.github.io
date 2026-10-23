@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: discography
 year: 1977
 title: HITS OF BBC AND ALASKA REC 1
 maintitle: HITS OF BBC AND ALASKA REC 1
 subtitle: Compilation Album
 description: We tried to choose songs that will be used not only in discos, but which you can also listen to at home.
+categories: [Discography Compilation Albums]
 last_modified_at: 9 August 2025
 ---
 

@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: discography
 year: 1974
 title: RUIDOS vol 6
 maintitle: RUIDOS vol 6
 subtitle: Compilation Album
 description: Compilation Album
-image: /assets/images/albums/ruidos-vol6-fc.jpg
+categories: [Discography Compilation Albums]
 last_modified_at: 15 June 2023
 ---
 
