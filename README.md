@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update post.html, 1984-10-17-tv-am-good-morning-britain.md, and 2 mor…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8255ed1a1cec8ebf0179ed80179b1064c652ca16)
-- [Update venue details for Lena Zavaroni Show post](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/53ab7cb7dc92f3c4ebe5fb60c0b6d5a5b52e9d06)
-- [Update custom-styles.scss, 1977-08-13-tvtimes.md, and 5 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f5c1933244fae12bbeff38bfc35eb11887fcbf6c)
-- [Update pioneer-laserkaraoke-vol-302.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fb0e9604bedd680c761d9be9cd1980ff7e1bd765)
-- [Update discography.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/ce06add01290da066fbc671779660099d69b7a1f)
+- [Update discography-compilation-albums.md, discography-promotional-dis…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9d2b244f0b9299c2f3cfbf48c2d71841258c218e)
+- [Update 2008-11-01-turned-out-nice-again.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fcda73682636613174a3cffade4b2d9497e2876b)
+- [Update 1980-10-22-the-belfast-telegraph.md, 1980-10-24-the-belfast-te…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/501711cfaffbb3dd1a0344846fdff7a0c080b938)
+- [Update 2008-10-23-the-olivetti-chronicles.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/92f742379de37ac94a749347ea5981dca5c3a70e)
+- [Fix formatting in categories.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a164ec7d36c811feff311a97cc6a6800811ebfb8)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
