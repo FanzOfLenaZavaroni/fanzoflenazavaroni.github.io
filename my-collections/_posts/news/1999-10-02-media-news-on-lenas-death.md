@@ -19,5 +19,11 @@ categories: [BBC News, OnThisDay2October]
 <li><strong>Free Library: </strong> <a class="external-link" href="https://www.thefreelibrary.com/Lena+played+for+Queen+at+the+age+of+12+...by+13+she+had+anorexia%3b...-a060329237">Lena played for Queen at the age of 12 ...by 13 she had anorexia; ULTIMATE PRICE: STAR LOVED BUZZ OF FAME BUT COULDN'T LIVE WITH PRESSURES.</a></li>
 </ul>
 
-<script> var dob = '{{ page.published | date: "%Y%m%d" }}'; var year = Number(dob.substr(0, 4)); var month = Number(dob.substr(4, 2)) - 1; var day = Number(dob.substr(6, 2)); var today = new Date(); var age1 = today.getFullYear() - year; var ageM = today.getMonth() - month; var ageD = today.getDate() - day; if (ageD < 0) { ageM--; ageD += new Date(today.getFullYear(), today.getMonth(), 0).getDate(); } if (ageM < 0) { age1--; ageM += 12; } document.getElementById("age1").innerHTML=age1 + " years, " + ageM + " months, and " + ageD + " days"; </script>
+<p  class="hide"><strong>Note:</strong> The script below is for the BBC News Archive pages that URLs end with ".stm" and make the main text wider so that they can be read more easily then the one 3rd of a screen the pages are by default due to still using HTML from the early days of the internet.</p>
+
+<ul class="hide"><li><strong>Tampermonkey Script:</strong> <a href="/assets/tampermonkey/BBC-News-Archive-Layout-Fix-1.0.user.js">BBC-News-Archive-Layout-Fix-1.0.user.js</a></li></ul>
+
+<style>@media screen and (orientation:portrait) {.hide {display:none}}</style>
+
+<script> var dob = '{{ page.published | date: "%Y%m%d" }}'; var year = Number(dob.substr(0, 4)); var month = Number(dob.substr(4, 2)) - 1; var day = Number(dob.substr(6, 2)); var today = new Date(); var age1 = today.getFullYear() - year; var ageM = today.getMonth() - month; var ageD = today.getDate() - day; if (ageD < 0) { ageM--; ageD += new Date(today.getFullYear(), today.getMonth(), 0).getDate(); } if (ageM < 0) { age1--; ageM += 12; } document.getElementById("age1").innerHTML=age1 + " years, " + ageM + " months, and " + ageD + " days";</script>
 

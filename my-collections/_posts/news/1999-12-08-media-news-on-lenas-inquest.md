@@ -20,3 +20,9 @@ last_modified_at: 2 Octorber 2026
 <li><a href="/onthisday/12/12-09">The 9 December 1999 will carry more news on the inquest as it will be the day after the inquest closed</a></li>
 </ul>
 
+<p  class="hide"><strong>Note:</strong> The script below is for the BBC News Archive pages that URLs end with ".stm" and make the main text wider so that they can be read more easily then the one 3rd of a screen the pages are by default due to still using HTML from the early days of the internet.</p>
+
+<ul class="hide"><li><strong>Tampermonkey Script:</strong> <a href="/assets/tampermonkey/BBC-News-Archive-Layout-Fix-1.0.user.js">BBC-News-Archive-Layout-Fix-1.0.user.js</a></li></ul>
+
+<style>@media screen and (orientation:portrait) {.hide {display:none}}</style>
+
