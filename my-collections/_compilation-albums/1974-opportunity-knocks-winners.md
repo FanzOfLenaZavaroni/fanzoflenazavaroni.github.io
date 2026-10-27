@@ -6,45 +6,27 @@ maintitle: Opportunity Knocks Winners
 subtitle: Compilation Album
 description: To say I'm knocked out that this LP has been produced would be the understatement of the year. It not only presents some of Britain's greatest stars, but to say "thank you" to the Thames Televion Production Team who in fourteen years have auditioned over 100,000 performers to find them. It's also a tribute to the viewers of Britain whose votes brought deserved fame to each of the artists'. who I hope you will enjoy on this record. "I mean it really folks!
 categories: [Discography Compilation Albums]
-last_modified_at: 15 June 2023
+last_modified_at: 26 October 2026
 ---
 
-<figure class="fig3">
-<h2 id="quote"><a href="#quote">Quote</a></h2>
+<h2 id="infobox1"><a href="#infobox2">Quote</a></h2>
+
 <blockquote>To say I'm knocked out that this LP has been produced would be the understatement of the year. It not only presents some of Britain's greatest stars, but to say "thank you" to the Thames Televion Production Team who in fourteen years have auditioned over 100,000 performers to find them. It's also a tribute to the viewers of Britain whose votes brought deserved fame to each of the artists'. who I hope you will enjoy on this record. "I mean it really folks!"</blockquote>
+
 <cite>Sincerely, Hughie Green</cite>
-</figure>
 
-{: .clear}
+<h2 id="infobox2"><a href="#infobox2">Details</a></h2>
 
-<figure class="fig1">
-<figcaption>
-<h2 id="cover"><a href="#cover">Album Cover</a></h2>
-</figcaption>
-<a href="/assets/images/albums/various-opportunity-knocks-winners-vinyl-record.jpeg"><img src="/assets/images/albums/various-opportunity-knocks-winners-vinyl-record.jpeg" class="full-width zoom-in" alt="Front Cover for the album Opportunity Knocks Winners ()1974)" /></a>
-</figure>
+<ul>
+<li><strong>Artist:</strong>Various</li>
+<li><strong>Label:</strong>Philips: 6308 220</li>
+<li><strong>Formats:</strong>12" Vinyl 33⅓ Album</li>
+<li><strong>Country:</strong>UK</li>
+<li><strong>Released:</strong>1974</li>
+</ul>
 
-<figure class="fig2">
-<figcaption>
-<h2 id="details"><a href="#details">Details</a></h2>
-</figcaption>
-<table>
-<tr><th style="width:50%">Artist:</th><td>Various</td></tr>
-<tr><th>Label:</th><td>Philips: 6308 220</td></tr>
-<tr><th>Formats:</th><td>12" Vinyl 33⅓ Album</td></tr>
-<tr><th>Country:</th><td>UK</td></tr>
-<tr><th>Released:</th><td>1974</td></tr>
-<tr><th>Lena Zavaroni</th><td><a href="#lena1">A-Side - Track 10</a></td></tr>
-<tr><th>Lena Zavaroni</th><td><a href="#lena2">B-Side - Track 7</a></td></tr>
-</table>
-</figure>
+<h2 id="infobox3"><a href="#infobox3">A Side</a></h2>
 
-{: .clear}
-
-<figure class="fig1">
-<figcaption>
-<h2 id="a-side"><a href="#a-side">A Side</a></h2>
-</figcaption>
 <ol>
 <li><strong>Peters & Lee</strong> Welcome Home</li>
 <li><strong>Bobby Crush</strong> Borsalino</li>
@@ -55,14 +37,11 @@ last_modified_at: 15 June 2023
 <li><strong>Michael Ward</strong> Let There Be Peace On Earth</li>
 <li><strong>Candlewick Green</strong> Come With Me</li>
 <li><strong>Airborne</strong> Give It Up</li>
-<li style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lena1"><strong>Lena Zavaroni:</strong> Ma! (He's Making Eyes At Me)</li>
+<li><strong>Lena Zavaroni:</strong> Ma! (He's Making Eyes At Me)</li>
 </ol>
-</figure>
 
-<figure class="fig2">
-<figcaption>
-<h2 id="b-side"><a href="#b-side">B Side</a></h2>
-</figcaption>
+<h2 id="infobox4"><a href="#infobox4">B Side</a></h2>
+
 <ol>
 <li><strong>Peters & Lee</strong> I'm Confessin'</li>
 <li><strong>Stuart Gillies</strong> Amanda</li>
@@ -70,18 +49,9 @@ last_modified_at: 15 June 2023
 <li><strong>Bobby Crush</strong> The Sting</li>
 <li><strong>Michael Ward</strong> Oh! For The Wings Of A Dove</li>
 <li><strong>Airborne</strong> Emily Jane</li>
-<li style="outline: 4px dashed darkorange; outline-offset: -4px;" id="lena2"><strong>Lena Zavaroni:</strong> (You've Got) Personality</li>
+<li><strong>Lena Zavaroni:</strong> (You've Got) Personality</li>
 <li><strong>Freddie Starr</strong> It's You</li>
 <li><strong>Rosemary Noble</strong> Love Story</li>
 <li><strong>The Anderson Sisters</strong> To Know Him To Love Him</li>
 </ol>
-</figure>
 
-{: .clear}
-
-<figure class="fig3">
-<h2 id="listen"><a href="#listen">Listen</a></h2>
-<p>Due to YouTube restriction the embeding of this album did not work so you will have to follow this <a class="external-link" href="https://www.youtube.com/watch?v=CIakLGevu34">link</a> if you wish to listen to the album.</p>
-</figure>
-
-<br />{: .clear}
