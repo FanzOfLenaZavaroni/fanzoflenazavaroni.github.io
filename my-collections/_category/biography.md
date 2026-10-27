@@ -32,7 +32,7 @@ maintitle: Biographies
               {% assign badge = " (Summary)" %}
             {% elsif post.maintitle contains "A Media Based Biography" %}
               {% assign clean_name = post.maintitle | split: " A Media Based Biography" | first %}
-              {% assign badge = "" %}
+              {% assign badge = " (Full Biography )" %}
             {% else %}
               {% assign clean_name = post.maintitle %}
               {% assign badge = "" %}
