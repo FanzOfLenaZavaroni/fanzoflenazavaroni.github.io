@@ -5,10 +5,11 @@ maintitle: Royal Gala Charity Fundraiser
 subtitle: Jollees, Stoke-on-Trent
 description: Lena attended the Fundraiser where she was photographed shaking hands with Princess Margaret.
 post_description: Lena attended the Fundraiser where she was photographed shaking hands with Princess Margaret.
-categories: [Theatres, Jollees, Fundraising, OnThisDay14January]
+categories: ["Theatre-Jollees, Stoke-on-Trent", Fundraising, OnThisDay14January]
 ---
 
 <img src="/assets/images/placeholder/landscape-placeholder.png" class="fullwidth" />
 <cite>Lena attended the Fundraiser where she was photographed shaking hands with Princess Margaret</cite>
 
 <p>Missing photo is intented, See this <a href="/2025-07-28-announcement">announcement</a></p>
+
