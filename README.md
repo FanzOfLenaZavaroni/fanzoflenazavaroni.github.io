@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update discography-compilation-albums.md, discography-promotional-dis…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9d2b244f0b9299c2f3cfbf48c2d71841258c218e)
-- [Update 2008-11-01-turned-out-nice-again.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/fcda73682636613174a3cffade4b2d9497e2876b)
-- [Update 1980-10-22-the-belfast-telegraph.md, 1980-10-24-the-belfast-te…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/501711cfaffbb3dd1a0344846fdff7a0c080b938)
-- [Update 2008-10-23-the-olivetti-chronicles.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/92f742379de37ac94a749347ea5981dca5c3a70e)
-- [Fix formatting in categories.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a164ec7d36c811feff311a97cc6a6800811ebfb8)
+- [Update categories.md and 1984-10-31-grand-order-of-water-rats-celebra…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d40b7dadf1dc0c56bd95855991f805233a436086)
+- [Update album post with categories and layout changes](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/dc34acc14d8707c589c1c76fc4f1e05dd034d451)
+- [Update categories.md, blogs.md, and 3 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/aa9592806ab5347b36d1ad8f150c28f1b12ea0cd)
+- [Update biography.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d91b107f9ce498244350e1f5a89be230db495c22)
+- [Update discography.html, onthisday.html, and 8 more files...](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/acc2182e32d27201b82c8e938f775d032df9fe0d)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
