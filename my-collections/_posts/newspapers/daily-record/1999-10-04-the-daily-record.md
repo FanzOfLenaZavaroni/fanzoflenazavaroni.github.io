@@ -6,7 +6,7 @@ suffix: ": Lena Was Going to Be a Bride Again"
 subtitle: Lena Was Going to Be a Bride Again
 description: Lena Was Going to Be a Bride Again.
 post_description: Lena Was Going to Be a Bride Again.
-categories: [Newspaper-Daily Record, OnThisDay4October]
+categories: ["Newspaper-Daily Record, Glasgow", OnThisDay4October]
 ---
 
 <h2 id="infobx1" class="infobox"><a href="#infobx1">Article Summary</a></h2>

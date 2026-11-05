@@ -6,7 +6,7 @@ suffix: ": Obsessed Fan Preyed On My Poor Lena"
 subtitle: Obsessed Fan Preyed On My Poor Lena.
 description: Obsessed Fan Preyed On My Poor Lena.
 post_description: Obsessed Fan Preyed On My Poor Lena.
-categories: [Newspaper-Daily Record, OnThisDay5October]
+categories: ["Newspaper-Daily Record, Glasgow", OnThisDay5October]
 ---
 
 ### OBSESSED FAN PREYED ON MY POOR LENA; FAMILY FURY: Tragic Star's Father Hits out after Friend Claims He Proposed to Her
