@@ -6,6 +6,8 @@ subtitle: Save Others From Agony Of Anorexia
 description: The Article made refreance to Lena Zavaroni, Karen Carpenter, Michaela Strachan and others that had been efected by Anorexia.
 post_description: The Article made refreance to Lena Zavaroni, Karen Carpenter, Michaela Strachan and others that had been efected by Anorexia.
 categories: ["Newspaper-Daily Record, Glasgow", OnThisDay12November]
+onthisdaylink: false
 ---
 
-<p>The Article on page 7 made refreance to Lena Zavaroni, Karen Carpenter, Michaela Strachan and others that had been efected by Anorexia.</p>
+<p>{{ page.post_description }}</p>
+
