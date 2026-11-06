@@ -7,7 +7,7 @@ subtitle: Amsterdam Based Newspaper
 description: Short comment on Lena being admitted to a mental institution.
 post_description: Short comment on Lena being admitted to a mental institution.
 categories: [Newspaper-HET PAROOL, OnThisDay10November]
-date: 1982-11-10 05:00:002
+date: 1982-11-10 06:00:002
 last_modified_at: 6 November 2026
 ---
 
