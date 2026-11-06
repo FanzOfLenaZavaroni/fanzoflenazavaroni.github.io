@@ -2,10 +2,10 @@
 layout: post
 title: When A Typo Is More Than A Typo &#124; 30 May 2012
 maintitle: When A Typo Is More Than A Typo
-subtitle: "The Daily Record - GALLERY: Scots were just as keen to celebrate Queen's Silver Jubilee in 1977"
+subtitle: "Daily Record - GALLERY: Scots were just as keen to celebrate Queen's Silver Jubilee in 1977"
 after: " Date of this post 31 March 2023"
-description: "The Daily Record - GALLERY: Scots were just as keen to celebrate Queen's Silver Jubilee in 1977"
-post_description: "The Daily Record - GALLERY: Scots were just as keen to celebrate Queen's Silver Jubilee in 1977"
+description: "Daily Record - GALLERY: Scots were just as keen to celebrate Queen's Silver Jubilee in 1977"
+post_description: "Daily Record - GALLERY: Scots were just as keen to celebrate Queen's Silver Jubilee in 1977"
 categories: ["Newspaper-Daily Record, Glasgow", Typo, OnThisDay30May]
 last_modified_at: 23 December 2023
 ---

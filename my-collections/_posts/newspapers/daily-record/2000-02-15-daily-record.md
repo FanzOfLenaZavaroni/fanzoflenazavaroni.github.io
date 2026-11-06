@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Daily Record (Glasgow, Scotland) &#154; 15 February 1991
-maintitle: The Daily Record (Glasgow, Scotland)
+title: Daily Record (Glasgow, Scotland) &#154; 15 February 1991
+maintitle: Daily Record (Glasgow, Scotland)
 subtitle: LENA WAS PUT ON DIET AT 10
 description: Star's long battle with anorexia began the moment fame's door swung open ... and her showbiz agent beckoned her inside.
 post_description: LENA WAS PUT ON DIET AT 10; Star's long battle with anorexia began the moment fame's door swung open ... and her showbiz agent beckoned her inside.
