@@ -6,7 +6,7 @@ sortorder: 2
 suffix: ", UK 8-Track Cartridge Release"
 subtitle: Studio Album - Released In The UK On 8-Track Cartridge
 year: 1974
-categories: [Discography Studio Albums]
+categories: [Discography Studio Albums, Ma! (He's Making Eyes At Me)]
 last_modified_at: 17 November 2023
 ---
 

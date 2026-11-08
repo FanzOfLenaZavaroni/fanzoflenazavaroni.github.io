@@ -5,7 +5,7 @@ maintitle: Ma! (He's Making Eyes At Me)
 suffix: ", USA Release"
 subtitle: Studio Album - Released In The USA On 12" Vinyl, 33⅓ Album
 year: June 1974
-categories: [Discography Studio Albums]
+categories: [Discography Studio Albums, Ma! (He's Making Eyes At Me)]
 last_modified_at: 17 November 2023
 ---
 

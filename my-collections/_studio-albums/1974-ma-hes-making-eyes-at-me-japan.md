@@ -5,7 +5,7 @@ maintitle: Ma! (He's Making Eyes At Me)
 suffix: ", Japan Release"
 subtitle: Discography-Studio-Album - Released In The Japan On 12" Vinyl, 33⅓ Album
 year: 1974
-categories: [Discography Studio Albums]
+categories: [Discography Studio Albums, Ma! (He's Making Eyes At Me)]
 last_modified_at: 25 May 2026
 ---
 
