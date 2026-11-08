@@ -10,24 +10,6 @@ categories: [Discography Studio Albums, Ma! (He's Making Eyes At Me)]
 last_modified_at: 17 November 2023
 ---
 
-<figure class="fig3">
-<table style="text-align:center;">
-<tr><th colspan="4">View Details For Know Releases</th></tr>
-<tr>
-<td><a href="/discography/studio-albums/1974-04-ma-hes-making-eyes-at-me-uk">1974 - UK Vinyl Album</a></td>
-<td><a href="/discography/studio-albums/1974-ma-hes-making-eyes-at-me-cassette-tape">1974 - UK Cassette Tape</a></td>
-<td><a href="/discography/studio-albums/1974-ma-hes-making-eyes-at-me-uk-8-track">1974 - UK 8-Track</a></td>
-</tr>
-<tr>
-<td><a href="/discography/studio-albums/1974-06-ma-hes-making-eyes-at-me-usa">1974 - USA Vinyl Album</a></td>
-<td><a href="/discography/studio-albums/1976-ma-hes-making-eyes-at-me-uk">1976 - UK Vinyl Re-Release &#x2714;</a></td>
-<td>CD Album</td>
-</tr>
-</table>
-</figure>
-
-{: .clear}
-
 <figure class="fig1">
 <h2 id="cover"><a href="#cover">Album Cover and Details</a></h2>
 <img src="/assets/images/albums/1976-lena-zavaroni-ma-hes-making-eyes-at-me-pickwick.jpg" class="full-width" alt="Pickwick's Red Cover for the album Ma! (He's Making Eyes At Me) Pickwick – SHM 891 (1976)" />
