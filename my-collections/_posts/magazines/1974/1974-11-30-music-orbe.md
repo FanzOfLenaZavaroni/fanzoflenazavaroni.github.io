@@ -1,0 +1,13 @@
+---
+layout: post
+title: Music Orbe &#124; Mexican magazine &#124; 30 November 1974
+maintitle: Music Orbe
+suffix: ": Featured an article about Lena Zavaroni"
+subtitle: Mexican magazine
+description: Featured an article about Lena Zavaroni it contained two black and white photos, one of which shows Lena wearing a sombrero.
+post_description: Featured an article about Lena Zavaroni it contained two black and white photos, one of which shows Lena wearing a sombrero.
+categories: [Magazine-Music Orbe, OnThisDay30November]
+---
+
+Featured an article about Lena Zavaroni it contained two black and white photos, one of which shows Lena wearing a sombrero.
+

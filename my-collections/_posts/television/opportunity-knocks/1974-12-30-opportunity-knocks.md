@@ -1,0 +1,90 @@
+---
+layout: post
+title: Opportunity Knocks &#124; Variety Club Award Show &#124; 30 December 1974
+maintitle: Opportunity Knocks
+subtitle: Variety Club Award Show (1974)
+description: Lena performs If My Friends Could See Me Now, then at the end of the show, she receives the Variety Club Award for 1974, and then joins the rest of the cast in a rendition of Land Of Hope And Glory.
+post_description: Lena performs If My Friends Could See Me Now, then at the end of the show, she receives the Variety Club Award for 1974, and then joins the rest of the cast in a rendition of Land Of Hope And Glory.
+image: /assets/images/ITV/1974-12-31-ok.jpg
+categories: [Television-Thames, Opportunity Knocks, Hughie Green, OnThisDay30December]
+last_modified_at: 29 December 2023
+---
+
+{% assign tb_posts = site.categories["Opportunity Knocks"] | sort: "date" %}
+
+{% assign index = nil %}
+
+{% for p in tb_posts %}
+  {% if p.url == page.url %}
+    {% assign index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_index = index | minus: 1 %}
+{% assign next_index = index | plus: 1 %}
+
+{% assign prev = nil %}
+{% assign next = nil %}
+
+{% if prev_index >= 0 %}
+  {% assign prev = tb_posts[prev_index] %}
+{% endif %}
+
+{% if next_index < tb_posts.size %}
+  {% assign next = tb_posts[next_index] %}
+{% endif %}
+
+<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
+
+  {% if prev %}
+    <a href="{{ prev.url }}">« Previous Episode</a>
+  {% else %}
+    <span style="visibility:hidden;">« Previous Episode</span>
+  {% endif %}
+
+  {% if next %}
+    <a href="{{ next.url }}">Next Episode »</a>
+  {% else %}
+    <span style="visibility:hidden;">Next Episode »</span>
+  {% endif %}
+
+</div>
+
+<table>
+<tr id="infobox1"><th>Photo</th><th>Cast</th></tr>
+<tr><th rowspan="16" class="top" style="width:50%;"><a href="/assets/images/ITV/1974-12-31-ok.jpg"><img src="/assets/images/ITV/1974-12-31-ok.jpg" class="full-width zoom-in" /></a><br /><cite>The 1973 winners Millican & Nesbitt present the award to Lena Zavaroni</cite></th></tr>
+<tr><th>Presenter</th></tr>
+<tr><td style="width:50%;">Hughie Green</td></tr>
+<tr><th>On screen participants</th></tr>
+<tr><td><span style="text-decoration: underline dashed darkorange 3px;">Lena Zavaroni</span></td></tr>
+<tr><td>Airborne<br /><a class="external-link" href="https://www.youtube.com/watch?v=yHip9o82DJg">YouTube Clip</a></td></tr>
+<tr><td>Adam And Eve</td></tr>
+<tr><td>Grahame MacLean</td></tr>
+<tr><td>Tom O'Connor</td></tr>
+<tr><td>Helen Foster</td></tr>
+<tr><td>The John Carpenter Brass Quintet</td></tr>
+<tr><td>Joan Owen</td></tr>
+<tr><td>The Leeds Male Choir</td></tr>
+<tr><td>The Wimbledon Lyric Players</td></tr>
+<tr><td>The Fleetwood Sea Cadets Corps Band</td></tr>
+<tr><td>Bob Sharples And His Music</td></tr>
+<tr id="infobox2" class="split"><th colspan="3">Crew</th></tr>
+<tr><th style="width:50%;">Programme associate</th><td colspan="2" style="width:50%;">Len Marten</td></tr>
+<tr><th>Programme associate</th><td colspan="2">Doris Barry</td></tr>
+<tr><th>Executive producer</th><td colspan="2">Jack Andrews</td></tr>
+<tr><th>Designer</th><td colspan="2">Rod Stratfold</td></tr>
+<tr><th>Producer</th><td colspan="2">Keith Beckett</td></tr>
+<tr><th>Director</th><td colspan="2">Keith Beckett</td></tr>
+<tr id="infobox3" class="split"><th colspan="3">Summary</th></tr>
+<tr><td colspan="3">
+Lena performs If My Friends Could See Me Now, then at the end of the show, she receives the Variety Club Award for 1974, and then joins the rest of the cast in a rendition of Land Of Hope And Glory.
+</td></tr>
+</table>
+</figure>
+
+<br />{: .clear}
+
+<style>
+#infobox2, #infobox3 {scroll-margin-top: -3px;}
+</style>
+

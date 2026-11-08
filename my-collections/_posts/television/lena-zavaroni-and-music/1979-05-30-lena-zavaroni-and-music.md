@@ -1,0 +1,84 @@
+---
+layout: post
+title: Lena Zavaroni and Music &#124; Episode 2
+maintitle: Lena Zavaroni and Music - Episode 2
+subtitle: "Guests: Grace Kennedy, Adrian Hedley, Guy Kent and Johnny Hutch and the Comedy Hollywood Cops"
+description: This week's guests are Grace Kennedy, Adrian Hedley, Guy Kent and Johnny Hutch and the Comedy Hollywood .
+post_description: This week's guests are Grace Kennedy, Adrian Hedley, Guy Kent and Johnny Hutch and the Comedy Hollywood .
+image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
+categories: [Television-BBC One, Lena Zavaroni and Music, Dougie Squires, OnThisDay30May]
+last_modified_at: 26 November 2023
+---
+
+{% assign tb_posts = site.posts
+    | where_exp: "post", "post.categories contains 'Lena Zavaroni and Music'"
+    | sort: "date" %}
+
+{% assign index = nil %}
+
+{% for p in tb_posts %}
+  {% if p.url == page.url %}
+    {% assign index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_index = index | minus: 1 %}
+{% assign next_index = index | plus: 1 %}
+
+{% assign prev = nil %}
+{% assign next = nil %}
+
+{% if prev_index >= 0 %}
+  {% assign prev = tb_posts[prev_index] %}
+{% endif %}
+
+{% if next_index < tb_posts.size %}
+  {% assign next = tb_posts[next_index] %}
+{% endif %}
+
+<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
+
+  {% if prev %}
+    <a href="{{ prev.url }}">« Previous Episode</a>
+  {% else %}
+    <span style="visibility:hidden;">« Previous Episode</span>
+  {% endif %}
+
+  <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1979-05-30#at-18.45">BBC Genome: Series 1, Episode 2</a>
+
+  {% if next %}
+    <a href="{{ next.url }}">Next Episode »</a>
+  {% else %}
+    <span style="visibility:hidden;">Next Episode »</span>
+  {% endif %}
+
+</div>
+
+<h2 id="infobox1"><a href="#infobox1">Set List</a></h2>
+<ul>
+<li>Music Was My First Love (Lena a shorter version than the previous week this became the show's theme song)</li>
+<li>It's a Miracle/Take Me Back To Hollywood (Lena)</li>
+<li>Comedy sketch with Lena and Adrian Hedley featuring an audio harmonizer</li>
+<li>Bright Eyes (Lena)</li>
+<li>Silent movie comedy sketch, filmed in sepia, with Lena, Johnny Hutch and The Comedy Hollywood Cops.</li>
+<li>Dance All Night (Lena)</li>
+<li>Two songs by Grace Kennedy</li>
+<li>Hollywood Romance (Lena with The Ace Eight dancers)</li>
+<li>Could It Be Magic (Lena)</li>
+</ul>
+
+<h2 id="infobox2"><a href="#infobox2">Cast</a></h2>
+<ul>
+<li><strong>Hostess and Signer:</strong> Lena Zavaroni</li>
+<li><strong>Guest/Singer</strong> Grace Kennedy</li>
+<li><strong>Guest/Singer</strong> Adrian Hedley</li>
+<li><strong>Guest/Singer</strong> Guy Kent</li>
+<li><strong>Guest/Singer</strong> Johnny Hutch and the Comedy Hollywood Cops</li>
+<li><strong>Dancers</strong> The Ace Eight</li>
+</ul>
+
+<h2 id="infobox3"><a href="#infobox3">Links</a></h2>
+<ul>
+<li><strong>Category:</strong> <a href="/category/lena-zavaroni-and-music">Lena Zavaroni and Music</a></li>
+<li><strong>BBC Genome:</strong> <a href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1979-05-30#at-18.45">Series 1, Episode 2</a></li>
+</ul>

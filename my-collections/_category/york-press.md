@@ -1,0 +1,13 @@
+---
+layout: post-no-comments-no-date
+title: York Press
+maintitle: York Press
+---
+
+<ul>
+{% for post in site.categories["York Press"] reversed %}
+{% if post.url %}
+<li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.maintitle }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>

@@ -1,0 +1,119 @@
+---
+layout: default
+---
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+<header class="post-header">
+<h1 class="post-title p-name" itemprop="name headline" id="{{ page.maintitle | escape }}">
+  <a href="#{{ page.maintitle | escape }}" class="warning">{{ page.maintitle }}</a>
+</h1>
+<h2>{{ page.subtitle }}</h2>
+
+<p class="post-meta">
+
+{%- if page.before -%}
+  <span itemprop="before" itemscope itemtype="http://schema.org/Person">
+    <span class="p-before h-card" itemprop="name">{{ page.before }}</span>
+  </span>
+{%- endif -%}
+
+{%- if page.year -%}
+  <time class="dt-published" datetime="{{ page.year }}" itemprop="datePublished">
+    {{ page.year }}
+  </time>
+{%- elsif page.date -%}
+  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {{ page.date | date: date_format }}
+  </time>
+{%- endif -%}
+
+{%- if page.after -%}
+  <span itemprop="after" itemscope itemtype="http://schema.org/Person">
+    <span class="p-after h-card" itemprop="name">{{ page.after }}</span>
+  </span>
+{%- endif -%}
+
+</p>
+</header>
+
+
+<div class="post-content e-content" itemprop="articleBody">
+  {{ content }}
+</div>
+
+<hr>
+
+<h2 id="categories"><a href="#categories">Related Categories</a></h2>
+
+<span class="post-categories">
+{% if post %}
+  {% assign categories = post.categories %}
+{% else %}
+  {% assign categories = page.categories %}
+{% endif %}
+
+{% for category in categories %}
+
+  {% if category contains "OnThisDay" %}
+
+    {% assign day = category | remove: "OnThisDay" %}
+    {% assign day = day | remove: "January" | remove: "February" | remove: "March" | remove: "April" | remove: "May" | remove: "June" | remove: "July" | remove: "August" | remove: "September" | remove: "October" | remove: "November" | remove: "December" | strip %}
+
+    {% assign day_int = day | plus: 0 %}
+    {% if day_int < 10 %}
+      {% assign day = "0" | append: day_int %}
+    {% else %}
+      {% assign day = day_int %}
+    {% endif %}
+
+    {% assign months = "January,February,March,April,May,June,July,August,September,October,November,December" | split: "," %}
+    {% for m in months %}
+      {% if category contains m %}
+        {% assign month_name = m %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign month_numbers = "January:01,February:02,March:03,April:04,May:05,June:06,July:07,August:08,September:09,October:10,November:11,December:12" | split: "," %}
+    {% for pair in month_numbers %}
+      {% assign parts = pair | split: ":" %}
+      {% if parts[0] == month_name %}
+        {% assign month_number = parts[1] %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign otd_url = "/onthisday/" | append: month_number | append: "/" | append: month_number | append: "-" | append: day | append: "/" %}
+
+    <a href="{{ otd_url }}">{{ category }}</a>
+
+  {% else %}
+
+    <a href="{{ site.baseurl }}/category/{{ category | downcase | replace: ' ', '-' }}">{{ category }}</a>
+
+  {% endif %}
+
+  {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}
+{% endfor %}
+</span>
+
+<hr>
+
+<h2 id="comments"><a title="Category=General" href="#comments">Comments</a></h2>
+<script src="https://giscus.app/client.js"
+data-repo="FanzOfLenaZavaroni/fanzoflenazavaroni.github.io"
+data-repo-id="R_kgDOIf0PVA"
+data-category="General"
+data-category-id="DIC_kwDOIf0PVM4CSviz"
+data-mapping="pathname"
+data-strict="1"
+data-reactions-enabled="1"
+data-emit-metadata="0"
+data-input-position="bottom"
+data-theme="preferred_color_scheme"
+data-lang="en"
+crossorigin="anonymous"
+async>
+</script>
+</article>
+

@@ -1,0 +1,42 @@
+---
+layout: discography
+title: If My Friends Could See Me Now
+maintitle: If My Friends Could See Me Now
+suffix: ", Australia Release"
+subtitle: Studio Album - Released In Australia On 12" Vinyl, 33⅓ Album
+year: April 1974
+categories: [Discography Studio Albums, If My Friends Could See Me Now]
+last_modified_at: 10 November 2023
+---
+
+<h2 id="infobox1"><a href="#infobox1">Details</a></h2>
+
+<ul>
+<li><strong>Label:</strong> Philips – 6308 222</li>
+<li><strong>Format:</strong> 12" Vinyl, 33⅓ Album</li>
+<li><strong>Country:</strong> Australia</li>
+<li><strong>Released:</strong> 1975</li>
+</ul>
+
+<h2 id="infobox2"><a href="#infobox2">Side A</a></h2>
+
+<ol>
+<li>If My Friends Could See Me Now</li>
+<li>Kiss Me, Honey Honey, Kiss Me</li>
+<li>The Tennessee Wig-Walk</li>
+<li>Rock and Roll Waltz</li>
+<li>What a Wonderful World</li>
+<li>Hands Off</li>
+</ol>
+
+<h2 id="infobox3"><a href="#infobox3">Side B</a></h2>
+
+<ol>
+<li>It's in His Kiss</li>
+<li>Music, Music, Music</li>
+<li>Tweedle Dee Dee, Tweedle Dee Dum</li>
+<li>Wheel of Fortune</li>
+<li>You're Never to Old to Be Young</li>
+<li>Stage Struck</li>
+</ol>
+

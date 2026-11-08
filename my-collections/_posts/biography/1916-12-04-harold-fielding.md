@@ -1,0 +1,46 @@
+---
+layout: post
+title: Biography &#124; Harold Fielding
+maintitle: Harold Fielding
+born: 1916-12-04
+died: 2003-09-27
+before: "Born On "
+after: " - Died On 27 September 2003 (aged 86)"
+position: Theatre Producer
+description: Harold Fielding was one of Britain’s foremost theatrical producers
+post_description: 4 December 1916 - 27 September 2003
+image: /assets/images/harold-fielding.jpg
+image-caption: Harold Fielding
+categories: [Biography, Harold Fielding, OnThisDay4December, OnThisDay27September]
+author: Robcamstone
+last_modified_at: 26 October 2026
+---
+
+<h2  id="infobox1"><a href="#infobox1">Details</a></h2>
+
+<ul>
+<li><strong> Birth name:</strong> Harold Lewis Fielding</li>
+<li><strong>Born:</strong> 4 December 1916</li>
+<li><strong>Origin:</strong> Woking, Surrey, England</li>
+<li><strong>Died:</strong> 27 September 2003 (aged 86) Kingston upon Thames, London, England</li>
+<li><strong>Genres:</strong> Musical theatre</li>
+<li><strong>Occupation:</strong> Theatre producer</li>
+<li><strong>Instrument:</strong> Violin</li>
+</ul>
+
+
+<h2  id="infobox2"><a href="#infobox2">Short Bio</a></h2>
+
+<p><strong>Harold Fielding</strong> was one of Britain's foremost theatrical producers who produced several musicals, including ''Mame'', ''Charlie Girl'', ''Half a Sixpence'', ''Show Boat'', ''Scarlett'', ''Barnum'', ''Sweet Charity'', ''The Biograph Girl'', and ''Ziegfeld''. He also produced &quot;Music for the Millions&quot;, a touring variety show.</p>
+<p>The son of a stockbroker, Fielding was born in Woking, Surrey and educated privately. As a child prodigy, he studied violin with Josef Szigeti. He also handled Tommy Steele's early career, and commissioned ''Half a Sixpence'' for him.</p>
+<p>He was interviewed by Sue Lawley on <a class="external-link" href="https://www.bbc.co.uk/programmes/p009404d">Desert Island Discs</a> on BBC Radio 4 on 17 June 1990.</p>
+<p>Fielding married Maisie Joyce Skivens in 1955, and was widowed in 1985. They had no children.</p>
+<p>He suffered a series of strokes in 1998, and retired to a private nursing home in Kingston-upon-Thames, where he died.</p>
+<cite><a class="external-link" href="https://en.wikipedia.org/wiki/Harold_Fielding">Wikipedia</a></cite>
+
+
+<h2  id="infobox3"><a href="#infobox3">Lena Zavaroni's Career</a></h2>
+
+<p>Harold Fielding played a large part in the career of Lena Zavaroni by providing her with regular appearances to headline his Sunday night shows at the Blackpool Opera House.</p>
+<p>See Category: <a href="/category/harold-fielding">Harold Fielding</a> for the list of Harold Fielding's Sunday Night at the Blackpool Opera House in which Lena Zavaroni appeared.</p>
+

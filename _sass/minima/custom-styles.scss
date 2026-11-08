@@ -1,0 +1,310 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+/*  fix page content bottom margin for use with cards  */
+.post-content {margin-bottom: 0px;}
+
+// Override heading sizes
+h1 {
+  font-size: 2rem !important;
+}
+
+h2 {
+  font-size: 1.5rem !important;
+}
+
+h3 {
+  font-size: 1.125rem !important;
+}
+
+h4 {
+  font-size: 0.9rem !important;
+}
+
+.post-meta {color:#111111 !important;}
+
+cite:before {
+content: "\2014 \2009";
+}
+
+/*  Clear Both  */
+.clear {clear: both;}
+
+/*  Default sizes  */
+.width-100 {width:100px; height: auto;}
+.width-150 {width:150px; height: auto;}
+.width-200 {width:200px; height: auto;}
+.width-250 {width:250px; height: auto;}
+.width-300 {width:300px; height: auto;}
+.width-25 {width:24.5%; height: auto;}
+.width-33 {width:32.5%; height: auto;}
+.half-width {width:49.7%; height: auto;}
+.full-width {width:100%; height: auto;}
+.height-200 {width:auto; height: 200px;}
+.height-300 {width:auto; height: 300px;}
+.height-400 {width:auto; height: 400px;}
+.height-500 {width:auto; height: 500px;}
+
+/*  Zoom Style  */
+.zoom-in {cursor: zoom-in;}
+.zoom-out {cursor: zoom-out;}
+
+/*  Default figure Style  */
+
+/*  figure  */
+figure > img {display: block;}
+
+figcaption {font-size: $base-font-size;}
+
+/*  fig  */
+.fig1 {float:left; width:49%; }
+
+.fig2 {float:right; width:49%;}
+
+.fig3 {float:left; width:100%;}
+
+figcaption {float:left; width:100%;}
+
+@media screen and (orientation:portrait) {
+.fig1, .fig2, .fig3 {float:left; width:100%; margin-bottom:30px;}
+figcaption {float:left; width:100%; margin-bottom: 10px;}
+}
+
+/*  set lists to 2 columns  */
+.columns2 {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
+@media (orientation: portrait) { .columns2 { columns: unset; } }
+
+
+/* Add a strip of the color cyan */
+.blue-split {border-top: solid 5px #4B90B1;}
+.red-split {border-top: solid 5px #dc3545;}
+.yellow-split {border-top: solid 5px #856404;}
+.black-split {border-top: solid 5px #000000;}
+
+/*  Style External Links  */
+.external-link {
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-image: url(/assets/images/external-link-ltr-icon.png);
+    background-image: linear-gradient(transparent, transparent),url(../images/external.svg);
+    padding-right: 13px;
+}
+
+/*  Responsive Video  */
+.responsive-video {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.responsive-video iframe,
+.responsive-video object,
+.responsive-video embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+@media screen and (orientation:portrait) {
+.site-nav {
+    position: absolute;
+    top: 9px;
+    right: $spacing-unit * 0.5;
+    background-color: $background-color;
+    border: 1px solid $brand-color-light;
+    border-radius: 5px;
+    text-align: right;
+
+    label[for="nav-trigger"] {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 36px;
+      z-index: 2;
+      cursor: pointer;
+    }
+
+    .menu-icon {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 26px;
+      line-height: 0;
+      padding-top: 10px;
+      text-align: center;
+
+      > svg {
+        fill: $brand-color-dark;
+      }
+    }
+
+    input ~ .trigger {
+      clear: both;
+      display: none;
+    }
+
+    input:checked ~ .trigger {
+      display: block;
+      padding-bottom: 5px;
+    }
+
+    .page-link {
+      display: block;
+      padding: 5px 10px;
+
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+      margin-left: 20px;
+    }}}
+
+/*  No newline when in portrait  */
+.whitespace {white-space: pre;}
+@media screen and (orientation:portrait) {.whitespace {white-space: unset}}
+
+/*  Adjust Table CSS based on orientation  */
+.top {vertical-align:top;}
+
+@media screen and (orientation:portrait) {table {display:inline-table;}}
+
+/*  definition list  */
+  dl {
+    margin: 1em 0;
+  }
+
+  dt {
+    font-weight: bold;
+    margin-top: 1em;
+  }
+
+  dd {
+    margin-left: 1em;
+    margin-bottom: 0.5em;
+  }
+
+/*  Year Frontmatter  */
+
+.year-selector {
+  display: none;
+}
+
+.year-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+.year-links a {
+  text-decoration: none;
+  color: #000;
+  transition: color 0.2s, border-bottom 0.2s;
+  border-bottom: 1px solid transparent;
+}
+
+.year-links a:hover {
+  color: #007acc;
+  border-bottom: 1px solid #007acc;
+  cursor: pointer;
+}
+
+.year-links a.active {
+  font-weight: bold;
+  border-bottom: 2px solid #007acc;
+}
+
+@media screen and (orientation: portrait) {
+  .year-links {
+    display: none;
+  }
+  .year-selector {
+    display: block;
+    width: 100%;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+}
+
+/**
+ * Tables
+ */
+table {
+  margin-bottom: $spacing-unit;
+  width: 100%;
+  text-align: $table-text-align;
+  color: $table-text-color;
+  border-collapse: collapse;
+  border: 1px solid $table-border-color;
+
+  tr {
+    &:nth-child(even) {
+      background-color: $table-zebra-color;
+    }
+  }
+
+  th,
+  td {
+    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+  }
+
+  th {
+    background-color: $table-header-bg-color;
+    border: 1px solid $table-header-border;
+  }
+
+  td {
+    border: 1px solid $table-border-color;
+  }
+}
+
+/* Portrait-only behaviour, no extra divs */
+@media screen and (orientation: portrait) {
+  table {
+    display: block;
+    width: auto;              // allow table to be wider than viewport
+    min-width: 100%;          // but never smaller than screen
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  th,
+  td {
+    padding: ($spacing-unit / 4) ($spacing-unit / 3);
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+}
+
+/* Set icon size to the size of the related tag */
+.icon {height: 1em; vertical-align: -0.125em; fill: currentColor;}
+
+
+blockquote {
+  color: #333333;
+  border-left-color: #333333;
+  font-size: 1rem;
+}
+
+/*  cite  */
+cite {color: #333333;}
+
+/* Blink text when jumping to an anchor link target */
+@keyframes text-blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+:target a {
+  animation: text-blink 0.4s ease-in-out 3;
+}

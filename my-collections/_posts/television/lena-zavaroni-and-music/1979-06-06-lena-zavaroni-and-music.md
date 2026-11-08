@@ -1,0 +1,75 @@
+---
+layout: post
+title: Lena Zavaroni and Music &#124; Episode 3
+maintitle: Lena Zavaroni and Music - Episode 3
+subtitle: "Guests: Edward Woodward and Gerard Kenny"
+description: This week's guests are Edward Woodward and Gerard Kenny.
+post_description: This week's guests are Edward Woodward and Gerard Kenny.
+image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
+categories: [Television-BBC One, Lena Zavaroni and Music, Dougie Squires, OnThisDay6June]
+last_modified_at: 1 June 2026
+---
+
+{% assign tb_posts = site.posts
+    | where_exp: "post", "post.categories contains 'Lena Zavaroni and Music'"
+    | sort: "date" %}
+
+{% assign index = nil %}
+
+{% for p in tb_posts %}
+  {% if p.url == page.url %}
+    {% assign index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_index = index | minus: 1 %}
+{% assign next_index = index | plus: 1 %}
+
+{% assign prev = nil %}
+{% assign next = nil %}
+
+{% if prev_index >= 0 %}
+  {% assign prev = tb_posts[prev_index] %}
+{% endif %}
+
+{% if next_index < tb_posts.size %}
+  {% assign next = tb_posts[next_index] %}
+{% endif %}
+
+<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
+
+  {% if prev %}
+    <a href="{{ prev.url }}">« Previous Episode</a>
+  {% else %}
+    <span style="visibility:hidden;">« Previous Episode</span>
+  {% endif %}
+
+  <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1979-06-06#at-19.00">BBC Genome: Series 1, Episode 3</a>
+
+  {% if next %}
+    <a href="{{ next.url }}">Next Episode »</a>
+  {% else %}
+    <span style="visibility:hidden;">Next Episode »</span>
+  {% endif %}
+
+</div>
+
+<h2 id="infobox1"><a href="#infobox1">Set List</a></h2>
+<ul>
+<li>Music Was My First Love (Lena, shorter version)</li>
+<li>Can You Feel A Brand New Day/Just The Way You Are (Lena)</li>
+<li>D, D, D, Dancing (Lena with Gerard Kenny)</li>
+<li>Fit To Be Tied (Gerard Kenny)</li>
+<li>Doris Day Medley (Lena and the Ace Eight)</li>
+<li>I've Heard That Song Before (Edward Woodward)</li>
+<li>The Little Old Lady/City Lights and Spotlight (Lena)</li>
+</ul>
+
+<h2 id="infobox2"><a href="#infobox2">Cast</a></h2>
+<ul>
+<li><strong>Hostess and Signer:</strong> Lena Zavaroni</li>
+<li><strong>Special Guest:</strong> Edward Woodward</li>
+<li><strong>Special Guest:</strong> Gerard Kenny</li>
+<li><strong>Dancers</strong> The Ace Eight</li>
+</ul>
+

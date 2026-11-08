@@ -1,0 +1,32 @@
+---
+layout: post
+title: The Scottish Sun &#124; 12 March 2022
+before: "Article Published On "
+after: " - Article Updated On 14 March 2022"
+maintitle: The Scottish Sun
+subtitle: KISS OFF Red Dwarf’s Danny John-Jules reveals Lena Zavaroni kiss rocketed him to stardom as he stars in Glasgow’s Da Vinci code
+description: KISS OFF Red Dwarf’s Danny John-Jules reveals Lena Zavaroni kiss rocketed him to stardom as he stars in Glasgow’s Da Vinci code.
+post_description: KISS OFF Red Dwarf’s Danny John-Jules reveals Lena Zavaroni kiss rocketed him to stardom as he stars in Glasgow’s Da Vinci code.
+categories: [Newspaper-The Scottish Sun, OnThisDay12March, OnThisDay14March]
+last_modified_at: 23 December 2023
+---
+
+<div class="responsive-video"><video width="100%" poster="/assets/media/lena-zavaroni-the-danny-john-jules-kiss.png" controls loop><source src="/assets/media/lena-zavaroni-the-danny-john-jules-kiss.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
+<br />
+<blockquote>
+<p>The entertainer, who played Cat in the cult BBC Sci-fi series about a gang of misfits onboard a spacecraft, landed his big break as a dancer for the Scots singing sensation’s seventies telly specials.</p>
+<p>And Danny insists it helped to make him a star in his own right after he planted a peck on the teenager’s cheek during the primetime show.</p>
+<p>The 61-year-old, who will tour Scotland this month in the stage version of the Da Vinci Code, says: “Lena Zavaroni was one of the biggest stars in telly and I started my career as one of her dancers at the BBC.</p>
+<p>“When we were doing one of her shows, where she sang Queen’s Don’t Stop Me Now, me and another dancer gave her in a lift at the end of the number.</p>
+<p>“But the producer Stewart Morris said, ‘When you drop her down, I want you two to give her a kiss on the cheek.’</p>
+<p>“Now this was the 70s with the British National Front out on the streets and he wanted a black guy to give little Lena Zavaroni a kiss?</p>
+<p>“The other dancer bottled it, but I gave her a kiss on the cheek. It was like a revelation.</p>
+<blockquote>
+<p>If you watch the clip above you will see that in fact the other dancer was prevented from kissing Lena's other cheek by the movement of her right arm.</p>
+</blockquote>
+<cite>Robcamstone</cite>
+<br />
+<p>“The next day I was walking down the street and my mates are coming up going ‘Dan - you kissed Lena Zavaroni on telly, what the hell man.’’</p>
+<p>“It was the biggest moment to happen in my career at that point. Because things like that didn’t happen on TV in those days.”</p>
+</blockquote>
+<cite>The Scottish Sun</cite>

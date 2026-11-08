@@ -1,0 +1,96 @@
+---
+layout: post
+title: Lena Zavaroni and Music &#124; Episode 6
+maintitle: Lena Zavaroni and Music - Episode 6
+subtitle: "Guests: Wayne Sleep, Peter Skellern, Adrian Hedley and Johnny Hutch & the Half-Wits"
+description: This week's guests are Wayne Sleep, Peter Skellern, Adrian Hedley and Johnny Hutch & the Half-Wits.
+post_description: This week's guests are Wayne Sleep, Peter Skellern, Adrian Hedley and Johnny Hutch & the Half-Wits.
+image: /assets/images/BBC/lena-zavaroni-image-copyright-bbc.jpg
+categories: [Television-BBC One, Lena Zavaroni and Music, Dougie Squires, OnThisDay27June]
+last_modified_at: 1 June 2026
+---
+
+{% assign tb_posts = site.posts
+    | where_exp: "post", "post.categories contains 'Lena Zavaroni and Music'"
+    | sort: "date" %}
+
+{% assign index = nil %}
+
+{% for p in tb_posts %}
+  {% if p.url == page.url %}
+    {% assign index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_index = index | minus: 1 %}
+{% assign next_index = index | plus: 1 %}
+
+{% assign prev = nil %}
+{% assign next = nil %}
+
+{% if prev_index >= 0 %}
+  {% assign prev = tb_posts[prev_index] %}
+{% endif %}
+
+{% if next_index < tb_posts.size %}
+  {% assign next = tb_posts[next_index] %}
+{% endif %}
+
+<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center; display: flex; justify-content: space-evenly;">
+
+  {% if prev %}
+    <a href="{{ prev.url }}">« Previous Episode</a>
+  {% else %}
+    <span style="visibility:hidden;">« Previous Episode</span>
+  {% endif %}
+
+  <a class="external-link" href="https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1979-06-27#at-19.40">BBC Genome: Series 1, Episode 6</a>
+
+  {% if next %}
+    <a href="{{ next.url }}">Next Episode »</a>
+  {% else %}
+    <span style="visibility:hidden;">Next Episode »</span>
+  {% endif %}
+
+</div>
+
+<h2 id="infobox1"><a href="#infobox1">Set List</a></h2>
+<ul>
+<li>Music Was My First Love (Lena, shorter version)</li>
+<li>Forever in Blue Jeans/Corner of the Sky (Lena)</li>
+<li>Hallelujah (Lena and the Ace Eight)</li>
+<li>Dance sequence (Wayne Sleep)</li>
+<li>Oh Happy Day (Lena and the Ace Eight)</li>
+<li>Comedy sketch (Johnny Hutch and the Half Wits)</li>
+<li>Kites (Lena with Adrian Hedley)</li>
+<li>Peter Skellern singing and playing piano</li>
+<li>Ease On Down the Road (Lena and the Ace Eight)</li>
+<li>Don't Nobody Bring Me No Bad News (Lena and the Ace Eight with Wayne Sleep)</li>
+<li>Home (Lena)</li>
+</ul>
+
+<h2 id="infobox2"><a href="#infobox2">Cast</a></h2>
+<ul>
+<li><strong>Hostess and Signer:</strong> Lena Zavaroni</li>
+<li><strong>Special Guest:</strong> Wayne Sleep</li>
+<li><strong>Special Guest:</strong> Peter Skellern</li>
+<li><strong>Special Guest:</strong> Adrian Hedley</li>
+<li><strong>Special Guest:</strong> Johnny Hutch & the Half-Wits</li>
+<li><strong>Dancers</strong> The Ace Eight</li>
+</ul>
+
+<h2 id="infobox3"><a href="#infobox3">Crew</a></h2>
+<ul>
+<li><strong>Unless indicated otherwise the same individuals worked on all episodes</strong></li>
+<li><strong>Musicians:</strong> Alyn Ainsworth and his Orchestra</li>
+<li><strong>Choreographer:</strong> Dougie Squires</li>
+<li><strong>Musical Director:</strong> Alyn Ainsworth</li>
+<li><strong>Vocal Backings:</strong> The Third Kind</li>
+<li><strong>Sound:</strong> Len Shorey</li>
+<li><strong>Lighting:</strong> Eric Wallis</li>
+<li><strong>Designer:</strong> John O'Hara (All episodes except episode 4)</li>
+<li><strong>Designer:</strong> Nigel Curzon (All episodes except episode 4)</li>
+<li><strong>Designer:</strong> Andrew H. Davies (Episode 4)</li>
+<li><strong>Production:</strong> David G. Hillier</li>
+</ul>
+
