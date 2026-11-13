@@ -6,7 +6,7 @@ subtitle: Episode 16.8 - Lena Sponsored Her Parents Victor And Hilda
 description: Lena sponsored her parents Victor and Hilda on the show under the name The Zavaronis.
 post_description: Lena sponsored her parents Victor and Hilda on the show under the name The Zavaronis.
 categories: [Television-Thames, Opportunity Knocks, Hughie Green, OnThisDay17November]
-last_modified_at: 13 January 2024
+last_modified_at: 13 November 2026
 ---
 
 {% assign tb_posts = site.categories["Opportunity Knocks"] | sort: "date" %}
@@ -48,6 +48,8 @@ last_modified_at: 13 January 2024
   {% endif %}
 
 </div>
+
+<br />
 
 With Paul and Suzy Brown, Mike Donohoe, Les Filles De Paris, Blue, Hilda and Victor Zavaroni
 <cite><a href="https://www.tvbrain.info/tv-archive?showname=Opportunity+Knocks&type=lostshow#:~:text=With%20Paul%20and%20Suzy%20Brown%2C%20Mike%20Donohoe%2C%20Les%20Filles%20De%20Paris%2C%20Blue%2C%20Hilda%20and%20Victor%20Zavaroni">TV Brain</a></cite>

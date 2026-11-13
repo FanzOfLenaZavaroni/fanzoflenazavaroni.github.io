@@ -7,7 +7,7 @@ description: Mrs. Slocombe makes a comment about Lena Zavaroni.
 post_description: Episode 7.5 - The Hero - Mrs. Slocombe makes a comment about Lena Zavaroni.
 image: /assets/images/BBC-PIDs/1920xn/p01tlmqw.jpg
 categories: [Television-BBC One, Are You Being Served?, Popular Culture, OnThisDay16November]
-last_modified_at: 15 November 2023
+last_modified_at: 13 November 2026
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Popular Culture: The Sitcom makes a short reference about Lena Zavaroni</a></h2>
@@ -46,8 +46,10 @@ last_modified_at: 15 November 2023
 <p>The sitcom was broadcast on BBC One, yet due to the poor way the BBC schedules pages are managed, it is made to look as though the show was first broadcast on BBC Two. This demonstrates how little care the BBC takes with its own history. It also makes research unnecessarily difficult for anyone interested in past programmes.</p>
 <p>The problem is simple to fix. The schedules section of the BBC website should only list upcoming broadcasts, rather than sending its content to the Genome Project site via the BBC’s internal API. This would prevent contradictory information about which channel a programme was originally shown on.</p>
 <p>A better solution, given the BBC’s desire to link programmes currently available on iPlayer, would be to ensure that content from the schedules pages is displayed on the related Genome Project page in a separate section. That way, it would be clear that the information relates to current broadcasts, not the original transmission.</p>
+<p><strong>Update (13 November 2026):</strong> The Genome page has final been updated to show BBC One but the logo and main details still show BBC Two so it still means a visitor to Genome may well believe it was first on BBC Two if they only take a quick look at the page and go by the visual only that is the BBC Two logo.</p>
 
 <h2 id="infobox5"><a href="#infobox5">Other examples of how little broadcast history matters to the BBC</a></h2>
 <ul>
 <li><a href="/2010-11-14-sings-neil-diamond/#infobox4">Even the editor of the page is confused</a></li>
 </ul>
+
