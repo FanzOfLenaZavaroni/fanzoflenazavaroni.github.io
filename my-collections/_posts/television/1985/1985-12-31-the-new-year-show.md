@@ -1,64 +1,59 @@
 ---
 layout: post
-title: The New Year Show
-maintitle: The New Year Show
+title: The New Year Show 1985
+maintitle: The New Year Show 1985
 subtitle: Scottish Television
 description: Laird O' Cowcaddens jack McLaughlin hosts STV's classic New Year bash from 1985. Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, Andy Cameron, Russ Abbott, Sydney Devine, the Alexander Brothers and many more.
 post_description: Laird O' Cowcaddens jack McLaughlin hosts STV's classic New Year bash from 1985. Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, Andy Cameron, Russ Abbott, Sydney Devine, the Alexander Brothers and many more.
-categories: [Television-Scottish Television (STV), The New Year Show, OnThisDay31December]
+categories: [Television-Scottish Television (STV), The New Year Show 1985, OnThisDay31December]
 last_modified_at: 22 November 2023
 ---
 
-<table>
-<tr style="width:50%; text-align:center;">
-<th colspan="2">View Details</th>
-</tr>
+{% assign tb_posts = site.posts
+    | where_exp: "post", "post.categories contains 'The New Year Show 1985'"
+    | sort: "date" %}
 
-<tr style="text-align:center;">
-<td style="width:50%;"><a href="/1985-11-21-Lenas-pre-recorded-sequence-for-the-new-year-show-is-recorded">Lena's Pre-recorded Sequence</a></td>
-<td style="width:50%;"><a href="/1985-12-31-the-new-year-show">The New Year Show &#x2714;</a></td>
-</tr>
-</table>
+<div style="background-color: #f3f3f3; padding: 10px; border-radius: 5px; text-align: center;">
+  {% if page.url == tb_posts[1].url %}
+    <a href="{{ tb_posts[0].url }}">« Lena's Pre-recorded Sequence</a>
+  {% else %}
+    <a href="{{ tb_posts[1].url }}">The New Year Show 1985 »</a>
+  {% endif %}
+</div>
+
+<br />
 
 Laird O' Cowcaddens jack McLaughlin hosts STV's classic New Year bash from 1985.
 
 Set in the old Thingummyjig studio and featuring the talents of Allan Stewart, Andy Cameron, Russ Abbott, Sydney Devine, the Alexander Brothers and many more.
 
-<div class="responsive-video"><iframe width="640px" height="480px" src="https://www.youtube.com/embed/iOWvho3ZSKw?rel=0&showinfo=1" frameborder="0" allowfullscreen=""></iframe></div>
+<h2 id="infobox1"><a href="#infobox1">Cast</a></h2>
 
-<cite>If you decide to watch this show on New Years Eve then start the video at 13 minutes to midnight for the Bells of the Elizabeth tower to ring at midnight</cite>
+<ul>
+<li><strong>Host:</strong> Jack McLaughlin- dubbed “The Laird o’ Coocaddens”:</li>
+<li><strong>On screen participant:</strong> Russ Abbott:</li>
+<li><strong>On screen participant:</strong> Andy Cameron:</li>
+<li><strong>On screen participant:</strong> Allan Stewart:</li>
+<li><strong>On screen participant:</strong> Sydney Devine:</li>
+<li><strong>On screen participant:</strong> The Alexander Brothers:</li>
+<li><strong>On screen participant:</strong> Peter Morrison:</li>
+<li><strong>On screen participant:</strong> The John Carmichael Band:</li>
+<li><strong>On screen participant:</strong> The New Year Dancers:</li>
+<li><strong><a href="/1985-11-21-Lenas-pre-recorded-sequence-for-the-new-year-show-is-recorded">Pre-recorded Sequence</a>:</strong> Lena Zavaroni performed &quot;Auld Lang Syne&quot;:</li>
+</ul>
 
-<figure class="fig3">
-<h2 id="cast"><a href="#cast">Cast</a></h2>
-<table>
-<tr><th style="width:50%;">Host</th><td style="width:50%;">Jack McLaughlin- dubbed “The Laird o’ Coocaddens”</td></tr>
-<tr><th>On screen participant</th><td>Russ Abbott</td></tr>
-<tr><th>On screen participant</th><td>Andy Cameron</td></tr>
-<tr><th>On screen participant</th><td>Allan Stewart</td></tr>
-<tr><th>On screen participant</th><td>Sydney Devine</td></tr>
-<tr><th>On screen participant</th><td>The Alexander Brothers</td></tr>
-<tr><th>On screen participant</th><td>Peter Morrison</td></tr>
-<tr><th>On screen participant</th><td>The John Carmichael Band</td></tr>
-<tr><th>On screen participant</th><td>The New Year Dancers</td></tr>
-<tr><th><a href="/1985-11-21-Lenas-pre-recorded-sequence-for-the-new-year-show-is-recorded">Pre-recorded Sequence</a></th><td>Lena Zavaroni performed &quot;Auld Lang Syne&quot;</td></tr>
-</table>
-</figure>
+<h2 id="infobox2"><a href="#infobox2">Crew</a></h2>
 
-<figure class="fig3">
-<h2 id="crew"><a href="#crew">Crew</a></h2>
-<table>
-<tr><th style="width:50%;">Choreography</th><td style="width:50%;">Pat Armet</td></tr>
-<tr><th>Musical director</th><td>David Pringle</td></tr>
-<tr><th>Sound supervisor</th><td>Garth Mason</td></tr>
-<tr><th>Lighting director</th><td>Ron Higgs</td></tr>
-<tr><th>Production assistant</th><td>Lesley McCrae</td></tr>
-<tr><th>Programme Associate</th><td>Stanley Pettigrew</td></tr>
-<tr><th>Designer</th><td>Marius Van Der Werff</td></tr>
-<tr><th>Producer</th><td>David Bell</td></tr>
-<tr><th>Director</th><td>Anne Mason</td></tr>
-<tr><th>Production Company</th><td>Scottish Television (STV)</td></tr>
-</table>
-</figure>
-
-<br />{: .clear}
+<ul>
+<li><strong>Choreography:</strong> Pat Armet:</li>
+<li><strong>Musical director:</strong> David Pringle:</li>
+<li><strong>Sound supervisor:</strong> Garth Mason:</li>
+<li><strong>Lighting director:</strong> Ron Higgs:</li>
+<li><strong>Production assistant:</strong> Lesley McCrae:</li>
+<li><strong>Programme Associate:</strong> Stanley Pettigrew:</li>
+<li><strong>Designer:</strong> Marius Van Der Werff:</li>
+<li><strong>Producer:</strong> David Bell:</li>
+<li><strong>Director:</strong> Anne Mason:</li>
+<li><strong>Production Company:</strong> Scottish Television (STV):</li>
+</ul>
 

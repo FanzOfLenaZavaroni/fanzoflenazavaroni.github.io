@@ -2,7 +2,7 @@
 layout: discography
 title: If My Friends Could See Me Now
 maintitle: If My Friends Could See Me Now
-extra: ", UK CD Re-Release Of The Original Recording"
+suffix: ", UK CD Re-Release Of The Original Recording"
 subtitle: CD Re-Release Of The Original Recording
 description: CD Re-Release Of The Original Recording.
 post_description: CD Re-Release Of The Original Recording.
