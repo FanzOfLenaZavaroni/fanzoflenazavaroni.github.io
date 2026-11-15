@@ -2,11 +2,10 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
-- [Update 1991-11-12-daily-record.md and 1982-11-11-the-stage-and-televi…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f3b28c3d0f480ca9fca63ef7bed1f44a05614479)
-- [Update 1982-11-10-het-parool.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/701b3f1cb4961584047c67f3e21226ea9581bbab)
-- [Update 1976-11-10-daily-record.md, 1976-11-10-the-daily-record.md, an…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/91a6e74a08db6e944ea1c0ccdd7ddc16ba1e134f)
-- [Update categories.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d8a2ca2c93b5583cf3cf7401c3d94be99e03401a)
-- [Update 1976-11-10-the-daily-record.md, 1991-11-12-the-daily-record.md…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/a2d10c74bd6d604364f197e33030008761771fd2)
+- [Update 2022-09-18-memory-mobility-and-material-culture.md, 1979-11-17…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/8d9eca9289a9fd78c1cbc01c09524fd3c7513e84)
+- [Update 1974-04-ma-hes-making-eyes-at-me-uk.md, 1974-06-ma-hes-making-…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/df8197379e962075d23ed91c49add3de50d2f6b2)
+- [Update discography.html, ma-hes-making-eyes-at-me.md, and 7 more file…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b263f6a6a4c0d3b379fa425791debcdc8087cf07)
+- [Reset Comment History](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6ef8beba0b60cbbb34d00be2e8532a9a50c4a6cd)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
