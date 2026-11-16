@@ -5,7 +5,7 @@ maintitle: The Herald Scotland
 subtitle: Home town memorial to Lena Zavaroni unveiled
 description: Alison Smith, fund co-ordinator for the memorial on the Isle of Bute, said&#58; "Some friends and I decided that a monument to Lena Zavaroni was needed in Rothesay".
 post_description: Alison Smith, fund co-ordinator for the memorial on the Isle of Bute, said&#58; "Some friends and I decided that a monument to Lena Zavaroni was needed in Rothesay".
-categories: [Newspaper-Herald Scotland, OnThisDay23August]
+categories: [Newspaper-Glasgow Herald, OnThisDay23August]
 ---
 
 <h2 id="infobox1"><a href="#infobox1">Quote</a></h2>

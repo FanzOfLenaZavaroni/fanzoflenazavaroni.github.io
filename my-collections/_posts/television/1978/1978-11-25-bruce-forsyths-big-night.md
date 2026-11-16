@@ -13,38 +13,40 @@ last_modified_at: 22 November 2023
 
 <p>They then perform a duet of Something Extra to close the show.</p>
 
-<table>
-<tr><th colspan="2">Cast</th></tr>
-<tr><th style="width:50%;">Presenter</th><td style="width:50%;">Bruce Forsyth</td></tr>
-<tr><th>Co-Presenter</th><td>Anthea Redfern</td></tr>
-<tr><th>Guest</th><td>Lena Zavaroni</td></tr>
-<tr><th>Guest</th><td>James Hunt</td></tr>
-<tr><th>Guest</th><td>Tessa Wyatt</td></tr>
-<tr><th>Guest</th><td>Christian</td></tr>
-<tr><th>Guest</th><td>Martin Shaw</td></tr>
-<tr><th>Guest</th><td>Alex Stepney</td></tr>
-<tr><th>Dance Troupe</th><td>Thirty Two Feet</td></tr>
-<tr><th>Vocal accompaniment</th><td>The Third Kind</td></tr>
-<tr><th>Musical accompaniment</th><td>Alyn Ainsworth And His Orchestra</td></tr>
-</table>
+<h2 id="infobox1"><a href="#infobox1">Cast</a></h2>
 
-<table>
-<tr><th colspan="2">Crew</th></tr>
-<tr><th style="width:50%;">Choreography</th><td style="width:50%;">Bryan Rogers</td></tr>
-<tr><th>Choreography</th><td>Ken Warwick</td></tr>
-<tr><th>Musical associate</th><td>Don Hunt</td></tr>
-<tr><th>Musical associate</th><td>Trevor Brown</td></tr>
-<tr><th>Programme associate</th><td>Barry Cryer</td></tr>
-<tr><th>Programme associate</th><td>Garry Chambers</td></tr>
-<tr><th>Programme associate</th><td>Colin Bostock-Smith</td></tr>
-<tr><th>Programme associate</th><td>Andrew Marshall</td></tr>
-<tr><th>Programme associate</th><td>David Renwick</td></tr>
-<tr><th>Floor manager</th><td>John Quilty</td></tr>
-<tr><th>Production manager</th><td>Myra Hersh</td></tr>
-<tr><th>Executive producer</th><td>David Bell</td></tr>
-<tr><th>Director</th><td>John Kaye Cooper</td></tr>
-<tr><th>Director</th><td>David Crossman</td></tr>
-<tr><th>Director</th><td>David Bell</td></tr>
-<tr><th>Production company</th><td>London Weekend Television</td></tr>
-</table>
-<br />{: .clear}
+<ul>
+<li><strong>Presenter:</strong> Bruce Forsyth</li>
+<li><strong>Co-Presenter:</strong> Anthea Redfern</li>
+<li><strong>Guest:</strong> Lena Zavaroni</li>
+<li><strong>Guest:</strong> James Hunt</li>
+<li><strong>Guest:</strong> Tessa Wyatt</li>
+<li><strong>Guest:</strong> Christian</li>
+<li><strong>Guest:</strong> Martin Shaw</li>
+<li><strong>Guest:</strong> Alex Stepney</li>
+<li><strong>Dance Troupe:</strong> Thirty Two Feet</li>
+<li><strong>Vocal accompaniment:</strong> The Third Kind</li>
+<li><strong>Musical accompaniment:</strong> Alyn Ainsworth And His Orchestra</li>
+</ul>
+
+<h2 id="infobox2"><a href="#infobox2">Crew</a></h2>
+
+<ul>
+<li><strong>Choreography:</strong> Bryan Rogers</li>
+<li><strong>Choreography:</strong> Ken Warwick</li>
+<li><strong>Musical associate:</strong> Don Hunt</li>
+<li><strong>Musical associate:</strong> Trevor Brown</li>
+<li><strong>Programme associate:</strong> Barry Cryer</li>
+<li><strong>Programme associate:</strong> Garry Chambers</li>
+<li><strong>Programme associate:</strong> Colin Bostock-Smith</li>
+<li><strong>Programme associate:</strong> Andrew Marshall</li>
+<li><strong>Programme associate:</strong> David Renwick</li>
+<li><strong>Floor manager:</strong> John Quilty</li>
+<li><strong>Production manager:</strong> Myra Hersh</li>
+<li><strong>Executive producer:</strong> David Bell</li>
+<li><strong>Director:</strong> John Kaye Cooper</li>
+<li><strong>Director:</strong> David Crossman</li>
+<li><strong>Director:</strong> David Bell</li>
+<li><strong>Production company:</strong> London Weekend Television</li>
+</ul>
+

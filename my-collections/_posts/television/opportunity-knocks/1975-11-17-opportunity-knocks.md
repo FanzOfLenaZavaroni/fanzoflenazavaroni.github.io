@@ -51,10 +51,11 @@ last_modified_at: 13 November 2026
 
 <br />
 
-With Paul and Suzy Brown, Mike Donohoe, Les Filles De Paris, Blue, Hilda and Victor Zavaroni
+<p>With Paul and Suzy Brown, Mike Donohoe, Les Filles De Paris, Blue, Hilda and Victor Zavaroni</p>
+
 <cite><a href="https://www.tvbrain.info/tv-archive?showname=Opportunity+Knocks&type=lostshow#:~:text=With%20Paul%20and%20Suzy%20Brown%2C%20Mike%20Donohoe%2C%20Les%20Filles%20De%20Paris%2C%20Blue%2C%20Hilda%20and%20Victor%20Zavaroni">TV Brain</a></cite>
 
-Lena sponsored her parents Victor and Hilda on the show under the name The Zavaronis.
+<p>Lena sponsored her parents Victor and Hilda on the show under the name The Zavaronis.</p>
 
-They had previously applied in 1973 but did not make it passed the qualifying heats.
+<p>They had previously applied in 1973 but did not make it passed the qualifying heats.</p>
 

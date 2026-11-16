@@ -5,7 +5,7 @@ maintitle: The Papers reported on the final day of the inquest into the death of
 subtitle: List of just some of the articles published on this day
 description: The Papers reported on the final day of the inquest into the death of Lena Zavaroni.
 post_description: A list of just some of the articles published on this day.
-categories: [Newspaper-Guardian, "Newspaper-Herald, Scotland", Newspaper-Independent, OnThisDay9December]
+categories: [Newspaper-Guardian, "Newspaper-Glasgow Herald", Newspaper-Independent, OnThisDay9December]
 last_modified_at: 26 October 2026
 ---
 
