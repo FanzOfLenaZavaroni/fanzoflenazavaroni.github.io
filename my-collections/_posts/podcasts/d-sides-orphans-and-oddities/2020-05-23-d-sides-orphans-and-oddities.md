@@ -8,7 +8,7 @@ post_description: The Les Humphries Singers Tribute!!!
 categories: [Discography Podcasts, D Sides Orphans and Oddities, OnThisDay23May]
 tags: podcasts
 permalink: /discography/podcasts/:name
-last_modified_at: 14 Jube 2025
+last_modified_at: 20 November 2026
 ---
 
 <h2><svg class="icon" viewBox="0 0 512 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
@@ -20,7 +20,7 @@ last_modified_at: 14 Jube 2025
 <p>D-Sides, Orphans, and Oddities on Saturdays at 18:00hrs: <a class="external-link" href="https://whupfm.org/show/d-sides-orphans-oddities">WHUP Radio 104.7 FM</a></p>
 </div>
 
-<h2 id="infobox2" class="infobox"><a href="#infobox2">The Les Humphries Singers Tribute!!!</a></h2>
+<h2 id="infobox1"><a href="#infobox1">The Les Humphries Singers Tribute!!!</a></h2>
 
 <p>Rose Tattoo - We Can’t Be Beaten (1982) Sounds like AC/DC, no? Same producers. I love Rose Tattoo. I have discovered lots of good stuff doing this show. I like this band</p>
 <p>Andy Williams - Age of Aquarius/Let The Sun Shine In (1969) As I said, Andy tied EVERYTHING. He refused to be tied down.</p>

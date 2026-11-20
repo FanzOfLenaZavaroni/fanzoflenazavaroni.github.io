@@ -7,14 +7,14 @@ post_description: Opportunity Knocks!
 categories: [Discography Podcasts, OnThisDay3June]
 tags: podcasts
 permalink: /discography/podcasts/:name
-last_modified_at: 3 June 2026
+last_modified_at: 20 November 2026
 ---
 
 <h2><svg class="icon" viewBox="0 0 512 512"><use href="/assets/icons/icons.svg#globe"></use></svg> Podcast Spoken In English</h2>
 
 <iframe src="https://www.listennotes.com/podcasts/my-70s-tv-childhood/opportunity-knocks-kOsgclmxIJM/embed/" height="170px" width="100%" style="width: 1px; min-width: 100%;" loading="lazy" frameborder="0" scrolling="no"></iframe>
 
-<h2 id="infobox2" class="infobox"><a href="#infobox2">ABOUT THIS EPISODE</a></h2>
+<h2 id="infobox1"><a href="#infobox21">ABOUT THIS EPISODE</a></h2>
 
 <blockquote>
 <p>This week, I take a nostalgic journey through one of the most iconic talent shows of the 1970s – "Opportunity Knocks!" While watching modern talent competitions like "Britain's Got Talent" and "The Masked Singer," I found myself reminiscing about Monday evenings in the 70s when families across Britain would gather around their televisions to watch aspiring performers compete for fame on Hughie Green's legendary show.</p>
