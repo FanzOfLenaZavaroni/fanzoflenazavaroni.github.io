@@ -15,8 +15,8 @@ categories: [Books, OnThisDay26April]
 <li><strong>Publisher:</strong> John Blake</li>
 <li><strong>Hardcover:</strong> 26 April 2010</li>
 <li><strong>Language:</strong> English</li>
-<li><strong>ISBN10:</strong> <a href="https://www.google.co.uk/search?q=isbn+1844549216+&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&dcr=0&ei=JKS_Wp3NK6rP8Af8-oaACg">1844549216</a></li>
-<li><strong>ISBN13:</strong> <a href="https://www.google.co.uk/search?q=isbn+978-1844549214&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&dcr=0&ei=eaS_WonTIqrP8Af8-oaACg">978-1844549214</a></li>
+<li><strong>ISBN10:</strong> <a class="external-link" href="https://www.google.com/search?q=isbn+1844549216">1844549216</a></li>
+<li><strong>ISBN13:</strong> <a class="external-link" href="https://www.google.com/search?q=isbn+978-1844549214">978-1844549214</a></li>
 <li><strong>Options To Borrow Via:</strong> <a class="external-link" href="https://archive.org/details/heartsoul0000bell?q=lena+zavaroni">The Internet Archive</a></li>
 </ul>
 

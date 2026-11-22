@@ -19,8 +19,8 @@ last_modified_at: 2 November 2025
 <ul>
 <li><strong>Full Title:</strong> Doodles in Depression</li>
 <li><strong>Author:</strong> Lorna Naomi Murray</li>
-<li><strong>ISBN-10:</strong> 1847471595</li>
-<li><strong>ISBN-13:</strong> 978-1847471598</li>
+<li><strong>ASIN:</strong> <a class="external-link" href="https://www.google.com/search?q=asin+B002ZCY976">B002ZCY976</a></li>
+<li><strong>ISBN-13:</strong> <a class="external-link" href="https://www.google.com/search?q=isbn+978-1847471598">978-1847471598</a></li>
 <li><strong>Formats:</strong> PDF eBook</li>
 <li><strong>Published:</strong> 2007</li>
 <li><strong>Publisher:</strong> <a class="external-link" href="https://chipmunkapublishing.com/product/chipmunka-anthology-volume-three-the/">Chipmunka Publishing Ltd</a></li>

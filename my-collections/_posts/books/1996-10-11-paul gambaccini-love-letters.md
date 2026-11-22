@@ -16,8 +16,8 @@ last_modified_at: 11 October 2026
 <li><strong>Author</strong> Paul Gambaccini</li>
 <li><strong>Publisher</strong> Michael O'Mara Books Ltd</li>
 <li><strong>Hardback</strong> 11 October 1996</li>
-<li><strong>ISBN-10</strong> <a href="https://www.google.co.uk/search?q=isbn+1854796445+&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&dcr=0&ei=JKS_Wp3NK6rP8Af8-oaACg">1854796445</a></li>
-<li><strong>ISBN-13</strong> <a href="https://www.google.co.uk/search?q=isbn+9781854796448&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&dcr=0&ei=eaS_WonTIqrP8Af8-oaACg">978-1854796448</a></li>
+<li><strong>ISBN-10</strong> <a class="external-link" href="https://www.google.com/search?q=isbn+1854796445">1854796445</a></li>
+<li><strong>ISBN-13</strong> <a class="external-link" href="https://www.google.com/search?q=isbn+978-1854796448">978-1854796448</a></li>
 </ul>
 
 <h2 id="infobox2"><a href="#infobox2">Quote</a></h2>

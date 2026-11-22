@@ -19,8 +19,8 @@ last_modified_at: 23 March 2026
 <li><strong>Hardback</strong> 6 June 2013</li>
 <li><strong>Kindle Edition</strong> 6 June 2013</li>
 <li><strong>Paperback</strong> 27 March 2014</li>
-<li><strong>ISBN-10</strong> <a href="https://www.google.co.uk/search?q=isbn+140903318X+&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&dcr=0&ei=JKS_Wp3NK6rP8Af8-oaACg">140903318X</a></li>
-<li><strong>ISBN-13</strong> <a href="https://www.google.co.uk/search?q=isbn+9781409033189&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&dcr=0&ei=eaS_WonTIqrP8Af8-oaACg">978-1409033189</a></li>
+<li><strong>ISBN-10</strong> <a href="https://www.google.co.uk/search?q=isbn+140903318X">140903318X</a></li>
+<li><strong>ISBN-13</strong> <a href="https://www.google.co.uk/search?q=isbn+978-1409033189">978-1409033189</a></li>
 </ul>
 
 <h2 id="infobox2"><a href="#infobox2">REHAB by Amy Winehouse</a></h2>

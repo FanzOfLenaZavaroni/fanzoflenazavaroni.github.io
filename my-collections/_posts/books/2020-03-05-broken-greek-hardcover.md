@@ -14,7 +14,8 @@ categories: [Books, Pete Paphides, OnThisDay5March]
 <li><strong>Author:</strong> Pete Paphides</li>
 <li><strong>Publisher:</strong> Quercus</li>
 <li><strong>Hardcover:</strong> 5 March 2020</li>
-<li><strong>ISBN:</strong> <a href="https://www.google.co.uk/search?q=isbn+1529404436+&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&dcr=0&ei=JKS_Wp3NK6rP8Af8-oaACg">1529404436</a> / <a href="https://www.google.co.uk/search?q=isbn+978-1529404432&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&dcr=0&ei=eaS_WonTIqrP8Af8-oaACg">978-1529404432</a></li>
+<li><strong>ISBN-10</strong> <a href="https://www.google.co.uk/search?q=isbn+1529404436">1529404436</a></li>
+<li><strong>ISBN-13</strong> <a href="https://www.google.co.uk/search?q=isbn+978-1529404432">978-1529404432</a></li>
 </ul>
 
 <h2 id="infobox2"><a href="#infobox2">Pete Paphides</a></h2>

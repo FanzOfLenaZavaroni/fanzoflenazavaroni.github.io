@@ -14,8 +14,8 @@ categories: [Books, OnThisDay23October]
 <li><strong>Author:</strong> John Peel</li>
 <li><strong>Publisher:</strong> Transworld LTD, Bantam Interactive Technology Press</li>
 <li><strong>Hardback:</strong> 23 October 2008</li>
-<li><strong>ISBN-10:</strong> <a class="external-link" href="https://www.google.com/search?newwindow=1&sxsrf=ALeKk03F-4UY6wagNLHirGhTP5m727GwEg%3A1602837158655&ei=plqJX5HOJ_PwxgPPiY_IBw&q=ISBN+10%3A+059306061X&oq=ISBN+10%3A+059306061X&gs_lcp=CgZwc3ktYWIQAzoHCAAQRxCwA1CxoQNYorgDYNO-A2gBcAB4AIABU4gB4QGSAQEzmAEAoAECoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwiRueXb2bjsAhVzuHEKHc_EA3kQ4dUDCA0&uact=5">059306061X</a></li>
-<li><strong>ISBN-13:</strong> <a class="external-link" href="https://www.google.com/search?newwindow=1&sxsrf=ALeKk01Xs9W_KvczYH6TAbK7ZYGgyJ12-A%3A1602837152968&ei=oFqJX6_TOsCV1fAP-r2bwA8&q=ISBN+13%3A+978-0593060612&oq=ISBN+13%3A+978-0593060612&gs_lcp=CgZwc3ktYWIQA1DwIVjwIWCaJ2gBcAB4AIABuAGIAbgBkgEDMC4xmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwivo4rZ2bjsAhXAShUIHfreBvgQ4dUDCA0&uact=5">978-552157049</a></li>
+<li><strong>ISBN-10:</strong> <a class="external-link" href="https://www.google.com/search?q=isbn+059306061X">059306061X</a></li>
+<li><strong>ISBN-13:</strong> <a class="external-link" href="https://www.google.com/search?q=isbn+978-0593060612">978-0593060612</a></li>
 </ul>
 
 <h2 id="infobox2"><a href="infobox2">Synopsis</a></h2>

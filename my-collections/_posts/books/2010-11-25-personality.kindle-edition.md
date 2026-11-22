@@ -14,8 +14,8 @@ categories: [Books, Andrew O'Hagan, OnThisDay25November]
 <ul class="columns2">
 <li><strong>Author:</strong> Andrew O'Hagan</li>
 <li><strong>Publisher:</strong> Faber & Faber</li>
-<li><strong>Paperback:</strong> 25 November 2010</li>
-<li><strong>ASIN::</strong> <a href="https://www.google.co.uk/search?q=ASIN%3A+B004EPXXEM&ie=utf-8&client=firefox-b-ab&gfe_rd=cr">B004EPXXEM</a></li>
+<li><strong>Kindle:</strong> 25 November 2010</li>
+<li><strong>ASIN::</strong> <a class="external-link" href="https://www.google.com/search?q=asin+B004EPXXEM">B004EPXXEM</a></li>
 </ul>
 
 <h2 id="infobox2"><a href="#infobox2">Summary</a></h2>

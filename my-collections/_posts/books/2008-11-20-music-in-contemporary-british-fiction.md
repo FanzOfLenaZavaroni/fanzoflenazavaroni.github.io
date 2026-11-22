@@ -11,8 +11,8 @@ categories: [Books, OnThisDay20November]
 <ul>
 <li><strong>Full Title:</strong> Music in Contemporary British Fiction: Listening to the Novel</li>
 <li><strong>Author:</strong> Gerry Smyth</li>
-<li><strong>ISBN-10:</strong> <a class="external-link" href="https://www.google.com/search?newwindow=1&sca_esv=9c49312c20cc6857&q=ISBN+0230573282&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZjSkgYzz5-5RrRWAIniWd7tzPwkE1KJWcRvaH01D-XIXTYhw3sUsPNmTrOdMVwPeve4yjdJhe1ojY153PO60ra7GlbV6DICh0-DH2zAo1tqdnqFc7sSPglfOrZCdUe7uZsSlcPAYPayiXO-oaH9nvsVVZdYVW0B6arpz80surNcLr-XYXJqOF0pEp3LvmrFO_CO0uNg&sa=X&ved=2ahUKEwiH8v_B6YCRAxVXT0EAHYC-KfUQ0pQJegQIEBAB&biw=1920&bih=919&dpr=1">0230573282</a></li>
-<li><strong>ISBN-13</strong> <a class="external-link" href="https://www.google.com/search?q=ISBN+978-0230573284&newwindow=1&sca_esv=9c49312c20cc6857&biw=1920&bih=919&ei=SBYfafDnF_WEhbIPna--2Qo&ved=0ahUKEwjwq4jO6YCRAxV1QkEAHZ2XL6sQ4dUDCBE&uact=5&oq=ISBN+978-0230573284&gs_lp=Egxnd3Mtd2l6LXNlcnAiE0lTQk4gOTc4LTAyMzA1NzMyODQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FSPwQUKsHWKsHcAJ4AJABAJgBkQKgAZECqgEDMi0xuAEDyAEA-AEC-AEBmAIDoAKiAsICCxAAGIAEGLADGKIEmAMAiAYBkAYFkgcFMi4wLjGgB58CsgcDMi0xuAeUAsIHBTAuMi4xyAcL&sclient=gws-wiz-serp">978-0230573284</a></li>
+<li><strong>ISBN-10:</strong> <a class="external-link" href="https://www.google.co.uk/search?q=isbn+0230573282">0230573282</a></li>
+<li><strong>ISBN-13</strong> <a class="external-link" href="https://www.google.co.uk/search?q=isbn+978-0230573284">978-0230573284</a></li>
 <li><strong>Formats:</strong> Hardback</li>
 <li><strong>Publisher:</strong> Palgrave Macmillan (20/11/2008)</li>
 <li><strong>Google Books:</strong> <a class="external-link" href="https://books.google.co.uk/books?redir_esc=y&id=UbULAQAAMAAJ&focus=searchwithinvolume&q=Zavaroni">Music in Contemporary British Fiction, Search: Zavaroni</a></li>

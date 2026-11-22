@@ -14,8 +14,8 @@ categories: [Books, Andrew O'Hagan, OnThisDay7April]
 <li><strong>Author:</strong> Andrew O'Hagan</li>
 <li><strong>Publisher:</strong> Faber & Faber; 1st edition</li>
 <li><strong>Paperback:</strong> 7 April 2003</li>
-<li><strong>ISBN10:</strong> <a href="https://www.google.co.uk/search?q=isbn+0571195016+&ie=utf-8&client=firefox-b-ab&gfe_rd=cr">0571195016</a></li>
-<li><strong>ISBN13:</strong> <a href="https://www.google.co.uk/search?q=isbn+978-0571195015&ie=utf-8&client=firefox-b-ab&gfe_rd=cr"> 978-0571195015</a></li>
+<li><strong>ISBN10:</strong> <a class="external-link" href="https://www.google.com/search?q=isbn+0571195016">0571195016</a></li>
+<li><strong>ISBN13:</strong> <a class="external-link" href="https://www.google.com/search?q=isbn+978-0571195015">978-0571195015</a></li>
 </ul>
 
 <h2 id="infobox2"><a href="#infobox2">Summary</a></h2>

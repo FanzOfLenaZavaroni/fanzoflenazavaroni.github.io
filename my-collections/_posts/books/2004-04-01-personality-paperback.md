@@ -14,8 +14,8 @@ categories: [Books, Andrew O'Hagan, OnThisDay1April]
 <li><strong>Author:</strong> Andrew O'Hagan</li>
 <li><strong>Publisher:</strong> Faber & Faber</li>
 <li><strong>Paperback:</strong> 1 April 2004</li>
-<li><strong>ISBN10:</strong> <a href="https://www.google.co.uk/search?q=isbn+0571217753+&ie=utf-8&client=firefox-b-ab&gfe_rd=cr">0571217753</a></li>
-<li><strong>ISBN13:</strong> <a href="https://www.google.co.uk/search?q=isbn+978-0571217755&ie=utf-8&client=firefox-b-ab&gfe_rd=cr">978-0571217755</a></li>
+<li><strong>ISBN10:</strong> <a class="external-link" href="https://www.google.com/search?q=isbn+0571217753">0571217753</a></li>
+<li><strong>ISBN13:</strong> <a class="external-link" href="https://www.google.com/search?q=isbn+978-0571217755">978-0571217755</a></li>
 </ul>
 
 <h2 id="infobox2"><a href="#infobox2">Summary</a></h2>

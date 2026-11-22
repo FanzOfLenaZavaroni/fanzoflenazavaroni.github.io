@@ -14,8 +14,8 @@ categories: [Books, OnThisDay18November]
 <ul>
 <li><strong>Full Title:</strong> Memory, Mobility, and Material Culture</li>
 <li><strong>Edition:</strong> 1st edition</li>
-<li><strong>Hardback:</strong> <a class="external-link" href="https://www.google.com/search?q=isbn+9780367631918&newwindow=1&sca_esv=9d3573bd1f78f23b&sxsrf=AKL5yDh6T48HJX52jLlwM9_AqOtq9MAppQ%3A1794592540084&ei=HE_3apnWBL2whbIPg5iV2AM&biw=1920&bih=919&uact=5&oq=isbn+9780367631918&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmlzYm4gOTc4MDM2NzYzMTkxODIFEAAY7wVItw5Q1QdY1QdwAngAkAEAmAHgAaAB4AGqAQMyLTG4AQPIAQD4AQL4AQGYAgOgAvYBwgILEAAYgAQYogQYsAPCAggQABjvBRiwA5gDAIgGAZAGBZIHBTIuMC4xoAdSsgcDMi0xuAfmAcIHBTAuMS4yyAcLgAgB&sclient=gws-wiz-serp">ISBN 9780367631918</a></li>
-<li><strong>eBook:</strong> <a class="external-link" href="https://www.google.com/search?q=isbn+9781003112457&newwindow=1&sca_esv=9d3573bd1f78f23b&sxsrf=AKL5yDhdnhXvH5FtD5uYFvgX19Xbcmef-w%3A1794592536711&source=hp&ei=GE_3aoODKcPMhbIPxeOxkQQ&iflsig=AHSINFcAAAAAavddKMhRU_rUO0GS-Hyp56GSICVS4kTM&ved=2ahUKEwiD76iVwoWYAxVDZkEAHcVxLEIQ4dUDegQIABAr&uact=5&oq=isbn+9781003112457&gs_lp=Egdnd3Mtd2l6IhJpc2JuIDk3ODEwMDMxMTI0NTcyCBAAGIAEGKIESMQKUABYAHAAeACQAQCYAZgBoAGYAaoBAzAuMbgBA8gBAPgBAvgBAZgCAaACnQGYAwCSBwMwLjGgB1yyBwMwLjG4B50BwgcDMC4xyAcCgAgB&sclient=gws-wiz">ISBN 9781003112457</a></li>
+<li><strong>Hardback:</strong> <a class="external-link" href="https://www.google.com/search?q=isbn+978-0367631918">ISBN 978-0367631918</a></li>
+<li><strong>eBook:</strong> <a class="external-link" href="https://www.google.com/search?q=isbn+978-1003112457">ISBN 978-1003112457</a></li>
 <li><strong>Formats:</strong> Hardback, eBook</li>
 <li><strong>Publisher:</strong> Routledge (18/11/2022)</li>
 </ul>
