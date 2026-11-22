@@ -3,7 +3,7 @@ name: Delete all workflow runs
 on:
   workflow_dispatch:        # manual trigger
   schedule:
-    - cron: "0 20 * * 0"    # every Sunday at 23:00 UTC
+    - cron: "0 20 * * 0"    # every Sunday at 20:00
 
 jobs:
   cleanup:
