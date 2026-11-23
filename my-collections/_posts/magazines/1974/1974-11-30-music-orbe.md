@@ -7,7 +7,8 @@ subtitle: Mexican magazine
 description: Featured an article about Lena Zavaroni it contained two black and white photos, one of which shows Lena wearing a sombrero.
 post_description: Featured an article about Lena Zavaroni it contained two black and white photos, one of which shows Lena wearing a sombrero.
 categories: [Magazine-Music Orbe, OnThisDay30November]
+onthisdaylink: false
 ---
 
-Featured an article about Lena Zavaroni it contained two black and white photos, one of which shows Lena wearing a sombrero.
+<p>{{ page.post_description }}</p>
 
