@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update 2020-11-16-Newsbank.md and 2020-11-16-the-glasgow-herald.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/affdd035fdd3ca6e2ef0c2ddc0d93bdd855d98a0)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d0772a16fc9bd938ef649037ac25dbc9cb5d7696)
 - [Update 1978-11-24-the-evening-times.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/aa24dc805c9a86e1a8be95522732dd4c21329c5c)
 - [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/d9d5d0b5a0385afc34797d636123a947c05a2ff8)
 - [Update workflow to delete old runs with new settings](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/b29de6f1c38575625c6920f86486e59f2a92cff1)
-- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/9fe8bd60bc0a3082e0c915e553ba6cba15f5091a)
-- [Update workflow to use &#39;main&#39; branch and actions version](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f704dfb7ddf2efc59f385ee235f1eac526b307f2)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
