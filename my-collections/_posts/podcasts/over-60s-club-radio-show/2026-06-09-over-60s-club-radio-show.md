@@ -3,8 +3,8 @@ layout: post
 title: Over 60's Club Radio Show - 09 June 2026 &#124; 9 June 2026
 maintitle: Over 60's Club Radio Show
 subtitle: by MAGICian
-description: 
-post_description: 
+description: "Classic tracks, Deep Cuts and Rarities from the 60's, 70's and occasional 80's"
+post_description: "Classic tracks, Deep Cuts and Rarities from the 60's, 70's and occasional 80's"
 categories: [Discography Podcasts, OnThisDay9June]
 tags: podcasts
 permalink: /discography/podcasts/:name
