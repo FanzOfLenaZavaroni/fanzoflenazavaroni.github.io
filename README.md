@@ -2,11 +2,11 @@
 
 ## Recently Commented Files
 <!-- BLOG-POST-LIST:START -->
+- [Update workflow to use &#39;main&#39; branch and actions version](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f704dfb7ddf2efc59f385ee235f1eac526b307f2)
+- [Update 2005-10-25-danny-bakers-afternoon-retreat.md](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/e4ef84244e5eaa1336fd9b007a7982b580c13087)
+- [Update 1996-10-11-paul gambaccini-love-letters.md, 1996-11-22-preciou…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/327f1cbaa04993b5427403afd944a19a1862201a)
+- [Updated with the latest blog posts](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/883d669e814b00c7827d8f8154d937cc11d36732)
 - [Change cron schedule for readme update workflow](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/f13a1a816010aa86d6941ab5026c84a6fc05c112)
-- [Update cron schedule for workflow cleanup](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/09b54bb37d9533eff9f81472c66bde61e81837f6)
-- [Change cron schedule for README update workflow](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/787acc69caeba56bd6814ba8af6da1fe5e505f39)
-- [Change cron schedule for workflow cleanup](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/6ccaa0b2ccfc8d5b7569f68094509bb4d505eeed)
-- [Update 1978-11-24-the-evening-times.md, 1979-11-26-the-evening-times.…](https://github.com/FanzOfLenaZavaroni/fanzoflenazavaroni.github.io/commit/1b659a5689634648297c97d814399e1d76233d36)
 <!-- BLOG-POST-LIST:END -->
 
 ## :notebook: Also read the wiki for examples of code used
