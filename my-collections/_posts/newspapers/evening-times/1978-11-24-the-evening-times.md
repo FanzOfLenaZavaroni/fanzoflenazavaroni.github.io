@@ -8,6 +8,7 @@ description: Article about Lena appearing at The Pavilion, Glasgow  on 24th 25th
 post_description: Article about Lena appearing at The Pavilion, Glasgow  on 24th 25th and 26th.
 categories: [Newspaper-Evening Times (rebranded as the Glasgow Times on 4 December 2019), OnThisDay24November]
 last_modified_at: 21 November 2026
+onthisdaylink: false
 ---
 
 <p>{{ page.post_description }}</p>
