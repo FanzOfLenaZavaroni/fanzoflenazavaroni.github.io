@@ -3,16 +3,19 @@ name: Delete all workflow runs
 on:
   workflow_dispatch:        # manual trigger
   schedule:
-    - cron: "0 20 * * 0"    # every Sunday at 20:00
+    - cron: "0 19 * * 0"    # every Sunday at 20:00
 
 jobs:
   cleanup:
     runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: read
     steps:
       - name: Delete all runs
-        uses: Rubber1Duck/delete-old-workflow-runs@v0.4.0
+        uses: Mattraks/delete-workflow-runs@v2.1.0
         with:
+          token: ${{ github.token }}
           repository: ${{ github.repository }}
-          older-than-seconds: 0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          retain_days: 0
+          keep_minimum_runs: 0
