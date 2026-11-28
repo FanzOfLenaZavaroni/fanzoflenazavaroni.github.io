@@ -4,7 +4,7 @@ title: Books
 maintitle: Books
 ---
 
-{% assign posts = site.categories["Books"] %}
+{% assign posts = site.categories["Books"] | reverse %}
 {% assign years = "" | split: "" %}
 
 {% for post in posts %}

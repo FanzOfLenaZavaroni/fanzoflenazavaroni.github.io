@@ -4,7 +4,7 @@ title: Biographies
 maintitle: Biographies
 ---
 
-{% assign posts = site.categories["Biography"] | sort: "date" %}
+{% assign posts = site.categories["Biography"] | sort: "title" | sort: "date" %}
 {% assign years = "" | split: "" %}
 
 {% for post in posts %}
